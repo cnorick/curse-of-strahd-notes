@@ -1,3 +1,3 @@
 ---
-LN amle human commoner
+LN male human commoner
 ---
