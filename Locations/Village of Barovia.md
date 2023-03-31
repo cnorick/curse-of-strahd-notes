@@ -5,7 +5,7 @@
 - Read:
 	> You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure hudled in rags, pushing a rickety wooden cart through the fog. The figure approaches the door of a nearby home and knocks
 - if approaching:
-- 
+	> You catch a delicious smell on the air. You see that the figure is an old lady
 - The players meet [[Morgantha]] selling her dream pastries
 	- She's in the guise of an old woman and has come from [[Old Bonegrinder]] to sell her pastries
 - The pastries cost 1gp each
