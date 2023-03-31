@@ -11,28 +11,11 @@
             "id": "fc0adb551436c637",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Morgantha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf12a5475dbf0f09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Templates/Character.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Misc/Templates/Character.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf12a5475dbf0f09",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.md",
     "Misc/Templates/Character.md",
+    "Untitled.md",
     "Characters/Morgantha.md",
     "Misc/Templates/Untitled.canvas",
     "Characters/Bildrath Cantemir.md",
