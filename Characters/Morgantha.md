@@ -13,6 +13,11 @@
 - Knows a little about everyone in the village
 	- because she has to keep track of her clients
 
+## What They Know
+
+
+## Stat Block
+
 ```statblock
 monster: Night Hag
 ```

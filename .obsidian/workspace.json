@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           }
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f67c15d213895fa8",
+  "active": "ca1e690bd3de4964",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
     "Locations/Village of Barovia.md",
+    "Characters/Morgantha.md",
     "Misc/Adventuring Gear.md",
     "Misc",
     "Bildrath Cantemir.md",
