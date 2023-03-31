@@ -11,21 +11,14 @@ Having a PC eat a pastry and immediately drop into sleep is a bit sudden for my 
 - If the PC has no more pie on their person or easily available (maybe in another PC's bag or something), they have disadvantage on all their skill checks until they acquire and eat more pie. You may actively tell them they have a hardcore craving for dream pie as well.
 	- If they go to sleep without having eaten dream pie, they have horrible nightmares that night.
 
--   Continuing Days After Only Eating Pie ONCE
-    
-    -   If a PC has literally only had a single helping of pie ever, the withdrawal will be much easier and shorter than for those who have had multiple helpings over the course of many days.
-        
-    -   Addiction Day 1 Happens, but the PC does not eat pie that day. The next day, the PC awakes from horrible nightmares. By noon, have them roll another con save, but with a DC of 4.
-        
-        -   On a success, the PC is no longer addicted and is alleviated of their disadvantage if they had any from the previous day.
-            
-        -   On a fail, the disadvantage on skill checks continues BUT DOES NOT WORSEN. They will again have nightmares that night, but wake the next day totally free of addiction, disadvantage included.
-            
+## Continuing Days After Only Eating Pie ONCE
+- If a PC has literally only had a single helping of pie ever, the withdrawal will be much easier and shorter than for those who have had multiple helpings over the course of many days.
+- Addiction Day 1 Happens, but the PC does not eat pie that day. The next day, the PC awakes from horrible nightmares. By noon, have them roll another con save, but with a DC of 4.
+	- On a success, the PC is no longer addicted and is alleviated of their disadvantage if they had any from the previous day.
+	- On a fail, the disadvantage on skill checks continues BUT DOES NOT WORSEN. They will again have nightmares that night, but wake the next day totally free of addiction, disadvantage included.
 
 # Becoming Addicted
-
--   Addiction Day 2
-    
+## Addiction Day 2
     -   If the PC ate a second helping of pie during Addiction Day 1, they wake the next day from yet another night of wonderful dreams. At this point, they are **addicted**. Yes, this is technically only 2 days. But 2 days in-game in dnd can be quite a bit of time, as we're all aware. It's going to feel like longer during actually game play.
         
     -   By about noon, have them roll another con save, but this time with a DC of 12.
