@@ -15,7 +15,8 @@
 
 ## What They Know
 #todo List the things she knows about everyone in town
-- Strahd
+- [[Strahd]] has mastery over the land and the weather, and his spies include the [[Vistani]]
+- There's a [[Vistani]] camp to the west, on the shores of [[Tser Pool]]
 
 ## Stat Block
 
