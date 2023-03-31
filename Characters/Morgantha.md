@@ -17,6 +17,7 @@
 #todo List the things she knows about everyone in town
 - [[Strahd]] has mastery over the land and the weather, and his spies include the [[Vistani]]
 - There's a [[Vistani]] camp to the west, on the shores of [[Tser Pool]]
+- [[Strahd]] has undead enemies in Barovia, namely the fallen knights of the [[Order of the Silver Dragon]]. These revenants can be found ina ruined mansion west of [[Vallaki]]
 
 ## Stat Block
 
