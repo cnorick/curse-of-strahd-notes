@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bildrath Cantemir.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -211,13 +211,14 @@
   },
   "active": "f67c15d213895fa8",
   "lastOpenFiles": [
-    "TODO.md",
+    "Characters/Bildrath Cantemir.md",
     "Locations/Village of Barovia.md",
+    "Session Notes",
+    "TODO.md",
     "Characters/Morgantha.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Adventuring Gear.md",
     "Misc",
-    "Bildrath Cantemir.md",
     "Locations/Death House.md",
     "Characters",
     "Campaign/Session 0.md",
