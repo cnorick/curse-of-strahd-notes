@@ -1,3 +1,5 @@
+
+
 This section describes [items](https://roll20.net/compendium/dnd5e/Southlands%20Player%27s%20Guide#h-items) that have [Special](https://roll20.net/compendium/dnd5e/Weapons#h-Special) rules or require further explanation.  
 **  
 [Acid](https://roll20.net/compendium/dnd5e/Acid#h-Acid)**: As an [action](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_20), you can splash the [Contents](https://roll20.net/compendium/dnd5e/Contents#h-Contents) of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a [ranged attack](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_36) against a creature or object, treating the acid as an [improvised weapon](https://roll20.net/compendium/dnd5e/Rules:Weapons?expansion=0#toc_14). On a hit, the target takes 2d6 [acid](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_50) [damage](https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=0#toc_46).  
