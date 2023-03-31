@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "19031b2496bcddb6",
+        "id": "d65fe1f43d9f59d4",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0adb551436c637",
+            "id": "a0770faff57b26df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Village of Barovia.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Village of Barovia.md"
+              }
             }
           }
         ]
@@ -139,8 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc0adb551436c637",
+  "active": "a0770faff57b26df",
   "lastOpenFiles": [
+    "Village of Barovia.pdf",
+    "Campaign/Session 0.md",
+    "Locations/Village of Barovia.md",
+    "Untitled.md",
     "Characters/Untitled.md",
     "s.md",
     "Misc/Templates/Character.md",
@@ -152,13 +164,11 @@
     "Misc/Templates",
     "TODO.md",
     "Locations/Death House.md",
-    "Locations/Village of Barovia.md",
     "Session Notes",
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Adventuring Gear.md",
     "Misc",
     "Characters",
-    "Campaign/Session 0.md",
     "Campaign",
     "Locations",
     "Characters",
