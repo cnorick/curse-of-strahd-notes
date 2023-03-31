@@ -4,61 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4555277781b0466a",
+        "id": "19031b2496bcddb6",
         "type": "tabs",
         "children": [
           {
-            "id": "dba2d1ebc6690e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Bildrath Cantemir.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e1deaf46121b868",
+            "id": "fc0adb551436c637",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Characters/Morgantha.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b094327f316afcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "242294c36ac905ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Adventuring Gear.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "fc0adb551436c637",
   "lastOpenFiles": [
-    "Misc/Templates",
+    "Misc/Templates/Untitled.canvas",
     "Characters/Bildrath Cantemir.md",
+    "Characters/Morgantha.md",
+    "Misc/Templates",
     "TODO.md",
     "Locations/Death House.md",
     "Locations/Village of Barovia.md",
     "Session Notes",
-    "Characters/Morgantha.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Adventuring Gear.md",
     "Misc",
