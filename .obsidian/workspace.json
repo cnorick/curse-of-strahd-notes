@@ -27,12 +27,25 @@
               "state": {
                 "file": "Bildrath Cantemir.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f67c15d213895fa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bildrath Cantemir.md",
+                "file": "Locations/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bildrath Cantemir.md",
+                "file": "Locations/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bildrath Cantemir.md"
+                "file": "Locations/Untitled.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dba2d1ebc6690e82",
+  "active": "f67c15d213895fa8",
   "lastOpenFiles": [
-    "Locations/Death House.md",
     "Bildrath Cantemir.md",
+    "Locations/Untitled.md",
+    "Locations/Death House.md",
     "Characters",
     "Campaign/Session 0.md",
     "TODO.md",
