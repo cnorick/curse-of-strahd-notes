@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Locations/Village of Barovia.md"
               }
             }
           }
@@ -209,11 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e1deaf46121b868",
+  "active": "f67c15d213895fa8",
   "lastOpenFiles": [
+    "Characters/Morgantha.md",
     "Locations/Village of Barovia.md",
     "Misc/Mechanics of Dream Pastries.md",
-    "Characters/Morgantha.md",
     "Misc/Adventuring Gear.md",
     "Misc",
     "Bildrath Cantemir.md",
