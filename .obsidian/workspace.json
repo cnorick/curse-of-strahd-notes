@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Misc/Templates/Character.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,11 +143,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc0adb551436c637",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Misc/Templates/Character.md",
+    "Characters/Untitled.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Misc/Templates/Character.md",
     "Characters/Morgantha.md",
     "Misc/Templates/Untitled.canvas",
     "Characters/Bildrath Cantemir.md",
