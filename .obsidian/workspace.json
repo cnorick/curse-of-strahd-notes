@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23323c2d9ca18c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Death House.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dba2d1ebc6690e82",
             "type": "leaf",
             "state": {
@@ -28,18 +16,6 @@
                 "file": "Characters/Bildrath Cantemir.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f67c15d213895fa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -82,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           }
@@ -209,17 +185,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f67c15d213895fa8",
+  "active": "8e1deaf46121b868",
   "lastOpenFiles": [
     "Characters/Bildrath Cantemir.md",
+    "TODO.md",
+    "Locations/Death House.md",
     "Locations/Village of Barovia.md",
     "Session Notes",
-    "TODO.md",
     "Characters/Morgantha.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Adventuring Gear.md",
     "Misc",
-    "Locations/Death House.md",
     "Characters",
     "Campaign/Session 0.md",
     "Campaign",
