@@ -8,7 +8,8 @@
 - If players check her and sense she's a feind:
 	- She sees a look on their face and asks what's wrong.
 	- If prodded:
-		- Her mother had a nasty encounter with a witch that left its stain on the whole family
+		- Tell horrible story about how mother had a nasty encounter with a witch that left its stain on the whole family (technically true)
+		- hidden truth: Morgantha devoured her mother when she was younger
 
 ```statblock
 monster: Night Hag
