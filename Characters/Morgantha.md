@@ -6,6 +6,9 @@
 	- in case players insight check her, there's nothing to hide
 - If players ask for her name: "Why it's Morgantha, dear. But everyone just calls me Granny. Morgantha is much to formal"
 - If players check her and sense she's a feind:
+	- She sees a look on their face and asks what's wrong.
+	- If prodded:
+		- Her mother had a nasty encounter with a witch that left its stain on the whole family
 
 ```statblock
 monster: Night Hag
