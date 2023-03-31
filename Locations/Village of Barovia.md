@@ -11,5 +11,6 @@
 - She has a small variety of pies (they don't have to be meat. Just contain kid parts like ground up bones)
 	- Meat pies, maple nut pies, and a hearty pie with a potato base
 	- if asked the type of meat:
-		> Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, deary! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!
-- The pastries cost 1gp each
+		> Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, dearie! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!
+- The pastries normally cost 1gp each
+	- but she will gift the party a pie to share for dinner (she won't take no for an answer)
