@@ -15,4 +15,6 @@
 - The pastries normally cost 1gp each
 	- but she will gift the party a pie to share for dinner (she won't take no for an answer)
 		- She waves the fee because they're new to Barovia and their journey into town must have been hard
-- When she explains why they're so expensei
+- When she explains why they're so expensive:
+	- it's a bit of magic her mother taught her before the witch killed her
+	- The pies bring the eaters only the sweetest of dreams, something poorly lacking in this dreary world
