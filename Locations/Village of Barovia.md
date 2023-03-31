@@ -14,3 +14,5 @@
 		> Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, dearie! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!
 - The pastries normally cost 1gp each
 	- but she will gift the party a pie to share for dinner (she won't take no for an answer)
+		- She waves the fee because they're new to Barovia and their journey into town must have been hard
+- When she explains why they're so expensei
