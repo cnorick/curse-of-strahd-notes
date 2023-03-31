@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "obsidian-5e-statblocks"
+  "obsidian-5e-statblocks",
+  "templater-obsidian",
+  "obsidian-hotkeys-for-templates"
 ]
