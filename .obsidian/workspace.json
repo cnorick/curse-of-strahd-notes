@@ -11,8 +11,12 @@
             "id": "fc0adb551436c637",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Templates/Character.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Misc/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Misc/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Misc/Templates/Character.md"
+              }
             }
           }
         ]
@@ -135,14 +143,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "fc0adb551436c637",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled 1.md",
     "Misc/Templates/Character.md",
-    "Untitled.md",
     "Characters/Morgantha.md",
     "Misc/Templates/Untitled.canvas",
     "Characters/Bildrath Cantemir.md",
