@@ -3,7 +3,7 @@
 [[Mechanics of Dream Pastries]]
 - Run this event when the players first leave Death House
 - Read:
-	> You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure hudled in rags, pushing a rickety wooden cart through the fog. The figure approaches the door of a nearby home and knocks
+	> You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure huddled in rags, pushing a rickety wooden cart through the fog. The figure approaches the door of a nearby home and knocks
 - if approaching:
 	> You catch a delicious smell on the air. You see that the figure is an old lady. She's just handed something to the person in the house, and he is thanking her profusely
 - The players meet [[Morgantha]] selling her dream pastries
