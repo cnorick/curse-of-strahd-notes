@@ -1,6 +1,8 @@
 {
   "files": [],
-  "templaterFiles": [],
+  "templaterFiles": [
+    "Character.md"
+  ],
   "newFileTemplates": [],
   "openNewFileTemplateInNewPane": true,
   "useNewFileTemplateOnFileCreation": false
