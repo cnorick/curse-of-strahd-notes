@@ -19,50 +19,30 @@ Having a PC eat a pastry and immediately drop into sleep is a bit sudden for my 
 
 # Becoming Addicted
 ## Addiction Day 2
-    -   If the PC ate a second helping of pie during Addiction Day 1, they wake the next day from yet another night of wonderful dreams. At this point, they are **addicted**. Yes, this is technically only 2 days. But 2 days in-game in dnd can be quite a bit of time, as we're all aware. It's going to feel like longer during actually game play.
-        
-    -   By about noon, have them roll another con save, but this time with a DC of 12.
-        
-        -   On a success, nothing happens. Their con save the next day will simply go back down to a DC 10 unless they voluntarily eat more pie, in which case it will go up to 12.
-            
-        -   On a fail, they once again find themselves suddenly eating more pie. If no pie is available, they have disadvantage on all skill checks until they eat more pie.
-            
--   Following Days of Addiction After MULTIPLE Helpings of Pie
-    
-    -   Each day the PC eats pie, their con save DC the following day will go up by 2, making it harder for them not to feel the effects of their addiction. This can continue to a maximum of DC 25.
-        
-    -   Each day the PC goes WITHOUT eating pie, their con save DC the next day will be reduced by 2, to a minimum of 4.
-        
-    -   Each day the PC goes without eating pie and is still addicted to pie and fails their con save, they get the following accumulative disadvantages:
-        
-        -   Day 1: Disadvantage on all skill checks
-            
-        -   Day 2: Disadvantage on all skill checks and saving throws
-            
-        -   Day 3: Disadvantage on all skill checks, saving throws, and attack rolls
-            
-    -   Eating pie at any point during this time will lift all disadvantages and increase the next day con save DC by 2.
-        
+- If the PC ate a second helping of pie during Addiction Day 1, they wake the next day from yet another night of wonderful dreams. At this point, they are **addicted**. Yes, this is technically only 2 days. But 2 days in-game in dnd can be quite a bit of time, as we're all aware. It's going to feel like longer during actually game play.
+- By about noon, have them roll another con save, but this time with a DC of 12.
+	- On a success, nothing happens. Their con save the next day will simply go back down to a DC 10 unless they voluntarily eat more pie, in which case it will go up to 12.
+	- On a fail, they once again find themselves suddenly eating more pie. If no pie is available, they have disadvantage on all skill checks until they eat more pie.
+- Following Days of Addiction After MULTIPLE Helpings of Pie
+- Each day the PC eats pie, their con save DC the following day will go up by 2, making it harder for them not to feel the effects of their addiction. This can continue to a maximum of DC 25.
+- Each day the PC goes WITHOUT eating pie, their con save DC the next day will be reduced by 2, to a minimum of 4.
+- Each day the PC goes without eating pie and is still addicted to pie and fails their con save, they get the following accumulative disadvantages:
+	- Day 1: Disadvantage on all skill checks
+	- Day 2: Disadvantage on all skill checks and saving throws
+	- Day 3: Disadvantage on all skill checks, saving throws, and attack rolls
+- Eating pie at any point during this time will lift all disadvantages and increase the next day con save DC by 2.
 
 # Getting Rid of Addiction
-
--   Con Save Success
-    
-    -   If a PC doesn't eat pie enough consecutive days, their con save DC will eventually drop to 4. If the PC succeeds on their DC 4 con save, they are no longer addicted.
-        
--   Going Cold Turkey
-    
-    -   If a player goes 7 consecutive in-game days without eating pie, they are no longer addicted. This happens regardless of their save DC amount and immediately alleviates any and all disadvantages they might have had as a result of their addiction.
-        
+- Con Save Success
+    - If a PC doesn't eat pie enough consecutive days, their con save DC will eventually drop to 4. If the PC succeeds on their DC 4 con save, they are no longer addicted.
+- Going Cold Turkey
+    - If a player goes 7 consecutive in-game days without eating pie, they are no longer addicted. This happens regardless of their save DC amount and immediately alleviates any and all disadvantages they might have had as a result of their addiction.
 
 # Relapse
-
 Should a former addict ever eat a Dream Pastry again, their starting con save DC will be 15 instead of 10.
 
 # Eating More than One Helping a Day
-
 Eating one pastry in a day or shoveling a whole wagon down in a couple hours does NOT effect addiction levels. The pies work in conjuncture with sleep and dreams, which of course only happens once a day and for a forced eight hour sleeping period. Essentially, a PC has either eaten or not eaten a pastry in-between the times of sleep.
 
 # Expiration Date
-
 Due to their magical properties, one dream pastry lasts ten in-game days before expiring and becoming too rancid to eat. If eaten anyway, the player is poisoned for 3 hours due to food poisoning and their addiction level is not effected.

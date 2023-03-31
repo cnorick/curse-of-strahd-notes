@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Locations/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Locations/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md"
+                "file": "Locations/Village of Barovia.md"
               }
             }
           }
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b094327f316afcd",
+  "active": "f67c15d213895fa8",
   "lastOpenFiles": [
-    "Locations/Village of Barovia.md",
     "Misc/Mechanics of Dream Pastries.md",
+    "Locations/Village of Barovia.md",
     "Characters/Morgantha.md",
     "Misc/Adventuring Gear.md",
     "Misc",
