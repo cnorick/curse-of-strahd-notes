@@ -50,8 +50,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Village of Barovia.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Locations/Village of Barovia.md"
               }
             }
           }
@@ -184,10 +185,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "ca1e690bd3de4964",
   "lastOpenFiles": [
-    "Locations/Village of Barovia.md",
     "Characters/Morgantha.md",
+    "Locations/Village of Barovia.md",
     "Bildrath Cantemir.md",
     "Locations/Death House.md",
     "Characters",
