@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "a0770faff57b26df",
   "lastOpenFiles": [
+    "Locations/Village of Barovia.md",
     "Village of Barovia.pdf",
     "Campaign/Session 0.md",
-    "Locations/Village of Barovia.md",
     "Untitled.md",
     "Characters/Untitled.md",
     "s.md",
