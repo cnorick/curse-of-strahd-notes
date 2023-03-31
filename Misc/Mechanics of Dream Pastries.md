@@ -1,20 +1,16 @@
 Having a PC eat a pastry and immediately drop into sleep is a bit sudden for my tastes. I wanted to make the pies a bit more subtle in their execution. In my mind, eating the pies is already like voluntarily failing a wisdom save, so there's no need for PCs to drop where they stand.
 
 ## The First Taste of Pie
--   When a player eats a pie, it doesn't effect them right off the bat. You may, if you wish, have them feel a bit drowsy. But it doesn't knock them out.
--   That night, they have wonderful happy dreams that are so realistic and wonderful, that waking up the next day leaves them feeling hallow. They sleep a full eight hours and cannot be woken while under the influence of the dream pastry.
+- When a player eats a pie, it doesn't effect them right off the bat. You may, if you wish, have them feel a bit drowsy. But it doesn't knock them out.
+- That night, they have wonderful happy dreams that are so realistic and wonderful, that waking up the next day leaves them feeling hallow. They sleep a full eight hours and cannot be woken while under the influence of the dream pastry.
+
 ## Addiction Day 1
-    
-    -   On the day they wake feeling so sad, by about noon, have the PC roll a DC 10 Con save.
-        
-        -   On a success, nothing happens.
-            
-        -   On a fail, the PC suddenly finds themselves eating more pie. Don't tell the player that they _have_ to take out the pie and eat it now. Just describe it happening so that the PC feels powerless in the act, much like a real addict might.
-            
-    -   If the PC has no more pie on their person or easily available (maybe in another PC's bag or something), they have disadvantage on all their skill checks until they acquire and eat more pie. You may actively tell them they have a hardcore craving for dream pie as well.
-        
-        -   If they go to sleep without having eaten dream pie, they have horrible nightmares that night.
-            
+- On the day they wake feeling so sad, by about noon, have the PC roll a DC 10 Con save.
+	- On a success, nothing happens.
+	- On a fail, the PC suddenly finds themselves eating more pie. Don't tell the player that they _have_ to take out the pie and eat it now. Just describe it happening so that the PC feels powerless in the act, much like a real addict might.
+- If the PC has no more pie on their person or easily available (maybe in another PC's bag or something), they have disadvantage on all their skill checks until they acquire and eat more pie. You may actively tell them they have a hardcore craving for dream pie as well.
+	- If they go to sleep without having eaten dream pie, they have horrible nightmares that night.
+
 -   Continuing Days After Only Eating Pie ONCE
     
     -   If a PC has literally only had a single helping of pie ever, the withdrawal will be much easier and shorter than for those who have had multiple helpings over the course of many days.
