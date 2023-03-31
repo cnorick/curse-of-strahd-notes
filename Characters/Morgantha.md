@@ -14,7 +14,8 @@
 	- because she has to keep track of her clients
 
 ## What They Know
-
+#todo List the things she knows about everyone in town
+- Strahd
 
 ## Stat Block
 
