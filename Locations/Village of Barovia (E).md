@@ -16,7 +16,8 @@
 - Glass of wine costs 1cp; pitcher: 1sp
 
 #### Vistani Owners
-- Three [[Vistani Spies]]
+- Three [[Vistani]] Spies (Alenka, Mirabel, and Sorvia) sit at a table near the door
+- 
 
 
 ## Events (p 48)
