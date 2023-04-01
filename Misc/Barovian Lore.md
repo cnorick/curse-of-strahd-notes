@@ -26,4 +26,7 @@
 ### Beliefs and Superstitions
 - Two divine forces watch over the Barovian people
 	- [[The Morninglord]] and [[Mother Night]]
-- Before the curse of [[Strahd Von Zarovich|Strahd]] befell the land, the [[The Morninglord]]
+- Before the curse of [[Strahd Von Zarovich|Strahd]] befell the land, the [[The Morninglord]] watched over the Barovians from sunrise until sundown
+	- Now, the sun has not shown unobscured for centuries
+	- [[The Morninglord]] no longer answers their prayers
+- The presence of [[Mo]]
