@@ -28,7 +28,8 @@
 - He invites the PCs to join him and offers to pay for their wine
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
-	- He wants the characters to escort her
+	- He wants the characters to escort her to [[Vallaki]]
+		- Beyond [[Castle Ravenloft]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
  - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 
 ## Burgomaster's Mansion (E4)
