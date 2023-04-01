@@ -46,7 +46,7 @@
 	- Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
 
 ### Burgomaster's Mansion (E4)
-> A weary-look
+> A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menca
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
