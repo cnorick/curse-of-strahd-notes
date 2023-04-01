@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c3ab4a18ec099b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Morgantha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0770faff57b26df",
+  "active": "0c3ab4a18ec099b9",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
+    "Characters/Bildrath Cantemir.md",
     "Locations/Village of Barovia.md",
+    "Characters/Morgantha.md",
     "Village of Barovia.pdf",
     "Campaign/Session 0.md",
     "Untitled.md",
@@ -160,7 +174,6 @@
     "Characters/foo.md",
     "Untitled 1.md",
     "Misc/Templates/Untitled.canvas",
-    "Characters/Bildrath Cantemir.md",
     "Misc/Templates",
     "TODO.md",
     "Locations/Death House.md",
