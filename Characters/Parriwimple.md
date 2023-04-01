@@ -7,4 +7,5 @@
 
 ```statblock
 monster: Gladiator
+traits
 ```
