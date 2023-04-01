@@ -53,7 +53,7 @@
  - [[Ireena Kolyana]] is inside and won't open the heavily-barred door to anyone unless she's convinced they don't have any allegiance to [[Strahd Von Zarovich|Strahd]]
 	- Can convince with good roleplaying or DC 15 Deception/Persuasion
 - After entering:
-	> The interior of the mansion is well
+	> The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor -- lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay.
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
