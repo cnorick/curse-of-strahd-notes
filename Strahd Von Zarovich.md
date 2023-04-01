@@ -1,4 +1,3 @@
 ---
-aliases:
-	- Strahd
+alias: [Strahd]
 ---

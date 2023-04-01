@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Parriwimple.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "838e2a00c1b38ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "838e2a00c1b38ad7",
+  "active": "a6efe92a65fe33ef",
   "lastOpenFiles": [
     "Strahd.md",
     "Misc/Barovian Lore.md",
