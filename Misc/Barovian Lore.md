@@ -15,4 +15,5 @@
 - Wolves, dire wolves, and werewolves prowls the [[Svalich Woods]], and hungry bats fill the skies at night
 - The [[Village of Barovia]] sits at the east end of the valley
 	- Its burgomaster is named [[Koylan Indirovich]]
- The forti
+ The fortified village of [[Krezk]] lies at the west endo f the valley and is built around an old abbey
+	 The village burgomaster is named [[Dmitri Krezkov]]
