@@ -13,7 +13,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - One who knowingly brings harm/misfortune to others of their kind are banished
 	- the worse punishment one can imagine
 
-## Lore
+## Vistani Lore
 ### [[Strahd Von Zarovich]]
 - Strahd comes from a royal bloodline
 	- He died centuries ago yet endures as one of the undead, feasting on the blood of the living
@@ -50,4 +50,9 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- It is the burden of the Vistani's great gift that their own fates can't be divined
 - Vistani curses are potent, but they are invoked with great caution
 - Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
-- Ravens carry lost souls within them, so killing one is bad 
+- Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry lost sols within)
+
+## Vistani Curses
+#todo 
+
+## Evil Eye
