@@ -29,4 +29,6 @@
 - Before the curse of [[Strahd Von Zarovich|Strahd]] befell the land, the [[The Morninglord]] watched over the Barovians from sunrise until sundown
 	- Now, the sun has not shown unobscured for centuries
 	- [[The Morninglord]] no longer answers their prayers
-- The presence of [[Mo]]
+- The presence of [[Mother Night]] is felt most strongly between dusk and dawn
+	- although her nighttime prayers go unanswered
+	- It is widely believed that she has forsaken  the Barovian people and sen
