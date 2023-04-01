@@ -3,7 +3,9 @@
 - She's lost in her sorrow and barely notices when anyone is around
 - She says nothing in the presence of anger
 
-## What they Want
+## What They Want
+
+
 ## What They Know
 [[Barovian Lore]]
 

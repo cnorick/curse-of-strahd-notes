@@ -8,6 +8,9 @@
 		- Unless you're able to befriend him
 - He's spent most of his adult life training with weapons in the hope of one day killing [[Strahd Von Zarovich|Strahd]]
 
+## What They Want
+- He wants his sister
+
 ## Notes
 - Try to avoid having him join the party. Combat becomes a bit tedious with him and Ireena.
 	- But if the party insists, we can work it out

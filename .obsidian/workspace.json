@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Templates/Character.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Templates/Character.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Templates/Character.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Templates/Character.md"
+                "file": "Characters/Ismark Kolyanovich.md"
               }
             }
           }
@@ -211,6 +211,7 @@
   "active": "87b1bba9684850ed",
   "lastOpenFiles": [
     "Mad Mary.md",
+    "Misc/Templates/Character.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Strahd Von Zarovich.md",
@@ -222,7 +223,6 @@
     "Locations/Old Svalich Road.md",
     "Misc/Barovian Lore.md",
     "Locations/Castle Ravenloft.md",
-    "Misc/Templates/Character.md",
     "Strahd.md",
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
