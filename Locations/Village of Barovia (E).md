@@ -38,7 +38,8 @@
 ### Mad Mary's Townhouse (E3)
 > A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse
 
-
+- The house is boarded up and barricaded from the inside
+	- DC
 
 ### Burgomaster's Mansion (E4)
 
