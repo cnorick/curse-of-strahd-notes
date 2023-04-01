@@ -12,7 +12,7 @@
 - There are a few people huddled within
 	- Three Vistani sitting together (see [[#Vistani Owners]])
 	- [[Arik Lorensk|Arik the Barkeep]] tending bar
-	- [[Ismark Kolyanovich]] sitting by himself and sipping wine
+	- [[Ismark Kolyanovich]] sitting by himself and sipping wine (see [[#Meeting Ismark]])
 - Glass of wine costs 1cp; pitcher: 1sp
 
 #### Vistani Owners
@@ -24,6 +24,9 @@
 	- If they come with other [[Vistani]], they are more likely to engage in conversation and share info (see [[Vistani#Vistani Lore|Vistani Lore]])
 - They tell the characters they should visit [[Madam Eva]]
 
+#### Meeting Ismark
+- He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
+- He invites the PCs to join him and offers to pay for their wine
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
