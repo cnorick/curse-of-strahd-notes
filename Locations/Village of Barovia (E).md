@@ -1,10 +1,11 @@
 ## Locations
-### Bildrath's Mercantile
+### Bildrath's Mercantile (E1)
 > The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile"
 - [[Bildrath Cantemir]] owns the building
 - He sells items less than 25gp from the [[Adventuring Gear]] table or 10x the price
 - He has no competition in the village
 
+### 
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
