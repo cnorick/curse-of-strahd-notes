@@ -24,9 +24,9 @@
 	- If they come with other [[Vistani]], they are more likely to engage in conversation and share info (see [[Vistani#Vistani Lore|Vistani Lore]])
 - They tell the characters they should visit [[Madam Eva]]
 
-#### Meeting [[Ismark Kolyanovich|Ismark]
+#### Meeting [[Ismark Kolyanovich|Ismark]]
 - He invites the PCs to join him and offers to pay for their wine
-- [[Strahd Von Zarovich|Strahd]] has been coming for [[Ireena Kolyana|Ireena]]
+- [[Strahd Von Zarovich|Strahd]] has been coming for [[Ireena Kolyana|Ireena]] (see [[Strahd Von Zarovich#Turn Ireena Kolyana|Turn Ireena Kolyana]])
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
 	- He wants the characters to escort her to [[Vallaki]]
