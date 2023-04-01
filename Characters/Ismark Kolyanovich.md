@@ -10,7 +10,9 @@
 - Honest to a fault
 - Kind, but seems perpetually exhausted
 - He's desperate when we first meet him
-	- {His father has died and his sister is being}
+	- {His father has died and his sister is in danger}
+	- So he's willing to settle for little in terms of help
+- He openly admit
 
 ## What They Want
 - He wants his sister to be safe from Strahd
