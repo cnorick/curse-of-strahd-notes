@@ -5,6 +5,8 @@
 	- But will talk haltingly to someone who is gentle
 
 ## What They Want
+- Mary hid her beloved daughter, [[Gertruda]] in this house for her entire life
+- She broke out
 
 
 ## What They Know
