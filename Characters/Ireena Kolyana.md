@@ -31,7 +31,7 @@ alias: Ireena
 
 ## Notes
 - If a player dies, an option would be to let them play Ireena since she will follow the group most of the game
-	- 
+	- For ambitious players, I can hand her over to play as well as their own character
 
 ## Relations
 brother: [[Ismark Kolyanovich]]
