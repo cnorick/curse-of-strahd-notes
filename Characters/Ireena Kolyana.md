@@ -8,6 +8,10 @@ alias: Ireena
 	- because of this: the villagers are afraid of her and avoid her
 - She appears mild
 	- but has a strong will, and she aids the party as best she can in saving herself
+- She is one of the few truly good people in the game
+- has a stubborn streak
+- loves discovering new things
+- honestly w
 
 ## What They Want
 - She wants the characters to bury her father 
@@ -35,7 +39,7 @@ alias: Ireena
 ## Notes
 - [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game
 	- For ambitious players, I can hand her over to play as well as their own character
-- You could consider not making her Izek's sister
+- You could consider not making her Izek's sister, but instead one of the PCs
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
