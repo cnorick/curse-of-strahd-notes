@@ -33,6 +33,8 @@
 		- Beyond [[Castle Ravenloft]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
 - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
+ - He's heard that [[Vallaki]] is well defended
+ 
 
 ## Burgomaster's Mansion (E4)
 ## Events (p 48)
