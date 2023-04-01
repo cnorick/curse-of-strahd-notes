@@ -32,5 +32,8 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
  - The [[Old Svalich Road]] passes through Strahd's domain
 	 - Three settlements lie on the road like beads on a string
 		 - [[Krezk]] to the west
-		 - [[Vallaki]] in the heart of the valley, and [[Village of Barovia|Barovia]] to the east
-		 - Stra
+		 - [[Vallaki]] in the heart of the valley
+		 - [[Village of Barovia|Barovia]] to the east
+		 - Strahd has spies in each settlement
+- There's an old windmill ([[Old Bonegrinder]]) on the road between the [[Village of Barovia]] and  the town of [[Vallaki]]
+	- It should be avoided at all costs
