@@ -41,4 +41,8 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods]]
 
 ### Beliefs and Superstitions
-- The souls of those who die in Barovia can't escape to 
+- The souls of those who die in Barovia can't escape to the afterlife
+	- They are prisoners of STrahd's domain
+- Some Vistni women are blessed with prescience
+	- Of all the great Vistani fortune-tellers, none compares to [[Madam Eva]]
+	- If knowledge of the future is what you se
