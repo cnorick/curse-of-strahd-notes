@@ -9,7 +9,9 @@ alias: Ireena
 - She appears mild
 	- but has a strong will, and she aids the party as best she can in saving herself
 - She doesn't remember her early past
-- She doesn't know
+- She doesn't know how she came to Barovia or where she came from
+- Her encounters with [[Strahd Von Zarovich|Strahd]] are fuzzy memories (because of his vampiric charm)
+	- She remembers 
  
 
 ## What They Want
