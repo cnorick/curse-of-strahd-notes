@@ -7,6 +7,7 @@ alias: Parpol Cantemir
 - His muscles ripple beneath his leather tunic
 - He's simple minded
 - He's devoted to his uncle, and won't follow the PCs if his uncle doesn't want him to
+![[Parriwimple]]
 ## What They Know
 ## Relations
 - [[Bildrath Cantemir]]'s nephew
