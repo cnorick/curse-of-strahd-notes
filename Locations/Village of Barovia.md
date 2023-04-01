@@ -1,5 +1,7 @@
 ## Locations
 ### Bildrath's Mercantile
+> The sparse light from this building spills out from behind drawn heavy curatains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile"
+
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 
