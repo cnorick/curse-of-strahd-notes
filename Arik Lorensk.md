@@ -1,5 +1,9 @@
+---
+alias: Arik the Barkeep
+---
 (CE male human commoner)
-## Playing Arik the Barkeep
+## Playing Arik
+- Pudgy little man
 ## What They Know
 [[Barovian Lore]]
 ## Relations

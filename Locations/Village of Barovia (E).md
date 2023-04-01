@@ -11,7 +11,7 @@
 - Sign used to read "Blood of the Vine", but the f was scratched over
 - There are a few people huddled within
 	- Three Vistani sitting together (see [[#Vistani Owners]])
-	- [[Arik the Barkeep]]
+	- [[Arik Lorensk]]
 	- [[Ismark Kolyanovich]]
 
 #### Vistani Owners
