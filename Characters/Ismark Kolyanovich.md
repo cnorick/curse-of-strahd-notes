@@ -7,7 +7,10 @@
 	- But he's pretty tight-lipped when talking about anything else
 		- Unless you're able to befriend him
 - He's spent most of his adult life training with weapons in the hope of one day killing [[Strahd Von Zarovich|Strahd]]
-- Honest to 
+- Honest to a fault
+- Kind, but seems perpetually exhausted
+- He's desperate when we first meet him
+	- {His father has died and his sister is being}
 
 ## What They Want
 - He wants his sister to be safe from Strahd
