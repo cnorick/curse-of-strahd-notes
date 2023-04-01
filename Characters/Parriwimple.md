@@ -1,4 +1,4 @@
-(NE human)
+(LG male human)
 ## Playing Parriwimple
 ## What They Know
 ## Relations
@@ -6,5 +6,5 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: Gladiator
 ```
