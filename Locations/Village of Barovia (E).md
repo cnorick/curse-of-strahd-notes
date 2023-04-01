@@ -35,9 +35,13 @@
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
  - He's heard that [[Vallaki]] is well defended
 
- ##
+### Mad Mary's Townhouse (E3)
+> A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse
+
+
 
 ### Burgomaster's Mansion (E4)
+
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 
