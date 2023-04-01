@@ -60,8 +60,7 @@
 ### Church (E5)
 
 ### Cemetery (E6)
-> A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of sould long passed. All seems quiet.
-
+> A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
