@@ -7,4 +7,6 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- they tell fortunes and sell info
 - Each family/clan is a little gerontocracy
 - Each clan is closely knit
-- They resolve disagreements through 
+- They resolve disagreements through contests that end with reconciliatory singing, dancing, and storytelling
+- They act quick when their lives or traditions are threatened
+- They are merciless when they believe they must be
