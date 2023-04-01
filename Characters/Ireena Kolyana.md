@@ -8,11 +8,6 @@ alias: Ireena
 	- because of this: the villagers are afraid of her and avoid her
 - She appears mild
 	- but has a strong will, and she aids the party as best she can in saving herself
-- She doesn't remember her early past
-- She doesn't know how she came to Barovia or where she came from
-- Her encounters with [[Strahd Von Zarovich|Strahd]] are fuzzy memories (because of his vampiric charm)
-	- She remembers 
- 
 
 ## What They Want
 - The PCs are her best hope at protection
@@ -20,6 +15,11 @@ alias: Ireena
 
 ## What They Know
 [[Barovian Lore]]
+- She doesn't remember her early past
+- She doesn't know how she came to Barovia or where she came from
+- Her encounters with [[Strahd Von Zarovich|Strahd]] are fuzzy memories (because of his vampiric charm)
+	- She remembers the blazing hunger in his eyes
+ - wo
 
 ## Relations
 brother: [[Ismark Kolyanovich]]
