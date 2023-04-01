@@ -7,9 +7,10 @@ alias: Arik the Barkeep
 - He mindlessly cleans glasses one after another
 	- When they're all clean, he starts over
 - He takes orders for drinks in a dull, hollow voice
-- He ignores all questsi
+- He ignores all questions
+
 ## What They Know
-[[Barovian Lore]]
+- Doesn't answer questions
 ## Relations
 ## Stat Block
 

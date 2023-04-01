@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arik Lorensk.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arik Lorensk.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arik Lorensk.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -172,10 +171,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c11299384acb6d85",
+  "active": "df9cdcca4093787e",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Arik Lorensk.md",
+    "Locations/Village of Barovia (E).md",
     "Custom Monsters",
     "Misc/Vistani.md",
     "Characters/Bildrath Cantemir.md",
