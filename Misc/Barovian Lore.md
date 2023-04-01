@@ -12,5 +12,7 @@
 - Anyone who attempts to leave the land of Barovia begins to choke on the fog
 	- Those who don't turn back perish
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long
-- Wolves, dire wolves, and werewolves prowls the Svalich Woods, and hugry bats fill the skies at night
-- The [[Village of Barovia]] sit
+- Wolves, dire wolves, and werewolves prowls the [[Svalich Woods]], and hungry bats fill the skies at night
+- The [[Village of Barovia]] sits at the east end of the valley
+	- Its burgomaster is named [[Koylan Indirovich]]
+ The forti
