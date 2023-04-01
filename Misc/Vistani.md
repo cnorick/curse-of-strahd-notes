@@ -42,7 +42,9 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 
 ### Beliefs and Superstitions
 - The souls of those who die in Barovia can't escape to the afterlife
-	- They are prisoners of STrahd's domain
-- Some Vistni women are blessed with prescience
+	- They are prisoners of Strahd's domain
+- Some Vistani women are blessed with prescience
 	- Of all the great Vistani fortune-tellers, none compares to [[Madam Eva]]
-	- If knowledge of the future is what you se
+	- If knowledge of the future is what you seek, [[Madam Eva]] will tell you your fate
+- A prescient Vistana can't see her own future or the future of another Vistana
+	- It is the burden of the Vistani's great gift that their own fates can't be divined
