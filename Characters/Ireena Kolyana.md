@@ -10,8 +10,9 @@ alias: Ireena
 	- but has a strong will, and she aids the party as best she can in saving herself
 
 ## What They Want
+- She wants the characters to bury her father 
 - The PCs are her best hope at protection
-	- so she's willing to accompany them under certain conditions
+	- so she's willing to accompany them if they bury her father
 
 ## What They Know
 [[Barovian Lore]]
@@ -23,7 +24,7 @@ alias: Ireena
 	- The burgomaster's heart couldn't stand the constant assault
 		- he died 3 days ago
 		- since then, there have been no more attacks
-- No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Kol]]
+- No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
 
 ## Relations
 brother: [[Ismark Kolyanovich]]
