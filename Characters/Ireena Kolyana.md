@@ -19,7 +19,10 @@ alias: Ireena
 - She doesn't know how she came to Barovia or where she came from
 - Her encounters with [[Strahd Von Zarovich|Strahd]] are fuzzy memories (because of his vampiric charm)
 	- She remembers the blazing hunger in his eyes
- - wo
+ - Wolves and creatures attacked the house night after night for weeks
+	 - The burgomaster's heart couldn't stand the constant assault
+		 - he died 3 days ago
+		 - since then, ther have been no more attacks
 
 ## Relations
 brother: [[Ismark Kolyanovich]]
