@@ -28,7 +28,8 @@
 - He invites the PCs to join him and offers to pay for their wine
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
- - He knows moving [[Ireena Kolyana]]
+	- He wants the characters to escort her
+ - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 
 ## Burgomaster's Mansion (E4)
 ## Events (p 48)

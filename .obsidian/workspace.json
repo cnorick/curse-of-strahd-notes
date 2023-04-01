@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ireena Kolyana.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arik Lorensk.md",
+                "file": "Characters/Arik Lorensk.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ireena Kolyana.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -196,12 +195,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "df9cdcca4093787e",
   "lastOpenFiles": [
+    "Characters/Ireena Kolyana.md",
     "Locations/Village of Barovia (E).md",
-    "Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Arik Lorensk.md",
+    "Characters/Arik Lorensk.md",
     "Custom Monsters",
     "Misc/Vistani.md",
     "Characters/Bildrath Cantemir.md",
