@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "df9cdcca4093787e",
   "lastOpenFiles": [
-    "Characters/Ireena Kolyana.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Arik Lorensk.md",
     "Custom Monsters",
