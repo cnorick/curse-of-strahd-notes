@@ -48,3 +48,6 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- If knowledge of the future is what you seek, [[Madam Eva]] will tell you your fate
 - A prescient Vistana can't see her own future or the future of another Vistana
 	- It is the burden of the Vistani's great gift that their own fates can't be divined
+- Vistani curses are potent, but they are invoked with great caution
+- Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
+- Ravens carry lost souls within them, so killing one is bad 
