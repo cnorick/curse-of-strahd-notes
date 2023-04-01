@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Strahd Von Zarovich.md",
+                "file": "Misc/Barovian Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strahd Von Zarovich.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strahd Von Zarovich.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strahd Von Zarovich.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -185,12 +185,12 @@
   },
   "active": "a6efe92a65fe33ef",
   "lastOpenFiles": [
+    "Characters/Strahd Von Zarovich.md",
+    "Misc/Templates/Character.md",
+    "Characters/Bildrath Cantemir.md",
     "Strahd.md",
     "Misc/Barovian Lore.md",
-    "Strahd Von Zarovich.md",
     "Characters/Parriwimple.md",
-    "Characters/Bildrath Cantemir.md",
-    "Misc/Templates/Character.md",
     "Locations/Village of Barovia.md",
     "Misc/Adventuring Gear.md",
     "Characters/Morgantha.md",
