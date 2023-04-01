@@ -10,3 +10,5 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - They resolve disagreements through contests that end with reconciliatory singing, dancing, and storytelling
 - They act quick when their lives or traditions are threatened
 - They are merciless when they believe they must be
+- One who knowingly brings harm/misfortune to others of their kind are banished
+	- the worse punishment one can imagine
