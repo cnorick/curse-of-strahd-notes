@@ -10,7 +10,9 @@
 
 - Sign used to read "Blood of the Vine", but the f was scratched over
 - There are a few people huddled within
-- Three Vistani sitting together
+	- Three Vistani sitting together
+	- Bartender [[Arik the Barkeep]]
+	- [[Ismark Kolyanovich]]
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
