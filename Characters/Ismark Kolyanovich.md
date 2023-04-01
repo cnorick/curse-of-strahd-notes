@@ -15,7 +15,9 @@
 
 ## What They Know
 [[Barovian Lore]]
-- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted 
+- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
+- [[Ireena Kolyana|Ireena]] is vulnerable outside of their house
+- If
 
 ## Relations
 - Father: [[Koylan Indirovich]]
