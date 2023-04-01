@@ -17,3 +17,6 @@
 	- Its burgomaster is named [[Koylan Indirovich]]
 - The fortified village of [[Krezk]] lies at the west endo f the valley and is built around an old abbey
 	 The village burgomaster is named [[Dmitri Krezkov]]
+- Wine is the lifeblood of Barovia
+	- For some it is the only reason to keep living
+	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Krez]]
