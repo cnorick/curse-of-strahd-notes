@@ -25,4 +25,8 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 ### The Land of Barovia
 - Strahd conquered this land centuries ago and named it after his father [[King Barov]]
 	- Strahd uses wolves, bats, and other creatures to spy on all of his realm
-- 
+- Barovians are simple, frightened people
+	- Some have old souls, but many do not
+	- The soulless ones are easy to spot, for they know nothing but fear
+	- They have no charm, hope, or spark, and they don't cry
+ - The [[Old Svalich Road]] passes through Strah
