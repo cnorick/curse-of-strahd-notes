@@ -5,7 +5,8 @@
 - He sells items less than 25gp from the [[Adventuring Gear]] table or 10x the price
 - He has no competition in the village
 
-### 
+### Blood of the Vine Tavern (E2)
+> A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
