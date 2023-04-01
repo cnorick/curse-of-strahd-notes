@@ -30,14 +30,15 @@ alias: Ireena
 - No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
 
 ## Secrets
-- She
+- She is the blood sister of [[Izek Strazni]], but neither of them know it
 
 ## Notes
 - [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game
 	- For ambitious players, I can hand her over to play as well as their own character
+- You could consider not making her Izek's sister
 
 ## Relations
-brother: [[Ismark Kolyanovich]]
+adopted brother: [[Ismark Kolyanovich]]
 father: [[Koylan Indirovich]]
 
 ## Stat Block
