@@ -29,8 +29,11 @@ alias: Ireena
 		- since then, there have been no more attacks
 - No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
 
+## Secrets
+- She
+
 ## Notes
-- If a player dies, an option would be to let them play Ireena since she will follow the group most of the game
+- [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game
 	- For ambitious players, I can hand her over to play as well as their own character
 
 ## Relations
