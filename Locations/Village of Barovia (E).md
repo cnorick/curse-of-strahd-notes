@@ -41,6 +41,8 @@
 - The house is boarded up and barricaded from the inside
 	- DC 15 athletics check to open a door
 - [[Mad Mary]] sits in the center of the floor in an upstairs bedroom clutching a malformed doll
+- If inspected:
+	- The doll has a strange leer and wears a sackcloth dress
 
 ### Burgomaster's Mansion (E4)
 

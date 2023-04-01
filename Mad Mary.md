@@ -12,9 +12,11 @@
 
 ## What They Know
 [[Barovian Lore]]
+- The doll she
 
 ## Relations
-Daughter
+Daughter: [[Gertruda]]
+
 ## Stat Block
 
 ```statblock
