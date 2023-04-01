@@ -32,7 +32,7 @@
 - If the party shows him their letter from the hook, he knows it's not his father's handwriting
 - In the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|tavern]] and asked, he says they're [[Vistani]] spies
 	- His prejudice is apparent
--  
+- Doesn't know why [[Ireena Kolyana|Ireena]] is special to [[Strahd Von Zarovich|Strahd]]
 
 ## Relations
 - Father: [[Koylan Indirovich]]

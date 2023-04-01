@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           }
@@ -220,12 +220,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4939d62513b4190e",
+  "active": "4a6a55b6b2182a9b",
   "lastOpenFiles": [
+    "Characters/Ismark Kolyanovich.md",
     "Characters/Ireena Kolyana.md",
     "Locations/Village of Barovia (E).md",
     "Mad Mary.md",
-    "Characters/Ismark Kolyanovich.md",
     "Misc/Templates/Character.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Arik Lorensk.md",
