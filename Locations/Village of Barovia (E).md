@@ -8,6 +8,7 @@
 ### Blood of the Vine Tavern (E2)
 > A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 
+- Sign used to read "Blood of the Vine", but the f was scratched over
 - 
 
 ## Events (p 48)
