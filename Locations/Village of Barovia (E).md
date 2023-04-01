@@ -12,10 +12,12 @@
 - There are a few people huddled within
 	- Three Vistani sitting together (see [[#Vistani Owners]])
 	- [[Arik Lorensk|Arik the Barkeep]] tending bar
-	- [[Ismark Kolyanovich]]
+	- [[Ismark Kolyanovich]] sitting by 
 - Glass of wine costs 1cp; pitcher: 1sp
 
 #### Vistani Owners
+- Remember to describe how flamboyant they are
+	- Draw a line to the guy that delivered the letter
 - Three [[Vistani]] Spies (Alenka, Mirabel, and Sorvia) sit at a table near the door
 - They own the tavern and see that customers pay their tabs
 - They show little interest in the characters
