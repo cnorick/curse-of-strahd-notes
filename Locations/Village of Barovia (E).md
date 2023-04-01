@@ -25,9 +25,11 @@
 - They tell the characters they should visit [[Madam Eva]]
 
 #### Meeting Ismark
-- He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 - He invites the PCs to join him and offers to pay for their wine
+- He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
+	- If they agree, he takes them to the burgomaster's residence
 
+## Burgomaster's Mansion (E4)
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 
