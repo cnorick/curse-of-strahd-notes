@@ -51,6 +51,9 @@
 - CD 11 Perception -> can discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints
 	- (the prints were made by zombies and ghouls under [[Strahd Von Zarovich|Strahd]]'s control)
  - [[Ireena Kolyana]] is inside and won't open the heavily-barred door to anyone unless she's convinced they don't have any allegiance to [[Strahd Von Zarovich|Strahd]]
+	- Can convince with good roleplaying or DC 15 Deception/Persuasion
+- After entering:
+	> The interior of the mansion is well
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
