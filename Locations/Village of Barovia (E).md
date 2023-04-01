@@ -56,7 +56,9 @@
 - After entering:
 	> The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor -- lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay.
 - [[Ismark Kolyanovich]] and [[Ireena Kolyana|Ireena]] made the coffin themselves
-- [[Ismark Kolyanovich|Ismark]] will offer 50gp to the PCs if they escort Ireena to safe
+- [[Ismark Kolyanovich|Ismark]] will offer 50gp to the PCs if they escort Ireena to safety
+	- {Not necessarily [[Vallaki]], but wherever she's safe}
+	- He will suggest [[Val]]
 
 ### Church (E5)
 
