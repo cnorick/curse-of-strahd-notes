@@ -7,5 +7,5 @@
 
 ```statblock
 monster: Gladiator
-stats: [0, 0, 0, 0, 0, 0]
+stats: [, 0, 0, 0, 0, 0]
 ```
