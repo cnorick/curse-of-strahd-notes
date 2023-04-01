@@ -1,0 +1,1 @@
+The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons, which they build themselves

@@ -36,4 +36,4 @@
 	- These phantoms are all that remain of [[Strahd Von Zarovich|Strahd]]'s enemies, and this damnable fate awaits anyone who opposes him
 - The [[Vistani]] serve the devil [[Strahd Von Zarovich|Strahd]]
 	- They alone are allowed to leave Barovia
-- 
+- Never harm a raven, lest ill fortune befall you
