@@ -11,7 +11,9 @@ alias: Ireena
 - She is one of the few truly good people in the game
 - has a stubborn streak
 - loves discovering new things
-- honestly w
+- honestly wants to help those in need
+- She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
+	- She actively works to avoid him
 
 ## What They Want
 - She wants the characters to bury her father 
