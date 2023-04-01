@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Village of Barovia.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,17 +220,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64757ffbad00cce5",
+  "active": "41273d1d5ed0d6b0",
   "lastOpenFiles": [
-    "Locations/Castle Ravenloft.md",
-    "Misc/Vistani.md",
     "Misc/Barovian Lore.md",
+    "Locations/Village of Barovia.md",
+    "Misc/Vistani.md",
+    "Locations/Castle Ravenloft.md",
     "Misc/Templates/Character.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Strahd Von Zarovich.md",
     "Strahd.md",
     "Characters/Parriwimple.md",
-    "Locations/Village of Barovia.md",
     "Misc/Adventuring Gear.md",
     "Characters/Morgantha.md",
     "Village of Barovia.pdf",
