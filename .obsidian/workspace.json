@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4939d62513b4190e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ismark Kolyanovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c11299384acb6d85",
             "type": "leaf",
             "state": {
@@ -173,8 +185,9 @@
   },
   "active": "df9cdcca4093787e",
   "lastOpenFiles": [
-    "Arik Lorensk.md",
+    "Ismark Kolyanovich.md",
     "Locations/Village of Barovia (E).md",
+    "Arik Lorensk.md",
     "Custom Monsters",
     "Misc/Vistani.md",
     "Characters/Bildrath Cantemir.md",
