@@ -11,7 +11,7 @@ alias: Strahd
 - His courtship has led him to visit her twice
 	- both times, he charmed his way into her home and drank her blood
 - He intends to kill her at their next meeting
-	- and turn her into a vampire spawn consort
+	- and turn her into his vampire spawn consort
 
 ### Find [[Rudolph Van Richten]]
 #todo 

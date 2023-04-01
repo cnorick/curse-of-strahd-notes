@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -195,11 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df9cdcca4093787e",
+  "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Locations/Village of Barovia (E).md",
     "Characters/Arik Lorensk.md",
     "Custom Monsters",
     "Misc/Vistani.md",
@@ -208,7 +210,6 @@
     "Misc/Barovian Lore.md",
     "Locations/Castle Ravenloft.md",
     "Misc/Templates/Character.md",
-    "Characters/Strahd Von Zarovich.md",
     "Strahd.md",
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
