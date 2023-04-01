@@ -27,6 +27,7 @@ alias: Ismark
 - Try to avoid having him join the party. Combat becomes a bit tedious with him and Ireena.
 	- But if the party insists, we can work it out
 	- The book says he agrees to go if the party takes Ireena to somewhere safe first
+	- The excuse can be that since his father is dead, someone needs to govern
 
 ## What They Know
 [[Barovian Lore]]

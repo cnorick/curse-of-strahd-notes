@@ -58,7 +58,7 @@
 - [[Ismark Kolyanovich]] and [[Ireena Kolyana|Ireena]] made the coffin themselves
 - [[Ismark Kolyanovich|Ismark]] will offer 50gp to the PCs if they escort Ireena to safety
 	- {Not necessarily [[Vallaki]], but wherever she's safe}
-	- He will suggest [[Val]]
+	- He will suggest [[Vallaki]] though
 
 ### Church (E5)
 
