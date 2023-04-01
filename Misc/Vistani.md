@@ -12,3 +12,9 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - They are merciless when they believe they must be
 - One who knowingly brings harm/misfortune to others of their kind are banished
 	- the worse punishment one can imagine
+
+## Lore
+### [[Strahd Von Zarovich]]
+- Strahd comes from a royal bloodline
+	- He died centuries ago yet endures as one of the undead, feasting on the blood of the living
+	- Barovians refer to him as "the devil"
