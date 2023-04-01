@@ -9,7 +9,8 @@
 - He's spent most of his adult life training with weapons in the hope of one day killing [[Strahd Von Zarovich|Strahd]]
 
 ## What They Want
-- He wants his sister
+- He wants his sister to be safe from Strahd
+	- Beyond that, he wants Strahd dead
 
 ## Notes
 - Try to avoid having him join the party. Combat becomes a bit tedious with him and Ireena.

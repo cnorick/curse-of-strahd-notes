@@ -2,6 +2,7 @@
 ## Playing Mad Mary
 - She's lost in her sorrow and barely notices when anyone is around
 - She says nothing in the presence of anger
+	- But will talk haltingly to someone who is gentle
 
 ## What They Want
 
