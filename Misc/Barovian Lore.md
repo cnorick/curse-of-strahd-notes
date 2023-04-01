@@ -19,4 +19,8 @@
 	 The village burgomaster is named [[Dmitri Krezkov]]
 - Wine is the lifeblood of Barovia
 	- For some it is the only reason to keep living
-	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Krez]]
+	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Krezk]]
+- A mad wizard of great power haunts the foothills of [[Mount Baratok]]
+	- He is an outsider and no friend of the vampires
+
+### Beliefs and Superstitions
