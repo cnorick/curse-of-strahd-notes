@@ -11,6 +11,7 @@ alias: Ireena
 
 ## What They Want
 - She wants the characters to bury her father 
+	- She refuses to go anywhere "while the burgomaster lies dead on the mansion floor"
 - The PCs are her best hope at protection
 	- so she's willing to accompany them if they bury her father
 
