@@ -10,8 +10,8 @@
 
 - Sign used to read "Blood of the Vine", but the f was scratched over
 - There are a few people huddled within
-	- Three Vistani sitting together
-	- Bartender [[Arik the Barkeep]]
+	- Three Vistani sitting together (see [[Vistani Owners]])
+	- [[Arik the Barkeep]]
 	- [[Ismark Kolyanovich]]
 
 ## Events (p 48)
