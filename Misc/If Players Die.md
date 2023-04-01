@@ -5,7 +5,7 @@
 3. Let them play an NPC
 	- [[Ireena Kolyana]] will follow the group for a long time
 
-## A Player Character as Ireena
+## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.
 - Ireena is the object of Strahd's desires; a reincarnation of his lost love that he can never obtain. That is literally Ireena's only function in the narrative of this campaign. Everything else about her is just fluff and character development.
 - If you've got a player that wants to play a human female, give her this function. Here's how to adapt her for the role:
@@ -14,8 +14,6 @@
     - Her Personality: Ireena's personality as an NPC is already up for interpretation. So however your PC wants to portray her should be fine.
 - Her Backstory
     - If the PC grew up somewhere other than Barovia, maybe a Vistana smuggled her out of Barovia as a baby and she has no idea. Maybe her birth name is in fact Ireena, but she just doesn't know it.
-    -   If she comes with a pretty homey backstory, try to work with your player so that her character is a bit of a shut in. She's stayed pretty locked up in her house in the Village of Barovia and so doesn't know very much about the rest of the dimension. Beyond the simple names of towns, she's quite ignorant. When the evil king Strahd came to her doorstep, she fled into the Svalich woods.
-        
-    -   If she's from Barovia, she gets lost in the woods and stumbles on the rest of the party as the mist draws them in. They then go to Death House together.
-        
--   Overall, having a PC take the role of Ireena in the campaign will put a lot more shock value on the narrative. Strahd's pursuit won't just be for a random NPC, but for another player. And players are way more important in dnd and automatically built a faster relationships with the other players.
+    - If she comes with a pretty homey backstory, try to work with your player so that her character is a bit of a shut in. She's stayed pretty locked up in her house in the Village of Barovia and so doesn't know very much about the rest of the dimension. Beyond the simple names of towns, she's quite ignorant. When the evil king Strahd came to her doorstep, she fled into the Svalich woods.
+    - If she's from Barovia, she gets lost in the woods and stumbles on the rest of the party as the mist draws them in. They then go to Death House together.
+- Overall, having a PC take the role of Ireena in the campaign will put a lot more shock value on the narrative. Strahd's pursuit won't just be for a random NPC, but for another player. And players are way more important in dnd and automatically built a faster relationships with the other players.
