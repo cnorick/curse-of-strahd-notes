@@ -34,9 +34,10 @@
 - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
  - He's heard that [[Vallaki]] is well defended
- 
 
-## Burgomaster's Mansion (E4)
+ ##
+
+### Burgomaster's Mansion (E4)
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 

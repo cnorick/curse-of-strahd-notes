@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -198,8 +198,8 @@
   },
   "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Characters/Ismark Kolyanovich.md",
+    "Locations/Village of Barovia (E).md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Arik Lorensk.md",
