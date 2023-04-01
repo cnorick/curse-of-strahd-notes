@@ -11,10 +11,11 @@
 ## Notes
 - Try to avoid having him join the party. Combat becomes a bit tedious with him and Ireena.
 	- But if the party insists, we can work it out
-	- The book says he agrees to go if the party will
+	- The book says he agrees to go if the party takes Ireena to somewhere safe first
 
 ## What They Know
 [[Barovian Lore]]
+- [[Strahd]] has visited his sister 
 
 ## Relations
 - Father: [[Koylan Indirovich]]
