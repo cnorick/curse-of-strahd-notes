@@ -2,7 +2,7 @@
 ## Playing Parriwimple
 ## What They Know
 ## Relations
-- [[Bildrah]]
+- [[Bildrath Cantemir]]'s nephew
 ## Stat Block
 
 ```statblock

@@ -4,6 +4,8 @@
 - "If you want it badly enough, you'll pay for it"
 - If PCs give him a hard time in his shop, he calls his nephew [[Parriwimple]].
 ## What They Know
+## Relations
+- [[Parriwimple]]'s uncle
 ## Stat Block
 
 ```statblock
