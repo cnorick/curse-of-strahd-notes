@@ -12,7 +12,9 @@
 - He's desperate when we first meet him
 	- {His father has died and his sister is in danger}
 	- So he's willing to settle for little in terms of help
-- He openly admit
+- He openly admits that the villagers are either to smart or afraid of [[Strahd Von Zarovich|Strahd]] to help
+	- But maybe the PCs would consider being bought
+ 
 
 ## What They Want
 - He wants his sister to be safe from Strahd
