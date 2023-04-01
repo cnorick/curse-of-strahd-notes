@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6c41375f386f939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Parriwimple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Parriwimple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Parriwimple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md"
+                "file": "Characters/Parriwimple.md"
               }
             }
           }
@@ -160,12 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "97942e8dc26b9a8e",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Parriwimple.md",
     "Locations/Village of Barovia.md",
     "Misc/Templates/Character.md",
     "Misc/Adventuring Gear.md",
-    "Characters/Bildrath Cantemir.md",
     "Characters/Morgantha.md",
     "Village of Barovia.pdf",
     "Campaign/Session 0.md",
