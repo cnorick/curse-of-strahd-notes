@@ -46,7 +46,9 @@
 	- Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
 
 ### Burgomaster's Mansion (E4)
-> A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, agains the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the onece-beaturiful finish of the walls. Great black marks tell of the firews that have assailed the mansion. Nat a pane nor a shard of glass stands in any wi
+> A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the firers that have assailed the mansion. Nat a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.
+
+- CD 11 Perception -> can discern trampled w
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
