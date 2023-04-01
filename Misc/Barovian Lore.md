@@ -24,3 +24,6 @@
 	- He is an outsider and no friend of the vampires
 
 ### Beliefs and Superstitions
+- Two divine forces watch over the Barovian people
+	- [[The Morninglord]] and [[Mother Night]]
+- Before the curse of [[Strahd Von Zarovich|Strahd]] befell the land, the [[The Morninglord]]
