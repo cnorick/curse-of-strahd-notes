@@ -1,5 +1,9 @@
+---
+alias: Parpol Cantemir
+---
 (LG male human)
 ## Playing Parriwimple
+- His real name is Parpol Cantemir, but no on
 ## What They Know
 ## Relations
 - [[Bildrath Cantemir]]'s nephew
