@@ -31,4 +31,5 @@
 	- [[The Morninglord]] no longer answers their prayers
 - The presence of [[Mother Night]] is felt most strongly between dusk and dawn
 	- although her nighttime prayers go unanswered
-	- It is widely believed that she has forsaken  the Barovian people and sen
+	- It is widely believed that she has forsaken  the Barovian people and sent the devil [[Strahd Von Zarovich|Strahd]]to punish them for their ancestors' offenses
+- Spirits drift along the [[Old Svalich Road]] toward [[Castle Ravenloft]] in the dad
