@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "0c9377833a76d5a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ireena Kolyana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4939d62513b4190e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ismark Kolyanovich.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Ireena Kolyana.md"
               }
             }
           }
@@ -183,10 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df9cdcca4093787e",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Ismark Kolyanovich.md",
     "Locations/Village of Barovia (E).md",
+    "Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
     "Arik Lorensk.md",
     "Custom Monsters",
     "Misc/Vistani.md",
