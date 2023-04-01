@@ -5,4 +5,6 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - They can leave whenever they want
 - The are silversmiths, coppersmiths, haberdashers, cooks, weavers, musicians, entertainers, storytellers, toolmakers, and horse traders
 	- they tell fortunes and sell info
-- Eahc family/clan is a little gerontocracy
+- Each family/clan is a little gerontocracy
+- Each clan is closely knit
+- They resolve disagreements through 
