@@ -31,7 +31,8 @@
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
 	- He wants the characters to escort her to [[Vallaki]]
 		- Beyond [[Castle Ravenloft]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
- - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
+- He knows moving [[Ireena Kolyana|Ireena]] is a gamble
+	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
 
 ## Burgomaster's Mansion (E4)
 ## Events (p 48)
