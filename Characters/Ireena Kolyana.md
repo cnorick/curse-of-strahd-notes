@@ -29,6 +29,10 @@ alias: Ireena
 		- since then, there have been no more attacks
 - No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
 
+## Notes
+- If a player dies, an option would be to let them play Ireena since she will follow the group most of the game
+	- 
+
 ## Relations
 brother: [[Ismark Kolyanovich]]
 father: [[Koylan Indirovich]]

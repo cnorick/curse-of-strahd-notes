@@ -28,6 +28,7 @@ alias: Ismark
 	- But if the party insists, we can work it out
 	- The book says he agrees to go if the party takes Ireena to somewhere safe first
 	- The excuse can be that since his father is dead, someone needs to govern
+- If a player dies, an option would be to let them play Ismark
 
 ## What They Know
 [[Barovian Lore]]
