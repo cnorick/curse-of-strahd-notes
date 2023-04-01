@@ -6,7 +6,7 @@ alias: Parpol Cantemir
 - His real name is Parpol Cantemir, but no one calls him that
 - His muscles ripple beneath his leather tunic
 - He's simple minded
-- He's doevoted to his uncle, and w
+- He's devoted to his uncle, and won't follow the PCs if his uncle doesn't want him to
 ## What They Know
 ## Relations
 - [[Bildrath Cantemir]]'s nephew
