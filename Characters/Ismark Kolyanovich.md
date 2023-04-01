@@ -30,7 +30,9 @@
 - For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
 - [[Ireena Kolyana|Ireena]] is vulnerable outside of their house
 - If the party shows him their letter from the hook, he knows it's not his father's handwriting
-- In the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|tavern]] and asked, he says their [[Vistani]] spies
+- In the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|tavern]] and asked, he says they're [[Vistani]] spies
+	- His prejudice is apparent
+-  
 
 ## Relations
 - Father: [[Koylan Indirovich]]
