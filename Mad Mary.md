@@ -12,7 +12,8 @@
 
 ## What They Know
 [[Barovian Lore]]
-- The doll she
+- The doll she's holding was Mary's as a child, and was passed down to [[Gertruda]]
+	- [[Gadof Blinsky]] is the maker and lives in [[Vallaki]]
 
 ## Relations
 Daughter: [[Gertruda]]
