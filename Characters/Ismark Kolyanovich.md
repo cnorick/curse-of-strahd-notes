@@ -15,7 +15,7 @@
 
 ## What They Know
 [[Barovian Lore]]
-- [[Strahd]] has visited his sister 
+- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted 
 
 ## Relations
 - Father: [[Koylan Indirovich]]
