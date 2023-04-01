@@ -9,7 +9,8 @@
 > A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 
 - Sign used to read "Blood of the Vine", but the f was scratched over
-- 
+- There are a few people huddled within
+- Three Vistani sitting together
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
