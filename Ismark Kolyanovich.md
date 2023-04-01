@@ -4,7 +4,7 @@
 ## What They Know
 [[Barovian Lore]]
 ## Relations
-- Father: [[I]]
+- Father: [[Koylan Indirovich]]
 ## Stat Block
 
 ```statblock
