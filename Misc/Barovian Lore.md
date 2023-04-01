@@ -1,3 +1,4 @@
 ### The Devil Strahd
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft]]. No one is welcome at the castle
-- The devil [[Strahd]] is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This)
+- The devil [[Strahd Von Zarovich|Strahd]] is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but the Barovians believe it nonetheless)
+- A vampire must rest in tis coffin during the day. At night, it can summon wolves and vermin to do its bidding. A vimpire can transform into a bat, a wolf, or a cloud of mist. In it
