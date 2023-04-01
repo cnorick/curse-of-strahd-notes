@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Characters/Bildrath Cantemir.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "0c3ab4a18ec099b9",
   "lastOpenFiles": [
+    "Characters/Morgantha.md",
     "Characters/Bildrath Cantemir.md",
     "Locations/Village of Barovia.md",
-    "Characters/Morgantha.md",
     "Village of Barovia.pdf",
     "Campaign/Session 0.md",
     "Untitled.md",

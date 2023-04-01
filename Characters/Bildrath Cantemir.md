@@ -1,4 +1,4 @@
-LN male human commoner
+(LN male human commoner)
 
 
 ```statblock
