@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "0c3ab4a18ec099b9",
+            "id": "97942e8dc26b9a8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,9 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0c3ab4a18ec099b9",
+  "active": "97942e8dc26b9a8e",
   "lastOpenFiles": [
     "Locations/Village of Barovia.md",
+    "Misc/Templates/Character.md",
+    "Misc/Adventuring Gear.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Morgantha.md",
     "Village of Barovia.pdf",
@@ -170,7 +172,6 @@
     "Untitled.md",
     "Characters/Untitled.md",
     "s.md",
-    "Misc/Templates/Character.md",
     "Characters/foo.md",
     "Untitled 1.md",
     "Misc/Templates/Untitled.canvas",
@@ -179,7 +180,6 @@
     "Locations/Death House.md",
     "Session Notes",
     "Misc/Mechanics of Dream Pastries.md",
-    "Misc/Adventuring Gear.md",
     "Misc",
     "Characters",
     "Campaign",
