@@ -12,7 +12,7 @@
 - There are a few people huddled within
 	- Three Vistani sitting together (see [[#Vistani Owners]])
 	- [[Arik Lorensk|Arik the Barkeep]] tending bar
-	- [[Ismark Kolyanovich]] sitting by 
+	- [[Ismark Kolyanovich]] sitting by himself and sipping wine
 - Glass of wine costs 1cp; pitcher: 1sp
 
 #### Vistani Owners

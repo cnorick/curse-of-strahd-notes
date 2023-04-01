@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Ismark Kolyanovich.md"
               }
             }
           }
@@ -183,10 +184,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "df9cdcca4093787e",
+  "active": "4939d62513b4190e",
   "lastOpenFiles": [
-    "Ismark Kolyanovich.md",
     "Locations/Village of Barovia (E).md",
+    "Ismark Kolyanovich.md",
     "Arik Lorensk.md",
     "Custom Monsters",
     "Misc/Vistani.md",
