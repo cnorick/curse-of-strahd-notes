@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "3ba89b700ca63fb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/If Players Die.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87b1bba9684850ed",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Misc/If Players Die.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Misc/If Players Die.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Misc/If Players Die.md"
               }
             }
           }
@@ -220,10 +232,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4a6a55b6b2182a9b",
+  "active": "3ba89b700ca63fb2",
   "lastOpenFiles": [
-    "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
+    "Misc/If Players Die.md",
+    "Characters/Ireena Kolyana.md",
     "Locations/Village of Barovia (E).md",
     "Mad Mary.md",
     "Misc/Templates/Character.md",
@@ -258,7 +271,6 @@
     "Locations",
     "Characters",
     "Untitled.canvas",
-    "CoS/Untitled.md",
     "CoS"
   ]
 }
