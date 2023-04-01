@@ -6,13 +6,15 @@
 
 ## What They Want
 - Mary hid her beloved daughter, [[Gertruda]] in this house for her entire life
-- She broke out
+- A teen now, she broke out a week ago and hasn't been seen since
+- Mary fears the worst
 
 
 ## What They Know
 [[Barovian Lore]]
 
 ## Relations
+Daughter
 ## Stat Block
 
 ```statblock
