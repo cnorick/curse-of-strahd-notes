@@ -29,4 +29,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- Some have old souls, but many do not
 	- The soulless ones are easy to spot, for they know nothing but fear
 	- They have no charm, hope, or spark, and they don't cry
- - The [[Old Svalich Road]] passes through Strah
+ - The [[Old Svalich Road]] passes through Strahd's domain
+	 - Three settlements lie on the road like beads on a string
+		 - [[Krezk]] to the west
+		 - [[Vallaki]] to the 
