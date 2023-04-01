@@ -3,7 +3,7 @@
 ## Playing Ismark Kolyanovich
 - He's not the typically dour Barovian
 	- He invites the PCs to join him and offers to pay for their wine
-- He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
+
 
 ## What They Know
 [[Barovian Lore]]
