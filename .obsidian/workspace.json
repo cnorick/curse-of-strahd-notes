@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strahd Von Zarovich.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Strahd Von Zarovich.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Strahd Von Zarovich.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "838e2a00c1b38ad7",
+  "active": "1cbdb7eee017092e",
   "lastOpenFiles": [
-    "Misc/Barovian Lore.md",
     "Strahd Von Zarovich.md",
+    "Misc/Barovian Lore.md",
     "Characters/Parriwimple.md",
     "Characters/Bildrath Cantemir.md",
     "Misc/Templates/Character.md",
