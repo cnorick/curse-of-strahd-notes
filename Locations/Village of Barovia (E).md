@@ -43,8 +43,10 @@
 - [[Mad Mary]] sits in the center of the floor in an upstairs bedroom clutching a malformed doll
 - If inspected:
 	- The doll has a strange leer and wears a sackcloth dress
+	- Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
 
 ### Burgomaster's Mansion (E4)
+> A weary-look
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))

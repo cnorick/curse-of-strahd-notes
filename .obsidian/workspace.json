@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mad Mary.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mad Mary.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mad Mary.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -208,10 +208,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "87b1bba9684850ed",
+  "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Mad Mary.md",
+    "Locations/Village of Barovia (E).md",
     "Characters/Ismark Kolyanovich.md",
     "Misc/Templates/Character.md",
     "Characters/Strahd Von Zarovich.md",
