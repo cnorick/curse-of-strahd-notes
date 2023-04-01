@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/What All Barovian's Know.md",
+                "file": "Misc/Barovian Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "838e2a00c1b38ad7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/What All Barovian's Know.md",
+                "file": "Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/What All Barovian's Know.md",
+                "file": "Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/What All Barovian's Know.md"
+                "file": "Strahd Von Zarovich.md"
               }
             }
           }
@@ -196,10 +208,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1cbdb7eee017092e",
+  "active": "838e2a00c1b38ad7",
   "lastOpenFiles": [
+    "Misc/Barovian Lore.md",
+    "Strahd Von Zarovich.md",
     "Characters/Parriwimple.md",
-    "Misc/What All Barovian's Know.md",
     "Characters/Bildrath Cantemir.md",
     "Misc/Templates/Character.md",
     "Locations/Village of Barovia.md",

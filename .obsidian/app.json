@@ -7,5 +7,6 @@
     "downscalePercent": 52
   },
   "vimMode": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }
