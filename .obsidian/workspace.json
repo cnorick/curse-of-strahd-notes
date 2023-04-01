@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -149,13 +149,13 @@
   },
   "active": "df9cdcca4093787e",
   "lastOpenFiles": [
-    "Locations/Village of Barovia.md",
+    "Locations/Old Svalich Road.md",
+    "Characters/Bildrath Cantemir.md",
+    "Locations/Village of Barovia (E).md",
     "Misc/Vistani.md",
-    "Old Svalich Road.md",
     "Misc/Barovian Lore.md",
     "Locations/Castle Ravenloft.md",
     "Misc/Templates/Character.md",
-    "Characters/Bildrath Cantemir.md",
     "Characters/Strahd Von Zarovich.md",
     "Strahd.md",
     "Characters/Parriwimple.md",
