@@ -8,5 +8,5 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: Veteran
 ```
