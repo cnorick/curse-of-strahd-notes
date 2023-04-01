@@ -23,3 +23,6 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- Strangers aren't welcomed at the castle without an invite
  
 ### The Land of Barovia
+- Strahd conquered this land centuries ago and named it after his father [[King Barov]]
+	- Strahd uses wolves, bats, and other creatures to spy on all of his realm
+- 
