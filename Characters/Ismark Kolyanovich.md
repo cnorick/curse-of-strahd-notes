@@ -10,6 +10,8 @@
 
 ## Notes
 - Try to avoid having him join the party. Combat becomes a bit tedious with him and Ireena.
+	- But if the party insists, we can work it out
+	- The book says he agrees to go if the party will
 
 ## What They Know
 [[Barovian Lore]]
