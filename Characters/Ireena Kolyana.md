@@ -8,8 +8,8 @@ alias: Ireena
 	- because of this: the villagers are afraid of her and avoid her
 - She appears mild
 	- but has a strong will, and she aids the party as best she can in saving herself
+	- has a stubborn streak and sometimes will plant herself and changing her m
 - She is one of the few truly good people in the game
-- has a stubborn streak
 - loves discovering new things
 - honestly wants to help those in need
 - She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
@@ -24,7 +24,7 @@ alias: Ireena
 - Does embroidery as it is an "appropriate hobby for a lady"
 	- She's really good with the needle {given time to learn, she can pick up the basics of medical care/herbalism}
 		- {mechanically, let her unlock the *Healer* feat + the ability to make *Healer Kits*}
-			- Not good enough to do it in combat
+			- Not good enough to do it during combat though
 
 ## What They Want
 - She wants the characters to bury her father 
