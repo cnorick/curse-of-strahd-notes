@@ -1,11 +1,15 @@
 Go into view mode to have full control
 
-Into the Mists - Introduction ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a#loop]]
+Introduction - Into the Mists ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a#loop]]
 Into the Mists - Into the Mists![[002 Into The Mists - Into The Mists.opus]]
-Into the Mists - Into the Mists![[003 Barovian Legends - Into The Mists.opus]]
+Barovian Led- Into the Mists![[003 Barovian Legends - Into The Mists.opus]]
 Into the Mists - Into the Mists![[004 Dancing With The Wolves - Into The Mists.opus]]
-Into the Mists - Into the Mists
-Into the Mists - Into the Mists
-Into the Mists - Into the Mists
-Into the Mists - Into the Mists
-Into the Mists - Into the Mists
+Into the Mists - Into the Mists![[005 Castle Ravenloft - Into The Mists.opus]]
+Into the Mists - Into the Mists![[006 Dream Pastries - Into The Mists.opus]]
+Into the Mists - Into the Mists![[007 A Coveted Soul - Into The Mists.opus]]
+Into the Mists - Into the Mists![[008 All Against Darkness - Into The Mists.opus]]
+Into the Mists - Into the Mists![[009 Restless Knights - Into The Mists.opus]]
+Into the Mists - Into the Mists![[010 The Creeping Hut - Into The Mists.opus]]
+Into the Mists - Into the Mists![[011 Dark Vestiges - Into The Mists.opus]]
+Into the Mists - Into the Mists![[012 Glimmer Of Hope - Into The Mists.opus]]
+Into the Mists - Into the Mists![[013 He Is The Ancient, He Is The Land - Into The Mists.opus]]
