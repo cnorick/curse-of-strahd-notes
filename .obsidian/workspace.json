@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45e16b1a893cc142",
-            "type": "leaf",
-            "state": {
-              "type": "audio",
-              "state": {
-                "file": "001 Introduction - Into The Mists.opus"
-              }
-            }
-          },
-          {
             "id": "d33cc1aea77ebfa1",
             "type": "leaf",
             "state": {
@@ -95,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Introduction - Into The Mists.opus",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Introduction - Into The Mists.opus",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "001 Introduction - Into The Mists.opus"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +145,8 @@
   },
   "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Untitled",
+    "Assets/Music",
+    "Assets",
     "Locations/Village of Barovia (E).md",
     "001 Introduction - Into The Mists.opus",
     "Locations/Death House.md",
@@ -173,7 +160,7 @@
     "Misc/Barovian Lore.md",
     "Characters/Koylan Indirovich.md",
     "Misc/Adventuring Gear.md",
-    "Misc/Templates/Character.md",
+    "Assets/Templates/Character.md",
     "Characters/Tatyana.md",
     "Untitled.md",
     "TODO.md",
@@ -189,13 +176,12 @@
     "Custom Monsters",
     "Village of Barovia.pdf",
     "Misc/Templates/Untitled.canvas",
-    "Misc/Templates",
+    "Assets/Templates",
     "Session Notes",
     "Misc",
     "Characters",
     "Campaign",
     "Locations",
-    "Characters",
     "Untitled.canvas"
   ]
 }
