@@ -124,7 +124,8 @@ When approaching:
 Contents:
 - Desk drawers: few sheets of parchment, quill pens, dried-up ink jars
 - Wooden cabinet: tinderbox, few wooden boxes full of candles, two well used books:
-	- *The Bland of Truth: The Uses of Logic in the War Agains Diabolist Heresies*
+	- *The Bland of Truth: The Uses of Logic in the War Against Diabolist Heresies*
+	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]]
 
 
 ### Cemetery (E6)
