@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -234,8 +234,9 @@
   },
   "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Tatyana.md",
+    "Locations/Old Svalich Road.md",
     "Characters/Ireena Kolyana.md",
+    "Tatyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Misc/If Players Die.md",
     "Locations/Village of Barovia (E).md",
@@ -246,7 +247,6 @@
     "Custom Monsters",
     "Misc/Vistani.md",
     "Characters/Bildrath Cantemir.md",
-    "Locations/Old Svalich Road.md",
     "Misc/Barovian Lore.md",
     "Locations/Castle Ravenloft.md",
     "Strahd.md",
