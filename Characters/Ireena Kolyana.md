@@ -19,16 +19,13 @@ alias: Ireena
 	- Give her the *Position of Privilege* feature from the noble background
 		- All the commoners will bend over backwards to accommodate her if they know who she is
 		- Always one level better than normal for *Attitude* (friendly, hostile, etc.)
+- Being politically 
 
 ## What They Want
 - She wants the characters to bury her father 
 	- She refuses to go anywhere "while the burgomaster lies dead on the mansion floor"
 - The PCs are her best hope at protection
 	- so she's willing to accompany them if they bury her father
-- One of the best educated in the valley
-	- familiar with the geography (have her give them the map maybe)
-	- can provide info about important people in each town
-	- can regurgitate Barovia history trivia without a check
 
 ## What They Know
 [[Barovian Lore]]
@@ -43,6 +40,10 @@ alias: Ireena
 		- he died 3 days ago
 		- since then, there have been no more attacks
 - No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
+- One of the best educated in the valley, as the Burgomaster's daughter
+	- familiar with the geography (have her give them the map maybe)
+	- can provide info about important people in each town
+	- can regurgitate Barovia history trivia without a check
 
 ## Secrets
 - She is the blood sister of [[Izek Strazni]], but neither of them know it
