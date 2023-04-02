@@ -63,11 +63,14 @@
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
+- Should happen during the day
 - After the players meet [[Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the door and knocks profusely
 - [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] are cautious
 	- He motions to everyone to stay down and stay quiet while he answers the door
 	- They've had a lot of unwelcome visitors recently
-- 
+- Mary pushes her way into the house when he opens the door
+	- this puts [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] at ease because it's during the day and she came in uninvited
+		- They can share this with the playe
 
 ### Church (E5)
 
