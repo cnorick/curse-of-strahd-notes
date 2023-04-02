@@ -15,7 +15,8 @@ alias: Ireena
 - She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
 	- She actively works to avoid him
 - As a noble, she shines at persuasion, deception, and insight
-	- 
+	- She's the only daughter of the Burgomaster and part of only three noble families
+	- Give her the *Position of Privilege* feature from the noble background
 
 ## What They Want
 - She wants the characters to bury her father 
