@@ -123,6 +123,8 @@ When approaching:
 #### Office
 Contents:
 - Desk drawers: few sheets of parchment, quill pens, dried-up ink jars
+- Wooden cabinet: tinderbox, few wooden boxes full of candles, two well used books:
+	- *The Bland of Truth: The Uses of Logic in the War Agains Diabolist Heresies*
 
 
 ### Cemetery (E6)
