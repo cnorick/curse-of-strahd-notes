@@ -1,5 +1,7 @@
 - Run [[Village of Barovia (E)#Events (p 48)#Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))|Dream Pies]] first out of [[Death House]]
 - Explore [[Village of Barovia (E)]]
-- Get to [[Village of Barovia (E)#Blood of the Vine Tavern (E2)]]
+- Get to [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine]]
 - Meet [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]]
+- Bury [[Ismark Kolyanovich]]
+	- Go the the [[Village of Barovia (E)#Church (E5)|Church]]
 - Set out for [[Vallaki]]
