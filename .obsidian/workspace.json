@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Campaign/Session 0.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Campaign/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Campaign/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Campaign/Session 0.md"
               }
             }
           }
@@ -259,8 +259,8 @@
   },
   "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Gertruda.md",
     "Locations/Village of Barovia (E).md",
+    "Gertruda.md",
     "Mad Mary.md",
     "Locations/Old Svalich Road.md",
     "Characters/Ireena Kolyana.md",
