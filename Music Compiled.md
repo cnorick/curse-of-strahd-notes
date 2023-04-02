@@ -1,9 +1,9 @@
 Go into view mode to have full control
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a]]
 
-Into the Mists - Into the Mists ![[002 Into The Mists - Into The Mists.opus#loop]]
-Barovian Legends (Town Theme) - Into the Mists![[003 Barovian Legends - Into The Mists.opus#loop]]
-Dancing with the Wolves (Combat Theme) - Into the Mists![[004 Dancing With The Wolves - Into The Mists.opus#loop]]
+Into the Mists - Into the Mists
+Barovian Legends (Town Theme) - Into the Mists
+Dancing with the Wolves (Combat Theme) - Into the Mists
 Castle Ravenloft - Into the Mists![[005 Castle Ravenloft - Into The Mists.opus#loop]]
 Dream Pastries (Coven Theme) - Into the Mists![[006 Dream Pastries - Into The Mists.opus#loop]]
 A Coveted Soul (Ireena's Theme) - Into the Mists![[007 A Coveted Soul - Into The Mists.opus#loop]]
