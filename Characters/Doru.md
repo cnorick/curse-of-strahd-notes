@@ -1,7 +1,8 @@
-(NE human)
+(NE Undead)
 ## Playing Doru
 
 ## History/Info
+![[Donavich#History/Info^]]
 
 ## What They Want
 
