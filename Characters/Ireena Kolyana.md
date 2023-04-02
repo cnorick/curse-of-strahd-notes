@@ -36,7 +36,9 @@ alias: Ireena
 	- Her feet will hurt at first. She may show signs and will be grateful for kindness/help
 		- But will absolutely not complain; she's good at sucking it up
 - Her hair is auburn (brownish red) and is unheard of in Barovia.
-	- {She dies her hair black to throw off her relationship to [[Tatyana]]}
+	- She dies her hair black, because "red hair is unlucky"
+		- {this throws off her relationship to [[Tatyana]]}
+		- {all of [[Strahd Von Zarovich|Strahd]]' s t}
 
 ## What They Want
 - She wants the characters to bury her father 
