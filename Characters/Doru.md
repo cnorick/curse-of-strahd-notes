@@ -3,6 +3,9 @@
 - He's starved for blood and will attack a lone character
 	- If the PCs approach as a group, he does his best to avoid while hissing, "I can smell your blood!"
 		- If they cut off his escape, he lunges forth and attacks
+- He's starving, but can't die as a vampire; he's in a lot of pain
+	- a pint of blood isn't enough
+	- if they offer him some of their blood, it'll lead to battle
 - If the PCs restrain and either:
 	- promise him blood or
 	- threaten to destroy him or
