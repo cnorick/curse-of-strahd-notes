@@ -26,7 +26,9 @@ alias: Ireena
 - The PCs are her best hope at protection
 	- so she's willing to accompany them if they bury her father
 - One of the best educated in the valley
-	- familliar with 
+	- familiar with the geography (have her give them the map maybe)
+	- can provide info about important people in each town
+	- can regurgitate Barovia history trivia without a check
 
 ## What They Know
 [[Barovian Lore]]
