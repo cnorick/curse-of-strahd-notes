@@ -135,10 +135,13 @@ Contents:
 	- If [[Doru]] dies, [[Donavich]] falls to the floor and weeps inconsolably, overcome with despair
 
 #### Funeral for Burgomaster
-- If the characters bring [[Koylan Indirovich]]'s body to the church, [[Donavich]]
+- If the characters bring [[Koylan Indirovich]]'s body to the church, [[Donavich]] presses them into helping him bury the body in the cemetery at dawn
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
+
+#### Funeral for Burgomaster
+- [[Donavich]] offers prayers
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
