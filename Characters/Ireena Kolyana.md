@@ -25,6 +25,8 @@ alias: Ireena
 	- She refuses to go anywhere "while the burgomaster lies dead on the mansion floor"
 - The PCs are her best hope at protection
 	- so she's willing to accompany them if they bury her father
+- One of the best educated in the valley
+	- familliar with 
 
 ## What They Know
 [[Barovian Lore]]
