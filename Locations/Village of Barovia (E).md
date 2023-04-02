@@ -74,7 +74,9 @@
 - The players overhear Mary's frantic rambling:
 	- begging [[Ismark Kolyanovich|Ismark]] to help her daughter
 	- Mary speaks the first player that intervenes and begs for them to help her child
-	- She rambles on about [[Gertruda]] making it sound like the's
+	- She rambles on about [[Gertruda]] making it sound like she's a little kid (7 or 8)
+- After the PCs alleviate Mary's hysteria, [[Ismark Kolyanovich|Ismark]] walks her back home
+	- In the meantime, [[Ireena Kolyana|Ireena]] explains that [[Gertruda]] ran away into the mists
  
 ### Church (E5)
 
