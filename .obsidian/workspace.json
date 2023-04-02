@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Doru.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "45e16b1a893cc142",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
     "Characters/Doru.md",
     "Misc/Barovian Lore.md",
     "Characters/Donavich.md",
     "Characters/Mad Mage of Mount Baratok.md",
-    "Locations/Village of Barovia (E).md",
     "Characters/Koylan Indirovich.md",
     "Misc/Adventuring Gear.md",
     "Misc/Templates/Character.md",
