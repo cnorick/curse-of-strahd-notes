@@ -38,7 +38,8 @@ alias: Ireena
 - Her hair is auburn (brownish red) and is unheard of in Barovia.
 	- She dies her hair black, because "red hair is unlucky"
 		- {this throws off her relationship to [[Tatyana]]}
-		- {all of [[Strahd Von Zarovich|Strahd]]' s t}
+		- {all of [[Strahd Von Zarovich|Strahd]]' s targets have that color hair and they have died (unlucky)}
+		- She has to re-dye it regularly or stand out in the crowd
 
 ## What They Want
 - She wants the characters to bury her father 
