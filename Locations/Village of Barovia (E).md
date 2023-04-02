@@ -154,7 +154,7 @@ Contents:
 - At the funeral, it's just the players, [[Ismark Kolyanovich|Ismark]] and [[Donavich]]
 - [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Koylan Indirovich]]'s deliverance from Barovia
 	> _Farewell, Illuminated one, until we meet again_
-		_We carry the sun in our hearts until then_
+	_We carry the sun in our hearts until then_
 		_Give us the strength to carry on_
 		_Until the next dawn_
 		_We greet your ally the Moonmaiden_
