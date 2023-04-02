@@ -70,8 +70,9 @@ alias: Ireena
 ## [[Tatyana]]'s Memories
 - Since she has [[Tatyana]]'s soul, sometimes Tatyana's memories will come to her
 	- Other reincarnates in Barovia don't have this feature
-- If prompted correctly, these memories will come back
-	- [[Strahd Von Zarovich|Strahd]] 
+- If prompted correctly by something that reminds her of [[Tatyana]]'s life, these memories will come back
+	- [[Strahd Von Zarovich|Strahd]] has perfected the triggers and can do this fairly easily
+- 
 
 ## Secrets
 - She is the blood sister of [[Izek Strazni]], but neither of them know it
