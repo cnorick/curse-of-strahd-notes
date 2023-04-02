@@ -20,13 +20,13 @@
             }
           },
           {
-            "id": "092160d3b7996280",
+            "id": "cbf2d79ef32a7be1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Music/Youtube Links.md",
-                "mode": "source",
+                "file": "Assets/Music/Music Compiled.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Music/Youtube Links.md",
+                "file": "Assets/Music/Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Music/Youtube Links.md",
+                "file": "Assets/Music/Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Music/Youtube Links.md"
+                "file": "Assets/Music/Music Compiled.md"
               }
             }
           }
@@ -160,10 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "092160d3b7996280",
+  "active": "cbf2d79ef32a7be1",
   "lastOpenFiles": [
     "TODO.md",
-    "Assets/Music/Youtube Links.md",
+    "Assets/Music/Music Compiled.md",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
