@@ -14,6 +14,7 @@ alias: Ireena
 - honestly wants to help those in need
 - She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
 	- She actively works to avoid him
+- Sh
 
 ## What They Want
 - She wants the characters to bury her father 
@@ -44,7 +45,8 @@ alias: Ireena
 - You could consider not making her Izek's sister, but instead one of the PCs
 - After she joins the party, consider bumping up her stats only gradually ([source](https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/))
 	- after asking the PCs to train her
-	 -
+	- PCs always out class her
+	- She is better at defending herself from mundane threats
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
