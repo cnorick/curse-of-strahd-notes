@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "f7e6e516010f55b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba7f0f919003d8b7",
             "type": "leaf",
             "state": {
@@ -153,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 2.md",
+                "file": "Campaign/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 2.md",
+                "file": "Campaign/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 2.md"
+                "file": "Campaign/Session 3.md"
               }
             }
           }
@@ -281,10 +293,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bfc2d0daabecf171",
+  "active": "f7e6e516010f55b6",
   "lastOpenFiles": [
-    "Campaign/Session 1.md",
     "Campaign/Session 2.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
     "Campaign/Session 0.md",
     "Untitled.md",
     "Locations/Village of Barovia (E).md",
@@ -310,7 +323,6 @@
     "Village of Barovia.pdf",
     "Characters/Untitled.md",
     "s.md",
-    "Characters/foo.md",
     "Misc/Templates/Untitled.canvas",
     "Misc/Templates",
     "Session Notes",
