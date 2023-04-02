@@ -3,6 +3,8 @@ alias: Strahd
 ---
 ![[001 Introduction - Into The Mists.opus#controls]]
 
+![](https://youtu.be/uLpRctqGTWw#t=0)
+
 ## Strahd's Goals
 ### Turn [[Ireena Kolyana]]
 - Strahd slayed [[Sergei]] because he loved [[Tatyana]] so much
