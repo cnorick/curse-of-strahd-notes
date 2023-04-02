@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
+                "file": "Locations/Village of Barovia (E).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -171,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "d541c5e8934613c5",
   "lastOpenFiles": [
+    "TODO.md",
     "Misc/Templates/Character.md",
     "Misc/Vistani.md",
     "Misc/Templates",
@@ -200,7 +201,6 @@
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
     "Campaign/Session 2.md",
-    "Campaign/Session 1.md",
     "Campaign",
     "Locations",
     "Characters",
