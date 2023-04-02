@@ -11,11 +11,17 @@
             "id": "d33cc1aea77ebfa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "media-view",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "mode": "preview",
-                "source": false
+                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+                "info": {
+                  "type": "audio",
+                  "filename": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+                  "src": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+                  "subtitles": [],
+                  "hash": ""
+                },
+                "currentTime": 0
               }
             }
           }
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a"
               }
             }
           }
@@ -147,10 +153,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d33cc1aea77ebfa1",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Assets/Music/001 Introduction - Into The Mists.opus",
     "Characters/Strahd Von Zarovich.md",
+    "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+    "Assets/Music/001 Introduction - Into The Mists.opus",
     "Characters/Doru.md",
     "001 Introduction - Into The Mists.opus",
     "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
@@ -160,7 +167,6 @@
     "Assets/Music/009 Restless Knights - Into The Mists.opus",
     "Assets/Music/008 All Against Darkness - Into The Mists.opus",
     "Assets/Music/007 A Coveted Soul - Into The Mists.opus",
-    "Assets/Music/006 Dream Pastries - Into The Mists.opus",
     "Locations/Village of Barovia (E).md",
     "Locations/Death House.md",
     "Characters/Ireena Kolyana.md",
