@@ -11,11 +11,9 @@
             "id": "45e16b1a893cc142",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
-                "mode": "source",
-                "source": false
+                "file": "001 Introduction - Into The Mists.opus"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "001 Introduction - Into The Mists.opus",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "001 Introduction - Into The Mists.opus",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "001 Introduction - Into The Mists.opus"
               }
             }
           }
@@ -159,10 +157,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45e16b1a893cc142",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Locations/Death House.md",
+    "Untitled",
     "Locations/Village of Barovia (E).md",
+    "001 Introduction - Into The Mists.opus",
+    "Locations/Death House.md",
     "Characters/Ireena Kolyana.md",
     "conflict-files-obsidian-git.md",
     "Characters/Doru.md",
@@ -186,7 +186,6 @@
     "Characters/Mad Mary.md",
     "Locations/Old Svalich Road.md",
     "Characters/Ismark Kolyanovich.md",
-    "Misc/If Players Die.md",
     "Custom Monsters",
     "Village of Barovia.pdf",
     "Misc/Templates/Untitled.canvas",
@@ -197,7 +196,6 @@
     "Campaign",
     "Locations",
     "Characters",
-    "Untitled.canvas",
-    "CoS"
+    "Untitled.canvas"
   ]
 }
