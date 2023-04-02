@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Donavich.md",
+                "file": "Characters/Donavich.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Doru.md"
               }
             }
           }
@@ -161,10 +161,11 @@
   },
   "active": "45e16b1a893cc142",
   "lastOpenFiles": [
-    "Donavich.md",
-    "Koylan Indirovich.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Doru.md",
     "Locations/Village of Barovia (E).md",
-    "Mad Mage of Mount Baratok.md",
+    "Characters/Donavich.md",
+    "Characters/Koylan Indirovich.md",
     "Misc/Adventuring Gear.md",
     "Misc/Templates/Character.md",
     "Campaign/Session 3.md",
@@ -187,7 +188,6 @@
     "Custom Monsters",
     "Misc/Vistani.md",
     "Characters/Bildrath Cantemir.md",
-    "Misc/Barovian Lore.md",
     "Village of Barovia.pdf",
     "Misc/Templates/Untitled.canvas",
     "Misc/Templates",
