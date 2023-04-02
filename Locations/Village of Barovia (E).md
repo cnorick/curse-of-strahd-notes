@@ -127,6 +127,8 @@ Contents:
 	- *The Bland of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition* (a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults
 	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]]
 
+#### Chapel (E5F)
+
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.

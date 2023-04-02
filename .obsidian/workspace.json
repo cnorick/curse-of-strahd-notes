@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mad Mage of Mount Baratok.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Donavich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Donavich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Donavich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -159,12 +160,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45e16b1a893cc142",
+  "active": "d33cc1aea77ebfa1",
   "lastOpenFiles": [
+    "Mad Mage of Mount Baratok.md",
+    "Donavich.md",
     "Misc/Adventuring Gear.md",
     "Misc/Templates/Character.md",
-    "Donavich.md",
-    "Mad Mage of Mount Baratok.md",
     "Locations/Village of Barovia (E).md",
     "Campaign/Session 3.md",
     "Locations/Death House.md",
