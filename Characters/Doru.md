@@ -19,10 +19,12 @@ From Donavich:
 ![[Donavich#History/Info^]]
 
 ## What They Want
+- He wants to eat
 
 ## What They Know
 [[Barovian Lore]]
 - He knows that the [[Mad Mage of Mount Baratok|Mad Mage]] escaped into the woods
+	- He'll tell the PCs under the
 
 ## Relations
 Father: [[Donavich]]
