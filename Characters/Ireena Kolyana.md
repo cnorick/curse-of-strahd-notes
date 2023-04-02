@@ -106,6 +106,7 @@ alias: Ireena
 	- after asking the PCs to train her
 	- PCs always out class her
 	- She is better at defending herself from mundane threats
+- Read [this](https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/) before the PCs meet Ireena
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
