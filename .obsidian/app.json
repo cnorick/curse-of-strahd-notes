@@ -8,5 +8,6 @@
   },
   "vimMode": true,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": false
 }

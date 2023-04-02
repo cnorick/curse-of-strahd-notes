@@ -23,7 +23,7 @@
 
 ### Rumors About the [[Village of Barovia (E)]]
 - No one has seen the burgomaster for a few days and his children aren't saying much
-- 
+- The rumor is The Burgomaster's daughter, [[Ireena Kolyana|Ireena]] has caught [[Strahd Von Zarovich|Strahd]]'s eye [[Morgantha]]
 
 ## Stat Block
 
