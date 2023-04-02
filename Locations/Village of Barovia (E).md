@@ -123,7 +123,8 @@ When approaching:
 - [[Doru]] is in the undercroft
 - Do everything you can to scare off the players; this is a hard battle
 	- If they fight [[Doru]], [[Donavich]] comes down to fight the PCs
-	- Have [[Donavich]] plead for them to sto
+	- Have [[Donavich]] plead for them to stop as he fights
+		- He'll let them go back upstairs if they stop
 
 #### Office
 Contents:
