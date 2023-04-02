@@ -3,7 +3,10 @@
 - His voice is hoarse and weak from praying throughout the night
 - He's basically driven himself insane and acts frantic
 - He cannot be convinced to kill his son or advocate for it
-- He knows his son still within the mos
+- He knows his son still within the monster
+	- and believes in his heart that [[The Morninglord]] will set [[Doru]] free
+	- what's left of his sanity relies on this belief; shattering that hope would destroy [[Donavich]]
+ 
 
 ## History/Info
 - A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
