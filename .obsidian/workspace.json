@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "29d9350cc5b46437",
+        "id": "96448a383878ea39",
         "type": "tabs",
         "children": [
           {
-            "id": "d33cc1aea77ebfa1",
+            "id": "496e388caf148e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -147,12 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d33cc1aea77ebfa1",
+  "active": "496e388caf148e56",
   "lastOpenFiles": [
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+    "Characters/Strahd Von Zarovich.md",
     "TODO.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
-    "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
     "001 Introduction - Into The Mists.opus",
     "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
