@@ -42,7 +42,9 @@ alias: Ireena
 - [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game
 	- For ambitious players, I can hand her over to play as well as their own character
 - You could consider not making her Izek's sister, but instead one of the PCs
-- After she joins the party, 
+- After she joins the party, consider bumping up her stats only gradually ([source](https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/))
+	- after asking the PCs to train her
+	 -
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
