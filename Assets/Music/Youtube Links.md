@@ -1,1 +1,3 @@
-!![1. Introduction - Curse Of Strahd Soundtrack by Travis Savoie](https://www.youtube.com/watch?v=_xa6Cqjl540&list=PLpV28ONBH95Rwoucn0cyCwJcRM7sNT_G5&index=9 "1. Introduction - Curse Of Strahd Soundtrack by Travis Savoie")A
+Go to
+![Introduction](https://youtu.be/_xa6Cqjl540)
+![Into the Mists](https://youtu.be/x6_4Zu692kI)
