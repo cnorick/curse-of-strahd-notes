@@ -175,7 +175,9 @@ Contents:
 - With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
 - The players may want to rest another night (esp if they fought [[Doru]])
 	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
-	- [[Strahd Von Zarovich|Strahd]] no longer has 
+	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Koylan Indirovich]] is buried
+	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool]] before nightfall
+		- for a safe p
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
