@@ -63,7 +63,8 @@
 - [[Ireena Kolyana|Ireena]] refuses to go until her father is buried
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
 		- No one else in town has been brave enough to help
-
+- They warn the PCs about the church before going
+	- Donavich
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
