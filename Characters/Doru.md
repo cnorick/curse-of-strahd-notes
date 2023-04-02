@@ -19,7 +19,7 @@ From Donavich:
 
 ## What They Know
 [[Barovian Lore]]
-- He knows that the [[Mad Mage of Mount Baratok|Mad Mage]] escaped
+- He knows that the [[Mad Mage of Mount Baratok|Mad Mage]] escaped into the woods
 
 ## Relations
 Father: [[Donavich]]

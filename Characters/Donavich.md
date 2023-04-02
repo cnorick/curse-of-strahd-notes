@@ -3,6 +3,7 @@
 - His voice is hoarse and weak from praying throughout the night
 - He's basically driven himself insane and acts frantic
 - He cannot be convinced to kill his son or advocate for it
+- He knows his son 
 
 ## History/Info
 - A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
