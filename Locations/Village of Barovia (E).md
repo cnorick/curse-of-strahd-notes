@@ -65,7 +65,8 @@
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
 		- No one else in town has been brave enough to help
 - They warn the PCs about the church before going
-	- [[Donavich]] is in a bad way recently because of his son
+	- [[Donavich]] is in a bad way recently because of his son [[Doru]]
+	- Have them tell the whole story
 
 - The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights her on it)
  
@@ -185,4 +186,4 @@ Contents:
 - When she explains why they're so expensive:
 	- it's a bit of magic her mother taught her before the witch killed her
 	- The pies bring the eaters only the sweetest of dreams, something poorly lacking in this dreary world (make her seem grief stricken by the state of the world)
-- She'll point them to the [[Blood on the Vine Tavern]], seeing how tired they seem to be after jus
+- She'll point them to the [[Blood on the Vine Tavern]], seeing how tired they seem to be after having just escaped [[Death House]]

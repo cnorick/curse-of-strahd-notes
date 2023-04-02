@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Donavich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Donavich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Donavich.md"
               }
             }
           }
@@ -159,10 +160,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45e16b1a893cc142",
+  "active": "d33cc1aea77ebfa1",
   "lastOpenFiles": [
-    "Campaign/Session 3.md",
     "Locations/Village of Barovia (E).md",
+    "Campaign/Session 3.md",
     "Characters/Doru.md",
     "Misc/Barovian Lore.md",
     "Characters/Donavich.md",
