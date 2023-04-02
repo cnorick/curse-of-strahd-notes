@@ -42,6 +42,7 @@ alias: Ireena
 - [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game
 	- For ambitious players, I can hand her over to play as well as their own character
 - You could consider not making her Izek's sister, but instead one of the PCs
+- After she joins the party, 
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
