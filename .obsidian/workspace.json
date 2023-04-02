@@ -23,10 +23,20 @@
             "id": "cbf2d79ef32a7be1",
             "type": "leaf",
             "state": {
-              "type": "audio",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus"
+                "file": "Assets/Music/Music Compiled.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "b4e1b3528e79a598",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
+                "file": "Assets/Music/Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
+                "file": "Assets/Music/Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus"
+                "file": "Assets/Music/Music Compiled.md"
               }
             }
           }
@@ -160,9 +170,9 @@
   },
   "active": "cbf2d79ef32a7be1",
   "lastOpenFiles": [
-    "TODO.md",
-    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
     "Assets/Music/Music Compiled.md",
+    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
+    "TODO.md",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
