@@ -67,7 +67,9 @@ alias: Ireena
 	- can provide info about important people in each town
 	- can regurgitate Barovia history trivia without a check
 
-## [[Tatyana]]'s Memories
+## Special Feats
+
+### [[Tatyana]]'s Memories
 - Since she has [[Tatyana]]'s soul, sometimes Tatyana's memories will come to her
 	- Other reincarnates in Barovia don't have this feature
 - If prompted correctly by something that reminds her of [[Tatyana]]'s life, these memories will come back
