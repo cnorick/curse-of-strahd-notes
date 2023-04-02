@@ -121,6 +121,9 @@ When approaching:
 - If the chain is removed and the trapdoor opened, the screaming stops
 - The trapdoor is swollen and stuck in its frame => DC12Str to open
 - [[Doru]] is in the undercroft
+- Do everything you can to scare off the players; this is a hard battle
+	- If they fight [[Doru]], [[Donavich]] comes down to fight the PCs
+	- Have [[Donavich]] plead for them to sto
 
 #### Office
 Contents:
