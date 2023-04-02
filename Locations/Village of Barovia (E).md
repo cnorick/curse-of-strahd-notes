@@ -171,6 +171,10 @@ Contents:
 		- {He doesn't know that the Abbey is evil now}
 		- ([[Vallaki]] is on the way to [[Krezk]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
 
+## After the Funeral
+- With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
+- The players may want to rest another night
+
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 
