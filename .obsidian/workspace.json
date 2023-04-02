@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Music Compiled.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 260.5
   },
   "right": {
     "id": "4299b84c9233f17f",
