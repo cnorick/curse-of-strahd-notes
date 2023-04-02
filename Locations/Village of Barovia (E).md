@@ -134,6 +134,9 @@ Contents:
 - If the PCs seem intent on slaying [[Doru]], [[Donavich]] does his best to stop them
 	- If [[Doru]] dies, [[Donavich]] falls to the floor and weeps inconsolably, overcome with despair
 
+#### Funeral for Burgomaster
+- If the characters bring [[Koylan Indirovich]]'s body to the church, [[Donavich]]
+
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 

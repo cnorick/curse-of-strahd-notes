@@ -17,9 +17,9 @@
 ## What They Know
 [[Barovian Lore]]
 - [[Ireena Kolyana]] isn't the natural daughter of [[Koylan Indirovich]]. Although [[Ireena Kolyana|Ireena]] never knew, [[Koylan Indirovich|Koylan]] found her at the edge of the [[Svalich Woods]] near the [[Pillarstone of Ravenloft]]. She was but a girl then and seemed to have no memory of her past. [[Koylan Indirovich|Koylan]] adopted her and loved her dearly
-- Every night
 
 ## Relations
+Son: [[Doru]]
 
 ## Stat Block
 
