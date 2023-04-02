@@ -6,7 +6,9 @@
 - He knows his son still within the monster
 	- and believes in his heart that [[The Morninglord]] will set [[Doru]] free
 	- what's left of his sanity relies on this belief; shattering that hope would destroy [[Donavich]]
- 
+- PCs can offer to take a look at [[Doru]] and [[Donavich]] will agree
+	- He warns the party that no harm can come to his son
+- If it seems like the PCs will kill [[Doru]], [[Donavich]] will des
 
 ## History/Info
 - A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
