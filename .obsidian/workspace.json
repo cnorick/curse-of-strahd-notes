@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Music Compiled.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,7 +147,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "54e74c779d04a4ac",
   "lastOpenFiles": [
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
     "TODO.md",
