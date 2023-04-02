@@ -113,7 +113,7 @@
 When approaching:
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
 
-- Read descriptions from book for other parts of church (p 
+- Read descriptions from book for other parts of church (p 45)
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
