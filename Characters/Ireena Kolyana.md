@@ -67,6 +67,7 @@ alias: Ireena
 	- can provide info about important people in each town
 	- can regurgitate Barovia history trivia without a check
 
+
 ## Secrets
 - She is the blood sister of [[Izek Strazni]], but neither of them know it
 
