@@ -5,7 +5,9 @@
 		- If they cut off his escape, he lunges forth and attacks
 - If the PCs restrain and either:
 	- promise him blood or
-	- threaten to 
+	- threaten to destroy him or
+	- kill him and raise him from the dead
+- He will>
 
 ## History/Info
 - He's a vampire spawn sent from [[Strahd Von Zarovich|Strahd]] to torment [[Donavich]]
