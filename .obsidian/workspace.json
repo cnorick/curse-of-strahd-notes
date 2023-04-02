@@ -32,6 +32,19 @@
             }
           },
           {
+            "id": "e9c75e3434eaf55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gertruda.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4a6a55b6b2182a9b",
             "type": "leaf",
             "state": {
@@ -234,13 +247,14 @@
   },
   "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
+    "Gertruda.md",
+    "Mad Mary.md",
+    "Locations/Village of Barovia (E).md",
     "Locations/Old Svalich Road.md",
     "Characters/Ireena Kolyana.md",
     "Tatyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Misc/If Players Die.md",
-    "Locations/Village of Barovia (E).md",
-    "Mad Mary.md",
     "Misc/Templates/Character.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Arik Lorensk.md",
@@ -263,7 +277,6 @@
     "Misc/Templates/Untitled.canvas",
     "Misc/Templates",
     "TODO.md",
-    "Locations/Death House.md",
     "Session Notes",
     "Misc",
     "Characters",
