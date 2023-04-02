@@ -181,6 +181,9 @@ Contents:
 		- [[Ismark Kolyanovich|Ismark]] says the [[Vistani]] tribe at that location are friendly to visitors
 			- unlike the evil women at the tavern
 		- {if they've talked to [[Vistani]], remind them they said to visit [[Madam Eva]] there}
+- If they're weak, don't throw in any encounters
+	- If they haven't fought any in town, make sure they get some
+
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
