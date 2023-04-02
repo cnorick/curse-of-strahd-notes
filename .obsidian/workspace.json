@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Doru.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -160,12 +159,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d33cc1aea77ebfa1",
+  "active": "45e16b1a893cc142",
   "lastOpenFiles": [
+    "Characters/Doru.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Donavich.md",
     "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Doru.md",
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
     "Misc/Barovian Lore.md",
