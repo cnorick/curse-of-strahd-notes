@@ -18,6 +18,11 @@
 - [[Doru]] returned to his father as a vampire spawn
 	- [[Donavich]] trapped [[Doru]] in the [[Village of Barovia (E)#Church (E5)#Trap Door and Undercroft|Church Undercroft]] where he remains
 
+## If [[Doru]] is Killed
+- Donavich becomes withdrawn and inconsolable
+- When the PCs leave the church, they can hear the church bell ring a single time
+- If the party returns to the church, they find that Donavich has hanged himself from the bell's rope
+
 ## What They Want
 - He wants his son back
 
