@@ -17,6 +17,8 @@ alias: Ireena
 - As a noble, she shines at persuasion, deception, and insight
 	- She's the only daughter of the Burgomaster and part of only three noble families
 	- Give her the *Position of Privilege* feature from the noble background
+		- All the commoners will bend over backwards to accommodate her if they know who she is
+	- 
 
 ## What They Want
 - She wants the characters to bury her father 
