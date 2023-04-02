@@ -5,7 +5,7 @@
 		- If they cut off his escape, he lunges forth and attacks
 - He's starving, but can't die as a vampire; he's in a lot of pain
 	- a pint of blood isn't enough
-	- if they offer him some of their blood, it'll lead to battle
+	- if they offer him some of their blood, it'll lead to battle when his thirst takes over his sanity
 - If the PCs restrain and either:
 	- promise him blood or
 	- threaten to destroy him or

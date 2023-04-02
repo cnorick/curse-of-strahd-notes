@@ -120,6 +120,7 @@ When approaching:
 - [[Donavich]] lost the key to the padlock on the trap door
 - If the chain is removed and the trapdoor opened, the screaming stops
 - The trapdoor is swollen and stuck in its frame => DC12Str to open
+- [[Doru]] is in the undercroft
 
 #### Office
 Contents:
