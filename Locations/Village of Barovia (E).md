@@ -85,7 +85,10 @@
 - Good time for the evening to set in
 - Get the Burgomaster's body to the cemetery in the morning for the funeral
 - Dream pies!
-	- 
+	- Remind the players to try the dream pies if they haven't
+	- [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] politely decline pies if offered
+		- They don't know what they're made of, but have seen their addictive properties
+		- They have nothing against th
  
 ### Church (E5)
 
