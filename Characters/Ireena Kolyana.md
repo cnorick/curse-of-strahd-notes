@@ -19,7 +19,8 @@ alias: Ireena
 	- Give her the *Position of Privilege* feature from the noble background
 		- All the commoners will bend over backwards to accommodate her if they know who she is
 		- Always one level better than normal for *Attitude* (friendly, hostile, etc.)
-- Being politically 
+- Being politically savvy, can help the party navigate the political mess in [[Vallaki]]
+	- can execute a political scandal or disgrace indi
 
 ## What They Want
 - She wants the characters to bury her father 
