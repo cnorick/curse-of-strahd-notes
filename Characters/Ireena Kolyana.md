@@ -72,7 +72,18 @@ alias: Ireena
 	- Other reincarnates in Barovia don't have this feature
 - If prompted correctly by something that reminds her of [[Tatyana]]'s life, these memories will come back
 	- [[Strahd Von Zarovich|Strahd]] has perfected the triggers and can do this fairly easily
-- 
+ 
+### Examples
+- By my slight re-write of canon--while they were courting, Sergei (who was a gifted warrior) took it upon himself to teach Tatyana a bit about sword play (share your hobbies with those you love, I guess?). As a result, while Ireena doesn't own a Rapier at the start of the adventure, if she acquires one later--she'll take to it like a fish to water. Again, she's not a PC...she won't explosively grow in skill the way they do. But she will be good with a rapier from the first time she picks one up.
+- Ireena seems to know her way around Castle Ravenloft. This isn't a conscious awareness, but if she wants to go somewhere in the castle, she can find her way there without fail. She is not, however, aware of changes made since Tatyana's death (like all the traps).
+- Ireena is drawn to strong warrior types...even if it doesn't manifest as a crush, even if the party's strong warrior type isn't male or human...she'll gravitate towards that individual (especially if she is nervous).
+- At any point that is of maximum detriment to Strahd's attempts to wed her, the Dark Powers may trigger Ireena to unlock whatever memories are most likely to make Strahd's attempts blow up in his face.
+- She will recognize Sergei, if she sees him in the crypts, and will unlock fragmentary memories of him.
+- Because I hate the whole Krezk Pool encounter and all of the "Sergei appears and Ireena ceases to exist in favor of Tatyana" scenes...if she encounters Sergei, she will recognize him and unlock a rather large batch of memories that reveals her former identity to her. However, she continues to be Ireena, retains her personality, and must make her own decisions.
+- She will feel nostalgic around the Sunsword, feeling like she recognizes the hilt.
+- The view from the Overlook (Area K6 in Castle Ravenloft) is nostalgic to her, and unlocks a memory of clear, beautiful days seen from that spot. Weird, as she has never seen clear skies in her life.
+- Seeing the painting of Tatyana in Strahd's study may trigger a memory of sitting for that painting.
+- Seeing the dining room (and rotted cake) in Ravenloft may trigger a flashbulb of herself in a wedding dress, with the room richly decorated, and the cake fresh.
 
 ## Secrets
 - She is the blood sister of [[Izek Strazni]], but neither of them know it
