@@ -115,6 +115,11 @@ When approaching:
 
 - Read descriptions from book for other parts of church (p 45)
 
+#### Trap Door and Undercroft
+- [[Donavich]] lost the key to the padlock on the trap door
+- If the chai
+
+
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 
