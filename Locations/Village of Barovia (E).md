@@ -158,7 +158,7 @@ Contents:
 - Have everyone roll perception. Highest roll:
 	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
-- Afte
+- After the funeral, the man is gone; You don't know where he went
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
 	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
