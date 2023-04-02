@@ -1,9 +1,13 @@
 (NE Undead)
 ## Playing Doru
--
+- He's starved for blood and will attack a lone character
+	- If the PCs approach as a group, he does his best to avoid while hissing:
+		- "I can smell your blood!"
+		- If they cut 
 
 ## History/Info
 - He's a vampire spawn sent from [[Strahd Von Zarovich|Strahd]] to torment [[Donavich]]
+
 From Donavich:
 ![[Donavich#History/Info^]]
 
