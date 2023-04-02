@@ -19,12 +19,14 @@ From Donavich:
 ![[Donavich#History/Info^]]
 
 ## What They Want
-- He wants to eat
+- He wants to eat; he's starved of blood
+- He'll go back to [[Strahd Von Zarovich|Strahd]] if released
+	- He'll flee to [[Castle Ravenloft|Ravenloft]], finding wolves/deer on the way for blood
 
 ## What They Know
 [[Barovian Lore]]
 - He knows that the [[Mad Mage of Mount Baratok|Mad Mage]] escaped into the woods
-	- He'll tell the PCs under the
+	- He'll tell the PCs under the conditions above
 
 ## Relations
 Father: [[Donavich]]
