@@ -185,4 +185,4 @@ Contents:
 - When she explains why they're so expensive:
 	- it's a bit of magic her mother taught her before the witch killed her
 	- The pies bring the eaters only the sweetest of dreams, something poorly lacking in this dreary world (make her seem grief stricken by the state of the world)
-- She'll point them to the [[Blood on the Vine Tavern]]
+- She'll point them to the [[Blood on the Vine Tavern]], seeing how tired they seem to be after jus
