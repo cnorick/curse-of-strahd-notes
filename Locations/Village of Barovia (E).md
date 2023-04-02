@@ -67,7 +67,7 @@
 - They warn the PCs about the church before going
 	- [[Donavich]] is in a bad way recently because of his son
 
-- The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights
+- The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights her on it)
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
