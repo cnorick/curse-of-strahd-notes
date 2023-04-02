@@ -7,7 +7,7 @@
 	- promise him blood or
 	- threaten to destroy him or
 	- kill him and raise him from the dead
-	- Then , he will recount the events that led to his downfall
+	- Then, he will recount the events that led to his downfall
 
 ## History/Info
 - He's a vampire spawn sent from [[Strahd Von Zarovich|Strahd]] to torment [[Donavich]]
