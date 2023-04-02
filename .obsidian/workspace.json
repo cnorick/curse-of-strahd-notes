@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Tatyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Tatyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Tatyana.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Tatyana.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -147,13 +147,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "45e16b1a893cc142",
   "lastOpenFiles": [
+    "Locations/Death House.md",
+    "Locations/Village of Barovia (E).md",
+    "Characters/Tatyana.md",
     "Untitled.md",
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Morgantha.md",
-    "Locations/Village of Barovia (E).md",
     "Campaign/Session 3.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
@@ -162,7 +164,6 @@
     "Characters/Mad Mary.md",
     "Locations/Old Svalich Road.md",
     "Characters/Ireena Kolyana.md",
-    "Characters/Tatyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Misc/If Players Die.md",
     "Misc/Templates/Character.md",
@@ -176,7 +177,6 @@
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
     "Village of Barovia.pdf",
-    "Characters/Untitled.md",
     "Misc/Templates/Untitled.canvas",
     "Misc/Templates",
     "Session Notes",
