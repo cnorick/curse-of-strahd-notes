@@ -15,11 +15,15 @@
 	- because she has to keep track of her clients
 
 ## What They Know
+[[Barovian Lore]]
 - [[Strahd Von Zarovich]] has mastery over the land and the weather, and his spies include the [[Vistani]]
 - There's a [[Vistani]] camp to the west, on the shores of [[Tser Pool]] on the outskirts of [[Vallaki]]
 - [[Strahd Von Zarovich]] has undead enemies in Barovia, namely the fallen knights of the [[Order of the Silver Dragon]]. These revenants can be found in a ruined mansion west of [[Vallaki]] (see [[Argynvostholt]])
 - [[Strahd Von Zarovich]]'s most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see [[Amber Temple]]). The temple can be reached by following the long and winding [[Tsolenka Pass]]
 
+### Rumors About the [[Village of Barovia (E)]]
+- No one has seen the burgomaster for a few days and his children aren't saying much
+- 
 
 ## Stat Block
 
