@@ -91,7 +91,11 @@
 		- They have nothing against them, but they're just not interested
 		- The recommend the players just have a small portion, just in case, but see no harm
 	- The players that try them are delighted by the taste
-		- It's very flavorful, unexpected for frood from this drear
+		- It's very flavorful, unexpected for food from this dreary world
+		- When they sleep that night, they have bright, beautiful dreams full of color
+			- They feel hopelessly safe and loved
+		- They wake up more empty than usual
+- Players can 
  
 ### Church (E5)
 
