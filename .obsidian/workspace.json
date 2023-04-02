@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Assets/Music/Music Compiled.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -162,10 +162,10 @@
   },
   "active": "cbf2d79ef32a7be1",
   "lastOpenFiles": [
-    "TODO.md",
-    "Assets/Music/Music Compiled.md",
-    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
+    "Assets/Music/Music Compiled.md",
+    "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
     "Characters/Doru.md",
