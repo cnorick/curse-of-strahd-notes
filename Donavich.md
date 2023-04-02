@@ -11,5 +11,5 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: Acolyte
 ```
