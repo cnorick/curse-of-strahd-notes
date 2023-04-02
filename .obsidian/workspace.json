@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ireena Kolyana.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "45e16b1a893cc142",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Locations/Village of Barovia (E).md",
+    "conflict-files-obsidian-git.md",
     "Characters/Doru.md",
     "Characters/Donavich.md",
     "Characters/Mad Mage of Mount Baratok.md",

@@ -183,7 +183,7 @@ _Farewell, precious sun._
 		- {if they've talked to [[Vistani]], remind them they said to visit [[Madam Eva]] there}
 - If they're weak, don't throw in any encounters
 	- If they haven't fought any in town, make sure they get some
-
+ - Level up the characters when the rest next
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
