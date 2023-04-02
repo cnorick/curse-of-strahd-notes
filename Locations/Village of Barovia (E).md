@@ -82,7 +82,7 @@
 #### A Good Time to Rest
 - They're safe at the burgomaster's mansion
 	- They've learned a lot, met some people, and have some story quests
-- Good time for the evening to set in.
+- Good time for the evening to set in
  
 ### Church (E5)
 

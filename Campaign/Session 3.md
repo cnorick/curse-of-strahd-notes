@@ -1,2 +1,3 @@
 - Explore [[Village of Barovia (E)]]
 - Meet [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]]
+- Set out for [[Vallaki]]

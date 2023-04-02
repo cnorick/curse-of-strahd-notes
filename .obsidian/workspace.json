@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Characters/Morgantha.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 3.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           }
@@ -295,12 +295,12 @@
   },
   "active": "f7e6e516010f55b6",
   "lastOpenFiles": [
-    "Campaign/Session 2.md",
+    "Locations/Village of Barovia (E).md",
     "Campaign/Session 3.md",
+    "Campaign/Session 2.md",
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",
     "Untitled.md",
-    "Locations/Village of Barovia (E).md",
     "Gertruda.md",
     "Mad Mary.md",
     "Locations/Old Svalich Road.md",
