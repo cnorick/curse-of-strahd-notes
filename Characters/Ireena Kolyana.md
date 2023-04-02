@@ -35,6 +35,8 @@ alias: Ireena
 - She's not used to the rigors of life on the move -- especially the pace set by PCs
 	- Her feet will hurt at first. She may show signs and will be grateful for kindness/help
 		- But will absolutely not complain; she's good at sucking it up
+- Her hair is auburn (brownish red) and is unheard of in Barovia.
+	- {She dies her hair black to throw off her relationship to [[Tatyana]]}
 
 ## What They Want
 - She wants the characters to bury her father 
