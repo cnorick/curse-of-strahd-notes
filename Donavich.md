@@ -16,7 +16,8 @@
 
 ## What They Know
 [[Barovian Lore]]
-- 
+- [[Ireena Kolyana]] isn't the natural 
+
 ## Relations
 
 ## Stat Block
