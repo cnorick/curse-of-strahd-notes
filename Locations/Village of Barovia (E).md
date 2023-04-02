@@ -95,7 +95,9 @@
 		- When they sleep that night, they have bright, beautiful dreams full of color
 			- They feel hopelessly safe and loved
 		- They wake up more empty than usual
-- Players can 
+- Players can take watches if wanted, just in case. But nothing happens
+	- They might hear footsteps encircling the house at night, then leaving
+	- Players that ate pie can't be woken until morning
  
 ### Church (E5)
 
