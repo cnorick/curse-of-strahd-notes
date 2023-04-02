@@ -70,7 +70,10 @@
 	- They've had a lot of unwelcome visitors recently
 - Mary pushes her way into the house when he opens the door
 	- this puts [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] at ease because it's during the day and she came in uninvited
-		- They can share this with the playe
+		- They can share this with the players; maybe [[Ireena Kolyana|Ireena]] comes out of hiding when it happens and explains to the PCs while [[Ismark Kolyanovich|Ismark]] is dealing with Mary
+- The players overhear Mary's frantic rambling:
+	- begging [[Ismark Kolyanovich|Ismark]] to help her daughter
+	- Sh
 
 ### Church (E5)
 
