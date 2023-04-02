@@ -1,6 +1,8 @@
 (NE human)
 ## Playing <% tp.file.title %>
 
+## History/Info
+
 ## What They Want
 
 ## What They Know
