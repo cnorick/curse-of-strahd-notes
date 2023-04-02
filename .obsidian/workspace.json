@@ -11,12 +11,8 @@
             "id": "45e16b1a893cc142",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Doru.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Doru.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,8 +153,8 @@
   },
   "active": "45e16b1a893cc142",
   "lastOpenFiles": [
-    "Characters/Donavich.md",
     "Characters/Doru.md",
+    "Characters/Donavich.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Koylan Indirovich.md",
