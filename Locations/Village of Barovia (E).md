@@ -125,7 +125,7 @@ Contents:
 - Desk drawers: few sheets of parchment, quill pens, dried-up ink jars
 - Wooden cabinet: tinderbox, few wooden boxes full of candles, two well used books:
 	- *The Bland of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition* (a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults
-	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]]
+	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]])
 
 #### Chapel (E5F)
 - [[Doru]] hasn't been fed since he was imprisoned (over a year)
