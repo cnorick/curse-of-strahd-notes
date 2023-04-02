@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Ismark Kolyanovich.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "d541c5e8934613c5",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
     "TODO.md",
     "Misc/Templates/Character.md",
     "Misc/Vistani.md",
@@ -182,7 +183,6 @@
     "Misc/Barovian Lore.md",
     "Misc/Adventuring Gear.md",
     "Misc",
-    "Locations/Village of Barovia (E).md",
     "Locations/Old Svalich Road.md",
     "Locations/Castle Ravenloft.md",
     "Characters/Tatyana.md",
