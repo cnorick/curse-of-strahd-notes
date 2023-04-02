@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "d541c5e8934613c5",
   "lastOpenFiles": [
+    "Characters/Ismark Kolyanovich.md",
     "Locations/Village of Barovia (E).md",
     "TODO.md",
     "Misc/Templates/Character.md",
@@ -192,7 +193,6 @@
     "Characters/Mad Mary.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Koylan Indirovich.md",
-    "Characters/Ismark Kolyanovich.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Gertruda.md",
     "Characters/Doru.md",
