@@ -153,7 +153,10 @@ Contents:
 		_Her silver light guides us until then_
 		_There is always another dawn_
 		_Farewell, precious sun._
-- Have everyone roll perceptionWhile the prayer is being given
+  
+- Have everyone roll perception. 
+	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
+
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
 	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
