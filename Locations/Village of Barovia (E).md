@@ -120,6 +120,10 @@ When approaching:
 - If the chain is removed and the trapdoor opened, the screaming stops
 - The trapdoor is swollen and stuck in its frame => DC12Str to open
 
+#### Office
+Contents:
+- Desk drawers: few sheets of parchment, quill pens, dried-up ink jars
+
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
