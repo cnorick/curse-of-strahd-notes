@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Donavich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "d33cc1aea77ebfa1",
   "lastOpenFiles": [
+    "Characters/Donavich.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Donavich.md",
     "Characters/Doru.md",
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
