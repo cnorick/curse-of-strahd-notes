@@ -108,7 +108,7 @@
 	- Players that ate pie can't be woken until morning
  
 ### Church (E5)
-> Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]]
+> Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]] stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is work and weary. A bell tower rises toward the back, and flickering light shines through holes in teh shingled roof. The rafters strain fee bly agains their load
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
