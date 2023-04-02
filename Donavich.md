@@ -9,7 +9,10 @@
 ## What They Know
 [[Barovian Lore]]
 - A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
-	- having been lured there by a wizard in black robes who came toe ({the [[Mad Mage of Mount Baratok|Mad Mage]]})
+	- having been lured there by a wizard in black robes who came to Barovia from a faraway land
+		- {the [[Mad Mage of Mount Baratok|Mad Mage]]}
+	- By all accounts, the wizard died by [[Strahd Von Zarovich|Strahd]]'s hand and so too did [[Doru]]
+	- [[Dor
 
 ## Relations
 
