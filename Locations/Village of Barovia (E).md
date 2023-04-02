@@ -76,7 +76,8 @@
 	- Mary speaks the first player that intervenes and begs for them to help her child
 	- She rambles on about [[Gertruda]] making it sound like she's a little kid (7 or 8)
 - After the PCs alleviate Mary's hysteria, [[Ismark Kolyanovich|Ismark]] walks her back home
-	- In the meantime, [[Ireena Kolyana|Ireena]] explains that [[Gertruda]] is actually a teen and ran away into the mists 
+	- In the meantime, [[Ireena Kolyana|Ireena]] explains that [[Gertruda]] is actually a teen and ran away into the mists over a week ago and is probably dead
+	- There's really not much the party can do
  
 ### Church (E5)
 
