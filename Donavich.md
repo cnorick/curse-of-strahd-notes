@@ -4,9 +4,11 @@
 - He's basically driven himself insane and acts frantic
 
 ## What They Want
+- He wants his son back
 
 ## What They Know
 [[Barovian Lore]]
+- His son was
 
 ## Relations
 
