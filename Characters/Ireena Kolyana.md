@@ -27,6 +27,8 @@ alias: Ireena
 	- She's really good with the needle {given time to learn, she can pick up the basics of medical care/herbalism}
 		- {mechanically, let her unlock the *Healer* feat + the ability to make *Healer Kits*}
 			- Not good enough to do it during combat though
+- She tries to be helpful to the party and not stand in the way
+	- 
 
 ## What They Want
 - She wants the characters to bury her father 
