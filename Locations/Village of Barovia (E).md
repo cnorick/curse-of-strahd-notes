@@ -88,7 +88,10 @@
 	- Remind the players to try the dream pies if they haven't
 	- [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] politely decline pies if offered
 		- They don't know what they're made of, but have seen their addictive properties
-		- They have nothing against th
+		- They have nothing against them, but they're just not interested
+		- The recommend the players just have a small portion, just in case, but see no harm
+	- The players that try them are delighted by the taste
+		- It's very flavorful, unexpected for frood from this drear
  
 ### Church (E5)
 
