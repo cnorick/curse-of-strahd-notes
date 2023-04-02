@@ -61,7 +61,9 @@
 	- {Not necessarily [[Vallaki]], but wherever she's safe}
 	- He will suggest [[Vallaki]] though
  
-####
+#### [[Mad Mary]]'s Visit
+- This is for if the PCs don't take the bait to visit [[Mad Mary]]
+- After the players meet [[Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the doo
 
 ### Church (E5)
 
