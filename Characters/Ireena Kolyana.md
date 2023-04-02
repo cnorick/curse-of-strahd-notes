@@ -71,7 +71,8 @@ alias: Ireena
 ### Near-Immunity to Danger
 - Creatures who serve [[Strahd Von Zarovich|Strahd]] are aware of who she is
 - They know that if they harm her, they'll have to answer to [[Strahd Von Zarovich|Strahd]]
-- They may disarm her or incapacitate (without real harm )
+- They may disarm her or incapacitate (without real harm) if she's fighting
+- So the PCs don't have to constantly fret about protecting her
 
 ### [[Tatyana]]'s Memories
 - Since she has [[Tatyana]]'s soul, sometimes Tatyana's memories will come to her
