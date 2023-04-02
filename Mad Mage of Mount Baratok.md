@@ -1,3 +1,3 @@
 ---
-alias: Made Mage
+alias: Mad Mage
 ---

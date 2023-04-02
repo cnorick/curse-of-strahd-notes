@@ -9,7 +9,7 @@
 ## What They Know
 [[Barovian Lore]]
 - A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
-	- having been lured there by a
+	- having been lured there by a wizard in black robes who came toe ({the [[Mad Mage of Mount Baratok|Mad Mage]]})
 
 ## Relations
 
