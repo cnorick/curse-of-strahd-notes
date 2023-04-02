@@ -64,7 +64,7 @@
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
 		- No one else in town has been brave enough to help
 - They warn the PCs about the church before going
-	- Donavich
+	- [[Donavich]] is in a bad way recently because of his son
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
