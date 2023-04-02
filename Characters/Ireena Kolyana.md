@@ -40,6 +40,7 @@ alias: Ireena
 		- {this throws off her relationship to [[Tatyana]]}
 		- {all of [[Strahd Von Zarovich|Strahd]]' s targets have that color hair and they have died (unlucky)}
 		- She has to re-dye it regularly or stand out in the crowd
+- She's really pretty with high Cha and [[Strahd Von Zarovich|Strahd]] is jealous; if an NPC flirts to hard, they may wind up dead
 
 ## What They Want
 - She wants the characters to bury her father 
