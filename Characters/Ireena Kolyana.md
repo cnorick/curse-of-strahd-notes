@@ -32,7 +32,8 @@ alias: Ireena
 	- when she can't keep up in a fight, she'll do other things:
 		- gather expended ammo, teaching herself first aid, searching bodies for useful stuff, etc.
 - She's not used to the rigors of life on the move -- especially the pace set by PCs
-	- Her feet will hurt at first
+	- Her feet will hurt at first. She may show signs and will be grateful for kindness/help
+		- But will absolutely not complain; she's good at sucking it up
 
 ## What They Want
 - She wants the characters to bury her father 
