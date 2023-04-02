@@ -117,7 +117,8 @@ When approaching:
 
 #### Trap Door and Undercroft
 - [[Donavich]] lost the key to the padlock on the trap door
-- If the chai
+- If the chain is removed and the trapdoor opened, the screaming stops
+- The trapdoor is swollen and stuck in its frame => DC12Str to open
 
 
 ### Cemetery (E6)
