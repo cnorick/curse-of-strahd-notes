@@ -136,7 +136,8 @@ Contents:
 
 #### Funeral for Burgomaster
 - If the characters bring [[Koylan Indirovich]]'s body to the church, [[Donavich]] presses them into helping him bury the body in the cemetery at dawn
-- The PCs and [[Ismark Kolyanovich|Ismark]]
+- The PCs and [[Ismark Kolyanovich|Ismark]] come to the Church with the Bod
+	- They maybe set the coffin down right inside
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
