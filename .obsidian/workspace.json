@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Strahd Von Zarovich.md"
+              }
             }
           }
         ]
@@ -143,16 +147,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "d33cc1aea77ebfa1",
   "lastOpenFiles": [
-    "Assets/Music",
-    "Assets",
-    "Locations/Village of Barovia (E).md",
+    "Assets/Music/001 Introduction - Into The Mists.opus",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Doru.md",
     "001 Introduction - Into The Mists.opus",
+    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
+    "Assets/Music/012 Glimmer Of Hope - Into The Mists.opus",
+    "Assets/Music/011 Dark Vestiges - Into The Mists.opus",
+    "Assets/Music/010 The Creeping Hut - Into The Mists.opus",
+    "Assets/Music/009 Restless Knights - Into The Mists.opus",
+    "Assets/Music/008 All Against Darkness - Into The Mists.opus",
+    "Assets/Music/007 A Coveted Soul - Into The Mists.opus",
+    "Assets/Music/006 Dream Pastries - Into The Mists.opus",
+    "Locations/Village of Barovia (E).md",
     "Locations/Death House.md",
     "Characters/Ireena Kolyana.md",
     "conflict-files-obsidian-git.md",
-    "Characters/Doru.md",
     "Characters/Donavich.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Arik Lorensk.md",
@@ -164,7 +176,6 @@
     "Characters/Tatyana.md",
     "Untitled.md",
     "TODO.md",
-    "Characters/Strahd Von Zarovich.md",
     "Characters/Morgantha.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
@@ -173,15 +184,7 @@
     "Characters/Mad Mary.md",
     "Locations/Old Svalich Road.md",
     "Characters/Ismark Kolyanovich.md",
-    "Custom Monsters",
-    "Village of Barovia.pdf",
     "Misc/Templates/Untitled.canvas",
-    "Assets/Templates",
-    "Session Notes",
-    "Misc",
-    "Characters",
-    "Campaign",
-    "Locations",
     "Untitled.canvas"
   ]
 }

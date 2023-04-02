@@ -1,6 +1,7 @@
 ---
 alias: Strahd
 ---
+[[001 Introduction - Into The Mists.opus]]
 
 ## Strahd's Goals
 ### Turn [[Ireena Kolyana]]
