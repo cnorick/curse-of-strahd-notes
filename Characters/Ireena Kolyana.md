@@ -20,7 +20,9 @@ alias: Ireena
 		- All the commoners will bend over backwards to accommodate her if they know who she is
 		- Always one level better than normal for *Attitude* (friendly, hostile, etc.)
 - Being politically savvy, can help the party navigate the political mess in [[Vallaki]]
-	- can execute a political scandal or disgrace indi
+	- can execute a political scandal or disgrace individuals
+- Does embroidery as it is an "appropriate hobby for a lady"
+	- She's really good
 
 ## What They Want
 - She wants the characters to bury her father 
