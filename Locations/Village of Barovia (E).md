@@ -63,7 +63,11 @@
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
-- After the players meet [[Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the doo
+- After the players meet [[Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the door and knocks profusely
+- [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] are cautious
+	- He motions to everyone to stay down and stay quiet while he answers the door
+	- They've had a lot of unwelcome visitors recently
+- 
 
 ### Church (E5)
 
