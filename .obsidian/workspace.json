@@ -23,11 +23,9 @@
             "id": "cbf2d79ef32a7be1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "audio",
               "state": {
-                "file": "Assets/Music/Music Compiled.md",
-                "mode": "preview",
-                "source": false
+                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Music/Music Compiled.md",
+                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Music/Music Compiled.md",
+                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Music/Music Compiled.md"
+                "file": "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus"
               }
             }
           }
@@ -163,13 +161,13 @@
   "active": "cbf2d79ef32a7be1",
   "lastOpenFiles": [
     "TODO.md",
+    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
     "Assets/Music/Music Compiled.md",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
     "Characters/Doru.md",
     "001 Introduction - Into The Mists.opus",
-    "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
     "Assets/Music/012 Glimmer Of Hope - Into The Mists.opus",
     "Assets/Music/011 Dark Vestiges - Into The Mists.opus",
     "Assets/Music/010 The Creeping Hut - Into The Mists.opus",
