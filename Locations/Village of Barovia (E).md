@@ -78,6 +78,9 @@
 - After the PCs alleviate Mary's hysteria, [[Ismark Kolyanovich|Ismark]] walks her back home
 	- In the meantime, [[Ireena Kolyana|Ireena]] explains that [[Gertruda]] is actually a teen and ran away into the mists over a week ago and is probably dead
 	- There's really not much the party can do
+
+#### A Good Time to Rest
+- They're safe at the burgamaster's
  
 ### Church (E5)
 

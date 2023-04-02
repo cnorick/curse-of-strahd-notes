@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gertruda.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gertruda.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gertruda.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -257,10 +257,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ba7f0f919003d8b7",
+  "active": "0c9377833a76d5a6",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Gertruda.md",
+    "Locations/Village of Barovia (E).md",
     "Mad Mary.md",
     "Locations/Old Svalich Road.md",
     "Characters/Ireena Kolyana.md",
