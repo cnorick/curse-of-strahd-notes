@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "bfc2d0daabecf171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Session 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba7f0f919003d8b7",
             "type": "leaf",
             "state": {
@@ -141,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 1.md",
+                "file": "Campaign/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 1.md",
+                "file": "Campaign/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 1.md"
+                "file": "Campaign/Session 2.md"
               }
             }
           }
@@ -269,10 +281,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b43e14f02ba7c617",
+  "active": "bfc2d0daabecf171",
   "lastOpenFiles": [
-    "Campaign/Session 0.md",
     "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 0.md",
     "Untitled.md",
     "Locations/Village of Barovia (E).md",
     "Gertruda.md",
@@ -300,7 +313,6 @@
     "Characters/foo.md",
     "Misc/Templates/Untitled.canvas",
     "Misc/Templates",
-    "TODO.md",
     "Session Notes",
     "Misc",
     "Characters",
