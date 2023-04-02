@@ -141,7 +141,8 @@ Contents:
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 
 #### Funeral for Burgomaster
-- [[Donavich]] offers prayers
+- [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Koylan Indirovich]]'s deliverance from Barovia
+- Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
