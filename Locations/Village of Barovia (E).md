@@ -73,8 +73,9 @@
 		- They can share this with the players; maybe [[Ireena Kolyana|Ireena]] comes out of hiding when it happens and explains to the PCs while [[Ismark Kolyanovich|Ismark]] is dealing with Mary
 - The players overhear Mary's frantic rambling:
 	- begging [[Ismark Kolyanovich|Ismark]] to help her daughter
-	- Sh
-
+	- Mary speaks the first player that intervenes and begs for them to help her child
+	- She rambles on about [[Gertruda]] making it sound like the's
+ 
 ### Church (E5)
 
 ### Cemetery (E6)
