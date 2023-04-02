@@ -9,5 +9,6 @@
   "vimMode": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "autoPairBrackets": false
+  "autoPairBrackets": false,
+  "promptDelete": false
 }
