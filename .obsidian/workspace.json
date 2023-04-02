@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 3.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "45e16b1a893cc142",
   "lastOpenFiles": [
+    "Campaign/Session 3.md",
     "Locations/Village of Barovia (E).md",
     "Donavich.md",
     "Locations/Death House.md",
@@ -157,7 +158,6 @@
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Morgantha.md",
-    "Campaign/Session 3.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",

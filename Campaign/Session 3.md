@@ -3,5 +3,5 @@
 - Get to [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine]]
 - Meet [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]]
 - Bury [[Ismark Kolyanovich]]
-	- Go the the [[Village of Barovia (E)#Church (E5)|Church]]
+	- Go the the [[Village of Barovia (E)#Church (E5)|Church]] then the [[Village of Barovia (E)#Cemetery (E6)|Cemetery]]
 - Set out for [[Vallaki]]
