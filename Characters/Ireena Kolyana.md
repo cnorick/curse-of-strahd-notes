@@ -22,7 +22,8 @@ alias: Ireena
 - Being politically savvy, can help the party navigate the political mess in [[Vallaki]]
 	- can execute a political scandal or disgrace individuals
 - Does embroidery as it is an "appropriate hobby for a lady"
-	- She's really good
+	- She's really good with the needle {given time to learn, she can pick up the basics of medical care/herbalism}
+		- {mechanically, }
 
 ## What They Want
 - She wants the characters to bury her father 
