@@ -143,6 +143,7 @@ Contents:
 #### Funeral for Burgomaster
 - [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Koylan Indirovich]]'s deliverance from Barovia
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
+	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]]
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
