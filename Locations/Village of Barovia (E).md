@@ -144,6 +144,7 @@ Contents:
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 
 #### Funeral for Burgomaster
+- At the funeral, it's just the players, [[Ismark Kolyanovich|Ismark]] and [[Donavich]]
 - [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Koylan Indirovich]]'s deliverance from Barovia
 	> _Farewell, Illuminated one, until we meet again_
 		_We carry the sun in our hearts until then_
@@ -154,9 +155,10 @@ Contents:
 		_There is always another dawn_
 		_Farewell, precious sun._
   
-- Have everyone roll perception. 
+- Have everyone roll perception. Highest roll:
 	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
+- Afte
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
 	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
