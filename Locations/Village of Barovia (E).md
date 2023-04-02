@@ -128,7 +128,10 @@ Contents:
 	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]]
 
 #### Chapel (E5F)
-
+- [[Doru]] hasn't been fed since he was imprisoned (over a year)
+	- he cries out to his father at all hours
+- [[Donavich]] prays day and night, hoping the gods will tell him how to save [[Doru]]
+- If t
 
 ### Cemetery (E6)
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
