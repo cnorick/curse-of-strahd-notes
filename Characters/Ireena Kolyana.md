@@ -8,8 +8,9 @@ alias: Ireena
 	- because of this: the villagers are afraid of her and avoid her
 - She appears mild
 	- but has a strong will, and she aids the party as best she can in saving herself
-	- has a stubborn streak and sometimes will plant herself and changing her m
+	- has a stubborn streak and sometimes will plant herself and changing her mind becomes extraordinarily difficult
 - She is one of the few truly good people in the game
+	- She's scared like everyone else, but her fear has made he
 - loves discovering new things
 - honestly wants to help those in need
 - She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
