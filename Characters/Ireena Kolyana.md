@@ -68,6 +68,10 @@ alias: Ireena
 	- can regurgitate Barovia history trivia without a check
 
 ## Special Feats
+### Near-Immunity to Danger
+- Creatures who serve [[Strahd Von Zarovich|Strahd]] are aware of who she is
+- They know that if they harm her, they'll have to answer to [[Strahd Von Zarovich|Strahd]]
+- They may disarm her or incapacitate (without real harm )
 
 ### [[Tatyana]]'s Memories
 - Since she has [[Tatyana]]'s soul, sometimes Tatyana's memories will come to her
@@ -75,7 +79,7 @@ alias: Ireena
 - If prompted correctly by something that reminds her of [[Tatyana]]'s life, these memories will come back
 	- [[Strahd Von Zarovich|Strahd]] has perfected the triggers and can do this fairly easily
  
-### Examples
+#### Examples
 - By my slight re-write of canon--while they were courting, Sergei (who was a gifted warrior) took it upon himself to teach Tatyana a bit about sword play (share your hobbies with those you love, I guess?). As a result, while Ireena doesn't own a Rapier at the start of the adventure, if she acquires one later--she'll take to it like a fish to water. Again, she's not a PC...she won't explosively grow in skill the way they do. But she will be good with a rapier from the first time she picks one up.
 - Ireena seems to know her way around Castle Ravenloft. This isn't a conscious awareness, but if she wants to go somewhere in the castle, she can find her way there without fail. She is not, however, aware of changes made since Tatyana's death (like all the traps).
 - Ireena is drawn to strong warrior types...even if it doesn't manifest as a crush, even if the party's strong warrior type isn't male or human...she'll gravitate towards that individual (especially if she is nervous).
