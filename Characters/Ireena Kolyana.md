@@ -11,11 +11,12 @@ alias: Ireena
 	- has a stubborn streak and sometimes will plant herself and changing her mind becomes extraordinarily difficult
 - She is one of the few truly good people in the game
 	- She's scared like everyone else, but her fear has made her kind and empathetic
+	- She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
+		- She actively works to avoid him
+		- The fear motivates her
 	- She comforts children, helps those in need
 - loves discovering new things
-- honestly wants to help those in need
-- She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
-	- She actively works to avoid him
+- Has a sense of h
 - As a noble, she shines at persuasion, deception, and insight
 	- She's the only daughter of the Burgomaster and part of only three noble families
 	- Give her the *Position of Privilege* feature from the noble background
