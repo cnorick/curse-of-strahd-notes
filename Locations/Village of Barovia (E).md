@@ -173,7 +173,9 @@ Contents:
 
 ## After the Funeral
 - With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
-- The players may want to rest another night
+- The players may want to rest another night (esp if they fought [[Doru]])
+	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
+	- [[Strahd Von Zarovich|Strahd]] no longer has 
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
