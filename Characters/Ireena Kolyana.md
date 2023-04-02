@@ -16,7 +16,7 @@ alias: Ireena
 		- The fear motivates her
 	- She comforts children, helps those in need
 - loves discovering new things
-- Has a sense of h
+- Has a sense of humor and will sometimes crack jokes (unusual in Barovia) {It's a lingering effect of [[Tatyana]]'s soul from an earlier time}
 - As a noble, she shines at persuasion, deception, and insight
 	- She's the only daughter of the Burgomaster and part of only three noble families
 	- Give her the *Position of Privilege* feature from the noble background
