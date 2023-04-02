@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0446b606f98f9e9",
+        "id": "9b684e75c0ed8524",
         "type": "tabs",
         "children": [
           {
-            "id": "48777601224ba509",
+            "id": "54e74c779d04a4ac",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Music Compiled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Music Compiled.md"
+              }
             }
           }
         ]
@@ -139,11 +147,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48777601224ba509",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "TODO.md",
-    "Assets/Music/Music Compiled.md",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+    "TODO.md",
+    "Music Compiled.md",
     "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
