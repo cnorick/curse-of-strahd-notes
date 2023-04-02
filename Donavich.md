@@ -8,7 +8,8 @@
 
 ## What They Know
 [[Barovian Lore]]
-- His son was
+- A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
+	- having been lured there by a
 
 ## Relations
 
