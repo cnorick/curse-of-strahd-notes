@@ -28,7 +28,9 @@ alias: Ireena
 		- {mechanically, let her unlock the *Healer* feat + the ability to make *Healer Kits*}
 			- Not good enough to do it during combat though
 - She tries to be helpful to the party and not stand in the way
-	- 
+	- the most actively helpful individual the party will encounter
+	- when she can't keep up in a fight, she'll do other things:
+		- gather expended ammo, teaching herself first aid, searching bodies for useful stuff, etc.
 
 ## What They Want
 - She wants the characters to bury her father 
