@@ -73,6 +73,8 @@ alias: Ireena
 - They know that if they harm her, they'll have to answer to [[Strahd Von Zarovich|Strahd]]
 - They may disarm her or incapacitate (without real harm) if she's fighting
 - So the PCs don't have to constantly fret about protecting her
+- She's resistant to being abducted because of [[Strahd Von Zarovich|Strahd]]'s protection
+	- He's capable of taking her from the PCs if he wants, but must want her with t
 
 ### [[Tatyana]]'s Memories
 - Since she has [[Tatyana]]'s soul, sometimes Tatyana's memories will come to her
