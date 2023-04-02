@@ -11,17 +11,11 @@
             "id": "d33cc1aea77ebfa1",
             "type": "leaf",
             "state": {
-              "type": "media-view",
+              "type": "markdown",
               "state": {
-                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
-                "info": {
-                  "type": "audio",
-                  "filename": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
-                  "src": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
-                  "subtitles": [],
-                  "hash": ""
-                },
-                "currentTime": 0
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a"
+                "file": "TODO.md"
               }
             }
           }
@@ -153,11 +147,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "d33cc1aea77ebfa1",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
     "Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a",
+    "TODO.md",
     "Assets/Music/001 Introduction - Into The Mists.opus",
+    "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
     "001 Introduction - Into The Mists.opus",
     "Assets/Music/013 He Is The Ancient, He Is The Land - Into The Mists.opus",
@@ -181,7 +176,6 @@
     "Assets/Templates/Character.md",
     "Characters/Tatyana.md",
     "Untitled.md",
-    "TODO.md",
     "Characters/Morgantha.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
