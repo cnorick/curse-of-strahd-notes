@@ -25,6 +25,7 @@ alias: Ireena
 - Being politically savvy, can help the party navigate the political mess in [[Vallaki]]
 	- can execute a political scandal or disgrace individuals
 - Does embroidery as it is an "appropriate hobby for a lady"
+	- All her cloth items (clothes, backpack, etc.) have flourishes
 	- She's really good with the needle {given time to learn, she can pick up the basics of medical care/herbalism}
 		- {mechanically, let her unlock the *Healer* feat + the ability to make *Healer Kits*}
 			- Not good enough to do it during combat though
