@@ -14,7 +14,8 @@ alias: Ireena
 - honestly wants to help those in need
 - She doesn't let her fear of [[Strahd Von Zarovich|Strahd]] stand in her way
 	- She actively works to avoid him
-- Sh
+- As a noble, she shines at persuasion, deception, and insight
+	- 
 
 ## What They Want
 - She wants the characters to bury her father 
