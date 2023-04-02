@@ -16,7 +16,7 @@
 
 ## What They Know
 [[Barovian Lore]]
-- [[Ireena Kolyana]] isn't the natural 
+- [[Ireena Kolyana]] isn't the natural daughter of [[Koylan Indirovich]]. Although [[Ireena Kolyana|Ireena]] never knew, [[Koylan Indirovich|Koylan]] found her at the edge of the [[Svalich Woods]]
 
 ## Relations
 
