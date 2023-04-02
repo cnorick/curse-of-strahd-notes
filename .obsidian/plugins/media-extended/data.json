@@ -9,7 +9,7 @@
   "embedMaxHeight": "30vh",
   "embedMinWidth": "400px",
   "plyrControls": {
-    "restart": true,
+    "restart": false,
     "rewind": false,
     "play": true,
     "fast-forward": false,
