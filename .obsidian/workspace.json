@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f46cb0fa969ba0f6",
+        "id": "d10dd31a8962bfbc",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b8298f18651175",
+            "id": "0b183cb3911a7e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,12 +147,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d2b8298f18651175",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
+    "Music Compiled.md",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
     "Assets/Music/Ravenloft- Barovia： Village of Barovia [dXTNvDeFdVU].m4a",
     "Assets/Music/D&D Ambience - [CoS] - Death House Dungeon [eqUiXz1tcmM].m4a",
-    "Music Compiled.md",
     "Assets/Music/Death House Music - 5) The Decayer Awakens ~ The Peace Guild OST [PnEnOGgCYcQ].m4a",
     "Assets/Music/Death House Music - 3) The Murdered Maid ~ The Peace Guild OST [RhBrss1_bh0].m4a",
     "Assets/Music/Death House Music - 2) Rose and Thorn ~ The Peace Guild OST [yDCC7EcDr3k].m4a",
@@ -160,7 +161,6 @@
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
     "Assets/Music/Death House Music - 4) One Must Die ~ The Peace Guild OST [QUyDUe2Ecp0].m4a",
     "conflict-files-obsidian-git.md",
-    "Assets/Music/Medieval Fantasy Tavern ｜ D&D Fantasy Music and Ambience [vyg5jJrZ42s].m4a",
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
