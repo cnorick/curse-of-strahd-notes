@@ -67,7 +67,7 @@ Death House 5 - The Decayer Awakens
 ![[Death House Music - 5) The Decayer Awakens ~ The Peace Guild OST [PnEnOGgCYcQ].m4a#loop]]
 
 Death House Upstairs
-![[D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a#loop]]
+![](https://www.youtube.com/watch?v=eqUiXz1tcmM)
 
 Death House Dungeon
 ![](https://www.youtube.com/watch?v=eqUiXz1tcmM)
