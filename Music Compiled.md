@@ -52,7 +52,9 @@ Vistani Camp
 ![[CoS Vistani Camp [8TtFIT3x2PI].m4a#loop]]
 
 Death House 1 - Enter the House
+![[Death House Music - 1) Enter the House ~ The Peace Guild OST [3zQ7Nw8viok].m4a#loop]]
 
+Death House 2 - Rose and Thorn
 
 Death House 4 - One Must Die
 ![[Death House Music - 4) One Must Die ~ The Peace Guild OST [QUyDUe2Ecp0].m4a#loop]]
