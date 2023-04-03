@@ -65,3 +65,8 @@ Death House 4 - One Must Die
 
 Death House 5 - The Decayer Awakens
 ![[Death House Music - 5) The Decayer Awakens ~ The Peace Guild OST [PnEnOGgCYcQ].m4a#loop]]
+
+Death House Upstairs
+
+
+Death House Dungeon
