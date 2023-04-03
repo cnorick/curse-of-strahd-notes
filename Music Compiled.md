@@ -48,6 +48,10 @@ Barovia Village
 Travelling Roads
 ![[Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a#loop]]
 
+Vistani Camp
+![[CoS Vistani Camp [8TtFIT3x2PI].m4a#loop]]
+
+
 Death House 4 - One Must Die
 ![[Death House Music - 4) One Must Die ~ The Peace Guild OST [QUyDUe2Ecp0].m4a#loop]]
 
