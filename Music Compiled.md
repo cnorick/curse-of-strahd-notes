@@ -36,3 +36,6 @@ Glimmer of Hope (Sunsword Theme) - Into the Mists
 
 He is the Ancient, He is the Land (Strahd's Theme) - Into the Mists
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 013 He Is The Ancient, He Is The Land [uLpRctqGTWw].m4a#loop]]
+
+Tavern Music
+![[Medieval Fantasy Tavern ｜ D&D Fantasy Music and Ambience [vyg5jJrZ42s].m4a]]
