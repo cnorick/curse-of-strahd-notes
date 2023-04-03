@@ -49,5 +49,7 @@ Travelling Roads
 ![[Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a#loop]]
 
 Death House 4 - One Must Die
+![[Death House Music - 4) One Must Die ~ The Peace Guild OST [QUyDUe2Ecp0].m4a#loop]]
 
-Death House 5 - 
+Death House 5 - The Decayer Awakens
+![[Death House Music - 5) The Decayer Awakens ~ The Peace Guild OST [PnEnOGgCYcQ].m4a#loop]]
