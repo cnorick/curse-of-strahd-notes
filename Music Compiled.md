@@ -45,3 +45,5 @@ Tavern Music
 Barovia Village
 ![[Ravenloft- Barovia： Village of Barovia [dXTNvDeFdVU].m4a#loop]]
 
+Travelling Roads
+![[Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a#loop]]
