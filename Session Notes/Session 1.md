@@ -11,4 +11,4 @@
 - Continuing on the road, [[Carlos]] the mule in tow, the group caught the stench of death
 	- they followed the smell off the road where they found where they found a mauled body
 	- on the body, the found another note in another script, also signed by [[Kolyan Indirovich]]
-	- This one 
+	- This one is much more foreboding than the first, claiming that the Burgomaster's daugher [[Ireena Kolyana]] has been bitten 
