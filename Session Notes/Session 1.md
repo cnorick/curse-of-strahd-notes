@@ -5,3 +5,5 @@
 	- [[Anakir]] lost 2 sp to [[Elora]] and also mysteriously lost another 13 sp
 	- [[Pelanil]] did a lot of glaring a folks, and then after finding out that Barry was lich, picked a fight which Taako tried to diffuse
 - The Characters received a letter via the messenger [[Arrigal]] that was addressed to each of them individually and signed the [[Koylan Indirovich]], Burgomaster of Barovia
+- The group stayed the night at the tavern, then at first light made their way west per [[Arrigal]]'s directions
+- As the fog closed in,[[Pelanil]] was struck by a vision of a woman beckoning him
