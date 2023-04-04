@@ -13,4 +13,5 @@
 	- on the body, the found another note in another script, also signed by [[Kolyan Indirovich]]
 	- This one is much more foreboding than the first, claiming that the Burgomaster's daughter [[Ireena Kolyana]] has been bitten by a vampire
 - Right after finding the note, the party is attacked by wolves, seemingly led by a red-eyed direwolf in the distance
-	- The party was able to quickly charm
+	- The party was able to quickly charm, kill, and put to sleep the wolves as the direwolf looked on and make it back to the road
+- After a full day of travelling, night set in as the adventurers arrived in a 
