@@ -16,4 +16,5 @@
 	- The party was able to quickly charm, kill, and put to sleep the wolves as the direwolf looked on and make it back to the road
 - After a full day of travelling, night set in as the adventurers arrived in a sleeping town
 - Two children (whose names we don't know) begged for help from the party
-	- saying their parents are missing, there baby brother Walter is stuck in the 3rd floor nursery, and they
+	- saying their parents are missing, their baby brother Walter is stuck in the 3rd floor nursery, and there is a monster in the basement of their house
+- The party obliges to help as the mists close in
