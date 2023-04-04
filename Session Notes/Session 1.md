@@ -9,4 +9,5 @@
 - As the fog closed in, [[Pelanil]] was struck by a vision of a woman beckoning him
 - As the fog cleared, the party was surprised to find themselves in a forest
 - Continuing on the road, [[Carlos]] the mule in tow, the group caught the stench of death
-	- t
+	- they followed the smell off the road where they found where they found a mauled body
+	- on th
