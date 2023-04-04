@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d7b9e5448e658ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Session Notes/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Compiled.md"
+                "file": "Session Notes/Session 1.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "3d7b9e5448e658ac",
   "lastOpenFiles": [
-    "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
     "Assets/Music/Ravenloft- Barovia： Village of Barovia [dXTNvDeFdVU].m4a",
     "Assets/Music/D&D Ambience - [CoS] - Death House Dungeon [eqUiXz1tcmM].m4a",
