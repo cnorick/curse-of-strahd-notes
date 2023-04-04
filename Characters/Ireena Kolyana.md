@@ -61,7 +61,7 @@ alias: Ireena
 	- The burgomaster's heart couldn't stand the constant assault
 		- he died 3 days ago
 		- since then, there have been no more attacks
-- No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Koylan Indirovich]] to the cemetery for a proper burial
+- No one from the village has been brave enough to help [[Ismark Kolyanovich]] take [[Kolyan Indirovich]] to the cemetery for a proper burial
 - One of the best educated in the valley, as the Burgomaster's daughter
 	- familiar with the geography (have her give them the map maybe)
 	- can provide info about important people in each town
@@ -110,7 +110,7 @@ alias: Ireena
 
 ## Relations
 adopted brother: [[Ismark Kolyanovich]]
-father: [[Koylan Indirovich]]
+father: [[Kolyan Indirovich]]
 
 ## Stat Block
 

@@ -155,7 +155,7 @@ Contents:
 
 #### Funeral for Burgomaster
 - At the funeral, it's just the players, [[Ismark Kolyanovich|Ismark]] and [[Donavich]]
-- [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Koylan Indirovich]]'s deliverance from Barovia
+- [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Kolyan Indirovich]]'s deliverance from Barovia
 >_Farewell, Illuminated one, until we meet again_
 _We carry the sun in our hearts until then_
 _Give us the strength to carry on_
@@ -178,7 +178,7 @@ _Farewell, precious sun._
 - With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
 - The players may want to rest another night (esp if they fought [[Doru]])
 	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
-	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Koylan Indirovich]] is buried
+	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
 	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool]] before nightfall
 		- for a safe place to camp
 		- [[Ismark Kolyanovich|Ismark]] says the [[Vistani]] tribe at that location are friendly to visitors

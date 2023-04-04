@@ -42,7 +42,7 @@ alias: Ismark
 	- Doesn't know why [[Ireena Kolyana|Ireena]] is special to [[Strahd Von Zarovich|Strahd]]
 
 ## Relations
-- Father: [[Koylan Indirovich]]
+- Father: [[Kolyan Indirovich]]
 - Adopted Sister: [[Ireena Kolyana]]
 
 ## Stat Block

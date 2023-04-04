@@ -14,7 +14,7 @@
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long
 - Wolves, dire wolves, and werewolves prowls the [[Svalich Woods]], and hungry bats fill the skies at night
 - The [[Village of Barovia (E)]] sits at the east end of the valley
-	- Its burgomaster is named [[Koylan Indirovich]]
+	- Its burgomaster is named [[Kolyan Indirovich]]
 - The fortified village of [[Krezk]] lies at the west endo f the valley and is built around an old abbey
 	 The village burgomaster is named [[Dmitri Krezkov]]
 - Wine is the lifeblood of Barovia
