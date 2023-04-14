@@ -7,9 +7,10 @@
 >A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
 ## 2. [[The Holy Symbol of Ravenkind]]
->This card tells of a powerful force for good and protection, a holy symbol 
-**Card**: 7 of Stars -- Illusionist
-**Location**: [[Rictavio]]'s carnival wagon (N5)
+>This card tells of a powerful force for good and protection, a holy symbol of great hope.
+
+**Card**:
+**Location**:
 
 >A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
