@@ -25,5 +25,5 @@
 >
 
 **Card**: Broken One (B)
-- Location: Sealed Treasury of the Amber Temple (X40)
->What you seek lies in a pile of treasure, beyond a set of amber doors
+- Person: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
+>Your greatest ally will be a 
