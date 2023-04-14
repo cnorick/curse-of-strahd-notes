@@ -4,7 +4,7 @@
 **Card**: 7 of Stars -- Illusionist
 **Location**: [[Rictavio]]'s carnival wagon (N5)
 
->
+>A man is not what he seems. He comes here in a carnival wagon
 
 ## 3. [[Sunsword]]
 >This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
