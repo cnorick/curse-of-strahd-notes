@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Locations/Village of Barovia (E).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e60a3a5064f4ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,11 +172,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a2e2c85dfdfdce31",
+  "active": "2e60a3a5064f4ff6",
   "lastOpenFiles": [
+    "Madam Eva.md",
+    "Session Notes/Session 1.md",
     "Locations/Village of Barovia (E).md",
     "Locations/Tser Pool Encampment (G).md",
-    "Session Notes/Session 1.md",
     "Characters/Shalooti.md",
     "Characters/Elora.md",
     "Characters/Pelanil.md",
@@ -197,7 +210,6 @@
     "Assets/Templates/Character.md",
     "Characters/Tatyana.md",
     "Characters/Morgantha.md",
-    "Campaign/Session 2.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
