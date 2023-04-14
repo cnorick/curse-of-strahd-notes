@@ -1,5 +1,8 @@
 ## Locations
-### Enter
+### Entering the Camp
+- Draw a stark contrast between what they've seen so far ([[Death House]] and [[Village of Barovia (E)]])
+	- These people are colorful and having fun singing and drinking around the fire
+
 ### [[Madam Eva]]'s Tent
 - When she does the card reading, roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
