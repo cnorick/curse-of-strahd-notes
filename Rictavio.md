@@ -1,0 +1,3 @@
+---
+aliases: [Rudolf van Richten
+---

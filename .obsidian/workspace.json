@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d1776dc029923ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rictavio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Rictavio.md"
               }
             }
           }
@@ -172,11 +184,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e60a3a5064f4ff6",
+  "active": "4d1776dc029923ea",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
+    "Rictavio.md",
     "Locations/Tser Pool Encampment (G).md",
     "Items/Sunsword.md",
-    "Misc/Card Reading.md",
     "Items/The Tome of Strahd.md",
     "Items",
     "Characters/Madam Eva.md",
@@ -209,7 +222,6 @@
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
     "Misc/Barovian Lore.md",
-    "Misc/Adventuring Gear.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
