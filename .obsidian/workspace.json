@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2e2c85dfdfdce31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           }
@@ -147,13 +160,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "a2e2c85dfdfdce31",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
+    "Locations/Tser Pool Encampment (G).md",
+    "Session Notes/Session 1.md",
     "Characters/Shalooti.md",
     "Characters/Elora.md",
     "Characters/Pelanil.md",
     "Music Compiled.md",
-    "Session Notes/Session 1.md",
     "Characters/Anakir.md",
     "Characters/Bordaulf.md",
     "Characters/Kolyan Indirovich.md",
@@ -171,7 +186,6 @@
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
-    "Locations/Village of Barovia (E).md",
     "Locations/Death House.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Donavich.md",
@@ -184,7 +198,6 @@
     "Characters/Tatyana.md",
     "Characters/Morgantha.md",
     "Campaign/Session 2.md",
-    "Campaign/Session 1.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
