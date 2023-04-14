@@ -1,6 +1,6 @@
 ## 1. [[The Tome of Strahd]]
 >This card tells of history. Knowledge of the ancient will help you better understand your enemy.
-
+	
 **Card**: 8 of Glyphs -- Bishop
 **Location**: Sealed Treasury of the Amber Temple (X40)
 
