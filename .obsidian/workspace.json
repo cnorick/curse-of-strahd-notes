@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d8cfde054998d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Card Reading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Items/Sunsword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Items/Sunsword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Items/Sunsword.md"
               }
             }
           }
@@ -184,11 +172,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d8cfde054998d71",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
     "Misc/Card Reading.md",
-    "Madam Eva.md",
+    "Items/Sunsword.md",
+    "Items/The Tome of Strahd.md",
+    "Items",
+    "Locations/Tser Pool Encampment (G).md",
+    "Characters/Madam Eva.md",
     "Session Notes/Session 1.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Shalooti.md",
@@ -207,7 +198,6 @@
     "Assets/Music/Death House Music - 2) Rose and Thorn ~ The Peace Guild OST [yDCC7EcDr3k].m4a",
     "Assets/Music/Death House Music - 1) Enter the House ~ The Peace Guild OST [3zQ7Nw8viok].m4a",
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
-    "Assets/Music/Death House Music - 4) One Must Die ~ The Peace Guild OST [QUyDUe2Ecp0].m4a",
     "conflict-files-obsidian-git.md",
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
@@ -220,8 +210,6 @@
     "Campaign/Session 3.md",
     "Misc/Barovian Lore.md",
     "Misc/Adventuring Gear.md",
-    "Assets/Templates/Character.md",
-    "Characters/Tatyana.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
