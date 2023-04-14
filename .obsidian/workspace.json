@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Sunsword.md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Sunsword.md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Sunsword.md"
+                "file": "Misc/Card Reading.md"
               }
             }
           }
@@ -172,13 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "2e60a3a5064f4ff6",
   "lastOpenFiles": [
-    "Misc/Card Reading.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Items/Sunsword.md",
+    "Misc/Card Reading.md",
     "Items/The Tome of Strahd.md",
     "Items",
-    "Locations/Tser Pool Encampment (G).md",
     "Characters/Madam Eva.md",
     "Session Notes/Session 1.md",
     "Locations/Village of Barovia (E).md",
