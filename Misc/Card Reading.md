@@ -1,8 +1,8 @@
 ## 1. [[The Tome of Strahd]]
 >This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 		
-**Card**: 
-**Location**: 
+**Card**: 7 of Stars -- Illusionist
+**Location**: [[Rictavio]]'s carnival wagon (N5)
 
 >
 
