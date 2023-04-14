@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d8cfde054998d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Card Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Misc/Card Reading.md"
               }
             }
           }
@@ -172,12 +184,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e60a3a5064f4ff6",
+  "active": "9d8cfde054998d71",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
+    "Misc/Card Reading.md",
     "Madam Eva.md",
     "Session Notes/Session 1.md",
     "Locations/Village of Barovia (E).md",
-    "Locations/Tser Pool Encampment (G).md",
     "Characters/Shalooti.md",
     "Characters/Elora.md",
     "Characters/Pelanil.md",
@@ -209,7 +222,6 @@
     "Misc/Adventuring Gear.md",
     "Assets/Templates/Character.md",
     "Characters/Tatyana.md",
-    "Characters/Morgantha.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
