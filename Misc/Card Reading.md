@@ -6,9 +6,8 @@
 
 >A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
-## 1. [[The Tome of Strahd]]
->This card tells of history. Knowledge of the ancient will help you better understand your enemy.
-		
+## 2. [[The Holy Symbol of Ravenkind]]
+>This card tells of a powerful force for good and protection, a holy symbol 
 **Card**: 7 of Stars -- Illusionist
 **Location**: [[Rictavio]]'s carnival wagon (N5)
 
