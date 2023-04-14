@@ -22,8 +22,8 @@
 >What you seek lies in a pile of treasure, beyond a set of amber doors
 
 ## 4. [[Strahd's Enemy]]
->
+>This card sheds light on one who will help you greatly in the battle against darkness.
 
 **Card**: Broken One (B)
 - Person: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
->Your greatest ally will be a 
+>Your greatest ally will be a wizard. His mind is broken, but his spells are strong
