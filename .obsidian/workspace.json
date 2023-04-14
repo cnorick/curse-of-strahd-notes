@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Characters/Shalooti.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Characters/Elora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Characters/Elora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1.md"
+                "file": "Characters/Elora.md"
               }
             }
           }
@@ -147,11 +147,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Bordaulf.md",
-    "Session Notes/Session 1.md",
+    "Characters/Shalooti.md",
+    "Characters/Elora.md",
+    "Characters/Pelanil.md",
     "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Characters/Anakir.md",
+    "Characters/Bordaulf.md",
     "Characters/Kolyan Indirovich.md",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
@@ -181,10 +185,6 @@
     "Characters/Morgantha.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
-    "Campaign/Session 0.md",
-    "Characters/Gertruda.md",
-    "Characters/Mad Mary.md",
-    "Locations/Old Svalich Road.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
