@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 3.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Campaign/Session 3.md",
+    "Locations/Village of Barovia (E).md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",
@@ -160,7 +162,6 @@
     "Items/The Tome of Strahd.md",
     "Items",
     "Characters/Madam Eva.md",
-    "Locations/Village of Barovia (E).md",
     "Characters/Shalooti.md",
     "Characters/Elora.md",
     "Characters/Pelanil.md",
@@ -184,7 +185,6 @@
     "Locations/Death House.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Donavich.md",
-    "Characters/Mad Mage of Mount Baratok.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
