@@ -33,5 +33,5 @@
 >Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 
 **Card**: Innocent
-- Location: [[Sergei]]'s Tom(K85)
->
+**Location**: [[Sergei]]'s Tomb (K85)
+>He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
