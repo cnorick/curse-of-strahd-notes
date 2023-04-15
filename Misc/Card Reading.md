@@ -26,7 +26,8 @@
 >This card sheds light on one who will help you greatly in the battle against darkness.
 
 **Card**: Broken One (B)
-- Person: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
+**Person**: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
+
 >Your greatest ally will be a wizard. His mind is broken, but his spells are strong
 
 ## 5. Strahd's Location
@@ -34,4 +35,5 @@
 
 **Card**: Innocent
 **Location**: [[Sergei]]'s Tomb (K85)
+
 >He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
