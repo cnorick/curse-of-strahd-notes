@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Vistani.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Characters/Arik Lorensk.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
