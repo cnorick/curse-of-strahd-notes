@@ -1,2 +1,2 @@
-- Death house part 2:
+- Death house part 1:
 	- go to basement, explore it, see cult/and mound, escape
