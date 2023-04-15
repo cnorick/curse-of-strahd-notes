@@ -29,8 +29,8 @@
 >Your greatest ally will be a wizard. His mind is broken, but his spells are strong
 
 ## 5. Strahd's Location
->Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you 
+>Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 
-**Card**: Broken One (B)
-- Person: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
->Your greatest ally will be a wizard. His mind is broken, but his spells are strong
+**Card**:
+- Location: 
+>
