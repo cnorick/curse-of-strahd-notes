@@ -32,6 +32,6 @@
 ## 5. Strahd's Location
 >Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 
-**Card**:
-- Location: 
+**Card**: Innocent
+- Location: [[Sergei]]'s Tom(K85)
 >
