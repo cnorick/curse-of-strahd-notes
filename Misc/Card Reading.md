@@ -9,10 +9,10 @@
 ## 2. [[The Holy Symbol of Ravenkind]]
 >This card tells of a powerful force for good and protection, a holy symbol of great hope.
 
-**Card**:
+**Card**: 1 of Swords -- Avenger
 **Location**:
 
->A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
+>The treasure lies in a dragon's house, in hands once clean and now corrupted.
 
 ## 3. [[Sunsword]]
 >This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
