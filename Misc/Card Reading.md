@@ -1,6 +1,6 @@
 ## 1. [[The Tome of Strahd]]
 >This card tells of history. Knowledge of the ancient will help you better understand your enemy.
-		
+
 **Card**: 7 of Stars -- Illusionist
 **Location**: [[Rictavio]]'s carnival wagon (N5)
 
@@ -10,7 +10,7 @@
 >This card tells of a powerful force for good and protection, a holy symbol of great hope.
 
 **Card**: 1 of Swords -- Avenger
-**Location**:
+**Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt]] (Q36)
 
 >The treasure lies in a dragon's house, in hands once clean and now corrupted.
 
