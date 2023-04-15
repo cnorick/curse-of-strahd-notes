@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Characters/Mad Mage of Mount Baratok.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Characters/Mad Mage of Mount Baratok.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Characters/Mad Mage of Mount Baratok.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Compiled.md"
+                "file": "Characters/Mad Mage of Mount Baratok.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
     "Misc/Vistani.md",
+    "Music Compiled.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
@@ -157,7 +159,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",
     "Session Notes/Session 1.md",
-    "Misc/Card Reading.md",
     "Characters/Rictavio.md",
     "Locations/Tser Pool Encampment (G).md",
     "Items/Sunsword.md",
@@ -167,7 +168,6 @@
     "Characters/Shalooti.md",
     "Characters/Elora.md",
     "Characters/Pelanil.md",
-    "Music Compiled.md",
     "Characters/Anakir.md",
     "Characters/Bordaulf.md",
     "Characters/Kolyan Indirovich.md",
