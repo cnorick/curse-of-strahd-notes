@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mad Mage of Mount Baratok.md",
+                "file": "Misc/Card Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mad Mage of Mount Baratok.md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mad Mage of Mount Baratok.md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mad Mage of Mount Baratok.md"
+                "file": "Misc/Card Reading.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Characters/Mad Mage of Mount Baratok.md",
     "Misc/Card Reading.md",
     "Misc/Vistani.md",
     "Music Compiled.md",
@@ -184,7 +185,6 @@
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
-    "Locations/Death House.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
