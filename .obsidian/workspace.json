@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Music Compiled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Arik Lorensk.md",
     "Campaign/Session 3.md",
@@ -184,7 +185,6 @@
     "Characters/Strahd Von Zarovich.md",
     "Characters/Doru.md",
     "Locations/Death House.md",
-    "Characters/Ireena Kolyana.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
