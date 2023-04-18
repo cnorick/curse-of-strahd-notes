@@ -38,4 +38,5 @@
 - [[Anakir]] rushes in to the room with the crying baby to find no woman, but only a bundle lying in the crib
 	- After mixing random elements, hoping for a [[Potion of Healing]] but only getting slop, [[Anakir]] unwraps the bundle to find no baby
 - A woman stirs on the bed in the other room
-	- She screams and attacks [[Anakir]], knocking him uncons
+	- She screams and attacks [[Anakir]], knocking him unconscious
+- As the 
