@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Session Notes/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a12351ff5755ec3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Session Notes/Session 2.md"
               }
             }
           }
@@ -147,10 +160,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "6a12351ff5755ec3",
   "lastOpenFiles": [
-    "Characters/Mad Mage of Mount Baratok.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
     "Misc/Card Reading.md",
+    "Characters/Mad Mage of Mount Baratok.md",
     "Misc/Vistani.md",
     "Music Compiled.md",
     "Locations/Village of Barovia (E).md",
@@ -159,7 +174,6 @@
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",
-    "Session Notes/Session 1.md",
     "Characters/Rictavio.md",
     "Locations/Tser Pool Encampment (G).md",
     "Items/Sunsword.md",
@@ -184,7 +198,6 @@
     "conflict-files-obsidian-git.md",
     "TODO.md",
     "Characters/Strahd Von Zarovich.md",
-    "Characters/Doru.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
