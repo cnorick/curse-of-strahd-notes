@@ -25,13 +25,13 @@
 	- they also see a human skeleton, near a chest, with a poison dart in their side, holding a note
 	- in the chest, they find the dead to the house, a deed to a windmill, and a will signed by [[Elizabeth Durst]] and [[Gustav Durst]] bequeathing the house and windmill to their two children [[Thornboldt]] and [[Rosevalda]]
 	- The letter held by the skeleton is so terrifying that it sends [[Shalooti]] into a panic and she flees the room
-		- As [[Anakir]] tries reading it, he becomes instantly paralyzed
+		- As [[Anakir]] tries reading it, he becomes instantly paralyzed, but comes to as the group discusses how to save him
 - From the note, we learn:
 	- The people that lived in this house were part of a cult that attempted to worship [[Strahd Von Zarovich|Strahd]]
 		- [[Strahd Von Zarovich|Strahd]] mocked them for this
 	- They tortured and killed people in their dungeon and "on their hidden alter"
 	- [[Gustav Durst]] had a stillborn child with another woman
-	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
+	- The handwriting on this letter is the same as the letter that was brought to the party at the tavern by [[Arrigal]]
 - Upon leaving the secret room, the house now seems disgusting
 - After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
 	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
