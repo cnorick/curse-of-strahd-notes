@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Session Notes/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 2.md"
+                "file": "Session Notes/Session 1.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Elizabeth Durst.md",
     "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Elizabeth Durst.md",
     "Rosevalda.md",
     "Thornboldt.md",
-    "Session Notes/Session 1.md",
     "Characters/Bardolf.md",
     "Misc/Card Reading.md",
     "Characters/Mad Mage of Mount Baratok.md",
