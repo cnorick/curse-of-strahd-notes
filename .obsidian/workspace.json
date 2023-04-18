@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cf68ac5af4ddd73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thornboldt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6a12351ff5755ec3",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Thornboldt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 2.md",
+                "file": "Thornboldt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 2.md"
+                "file": "Thornboldt.md"
               }
             }
           }
@@ -159,10 +172,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "cf68ac5af4ddd73b",
   "lastOpenFiles": [
-    "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
+    "Thornboldt.md",
+    "Session Notes/Session 1.md",
     "Characters/Bardolf.md",
     "Misc/Card Reading.md",
     "Characters/Mad Mage of Mount Baratok.md",
@@ -196,7 +210,6 @@
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
     "conflict-files-obsidian-git.md",
     "TODO.md",
-    "Characters/Strahd Von Zarovich.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
