@@ -37,7 +37,7 @@
 	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
 	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on [[Pelanil]] before being dealt its final blow by [[Elora]]
 - [[Anakir]] rushes into the room with the crying baby to find no woman, but only a bundle lying in the crib
-	- After mixing random elements, hoping for a [[Potion of Healing]] but only getting slop, [[Anakir]] unwraps the bundle to find no baby
+	- After mixing random elements, hoping for a [[Potion of Healing]] but only getting salt water, [[Anakir]] unwraps the bundle to find no baby
 - A woman stirs on the bed in the other room
 	- She screams and attacks [[Anakir]], knocking him unconscious
 - As the party prepares for yet another battle, [[Shalooti]] conjures up the image of a small baby boy and presents it to the specter...
