@@ -4,4 +4,5 @@
 	- Floors well oiled and the furniture freshly dusted
 	- Doors seem to be opening and closing on their own
 	- The stuffed wolves seem to be watching us
-	- The ornate
+	- The ornate carvings in the wood paneling is not always as it seems
+- Shortly after entering, the party splits up.
