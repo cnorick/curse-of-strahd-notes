@@ -34,4 +34,6 @@
 	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
 - After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
 	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
-	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on [[Pelanil]] before its final death
+	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on [[Pelanil]] before being dealt its final blow by [[Elora]]
+- [[Anakir]] rushes in to the room with the crying baby to find no woman and only a bundle lying in the crib
+	- After 
