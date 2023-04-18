@@ -1,3 +1,4 @@
 - The party shortly question the kids outside of the House
 	- We learn that their names are Rose and Thorn
- - After making their way into the house, the party
+ - As we enter the house, the party sees that the place is immaculate
+	 - Floors well oiled and the furniture freshly dusted
