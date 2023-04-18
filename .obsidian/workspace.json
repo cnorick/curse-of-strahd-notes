@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "cf68ac5af4ddd73b",
+            "id": "f936f07250fcc54c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thornboldt.md",
+                "file": "Elizabeth Durst.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thornboldt.md",
+                "file": "Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thornboldt.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thornboldt.md"
+                "file": "Session Notes/Session 2.md"
               }
             }
           }
@@ -172,9 +171,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cf68ac5af4ddd73b",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Elizabeth Durst.md",
     "Session Notes/Session 2.md",
+    "Rosevalda.md",
     "Thornboldt.md",
     "Session Notes/Session 1.md",
     "Characters/Bardolf.md",
@@ -208,8 +209,6 @@
     "Assets/Music/Death House Music - 2) Rose and Thorn ~ The Peace Guild OST [yDCC7EcDr3k].m4a",
     "Assets/Music/Death House Music - 1) Enter the House ~ The Peace Guild OST [3zQ7Nw8viok].m4a",
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
-    "conflict-files-obsidian-git.md",
-    "TODO.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
