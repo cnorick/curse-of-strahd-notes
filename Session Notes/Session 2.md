@@ -21,4 +21,6 @@
 - The party regroups on the second floor where they find their way to the library
 	- Inside, [[Elora]] finds an iron key among other things at the desk
 	- While pursuing the books, [[Shalooti]], finds a secret lever that opens a door to a secret room
-- Inside the secret room, the party sees other books that reference 
+- Inside the secret room, the party sees other books that reference the occult
+	- they also see a human skeleton, near a chest, with a poison dart in their side holding a note
+	- 
