@@ -15,4 +15,4 @@
 - As [[Pelanil]] and [[Anakir]] reach the second floor, the sound of the harpsicord is soon replaced by that of a wailing child
 	- [[Anakir]] attacks a completely ordinary suit of armor, unable to take its spear
 	- They stop halfway to the third floor as they hear footsteps and a woman shushing the baby
-	- [[Anakir]]
+	- [[Anakir]] sends a message to [[Elora]] telling her that they know where the baby is
