@@ -29,4 +29,5 @@
 - From the note, we learn:
 	- The people that lived in this house were part of a cult that attempted to worship [[Strahd Von Zarovich|Strahd]]
 		- [[Strahd Von Zarovich|Strahd]] mocked them for this
-	- They tortured and killed peoplein
+	- They tortured and killed people in their dungeon and "on their hidden alter"
+	- They had a stillborn child
