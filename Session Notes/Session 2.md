@@ -12,4 +12,6 @@
 	- The rest of the group stays on the first floor as [[Bardolf]] searches for loot
 		- [[Bardolf]], taken by the quality of the dining room drapes, tears them to shreds as he tries to cut them down. He pockets the silverware instead
 	- [[Shalooti]] explores a room full of stuffed wolves, and finds herself a deck of playing cards, but runs out of the room before she can unlock the other cabinet with the crossbows
-- As [[Pelanil]] and [[Anakir]]
+- As [[Pelanil]] and [[Anakir]] reach the second floor, the sound of the harpsicord is soon replaced by that of a wailing child
+	- [[Anakir]] attacks a completely ordinary suit of armor, unable to take its spear
+- 
