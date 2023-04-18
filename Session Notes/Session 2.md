@@ -8,4 +8,6 @@
 	- The stuffed wolves seem to be watching us
 	- The ornate carvings in the wood paneling is not always as it seems
 - Shortly after entering, the party splits up
-	- [[Anakir]] and [[Pelanil]] run upstairs, cha
+	- [[Anakir]] and [[Pelanil]] run upstairs, chasing the sound of a harpsicord
+	- The rest of the group stays on the first floor as [[Bardolf]] searches for loot
+		- g
