@@ -1,4 +1,4 @@
 ```dataviewjs
-dv.list(dv.pages('"Session Notes"').file.name)
+dv.list(dv.pages('"Session Notes"').file)
 ```
 
