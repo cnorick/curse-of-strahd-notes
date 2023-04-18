@@ -31,4 +31,5 @@
 		- [[Strahd Von Zarovich|Strahd]] mocked them for this
 	- They tortured and killed people in their dungeon and "on their hidden alter"
 	- [[Gustav Durst]] had a stillborn child with another woman
-	- The handwriting on this letter is the same as the letter 
+	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
+- After learning this information, the party climbs to the third floor
