@@ -27,4 +27,6 @@
 	- The letter held by the skeleton is so terrifying it sends [[Shalooti]] into a panic and she flees the room
 		- As [[Anakir]] tries reading it, he becomes instantly paralyzed
 - From the note, we learn:
-	- The people that lived in this house were part of a cult
+	- The people that lived in this house were part of a cult that attempted to worship [[Strahd Von Zarovich|Strahd]]
+		- [[Strahd Von Zarovich|Strahd]] mocked them for this
+	- They tortured and killed peoplein
