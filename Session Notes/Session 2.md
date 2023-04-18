@@ -32,4 +32,5 @@
 	- They tortured and killed people in their dungeon and "on their hidden alter"
 	- [[Gustav Durst]] had a stillborn child with another woman
 	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
-- After learning this information, the party climbs to the third floor
+- After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
+	- but they're met at the top of the stairs by an animate suit of armor who proved to be
