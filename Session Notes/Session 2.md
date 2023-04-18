@@ -36,4 +36,4 @@
 	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
 	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on [[Pelanil]] before being dealt its final blow by [[Elora]]
 - [[Anakir]] rushes in to the room with the crying baby to find no woman, but only a bundle lying in the crib
-	- After mixing random elements hoping for a [[Potion of Healing]]
+	- After mixing random elements hoping for a [[Potion of Healing]], but only getting slop
