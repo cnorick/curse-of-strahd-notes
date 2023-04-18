@@ -33,4 +33,5 @@
 	- [[Gustav Durst]] had a stillborn child with another woman
 	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
 - After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
-	- but they're met at the top of the stairs by an animate suit of armor who proved to be
+	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
+	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs just to be
