@@ -30,4 +30,5 @@
 	- The people that lived in this house were part of a cult that attempted to worship [[Strahd Von Zarovich|Strahd]]
 		- [[Strahd Von Zarovich|Strahd]] mocked them for this
 	- They tortured and killed people in their dungeon and "on their hidden alter"
-	- They had a stillborn child
+	- [[Gustav Durst]] had a stillborn child with another woman
+	- The handwriting on this letter is the same as the letter 
