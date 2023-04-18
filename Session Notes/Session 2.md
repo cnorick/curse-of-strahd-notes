@@ -10,4 +10,4 @@
 - Shortly after entering, the party splits up
 	- [[Anakir]] and [[Pelanil]] run upstairs, chasing the sound of a harpsicord
 	- The rest of the group stays on the first floor as [[Bardolf]] searches for loot
-		- g
+		- [[Bardolf]], taken by the quality of the dining room drapes, tears them to shreds as he tries to cut them down. He pockets the s
