@@ -39,4 +39,4 @@
 	- After mixing random elements, hoping for a [[Potion of Healing]] but only getting slop, [[Anakir]] unwraps the bundle to find no baby
 - A woman stirs on the bed in the other room
 	- She screams and attacks [[Anakir]], knocking him unconscious
-- As the 
+- As the party prepares for yet another battle, [[Shalooti]] conjures up the image of a small baby boy and presents it to the specter...
