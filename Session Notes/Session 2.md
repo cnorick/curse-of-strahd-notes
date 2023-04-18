@@ -14,4 +14,5 @@
 	- [[Shalooti]] explores a room full of stuffed wolves, and finds herself a deck of playing cards, but runs out of the room before she can unlock the other cabinet with the crossbows
 - As [[Pelanil]] and [[Anakir]] reach the second floor, the sound of the harpsicord is soon replaced by that of a wailing child
 	- [[Anakir]] attacks a completely ordinary suit of armor, unable to take its spear
-- 
+	- They stop halfway to the third floor as they hear footsteps and a woman shushing the baby
+	- [[Anakir]]
