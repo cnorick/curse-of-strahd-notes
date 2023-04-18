@@ -20,4 +20,5 @@
 		- and upon trying to contact the woman upstairs, [[Anakir]] senses his message has been redirected miles away where a man answers and says he looks forward to meeting him
 - The party regroups on the second floor where they find their way to the library
 	- Inside, [[Elora]] finds an iron key among other things at the desk
-	- While pursuing the book
+	- While pursuing the books, [[Shalooti]], finds a secret lever that opens a door to a secret room
+- Inside the secret room, the party sees other books that reference 
