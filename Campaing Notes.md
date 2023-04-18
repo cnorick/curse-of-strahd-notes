@@ -1,4 +1,4 @@
 ```dataviewjs
-dv.list(dv.pages('"Session Notes"'))
+dv.pages('"Session Notes"').forEach(page => dv.view(page))
 ```
 
