@@ -1,4 +1,4 @@
-[[Anakir]], [[Elora]], [[Shalooti]], [[Pelanil]], [[Bordaulf]]
+[[Anakir]], [[Elora]], [[Shalooti]], [[Pelanil]], [[Bardolf]]
 
 - We started in a bar just west of Phandalin
 	- There we met Taako and Barry playing Taako's made up game Taakala
@@ -14,7 +14,7 @@
 	- This one is much more foreboding than the first, claiming that the Burgomaster's daughter [[Ireena Kolyana]] has been bitten by a vampire
 - Right after finding the note, the party is attacked by wolves, seemingly led by a red-eyed direwolf in the distance
 	- The party was able to quickly charm, kill, and put to sleep the wolves as the direwolf looked on and make it back to the road
-	- [[Bordaulf]] ties the carcass of one of the wolves behind Carlos, and the party takes off right as they hear the sleeping wolves wake up 
+	- [[Bardolf]] ties the carcass of one of the wolves behind Carlos, and the party takes off right as they hear the sleeping wolves wake up 
 - After a full day of travelling, night set in as the adventurers arrived in a sleeping town
 - Two children (whose names we don't know) begged for help from the party
 	- saying their parents are missing, their baby brother Walter is stuck in the 3rd floor nursery, and there is a monster in the basement of their house
