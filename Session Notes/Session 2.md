@@ -26,4 +26,5 @@
 	- in the chest, they find the dead to the house, a deed to the windmill, and a will signed by [[Elizabeth Durst]] and [[Gustav Durst]] bequeathing the house and windmill to their two children [[Thornboldt]] and [[Rosevalda]]
 	- The letter held by the skeleton is so terrifying it sends [[Shalooti]] into a panic and she flees the room
 		- As [[Anakir]] tries reading it, he becomes instantly paralyzed
-- The note tells us that the people in this hout
+- From the note, we learn:
+	- The people that lived in this house were part of a cult
