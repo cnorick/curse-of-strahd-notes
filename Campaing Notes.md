@@ -1,4 +1,4 @@
 ```dataviewjs
-dv.pages("#some-tag").forEach(p => dv.paragraph(dv.fileLink(p.file.name, true)))
+dv.pages('"Session Notes"').forEach(p => dv.paragraph(dv.fileLink(p.file.name, true)))
 ```
 
