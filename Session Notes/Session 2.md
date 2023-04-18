@@ -1,1 +1,3 @@
-- The party shortly question the kids outside o
+- The party shortly question the kids outside of the House
+	- We learn that their names are Rose and Thorn
+ - After making their way into the house, the party
