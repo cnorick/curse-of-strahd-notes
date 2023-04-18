@@ -18,4 +18,6 @@
 	- [[Anakir]] sends a message to [[Elora]] telling her that they know where the baby is, but her response is cut off by maniacal laughing
 		- Instead of his second message, [[Elora]] hears heavy breathing
 		- and upon trying to contact the woman upstairs, [[Anakir]] senses his message has been redirected miles away where a man answers and says he looks forward to meeting him
-- The party regroups on the third floor
+- The party regroups on the second floor where they find their way to the library
+	- Inside, [[Elora]] finds an iron key among other things at the desk
+	- While pursuing the book
