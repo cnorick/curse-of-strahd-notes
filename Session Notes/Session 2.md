@@ -1,3 +1,5 @@
+[[Anakir]], [[Elora]], [[Shalooti]], [[Pelanil]], [[Bardolf]]
+
 - The party shortly question the kids outside of the House
 	- We learn that their names are Rose and Thorn
 - As we enter the house, the party sees that the place is immaculate but shrouded in darkness
@@ -5,4 +7,5 @@
 	- Doors seem to be opening and closing on their own
 	- The stuffed wolves seem to be watching us
 	- The ornate carvings in the wood paneling is not always as it seems
-- Shortly after entering, the party splits up.
+- Shortly after entering, the party splits up
+	- [[Anakir]] and [[Pelanil]] run upstairs, cha

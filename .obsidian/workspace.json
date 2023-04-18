@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Session Notes/Session 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bardolf.md",
+                "file": "Session Notes/Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bardolf.md",
+                "file": "Session Notes/Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bardolf.md"
+                "file": "Session Notes/Session 2.md"
               }
             }
           }
@@ -160,10 +159,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a12351ff5755ec3",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Session Notes/Session 2.md",
     "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Characters/Bardolf.md",
     "Misc/Card Reading.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Misc/Vistani.md",
@@ -184,7 +184,6 @@
     "Characters/Elora.md",
     "Characters/Pelanil.md",
     "Characters/Anakir.md",
-    "Characters/Bardolf.md",
     "Characters/Kolyan Indirovich.md",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
