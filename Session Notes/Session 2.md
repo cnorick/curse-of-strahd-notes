@@ -5,7 +5,7 @@
 - As we enter the house, the party sees that the place is immaculate but shrouded in darkness
 	- Floors well oiled and the furniture freshly dusted
 	- Doors seem to be opening and closing on their own
-	- The stuffed wolves seem to be watching us
+	- The stuffed wolves seem to be watching them
 	- The ornate carvings in the wood paneling is not always as it seems
 - Shortly after entering, the party splits up
 	- [[Anakir]] and [[Pelanil]] run upstairs, chasing the sound of a harpsicord
@@ -32,6 +32,7 @@
 	- They tortured and killed people in their dungeon and "on their hidden alter"
 	- [[Gustav Durst]] had a stillborn child with another woman
 	- The handwriting on this letter is the same as the letter that was brought to the party at the bar by [[Arrigal]]
+- Upon leaving the secret room, the house now seems disgusting
 - After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
 	- but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
 	- The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on [[Pelanil]] before being dealt its final blow by [[Elora]]
