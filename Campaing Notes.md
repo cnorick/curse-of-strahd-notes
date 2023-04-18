@@ -1,3 +1,4 @@
 ```dataviewjs
-
+dv.pages()
 ```
+
