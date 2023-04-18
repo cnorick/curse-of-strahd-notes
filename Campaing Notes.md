@@ -1,9 +1,4 @@
 ```dataviewjs
-const files = dv.pages('"Session Notes"').file;
-let text = '';
-for(let i = 0; i < dvLinks.length; i++) {
-	text = text + '!' + dvLinks[i] + '\n\n';
-}
-dv.paragraph(text)
+dv.pages("#some-tag").forEach(p => dv.paragraph(dv.fileLink(p.file.name, true)))
 ```
 
