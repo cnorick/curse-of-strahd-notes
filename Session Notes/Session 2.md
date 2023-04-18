@@ -1,5 +1,7 @@
 - The party shortly question the kids outside of the House
 	- We learn that their names are Rose and Thorn
-- As we enter the house, the party sees that the place is immaculate
+- As we enter the house, the party sees that the place is immaculate but shrouded in darkness
 	- Floors well oiled and the furniture freshly dusted
-	- D
+	- Doors seem to be opening and closing on their own
+	- The stuffed wolves seem to be watching us
+	- The ornate
