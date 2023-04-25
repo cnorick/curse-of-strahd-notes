@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
+                "file": "Locations/Death House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
+                "file": "Locations/Death House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md"
+                "file": "Locations/Death House.md"
               }
             }
           }
@@ -256,11 +256,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8264390852988469",
+  "active": "053fd3856d478991",
   "lastOpenFiles": [
+    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Items/Cultist Logbook.md",
     "Items/Handouts/Gustav Durst's Suicide Note.md",
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Locations/Death House.md",
     "Items/Handouts",
     "Characters/Donavich.md",

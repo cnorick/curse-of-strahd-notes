@@ -11,3 +11,6 @@
 	>Poor baby Walter. You were my light in a dark world. I tried to protect you as best I knew how. But that woman! She couldn't be satisfied until she had you. Or rather, until I no longer had you.
 
 - After a minute, the spell ends, and the fake baby disappears. So does she
+
+## [[Gertruda]]'s Dog
+- The dog 
