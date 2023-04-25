@@ -20,4 +20,7 @@
 	- It's on the collar and it answers to it
 - This gives the players something to sacrifice (if they choose to)
 
-## [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]
+## [[Rosevalda|Rose]] and [[Thornboldt|Thorne]] Round 2
+- They have all their memories now
+- They know they're dead
+- They we
