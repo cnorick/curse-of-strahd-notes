@@ -13,6 +13,7 @@
 - After a minute, the spell ends, and the fake baby disappears. So does she
 
 ## [[Gertruda]]'s Dog
+- Maybe let [[Shalooti]] make a nature check after seeing dog prints in the dust
 - The dog is hiding under a bed or something somewhere in the house
 - It's name is [[Lancelot]]
 	- It's on the collar and it answers to it
