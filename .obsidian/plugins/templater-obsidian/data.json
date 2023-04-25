@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Misc/Templates",
+  "templates_folder": "Assets/Templates",
   "templates_pairs": [
     [
       "",
@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Characters",
-      "template": "Misc/Templates/Character.md"
+      "template": "Assets/Templates/Character.md"
     }
   ],
   "syntax_highlighting": true,
