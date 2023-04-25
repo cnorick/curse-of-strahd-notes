@@ -3,4 +3,4 @@
 	- She has magic cracklies that disappear when she sees the baby
 	- She tells her story by talking to the baby
 	- The rest of the party may want to escape, so start talking soon
-	- 
+	- The spell technically wears off after 1 minute, but maybe that's enough to appease her
