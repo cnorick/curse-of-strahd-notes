@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "e7234eba6891b62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Monsters/Dog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b380c2f0109df71",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Custom Monsters/Dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Custom Monsters/Dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lancelot.md"
+                "file": "Custom Monsters/Dog.md"
               }
             }
           }
@@ -268,11 +280,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c94559ed7d0d01c9",
+  "active": "e7234eba6891b62c",
   "lastOpenFiles": [
+    "Characters/Lancelot.md",
+    "Custom Monsters/Dog.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
     "Items/Cultist Logbook.md",
     "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Locations/Death House.md",
@@ -296,7 +309,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Misc/Vistani.md",
     "Music Compiled.md",
-    "Locations/Village of Barovia (E).md",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
