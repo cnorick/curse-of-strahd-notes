@@ -49,4 +49,7 @@
 	- They should feel like they fucked up either way
 - The Dark Power from the final sacrifice made [[Walter]] a monster after turning other cultists into ghouls
 - [[Walter]]'s corpse is inside of the summoned monster, crying and attached by ligaments
-	- Severing the ligaments will cause the monster to fall
+	- Severing the ligaments will cause the monster to fall apart
+- The baby's corpse is left if the monster dies
+	- they can put it in the tomb
+- The spirits around the outside of the room are
