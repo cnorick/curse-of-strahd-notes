@@ -1,4 +1,6 @@
 (LN male human acolyte)
+**Voice**: Always seems to be kinda out of breath and almost crying
+
 ## Playing Donavich
 - His voice is hoarse and weak from praying throughout the night
 - He's basically driven himself insane and acts frantic

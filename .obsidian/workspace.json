@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Donavich.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Donavich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Donavich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Characters/Donavich.md"
               }
             }
           }
@@ -222,8 +222,8 @@
   },
   "active": "053fd3856d478991",
   "lastOpenFiles": [
-    "Characters/Donavich.md",
     "Characters/Ismark Kolyanovich.md",
+    "Characters/Donavich.md",
     "TODO.md",
     "Campaign/Session 3.md",
     "Campaign/Session 2.md",
