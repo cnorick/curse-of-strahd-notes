@@ -24,5 +24,8 @@
 - They have all their memories now
 - They know they're dead
 	- They look like ghosts; spectral and see-through
- 
-- They know they were locked away while their parents went to "Deal with the Monster"
+- They know they were often locked away while their parents went to "Deal with the Monster"
+	- The last time, no one came back for them
+	>"We were so very hungry, but no one came when we cried. And then the hunger went away and we grew very cold and went to sleep.
+	
+	
