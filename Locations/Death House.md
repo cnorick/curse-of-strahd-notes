@@ -13,4 +13,6 @@
 - After a minute, the spell ends, and the fake baby disappears. So does she
 
 ## [[Gertruda]]'s Dog
-- The dog 
+- The dog is hiding under a bed or something somewhere in the house
+- It's name is [[Lancelot]]
+	- It's on the collar and it answers to it
