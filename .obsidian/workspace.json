@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Death House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 3.md",
+                "file": "Locations/Death House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 3.md"
+                "file": "Locations/Death House.md"
               }
             }
           }
@@ -196,8 +196,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e292ab672db0e9c3",
+  "active": "053fd3856d478991",
   "lastOpenFiles": [
+    "Campaign/Session 3.md",
     "Campaign/Session 4.md",
     "Locations/Death House.md",
     "Characters/Lancelot.md",
@@ -210,7 +211,6 @@
     "Items/Handouts",
     "Characters/Donavich.md",
     "TODO.md",
-    "Campaign/Session 3.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
     "Campaign/Session 0.md",
