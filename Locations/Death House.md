@@ -6,7 +6,7 @@
 
 	>But she -- she couldn't stand the thought of you. That's when she started to become manic. The screams from the basement would sometimes wake you up. But you were such a good baby, Walter. I'd rock you right back to sleep.
 	
-	>But the other children. I always loved them as well -- not as much as you, of course, Walter. But I also pitied them. As they lured more and more innocent people into this house, those poor children would spend hours on end locked in their room. They said, of course, that it was to protect their innocence, but what's innocence when you're in a cage?
+	>But the other children. I always loved them as well -- not as much as you, of course, Walter. But I did love them. I also pitied them. As more and more innocent people were lured into this house, those poor children would spend hours on end locked in their room. They said, of course, that it was to protect their innocence, but what's innocence when you're in a cage?
 	
 	>Poor baby Walter. You were my light in a dark world. I tried to protect you as best I knew how. But that woman! She couldn't be satisfied until she had you. Or rather, until I no longer had you.
 
