@@ -1,4 +1,2 @@
 - Death house part 1:
 	- enter death house, find children in attic, level up
-- Death house part 2:
-	- go to basement, explore it, see cult/and mound, escape
