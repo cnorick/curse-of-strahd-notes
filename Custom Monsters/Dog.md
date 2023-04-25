@@ -17,6 +17,10 @@ traits:
   - name: Unwavering Loyalty
     desc: The dog will always follow the commands of an NPC that they have a positive relationship with (i.e. the dog's owner).
 actions:
+  - name: Bite
+    desc: _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+  - name: Bark
+    desc: b
 ```
 
 
