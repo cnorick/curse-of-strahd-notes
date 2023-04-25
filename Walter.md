@@ -1,0 +1,3 @@
+```statblock
+monster: Shambling Mound
+```
