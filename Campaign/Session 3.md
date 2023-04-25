@@ -1,1 +1,3 @@
-i
+- Meet the kids
+- Death house part 2:
+	- go to basement, explore it, see cult/and mound, escape

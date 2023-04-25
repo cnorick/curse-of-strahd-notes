@@ -1,0 +1,2 @@
+- [[Shalooti]] succeeds in deceiving the ghost
+	- The ghost
