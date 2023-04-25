@@ -1,3 +1,3 @@
 ```statblock
-monst
+monster: Blink Dog
 ```
