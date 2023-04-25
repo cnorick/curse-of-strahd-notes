@@ -8,4 +8,4 @@ It sickens me to think what we’ve put you through. There is no excuse. I only 
 
 Rose, I wish I could see you blossom into a strong, beautiful woman. Thorne, Walter, I wish I could be there for you. But I can’t. This is the only way.
 
-	Goodbye.
+Goodbye.
