@@ -5,7 +5,10 @@
 
 ## History/Info
 - [[Gustav Durst]] cheated on her with the nursemaid
-- She started the cult looking for magic to make her young foreve
+- She started the cult looking for magic to make her young forever
+	- she got turned into a ghast that lives forever
+- She killed the Nursemaid (stabbed her) and sacrificed her bastard child, [[Walter]]
+- 
 
 ## What They Want
 
