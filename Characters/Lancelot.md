@@ -1,3 +1,3 @@
 ```statblock
-monster: 
+monster: Dog
 ```
