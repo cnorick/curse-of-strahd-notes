@@ -44,3 +44,5 @@
 - She tells the players to get out of her room and won't fight immediately
 
 ## Final Confrontation
+- If they refuse to kill anyone, the cult is angry and summon [[Walter]]
+- If they do sacrifice someone (maybe [[Lancelot]]), the spirits chant victoriously and summon [[Walter
