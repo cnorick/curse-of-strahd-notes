@@ -34,4 +34,7 @@
 - She asks the players to help save their baby brother and their parents defeat the monster once and for all.
 - They point to the dollhouse if anyone asks how to get to the basement
 
-##
+## Basement Bedroom
+- [[Gustav Durst]] is hanging from the ceiling
+	- there is a key around his neck and a note on the bed
+	- 
