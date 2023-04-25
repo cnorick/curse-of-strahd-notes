@@ -6,7 +6,7 @@
 
 	>But she -- she couldn't stand the thought of you. That's when she started to become manic. The screams from the basement would sometimes wake you up. But you were such a good baby. I'd rock you right back to sleep.
 	
-	>But the other children. I always loved them as well -- not as much as you, of course, Walter. But I also pitied them. As things became more
+	>But the other children. I always loved them as well -- not as much as you, of course, Walter. But I also pitied them. As they lured more and more innocent people into this house, those poor children would spend hours on end
 	
 	
 - After a minute, the spell ends, and the fake baby disappears. So does she
