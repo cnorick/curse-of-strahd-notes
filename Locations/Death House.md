@@ -41,3 +41,6 @@
 - [[Elizabeth Durst]]'s ghast comes from the wall eventually
 	- She can speak, unlike the other ghouls
 	- She has her memory
+- She tells the players to get out of her room and won't fight immediately
+
+## Final Confrontation
