@@ -21,8 +21,12 @@
 
 ## What They Know
 [[Barovian Lore]]
+- What happened to [[Walter]]?
+	- "Why don't you go down even further and find out for yourselves?"
 
 ## Relations
+Husband: [[Gustav Durst]]
+Children: [[Rosevalda|Rose]], [[Thornboldt|Thorn]]
 
 ## Stat Block
 

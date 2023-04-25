@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Elizabeth Durst.md",
+                "file": "Locations/Death House.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Elizabeth Durst.md",
+                "file": "Locations/Death House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Elizabeth Durst.md",
+                "file": "Locations/Death House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Elizabeth Durst.md"
+                "file": "Locations/Death House.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "053fd3856d478991",
   "lastOpenFiles": [
+    "Characters/Elizabeth Durst.md",
     "Locations/Death House.md",
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
@@ -217,7 +218,6 @@
     "Campaing Notes.md",
     "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
-    "Characters/Elizabeth Durst.md",
     "Characters/Thornboldt.md",
     "Characters/Rosevalda.md",
     "Characters/Bardolf.md",
