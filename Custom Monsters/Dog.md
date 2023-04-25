@@ -1,3 +1,6 @@
+---
+statblock: true
+---
 ```statblock
 name: Dog
 size: small
