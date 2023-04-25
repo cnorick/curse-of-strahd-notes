@@ -48,5 +48,5 @@
 	- If they do sacrifice someone (maybe [[Lancelot]]), the spirits chant victoriously and summon [[Walter]]
 	- They should feel like they fucked up either way
 - The Dark Power from the final sacrifice made [[Walter]] a monster after turning other cultists into ghouls
-- [[Walter]] is inside of the summoned monster, crying
-	- Severing the ligaments 
+- [[Walter]]'s corpse is inside of the summoned monster, crying and attached by ligaments
+	- Severing the ligaments will cause the monster to fall
