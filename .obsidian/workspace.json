@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "8264390852988469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f936f07250fcc54c",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Cultist Logbook.md",
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Cultist Logbook.md",
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Cultist Logbook.md"
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md"
               }
             }
           }
@@ -244,10 +256,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d03daf549a889fa",
+  "active": "8264390852988469",
   "lastOpenFiles": [
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Items/Cultist Logbook.md",
+    "Items/Handouts/Gustav Durst's Suicide Note.md",
+    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Locations/Death House.md",
     "Items/Handouts",
     "Characters/Donavich.md",
@@ -272,7 +285,6 @@
     "Locations/Village of Barovia (E).md",
     "Characters/Arik Lorensk.md",
     "Characters/Rictavio.md",
-    "Locations/Tser Pool Encampment (G).md",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
     "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
