@@ -23,4 +23,4 @@
 ## [[Rosevalda|Rose]] and [[Thornboldt|Thorne]] Round 2
 - They have all their memories now
 - They know they're dead
-- They we
+- They know they were locked away while their parents went to "Deal with the Monster"
