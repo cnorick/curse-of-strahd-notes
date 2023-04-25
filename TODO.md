@@ -1,2 +1,6 @@
 - [[Shalooti]] succeeds in deceiving the ghost
-	- The ghost
+	- The ghost takes the baby and goes to sit in her chair
+	- She has magic cracklies that disappear when she sees the baby
+	- She tells her story by talking to the baby
+	- The rest of the party may want to escape, so start talking soon
+	- 
