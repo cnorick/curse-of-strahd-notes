@@ -36,5 +36,6 @@
 
 ## Basement Bedroom
 - [[Gustav Durst]] is hanging from the ceiling
-	- there is a key around his neck and a note on the bed
-	- 
+	- there is a key around his neck
+- There is a note on the bed: [[Gustav Durst's Suicide Note]]
+- [[Elizabeth Durst]]'s ghast comes from the wall 
