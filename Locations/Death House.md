@@ -33,3 +33,5 @@
 - [[Rosevalda|Rose]] thinks their mother took [[Walter]] to the basement last
 - She asks the players to help save their baby brother and their parents defeat the monster once and for all.
 - They point to the dollhouse if anyone asks how to get to the basement
+
+##
