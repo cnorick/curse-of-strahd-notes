@@ -27,5 +27,7 @@
 - They know they were often locked away while their parents went to "Deal with the Monster"
 	- The last time, no one came back for them
 	>"We were so very hungry, but no one came when we cried. And then the hunger went away and we grew very cold and went to sleep.
-	
-	
+
+- They ask for help again
+- They know alot more, but are ignorant to what their parents were doing
+- [[Rosevalda|Rose]] thinks their mother took [[Walter]] to the basement last
