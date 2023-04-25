@@ -8,5 +8,5 @@ actions:
   - name: Slam
     desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
   - name: Engulf
-    desc: "Melee Weapon Attack: +0 to hit, Hit: (1d4) Bludgeoning damage. The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is restrained and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time."
+    desc: "Melee Weapon Attack: +0 to hit, Hit: (1d4) Bludgeoning damage. The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is restrained and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take (1d4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time."
 ```
