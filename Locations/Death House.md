@@ -52,4 +52,5 @@
 	- Severing the ligaments will cause the monster to fall apart
 - The baby's corpse is left if the monster dies
 	- they can put it in the tomb
-- The spirits around the outside of the room are
+- The spirits around the outside of the room are Shadows and fight them if they try to leave
+	- they can also phase through walls, blocking the characters
