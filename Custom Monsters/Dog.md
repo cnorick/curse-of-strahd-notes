@@ -18,9 +18,9 @@ traits:
     desc: The dog will always follow the commands of an NPC that they have a positive relationship with (i.e. the dog's owner).
 actions:
   - name: Bite
-    desc: _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage.
+    desc: "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage."
   - name: Bark
-    desc: b
+    desc: "The dog uses a bonus action to have a creature within 15 of it make a DC 11 Wisdom saving throw or become frightened until the end of the dog’s next turn. The targeted creature(s) must be capable of hearing in order for this condition to take effect. Creatures affected by the Unwavering Loyalty trait automatically succeed this saving throw."
 ```
 
 
