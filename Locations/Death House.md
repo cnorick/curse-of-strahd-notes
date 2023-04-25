@@ -38,4 +38,6 @@
 - [[Gustav Durst]] is hanging from the ceiling
 	- there is a key around his neck
 - There is a note on the bed: [[Gustav Durst's Suicide Note]]
-- [[Elizabeth Durst]]'s ghast comes from the wall 
+- [[Elizabeth Durst]]'s ghast comes from the wall eventually
+	- She can speak, unlike the other ghouls
+	- She has her memory

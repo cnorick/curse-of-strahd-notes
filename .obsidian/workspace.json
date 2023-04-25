@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Death House.md"
+                "file": "Characters/Elizabeth Durst.md"
               }
             }
           }
@@ -198,9 +198,9 @@
   },
   "active": "053fd3856d478991",
   "lastOpenFiles": [
+    "Locations/Death House.md",
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
-    "Locations/Death House.md",
     "Characters/Lancelot.md",
     "Custom Monsters/Dog.md",
     "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
