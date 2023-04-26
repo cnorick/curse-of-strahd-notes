@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +208,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e292ab672db0e9c3",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Index.md",
+    "Campaign Notes.md",
     "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Items/Handouts/Gustav Durst's Suicide Note.md",
-    "Campaign Notes.md",
-    "Index.md",
     "Locations/Death House.md",
     "Characters/Lancelot.md",
     "Characters/Elizabeth Durst.md",
