@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "77f141bf864880ad",
+            "id": "2efdc692eb825423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Sunsword.md",
+                "file": "Characters/Elora.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Sunsword.md",
+                "file": "Characters/Elora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Sunsword.md",
+                "file": "Characters/Elora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Sunsword.md"
+                "file": "Characters/Elora.md"
               }
             }
           }
@@ -209,34 +209,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77f141bf864880ad",
+  "active": "2efdc692eb825423",
   "lastOpenFiles": [
     "Index.md",
-    "TODO.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Campaing Notes.md",
-    "Items/The Tome of Strahd.md",
-    "Items/Sunsword.md",
-    "Items/Cultist Logbook.md",
-    "Characters/Pelanil.md",
-    "Characters/Shalooti.md",
-    "Locations/Death House.md",
-    "Characters/Elora.md",
-    "Characters/Bardolf.md",
-    "Characters/Anakir.md",
     "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Mad Mary.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Madam Eva.md",
+    "Characters/Pelanil.md",
+    "Characters/Lancelot.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/Tatyana.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Thornboldt.md",
+    "Characters/Walter.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
     "Campaign/Session 3.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Doru.md",
-    "Characters/Gertruda.md",
+    "Campaign/Session 2.md",
     "Items/Handouts",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
