@@ -1,5 +1,5 @@
 # Danger! Big Spoilers! Do Not Read
-[Go here for no-spoiler session notes](https://cos.nathanorick.com/no-spoilers/campaign-notes/index.)
+[Go here for no-spoiler session notes](https://cos.nathanorick.com/no-spoilers/campaign-notes/index.html)
 
 ## Session Notes
 ```dataviewjs
