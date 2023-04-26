@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Handouts/Strahd's Invitation.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Strahd's Invitation.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Strahd's Invitation.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Strahd's Invitation.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -305,13 +304,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Items/Handouts/Tome of Strahd.md",
-    "Items/Handouts/Strahd's Invitation.md",
+    "Index.md",
     "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
     "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
+    "Items/Handouts/Gustav Durst's Suicide Note.md",
+    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
+    "Items/Handouts/Strahd's Invitation.md",
+    "Items/Handouts/Tome of Strahd.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Misc/Guest as Granny.md",
     "Assets/Templates/Character.md",
@@ -330,9 +332,6 @@
     "Characters/Elora.md",
     "Characters/Gertruda.md",
     "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Kolyan Indirovich.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
