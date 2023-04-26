@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolyan Indirovich's v1 Letter.md",
+                "file": "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kolyan Indirovich's v2 Letter.md",
+                "file": "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede738d778651093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abbc390e4ce4d7c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Strahd's Invitation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee3ee4f87fd9dea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Tome of Strahd.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8bf650883ac6b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Strahd's Invitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolyan Indirovich's v2 Letter.md",
+                "file": "Items/Handouts/Strahd's Invitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kolyan Indirovich's v2 Letter.md",
+                "file": "Items/Handouts/Strahd's Invitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kolyan Indirovich's v2 Letter.md"
+                "file": "Items/Handouts/Strahd's Invitation.md"
               }
             }
           }
@@ -257,10 +305,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8af59de571c4b5fd",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Kolyan Indirovich's v1 Letter.md",
-    "Kolyan Indirovich's v2 Letter.md",
+    "Items/Handouts/Tome of Strahd.md",
+    "Items/Handouts/Strahd's Invitation.md",
+    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
+    "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Misc/Guest as Granny.md",
     "Assets/Templates/Character.md",
@@ -282,9 +333,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Lancelot.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Morgantha.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
