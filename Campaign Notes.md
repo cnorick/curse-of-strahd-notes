@@ -2,7 +2,7 @@ Get the [pdf version](https://cos.nathanorick.com/no-spoilers/Campaign%20Notes.p
 
 ## Handouts
 ```dataviewjs
-dv.list(dv.pages('"Items/Handouts"').sort(k => k.file.name).filter(k => k.file.file.link)
+dv.list(dv.pages('"Items/Handouts"').sort(k => k.file.name).filter(k => k.public).file.link)
 ```
 
 ```dataviewjs

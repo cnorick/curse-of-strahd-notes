@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3a9db22d2f400557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ba5406a392bd7769",
             "type": "leaf",
             "state": {
@@ -79,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Misc/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Misc/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Misc/Untitled.md"
               }
             }
           }
@@ -208,10 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "3a9db22d2f400557",
   "lastOpenFiles": [
-    "Index.md",
     "Campaign Notes.md",
+    "Misc/Untitled.md",
+    "Index.md",
     "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "Items/Handouts/Gustav Durst's Suicide Note.md",
     "Locations/Death House.md",
@@ -235,7 +249,6 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
