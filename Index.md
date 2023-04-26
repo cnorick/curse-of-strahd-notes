@@ -16,7 +16,7 @@ dv.list(dv.pages('"Characters"').filter(k => !k.pc).sort(k => k.file.name).file.
 ```dataviewjs
 dv.list(dv.pages('"Characters"').filter(k => k.pc).sort(k => k.file.name).file.link)
 ```
-## PCs
+## Handouts
 ```dataviewjs
-dv.list(dv.pages('"Characters"').filter(k => k.pc).sort(k => k.file.name).file.link)
+dv.list(dv.pages('"Items/Handouts"').sort(k => k.file.name).file.link)
 ```
