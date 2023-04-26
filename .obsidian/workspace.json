@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Death House.md"
+                "file": "Characters/Lancelot.md"
               }
             }
           }
@@ -210,6 +210,8 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
+    "Locations/Death House.md",
+    "Characters/Lancelot.md",
     "Characters/Elizabeth Durst.md",
     "Music Compiled.md",
     "Assets/Templates/Character.md",
@@ -228,14 +230,12 @@
     "Characters/Gertruda.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Mad Mary.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Morgantha.md",
     "Characters/Madam Eva.md",
     "Characters/Parriwimple.md",
-    "Characters/Pelanil.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
