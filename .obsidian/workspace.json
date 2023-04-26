@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "77f141bf864880ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Sunsword.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Items/Sunsword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Items/Sunsword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Items/Sunsword.md"
               }
             }
           }
@@ -197,12 +209,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d9b6d57c761589a9",
+  "active": "77f141bf864880ad",
   "lastOpenFiles": [
-    "Music Compiled.md",
-    "TODO.md",
-    "Campaing Notes.md",
     "Index.md",
+    "TODO.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Campaing Notes.md",
     "Items/The Tome of Strahd.md",
     "Items/Sunsword.md",
     "Items/Cultist Logbook.md",
@@ -223,8 +237,6 @@
     "Characters/Bildrath Cantemir.md",
     "Characters/Doru.md",
     "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
     "Items/Handouts",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
