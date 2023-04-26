@@ -1,6 +1,7 @@
 Firstly, try to play Morgantha as the most loving, grandmotherly person in the whole wide world. She's kind to a fault and a shameless gossip (as many elder women can be as a stereotype).
 
-Morgantha introduces herself as Granny, If asked for her name, Morgantha replies honestly, but shows distaste for it. She says, "Why it's Morgantha, dear. But everyone just calls me Granny. Morgantha is much too formal!"
+Morgantha introduces herself as Granny, If asked for her name, Morgantha replies honestly, but shows distaste for it. She says:
+>Why it's Morgantha, dear. But everyone just calls me Granny. Morgantha is much too formal!"
 
 Granny sells pastries and pies for 1 Gold each.
 
@@ -10,7 +11,8 @@ The pies bring the eaters only the sweetest dreams, something poorly lacking in 
 
 Granny's pastries are made from a variety of ingredients, meat pie, onion pie, pumpkin pie etc (this is what Granny has, not what you should make ;-)
 
-If players ask what kind of meat is in the pies. Morgantha says something like, "Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, deary! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!"
+If players ask what kind of meat is in the pies. Morgantha says something like:
+>Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, dearie! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!
 
 Don’t try to read the following verbatim, they are just talking points if things get slow and you need to improvise. Granny’s primary goal is to move her pies.
 
