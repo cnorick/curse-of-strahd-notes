@@ -73,8 +73,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
-                "mode": "preview",
+                "file": "Index.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Index.md"
               }
             }
           }
@@ -211,8 +211,8 @@
   },
   "active": "219eecac2cba99ff",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
     "Campaign Notes.md",
+    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
