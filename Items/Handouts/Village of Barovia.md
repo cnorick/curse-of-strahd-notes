@@ -1,1 +1,5 @@
-![[ba
+---
+public: true
+---
+
+![[barovia.jpg]]

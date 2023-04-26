@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "976760b1246eccd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Death House Front.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfd714db1b039e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/If Players Die.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Village of Barovia.md",
+                "file": "Misc/If Players Die.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Village of Barovia.md",
+                "file": "Misc/If Players Die.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Village of Barovia.md"
+                "file": "Misc/If Players Die.md"
               }
             }
           }
@@ -161,10 +185,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0f268183f6545e68",
+  "active": "cfd714db1b039e16",
   "lastOpenFiles": [
-    "Items/Handouts/Rose and Thorne.md",
+    "Items/Handouts/Death House Front.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Misc/Vistani.md",
+    "Misc/Guest as Granny.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "TODO.md",
+    "Campaign Notes.md",
     "Items/Handouts/Village of Barovia.md",
+    "Items/Handouts/Rose and Thorne.md",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
     "Assets/Images/death-house-kids.png",
@@ -184,15 +217,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
     "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Morgantha.md",
-    "Characters/Madam Eva.md",
-    "Characters/Parriwimple.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
