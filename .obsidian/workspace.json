@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Locations/Death House.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Locations/Death House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Locations/Death House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lancelot.md"
+                "file": "Locations/Death House.md"
               }
             }
           }
@@ -210,8 +210,8 @@
   },
   "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Locations/Death House.md",
     "Characters/Lancelot.md",
+    "Locations/Death House.md",
     "Characters/Elizabeth Durst.md",
     "Music Compiled.md",
     "Assets/Templates/Character.md",
