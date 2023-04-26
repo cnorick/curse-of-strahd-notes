@@ -1,0 +1,12 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": false,
+  "includePluginCSS": "obsidian-5e-statblocks",
+  "addDarkModeToggle": true,
+  "includeOutline": true,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportPath": "C:/Users/Nathan/Downloads/obsidian export"
+}
