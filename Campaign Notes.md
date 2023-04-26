@@ -7,4 +7,3 @@ dv.pages('"Session Notes"').forEach(p => {
 	dv.paragraph(fullText);
 })
 ```
-
