@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b32d839403094616",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Pelanil.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Pelanil.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Pelanil.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Pelanil.md"
+                "file": "Index.md"
               }
             }
           }
@@ -209,9 +197,26 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b32d839403094616",
+  "active": "d9b6d57c761589a9",
   "lastOpenFiles": [
+    "Campaing Notes.md",
     "Index.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Anakir.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Mad Mary.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Madam Eva.md",
+    "Characters/Pelanil.md",
     "Characters/Lancelot.md",
     "Characters/Morgantha.md",
     "Characters/Parriwimple.md",
@@ -220,28 +225,11 @@
     "Characters/Shalooti.md",
     "Characters/Tatyana.md",
     "Characters/Strahd Von Zarovich.md",
-    "Characters/Thornboldt.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/characters",
-    "Characters/Walter.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 2.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
-    "Campaign/Session 4.md",
-    "Locations/Death House.md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Tser Pool Encampment (G).md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
-    "Locations/Village of Barovia (E).md",
-    "Misc/Adventuring Gear.md",
-    "Misc/Barovian Lore.md",
-    "Misc/If Players Die.md",
-    "Misc/Vistani.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
     "wsl$/Ubuntu/home/norick/strahd-site/site/custom-monsters",
     "wsl$/Ubuntu/home/norick/strahd-site/site/items/handouts",
