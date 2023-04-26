@@ -61,26 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaing Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0eba9451cbc84ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Elora.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Elora.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Elora.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Elora.md"
+                "file": "Index.md"
               }
             }
           }
@@ -209,13 +197,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0eba9451cbc84ff0",
+  "active": "d9b6d57c761589a9",
   "lastOpenFiles": [
+    "Characters/Pelanil.md",
     "Index.md",
-    "Characters/Bardolf.md",
-    "Characters/Anakir.md",
+    "Characters/Shalooti.md",
     "Campaing Notes.md",
     "Locations/Death House.md",
+    "Characters/Elora.md",
+    "Characters/Bardolf.md",
+    "Characters/Anakir.md",
     "Characters/Donavich.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
@@ -234,9 +225,6 @@
     "Characters/Morgantha.md",
     "Characters/Parriwimple.md",
     "Characters/Mad Mary.md",
-    "Characters/Tatyana.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Pelanil.md",
     "Items/Handouts",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
