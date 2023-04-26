@@ -20,10 +20,11 @@ Don’t try to read the following verbatim, they are just talking points if thin
 
 Things Granny might share:
 
-- The Blood of The Vine Tavern, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
-- If the players ask “where are we?” or something like that, Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
-    
--   **If the players ask how they might leave Barovia**, Granny answers with great sadness, that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumoured that some Vistani have the ability to pass through the mists because of an ancient pact.
+- __The Blood of The Vine Tavern__, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
+- If the players ask “where are we?” or something like that
+	- Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
+- If the players ask how they might **leave Barovia**
+	- Granny answers with great sadness, that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumoured that some Vistani have the ability to pass through the mists because of an ancient pact.
     
 -   The Burgomaster of The Village of Barovia, Kolyan Indirovich, died recently, leaving a son and daughter, both adults. Granny knows that the son Ismark will likely take over as Burgomaster, but will confide that she believes Ireena to be better suited to leadership.
     
