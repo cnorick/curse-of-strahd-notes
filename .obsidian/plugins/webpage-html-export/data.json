@@ -1,12 +1,12 @@
 {
-  "inlineCSS": true,
-  "inlineJS": true,
+  "inlineCSS": false,
+  "inlineJS": false,
   "inlineImages": true,
   "makeNamesWebStyle": true,
   "includePluginCSS": "obsidian-5e-statblocks\nobsidian-git\ntemplater-obsidian\nobsidian-enhancing-export\nmedia-extended\ndataview",
   "addDarkModeToggle": true,
   "includeOutline": true,
   "customLineWidth": 0,
-  "openAfterExport": true,
+  "openAfterExport": false,
   "lastExportPath": "C:/Users/Nathan/Desktop/Strahd/strahd-site"
 }
