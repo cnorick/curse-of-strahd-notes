@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68a3e9515b0854f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/If Players Die.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "219eecac2cba99ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Barovian Lore.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -185,13 +209,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e292ab672db0e9c3",
+  "active": "219eecac2cba99ff",
   "lastOpenFiles": [
+    "Misc/If Players Die.md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Card Reading.md",
+    "Index.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
+    "Misc/Vistani.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/session-notes",
+    "Session Notes/Session 2.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site",
+    "wsl$/Ubuntu/home/norick/strahd-site",
+    "wsl$/Ubuntu/home/norick",
+    "wsl$/Ubuntu/home",
+    "wsl$/Ubuntu",
+    "wsl$",
+    "TODO.md",
     "Campaing Notes.md",
     "Campaign/Session 3.md",
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
-    "Music Compiled.md",
-    "Index.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -206,22 +246,7 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
     "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Morgantha.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/characters",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/custom-monsters",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/items/handouts",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/items",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
