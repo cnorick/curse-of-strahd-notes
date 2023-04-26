@@ -1,3 +1,6 @@
+# Danger! Big Spoilers! Do Not Read
+[Go here for no-spoiler session notes]
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').file.link)

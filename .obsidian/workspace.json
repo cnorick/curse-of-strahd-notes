@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaing Notes.md"
+                "file": "Index.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "e292ab672db0e9c3",
   "lastOpenFiles": [
+    "Campaing Notes.md",
     "Campaign/Session 3.md",
     "Assets/Music/CoS Vistani Camp [8TtFIT3x2PI].m4a",
     "Music Compiled.md",
@@ -196,7 +197,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaing Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
