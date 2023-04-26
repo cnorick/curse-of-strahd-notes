@@ -78,6 +78,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5501d8f2b54861b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Vistani.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 5
@@ -211,8 +223,12 @@
   },
   "active": "219eecac2cba99ff",
   "lastOpenFiles": [
-    "Index.md",
+    "Session Notes/Session 1.md",
+    "Music Compiled.md",
+    "Session Notes/Session 2.md",
+    "TODO.md",
     "Campaign Notes.md",
+    "Index.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -233,10 +249,6 @@
     "Characters/Lancelot.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Mad Mary.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Morgantha.md",
-    "Characters/Madam Eva.md",
-    "Characters/Parriwimple.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
