@@ -24,12 +24,11 @@ Things Granny might share:
 - If the players ask “where are we?” or something like that
 	- Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
 - If the players ask how they might **leave Barovia**
-	- Granny answers with great sadness, that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumoured that some Vistani have the ability to pass through the mists because of an ancient pact.
-    
--   The Burgomaster of The Village of Barovia, Kolyan Indirovich, died recently, leaving a son and daughter, both adults. Granny knows that the son Ismark will likely take over as Burgomaster, but will confide that she believes Ireena to be better suited to leadership.
-    
--   Mary Swilova's daughter, Gertruda, recently went missing.
-    
+	- Granny answers with great sadness:
+> that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumored that some Vistani have the ability to pass through the mists because of an ancient pact.
+- The Burgomaster of The Village of Barovia, Kolyan Indirovich, died recently, leaving a son and daughter, both adults
+	- Granny knows that the son Ismark will likely take over as Burgomaster, but will confide that she believes Ireena to be better suited to leadership.
+- Mary Swilova's daughter, Gertruda, recently went missing
     -   Mary is a bit of a nutter. She kept Gertruda locked away in that house for her entire life. Many people didn’t even know Mary had a daughter. But a few days ago Gertruda, now a teenager, sneaked out and hasn’t been seen since.
         
 -   Granny might ask male PCs why on earth they haven't settled down yet and asks the female PCs why they're so skinny. They should get some meat on their bones, for goodness sake!
