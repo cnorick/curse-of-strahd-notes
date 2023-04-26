@@ -25,7 +25,9 @@ Things Granny might share:
 	- Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
 - If the players ask how they might **leave Barovia**
 	- Granny answers with great sadness:
+
 > that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumored that some Vistani have the ability to pass through the mists because of an ancient pact.
+
 - The Burgomaster of The Village of Barovia, Kolyan Indirovich, died recently, leaving a son and daughter, both adults
 	- Granny knows that the son Ismark will likely take over as Burgomaster, but will confide that she believes Ireena to be better suited to leadership.
 - Mary Swilova's daughter, Gertruda, recently went missing
