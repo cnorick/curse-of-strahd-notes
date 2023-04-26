@@ -18,7 +18,7 @@
 - Maybe let [[Shalooti]] make a nature check after seeing dog prints in the dust
 - The dog is hiding under a bed or something somewhere in the house
 	- Maybe under the harpsichord
-- It's name is [[Lancelot]]
+- Its name is [[Lancelot]]
 	- It's on the collar and it answers to it
 - This gives the players something to sacrifice (if they choose to)
 
