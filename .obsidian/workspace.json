@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "5313f71454593715",
+            "id": "b32d839403094616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Pelanil.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Pelanil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Pelanil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Characters/Pelanil.md"
               }
             }
           }
@@ -209,44 +209,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5313f71454593715",
+  "active": "b32d839403094616",
   "lastOpenFiles": [
-    "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
     "Index.md",
+    "Characters/Lancelot.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/Tatyana.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Thornboldt.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/characters",
+    "Characters/Walter.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
+    "Assets/Templates/Character.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 2.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
+    "Campaign/Session 4.md",
+    "Locations/Death House.md",
+    "Locations/Old Svalich Road.md",
+    "Locations/Castle Ravenloft.md",
+    "Locations/Tser Pool Encampment (G).md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
     "Locations/Village of Barovia (E).md",
     "Misc/Adventuring Gear.md",
     "Misc/Barovian Lore.md",
     "Misc/If Players Die.md",
     "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
-    "Misc/Card Reading.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/custom-monsters",
-    "Custom Monsters/Dog.md",
-    "Items/Cultist Logbook.md",
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/items/handouts",
-    "Items/Handouts/Gustav Durst's Suicide Note.md",
-    "Items/The Tome of Strahd.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/items",
-    "Items/Sunsword.md",
-    "TODO.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/session-notes",
-    "Session Notes/Session 2.md",
-    "wsl$/Ubuntu/home/norick/strahd-site/site",
-    "wsl$/Ubuntu/home/norick/strahd-site",
-    "wsl$/Ubuntu/home/norick",
-    "wsl$/Ubuntu/home",
-    "wsl$/Ubuntu",
-    "Characters/Ireena Kolyana.md",
-    "Campaing Notes.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Anakir.md",
-    "Characters/Elizabeth Durst.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
