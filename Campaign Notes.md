@@ -1,3 +1,4 @@
+Get the [pdf version](https://cos.nathanorick.com/no-spoilers/Cam
 ```dataviewjs
 dv.pages('"Session Notes"').forEach(p => {
 	dv.header(2, p.file.name);
