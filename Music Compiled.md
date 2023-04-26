@@ -73,4 +73,4 @@ Death House Upstairs
 ![upstairs](https://www.youtube.com/watch?v=GOTyzCntzJo)
 
 Death House Dungeon
-![dungeon](https://www.youtube.com/watch?v=eqUiXz1tcmM)
+![dungeon](https://www.youtube.com/watch?v=eqUiXz1tcmM&loop=1)
