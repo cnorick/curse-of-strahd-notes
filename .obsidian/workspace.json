@@ -140,8 +140,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1da0559ec63ed3dc",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Assets/Images/death-house-front.jpg",
+    "Assets/Images/barovia.jpg",
+    "Assets/Images/death-house-kids.png",
+    "Assets/Images",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -167,7 +171,6 @@
     "Characters/Madam Eva.md",
     "Characters/Parriwimple.md",
     "Characters/Pelanil.md",
-    "Characters/Rictavio.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
@@ -177,7 +180,6 @@
     "wsl$/Ubuntu/home/norick/strahd-site/site/items",
     "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
     "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
-    "wsl$/Ubuntu/home/norick/strahd-site/site/session-notes",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
