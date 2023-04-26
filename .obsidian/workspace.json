@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -208,8 +209,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0b183cb3911a7e02",
+  "active": "e292ab672db0e9c3",
   "lastOpenFiles": [
+    "Index.md",
+    "Campaign Notes.md",
     "Locations/Death House.md",
     "Characters/Lancelot.md",
     "Characters/Elizabeth Durst.md",
@@ -234,8 +237,6 @@
     "Characters/Mad Mary.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Morgantha.md",
-    "Characters/Madam Eva.md",
-    "Characters/Parriwimple.md",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets/templates",
     "wsl$/Ubuntu/home/norick/strahd-site/site/assets",
     "wsl$/Ubuntu/home/norick/strahd-site/site/campaign",
