@@ -18,7 +18,7 @@ Don’t try to read the following verbatim, they are just talking points if thin
 
 *definitely share info about the tavern*.
 
-Things Granny might share:
+## Things Granny might share:
 
 - __The Blood of The Vine Tavern__, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
 - If the players ask “where are we?” or something like that
