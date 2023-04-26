@@ -7,6 +7,6 @@
   "addDarkModeToggle": true,
   "includeOutline": true,
   "customLineWidth": 0,
-  "openAfterExport": false,
+  "openAfterExport": true,
   "lastExportPath": "//wsl$/Ubuntu/home/norick/strahd-site/site"
 }
