@@ -1,7 +1,7 @@
 Firstly, try to play Morgantha as the most loving, grandmotherly person in the whole wide world. She's kind to a fault and a shameless gossip (as many elder women can be as a stereotype).
 
 Morgantha introduces herself as Granny, If asked for her name, Morgantha replies honestly, but shows distaste for it. She says:
->Why it's Morgantha, dear. But everyone just calls me Granny. Morgantha is much too formal!"
+>Why it's Morgantha, dear. But everyone just calls me Granny. Morgantha is much too formal!
 
 Granny sells pastries and pies for 1 Gold each.
 
@@ -16,13 +16,12 @@ If players ask what kind of meat is in the pies. Morgantha says something like:
 
 Don’t try to read the following verbatim, they are just talking points if things get slow and you need to improvise. Granny’s primary goal is to move her pies.
 
-*definitely share info about the tavern.
+*definitely share info about the tavern*.
 
 Things Granny might share:
 
--   *The Blood of The Vine Tavern, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
-    
--   **If the players ask “where are we?” or something like that**, Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
+- The Blood of The Vine Tavern, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
+- If the players ask “where are we?” or something like that, Granny answers that we are in the land of Barovia, ruled by Lord Strahd Von Zarovich. Granny is reluctant to talk about Strahd too much and if the players press her on the issue, granny becomes uncomfortable and changes the subject back to her pies.
     
 -   **If the players ask how they might leave Barovia**, Granny answers with great sadness, that none may pass the mists that enshrine this land, there is no wall that is higher and no sea more vast than the mists that imprison us all here. Although, it is rumoured that some Vistani have the ability to pass through the mists because of an ancient pact.
     
