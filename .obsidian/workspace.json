@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Compiled.md"
+                "file": "Characters/Elizabeth Durst.md"
               }
             }
           }
@@ -209,10 +208,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "219eecac2cba99ff",
+  "active": "0b183cb3911a7e02",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
     "Music Compiled.md",
+    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
