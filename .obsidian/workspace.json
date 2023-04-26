@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5313f71454593715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           }
@@ -197,44 +209,44 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d9b6d57c761589a9",
+  "active": "5313f71454593715",
   "lastOpenFiles": [
-    "Characters/Ireena Kolyana.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/locations",
     "Index.md",
+    "Locations/Village of Barovia (E).md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
+    "Misc/If Players Die.md",
+    "Misc/Vistani.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/misc",
+    "Misc/Card Reading.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/custom-monsters",
+    "Custom Monsters/Dog.md",
+    "Items/Cultist Logbook.md",
+    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/items/handouts",
+    "Items/Handouts/Gustav Durst's Suicide Note.md",
+    "Items/The Tome of Strahd.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/items",
+    "Items/Sunsword.md",
+    "TODO.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site/session-notes",
+    "Session Notes/Session 2.md",
+    "wsl$/Ubuntu/home/norick/strahd-site/site",
+    "wsl$/Ubuntu/home/norick/strahd-site",
+    "wsl$/Ubuntu/home/norick",
+    "wsl$/Ubuntu/home",
+    "wsl$/Ubuntu",
+    "Characters/Ireena Kolyana.md",
     "Campaing Notes.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Anakir.md",
     "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
-    "Characters/Gertruda.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Mad Mary.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Madam Eva.md",
-    "Characters/Pelanil.md",
-    "Characters/Lancelot.md",
-    "Characters/Morgantha.md",
-    "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
-    "Characters/Rosevalda.md",
-    "Characters/Shalooti.md",
-    "Characters/Tatyana.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Items/Handouts",
-    "Items",
-    "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
-    "Assets/Music/Ravenloft- Traveling the roads of Barovia [9G6CskLxgMI].m4a",
-    "Assets/Music/Ravenloft- Barovia： Village of Barovia [dXTNvDeFdVU].m4a",
-    "Assets/Music/D&D Ambience - [CoS] - Death House Dungeon [eqUiXz1tcmM].m4a",
-    "Assets/Music/Death House Music - 5) The Decayer Awakens ~ The Peace Guild OST [PnEnOGgCYcQ].m4a",
-    "Assets/Music/Death House Music - 3) The Murdered Maid ~ The Peace Guild OST [RhBrss1_bh0].m4a",
-    "Assets/Music/Death House Music - 2) Rose and Thorn ~ The Peace Guild OST [yDCC7EcDr3k].m4a",
-    "Assets/Music/Death House Music - 1) Enter the House ~ The Peace Guild OST [3zQ7Nw8viok].m4a",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
