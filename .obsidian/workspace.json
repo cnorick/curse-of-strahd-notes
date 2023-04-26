@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaing Notes.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaing Notes.md"
+                "file": "Index.md"
               }
             }
           }
@@ -199,14 +199,15 @@
   },
   "active": "d9b6d57c761589a9",
   "lastOpenFiles": [
-    "Index.md",
     "Music Compiled.md",
+    "TODO.md",
+    "Campaing Notes.md",
+    "Index.md",
     "Items/The Tome of Strahd.md",
     "Items/Sunsword.md",
     "Items/Cultist Logbook.md",
     "Characters/Pelanil.md",
     "Characters/Shalooti.md",
-    "Campaing Notes.md",
     "Locations/Death House.md",
     "Characters/Elora.md",
     "Characters/Bardolf.md",
@@ -224,7 +225,6 @@
     "Characters/Gertruda.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
     "Items/Handouts",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",

@@ -20,3 +20,5 @@ dv.list(dv.pages('"Characters"').filter(k => k.pc).sort(k => k.file.name).file.l
 ```dataviewjs
 dv.list(dv.pages('"Items/Handouts"').sort(k => k.file.name).file.link)
 ```
+## Music
+[[Music Compiled]]
