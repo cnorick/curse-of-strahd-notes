@@ -29,9 +29,7 @@ Things Granny might share:
 - The Burgomaster of The Village of Barovia, Kolyan Indirovich, died recently, leaving a son and daughter, both adults
 	- Granny knows that the son Ismark will likely take over as Burgomaster, but will confide that she believes Ireena to be better suited to leadership.
 - Mary Swilova's daughter, Gertruda, recently went missing
-    -   Mary is a bit of a nutter. She kept Gertruda locked away in that house for her entire life. Many people didn’t even know Mary had a daughter. But a few days ago Gertruda, now a teenager, sneaked out and hasn’t been seen since.
-        
--   Granny might ask male PCs why on earth they haven't settled down yet and asks the female PCs why they're so skinny. They should get some meat on their bones, for goodness sake!
-    
+    - Mary is a bit of a nutter. She kept Gertruda locked away in that house for her entire life. Many people didn’t even know Mary had a daughter. But a few days ago Gertruda, now a teenager, sneaked out and hasn’t been seen since.
+- Granny might ask male PCs why on earth they haven't settled down yet and asks the female PCs why they're so skinny. They should get some meat on their bones, for goodness sake!
 
 No matter what, Morgantha will gift the party with a pie to share for dinner. Yes, they normally cost 1gp, but she is confident that they’ll be back for more and she wouldn’t want such lovely people to have to choke down the gruel and shoe leather they serve at the tavern.
