@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Elora.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Elora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Elora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Characters/Elora.md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "0eba9451cbc84ff0",
   "lastOpenFiles": [
-    "Characters/Anakir.md",
     "Index.md",
+    "Characters/Bardolf.md",
+    "Characters/Anakir.md",
     "Campaing Notes.md",
     "Locations/Death House.md",
     "Characters/Donavich.md",
@@ -236,7 +237,6 @@
     "Characters/Tatyana.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Pelanil.md",
-    "Characters/Shalooti.md",
     "Items/Handouts",
     "Items",
     "Assets/Music/D&D Ambience - [CoS] - Death House [GOTyzCntzJo].m4a",
