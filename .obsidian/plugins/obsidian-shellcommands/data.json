@@ -18,7 +18,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "cd Website;\nbash scripts/publish.sh;\n"
+        "default": "cd obsidian/Website;\nbash scripts/publish.sh;\n"
       },
       "shells": {},
       "alias": "Publish Website",
