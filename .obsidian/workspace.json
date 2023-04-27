@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "5acffefea584612e",
+        "id": "4ae8426797286f27",
         "type": "tabs",
+        "dimension": 23.32920792079208,
         "children": [
           {
             "id": "41385dbd7507c855",
@@ -14,6 +15,25 @@
               "type": "markdown",
               "state": {
                 "file": "Music Compiled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5acffefea584612e",
+        "type": "tabs",
+        "dimension": 76.67079207920791,
+        "children": [
+          {
+            "id": "1485cd974a6e71cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,8 +168,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "41385dbd7507c855",
   "lastOpenFiles": [
+    "Index.md",
+    "Music Compiled.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
@@ -174,8 +196,6 @@
     "Characters/Mad Mary.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Morgantha.md",
-    "Characters/Madam Eva.md",
-    "Characters/Parriwimple.md",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
     "Assets/Images/death-house-kids.png",
