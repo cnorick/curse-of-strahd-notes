@@ -18,7 +18,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "cd \"Website\" && del /S site && start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && start \"\" \"obsidian://advanced-uri?vault=obsidian&filepath=Campaign%2520Notes.md&commandid=workspace%253Aexport-pdf\" && START /WAIT timeout /nobreak /t 90 > nul < nul && echo \"Starting publish script\" && bash scripts/publish.sh\n\n"
+        "default": "cd \"Website\" && del /S site\\* && start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && start \"\" \"obsidian://advanced-uri?vault=obsidian&filepath=Campaign%2520Notes.md&commandid=workspace%253Aexport-pdf\" && START /WAIT timeout /nobreak /t 90 > nul < nul && echo \"Starting publish script\" && bash scripts/publish.sh\n\n"
       },
       "shells": {},
       "alias": "Publish Website",
