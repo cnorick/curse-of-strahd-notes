@@ -18,7 +18,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && echo \"error\"\n\n"
+        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && echo \"Starting publish script\"\n\n"
       },
       "shells": {},
       "alias": "Publish Website",
@@ -29,7 +29,7 @@
         "stdin": null
       },
       "output_channels": {
-        "stdout": "ignore",
+        "stdout": "notification",
         "stderr": "notification"
       },
       "output_wrappers": {
@@ -47,5 +47,11 @@
   "prompts": [],
   "builtin_variables": {},
   "custom_variables": [],
-  "output_wrappers": []
+  "output_wrappers": [
+    {
+      "id": "c8lxvb31qi",
+      "title": "",
+      "content": ""
+    }
+  ]
 }
