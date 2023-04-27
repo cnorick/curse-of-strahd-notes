@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "68d5f3005ad44b86",
+            "id": "1677ee11163fcbd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Campaign Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c8324c951630791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign Notes.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -161,34 +173,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "68d5f3005ad44b86",
+  "active": "1c8324c951630791",
   "lastOpenFiles": [
-    "Index.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
-    "Characters/Parriwimple.md",
-    "Characters/Pelanil.md",
-    "Characters/Rictavio.md",
-    "Characters/Rosevalda.md",
-    "Characters/Shalooti.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Tatyana.md",
-    "Characters/Thornboldt.md",
-    "Characters/Walter.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "TODO.md",
+    "Items/Handouts/Strahd's Invitation.md",
     "Campaign Notes.md",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
+    "Items/Handouts/Tome of Strahd.md",
+    "Items/Handouts/Village of Barovia.md",
+    "Items/Sunsword.md",
+    "Items/The Tome of Strahd.md",
+    "Locations/Castle Ravenloft.md",
+    "Locations/Death House.md",
+    "Locations/Old Svalich Road.md",
+    "Locations/Tser Pool Encampment (G).md",
+    "Locations/Village of Barovia (E).md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
+    "Index.md",
+    "Misc/Card Reading.md",
+    "Misc/Guest as Granny.md",
+    "Misc/If Players Die.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Misc/Vistani.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
     "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
