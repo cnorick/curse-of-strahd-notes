@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "151a060f91c59e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Barovian Lore.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/no-spoilers/Campaign Notes.pdf",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Website/no-spoilers/Campaign Notes.pdf",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website/no-spoilers/Campaign Notes.pdf"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -144,10 +157,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "151a060f91c59e8c",
   "lastOpenFiles": [
-    "Music Compiled.md",
-    "Index.md",
+    "Misc/Card Reading.md",
+    "Misc/Guest as Granny.md",
+    "Misc/If Players Die.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Misc/Vistani.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Rictavio.md",
+    "Characters/Rosevalda.md",
+    "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
     "Website/site/misc/guest-as-granny.html",
@@ -157,30 +195,6 @@
     "Website/site/misc/card-reading.html",
     "Website/site/misc/vistani.html",
     "Website/site/misc/if-players-die.html",
-    "Website/site/misc/snippets.css",
-    "Items/Handouts/Argynvost's Journal.md",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
-    "Items/Handouts/Death House Front.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
-    "Characters/Mad Mage of Mount Baratok.md",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
     "Assets/Images/death-house-kids.png",
