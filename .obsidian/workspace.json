@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4ae8426797286f27",
+        "id": "d8e35c67ea2c84e6",
         "type": "tabs",
-        "dimension": 23.32920792079208,
         "children": [
           {
-            "id": "41385dbd7507c855",
+            "id": "7fc8a6c354e05ff1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Compiled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5acffefea584612e",
-        "type": "tabs",
-        "dimension": 76.67079207920791,
-        "children": [
-          {
-            "id": "1485cd974a6e71cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Website/no-spoilers/Campaign Notes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Website/no-spoilers/Campaign Notes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Website/no-spoilers/Campaign Notes.pdf"
               }
             }
           }
@@ -170,6 +146,8 @@
   },
   "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Music Compiled.md",
+    "Index.md",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
     "Website/site/misc/guest-as-granny.html",
@@ -180,9 +158,6 @@
     "Website/site/misc/vistani.html",
     "Website/site/misc/if-players-die.html",
     "Website/site/misc/snippets.css",
-    "Website/site/misc/mechanics-of-dream-pastries.html",
-    "Music Compiled.md",
-    "Index.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
