@@ -18,7 +18,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" &&\n>&2 echo \"error\" &&\ncd \"Website\" &&\n\n"
+        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" &&\necho \"error\" 1>&2 &&\ncd \"Website\"\n\n"
       },
       "shells": {},
       "alias": "Publish Website",
