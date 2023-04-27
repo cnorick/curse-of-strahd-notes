@@ -18,7 +18,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && bash sleep 90 && echo \"Starting publish script\" && cd \"Website\" && bash scripts\\publish.sh\n\n"
+        "default": "start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && timeout /nobreak /t 90 >nul && echo \"Starting publish script\" && cd \"Website\" && bash scripts\\publish.sh\n\n"
       },
       "shells": {},
       "alias": "Publish Website",
