@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa8a9f590a6d8b6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rosevalda.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Characters/Rosevalda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Characters/Rosevalda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Characters/Rosevalda.md"
               }
             }
           }
@@ -173,10 +185,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1c8324c951630791",
+  "active": "fa8a9f590a6d8b6d",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
     "Campaign Notes.md",
+    "Characters/Shalooti.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Tatyana.md",
+    "Characters/Thornboldt.md",
+    "Characters/Walter.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "TODO.md",
+    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
@@ -192,15 +213,6 @@
     "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
     "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
     "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Items/Handouts/Rose and Thorne.md",
-    "Items/Handouts/Strahd's Invitation.md",
-    "Items/Handouts/Tome of Strahd.md",
-    "Items/Handouts/Village of Barovia.md",
-    "Items/Sunsword.md",
-    "Items/The Tome of Strahd.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Death House.md",
-    "Locations/Old Svalich Road.md",
     "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
