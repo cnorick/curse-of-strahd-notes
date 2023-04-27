@@ -18,10 +18,10 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "start \"\" obsidian://advanced-uri?"
+        "default": "start \"\" obsidian://advanced-uri?commandname="
       },
       "shells": {},
-      "alias": "",
+      "alias": "Publish Website",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
