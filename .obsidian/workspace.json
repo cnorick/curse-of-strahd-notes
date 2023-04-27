@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -168,10 +168,78 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1485cd974a6e71cb",
+  "floating": {
+    "id": "027231effe5e5a9c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "58b47f0821ab7a61",
+        "type": "window",
+        "children": [
+          {
+            "id": "c148e238740ee5f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "175b9acb36e1bc63",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -129,
+        "y": -1051,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "923c21669009648a",
+        "type": "window",
+        "children": [
+          {
+            "id": "b93b90d67d1ecb35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afda13b36dbd237d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Music Compiled.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 120,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "afda13b36dbd237d",
   "lastOpenFiles": [
-    "Music Compiled.md",
     "Index.md",
+    "Music Compiled.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
