@@ -18,12 +18,12 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "start \"\" obsidian://advanced-uri?commandname="
+        "default": "start \"\" obsidian://advanced-uri?commandid=obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault"
       },
       "shells": {},
       "alias": "Publish Website",
       "icon": null,
-      "confirm_execution": false,
+      "confirm_execution": true,
       "ignore_error_codes": [],
       "input_contents": {
         "stdin": null
