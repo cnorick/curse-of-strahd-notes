@@ -175,8 +175,9 @@
   },
   "active": "1c8324c951630791",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
+    "Characters/Kolyan Indirovich.md",
     "Campaign Notes.md",
+    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
@@ -200,7 +201,6 @@
     "Items/The Tome of Strahd.md",
     "Locations/Castle Ravenloft.md",
     "Locations/Death House.md",
-    "Locations/Old Svalich Road.md",
     "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
