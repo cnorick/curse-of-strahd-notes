@@ -46,9 +46,10 @@ Continuing to search the cultist quarters, the party each finds some treasure pa
 - [[Anakir]]: a silvered shortsword (110gp)
 	- Drawing on his experience with martial weapons, [[Bardolf]] remembers the silvered weapons have the special property of causing damage to enemies with immunity to regular weapons (e.g. werewolves)
 
-The party hears more snarling coming from a well. Indignant, [[Bardolf]] decides to spit down the well. The ghoul at the bottom tries to shield itself as the party
+The party hears more snarling coming from a well. Indignant, [[Bardolf]] decides to spit down the well. The ghoul at the bottom tries to shield itself as the party annihilates it.
 
 ## The Spiked Pit and the Split Party
+As they ventured further into the dungeon, [[Pelanil]] observes that there is a strange place in the floor. After throwing a
 
 ## The Durst's Bedroom
 
