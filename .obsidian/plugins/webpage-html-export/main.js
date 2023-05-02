@@ -11459,7 +11459,7 @@ ${this.webpageJS}
           targetRelativePath.setExtension("html");
         if (ExportSettings.settings.makeNamesWebStyle)
           targetRelativePath.makeWebStyle();
-        let finalHref = targetRelativePath + targetHeader.replaceAll(" ", "_");
+        let finalHref = targetHeader.replaceAll(" ", "_");
         $(this).attr("href", finalHref);
       }
     });
