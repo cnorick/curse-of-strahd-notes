@@ -53,8 +53,9 @@ As they ventured further into the dungeon, [[Pelanil]] observes that there is a 
 
 Separated, the main group sneaks past more snarling. Worried that [[Bardolf]] would walk directly into the beasts, [[Shalooti]] uses the new [[Sending Stones]] that [[Bardolf]] gifted her to let him know of his danger.
 
-Still incensed at these ghouls' snarling, [[Bardolf]] first throws a rock at them in the dark, the runs headlong toward them. He finds theses beasts tucked into the earthen walls, and calls for [[Pelanil]] for backup. [[Pelanil]] strikes them with his mace
+Still incensed at these ghouls' snarling, [[Bardolf]] first throws a rock at them in the dark, the runs headlong toward them. He finds theses beasts tucked into the earthen walls, and calls for [[Pelanil]] for backup. [[Pelanil]] strikes them with his mace which causes them to retreat into the dirt.
 
 ## The Durst's Bedroom
+Back together again, the part makes their way into an underground bedroom. The first inside, [[Elora]] sees [[Gustav Durst]] hanging from the ceiling, and discov
 
 ## The Shrine
