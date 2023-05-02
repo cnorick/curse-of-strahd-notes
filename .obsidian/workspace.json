@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -183,12 +183,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b7074fe9cba40ced",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Locations/Death House.md",
+    "Campaign Notes.md",
+    "Session Notes/Session 3.md",
     "Assets/Templates/Character.md",
     "Website/site/scripts/tinycolor.js",
     "Website/site/scripts/graph_view.js",
@@ -200,7 +202,6 @@
     "Campaign/Session 2.md",
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -218,8 +219,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Parriwimple.md",
-    "Characters/Pelanil.md",
     "Website/site/items/handouts/images/death-house-front.jpg",
     "Website/site/items/handouts/images/death-house-kids.png",
     "Website/site/items/handouts/images/barovia.jpg",
