@@ -19,4 +19,6 @@ After a minute, the illusion spell ends, the baby disappears and so does Margare
 
 ## Cultist Quarters
 
-##
+## The Spiked Pit and the Split Party
+
+## The Durst's Bedroom
