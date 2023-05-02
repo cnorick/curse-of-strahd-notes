@@ -61,6 +61,11 @@ Back together again, the part makes their way into an underground bedroom. The f
 - [[Gustav Durst]] only played along because he saw no way out
 
 Inside the room, [[Elora]] opened a footlocker where the group found the following:
-- a cloak of pr
+- a [[Cloak of Protection]]
+- 4 [[Potion of Healing|Potions of Healing]]
+- chain shirt
+- mess kit
+- flask of alchemist's fire
+- 
 
 ## The Shrine
