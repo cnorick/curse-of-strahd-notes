@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Items/Handouts/Gustav Durst's Suicide Note.md"
               }
             }
           }
@@ -187,8 +187,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7074fe9cba40ced",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Session Notes/Session 3.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -214,7 +215,6 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Parriwimple.md",
     "Characters/Pelanil.md",
-    "Characters/Mad Mary.md",
     "Website/site/session-notes/session-3.html",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
