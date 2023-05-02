@@ -71,6 +71,7 @@ Inside the room, [[Elora]] opened a footlocker where the group found the followi
 
 Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls. The party recognized this to be an undead [[Elizabeth Durst]], the woman from the portraits in the entryway. [[Elizabeth Durst]] curses the party, her husband, her own children, and especially Margaret and her bastard child, [[Walter]]. [[Elizabeth Durst]] invites the party to venture lower into the dungeon before [[Pelanil]], completely disgusted, strikes at the monster. The rest of the party flees, leaving [[Anakir]] and [[Pelanil]] to fight.
 
-The two make quick work of the monster, [[Pelanil]] getting knocked unconscious just before [[An
+The two make quick work of the monster, [[Pelanil]] getting knocked unconscious just before [[Anakir]] destroys her.
 
 ## The Shrine
+The party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. 
