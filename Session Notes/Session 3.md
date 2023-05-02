@@ -66,6 +66,9 @@ Inside the room, [[Elora]] opened a footlocker where the group found the followi
 - chain shirt
 - mess kit
 - flask of alchemist's fire
-- 
+- bullseye lantern
+- thieves tools
+
+Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls. The party recognized this to be an undead [[Elizabeth Durst]], the woman from the 
 
 ## The Shrine
