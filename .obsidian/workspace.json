@@ -144,8 +144,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "7fc8a6c354e05ff1",
