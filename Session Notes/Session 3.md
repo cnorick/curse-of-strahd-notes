@@ -6,3 +6,6 @@ We learn that:
 - After [[Walter]] was born, [[Elizabeth Durst]] became more involved in the cult and she was luring more innocent people into their basement where the screams would wake up [[Walter]]
 - [[Elizabeth Durst]] and [[Gustav Durst]] would lock [[Rosevalda|Rose]] and [[Thornboldt|Thorn]] in their attic bedroom while they performed the rituals in the basement
 - [[Elizabeth Durst]] took [[Walter]] from Margaret
+
+After a minute, the illusion spell ends, the baby disappears and so does Margaret.
+
