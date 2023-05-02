@@ -31,7 +31,8 @@ The party agrees to help. When they ask where the basement is, [[Rosevalda|Rose]
 Rested up, the party makes their way to the storage room, the kids choosing to stay behind. [[Elora]] finds a chest with the bones of who [[Shalooti]] realizes is Margaret, the nanny. She seems to have been stabbed to death. [[Pelanil]] also scoops up these bones to take with him.
 
 ## Into the Dungeon
-The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a 
+The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a dark, earthen corridor and an incessant chanting, that they can't seem to pinpoint.
+
 
 ## Cultist Quarters
 
