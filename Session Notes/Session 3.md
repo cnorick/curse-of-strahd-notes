@@ -57,6 +57,9 @@ Still incensed at these ghouls' snarling, [[Bardolf]] first throws a rock at the
 
 ## The Durst's Bedroom
 Back together again, the part makes their way into an underground bedroom. The first inside, [[Elora]] sees [[Gustav Durst]] hanging from the ceiling, and discovers his [[Gustav Durst's Suicide Note|suicide note]]  on the bed next to him. The note tells us that:
-- [[Elizabeth Durst]] was the one w
+- [[Elizabeth Durst]] was the one who started the cult
+- [[Gustav Durst]] only played along because he saw no way out
+
+
 
 ## The Shrine
