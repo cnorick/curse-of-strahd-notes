@@ -11454,7 +11454,7 @@ ${this.webpageJS}
         if (!targetFile)
           return;
         let targetPath = new Path(targetFile.path);
-        let targetRelativePath = Path.getRelativePath(file.exportPath, targetPath);
+        let targetRelativePath = targetPath;
         if (htmlCompatibleExt.includes(targetRelativePath.extensionName))
           targetRelativePath.setExtension("html");
         if (ExportSettings.settings.makeNamesWebStyle)
