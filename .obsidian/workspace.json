@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "211edd97b89cc339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 3.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -199,26 +187,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "211edd97b89cc339",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
-    "Campaign Notes.md",
-    "TODO.md",
-    "Session Notes/Session 3.md",
-    "Website/site/assets/templates/webpage.js",
-    "Website/site/assets/templates/snippets.css",
-    "Website/site/assets/templates/theme.css",
-    "Website/site/assets/templates/plugin-styles.css",
-    "Website/site/assets/templates/obsidian-styles.css",
     "Assets/Templates/Character.md",
+    "Campaign Notes.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 3.md",
-    "Website/site/campaign/webpage.js",
-    "Website/site/campaign/snippets.css",
-    "Website/site/campaign/theme.css",
-    "Website/site/campaign/plugin-styles.css",
-    "Website/site/campaign/obsidian-styles.css",
     "Campaign/Session 4.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
@@ -237,6 +213,18 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Parriwimple.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Website/site/assets/templates/webpage.js",
+    "Website/site/assets/templates/snippets.css",
+    "Website/site/assets/templates/theme.css",
+    "Website/site/assets/templates/plugin-styles.css",
+    "Website/site/assets/templates/obsidian-styles.css",
+    "Website/site/campaign/webpage.js",
+    "Website/site/campaign/snippets.css",
+    "Website/site/campaign/theme.css",
+    "Website/site/campaign/plugin-styles.css",
+    "Website/site/campaign/obsidian-styles.css",
     "Website/site/items/handouts/images/death-house-front.jpg",
     "Website/site/items/handouts/images/death-house-kids.png",
     "Website/site/items/handouts/images/barovia.jpg",
