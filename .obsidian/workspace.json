@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7074fe9cba40ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           }
@@ -144,11 +157,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fc8a6c354e05ff1",
+  "active": "b7074fe9cba40ced",
   "lastOpenFiles": [
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "Index.md",
     "Campaign Notes.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -172,9 +189,6 @@
     "Characters/Kolyan Indirovich.md",
     "Characters/Morgantha.md",
     "Characters/Rosevalda.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Tatyana.md",
-    "Characters/Walter.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
