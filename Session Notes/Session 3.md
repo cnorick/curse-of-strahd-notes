@@ -28,9 +28,10 @@ They ask the party for help. The last time their mom went to the basement, she t
 
 The party agrees to help. When they ask where the basement is, [[Rosevalda|Rose]] points to a dollhouse in the corner of the room. From this dollhouse, the party learns all the secrets to the house, including a secret doorway in the storage room. Before heading to the basement, the party levels up, takes a long rest, and scours the rest of the house for missed loot (they can see where it is from the replica dollhouse). Notably, [[Pelanil]] finds a very expensive-looking platinum necklace with a topaz pendant.
 
-Rested up, the party makes their way to the storage room, the kids choosing to stay behind. [[Elora]] finds a chest with the bones of who [[Shalooti]] realizes is Margaret, the nanny. She seems to have been stabbed
+Rested up, the party makes their way to the storage room, the kids choosing to stay behind. [[Elora]] finds a chest with the bones of who [[Shalooti]] realizes is Margaret, the nanny. She seems to have been stabbed to death. [[Pelanil]] also scoops up these bones to take with him.
 
 ## Into the Dungeon
+The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a 
 
 ## Cultist Quarters
 
