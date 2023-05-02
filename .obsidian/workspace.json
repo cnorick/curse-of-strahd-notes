@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Characters/Doru.md"
               }
             }
           }
@@ -148,34 +148,71 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fc8a6c354e05ff1",
+  "floating": {
+    "id": "360a9e1d4947ebcd",
+    "type": "floating",
+    "children": [
+      {
+        "id": "86d3eadef1475894",
+        "type": "window",
+        "children": [
+          {
+            "id": "e44ce225748c8d42",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2e184fec286c45be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Doru.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 930,
+        "y": 50,
+        "width": 700,
+        "height": 270,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2e184fec286c45be",
   "lastOpenFiles": [
-    "Campaign Notes.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Rictavio.md",
+    "Characters/Gertruda.md",
+    "Characters/Shalooti.md",
     "Characters/Kolyan Indirovich.md",
-    "Assets/Templates/Character.md",
+    "Characters/Morgantha.md",
+    "Characters/Rosevalda.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Tatyana.md",
+    "Characters/Walter.md",
+    "Characters/Thornboldt.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
-    "Custom Monsters/Dog.md",
     "Index.md",
     "Items/Cultist Logbook.md",
     "Items/Handouts/Argynvost's Journal.md",
     "Items/Handouts/Death House Front.md",
     "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
-    "Items/Handouts/Gustav Durst's Suicide Note.md",
     "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
-    "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
-    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Items/Handouts/Rose and Thorne.md",
-    "Items/Handouts/Strahd's Invitation.md",
-    "Items/Handouts/Tome of Strahd.md",
-    "Items/Handouts/Village of Barovia.md",
-    "Items/Sunsword.md",
-    "Items/The Tome of Strahd.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Death House.md",
+    "Items/Handouts/Gustav Durst's Suicide Note.md",
+    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
     "Website/site/misc/obsidian-styles.css",
