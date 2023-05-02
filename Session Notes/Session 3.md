@@ -60,6 +60,7 @@ Back together again, the part makes their way into an underground bedroom. The f
 - [[Elizabeth Durst]] was the one who started the cult
 - [[Gustav Durst]] only played along because he saw no way out
 
-
+Inside the room, [[Elora]] opened a footlocker where the group found the following:
+- a cloak of pr
 
 ## The Shrine
