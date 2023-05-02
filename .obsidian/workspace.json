@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -189,9 +189,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "floating": {
+    "id": "6f3659079fc1e6e5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "556bbe0f627ffce6",
+        "type": "window",
+        "children": [
+          {
+            "id": "3c7c0340c5749142",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2de49e10999321b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Music Compiled.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 610,
+        "y": 50,
+        "width": 700,
+        "height": 270,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a2de49e10999321b",
   "lastOpenFiles": [
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
+    "TODO.md",
     "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
@@ -214,9 +254,6 @@
     "Characters/Lancelot.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Parriwimple.md",
-    "Characters/Morgantha.md",
     "Website/scripts/fix-links.py",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
