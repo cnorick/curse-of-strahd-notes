@@ -48,14 +48,14 @@ Continuing to search the cultist quarters, the party each finds some treasure pa
 
 The party hears more snarling coming from a well. Indignant, [[Bardolf]] decides to spit down the well. The ghoul at the bottom tries to shield itself as the party annihilates it.
 
-## The Spiked Pit and the Split Party
+### The Spiked Pit and the Split Party
 As they ventured further into the dungeon, [[Pelanil]] observes that there is a strange place in the floor. After throwing something onto the spot, the party realizes that they've found a trap door that falls to a spiked pit. Each of the party members easily jumps the pit, except for [[Bardolf]] who is certain he can find another way around.
 
 Separated, the main group sneaks past more snarling. Worried that [[Bardolf]] would walk directly into the beasts, [[Shalooti]] uses the new [[Sending Stones]] that [[Bardolf]] gifted her to let him know of his danger.
 
 Still incensed at these ghouls' snarling, [[Bardolf]] first throws a rock at them in the dark, the runs headlong toward them. He finds theses beasts tucked into the earthen walls, and calls for [[Pelanil]] for backup. [[Pelanil]] strikes them with his mace which causes them to retreat into the dirt.
 
-## The Durst's Bedroom
+### The Durst's Bedroom
 Back together again, the part makes their way into an underground bedroom. The first inside, [[Elora]] sees [[Gustav Durst]] hanging from the ceiling, and discovers his [[Gustav Durst's Suicide Note|suicide note]]  on the bed next to him. The note tells us that:
 - [[Elizabeth Durst]] was the one who started the cult
 - [[Gustav Durst]] only played along because he saw no way out
@@ -73,7 +73,7 @@ Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls
 
 The two make quick work of the monster, [[Pelanil]] getting knocked unconscious just before [[Anakir]] destroys her.
 
-## The Shrine
+### The Shrine
 The party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. [[Bardolf]] finds a secret set of stairs that leads upwards (presumably to the first level of the house).
 
 [[Anakir]] takes the [[Orb of the Warmage]] from the statue, and replaces it with an equal weight, Indiana Jones style. Just as he removes the orb, multiple spirits appear and begin chanting, "Return the Orb. Begone from this place!"...
