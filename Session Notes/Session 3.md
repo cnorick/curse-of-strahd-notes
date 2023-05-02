@@ -33,7 +33,7 @@ Rested up, the party makes their way to the storage room, the kids choosing to s
 ### Into the Dungeon
 The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a dark, earthen corridor and an incessant chanting, that they can't seem to pinpoint.
 
-The party discovers some empty tombs, one with [[Walter]]'s name on the door, and the other container little coffins with their names one them.
+The party discovers some empty tombs, one with [[Walter]]'s name on the door, and the other contains little coffins with their names one them.
 
 ### Cultist Quarters
 The party makes their way into what seems to be a living space with a wooden table and multiple straw beds. In one of the bed alcoves, they hear something snarling. [[Pelanil]] rushes in to find out what's making the noise, and it turns out to be a ghoul which the party quickly dispatches.
