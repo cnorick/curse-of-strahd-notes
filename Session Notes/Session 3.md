@@ -36,7 +36,9 @@ The party opens the secret door and descends deep into the basement. They're gre
 The party discovers some empty tombs, one with [[Walter]]'s name on the door, and the other container little coffins with their names one them.
 
 ## Cultist Quarters
-The party makes their way into what seems to be a living space with a wooden table and multipl
+The party makes their way into what seems to be a living space with a wooden table and multiple straw beds. In one of the bed alcoves, they hear something snarling. [[Pelanil]] rushes in to find out what's making the noise, and it turns out to be a ghoul which the party quickly dispatches.
+
+Continu
 
 ## The Spiked Pit and the Split Party
 
