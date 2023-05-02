@@ -49,7 +49,9 @@ Continuing to search the cultist quarters, the party each finds some treasure pa
 The party hears more snarling coming from a well. Indignant, [[Bardolf]] decides to spit down the well. The ghoul at the bottom tries to shield itself as the party annihilates it.
 
 ## The Spiked Pit and the Split Party
-As they ventured further into the dungeon, [[Pelanil]] observes that there is a strange place in the floor. After throwing something onto the spot, the party realizes that they've found a trap door that falls to a spiked pit. Each of the party members easily jumps the pit, except for [[Bardolf]] who is certain he can find anot
+As they ventured further into the dungeon, [[Pelanil]] observes that there is a strange place in the floor. After throwing something onto the spot, the party realizes that they've found a trap door that falls to a spiked pit. Each of the party members easily jumps the pit, except for [[Bardolf]] who is certain he can find another way around.
+
+Separated, the main group sneaks past more snarling. Worried that [[Bardolf]] would walk directly into the beasts, [[Shalooti]] uses the new [[Stones of Sending]] that
 
 ## The Durst's Bedroom
 
