@@ -40,7 +40,9 @@ The party makes their way into what seems to be a living space with a wooden tab
 
 Continuing to search the cultist quarters, the party each finds some treasure packed away in footlockers:
 - [[Shalooti]]: 11gp, 60sp in a pouch of human skin
-- [[Pelanil]]: an ivory hairbrush with silver bristles 
+- [[Elora]]: 3 moss agates (10gp each)
+- [[Bardolf]]: leather eyepatch with a carnelian (50gp)
+- [[Pelanil]]: an ivory hairbrush with silver bristles (25gp)
 
 ## The Spiked Pit and the Split Party
 
