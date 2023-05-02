@@ -10,7 +10,7 @@ We learn that:
 After a minute, the illusion spell ends, the baby disappears, and so does Margaret.
 
 ## The Stairs Behind the Mirror
-After Margaret vanishes, the party is left to revive [[Anakir]]. [[Pelanil]] uses some strong magic to bring [[Anakir]] nearly back to his full potential. Then, as [[Anakir]] is 
+After Margaret vanishes, the party is left to revive [[Anakir]]. [[Pelanil]] uses some strong magic to bring [[Anakir]] nearly back to his full potential. Then, after his near death experience, as [[Anakir]] is reflecting on his life, he notices a crack in the mirror in Margaret's room. Now terrified of dealth
 
 ## Finding [[Lancelot]]
 
