@@ -6,6 +6,7 @@
       {
         "id": "d8e35c67ea2c84e6",
         "type": "tabs",
+        "dimension": 26.856435643564357,
         "children": [
           {
             "id": "7fc8a6c354e05ff1",
@@ -37,6 +38,7 @@
       {
         "id": "8a2da7a1b4aca666",
         "type": "tabs",
+        "dimension": 73.14356435643565,
         "children": [
           {
             "id": "b7074fe9cba40ced",
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           }
@@ -187,8 +189,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "b7074fe9cba40ced",
   "lastOpenFiles": [
+    "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -214,7 +217,6 @@
     "Characters/Parriwimple.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Rictavio.md",
     "Website/scripts/fix-links.py",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
