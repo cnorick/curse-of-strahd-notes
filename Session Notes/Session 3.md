@@ -9,3 +9,8 @@ We learn that:
 
 After a minute, the illusion spell ends, the baby disappears and so does Margaret.
 
+## The Stairs Behind the Mirror
+
+## Finding [[Lancelot]]
+
+## 
