@@ -74,4 +74,6 @@ Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls
 The two make quick work of the monster, [[Pelanil]] getting knocked unconscious just before [[Anakir]] destroys her.
 
 ## The Shrine
-The party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. 
+The party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. [[Bardolf]] finds a secret set of stairs that leads upwards (presumably to the first level of the house).
+
+[[Anakir]] takes the orb from the statue, and replaces it with an equal 
