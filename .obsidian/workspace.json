@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Adventuring Gear.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -189,60 +189,8 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "6f3659079fc1e6e5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a41d18380e0cd2ce",
-        "type": "window",
-        "children": [
-          {
-            "id": "bf5fe0f5f817d6d5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "74210dc7035f992e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Misc/Adventuring Gear.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 844,
-        "y": 173,
-        "width": 700,
-        "height": 270,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "74210dc7035f992e",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
-    "Misc/If Players Die.md",
-    "Misc/Guest as Granny.md",
-    "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Locations/Death House.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Village of Barovia (E).md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "TODO.md",
-    "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -254,6 +202,21 @@
     "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Parriwimple.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Rictavio.md",
     "Website/scripts/fix-links.py",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
