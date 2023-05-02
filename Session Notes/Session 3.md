@@ -1,5 +1,5 @@
 ## Margaret the Nursemaid
-The specter takes the illusion of the baby and seems appeased. She talks to the illusion as if it were, her baby son [[Walter]].
+The specter takes the illusion of the baby and seems appeased. She talks to the illusion as if it were, her baby son, [[Walter]].
 
 We learn that:
 - [[Gustav Durst]] wasn't there for the birth of [[Walter]] because his wife [[Elizabeth Durst]] kept him away
@@ -7,9 +7,10 @@ We learn that:
 - [[Elizabeth Durst]] and [[Gustav Durst]] would lock [[Rosevalda|Rose]] and [[Thornboldt|Thorn]] in their attic bedroom while they performed the rituals in the basement
 - [[Elizabeth Durst]] took [[Walter]] from Margaret
 
-After a minute, the illusion spell ends, the baby disappears and so does Margaret.
+After a minute, the illusion spell ends, the baby disappears, and so does Margaret.
 
 ## The Stairs Behind the Mirror
+After Margaret disappears[[Anakir]] is still 
 
 ## Finding [[Lancelot]]
 
@@ -22,3 +23,5 @@ After a minute, the illusion spell ends, the baby disappears and so does Margare
 ## The Spiked Pit and the Split Party
 
 ## The Durst's Bedroom
+
+## The Shrine
