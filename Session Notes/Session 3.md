@@ -15,7 +15,7 @@ After Margaret vanishes, the party is left to revive [[Anakir]]. [[Pelanil]] use
 [[Bardolf]] is able to make quick work of the secret door, which opens into a secret staircase leading to the attic.
 
 ## Finding [[Lancelot]]
-Once at the top of the secret staircase, [[Shalooti]] notic
+Once at the top of the secret staircase, [[Shalooti]] notices pawprints in the dust on the floor. Confident this wasn't yet another wolf, she follows them into a guest bedroom.
 
 ## [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
 
