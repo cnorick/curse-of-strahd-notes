@@ -1,4 +1,4 @@
-## Margaret the Nursemaid
+### Margaret the Nursemaid
 The specter takes the illusion of the baby and seems appeased. She talks to the illusion as if it were, her baby son, [[Walter]].
 
 We learn that:
@@ -9,15 +9,15 @@ We learn that:
 
 After a minute, the illusion spell ends, the baby disappears, and so does Margaret.
 
-## The Stairs Behind the Mirror
+### The Stairs Behind the Mirror
 After Margaret vanishes, the party is left to revive [[Anakir]]. [[Pelanil]] uses some strong magic to bring [[Anakir]] nearly back to his full potential. Then, after his near death experience, as [[Anakir]] is reflecting on his life, he notices a crack in the mirror in Margaret's room. Now, terrified of the possibility of death, he quickly backs away.
 
 [[Bardolf]] is able to make quick work of the secret door, which opens into a secret staircase leading to the attic.
 
-## Finding [[Lancelot]]
+### Finding [[Lancelot]]
 Once at the top of the secret staircase, [[Shalooti]] notices pawprints in the dust on the floor. Confident this wasn't yet another wolf, she follows them into a guest bedroom. Under the bed is a terrified [[Lancelot]]. [[Shalooti]] uses her ability to communicate with animals to convince [[Lancelot]] that she and the party can be trusted. From that point forward, [[Lancelot]] cannot be separated from her.
 
-## [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
+### [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
 Presented with a padlocked door, [[Pelanil]] remembers that [[Elora]] earlier found an iron key. Once she unlocks the door, the party uncovers a heartbreaking reality: [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s skeletons are lying in the middle of the bedroom floor, apparently starved to death after being unable to escape their locked room.
 
 [[Pelanil]], feeling sorrowful for the children, packs up their bones, intent to give them a proper burial. After filling his pack, the ghosts of the two children appear. This time, they are see-through and spectral, obviously ghosts.
@@ -30,12 +30,12 @@ The party agrees to help. When they ask where the basement is, [[Rosevalda|Rose]
 
 Rested up, the party makes their way to the storage room, the kids choosing to stay behind. [[Elora]] finds a chest with the bones of who [[Shalooti]] realizes is Margaret, the nanny. She seems to have been stabbed to death. [[Pelanil]] also scoops up these bones to take with him.
 
-## Into the Dungeon
+### Into the Dungeon
 The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a dark, earthen corridor and an incessant chanting, that they can't seem to pinpoint.
 
 The party discovers some empty tombs, one with [[Walter]]'s name on the door, and the other container little coffins with their names one them.
 
-## Cultist Quarters
+### Cultist Quarters
 The party makes their way into what seems to be a living space with a wooden table and multiple straw beds. In one of the bed alcoves, they hear something snarling. [[Pelanil]] rushes in to find out what's making the noise, and it turns out to be a ghoul which the party quickly dispatches.
 
 Continuing to search the cultist quarters, the party each finds some treasure packed away in footlockers:

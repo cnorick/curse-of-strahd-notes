@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           }
@@ -187,15 +187,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "b7074fe9cba40ced",
   "lastOpenFiles": [
+    "Campaign Notes.md",
     "Website/site/assets/templates/webpage.js",
     "Website/site/assets/templates/snippets.css",
     "Website/site/assets/templates/theme.css",
     "Website/site/assets/templates/plugin-styles.css",
     "Website/site/assets/templates/obsidian-styles.css",
     "Assets/Templates/Character.md",
-    "Campaign Notes.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
@@ -224,7 +224,6 @@
     "Characters/Madam Eva.md",
     "Characters/Parriwimple.md",
     "Characters/Morgantha.md",
-    "Website/site/characters/webpage.js",
     "Website/site/items/handouts/images/death-house-front.jpg",
     "Website/site/items/handouts/images/death-house-kids.png",
     "Website/site/items/handouts/images/barovia.jpg",
