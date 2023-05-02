@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "211edd97b89cc339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -187,9 +199,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7074fe9cba40ced",
+  "active": "211edd97b89cc339",
   "lastOpenFiles": [
     "Campaign Notes.md",
+    "TODO.md",
+    "Session Notes/Session 3.md",
     "Website/site/assets/templates/webpage.js",
     "Website/site/assets/templates/snippets.css",
     "Website/site/assets/templates/theme.css",
@@ -223,7 +237,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Parriwimple.md",
-    "Characters/Morgantha.md",
     "Website/site/items/handouts/images/death-house-front.jpg",
     "Website/site/items/handouts/images/death-house-kids.png",
     "Website/site/items/handouts/images/barovia.jpg",

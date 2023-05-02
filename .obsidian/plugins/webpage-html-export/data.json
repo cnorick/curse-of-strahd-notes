@@ -1,7 +1,7 @@
 {
   "inlineCSS": false,
   "inlineJS": false,
-  "inlineImages": false,
+  "inlineImages": true,
   "makeNamesWebStyle": true,
   "includePluginCSS": "media-extended\nobsidian-enhancing-export\ntemplater-obsidian\nobsidian-5e-statblocks\nobsidian-shellcommands\ndataview\nobsidian-git",
   "addDarkModeToggle": true,
