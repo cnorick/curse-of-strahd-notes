@@ -57,7 +57,7 @@
         "stdin": null
       },
       "output_channels": {
-        "stdout": "ignore",
+        "stdout": "notification",
         "stderr": "notification"
       },
       "output_wrappers": {
