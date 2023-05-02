@@ -1,11 +1,11 @@
 {
   "inlineCSS": false,
   "inlineJS": false,
-  "inlineImages": true,
+  "inlineImages": false,
   "includePluginCSS": "obsidian-5e-statblocks\nmedia-extended\ndataview",
-  "makeNamesWebStyle": false,
-  "allowFoldingHeadings": false,
-  "addFilenameTitle": false,
+  "makeNamesWebStyle": true,
+  "allowFoldingHeadings": true,
+  "addFilenameTitle": true,
   "beautifyHTML": true,
   "graphAttractionForce": 50,
   "graphLinkLength": 10,
@@ -18,7 +18,7 @@
   "includeOutline": true,
   "includeGraphView": false,
   "customLineWidth": "",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "keepNestedFolderStructure": false,
   "lastExportPath": "C:/Users/Nathan/Desktop/Strahd/obsidian/Website/site"
 }
