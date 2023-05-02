@@ -44,7 +44,9 @@ Continuing to search the cultist quarters, the party each finds some treasure pa
 - [[Bardolf]]: leather eyepatch with a carnelian (50gp)
 - [[Pelanil]]: an ivory hairbrush with silver bristles (25gp)
 - [[Anakir]]: a silvered shortsword (110gp)
-	- Drawing on his experience with martial weapons, [[Bardolf]] remembers the silvered weapons have the special property of cuase
+	- Drawing on his experience with martial weapons, [[Bardolf]] remembers the silvered weapons have the special property of causing damage to enemies with immunity to regular weapons (e.g. werewolves)
+
+The party hears more snarling coming from a well. Completely [[Bardolf]] de
 
 ## The Spiked Pit and the Split Party
 
