@@ -20,7 +20,9 @@ Once at the top of the secret staircase, [[Shalooti]] notices pawprints in the d
 ## [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
 Presented with a padlocked door, [[Pelanil]] remembers that [[Elora]] earlier found an iron key. Once she unlocks the door, the party uncovers a heartbreaking reality: [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s skeletons are lying in the middle of the bedroom floor, apparently starved to death after being unable to escape their locked room.
 
-[[Pelanil]], feeling sorrowful for the children, packs up their bones, intent to give them a proper burial. After filling his pack, the ghosts of the t
+[[Pelanil]], feeling sorrowful for the children, packs up their bones, intent to give them a proper burial. After filling his pack, the ghosts of the two children appear. This time, they are see-through and spectral, obviously ghosts.
+
+Seeing the [[Pelanil]] is at a loss for words given his grief, [[Rosevalda|Rose]] speaks up to assure him
 
 ## Into the Dungeon
 
