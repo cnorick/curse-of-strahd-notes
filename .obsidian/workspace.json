@@ -95,6 +95,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e727233db92255ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -175,8 +183,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "b7074fe9cba40ced",
