@@ -74,6 +74,6 @@ Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls
 The two make quick work of the monster, [[Pelanil]] getting knocked unconscious just before [[Anakir]] destroys her.
 
 ### The Shrine
-After healing [[Pelanil]] with one of the [[Potion of Healing]] he party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. [[Bardolf]] finds a secret set of stairs that leads upwards (presumably to the first level of the house).
+After healing [[Pelanil]] with one of the [[Potion of Healing|Potions of Healing]], the party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. [[Bardolf]] finds a secret set of stairs that leads upwards (presumably to the first level of the house).
 
 [[Anakir]] takes the [[Orb of the Warmage]] from the statue, and replaces it with an equal weight, Indiana Jones style. Just as he removes the orb, multiple spirits appear and begin chanting, "Return the Orb. Begone from this place!"...
