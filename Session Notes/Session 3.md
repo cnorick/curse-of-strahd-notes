@@ -16,3 +16,7 @@ After a minute, the illusion spell ends, the baby disappears and so does Margare
 ## [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
 
 ## Into the Dungeon
+
+## Cultist Quarters
+
+##
