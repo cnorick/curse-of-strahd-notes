@@ -13,12 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Death House.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8a2da7a1b4aca666",
+        "type": "tabs",
+        "children": [
           {
             "id": "b7074fe9cba40ced",
             "type": "leaf",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,9 +168,10 @@
   },
   "active": "b7074fe9cba40ced",
   "lastOpenFiles": [
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
+    "Locations/Death House.md",
     "Index.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
     "Campaign Notes.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -188,7 +194,6 @@
     "Characters/Shalooti.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Morgantha.md",
-    "Characters/Rosevalda.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
