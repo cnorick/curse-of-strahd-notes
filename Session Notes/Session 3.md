@@ -22,7 +22,9 @@ Presented with a padlocked door, [[Pelanil]] remembers that [[Elora]] earlier fo
 
 [[Pelanil]], feeling sorrowful for the children, packs up their bones, intent to give them a proper burial. After filling his pack, the ghosts of the two children appear. This time, they are see-through and spectral, obviously ghosts.
 
-Seeing that [[Pelanil]] is at a loss for words given his grief, [[Rosevalda|Rose]] speaks up to assure him that they know they're ghosts and they're actually ok with it. The party talks to the children's ghosts who explain that
+Seeing that [[Pelanil]] is at a loss for words given his grief, [[Rosevalda|Rose]] speaks up to assure him that they know they're ghosts and they're actually ok with it. The party talks to the children's ghosts who explain that their parents usually locked them away when they went to the basement to deal with the monster, but that the last time, no one came back for them, no matter how much they cried.
+
+
 
 ## Into the Dungeon
 
