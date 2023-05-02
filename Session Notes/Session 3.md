@@ -69,6 +69,6 @@ Inside the room, [[Elora]] opened a footlocker where the group found the followi
 - bullseye lantern
 - thieves tools
 
-Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls. The party recognized this to be an undead [[Elizabeth Durst]], the woman from the portraits in the entryway. [[Elizabeth Durst]] curses the party, her husband, her own children, and most especially Margaret and her bastard child [[Walter]].
+Just as [[Elora]] was pocketing the treasure, another ghoul burst from the walls. The party recognized this to be an undead [[Elizabeth Durst]], the woman from the portraits in the entryway. [[Elizabeth Durst]] curses the party, her husband, her own children, and especially Margaret and her bastard child, [[Walter]]. [[Elizabeth Durst]] invites the party to venture lower into the dungeon before [[Pelanil]], completely disgusted and agains
 
 ## The Shrine
