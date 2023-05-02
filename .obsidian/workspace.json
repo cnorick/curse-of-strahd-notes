@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "399b8c6ca020b189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -136,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Gustav Durst's Suicide Note.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -199,47 +187,47 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "399b8c6ca020b189",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Website/site/assets/templates/webpage.js",
+    "Website/site/assets/templates/snippets.css",
+    "Website/site/assets/templates/theme.css",
+    "Website/site/assets/templates/plugin-styles.css",
+    "Website/site/assets/templates/obsidian-styles.css",
+    "Assets/Templates/Character.md",
     "Campaign Notes.md",
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
-    "Items/Handouts/Kolyan Indirovich's v2 Letter.md",
-    "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
-    "Website/site/items/handouts/images/death-house-kids.png",
-    "Items/Handouts/Rose and Thorne.md",
-    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Items/Handouts/Strahd's Invitation.md",
-    "Items/Handouts/Tome of Strahd.md",
-    "Website/site/items/handouts/images/barovia.jpg",
-    "Website/site/items/handouts/images",
-    "Website/site/items/handouts/webpage.js",
-    "Website/site/items/handouts/snippets.css",
-    "Website/site/items/handouts/theme.css",
-    "Website/site/items/handouts/plugin-styles.css",
-    "Website/site/items/handouts/obsidian-styles.css",
-    "Items/Handouts/Village of Barovia.md",
-    "Items/Cultist Logbook.md",
-    "Items/The Tome of Strahd.md",
-    "Website/site/items/webpage.js",
-    "Website/site/items/snippets.css",
-    "Website/site/items/theme.css",
-    "Website/site/items/plugin-styles.css",
-    "Items/Sunsword.md",
-    "Misc/Barovian Lore.md",
-    "Misc/Card Reading.md",
-    "Misc/Adventuring Gear.md",
-    "Misc/If Players Die.md",
-    "Misc/Guest as Granny.md",
-    "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Locations/Death House.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Village of Barovia (E).md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 3.md",
+    "Website/site/campaign/webpage.js",
+    "Website/site/campaign/snippets.css",
+    "Website/site/campaign/theme.css",
+    "Website/site/campaign/plugin-styles.css",
+    "Website/site/campaign/obsidian-styles.css",
+    "Campaign/Session 4.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Parriwimple.md",
+    "Characters/Morgantha.md",
+    "Website/site/characters/webpage.js",
     "Website/site/items/handouts/images/death-house-front.jpg",
+    "Website/site/items/handouts/images/death-house-kids.png",
+    "Website/site/items/handouts/images/barovia.jpg",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
