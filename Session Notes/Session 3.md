@@ -39,7 +39,8 @@ The party discovers some empty tombs, one with [[Walter]]'s name on the door, an
 The party makes their way into what seems to be a living space with a wooden table and multiple straw beds. In one of the bed alcoves, they hear something snarling. [[Pelanil]] rushes in to find out what's making the noise, and it turns out to be a ghoul which the party quickly dispatches.
 
 Continuing to search the cultist quarters, the party each finds some treasure packed away in footlockers:
-- [[Shalooti]]: 
+- [[Shalooti]]: 11gp, 60sp in a pouch of human skin
+- [[Pelanil]]: an ivory hairbrush with silver bristles 
 
 ## The Spiked Pit and the Split Party
 
