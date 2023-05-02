@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Doru.md"
+                "file": "Index.md"
               }
             }
           }
@@ -148,45 +148,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "360a9e1d4947ebcd",
-    "type": "floating",
-    "children": [
-      {
-        "id": "86d3eadef1475894",
-        "type": "window",
-        "children": [
-          {
-            "id": "e44ce225748c8d42",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2e184fec286c45be",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Doru.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 930,
-        "y": 50,
-        "width": 700,
-        "height": 270,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2e184fec286c45be",
+  "active": "7fc8a6c354e05ff1",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Website/site/assets/images/death-house-kids.png",
+    "Website/site/assets/images/death-house-front.jpg",
+    "Website/site/assets/images/barovia.jpg",
+    "Website/site/assets/images",
+    "Website/site/scripts/webpage.js",
+    "Website/site/scripts",
+    "Website/site/styles/snippets.css",
+    "Website/site/styles/theme.css",
+    "Website/site/styles/plugin-styles.css",
+    "Website/site/styles/obsidian-styles.css",
+    "Website/site/styles",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Anakir.md",
+    "Characters/Donavich.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Elora.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Doru.md",
     "Characters/Parriwimple.md",
     "Characters/Pelanil.md",
     "Characters/Rictavio.md",
@@ -198,31 +187,8 @@
     "Characters/Strahd Von Zarovich.md",
     "Characters/Tatyana.md",
     "Characters/Walter.md",
-    "Characters/Thornboldt.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 4.md",
-    "Index.md",
-    "Items/Cultist Logbook.md",
-    "Items/Handouts/Argynvost's Journal.md",
-    "Items/Handouts/Death House Front.md",
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
-    "Items/Handouts/Kolyan Indirovich's v1 Letter.md",
-    "Items/Handouts/Rose and Thorne.md",
-    "Items/Handouts/Gustav Durst's Suicide Note.md",
-    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Website/no-spoilers/Campaign Notes.pdf",
     "Website/site/misc/plugin-styles.css",
-    "Website/site/misc/obsidian-styles.css",
-    "Website/site/misc/guest-as-granny.html",
-    "Website/site/misc/theme.css",
-    "Website/site/misc/adventuring-gear.html",
-    "Website/site/misc/webpage.js",
-    "Website/site/misc/card-reading.html",
-    "Website/site/misc/vistani.html",
-    "Website/site/misc/if-players-die.html",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
     "Assets/Images/death-house-kids.png",
