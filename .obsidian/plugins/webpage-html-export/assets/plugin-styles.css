@@ -1,0 +1,638 @@
+/* Make code block copy button fade in and out */
+.markdown-rendered pre:not(:hover) > button.copy-code-button
+{
+	display: unset;
+	opacity: 0;
+}
+
+.markdown-rendered pre:hover > button.copy-code-button
+{
+	opacity: 1;
+}
+
+.markdown-rendered pre button.copy-code-button
+{
+	transition: opacity 0.2s ease-in-out, width 0.3s ease-in-out, background-color 0.2s ease-in-out;
+	text-overflow: clip;
+}
+
+.markdown-rendered pre > button.copy-code-button:hover
+{
+	background-color: var(--interactive-normal);
+}
+
+.markdown-rendered pre > button.copy-code-button:active
+{
+	background-color: var(--interactive-hover);
+	box-shadow: var(--input-shadow);
+	transition: none;
+}
+
+/* fix large inline math blocks overlapping */
+mjx-container > mjx-math.MJX-TEX
+{
+	display: inline-block;
+}
+
+/* remove canvas controls */
+.canvas-card-menu {
+	display: none;
+	cursor: default !important;
+
+}
+
+.canvas-controls {
+	display: none;
+	cursor: default !important;
+
+}
+
+.canvas-node-connection-point 
+{
+	display: none;
+	cursor: default !important;
+
+}
+
+.canvas-menu-container {
+	display: none;
+}
+
+.canvas-node-content-blocker
+{
+	display: none;
+	cursor: pointer !important;
+}
+
+.canvas-wrapper
+{
+	position: relative;
+	cursor: default !important;
+}
+
+.canvas-node-resizer
+{
+	cursor: default !important;
+}
+
+.canvas-node-container
+{
+	cursor: default !important;
+}
+
+/* fix coloring for horizontal divider */
+hr
+{
+	border-top: var(--hr-thickness) solid var(--divider-color);
+}
+
+.center-content
+{
+    flex-basis: var(--line-width);
+}
+
+/* sidebars */
+#sidebar {
+    background-color: var(--background-secondary);
+    flex: 1 0 min-content;
+    display: flex;
+    align-items: flex-start;
+}
+
+.sidebar-content {
+    max-width: 380px;
+    line-height: var(--line-height-tight);
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    padding: 10px;
+    padding-bottom: 0;
+    height: 100%;
+}
+
+.sidebar-left
+{
+    border-right: 1px dashed var(--divider-color);
+	z-index: 1000;
+	align-items: flex-end;
+    flex-direction: row-reverse;
+}
+
+.sidebar-right
+{
+    border-left: 1px dashed var(--divider-color);
+	z-index: 1000;
+	align-items: flex-start;
+    flex-direction: row;
+}
+
+.flex-container {
+    background-color: var(--background-primary);
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    align-items: stretch;
+}
+
+.markdown-reading-view
+{
+    align-self: center;
+    -ms-flex-align: center;
+    width: 100%;
+}
+
+/* Small fix for exporting kanban files */
+.markdown-preview-view.kanban-plugin__markdown-preview-view {
+    font-family: var(--font-text, var(--default-font));
+    font-size: .875rem;
+    line-height: var(--line-height-tight);
+    padding: unset;
+    width: unset;
+    height: unset;
+    position: unset;
+    overflow-y: unset;
+    overflow-wrap: unset;
+    color: unset;
+    user-select: unset;
+    -webkit-user-select: unset;
+}
+
+.kanban-plugin__item-button-wrapper, .kanban-plugin__lane-grip, .kanban-plugin__lane-settings-button.clickable-icon, .kanban-plugin__item-postfix-button.clickable-icon
+{
+    display: none;
+}
+
+@media print 
+{
+    #sidebar, .sideabr-right, .sidebar-left, .outline-container, .theme-toggle, .theme-toggle-inline, .toggle__fill, .toggle__input
+    {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 350px) and (min-width: 0px)
+{
+	*
+	{
+		font-size: 0.75rem;
+	}
+}
+
+
+@media screen and (max-width: 400px) and (min-width: 350px)
+{
+	*
+	{
+		font-size: 0.8rem;
+	}
+}
+
+@media screen and (max-width: 500px) and (min-width: 400px)
+{
+	*
+	{
+		font-size: 0.85rem;
+	}
+}
+
+@media screen and (max-width: 600px) and (min-width: 500px)
+{
+	*
+	{
+		font-size: 0.9rem;
+	}
+}
+
+@media screen and (max-width: 800px)
+{
+    #sidebar, .sideabr-right, .sidebar-left, .outline-container
+    {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width: 950px)
+{
+    .sidebar-left
+    {
+        display: none !important;
+    }
+}
+
+
+
+.outline-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0.3em;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.outline-item:last-child 
+{
+    margin-bottom: 0;
+}
+
+.outline-container
+{
+    min-width: 20em;
+    padding-bottom: 5em;
+}
+
+.outline-item-contents {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    padding: 0.3em;
+    border-radius: 0.4em;
+    color: var(--nav-item-color);
+	text-decoration: none;
+    width: 100%;
+}
+
+.outline-item-contents:hover 
+{
+    background-color: var(--nav-item-background-hover);
+    color: var(--nav-item-color-hover);
+	text-decoration: none;
+    cursor: pointer;
+}
+
+.outline-item-contents:active
+{
+    background-color: var(--nav-item-background-active);
+    color: var(--nav-item-color-active);
+	text-decoration: none;
+    cursor: pointer;
+}
+
+span.outline-item-title {
+    margin-left: 0.5em;
+    text-decoration: none;
+    color: inherit;
+}
+
+span.outline-item-title:hover 
+{
+    color: inherit;
+    text-decoration: none;
+}
+
+.outline-item-children {
+    border-left: 1px solid var(--nav-indentation-guide-color);
+    margin-left: 10px;
+    width: 100%;
+}
+
+.outline-header 
+{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.outline-item.is-collapsed .collapse-icon svg.svg-icon
+{
+    color: var(--color-accent);
+}
+
+.markdown-preview-view
+{
+    max-width: var(--line-width);
+    padding-bottom: 30em;
+}
+
+/* Let links wrap anywhere so that the width isn't set by long links */
+a {
+    overflow-wrap: anywhere;
+}
+
+/* mobile support for obsidian columns plugin */
+.columnParent {
+    display: flex;
+    padding: 15px 20px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.columnParent {
+    white-space: normal;
+}
+
+.cm-preview-code-block .admonition-content .columnParent p {
+    white-space: pre-wrap;
+}
+
+.columnChild {
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+/* sortable plugin fix */
+.markdown-preview-view th,
+.table-view-table > thead > tr > th,
+.markdown-source-view.mod-cm6 .dataview.table-view-table thead.table-view-thead tr th {
+    /* background-image: none;
+    background-repeat: no-repeat;
+    background-position: right, left;
+    padding-right: 21px;
+    padding-left: 21px; */
+    cursor: pointer;
+}
+
+th[sortable-style="sortable-asc"], th[sortable-style="sortable-desc"]
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: left;
+}
+
+th[sortable-style="sortable-asc"]::after 
+{
+    height: 100%;
+    position: relative;
+    content: "▲";
+    display: flex;
+}
+
+th[sortable-style="sortable-desc"]::after {
+    height: 100%;
+    position: relative;
+    content: "▼";
+    display: flex;
+}
+
+/* Toggle Styles */
+.theme-toggle {
+    --toggle-width: 50px;
+    --toggle-height: 23px;
+    --border-radius: calc(var(--toggle-height) / 2);
+    --handle-width: calc(var(--toggle-height) * 0.65);
+    --handle-radius: calc(var(--handle-width) / 2);
+    --handle-margin: calc((var(--toggle-height) / 2.0) - var(--handle-radius));
+    --handle-translation: calc(var(--toggle-width) - var(--handle-width) - (var(--handle-margin) * 2));
+
+    display: inline-block;
+    cursor: pointer;
+	margin: 10px;
+}
+
+.theme-toggle-inline {
+    --toggle-width: 50px;
+    --toggle-height: 23px;
+    --border-radius: calc(var(--toggle-height) / 2);
+    --handle-width: calc(var(--toggle-height) * 0.65);
+    --handle-radius: calc(var(--handle-width) / 2);
+    --handle-margin: calc((var(--toggle-height) / 2.0) - var(--handle-radius));
+    --handle-translation: calc(var(--toggle-width) - var(--handle-width) - (var(--handle-margin) * 2));
+
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* animation to expand width, move handle, then contract width */
+@keyframes toggle-slide-right
+{
+    0%
+    {
+        width: var(--handle-width);
+        transform: translateX(0);
+    }
+    50%
+    {
+        width: calc(var(--toggle-width) * 0.5);
+    }
+    90%
+    {
+        width: var(--handle-width);
+    }
+    100%
+    {
+        transform: translateX(var(--handle-translation));
+    }
+}
+
+@keyframes toggle-slide-left
+{
+    0%
+    {
+        width: var(--handle-width);
+        transform: translateX(calc(var(--handle-translation) - ((var(--toggle-width) * 0.33) - var(--handle-width))));
+    }
+    70%
+    {
+        width: calc(var(--toggle-width) * 0.5);
+    }
+    100%
+    {
+        width: var(--handle-width);
+        transform: translateX(0);
+    }
+}
+
+/* just exapnd and contract */
+@keyframes toggle-expand-right
+{
+    0%
+    {
+        width: var(--handle-width);
+    }
+    100%
+    {
+        width: calc(var(--toggle-width) * 0.33);
+    }
+}
+
+@keyframes toggle-expand-left
+{
+    0%
+    {
+        width: var(--handle-width);
+        transform: translateX(var(--handle-translation));
+    }
+    100%
+    {
+        width: calc(var(--toggle-width) * 0.33);
+        transform: translateX(calc(var(--handle-translation) - ((var(--toggle-width) * 0.33) - var(--handle-width))));
+    }
+}
+
+@keyframes toggle-contract
+{
+    0%
+    {
+        width: calc(var(--toggle-width) * 0.33);
+    }
+    100%
+    {
+        width: var(--handle-width);
+    }
+}
+
+.toggle__input {
+    display: none;
+    z-index: 1000;
+}
+
+/* Fill in dark mode / default */
+.toggle__fill {
+    position: relative;
+    width: var(--toggle-width);
+    height: var(--toggle-height);
+    border-radius: var(--border-radius);
+	background-color: var(--background-modifier-border);
+
+    transition: background-color 0.2s;
+    z-index: 1000;
+
+    /* box-shadow: inset 0px 0px 100px -70px var(--color-accent); */
+}
+
+/* Handle default */
+.toggle__fill::before 
+{
+    content: "";
+    position: absolute;
+    left: var(--handle-margin);
+    top: var(--handle-margin);
+    height: var(--handle-width);
+    width: var(--handle-width);
+    
+    border-radius: var(--handle-radius);
+    background-color: var(--text-normal);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.2);
+    animation: toggle-slide-left 0.2s ease-in-out normal both;
+
+    z-index: 1000;
+}
+
+/* handle light*/
+.toggle__input:checked ~ .toggle__fill::before 
+{
+    animation: toggle-slide-right 0.2s ease-in-out normal both;
+}
+
+.toggle__input:active ~ .toggle__fill::before 
+{
+    animation: toggle-expand-right 0.2s ease-in-out normal both;
+}
+
+.toggle__input:active:checked ~ .toggle__fill::before
+{
+    animation: toggle-expand-left 0.2s ease-in-out normal both;
+}
+
+/* sun moon icon icon default */
+.toggle__fill::after
+{
+    content: "";
+    position: absolute;
+    right: var(--handle-margin);
+    top: calc(var(--handle-margin));
+    height: var(--handle-width);
+    width: var(--handle-width);
+    transition: transform 0.3s;
+    background: url('https://api.iconify.design/lucide/moon.svg?color=white') no-repeat center center;
+    transform: scale(0.9);
+}
+
+/* sun moon icon icon light */
+.toggle__input:checked ~ .toggle__fill::after
+{
+    transform: translateX(calc(var(--handle-translation) * -1)) scale(0.9);
+    background: url('https://api.iconify.design/lucide/sun.svg') no-repeat center center;
+}
+
+
+
+
+/* Graph View */
+
+
+#graph-canvas
+{
+    width: 100%;
+    height: 100%;
+    border: 1px solid var(--modal-border-color);
+    border-radius: var(--modal-radius);
+    aspect-ratio: 1/1;
+}
+
+.graph-view-container.expanded
+{
+    position: fixed;
+    width: 60%;
+    height: 90%;
+    right: 20%;
+    top: 5%;
+    background-color: var(--background-secondary);
+    z-index: 1000;
+}
+
+.graph-view-container 
+{
+    position: relative;
+    width: -webkit-fill-available;
+    aspect-ratio: 1/1;
+    display: flex;
+}
+
+.graph-icon {
+    cursor: pointer;
+    color: var(--text-muted);
+}
+
+.graph-view-container .graph-icon > svg
+{
+    width: 24px;
+    height: 24px;
+
+    background-color: var(--color-base-00);
+    outline-width: 6px;
+    outline-color: var(--color-base-00);
+    outline-offset: -1px;
+    outline-style: solid;
+    border-radius: 100px;
+    margin: 10px;
+}
+
+.graph-view-placeholder {
+    padding: 0;
+    width: -webkit-fill-available;
+    aspect-ratio: 1/1;
+    position: relative;
+    flex: none;
+    margin: 12px;
+}
+
+.graph-view-placeholder:has(.expanded)
+{
+    border-radius: var(--modal-radius);
+    border: 1px solid var(--modal-border-color);
+}
+
+.scale-down {
+    transition: transform 0.2s ease-in-out;
+    transform: scale(0.9);
+}
+
+.scale-up {
+    transition: transform 0.2s ease-in-out;
+    transform: scale(1);
+}
+
+.graph-expand {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
