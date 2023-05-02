@@ -189,6 +189,7 @@
   },
   "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Website/scripts/fix-links.py",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
@@ -218,7 +219,6 @@
     "Characters/Parriwimple.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Rictavio.md",
     "Website/site/campaign/Session 0.html",
     "Website/site/campaign/Session 1.html",
     "Website/site/campaign/Session 2.html",
