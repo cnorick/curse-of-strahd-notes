@@ -15,7 +15,7 @@ After Margaret vanishes, the party is left to revive [[Anakir]]. [[Pelanil]] use
 [[Bardolf]] is able to make quick work of the secret door, which opens into a secret staircase leading to the attic.
 
 ### Finding [[Lancelot]]
-Once at the top of the secret staircase, [[Shalooti]] notices pawprints in the dust on the floor. Confident this wasn't yet another wolf, she follows them into a guest bedroom. Under the bed is a terrified [[Lancelot]]. [[Shalooti]] uses her ability to communicate with animals to convince [[Lancelot]] that she and the party can be trusted. From that point forward, [[Lancelot]] cannot be separated from her.
+Once at the top of the secret staircase, [[Shalooti]] notices pawprints in the dust on the floor. Confident this wasn't yet another wolf, she follows them into a guest bedroom. Under the bed is a terrified [[Characters/Lancelot]]. [[Shalooti]] uses her ability to communicate with animals to convince [[Characters/Lancelot]] that she and the party can be trusted. From that point forward, [[Characters/Lancelot]] cannot be separated from her.
 
 ### [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s Room
 Presented with a padlocked door, [[Pelanil]] remembers that [[Elora]] earlier found an iron key. Once she unlocks the door, the party uncovers a heartbreaking reality: [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s skeletons are lying in the middle of the bedroom floor, apparently starved to death after being unable to escape their locked room.

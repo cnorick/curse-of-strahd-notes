@@ -16,7 +16,7 @@
 - Maybe let [[Shalooti]] make a nature check after seeing dog prints in the dust
 - The dog is hiding under a bed or something somewhere in the house
 	- Maybe under the harpsichord
-- Its name is [[Lancelot]]
+- Its name is [[Characters/Lancelot]]
 	- It's on the collar and it answers to it
 - This gives the players something to sacrifice (if they choose to)
 
@@ -46,7 +46,7 @@
 
 ## Final Confrontation
 - If they refuse to kill anyone, the cult is angry and summon [[Walter]]
-	- If they do sacrifice someone (maybe [[Lancelot]]), the spirits chant victoriously and summon [[Walter]]
+	- If they do sacrifice someone (maybe [[Characters/Lancelot]]), the spirits chant victoriously and summon [[Walter]]
 	- They should feel like they fucked up either way
 - The Dark Power from the final sacrifice made [[Walter]] a monster after turning other cultists into ghouls
 - [[Walter]]'s corpse is inside of the summoned monster, crying and attached by ligaments
