@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "37370ab172014cfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Adventuring Gear.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Adventuring Gear.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -180,34 +168,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "37370ab172014cfa",
+  "active": "a7b9e4429db2676d",
   "lastOpenFiles": [
+    "Website/site/handouts/images/portraits/portrait-of-rose-and-thorne.html",
+    "Website/site/handouts/images/portraits/portrait-of-parriwimple.html",
+    "Website/site/handouts/images/portraits/portrait-of-mad-mary.html",
+    "Website/site/handouts/images/portraits/portrait-of-ismark.html",
+    "Website/site/handouts/images/portraits/portrait-of-ireena.html",
+    "Website/site/handouts/images/portraits/portrait-of-doru.html",
+    "Website/site/handouts/images/portraits/portrait-of-bildrath.html",
+    "Website/site/handouts/images/portraits",
+    "Website/site/handouts/items/potion-of-healing.html",
+    "Website/site/handouts/items/orb-of-the-warmage.html",
+    "Assets/Templates/Character.md",
     "Campaign Notes.md",
-    "Misc/Barovian Lore.md",
-    "Misc/If Players Die.md",
-    "Misc/Guest as Granny.md",
-    "Misc/Card Reading.md",
-    "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "TODO.md",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
-    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
-    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Letters/Tome of Strahd.md",
-    "Handouts/Letters/Strahd's Invitation.md",
-    "Handouts/Images/Death House Front.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
     "Assets/Images/Parriwimple.jpg",
     "Assets/Images/Ireena Kolyanna.jpg",
     "Handouts/Images/Portraits",
@@ -219,15 +216,6 @@
     "Assets/Images/death-house-kids.png",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
-    "Handouts/Stat Blocks",
-    "Website/site/handouts/items/sunsword.html",
-    "Website/site/handouts/items/cloak-of-protection.html",
-    "Website/site/handouts/items/the-tome-of-strahd.html",
-    "Website/site/handouts/items/cultist-logbook.html",
-    "Website/site/handouts/items",
-    "Website/site/characters/gustav-durst.html",
-    "Website/site/handouts/images/items/the-tome-of-strahd.html",
-    "Website/site/handouts/images/items/sunsword.html",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
