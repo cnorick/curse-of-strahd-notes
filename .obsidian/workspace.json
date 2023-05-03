@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
+                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
+                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
+                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Ireena.md"
+                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md"
               }
             }
           }
@@ -158,16 +158,18 @@
   },
   "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Bildrath.md",
+    "Assets/Images/Parriwimple.jpg",
+    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Handouts/Images/Portraits/Rose and Thorne.md",
-    "Handouts/Images/Portraits/Doru.md",
     "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Handouts/Images/Portraits/Bildrath.md",
+    "Handouts/Images/Portraits/Doru.md",
     "Assets/Images/Ireena Kolyanna.jpg",
     "Handouts/Images/Portraits",
     "Handouts/Images/Death House Front.md",
     "Assets/Images/Ismark.jpg",
     "Assets/Images/mad mary.png",
-    "Assets/Images/Parriwimple.jpg",
     "Assets/Images/Doru.png",
     "Assets/Images/Bildrath.jpg",
     "Assets/Images/Arik the Barkeep V2.webp",
@@ -198,10 +200,7 @@
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
     "Website/site/characters/gustav-durst.html",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Doru.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Misc/Templates/Untitled.canvas",
