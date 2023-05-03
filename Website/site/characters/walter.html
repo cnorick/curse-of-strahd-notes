@@ -1,284 +1,271 @@
 <!DOCTYPE html>
+
 <html>
-
 <head>
-
-  <title>Walter</title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <meta charset="UTF-8">
-
-  <link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
-
-  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
-  <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
-  <script src="https://pixijs.download/v7.2.4/pixi.js"></script>
-
-
-  <link rel="stylesheet" href="../styles/obsidian-styles.css">
-  <link rel="stylesheet" href="../styles/plugin-styles.css">
-  <link rel="stylesheet" href="../styles/theme.css">
-  <link rel="stylesheet" href="../styles/snippets.css">
-
-  <style> </style>
-  <style> </style>
-
-
-  <script id="relative-paths">
+<title>Walter</title>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
+<meta charset="utf-8"/>
+<link href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png" rel="icon" sizes="96x96"/>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script crossorigin="anonymous" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+<link href="../styles/obsidian-styles.css" rel="stylesheet"/>
+<link href="../styles/plugin-styles.css" rel="stylesheet"/>
+<link href="../styles/theme.css" rel="stylesheet"/>
+<link href="../styles/snippets.css" rel="stylesheet"/>
+<style> </style>
+<style> </style>
+<script id="relative-paths">
     let rootPath = "..";
     let mediaPath = "../media";
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
-
-  <script src="../scripts/webpage.js"></script>
-
+<script src="../scripts/webpage.js"></script>
 </head>
-
 <body class="theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
-  <div class="flex-container">
-    <div id="sidebar" class="sidebar-left">
-      <div class="sidebar-content">
-        <div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle">
-            <div class="toggle__fill"></div>
-          </label></div>
-      </div>
-    </div>
-    <div class="center-content">
-      <div class="markdown-preview-view markdown-rendered allow-fold-headings">
-        <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-        <div class="mod-header">
-          <div class="inline-title" contenteditable="true" spellcheck="false" tabindex="-1" enterkeyhint="done">Walter</div>
-        </div>
-        <div class="statblock-plugin-parent">
-          <div class="block-language-statblock statblock-plugin-container">
-            <div class="container svelte-1vt02hf">
-              <div class="flesh-mound basic-5e-layout svelte-1vt02hf obsidian-statblock-plugin statblock">
-                <div class="bar svelte-ilp5y8"></div>
-                <div class="statblock-content-container" style="--statblock-column-width:400px;">
-                  <div class="statblock-content">
-                    <div class="column">
-                      <div class="statblock-item-container inline-container statblock-item-inline">
-                        <div class="statblock-inline-item group-container">
-                          <div class="statblock-item-container group-container ">
-                            <div class="statblock-item-container heading-container ">
-                              <div class="flex-container svelte-1hofvsi">
-                                <h1 class="heading statblock-heading name svelte-1hofvsi" id="Flesh_Mound_">
-                                  <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                                      <path d="M3 8L12 17L21 8"></path>
-                                    </svg></div>
-                                  <div class="statblock-rendered-text-content inline svelte-1lnliuc">Flesh Mound</div>
-                                </h1>
-                              </div>
-                            </div>
-                            <div class="statblock-item-container subheading-container ">
-                              <div class="subheading svelte-1186gko">
-                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">Large plant unaligned</div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="statblock-inline-item image-container"></div>
-                      </div>
-                      <div class="statblock-item-container rule-container">
-                        <div class="tapered-rule svelte-sujd32"></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line ac svelte-151kcqm"><span class="property-name svelte-151kcqm">Armor Class</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">15</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line hp svelte-151kcqm"><span class="property-name svelte-151kcqm">Hit Points</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">136</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line speed svelte-151kcqm"><span class="property-name svelte-151kcqm">Speed</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">20 ft., swim 20 ft.</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container rule-container">
-                        <div class="tapered-rule svelte-sujd32"></div>
-                      </div>
-                      <div class="statblock-item-container table-container ">
-                        <div class="table svelte-18uixe9">
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Str</span> <span>18 <span>(+4)</span></span> </div>
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Dex</span> <span>8 <span>(-1)</span></span> </div>
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Con</span> <span>16 <span>(+3)</span></span> </div>
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Int</span> <span>5 <span>(-3)</span></span> </div>
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Wis</span> <span>10 <span>(+0)</span></span> </div>
-                          <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Cha</span> <span>5 <span>(-3)</span></span> </div>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container rule-container">
-                        <div class="tapered-rule svelte-sujd32"></div>
-                      </div>
-                      <div class="statblock-item-container saves-container ">
-                        <div class="info">
-                          <div class="line svelte-sgnocl"><span class="property-name svelte-sgnocl">Skills</span>
-                            <div class="property-text svelte-sgnocl"><span class="property-text svelte-12rzfyk">
-                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">Stealth +2</div>
-                              </span></div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line damage_resistances svelte-151kcqm"><span class="property-name svelte-151kcqm">Damage Resistances</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">cold, fire</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line damage_immunities svelte-151kcqm"><span class="property-name svelte-151kcqm">Damage Immunities</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">lightning</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line condition_immunities svelte-151kcqm"><span class="property-name svelte-151kcqm">Condition Immunities</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">blinded, deafened, exhaustion</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line senses svelte-151kcqm"><span class="property-name svelte-151kcqm">Senses</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">blindsight 60 ft. (blind beyond this radius), passive Perception 10</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container property-container ">
-                        <div class="line languages svelte-151kcqm"><span class="property-name svelte-151kcqm">Languages</span> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">-</div>
-                          </span></div>
-                      </div>
-                      <div class="statblock-item-container inline-container statblock-item-inline">
-                        <div class="statblock-inline-item property-container">
-                          <div class="statblock-item-container property-container ">
-                            <div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Challenge</span> <span class="property-text svelte-12rzfyk">
-                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">5 (1,800 XP)</div>
-                              </span></div>
-                          </div>
-                        </div>
-                        <div class="statblock-inline-item property-container">
-                          <div class="statblock-item-container property-container ">
-                            <div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Proficiency Bonus</span> <span class="property-text svelte-12rzfyk">
-                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">+3</div>
-                              </span></div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container rule-container">
-                        <div class="tapered-rule svelte-sujd32"></div>
-                      </div>
-                      <div class="statblock-item-container traits-container ">
-                        <div class="statblock-item-container statblock-trait-prop">
-                          <div class="property lightning-absorption traits svelte-1ufqbz1">
-                            <div class="property-name svelte-1ufqbz1">
-                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">Lightning Absorption</div>
-                            </div> <span class="property-text svelte-12rzfyk">
-                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.</div>
-                            </span>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container statblock-trait-prop">
-                        <div class="property innocent-heart traits svelte-1ufqbz1">
-                          <div class="property-name svelte-1ufqbz1">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Innocent Heart</div>
-                          </div> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Walter's infant corpse lies at the heart of the Flesh Mound, crying and afraid. If engulfed, have the player role a d4. On a 2, or 4, they see walter within the flesh and gore. Walter's heart has an AC of 10 and 5 HP. If the heart's HP is reduced to 0 or otherwise cleansed, the Flesh Mound dissolves forever and Walter's Spirit is at peace.</div>
-                          </span>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container traits-container ">
-                        <div class="statblock-section-heading">
-                          <h3 class="section-header actions svelte-1x5mdf" id="Actions">
-                            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                                <path d="M3 8L12 17L21 8"></path>
-                              </svg></div>
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div>
-                          </h3>
-                        </div>
-                        <div class="statblock-item-container statblock-trait-prop">
-                          <div class="property multiattack actions svelte-1ufqbz1">
-                            <div class="property-name svelte-1ufqbz1">
-                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">Multiattack</div>
-                            </div> <span class="property-text svelte-12rzfyk">
-                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.</div>
-                            </span>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container statblock-trait-prop">
-                        <div class="property engulf actions svelte-1ufqbz1">
-                          <div class="property-name svelte-1ufqbz1">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Engulf</div>
-                          </div> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.</div>
-                          </span>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container statblock-trait-prop">
-                        <div class="property slam actions svelte-1ufqbz1">
-                          <div class="property-name svelte-1ufqbz1">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Slam</div>
-                          </div> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.</div>
-                          </span>
-                        </div>
-                      </div>
-                      <div class="statblock-item-container statblock-trait-prop">
-                        <div class="property engulf actions svelte-1ufqbz1">
-                          <div class="property-name svelte-1ufqbz1">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Engulf</div>
-                          </div> <span class="property-text svelte-12rzfyk">
-                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +0 to hit, Hit: (1d4) Bludgeoning damage. The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is restrained and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take (1d4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.</div>
-                          </span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="bar svelte-ilp5y8"></div>
-              </div>
-              <div class="icons svelte-1vt02hf">
-                <div class="clickable-icon setting-editor-extra-setting-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical">
-                    <circle cx="12" cy="12" r="1"></circle>
-                    <circle cx="12" cy="5" r="1"></circle>
-                    <circle cx="12" cy="19" r="1"></circle>
-                  </svg></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="mod-footer">
-          <div class="embedded-backlinks" style="display: none;"></div>
-        </div>
-      </div>
-    </div>
-    <div id="sidebar" class="sidebar-right">
-      <div class="sidebar-content">
-        <div class="outline-container" data-size="0">
-          <div class="outline-header">
-            <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button>
-          </div>
-          <div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Flesh_Mound_">
-              <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                  <path d="M3 8L12 17L21 8"></path>
-                </svg></div><span class="outline-item-title">Flesh Mound </span>
-            </a>
-            <div class="outline-item-children">
-              <div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Actions">
-                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                      <path d="M3 8L12 17L21 8"></path>
-                    </svg></div><span class="outline-item-title">Actions</span>
-                </a>
-                <div class="outline-item-children"></div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="flex-container">
+<div class="sidebar-left" id="sidebar">
+<div class="sidebar-content">
+<div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" id="theme_toggle" type="checkbox"/>
+<div class="toggle__fill"></div>
+</label></div>
+</div>
+</div>
+<div class="center-content">
+<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
+<div class="mod-header">
+<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Walter</div>
+</div>
+<div class="statblock-plugin-parent">
+<div class="block-language-statblock statblock-plugin-container">
+<div class="container svelte-1vt02hf">
+<div class="flesh-mound basic-5e-layout svelte-1vt02hf obsidian-statblock-plugin statblock">
+<div class="bar svelte-ilp5y8"></div>
+<div class="statblock-content-container" style="--statblock-column-width:400px;">
+<div class="statblock-content">
+<div class="column">
+<div class="statblock-item-container inline-container statblock-item-inline">
+<div class="statblock-inline-item group-container">
+<div class="statblock-item-container group-container">
+<div class="statblock-item-container heading-container">
+<div class="flex-container svelte-1hofvsi">
+<h1 class="heading statblock-heading name svelte-1hofvsi" id="Flesh_Mound_">
+<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div>
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Flesh Mound</div>
+</h1>
+</div>
+</div>
+<div class="statblock-item-container subheading-container">
+<div class="subheading svelte-1186gko">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Large plant unaligned</div>
+</div>
+</div>
+</div>
+</div>
+<div class="statblock-inline-item image-container"></div>
+</div>
+<div class="statblock-item-container rule-container">
+<div class="tapered-rule svelte-sujd32"></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line ac svelte-151kcqm"><span class="property-name svelte-151kcqm">Armor Class</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">15</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line hp svelte-151kcqm"><span class="property-name svelte-151kcqm">Hit Points</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">136</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line speed svelte-151kcqm"><span class="property-name svelte-151kcqm">Speed</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">20 ft., swim 20 ft.</div>
+</span></div>
+</div>
+<div class="statblock-item-container rule-container">
+<div class="tapered-rule svelte-sujd32"></div>
+</div>
+<div class="statblock-item-container table-container">
+<div class="table svelte-18uixe9">
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Str</span> <span>18 <span>(+4)</span></span> </div>
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Dex</span> <span>8 <span>(-1)</span></span> </div>
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Con</span> <span>16 <span>(+3)</span></span> </div>
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Int</span> <span>5 <span>(-3)</span></span> </div>
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Wis</span> <span>10 <span>(+0)</span></span> </div>
+<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Cha</span> <span>5 <span>(-3)</span></span> </div>
+</div>
+</div>
+<div class="statblock-item-container rule-container">
+<div class="tapered-rule svelte-sujd32"></div>
+</div>
+<div class="statblock-item-container saves-container">
+<div class="info">
+<div class="line svelte-sgnocl"><span class="property-name svelte-sgnocl">Skills</span>
+<div class="property-text svelte-sgnocl"><span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Stealth +2</div>
+</span></div>
+</div>
+</div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line damage_resistances svelte-151kcqm"><span class="property-name svelte-151kcqm">Damage Resistances</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">cold, fire</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line damage_immunities svelte-151kcqm"><span class="property-name svelte-151kcqm">Damage Immunities</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">lightning</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line condition_immunities svelte-151kcqm"><span class="property-name svelte-151kcqm">Condition Immunities</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">blinded, deafened, exhaustion</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line senses svelte-151kcqm"><span class="property-name svelte-151kcqm">Senses</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">blindsight 60 ft. (blind beyond this radius), passive Perception 10</div>
+</span></div>
+</div>
+<div class="statblock-item-container property-container">
+<div class="line languages svelte-151kcqm"><span class="property-name svelte-151kcqm">Languages</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">-</div>
+</span></div>
+</div>
+<div class="statblock-item-container inline-container statblock-item-inline">
+<div class="statblock-inline-item property-container">
+<div class="statblock-item-container property-container">
+<div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Challenge</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">5 (1,800 XP)</div>
+</span></div>
+</div>
+</div>
+<div class="statblock-inline-item property-container">
+<div class="statblock-item-container property-container">
+<div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Proficiency Bonus</span> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">+3</div>
+</span></div>
+</div>
+</div>
+</div>
+<div class="statblock-item-container rule-container">
+<div class="tapered-rule svelte-sujd32"></div>
+</div>
+<div class="statblock-item-container traits-container">
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property lightning-absorption traits svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Lightning Absorption</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.</div>
+</span>
+</div>
+</div>
+</div>
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property innocent-heart traits svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Innocent Heart</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Walter's infant corpse lies at the heart of the Flesh Mound, crying and afraid. If engulfed, have the player role a d4. On a 2, or 4, they see walter within the flesh and gore. Walter's heart has an AC of 10 and 5 HP. If the heart's HP is reduced to 0 or otherwise cleansed, the Flesh Mound dissolves forever and Walter's Spirit is at peace.</div>
+</span>
+</div>
+</div>
+<div class="statblock-item-container traits-container">
+<div class="statblock-section-heading">
+<h3 class="section-header actions svelte-1x5mdf" id="Actions">
+<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div>
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div>
+</h3>
+</div>
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property multiattack actions svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Multiattack</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.</div>
+</span>
+</div>
+</div>
+</div>
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property engulf actions svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Engulf</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.</div>
+</span>
+</div>
+</div>
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property slam actions svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Slam</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.</div>
+</span>
+</div>
+</div>
+<div class="statblock-item-container statblock-trait-prop">
+<div class="property engulf actions svelte-1ufqbz1">
+<div class="property-name svelte-1ufqbz1">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Engulf</div>
+</div> <span class="property-text svelte-12rzfyk">
+<div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +0 to hit, Hit: (1d4) Bludgeoning damage. The flesh mound engulfs a Medium or smaller creature grappled by it. The engulfed target is restrained and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take (1d4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.</div>
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bar svelte-ilp5y8"></div>
+</div>
+<div class="icons svelte-1vt02hf">
+<div class="clickable-icon setting-editor-extra-setting-button"><svg class="svg-icon lucide-more-vertical" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12" cy="12" r="1"></circle>
+<circle cx="12" cy="5" r="1"></circle>
+<circle cx="12" cy="19" r="1"></circle>
+</svg></div>
+</div>
+</div>
+</div>
+</div>
+<div class="mod-footer">
+<div class="embedded-backlinks" style="display: none;"></div>
+</div>
+</div>
+</div>
+<div class="sidebar-right" id="sidebar">
+<div class="sidebar-content">
+<div class="outline-container" data-size="0">
+<div class="outline-header">
+<h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>
+</div>
+<div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Flesh_Mound_">
+<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div><span class="outline-item-title">Flesh Mound </span>
+</a>
+<div class="outline-item-children">
+<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Actions">
+<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div><span class="outline-item-title">Actions</span>
+</a>
+<div class="outline-item-children"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </body>
-
 </html>
