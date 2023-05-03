@@ -65,7 +65,7 @@
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
 		- No one else in town has been brave enough to help
 - They warn the PCs about the church before going
-	- [[Donavich]] is in a bad way recently because of his son [[Characters/Doru]]
+	- [[Donavich]] is in a bad way recently because of his son [[Doru]]
 	- Have them tell the whole story
 
 - The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights her on it)
@@ -123,12 +123,12 @@ When approaching:
 - [[Donavich]] lost the key to the padlock on the trap door
 - If the chain is removed and the trapdoor opened, the screaming stops
 - The trapdoor is swollen and stuck in its frame => DC12Str to open
-- [[Characters/Doru]] is in the undercroft
+- [[Doru]] is in the undercroft
 - Do everything you can to scare off the players; this is a hard battle
-	- If they fight [[Characters/Doru]], [[Donavich]] comes down to fight the PCs
+	- If they fight [[Doru]], [[Donavich]] comes down to fight the PCs
 	- Have [[Donavich]] plead for them to stop as he fights
 		- He'll let them go back upstairs if they stop
-	- See also: [[Donavich#If Doru is Killed|If Doru is Killed]] and [[Characters/Doru#What They Want|Doru Flees for Ravenloft]]
+	- See also: [[Donavich#If Doru is Killed|If Doru is Killed]] and [[Doru#What They Want|Doru Flees for Ravenloft]]
 
 #### Office
 Contents:
@@ -138,11 +138,11 @@ Contents:
 	- *Hymns to the Dawn* (a volume of chants to [[The Morninglord]])
 
 #### Chapel (E5F)
-- [[Characters/Doru]] hasn't been fed since he was imprisoned (over a year)
+- [[Doru]] hasn't been fed since he was imprisoned (over a year)
 	- he cries out to his father at all hours
-- [[Donavich]] prays day and night, hoping the gods will tell him how to save [[Characters/Doru]]
-- If the PCs seem intent on slaying [[Characters/Doru]], [[Donavich]] does his best to stop them
-	- If [[Characters/Doru]] dies, [[Donavich]] falls to the floor and weeps inconsolably, overcome with despair
+- [[Donavich]] prays day and night, hoping the gods will tell him how to save [[Doru]]
+- If the PCs seem intent on slaying [[Doru]], [[Donavich]] does his best to stop them
+	- If [[Doru]] dies, [[Donavich]] falls to the floor and weeps inconsolably, overcome with despair
 
 #### Funeral for Burgomaster
 - The PCs and [[Ismark Kolyanovich|Ismark]] come to the Church with the Bod
@@ -176,7 +176,7 @@ _Farewell, precious sun._
 
 ## After the Funeral
 - With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
-- The players may want to rest another night (esp if they fought [[Characters/Doru]])
+- The players may want to rest another night (esp if they fought [[Doru]])
 	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
 	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
 	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool]] before nightfall

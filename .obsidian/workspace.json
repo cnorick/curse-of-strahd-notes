@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Doru.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Characters/Doru.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Characters/Ismark Kolyanovich.md",
     "Characters/Parriwimple.md",
     "Characters/Bildrath Cantemir.md",
     "Session Notes/Session 1.md",
@@ -199,7 +200,6 @@
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
     "Website/site/characters/gustav-durst.html",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
