@@ -14,26 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Session Notes/Session 3.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "3cb80031cabe9cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           }
@@ -170,8 +157,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "7fc8a6c354e05ff1",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Characters/Gustav Durst.md",
+    "Session Notes/Session 3.md",
+    "Locations/Death House.md",
     "Handouts/Maps/Village of Barovia.md",
     "Handouts/Items/Cultist Logbook.md",
     "Handouts/Images/Death House Front.md",
@@ -183,7 +174,6 @@
     "Handouts/Letters/Gustav Durst's Suicide Note.md",
     "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Handouts/Images/Rose and Thorne.md",
-    "Campaign Notes.md",
     "Website/scripts/fix-broken-urls.py.f94e58f498912fff383a8add6b80f357.tmp",
     "Website/scripts/fix-broken-urls.py",
     "Assets/Templates/Character.md",
@@ -200,9 +190,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
     "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Mad Mage of Mount Baratok.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
