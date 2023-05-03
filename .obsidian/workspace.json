@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e35c67ea2c84e6",
+        "id": "64135406fe77cf95",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "7fc8a6c354e05ff1",
+            "id": "3b67f2892481e5a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Handouts/Images/Items/Cloak of Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Handouts/Images/Items/Cloak of Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Handouts/Images/Items/Cloak of Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md"
+                "file": "Handouts/Images/Items/Cloak of Protection.md"
               }
             }
           }
@@ -157,10 +156,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fc8a6c354e05ff1",
+  "active": "3b67f2892481e5a8",
   "lastOpenFiles": [
-    "Handouts/Items/Cultist Logbook.md",
-    "Handouts/Items/Cloak of Protection.md",
+    "Handouts/Images/Items/Cultist Logbook.md",
+    "Handouts/Images/Items/Cloak of Protection.md",
     "Session Notes/Session 3.md",
     "Campaign Notes.md",
     "Characters/Gustav Durst.md",
@@ -169,7 +168,7 @@
     "Handouts/Images/Death House Front.md",
     "Handouts/Letters/Argynvost's Journal.md",
     "Handouts/Maps",
-    "Handouts/Items",
+    "Handouts/Images/Items",
     "Handouts/Images",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Gustav Durst's Suicide Note.md",
