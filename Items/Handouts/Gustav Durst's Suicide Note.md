@@ -1,3 +1,6 @@
+---
+public: true
+---
 My Beloved Children,
 
 I wish I could do what all fathers do and tell you that monsters aren’t real. But it wouldn’t be true.
