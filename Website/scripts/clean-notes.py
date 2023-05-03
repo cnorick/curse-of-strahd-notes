@@ -7,7 +7,7 @@ with open(sys.argv[1], 'r+') as my_file:
   soup = BeautifulSoup(text, features='lxml')
   
   # Make all non-absolute links relative to the root
-  for a in soup.findAll('a'):
+  for a in soup.find_all('a'):
     print(a.href)
     if(not a['href'].startswith('http')):
       # a['href'] = '/' + a['href']
@@ -16,7 +16,7 @@ with open(sys.argv[1], 'r+') as my_file:
 
   # Hide all the links in the session notes
   sessionNotes = soup.find(id="Session_1").find_parent(class_='block-language-dataviewjs')
-  for a in sessionNotes.findAll('a'):
+  for a in sessionNotes.find_all('a'):
     a['href'] = '#'
 
   cleanContent = str(soup)
