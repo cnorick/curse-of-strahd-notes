@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -189,19 +189,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b7074fe9cba40ced",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Website/site/no-spoilers/campaign-notes/styles/theme.css",
+    "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
+    "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
+    "Website/site/no-spoilers/campaign-notes/styles/plugin-styles.css",
+    "Website/site/no-spoilers/campaign-notes/styles",
+    "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
+    "Website/site/no-spoilers/campaign-notes/scripts",
+    "Session Notes/Session 3.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
     "Website/no-spoilers/campaign-notes/styles/theme.css",
     "Website/no-spoilers/campaign-notes/styles/snippets.css",
-    "Website/no-spoilers/campaign-notes/styles/plugin-styles.css",
-    "Website/no-spoilers/campaign-notes/styles/obsidian-styles.css",
-    "Website/no-spoilers/campaign-notes/styles",
-    "Website/no-spoilers/scripts/webpage.js",
-    "Website/no-spoilers/scripts",
-    "Website/no-spoilers/styles/theme.css",
-    "Website/no-spoilers/styles/snippets.css",
     "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
@@ -226,7 +227,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
