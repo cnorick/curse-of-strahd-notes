@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/death-house-kids.png"
+                "file": "Assets/Images/Copy of mad mary.png"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/death-house-kids.png",
+                "file": "Assets/Images/Copy of mad mary.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/death-house-kids.png",
+                "file": "Assets/Images/Copy of mad mary.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/death-house-kids.png"
+                "file": "Assets/Images/Copy of mad mary.png"
               }
             }
           }
@@ -156,9 +156,16 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Assets/Images/Parriwimple.jpg",
+    "Assets/Images/Ireena Kolyanna.jpg",
+    "Assets/Images/Doru.png",
+    "Assets/Images/Bildrath.jpg",
+    "Assets/Images/Arik the Barkeep V2.webp",
+    "Assets/Images/death-house-kids.png",
+    "Assets/Images/Copy of mad mary.png",
+    "Assets/Images/Copy of Ismark.jpg",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
-    "Assets/Images/Copy of Arik the Barkeep V2.webp",
     "Assets/Images/Pasted image 20230502223335.jpg",
     "Campaign Notes.md",
     "Custom Monsters/Dog.md",
@@ -195,12 +202,6 @@
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
-    "Website/site/assets/images/death-house-kids.png",
-    "Website/site/assets/images/death-house-front.jpg",
-    "Website/site/assets/images/barovia.jpg",
-    "Website/site/items/handouts/images/death-house-front.jpg",
-    "Website/site/items/handouts/images/death-house-kids.png",
-    "Website/site/items/handouts/images/barovia.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
