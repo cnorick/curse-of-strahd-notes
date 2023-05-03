@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Session Notes/Session 3.md"
               }
             }
           }
@@ -189,10 +189,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "b7074fe9cba40ced",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
     "Campaign Notes.md",
+    "Website/site/no-spoilers/campaign-notes/snippets.css",
+    "Website/site/no-spoilers/campaign-notes/theme.css",
+    "Website/site/no-spoilers/campaign-notes/index.html",
+    "Website/site/no-spoilers/campaign-notes/plugin-styles.css",
+    "Website/site/no-spoilers/campaign-notes/webpage.js",
+    "Website/site/no-spoilers/campaign-notes/obsidian-styles.css",
+    "Website/site/no-spoilers/campaign-notes",
+    "Website/site/no-spoilers/Campaign Notes.pdf",
+    "Website/site/no-spoilers",
+    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
@@ -216,17 +225,7 @@
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
     "Website/site/assets/templates/character.html",
-    "Website/site/assets/templates",
-    "Website/site/assets",
-    "Website/site/campaign/session-4.html",
-    "Website/site/campaign/session-2.html",
-    "Website/site/campaign/session-3.html",
-    "Website/site/campaign/session-1.html",
-    "Website/site/campaign/session-0.html",
-    "Website/site/campaign",
-    "Website/site/characters/walter.html",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
