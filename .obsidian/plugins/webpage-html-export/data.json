@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": true,
-  "includePluginCSS": "obsidian-5e-statblocks",
+  "includePluginCSS": "obsidian-5e-statblocks\ndataview",
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
