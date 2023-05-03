@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,18 +156,19 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc7c0a2e0efad740",
+  "active": "101a8d198059b361",
   "lastOpenFiles": [
     "Characters/Ireena Kolyana.md",
+    "Characters/Donavich.md",
     "Session Notes/Session 3.md",
+    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Handouts/Images/Portraits/Portrait of Doru.md",
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
     "Handouts/Images/Portraits/Portrait of Mad Mary.md",
     "Assets/Images/Parriwimple.jpg",
     "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Bildrath.md",
-    "Handouts/Images/Portraits/Doru.md",
     "Assets/Images/Ireena Kolyanna.jpg",
     "Handouts/Images/Portraits",
     "Handouts/Images/Death House Front.md",
@@ -199,7 +201,6 @@
     "Campaign/Session 4.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
     "Website/site/characters/gustav-durst.html",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
