@@ -6,7 +6,7 @@ for root, dirnames, filenames in os.walk(sys.argv[1]):
   for filename in filenames:
     if filename.endswith('.html'):
       fname = os.path.join(root, filename)
-      print('Filename: {}'.format(fname))
+      print('Fixing URLs for: {}'.format(fname))
       with open(fname, 'r+') as handle:
         soup = BeautifulSoup(handle.read(), 'html.parser')
         for a in soup.find_all('a'):
