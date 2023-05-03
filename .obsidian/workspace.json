@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3ae5537c709bb7ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Items/Potion of Healing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c71c308fca00d88a",
             "type": "leaf",
             "state": {
@@ -105,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Potion of Healing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Potion of Healing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Handouts/Items/Potion of Healing.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -168,10 +152,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3ae5537c709bb7ef",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Session Notes/Session 3.md",
+    "Handouts/Stat Blocks",
     "Handouts/Items/Potion of Healing.md",
+    "Handouts/Untitled.md",
+    "Session Notes/Session 3.md",
     "Handouts/Items/Cloak of Protection.md",
     "Campaign Notes.md",
     "Website/site/handouts/items/sunsword.html",
@@ -200,8 +186,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
