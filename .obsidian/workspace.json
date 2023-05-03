@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ireena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md"
+                "file": "Handouts/Images/Portraits/Portrait of Ireena.md"
               }
             }
           }
@@ -156,13 +156,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc7c0a2e0efad740",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Rose and Thorne.md",
-    "Handouts/Images/Portraits/Rose and Thorne 1.md",
-    "Assets/Images/Ireena Kolyanna.jpg",
-    "Handouts/Images/Portraits/Doru.md",
     "Handouts/Images/Portraits/Bildrath.md",
+    "Handouts/Images/Portraits/Rose and Thorne.md",
+    "Handouts/Images/Portraits/Doru.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Assets/Images/Ireena Kolyanna.jpg",
     "Handouts/Images/Portraits",
     "Handouts/Images/Death House Front.md",
     "Assets/Images/Ismark.jpg",

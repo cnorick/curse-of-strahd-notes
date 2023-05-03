@@ -11,7 +11,7 @@
 - Continuing on the road, [[Carlos]] the mule in tow, the group caught the stench of death
 	- they followed the smell off the road where they found where they found a mauled body
 	- on the body, the found another note in another script, also signed by [[Kolyan Indirovich]]
-	- This one is much more foreboding than the first, claiming that the Burgomaster's daughter [[Ireena Kolyana]] has been bitten by a vampire
+	- This one is much more foreboding than the first, claiming that the Burgomaster's daughter [[Characters/Ireena Kolyana]] has been bitten by a vampire
 - Right after finding the note, the party is attacked by wolves, seemingly led by a red-eyed direwolf in the distance
 	- The party was able to quickly charm, kill, and put to sleep the wolves as the direwolf looked on and make it back to the road
 	- [[Bardolf]] ties the carcass of one of the wolves behind Carlos, and the party takes off right as they hear the sleeping wolves wake up 

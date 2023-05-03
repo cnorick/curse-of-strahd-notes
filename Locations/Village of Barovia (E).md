@@ -26,12 +26,12 @@
 
 #### Meeting [[Ismark Kolyanovich|Ismark]]
 - He invites the PCs to join him and offers to pay for their wine
-- [[Strahd Von Zarovich|Strahd]] has been coming for [[Ireena Kolyana|Ireena]] (see [[Strahd Von Zarovich#Turn Ireena Kolyana|Turn Ireena Kolyana]])
-- He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
+- [[Strahd Von Zarovich|Strahd]] has been coming for [[Characters/Ireena Kolyana|Ireena]] (see [[Strahd Von Zarovich#Turn Ireena Kolyana|Turn Ireena Kolyana]])
+- He asks for aid in protecting his adopted sister [[Characters/Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
 	- He wants the characters to escort her to [[Vallaki]]
 		- Beyond [[Castle Ravenloft]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
-- He knows moving [[Ireena Kolyana|Ireena]] is a gamble
+- He knows moving [[Characters/Ireena Kolyana|Ireena]] is a gamble
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
  - He's heard that [[Vallaki]] is well defended
 
@@ -50,42 +50,42 @@
 
 - CD 11 Perception -> can discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints
 	- (the prints were made by zombies and ghouls under [[Strahd Von Zarovich|Strahd]]'s control)
- - [[Ireena Kolyana]] is inside and won't open the heavily-barred door to anyone unless she's convinced they don't have any allegiance to [[Strahd Von Zarovich|Strahd]]
+ - [[Characters/Ireena Kolyana]] is inside and won't open the heavily-barred door to anyone unless she's convinced they don't have any allegiance to [[Strahd Von Zarovich|Strahd]]
 	- Can convince with good roleplaying or DC 15 Deception/Persuasion
 	- Or with [[Ismark Kolyanovich]]
 - After entering:
 	> The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor -- lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay.
 
-- [[Ismark Kolyanovich]] and [[Ireena Kolyana|Ireena]] made the coffin themselves
+- [[Ismark Kolyanovich]] and [[Characters/Ireena Kolyana|Ireena]] made the coffin themselves
 - [[Ismark Kolyanovich|Ismark]] will offer 50gp to the PCs if they escort Ireena to safety
 	- {Not necessarily [[Vallaki]], but wherever she's safe}
 	- He will suggest [[Vallaki]] though
 
-- [[Ireena Kolyana|Ireena]] refuses to go until her father is buried
+- [[Characters/Ireena Kolyana|Ireena]] refuses to go until her father is buried
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
 		- No one else in town has been brave enough to help
 - They warn the PCs about the church before going
 	- [[Donavich]] is in a bad way recently because of his son [[Characters/Doru]]
 	- Have them tell the whole story
 
-- The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights her on it)
+- The next morning, [[Ismark Kolyanovich|Ismark]] accompanies the party, but [[Characters/Ireena Kolyana|Ireena]] stays home (she wants to go, but [[Ismark Kolyanovich|Ismark]] fights her on it)
  
 #### [[Mad Mary]]'s Visit
 - This is for if the PCs don't take the bait to visit [[Mad Mary]]
 - Should happen during the day
-- After the players meet [[Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the door and knocks profusely
-- [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] are cautious
+- After the players meet [[Characters/Ireena Kolyana|Ireena]] and get situated, [[Mad Mary]] comes to the door and knocks profusely
+- [[Ismark Kolyanovich|Ismark]] and [[Characters/Ireena Kolyana|Ireena]] are cautious
 	- He motions to everyone to stay down and stay quiet while he answers the door
 	- They've had a lot of unwelcome visitors recently
 - Mary pushes her way into the house when he opens the door
-	- this puts [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] at ease because it's during the day and she came in uninvited
-		- They can share this with the players; maybe [[Ireena Kolyana|Ireena]] comes out of hiding when it happens and explains to the PCs while [[Ismark Kolyanovich|Ismark]] is dealing with Mary
+	- this puts [[Ismark Kolyanovich|Ismark]] and [[Characters/Ireena Kolyana|Ireena]] at ease because it's during the day and she came in uninvited
+		- They can share this with the players; maybe [[Characters/Ireena Kolyana|Ireena]] comes out of hiding when it happens and explains to the PCs while [[Ismark Kolyanovich|Ismark]] is dealing with Mary
 - The players overhear Mary's frantic rambling:
 	- begging [[Ismark Kolyanovich|Ismark]] to help her daughter
 	- Mary speaks the first player that intervenes and begs for them to help her child
 	- She rambles on about [[Gertruda]] making it sound like she's a little kid (7 or 8)
 - After the PCs alleviate Mary's hysteria, [[Ismark Kolyanovich|Ismark]] walks her back home
-	- In the meantime, [[Ireena Kolyana|Ireena]] explains that [[Gertruda]] is actually a teen and ran away into the mists over a week ago and is probably dead
+	- In the meantime, [[Characters/Ireena Kolyana|Ireena]] explains that [[Gertruda]] is actually a teen and ran away into the mists over a week ago and is probably dead
 	- There's really not much the party can do
 
 #### A Good Time to Rest
@@ -95,7 +95,7 @@
 - Get the Burgomaster's body to the cemetery in the morning for the funeral
 - Dream pies!
 	- Remind the players to try the dream pies if they haven't
-	- [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] politely decline pies if offered
+	- [[Characters/Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] politely decline pies if offered
 		- They don't know what they're made of, but have seen their addictive properties
 		- They have nothing against them, but they're just not interested
 		- The recommend the players just have a small portion, just in case, but see no harm
@@ -169,16 +169,16 @@ _Farewell, precious sun._
 	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
 - After the funeral, the man is gone; You don't know where he went
-- Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
+- Once buried, [[Donavich]] suggests the [[Characters/Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
 	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
-		- ([[Vallaki]] is on the way to [[Krezk]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
+		- ([[Vallaki]] is on the way to [[Krezk]] and [[Characters/Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
 
 ## After the Funeral
-- With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
+- With the Burgomaster buried, [[Characters/Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
 - The players may want to rest another night (esp if they fought [[Characters/Doru]])
-	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
-	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
+	- But [[Ismark Kolyanovich|Ismark]] and [[Characters/Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
+	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Characters/Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
 	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool]] before nightfall
 		- for a safe place to camp
 		- [[Ismark Kolyanovich|Ismark]] says the [[Vistani]] tribe at that location are friendly to visitors
