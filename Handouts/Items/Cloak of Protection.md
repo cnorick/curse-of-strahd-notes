@@ -3,12 +3,11 @@ public: true
 ---
 https://roll20.net/compendium/dnd5e/Cloak%20of%20Protection#content
 <iframe src="https://roll20.net/compendium/dnd5e/Cloak%20of%20Protection#content" style="
-    position: relative;
-	width: 100%
-    border: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    z-index: 999999;
-    height: 100%;
+1.  position: relative;
+2.   width: 100%;
+3.   height:
+    
+    1500px
+    
+    ;
   "></iframe>
