@@ -6,7 +6,7 @@
       {
         "id": "d8e35c67ea2c84e6",
         "type": "tabs",
-        "dimension": 58.168316831683164,
+        "dimension": 58.16831683168317,
         "children": [
           {
             "id": "7fc8a6c354e05ff1",
@@ -38,7 +38,7 @@
       {
         "id": "8a2da7a1b4aca666",
         "type": "tabs",
-        "dimension": 41.83168316831683,
+        "dimension": 41.831683168316836,
         "children": [
           {
             "id": "b7074fe9cba40ced",
@@ -185,8 +185,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "3cb80031cabe9cfd",
