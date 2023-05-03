@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Bildrath.md",
+                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Bildrath.md",
+                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Bildrath.md",
+                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Bildrath.md"
+                "file": "Handouts/Images/Portraits/Rose and Thorne 1.md"
               }
             }
           }
@@ -158,14 +158,16 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Rose and Thorne.md",
+    "Handouts/Images/Portraits/Rose and Thorne 1.md",
+    "Assets/Images/Ireena Kolyanna.jpg",
+    "Handouts/Images/Portraits/Doru.md",
+    "Handouts/Images/Portraits/Bildrath.md",
     "Handouts/Images/Portraits",
     "Handouts/Images/Death House Front.md",
-    "Handouts/Images/Portraits/Bildrath.md",
-    "Handouts/Images/Portraits/Rose and Thorne.md",
     "Assets/Images/Ismark.jpg",
     "Assets/Images/mad mary.png",
     "Assets/Images/Parriwimple.jpg",
-    "Assets/Images/Ireena Kolyanna.jpg",
     "Assets/Images/Doru.png",
     "Assets/Images/Bildrath.jpg",
     "Assets/Images/Arik the Barkeep V2.webp",
@@ -200,10 +202,8 @@
     "Website/site/characters/gustav-durst.html",
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
-    "Characters/Elora.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
-    "Website/site/handouts/images/items/cultist-logbook.html",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

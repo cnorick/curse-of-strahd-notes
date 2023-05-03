@@ -1,4 +1,4 @@
 ---
 public: false
 ---
-![[Bildrath.jpg]]
+![[Doru.png]]
