@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+                "file": "Characters/Donavich.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+                "file": "Characters/Donavich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+                "file": "Characters/Donavich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Mad Mary.md"
+                "file": "Characters/Donavich.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +155,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
-    "Assets/Images/Parriwimple.jpg",
+    "Characters/Ireena Kolyana.md",
+    "Session Notes/Session 3.md",
+    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
     "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Assets/Images/Parriwimple.jpg",
     "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Handouts/Images/Portraits/Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Ireena.md",
@@ -178,7 +180,6 @@
     "Assets/Images/barovia.jpg",
     "Campaign Notes.md",
     "Custom Monsters/Dog.md",
-    "Session Notes/Session 3.md",
     "Handouts/Stat Blocks/Lancelot.md",
     "Characters/Lancelot.md",
     "Handouts/Untitled.md",
@@ -199,7 +200,6 @@
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
     "Website/site/characters/gustav-durst.html",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
