@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Doru.md"
+                "file": "Handouts/Items/Cloak of Protection.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Characters/Doru.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Parriwimple.md",
     "Characters/Bildrath Cantemir.md",
@@ -199,7 +200,6 @@
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
     "Website/site/characters/gustav-durst.html",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
