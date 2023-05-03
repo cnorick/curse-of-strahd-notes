@@ -1,115 +1,102 @@
 <!DOCTYPE html>
+
 <html>
-
 <head>
-
-  <title>Session 4</title>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <meta charset="UTF-8">
-
-  <link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
-
-  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
-  <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
-  <script src="https://pixijs.download/v7.2.4/pixi.js"></script>
-
-
-  <link rel="stylesheet" href="../styles/obsidian-styles.css">
-  <link rel="stylesheet" href="../styles/plugin-styles.css">
-  <link rel="stylesheet" href="../styles/theme.css">
-  <link rel="stylesheet" href="../styles/snippets.css">
-
-  <style> </style>
-  <style> </style>
-
-
-  <script id="relative-paths">
+<title>Session 4</title>
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
+<meta charset="utf-8"/>
+<link href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png" rel="icon" sizes="96x96"/>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script crossorigin="anonymous" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+<link href="../styles/obsidian-styles.css" rel="stylesheet"/>
+<link href="../styles/plugin-styles.css" rel="stylesheet"/>
+<link href="../styles/theme.css" rel="stylesheet"/>
+<link href="../styles/snippets.css" rel="stylesheet"/>
+<style> </style>
+<style> </style>
+<script id="relative-paths">
     let rootPath = "..";
     let mediaPath = "../media";
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
-
-  <script src="../scripts/webpage.js"></script>
-
+<script src="../scripts/webpage.js"></script>
 </head>
-
 <body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
-  <div class="flex-container">
-    <div id="sidebar" class="sidebar-left">
-      <div class="sidebar-content">
-        <div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle">
-            <div class="toggle__fill"></div>
-          </label></div>
-      </div>
-    </div>
-    <div class="center-content">
-      <div class="markdown-preview-view markdown-rendered allow-fold-headings">
-        <div>
-          <h1 id="Session_4">
-            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                <path d="M3 8L12 17L21 8"></path>
-              </svg></div>Session 4
+<div class="flex-container">
+<div class="sidebar-left" id="sidebar">
+<div class="sidebar-content">
+<div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" id="theme_toggle" type="checkbox"/>
+<div class="toggle__fill"></div>
+</label></div>
+</div>
+</div>
+<div class="center-content">
+<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div>
+<h1 id="Session_4">
+<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div>Session 4
           </h1>
-        </div>
-        <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-        <div class="mod-header">
-          <div class="inline-title" contenteditable="true" spellcheck="false" tabindex="-1" enterkeyhint="done">Session 4</div>
-        </div>
-        <div>
-          <ul class="has-list-bullet">
-            <li data-line="0">
-              <div class="list-bullet"></div>Run <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Events (p 48) > Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))" data-href="Village of Barovia (E)#Events (p 48)#Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))" href="../locations/village-of-barovia-(e).html#Events_(p_48)" class="internal-link" target="_self" rel="noopener">Dream Pies</a> first out of <a data-href="Death House" href="../locations/death-house.html" class="internal-link" target="_self" rel="noopener">Death House</a>
-            </li>
-            <li data-line="1">
-              <div class="list-bullet"></div>Explore <a data-href="Village of Barovia (E)" href="../locations/village-of-barovia-(e).html" class="internal-link" target="_self" rel="noopener">Village of Barovia (E)</a>
-            </li>
-            <li data-line="2">
-              <div class="list-bullet"></div>Get to <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Blood of the Vine Tavern (E2)" data-href="Village of Barovia (E)#Blood of the Vine Tavern (E2)" href="../locations/village-of-barovia-(e).html#Blood_of_the_Vine_Tavern_(E2)" class="internal-link" target="_self" rel="noopener">Blood of the Vine</a>
-            </li>
-            <li data-line="3">
-              <div class="list-bullet"></div>Meet <a data-tooltip-position="top" aria-label="Ismark Kolyanovich" data-href="Ismark Kolyanovich" href="../characters/ismark-kolyanovich.html" class="internal-link" target="_self" rel="noopener">Ismark</a> and <a data-tooltip-position="top" aria-label="Ireena Kolyana" data-href="Ireena Kolyana" href="../characters/ireena-kolyana.html" class="internal-link" target="_self" rel="noopener">Ireena</a>
-            </li>
-            <li data-line="4">
-              <div class="list-bullet"></div>
-              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                  <path d="M3 8L12 17L21 8"></path>
-                </svg></div>Bury <a data-href="Ismark Kolyanovich" href="../characters/ismark-kolyanovich.html" class="internal-link" target="_self" rel="noopener">Ismark Kolyanovich</a>
-              <ul class="has-list-bullet">
-                <li data-line="5">
-                  <div class="list-bullet"></div>Go the the <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Church (E5)" data-href="Village of Barovia (E)#Church (E5)" href="../locations/village-of-barovia-(e).html#Church_(E5)" class="internal-link" target="_self" rel="noopener">Church</a> then the <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Cemetery (E6)" data-href="Village of Barovia (E)#Cemetery (E6)" href="../locations/village-of-barovia-(e).html#Cemetery_(E6)" class="internal-link" target="_self" rel="noopener">Cemetery</a>
-                </li>
-              </ul>
-            </li>
-            <li data-line="6">
-              <div class="list-bullet"></div>Set out for <a data-href="Tser Pool" href="Tser Pool" class="internal-link is-unresolved" target="_self" rel="noopener">Tser Pool</a> and <a data-href="Vallaki" href="Vallaki" class="internal-link is-unresolved" target="_self" rel="noopener">Vallaki</a>
-            </li>
-          </ul>
-        </div>
-        <div class="mod-footer">
-          <div class="embedded-backlinks" style="display: none;"></div>
-        </div>
-      </div>
-    </div>
-    <div id="sidebar" class="sidebar-right">
-      <div class="sidebar-content">
-        <div class="outline-container" data-size="0">
-          <div class="outline-header">
-            <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button>
-          </div>
-          <div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Session_4">
-              <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
-                  <path d="M3 8L12 17L21 8"></path>
-                </svg></div><span class="outline-item-title">Session 4</span>
-            </a>
-            <div class="outline-item-children"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+</div>
+<div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
+<div class="mod-header">
+<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Session 4</div>
+</div>
+<div>
+<ul class="has-list-bullet">
+<li data-line="0">
+<div class="list-bullet"></div>Run <a aria-label="Village of Barovia (E) &gt; Events (p 48) &gt; Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))" class="internal-link" data-href="Village of Barovia (E)#Events (p 48)#Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))" data-tooltip-position="top" href="../locations/village-of-barovia-(e).html#Events_(p_48)" rel="noopener" target="_self">Dream Pies</a> first out of <a class="internal-link" data-href="Death House" href="../locations/death-house.html" rel="noopener" target="_self">Death House</a>
+</li>
+<li data-line="1">
+<div class="list-bullet"></div>Explore <a class="internal-link" data-href="Village of Barovia (E)" href="../locations/village-of-barovia-(e).html" rel="noopener" target="_self">Village of Barovia (E)</a>
+</li>
+<li data-line="2">
+<div class="list-bullet"></div>Get to <a aria-label="Village of Barovia (E) &gt; Blood of the Vine Tavern (E2)" class="internal-link" data-href="Village of Barovia (E)#Blood of the Vine Tavern (E2)" data-tooltip-position="top" href="../locations/village-of-barovia-(e).html#Blood_of_the_Vine_Tavern_(E2)" rel="noopener" target="_self">Blood of the Vine</a>
+</li>
+<li data-line="3">
+<div class="list-bullet"></div>Meet <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> and <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a>
+</li>
+<li data-line="4">
+<div class="list-bullet"></div>
+<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div>Bury <a class="internal-link" data-href="Ismark Kolyanovich" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a>
+<ul class="has-list-bullet">
+<li data-line="5">
+<div class="list-bullet"></div>Go the the <a aria-label="Village of Barovia (E) &gt; Church (E5)" class="internal-link" data-href="Village of Barovia (E)#Church (E5)" data-tooltip-position="top" href="../locations/village-of-barovia-(e).html#Church_(E5)" rel="noopener" target="_self">Church</a> then the <a aria-label="Village of Barovia (E) &gt; Cemetery (E6)" class="internal-link" data-href="Village of Barovia (E)#Cemetery (E6)" data-tooltip-position="top" href="../locations/village-of-barovia-(e).html#Cemetery_(E6)" rel="noopener" target="_self">Cemetery</a>
+</li>
+</ul>
+</li>
+<li data-line="6">
+<div class="list-bullet"></div>Set out for <a class="internal-link is-unresolved" data-href="Tser Pool" href="Tser Pool" rel="noopener" target="_self">Tser Pool</a> and <a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a>
+</li>
+</ul>
+</div>
+<div class="mod-footer">
+<div class="embedded-backlinks" style="display: none;"></div>
+</div>
+</div>
+</div>
+<div class="sidebar-right" id="sidebar">
+<div class="sidebar-content">
+<div class="outline-container" data-size="0">
+<div class="outline-header">
+<h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>
+</div>
+<div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Session_4">
+<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M3 8L12 17L21 8"></path>
+</svg></div><span class="outline-item-title">Session 4</span>
+</a>
+<div class="outline-item-children"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </body>
-
 </html>
