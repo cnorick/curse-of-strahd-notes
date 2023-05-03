@@ -11,9 +11,11 @@
             "id": "cc7c0a2e0efad740",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/Copy of mad mary.png"
+                "file": "Handouts/Images/Portraits/Bildrath.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Copy of mad mary.png",
+                "file": "Handouts/Images/Portraits/Bildrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Copy of mad mary.png",
+                "file": "Handouts/Images/Portraits/Bildrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Copy of mad mary.png"
+                "file": "Handouts/Images/Portraits/Bildrath.md"
               }
             }
           }
@@ -156,17 +158,20 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Portraits/Bildrath.md",
+    "Handouts/Images/Portraits/Rose and Thorne.md",
+    "Assets/Images/Ismark.jpg",
+    "Assets/Images/mad mary.png",
     "Assets/Images/Parriwimple.jpg",
     "Assets/Images/Ireena Kolyanna.jpg",
     "Assets/Images/Doru.png",
     "Assets/Images/Bildrath.jpg",
     "Assets/Images/Arik the Barkeep V2.webp",
     "Assets/Images/death-house-kids.png",
-    "Assets/Images/Copy of mad mary.png",
-    "Assets/Images/Copy of Ismark.jpg",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia.jpg",
-    "Assets/Images/Pasted image 20230502223335.jpg",
     "Campaign Notes.md",
     "Custom Monsters/Dog.md",
     "Session Notes/Session 3.md",
@@ -196,9 +201,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
     "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Mad Mage of Mount Baratok.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
