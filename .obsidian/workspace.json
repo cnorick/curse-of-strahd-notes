@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f5d5a57649cf3bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Village of Barovia (E).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -156,39 +169,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3b67f2892481e5a8",
+  "active": "f5d5a57649cf3bf2",
   "lastOpenFiles": [
-    "Handouts/Images/Items/Cultist Logbook.md",
     "Handouts/Images/Items/Cloak of Protection.md",
+    "Custom Monsters/Dog.md",
+    "Index.md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
+    "Misc/If Players Die.md",
+    "Misc/Guest as Granny.md",
+    "Misc/Card Reading.md",
+    "Misc/Vistani.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
-    "Campaign Notes.md",
-    "Characters/Gustav Durst.md",
-    "Locations/Death House.md",
-    "Handouts/Maps/Village of Barovia.md",
-    "Handouts/Images/Death House Front.md",
+    "TODO.md",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Tome of Strahd.md",
+    "Handouts/Letters/Strahd's Invitation.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Rose and Thorne.md",
+    "Handouts/Images/Items/Cultist Logbook.md",
     "Handouts/Maps",
     "Handouts/Images/Items",
     "Handouts/Images",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Images/Rose and Thorne.md",
     "Website/scripts/fix-broken-urls.py.f94e58f498912fff383a8add6b80f357.tmp",
     "Website/scripts/fix-broken-urls.py",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Doru.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
