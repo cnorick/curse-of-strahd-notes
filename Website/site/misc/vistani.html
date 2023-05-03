@@ -1,388 +1,401 @@
 <!DOCTYPE html>
-
 <html>
+
 <head>
-<title>Vistani</title>
-<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport"/>
-<meta charset="utf-8"/>
-<link href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png" rel="icon" sizes="96x96"/>
-<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-<script crossorigin="anonymous" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
-<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
-<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
-<link href="../styles/obsidian-styles.css" rel="stylesheet"/>
-<link href="../styles/plugin-styles.css" rel="stylesheet"/>
-<link href="../styles/theme.css" rel="stylesheet"/>
-<link href="../styles/snippets.css" rel="stylesheet"/>
-<style> </style>
-<style> </style>
-<script id="relative-paths">
+
+  <title>Vistani</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8">
+
+  <link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
+  <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+  <script src="https://pixijs.download/v7.2.4/pixi.js"></script>
+
+
+  <link rel="stylesheet" href="../styles/obsidian-styles.css">
+  <link rel="stylesheet" href="../styles/plugin-styles.css">
+  <link rel="stylesheet" href="../styles/theme.css">
+  <link rel="stylesheet" href="../styles/snippets.css">
+
+  <style> </style>
+  <style> </style>
+
+
+  <script id="relative-paths">
     let rootPath = "..";
     let mediaPath = "../media";
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
-<script src="../scripts/webpage.js"></script>
+
+  <script src="../scripts/webpage.js"></script>
+
 </head>
+
 <body class="theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
-<div class="flex-container">
-<div class="sidebar-left" id="sidebar">
-<div class="sidebar-content">
-<div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" id="theme_toggle" type="checkbox"/>
-<div class="toggle__fill"></div>
-</label></div>
-</div>
-</div>
-<div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
-<div>
-<h1 id="Vistani">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Vistani
+  <div class="flex-container">
+    <div id="sidebar" class="sidebar-left">
+      <div class="sidebar-content">
+        <div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle">
+            <div class="toggle__fill"></div>
+          </label></div>
+      </div>
+    </div>
+    <div class="center-content">
+      <div class="markdown-preview-view markdown-rendered allow-fold-headings">
+        <div>
+          <h1 id="Vistani">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Vistani
           </h1>
-</div>
-<div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Vistani</div>
-</div>
-<div>
-<p>The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons, which they build themselves</p>
-</div>
-<div>
-<ul class="has-list-bullet">
-<li data-line="0">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>They're more flamboyant
+        </div>
+        <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
+        <div class="mod-header">
+          <div class="inline-title" contenteditable="true" spellcheck="false" tabindex="-1" enterkeyhint="done">Vistani</div>
+        </div>
+        <div>
+          <p>The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons, which they build themselves</p>
+        </div>
+        <div>
+          <ul class="has-list-bullet">
+            <li data-line="0">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>They're more flamboyant
               <ul class="has-list-bullet">
-<li data-line="1">
-<div class="list-bullet"></div>bright clothes
+                <li data-line="1">
+                  <div class="list-bullet"></div>bright clothes
                 </li>
-<li data-line="2">
-<div class="list-bullet"></div>laugh often
+                <li data-line="2">
+                  <div class="list-bullet"></div>laugh often
                 </li>
-</ul>
-</li>
-<li data-line="3">
-<div class="list-bullet"></div>They can leave whenever they want
+              </ul>
             </li>
-<li data-line="4">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>The are silversmiths, coppersmiths, haberdashers, cooks, weavers, musicians, entertainers, storytellers, toolmakers, and horse traders
+            <li data-line="3">
+              <div class="list-bullet"></div>They can leave whenever they want
+            </li>
+            <li data-line="4">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>The are silversmiths, coppersmiths, haberdashers, cooks, weavers, musicians, entertainers, storytellers, toolmakers, and horse traders
               <ul class="has-list-bullet">
-<li data-line="5">
-<div class="list-bullet"></div>they tell fortunes and sell info
+                <li data-line="5">
+                  <div class="list-bullet"></div>they tell fortunes and sell info
                 </li>
-</ul>
-</li>
-<li data-line="6">
-<div class="list-bullet"></div>Each family/clan is a little gerontocracy
+              </ul>
             </li>
-<li data-line="7">
-<div class="list-bullet"></div>Each clan is closely knit
+            <li data-line="6">
+              <div class="list-bullet"></div>Each family/clan is a little gerontocracy
             </li>
-<li data-line="8">
-<div class="list-bullet"></div>They resolve disagreements through contests that end with reconciliatory singing, dancing, and storytelling
+            <li data-line="7">
+              <div class="list-bullet"></div>Each clan is closely knit
             </li>
-<li data-line="9">
-<div class="list-bullet"></div>They act quick when their lives or traditions are threatened
+            <li data-line="8">
+              <div class="list-bullet"></div>They resolve disagreements through contests that end with reconciliatory singing, dancing, and storytelling
             </li>
-<li data-line="10">
-<div class="list-bullet"></div>They are merciless when they believe they must be
+            <li data-line="9">
+              <div class="list-bullet"></div>They act quick when their lives or traditions are threatened
             </li>
-<li data-line="11">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>One who knowingly brings harm/misfortune to others of their kind are banished
+            <li data-line="10">
+              <div class="list-bullet"></div>They are merciless when they believe they must be
+            </li>
+            <li data-line="11">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>One who knowingly brings harm/misfortune to others of their kind are banished
               <ul class="has-list-bullet">
-<li data-line="12">
-<div class="list-bullet"></div>the worse punishment one can imagine
+                <li data-line="12">
+                  <div class="list-bullet"></div>the worse punishment one can imagine
                 </li>
-</ul>
-</li>
-</ul>
-</div>
-<div>
-<h2 data-heading="Vistani Lore" id="Vistani_Lore">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Vistani Lore
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h2 data-heading="Vistani Lore" id="Vistani_Lore">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Vistani Lore
           </h2>
-</div>
-<div>
-<h3 data-heading="[[Strahd Von Zarovich]]" id="Strahd_Von_Zarovich">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><a class="internal-link" data-href="Strahd Von Zarovich" href="../characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd Von Zarovich</a>
-</h3>
-</div>
-<div>
-<ul class="has-list-bullet">
-<li data-line="0">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Strahd comes from a royal bloodline
-              <ul class="has-list-bullet">
-<li data-line="1">
-<div class="list-bullet"></div>He died centuries ago yet endures as one of the undead, feasting on the blood of the living
-                </li>
-<li data-line="2">
-<div class="list-bullet"></div>Barovians refer to him as "the devil Strahd"
-                </li>
-</ul>
-</li>
-<li data-line="3">
-<div class="list-bullet"></div>Strahd has taken many consorts, but he has known only one true love: a Barovian peasant girl named <a class="internal-link" data-href="Tatyana" href="../characters/tatyana.html" rel="noopener" target="_self">Tatyana</a>. ( the Vistani don't know what happened to her)
-            </li>
-<li data-line="4">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Strahd named the castle, <a aria-label="Castle Ravenloft" class="internal-link" data-href="Castle Ravenloft" data-tooltip-position="top" href="../locations/castle-ravenloft.html" rel="noopener" target="_self">Ravenloft</a>, after his beloved mother, <a class="internal-link is-unresolved" data-href="Queen Ravenovia" href="Queen Ravenovia" rel="noopener" target="_self">Queen Ravenovia</a>
-<ul class="has-list-bullet">
-<li data-line="5">
-<div class="list-bullet"></div>Strangers aren't welcomed at the castle without an invite
-                </li>
-</ul>
-</li>
-</ul>
-</div>
-<div>
-<h3 data-heading="The Land of Barovia" id="The_Land_of_Barovia">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>The Land of Barovia
+        </div>
+        <div>
+          <h3 data-heading="[[Strahd Von Zarovich]]" id="Strahd_Von_Zarovich">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div><a data-href="Strahd Von Zarovich" href="../characters/strahd-von-zarovich.html" class="internal-link" target="_self" rel="noopener">Strahd Von Zarovich</a>
           </h3>
-</div>
-<div>
-<ul class="has-list-bullet">
-<li data-line="0">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Strahd conquered this land centuries ago and named it after his father <a class="internal-link is-unresolved" data-href="King Barov" href="King Barov" rel="noopener" target="_self">King Barov</a>
-<ul class="has-list-bullet">
-<li data-line="1">
-<div class="list-bullet"></div>Strahd uses wolves, bats, and other creatures to spy on all of his realm
-                </li>
-</ul>
-</li>
-<li data-line="2">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Barovians are simple, frightened people
+        </div>
+        <div>
+          <ul class="has-list-bullet">
+            <li data-line="0">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Strahd comes from a royal bloodline
               <ul class="has-list-bullet">
-<li data-line="3">
-<div class="list-bullet"></div>Some have old souls, but many do not
+                <li data-line="1">
+                  <div class="list-bullet"></div>He died centuries ago yet endures as one of the undead, feasting on the blood of the living
                 </li>
-<li data-line="4">
-<div class="list-bullet"></div>The soulless ones are easy to spot, for they know nothing but fear
+                <li data-line="2">
+                  <div class="list-bullet"></div>Barovians refer to him as "the devil Strahd"
                 </li>
-<li data-line="5">
-<div class="list-bullet"></div>They have no charm, hope, or spark, and they don't cry
-                </li>
-</ul>
-</li>
-<li data-line="6">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>The <a class="internal-link" data-href="Old Svalich Road" href="../locations/old-svalich-road.html" rel="noopener" target="_self">Old Svalich Road</a> passes through Strahd's domain
+              </ul>
+            </li>
+            <li data-line="3">
+              <div class="list-bullet"></div>Strahd has taken many consorts, but he has known only one true love: a Barovian peasant girl named <a data-href="Tatyana" href="../characters/tatyana.html" class="internal-link" target="_self" rel="noopener">Tatyana</a>. ( the Vistani don't know what happened to her)
+            </li>
+            <li data-line="4">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Strahd named the castle, <a data-tooltip-position="top" aria-label="Castle Ravenloft" data-href="Castle Ravenloft" href="../locations/castle-ravenloft.html" class="internal-link" target="_self" rel="noopener">Ravenloft</a>, after his beloved mother, <a data-href="Queen Ravenovia" href="Queen Ravenovia" class="internal-link is-unresolved" target="_self" rel="noopener">Queen Ravenovia</a>
               <ul class="has-list-bullet">
-<li data-line="7">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Three settlements lie on the road like beads on a string
+                <li data-line="5">
+                  <div class="list-bullet"></div>Strangers aren't welcomed at the castle without an invite
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-heading="The Land of Barovia" id="The_Land_of_Barovia">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>The Land of Barovia
+          </h3>
+        </div>
+        <div>
+          <ul class="has-list-bullet">
+            <li data-line="0">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Strahd conquered this land centuries ago and named it after his father <a data-href="King Barov" href="King Barov" class="internal-link is-unresolved" target="_self" rel="noopener">King Barov</a>
+              <ul class="has-list-bullet">
+                <li data-line="1">
+                  <div class="list-bullet"></div>Strahd uses wolves, bats, and other creatures to spy on all of his realm
+                </li>
+              </ul>
+            </li>
+            <li data-line="2">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Barovians are simple, frightened people
+              <ul class="has-list-bullet">
+                <li data-line="3">
+                  <div class="list-bullet"></div>Some have old souls, but many do not
+                </li>
+                <li data-line="4">
+                  <div class="list-bullet"></div>The soulless ones are easy to spot, for they know nothing but fear
+                </li>
+                <li data-line="5">
+                  <div class="list-bullet"></div>They have no charm, hope, or spark, and they don't cry
+                </li>
+              </ul>
+            </li>
+            <li data-line="6">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>The <a data-href="Old Svalich Road" href="../locations/old-svalich-road.html" class="internal-link" target="_self" rel="noopener">Old Svalich Road</a> passes through Strahd's domain
+              <ul class="has-list-bullet">
+                <li data-line="7">
+                  <div class="list-bullet"></div>
+                  <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div>Three settlements lie on the road like beads on a string
                   <ul class="has-list-bullet">
-<li data-line="8">
-<div class="list-bullet"></div><a class="internal-link is-unresolved" data-href="Krezk" href="Krezk" rel="noopener" target="_self">Krezk</a> to the west
+                    <li data-line="8">
+                      <div class="list-bullet"></div><a data-href="Krezk" href="Krezk" class="internal-link is-unresolved" target="_self" rel="noopener">Krezk</a> to the west
                     </li>
-<li data-line="9">
-<div class="list-bullet"></div><a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a> in the heart of the valley
+                    <li data-line="9">
+                      <div class="list-bullet"></div><a data-href="Vallaki" href="Vallaki" class="internal-link is-unresolved" target="_self" rel="noopener">Vallaki</a> in the heart of the valley
                     </li>
-<li data-line="10">
-<div class="list-bullet"></div><a aria-label="Village of Barovia (E)" class="internal-link" data-href="Village of Barovia (E)" data-tooltip-position="top" href="../locations/village-of-barovia-(e).html" rel="noopener" target="_self">Barovia</a> to the east
+                    <li data-line="10">
+                      <div class="list-bullet"></div><a data-tooltip-position="top" aria-label="Village of Barovia (E)" data-href="Village of Barovia (E)" href="../locations/village-of-barovia-(e).html" class="internal-link" target="_self" rel="noopener">Barovia</a> to the east
                     </li>
-<li data-line="11">
-<div class="list-bullet"></div>Strahd has spies in each settlement
+                    <li data-line="11">
+                      <div class="list-bullet"></div>Strahd has spies in each settlement
                     </li>
-</ul>
-</li>
-</ul>
-</li>
-<li data-line="12">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>There's an old windmill (<a class="internal-link is-unresolved" data-href="Old Bonegrinder" href="Old Bonegrinder" rel="noopener" target="_self">Old Bonegrinder</a>) on the road between the <a class="internal-link" data-href="Village of Barovia (E)" href="../locations/village-of-barovia-(e).html" rel="noopener" target="_self">Village of Barovia (E)</a> and the town of <a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a>
-<ul class="has-list-bullet">
-<li data-line="13">
-<div class="list-bullet"></div>It should be avoided at all costs! (They refuse to say more)
+                  </ul>
                 </li>
-</ul>
-</li>
-<li data-line="14">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>It is wise to stick to the road
+              </ul>
+            </li>
+            <li data-line="12">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>There's an old windmill (<a data-href="Old Bonegrinder" href="Old Bonegrinder" class="internal-link is-unresolved" target="_self" rel="noopener">Old Bonegrinder</a>) on the road between the <a data-href="Village of Barovia (E)" href="../locations/village-of-barovia-(e).html" class="internal-link" target="_self" rel="noopener">Village of Barovia (E)</a> and the town of <a data-href="Vallaki" href="Vallaki" class="internal-link is-unresolved" target="_self" rel="noopener">Vallaki</a>
               <ul class="has-list-bullet">
-<li data-line="15">
-<div class="list-bullet"></div>Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the <a class="internal-link is-unresolved" data-href="Svalich Woods" href="Svalich Woods" rel="noopener" target="_self">Svalich Woods</a>
-</li>
-</ul>
-</li>
-</ul>
-</div>
-<div>
-<h3 data-heading="Beliefs and Superstitions" id="Beliefs_and_Superstitions">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Beliefs and Superstitions
+                <li data-line="13">
+                  <div class="list-bullet"></div>It should be avoided at all costs! (They refuse to say more)
+                </li>
+              </ul>
+            </li>
+            <li data-line="14">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>It is wise to stick to the road
+              <ul class="has-list-bullet">
+                <li data-line="15">
+                  <div class="list-bullet"></div>Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the <a data-href="Svalich Woods" href="Svalich Woods" class="internal-link is-unresolved" target="_self" rel="noopener">Svalich Woods</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-heading="Beliefs and Superstitions" id="Beliefs_and_Superstitions">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Beliefs and Superstitions
           </h3>
-</div>
-<div>
-<ul class="has-list-bullet">
-<li data-line="0">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>The souls of those who die in Barovia can't escape to the afterlife
+        </div>
+        <div>
+          <ul class="has-list-bullet">
+            <li data-line="0">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>The souls of those who die in Barovia can't escape to the afterlife
               <ul class="has-list-bullet">
-<li data-line="1">
-<div class="list-bullet"></div>They are prisoners of Strahd's domain
+                <li data-line="1">
+                  <div class="list-bullet"></div>They are prisoners of Strahd's domain
                 </li>
-</ul>
-</li>
-<li data-line="2">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Some Vistani women are blessed with prescience
+              </ul>
+            </li>
+            <li data-line="2">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Some Vistani women are blessed with prescience
               <ul class="has-list-bullet">
-<li data-line="3">
-<div class="list-bullet"></div>Of all the great Vistani fortune-tellers, none compares to <a class="internal-link" data-href="Madam Eva" href="../characters/madam-eva.html" rel="noopener" target="_self">Madam Eva</a>
-</li>
-<li data-line="4">
-<div class="list-bullet"></div>If knowledge of the future is what you seek, <a class="internal-link" data-href="Madam Eva" href="../characters/madam-eva.html" rel="noopener" target="_self">Madam Eva</a> will tell you your fate
+                <li data-line="3">
+                  <div class="list-bullet"></div>Of all the great Vistani fortune-tellers, none compares to <a data-href="Madam Eva" href="../characters/madam-eva.html" class="internal-link" target="_self" rel="noopener">Madam Eva</a>
                 </li>
-</ul>
-</li>
-<li data-line="5">
-<div class="list-bullet"></div>
-<div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>A prescient Vistana can't see her own future or the future of another Vistana
+                <li data-line="4">
+                  <div class="list-bullet"></div>If knowledge of the future is what you seek, <a data-href="Madam Eva" href="../characters/madam-eva.html" class="internal-link" target="_self" rel="noopener">Madam Eva</a> will tell you your fate
+                </li>
+              </ul>
+            </li>
+            <li data-line="5">
+              <div class="list-bullet"></div>
+              <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>A prescient Vistana can't see her own future or the future of another Vistana
               <ul class="has-list-bullet">
-<li data-line="6">
-<div class="list-bullet"></div>It is the burden of the Vistani's great gift that their own fates can't be divined
+                <li data-line="6">
+                  <div class="list-bullet"></div>It is the burden of the Vistani's great gift that their own fates can't be divined
                 </li>
-</ul>
-</li>
-<li data-line="7">
-<div class="list-bullet"></div>Vistani curses are potent, but they are invoked with great caution
+              </ul>
             </li>
-<li data-line="8">
-<div class="list-bullet"></div>Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
+            <li data-line="7">
+              <div class="list-bullet"></div>Vistani curses are potent, but they are invoked with great caution
             </li>
-<li data-line="9">
-<div class="list-bullet"></div>Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry lost sols within)
+            <li data-line="8">
+              <div class="list-bullet"></div>Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
             </li>
-</ul>
-</div>
-<div>
-<h2 data-heading="Vistani Curses" id="Vistani_Curses">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Vistani Curses
+            <li data-line="9">
+              <div class="list-bullet"></div>Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry lost sols within)
+            </li>
+          </ul>
+        </div>
+        <div>
+          <h2 data-heading="Vistani Curses" id="Vistani_Curses">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Vistani Curses
           </h2>
-</div>
-<div>
-<p><a class="tag" href="#todo" rel="noopener" target="_blank">#todo</a> </p>
-</div>
-<div>
-<h2 data-heading="Evil Eye" id="Evil_Eye">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>Evil Eye
+        </div>
+        <div>
+          <p><a href="#todo" class="tag" target="_blank" rel="noopener">#todo</a> </p>
+        </div>
+        <div>
+          <h2 data-heading="Evil Eye" id="Evil_Eye">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Evil Eye
           </h2>
-</div>
-<div>
-<p><a class="tag" href="#todo" rel="noopener" target="_blank">#todo</a> </p>
-</div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
-</div>
-</div>
-</div>
-<div class="sidebar-right" id="sidebar">
-<div class="sidebar-content">
-<div class="outline-container" data-size="0">
-<div class="outline-header">
-<h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>
-</div>
-<div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Vistani">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Vistani</span>
-</a>
-<div class="outline-item-children">
-<div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Vistani_Lore">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Vistani Lore</span>
-</a>
-<div class="outline-item-children">
-<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Strahd_Von_Zarovich">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Strahd Von Zarovich</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#The_Land_of_Barovia">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">The Land of Barovia</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Beliefs_and_Superstitions">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Beliefs and Superstitions</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-</div>
-</div>
-<div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Vistani_Curses">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Vistani Curses</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-<div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Evil_Eye">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Evil Eye</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+        </div>
+        <div>
+          <p><a href="#todo" class="tag" target="_blank" rel="noopener">#todo</a> </p>
+        </div>
+        <div class="mod-footer">
+          <div class="embedded-backlinks" style="display: none;"></div>
+        </div>
+      </div>
+    </div>
+    <div id="sidebar" class="sidebar-right">
+      <div class="sidebar-content">
+        <div class="outline-container" data-size="0">
+          <div class="outline-header">
+            <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button>
+          </div>
+          <div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Vistani">
+              <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div><span class="outline-item-title">Vistani</span>
+            </a>
+            <div class="outline-item-children">
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Vistani_Lore">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Vistani Lore</span>
+                </a>
+                <div class="outline-item-children">
+                  <div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Strahd_Von_Zarovich">
+                      <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                          <path d="M3 8L12 17L21 8"></path>
+                        </svg></div><span class="outline-item-title">Strahd Von Zarovich</span>
+                    </a>
+                    <div class="outline-item-children"></div>
+                  </div>
+                  <div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#The_Land_of_Barovia">
+                      <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                          <path d="M3 8L12 17L21 8"></path>
+                        </svg></div><span class="outline-item-title">The Land of Barovia</span>
+                    </a>
+                    <div class="outline-item-children"></div>
+                  </div>
+                  <div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Beliefs_and_Superstitions">
+                      <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                          <path d="M3 8L12 17L21 8"></path>
+                        </svg></div><span class="outline-item-title">Beliefs and Superstitions</span>
+                    </a>
+                    <div class="outline-item-children"></div>
+                  </div>
+                </div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Vistani_Curses">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Vistani Curses</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Evil_Eye">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Evil Eye</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </body>
+
 </html>
