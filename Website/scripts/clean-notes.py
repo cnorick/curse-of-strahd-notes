@@ -8,7 +8,6 @@ with open(sys.argv[1], 'r+') as my_file:
   
   # Make all non-absolute links relative to the root
   for a in soup.find_all('a'):
-    print(a['href'])
     if(not a['href'].startswith('http')):
       # a['href'] = '/' + a['href']
       # Temp fix for html exporter bug

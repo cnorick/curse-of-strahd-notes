@@ -191,6 +191,7 @@
   },
   "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Website/scripts/fix-broken-urls.py",
     "Assets/Templates/Character.md",
     "Campaign Notes.md",
     "Campaign/Session 0.md",
@@ -216,7 +217,6 @@
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
