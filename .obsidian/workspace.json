@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 3.md",
-                "mode": "preview",
+                "file": "Handouts/Items/Cloak of Protection.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 3.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 3.md"
+                "file": "Handouts/Items/Cloak of Protection.md"
               }
             }
           }
@@ -157,11 +157,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7fc8a6c354e05ff1",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Session Notes/Session 3.md",
+    "Handouts/Items/Cloak of Protection.md",
     "Campaign Notes.md",
     "Characters/Gustav Durst.md",
-    "Session Notes/Session 3.md",
     "Locations/Death House.md",
     "Handouts/Maps/Village of Barovia.md",
     "Handouts/Items/Cultist Logbook.md",
@@ -189,7 +190,6 @@
     "Characters/Donavich.md",
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
-    "Characters/Elora.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
