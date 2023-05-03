@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
+                "file": "Handouts/Images/Death House Front.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
+                "file": "Handouts/Images/Death House Front.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
+                "file": "Handouts/Images/Death House Front.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Elisabeth Durst's Unsent Letter.md"
+                "file": "Handouts/Images/Death House Front.md"
               }
             }
           }
@@ -189,14 +189,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Items/Handouts/Death House Front.md",
-    "Items/Handouts/Elisabeth Durst's Unsent Letter.md",
-    "Items/Handouts/Gustav Durst's Suicide Note.md",
-    "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Items/Handouts/Rose and Thorne.md",
-    "Items/Cultist Logbook.md",
+    "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Maps",
+    "Handouts/Items",
+    "Handouts/Images",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Rose and Thorne.md",
+    "Handouts/Cultist Logbook.md",
     "Campaign Notes.md",
     "Website/scripts/fix-broken-urls.py.f94e58f498912fff383a8add6b80f357.tmp",
     "Website/scripts/fix-broken-urls.py",
@@ -218,15 +222,11 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
     "Website/site/no-spoilers/campaign-notes/styles/plugin-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles",
-    "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
-    "Website/site/no-spoilers/campaign-notes/scripts",
-    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
