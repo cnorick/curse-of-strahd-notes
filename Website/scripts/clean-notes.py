@@ -10,6 +10,7 @@ with open(sys.argv[1], 'r+', encoding='utf-16') as my_file:
   for a in soup.findAll('a'):
     if(not a['href'].startswith('http')):
       # a['href'] = '/' + a['href']
+      # Temp fix for html exporter bug
       a['href'] = '/' + a['href'].replace('users/nathan/appdata/local/obsidian', '/')
 
   # Hide all the links in the session notes
