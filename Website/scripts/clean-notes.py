@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import sys
 
 cleanContent = ''
-with open(sys.argv[1], 'r+', encoding='utf-16') as my_file:
+with open(sys.argv[1], 'r+') as my_file:
   text = my_file.read()
   soup = BeautifulSoup(text)
   
