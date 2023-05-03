@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "3ae5537c709bb7ef",
   "lastOpenFiles": [
+    "Handouts/Items/Cloak of Protection.md",
     "Campaign Notes.md",
     "Misc/Guest as Granny.md",
-    "Handouts/Items/Cloak of Protection.md",
     "Handouts/Items/Cultist Logbook.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
