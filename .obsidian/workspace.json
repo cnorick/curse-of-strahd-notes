@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b67f2892481e5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ae5537c709bb7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Campaign Notes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Items/Cloak of Protection.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -168,8 +156,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3b67f2892481e5a8",
+  "active": "3ae5537c709bb7ef",
   "lastOpenFiles": [
+    "Misc/Guest as Granny.md",
+    "Handouts/Items/Cloak of Protection.md",
+    "Handouts/Items/Cultist Logbook.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
@@ -180,9 +171,7 @@
     "Website/site/handouts/images/items",
     "Website/site/handouts/images/death-house-front.html",
     "Website/site/handouts/letters/kolyan-indirovich's-v1-letter.html",
-    "Website/site/handouts/letters/strahd's-invitation.html",
     "Assets/Templates/Character.md",
-    "Handouts/Images/Items/Cloak of Protection.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
@@ -205,7 +194,6 @@
     "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
