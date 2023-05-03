@@ -10173,20 +10173,17 @@ __export(main_exports, {
   default: () => HTMLExportPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian5 = require("obsidian");
-
-// scripts/export-settings.ts
 var import_obsidian4 = require("obsidian");
 
-// scripts/utils.ts
-var import_fs3 = require("fs");
-var import_obsidian2 = require("obsidian");
+// scripts/export-settings.ts
+var import_obsidian3 = require("obsidian");
 
-// scripts/UtilClasses.ts
+// scripts/utils.ts
 var import_fs = require("fs");
 var import_obsidian = require("obsidian");
-var import_fs2 = require("fs");
+var import_process = __toESM(require("process"));
 var pathTools = require_upath();
+var dialog = require("electron").remote.dialog;
 var Downloadable = class {
   constructor(filename, content, type = "text/plain", vaultRelativeDestination, useUnicode = true) {
     this.filename = "";
@@ -10212,7 +10209,7 @@ var _Path = class {
     this._isDirectory = false;
     this._isFile = false;
     this._exists = void 0;
-    this._isWindows = process.platform === "win32";
+    this._isWindows = import_process.default.platform == "win32";
     this._workingDirectory = _Path.parsePath(workingDirectory).fullPath;
     this.reparse(path);
     if (this.isAbsolute)
@@ -10457,9 +10454,9 @@ var _Path = class {
   absolute(workingDirectory = this._workingDirectory) {
     return this.copy.makeAbsolute(workingDirectory);
   }
-  async createDirectory() {
+  createDirectory() {
     if (!this.exists) {
-      await import_fs2.promises.mkdir(this.absolute().directory.asString, { recursive: true });
+      (0, import_fs.mkdirSync)(this.absolute().directory.asString, { recursive: true });
       return true;
     }
     return false;
@@ -10467,9 +10464,6 @@ var _Path = class {
 };
 var Path = _Path;
 Path.vaultPathCache = void 0;
-
-// scripts/utils.ts
-var dialog = require("electron").remote.dialog;
 var Utils = class {
   static async delay(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms));
@@ -10509,32 +10503,44 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
     };
   }
   static async getText(path) {
-    try {
-      return await import_fs3.promises.readFile(path.absolute().asString, { encoding: "utf8" });
-    } catch (err) {
-      new import_obsidian2.Notice("Error: could not read text file at path: \n\n" + path + "\n\n" + err, 1e4);
-      console.error("Error: could not read text file at path: \n\n" + path + "\n\n" + err);
-    }
+    return new Promise((resolve, reject) => {
+      (0, import_fs.readFile)(path.absolute().asString, { encoding: "utf8" }, (err, data) => {
+        if (err) {
+          new import_obsidian.Notice("Error: could not read text file at path: \n\n" + path + "\n\n" + err, 1e4);
+          console.error("Error: could not read text file at path: \n\n" + path + "\n\n" + err);
+          resolve(void 0);
+        } else
+          resolve(data);
+      });
+    });
   }
   static async getTextBase64(path) {
-    try {
-      return await import_fs3.promises.readFile(path.absolute().asString, { encoding: "base64" });
-    } catch (err) {
-      new import_obsidian2.Notice("Error: could not read text file at path: \n\n" + path + "\n\n" + err, 1e4);
-      console.error("Error: could not read text file at path: \n\n" + path + "\n\n" + err);
-    }
+    return new Promise((resolve, reject) => {
+      (0, import_fs.readFile)(path.absolute().asString, { encoding: "base64" }, (err, data) => {
+        if (err) {
+          new import_obsidian.Notice("Error: could not read base64 text file at path: \n\n" + path + "\n\n" + err, 1e4);
+          console.error("Error: could not read base64 text file at path: \n\n" + path + "\n\n" + err);
+          reject(err);
+        } else
+          resolve(data);
+      });
+    });
   }
   static async getFileBuffer(path) {
-    try {
-      return await import_fs3.promises.readFile(path.absolute().asString);
-    } catch (err) {
-      new import_obsidian2.Notice("Error: could not read file at path: \n\n" + path + "\n\n" + err, 1e4);
-      console.error("Error: could not read file at path: \n\n" + path + "\n\n" + err);
-    }
+    return new Promise((resolve, reject) => {
+      (0, import_fs.readFile)(path.absolute().asString, (err, data) => {
+        if (err) {
+          new import_obsidian.Notice("Error: could not read file at path: \n\n" + path + "\n\n" + err, 1e4);
+          console.error("Error: could not read file at path: \n\n" + path + "\n\n" + err);
+          resolve(void 0);
+        } else
+          resolve(data);
+      });
+    });
   }
-  static async changeViewMode(view, modeName) {
+  static changeViewMode(view, modeName) {
     const mode = view.modes[modeName];
-    mode && await view.setMode(mode);
+    mode && view.setMode(mode);
   }
   static createUnicodeArray(content) {
     let charCode, byteArray = [];
@@ -10591,9 +10597,9 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
     }
     return Path.vaultPath;
   }
-  static async downloadFiles(files, folderPath, progressCallback = void 0, errorCallback = void 0) {
-    if (progressCallback)
-      progressCallback(0, files.length, "...");
+  static async downloadFiles(files, folderPath, showProgress) {
+    let lastProgressMessage = Utils.generateProgressbar("Saving Files", 1, files.length, 15, "\u25B0", "\u25B1");
+    let progressNotice = new import_obsidian.Notice(lastProgressMessage, 0);
     try {
       for (let i = 0; i < files.length; i++) {
         let file = files[i];
@@ -10603,25 +10609,24 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
         if (file.useUnicode && file.content instanceof String)
           array = Utils.createUnicodeArray(file.content.toString());
         let parsedPath = folderPath.join(file.relativeDownloadPath).joinString(file.filename);
-        await parsedPath.createDirectory();
+        parsedPath.createDirectory();
         if (!parsedPath.directory.assertExists())
           continue;
-        try {
-          await import_fs3.promises.writeFile(parsedPath.asString, array);
-        } catch (err) {
-          console.error("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err);
-          new import_obsidian2.Notice("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err, 1e4);
-          continue;
-        }
-        if (progressCallback)
-          progressCallback(i, files.length, file.filename);
+        (0, import_fs.writeFile)(parsedPath.asString, array, (err) => {
+          if (err) {
+            console.error("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err);
+            new import_obsidian.Notice("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err, 1e4);
+          }
+        });
+        lastProgressMessage = Utils.generateProgressbar("Saving Files", i + 1, files.length, 15, "\u25B0", "\u25B1");
+        progressNotice.setMessage(lastProgressMessage);
       }
     } catch (e) {
-      if (errorCallback)
-        errorCallback(e);
+      progressNotice.setMessage("\u2757 " + lastProgressMessage);
       console.error("Error while saving HTML files: \n\n" + e);
       return;
     }
+    progressNotice.hide();
   }
   static async waitUntil(condition, timeout = 1e3, interval = 100) {
     return new Promise((resolve, reject) => {
@@ -10629,12 +10634,12 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
       let intervalId = setInterval(() => {
         if (condition()) {
           clearInterval(intervalId);
-          resolve(true);
+          resolve();
         } else {
           timer += interval;
           if (timer >= timeout) {
             clearInterval(intervalId);
-            resolve(false);
+            reject();
           }
         }
       }, interval);
@@ -10647,7 +10652,7 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
     let themePath = new Path(`.obsidian/themes/${themeName}/theme.css`).absolute();
     if (!themePath.exists) {
       console.warn("Warning: could not find theme at path: \n\n" + themePath);
-      new import_obsidian2.Notice("Warning: could not find theme at path: \n\n" + themePath, 1e3);
+      new import_obsidian.Notice("Warning: could not find theme at path: \n\n" + themePath, 1e3);
       return "";
     }
     let themeContent = (_a = await Utils.getText(themePath)) != null ? _a : "";
@@ -10689,11 +10694,15 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
   }
   static async rerenderView(view) {
     await Utils.delay(300);
-    await view.previewMode.renderer.rerender(true);
+    await view.previewMode.renderer.rerender();
     await Utils.delay(300);
   }
   static async doFullRender(view) {
-    await view.previewMode.renderer.rerender(true);
+    Utils.changeViewMode(view, "preview");
+    await this.delay(200);
+    view.previewMode.renderer.showAll = true;
+    await view.previewMode.renderer.unfoldAllHeadings();
+    await this.rerenderView(view);
   }
   static async getRendererHeight(view, rerender = false) {
     if (rerender)
@@ -10702,7 +10711,7 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
     return height;
   }
   static getActiveTextView() {
-    let view = app.workspace.getActiveViewOfType(import_obsidian2.TextFileView);
+    let view = app.workspace.getActiveViewOfType(import_obsidian.TextFileView);
     if (!view) {
       return null;
     }
@@ -10732,9 +10741,9 @@ ${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(bar
 // scripts/export-settings.ts
 var import_promises2 = require("fs/promises");
 
-// scripts/html-generator.ts
+// scripts/html-gen.ts
 var import_promises = require("fs/promises");
-var import_obsidian3 = require("obsidian");
+var import_obsidian2 = require("obsidian");
 var import_jquery = __toESM(require_jquery());
 
 // scripts/graph-view/graph-gen.ts
@@ -10805,37 +10814,52 @@ var GraphGenerator = class {
   }
 };
 
-// scripts/html-generator.ts
+// scripts/html-gen.ts
 var import_js_beautify = __toESM(require_js());
 
 // scripts/leaf-handler.ts
 var LeafHandler = class {
-  static async openFileInNewLeaf(file, navType, splitDirection = "vertical") {
+  isMainPanelLeaf(leaf) {
     const { workspace } = app;
+    const root = leaf == null ? void 0 : leaf.getRoot();
+    return root === workspace.rootSplit || root === workspace.floatingSplit;
+  }
+  getOpenLeaves(excludeMainPanelViewTypes, includeSidePanelViewTypes) {
+    const leaves = [];
+    const saveLeaf = (l) => {
+      var _a;
+      const viewType = (_a = l.view) == null ? void 0 : _a.getViewType();
+      if (this.isMainPanelLeaf(l)) {
+        if (!(excludeMainPanelViewTypes == null ? void 0 : excludeMainPanelViewTypes.includes(viewType))) {
+          leaves.push(l);
+        }
+      } else if (includeSidePanelViewTypes == null ? void 0 : includeSidePanelViewTypes.includes(viewType)) {
+        leaves.push(l);
+      }
+    };
+    app.workspace.iterateAllLeaves(saveLeaf);
+    return leaves;
+  }
+  openFileInNewLeaf(file, navType, openState, errorContext, splitDirection = "vertical") {
+    const { workspace } = app;
+    errorContext = errorContext != null ? errorContext : "";
+    const message = `HTML Export: error opening file. ${errorContext}`;
     const getLeaf = () => {
       return navType === "split" ? workspace.getLeaf(navType, splitDirection) : workspace.getLeaf(navType);
     };
     let leaf = getLeaf();
     try {
-      await leaf.openFile(file, void 0).catch((reason) => {
-        console.log(reason);
+      leaf.openFile(file, openState).catch((reason) => {
+        console.log(message, reason);
       });
     } catch (error) {
-      console.log(error);
+      console.log(message, error);
     }
-    return leaf;
-  }
-  static openBlankLeaf(navType, splitDirection = "vertical") {
-    const { workspace } = app;
-    const getLeaf = () => {
-      return navType === "split" ? workspace.getLeaf(navType, splitDirection) : workspace.getLeaf(navType);
-    };
-    let leaf = getLeaf();
     return leaf;
   }
 };
 
-// scripts/html-generator.ts
+// scripts/html-gen.ts
 var $ = import_jquery.default;
 var ExportFile = class {
   constructor(file, exportToFolder, exportFromFolder, partOfBatch, fileName = "", forceExportToRoot = false) {
@@ -10879,76 +10903,57 @@ var ExportFile = class {
     return new Downloadable(this.name, this.html, "text/html", this.exportPath.directory, true);
   }
   async generateHTML(addSelfToDownloads = false) {
-    await HTMLGenerator.getDocumentHTML(this, addSelfToDownloads);
+    HTMLGenerator.getDocumentHTML(this, addSelfToDownloads);
     return this;
   }
   async generateWebpage() {
-    await HTMLGenerator.generateWebpage(this);
+    HTMLGenerator.generateWebpage(this);
     return this;
   }
 };
-var HTMLGenerator = class {
-  static generateErrorHTML(message) {
-    return `
-		<div class="markdown-preview-view markdown-rendered">
-			<center>
-				<h1>
-				Failed to render file, check obsidian log for details and report an issue on GitHub: 
-				<a href="https://github.com/KosmosisDire/obsidian-webpage-export/issues">Github Issues</a>
-				</h1>
-			</center>
-			<br>
-			<br>
-			<center>
-				<h3>
-					${message}
-				</h3>
-			</center>
-		</div>
-		`;
-  }
+var _HTMLGenerator = class {
   static async downloadAssets() {
     if (HTMLExportPlugin.updateInfo.updateAvailable)
       return;
-    await this.assetsPath.createDirectory();
-    let webpagejs = await fetch(this.webpagejsURL);
+    _HTMLGenerator.assetsPath.createDirectory();
+    let webpagejs = await fetch(_HTMLGenerator.webpagejsURL);
     let webpagejsText = await webpagejs.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("webpage.js").asString, webpagejsText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("webpage.js").asString, webpagejsText).catch((err) => {
       console.log(err);
     });
-    let pluginStyles = await fetch(this.pluginStylesURL);
+    let pluginStyles = await fetch(_HTMLGenerator.pluginStylesURL);
     let pluginStylesText = await pluginStyles.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("plugin-styles.css").asString, pluginStylesText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("plugin-styles.css").asString, pluginStylesText).catch((err) => {
       console.log(err);
     });
-    let obsidianStyles = await fetch(this.obsidianStylesURL);
+    let obsidianStyles = await fetch(_HTMLGenerator.obsidianStylesURL);
     let obsidianStylesText = await obsidianStyles.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("obsidian-styles.css").asString, obsidianStylesText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("obsidian-styles.css").asString, obsidianStylesText).catch((err) => {
       console.log(err);
     });
-    let graphViewJS = await fetch(this.graphViewJSURL);
+    let graphViewJS = await fetch(_HTMLGenerator.graphViewJSURL);
     let graphViewJSText = await graphViewJS.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("graph_view.js").asString, graphViewJSText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_view.js").asString, graphViewJSText).catch((err) => {
       console.log(err);
     });
-    let graphWASMJS = await fetch(this.graphWASMJSURL);
+    let graphWASMJS = await fetch(_HTMLGenerator.graphWASMJSURL);
     let graphWASMJSText = await graphWASMJS.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("graph_wasm.js").asString, graphWASMJSText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_wasm.js").asString, graphWASMJSText).catch((err) => {
       console.log(err);
     });
-    let graphWASM = await fetch(this.graphWASMURL);
+    let graphWASM = await fetch(_HTMLGenerator.graphWASMURL);
     let graphWASMBuffer = await graphWASM.arrayBuffer();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("graph_wasm.wasm").asString, Buffer.from(graphWASMBuffer)).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_wasm.wasm").asString, Buffer.from(graphWASMBuffer)).catch((err) => {
       console.log(err);
     });
-    let renderWorker = await fetch(this.renderWorkerURL);
+    let renderWorker = await fetch(_HTMLGenerator.renderWorkerURL);
     let renderWorkerText = await renderWorker.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("graph-render-worker.js").asString, renderWorkerText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph-render-worker.js").asString, renderWorkerText).catch((err) => {
       console.log(err);
     });
-    let tinycolor = await fetch(this.tinycolorURL);
+    let tinycolor = await fetch(_HTMLGenerator.tinycolorURL);
     let tinycolorText = await tinycolor.text();
-    await (0, import_promises.writeFile)(this.assetsPath.joinString("tinycolor.js").asString, tinycolorText).catch((err) => {
+    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("tinycolor.js").asString, tinycolorText).catch((err) => {
       console.log(err);
     });
   }
@@ -10962,7 +10967,7 @@ var HTMLGenerator = class {
         break;
       }
     }
-    this.appStyles += await Utils.getText(this.assetsPath.joinString("obsidian-styles.css"));
+    _HTMLGenerator.appStyles += await Utils.getText(_HTMLGenerator.assetsPath.joinString("obsidian-styles.css"));
     for (let i = 0; i < appSheet.cssRules.length; i++) {
       let rule = appSheet.cssRules[i];
       if (rule) {
@@ -10975,27 +10980,26 @@ var HTMLGenerator = class {
         let cssText = rule.cssText + "\n";
         cssText = cssText.replaceAll("public/", "https://publish.obsidian.md/public/");
         cssText = cssText.replaceAll("lib/", "https://publish.obsidian.md/lib/");
-        this.appStyles += cssText;
+        _HTMLGenerator.appStyles += cssText;
       }
     }
   }
   static async initialize(pluginID) {
     var _a, _b, _c, _d, _e, _f, _g;
-    this.vaultPluginsPath = Path.vaultPath.joinString(app.vault.configDir, "plugins/").makeAbsolute();
-    this.thisPluginPath = this.vaultPluginsPath.joinString(pluginID + "/").makeAbsolute();
-    this.assetsPath = this.thisPluginPath.joinString("assets/").makeAbsolute();
-    await this.assetsPath.createDirectory();
-    if (this.autoDownloadExtras)
-      await this.downloadAssets();
-    await this.loadAppStyles();
-    this.pluginStyles = (_a = await Utils.getText(this.assetsPath.joinString("plugin-styles.css"))) != null ? _a : "";
-    this.themeStyles = await Utils.getThemeContent(Utils.getCurrentThemeName());
-    this.webpageJS = (_b = await Utils.getText(this.assetsPath.joinString("webpage.js"))) != null ? _b : "";
-    this.graphViewJS = (_c = await Utils.getText(this.assetsPath.joinString("graph_view.js"))) != null ? _c : "";
-    this.graphWASMJS = (_d = await Utils.getText(this.assetsPath.joinString("graph_wasm.js"))) != null ? _d : "";
-    this.graphWASM = (_e = await Utils.getFileBuffer(this.assetsPath.joinString("graph_wasm.wasm"))) != null ? _e : Buffer.from([]);
-    this.renderWorkerJS = (_f = await Utils.getText(this.assetsPath.joinString("graph-render-worker.js"))) != null ? _f : "";
-    this.tinyColorJS = (_g = await Utils.getText(this.assetsPath.joinString("tinycolor.js"))) != null ? _g : "";
+    _HTMLGenerator.thisPluginPath = _HTMLGenerator.vaultPluginsPath.joinString(pluginID + "/").makeAbsolute();
+    _HTMLGenerator.assetsPath = _HTMLGenerator.thisPluginPath.joinString("assets/").makeAbsolute();
+    _HTMLGenerator.assetsPath.createDirectory();
+    if (_HTMLGenerator.autoDownloadExtras)
+      await _HTMLGenerator.downloadAssets();
+    await _HTMLGenerator.loadAppStyles();
+    _HTMLGenerator.pluginStyles = (_a = await Utils.getText(_HTMLGenerator.assetsPath.joinString("plugin-styles.css"))) != null ? _a : "";
+    _HTMLGenerator.themeStyles = await Utils.getThemeContent(Utils.getCurrentThemeName());
+    _HTMLGenerator.webpageJS = (_b = await Utils.getText(_HTMLGenerator.assetsPath.joinString("webpage.js"))) != null ? _b : "";
+    _HTMLGenerator.graphViewJS = (_c = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph_view.js"))) != null ? _c : "";
+    _HTMLGenerator.graphWASMJS = (_d = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph_wasm.js"))) != null ? _d : "";
+    _HTMLGenerator.graphWASM = (_e = await Utils.getFileBuffer(_HTMLGenerator.assetsPath.joinString("graph_wasm.wasm"))) != null ? _e : Buffer.from([]);
+    _HTMLGenerator.renderWorkerJS = (_f = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph-render-worker.js"))) != null ? _f : "";
+    _HTMLGenerator.tinyColorJS = (_g = await Utils.getText(_HTMLGenerator.assetsPath.joinString("tinycolor.js"))) != null ? _g : "";
   }
   static async getThirdPartyPluginCSS() {
     let pluginCSS = "";
@@ -11003,7 +11007,7 @@ var HTMLGenerator = class {
     for (let i = 0; i < thirdPartyPluginStyleNames.length; i++) {
       if (!thirdPartyPluginStyleNames[i] || thirdPartyPluginStyleNames[i] && !/\S/.test(thirdPartyPluginStyleNames[i]))
         continue;
-      let path = this.vaultPluginsPath.joinString(thirdPartyPluginStyleNames[i].replace("\n", ""), "styles.css");
+      let path = _HTMLGenerator.vaultPluginsPath.joinString(thirdPartyPluginStyleNames[i].replace("\n", ""), "styles.css");
       if (!path.exists)
         continue;
       let style = await Utils.getText(path);
@@ -11028,40 +11032,42 @@ var HTMLGenerator = class {
   static async updateCSSCache() {
     let snippetsNames = await Utils.getEnabledSnippets();
     let themeName = Utils.getCurrentThemeName();
-    if (snippetsNames != this.lastEnabledSnippets) {
-      this.lastEnabledSnippets = snippetsNames;
-      this.snippetStyles = await this.getSnippetsCSS(snippetsNames);
+    if (snippetsNames != _HTMLGenerator.lastEnabledSnippets) {
+      _HTMLGenerator.lastEnabledSnippets = snippetsNames;
+      _HTMLGenerator.snippetStyles = await _HTMLGenerator.getSnippetsCSS(snippetsNames);
     }
-    if (themeName != this.lastEnabledTheme) {
-      this.lastEnabledTheme = themeName;
-      this.themeStyles = await Utils.getThemeContent(themeName);
+    if (themeName != _HTMLGenerator.lastEnabledTheme) {
+      _HTMLGenerator.lastEnabledTheme = themeName;
+      _HTMLGenerator.themeStyles = await Utils.getThemeContent(themeName);
     }
+    _HTMLGenerator.mathStyles = window.MathJax.chtmlStylesheet().innerHTML.replaceAll("app://obsidian.md/", "https://publish.obsidian.md/");
   }
   static async getAssetDownloads() {
     let toDownload = [];
     if (!ExportSettings.settings.inlineCSS) {
-      let pluginCSS = this.pluginStyles;
-      let thirdPartyPluginCSS = await this.getThirdPartyPluginCSS();
+      _HTMLGenerator.updateCSSCache();
+      let pluginCSS = _HTMLGenerator.pluginStyles;
+      let thirdPartyPluginCSS = await _HTMLGenerator.getThirdPartyPluginCSS();
       pluginCSS += "\n" + thirdPartyPluginCSS + "\n";
-      let appcssDownload = new Downloadable("obsidian-styles.css", this.appStyles, "text/css", this.cssFolderName);
-      let plugincssDownload = new Downloadable("plugin-styles.css", pluginCSS, "text/css", this.cssFolderName);
-      let themecssDownload = new Downloadable("theme.css", this.themeStyles, "text/css", this.cssFolderName);
-      let snippetsDownload = new Downloadable("snippets.css", this.snippetStyles, "text/css", this.cssFolderName);
+      let appcssDownload = new Downloadable("obsidian-styles.css", _HTMLGenerator.appStyles, "text/css", _HTMLGenerator.cssFolderName);
+      let plugincssDownload = new Downloadable("plugin-styles.css", pluginCSS, "text/css", _HTMLGenerator.cssFolderName);
+      let themecssDownload = new Downloadable("theme.css", _HTMLGenerator.themeStyles, "text/css", _HTMLGenerator.cssFolderName);
+      let snippetsDownload = new Downloadable("snippets.css", _HTMLGenerator.snippetStyles, "text/css", _HTMLGenerator.cssFolderName);
       toDownload.push(appcssDownload);
       toDownload.push(plugincssDownload);
       toDownload.push(themecssDownload);
       toDownload.push(snippetsDownload);
     }
     if (!ExportSettings.settings.inlineJS) {
-      let webpagejsDownload = new Downloadable("webpage.js", this.webpageJS, "text/javascript", this.jsFolderName);
+      let webpagejsDownload = new Downloadable("webpage.js", _HTMLGenerator.webpageJS, "text/javascript", _HTMLGenerator.jsFolderName);
       toDownload.push(webpagejsDownload);
     }
     if (ExportSettings.settings.includeGraphView) {
-      let graphWASMDownload = new Downloadable("graph_wasm.wasm", this.graphWASM, "application/wasm", this.jsFolderName, false);
-      let renderWorkerJSDownload = new Downloadable("graph-render-worker.js", this.renderWorkerJS, "text/javascript", this.jsFolderName);
-      let graphWASMJSDownload = new Downloadable("graph_wasm.js", this.graphWASMJS, "text/javascript", this.jsFolderName);
-      let graphViewJSDownload = new Downloadable("graph_view.js", this.graphViewJS, "text/javascript", this.jsFolderName);
-      let tinyColorJS = new Downloadable("tinycolor.js", this.tinyColorJS, "text/javascript", this.jsFolderName);
+      let graphWASMDownload = new Downloadable("graph_wasm.wasm", _HTMLGenerator.graphWASM, "application/wasm", _HTMLGenerator.jsFolderName, false);
+      let renderWorkerJSDownload = new Downloadable("graph-render-worker.js", _HTMLGenerator.renderWorkerJS, "text/javascript", _HTMLGenerator.jsFolderName);
+      let graphWASMJSDownload = new Downloadable("graph_wasm.js", _HTMLGenerator.graphWASMJS, "text/javascript", _HTMLGenerator.jsFolderName);
+      let graphViewJSDownload = new Downloadable("graph_view.js", _HTMLGenerator.graphViewJS, "text/javascript", _HTMLGenerator.jsFolderName);
+      let tinyColorJS = new Downloadable("tinycolor.js", _HTMLGenerator.tinyColorJS, "text/javascript", _HTMLGenerator.jsFolderName);
       toDownload.push(renderWorkerJSDownload);
       toDownload.push(graphWASMDownload);
       toDownload.push(graphWASMJSDownload);
@@ -11070,114 +11076,26 @@ var HTMLGenerator = class {
     }
     return toDownload;
   }
-  static async beginBatch() {
-    GraphGenerator.clearGraphCache();
-    this.updateCSSCache();
-    this.renderLeaf = LeafHandler.openBlankLeaf("window", "vertical");
-    let parentFound = await Utils.waitUntil(() => this.renderLeaf && this.renderLeaf.parent, 2e3, 10);
-    if (!parentFound) {
-      try {
-        this.renderLeaf.detach();
-      } catch (e) {
-        console.log(e);
-      }
-      throw new Error("Failed to create leaf for rendering!");
-    }
-    this.renderLeaf.parent.containerEl.style.height = "0";
-    $(this.renderLeaf.parent.parent.containerEl).find(".clickable-icon, .workspace-tab-header-container-inner").css("display", "none");
-    $(this.renderLeaf.parent.containerEl).css("max-height", "var(--header-height)");
-    $(this.renderLeaf.parent.parent.containerEl).removeClass("mod-vertical");
-    $(this.renderLeaf.parent.parent.containerEl).addClass("mod-horizontal");
-    this.renderLeaf.view.containerEl.win.resizeTo(700, 270);
-    this.renderLeaf.view.containerEl.win.moveTo(window.screen.width / 2 - 350, 50);
-    await Utils.delay(1e3);
-  }
-  static reportProgress(complete, total, message, subMessage, progressColor) {
-    if (!this.renderLeaf)
-      return;
-    let found = Utils.waitUntil(() => this.renderLeaf && this.renderLeaf.parent && this.renderLeaf.parent.parent, 2e3, 10);
-    if (!found)
-      return;
-    let loadingContainer = this.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
-    if (!loadingContainer) {
-      loadingContainer = document.createElement("div");
-      loadingContainer.className = `html-render-progress-container`;
-      loadingContainer.setAttribute("style", "height: 100%; min-width: 100%; display:flex; flex-direction:column; align-content: center; justify-content: center; align-items: center;");
-      loadingContainer.innerHTML = `
-			<h1 style="margin-block-start: auto;">Rendering HTML</h1>
-			<progress class="html-render-progressbar" value="0" min="0" max="1" style="width: 300px; height: 15px"></progress>
-			<span class="html-render-submessage" style="margin-block-start: 2em;">${message}</span>
-			<span style="margin-block-start: auto; margin-block-end:2em;">Do not exit this window, but you may return to the main obsidian window.</span>
-			`;
-      this.renderLeaf.parent.parent.containerEl.appendChild(loadingContainer);
-    }
-    let progress = complete / total;
-    let progressBar = loadingContainer.querySelector("progress");
-    if (progressBar) {
-      progressBar.value = progress;
-      progressBar.style.backgroundColor = "transparent";
-      progressBar.style.color = progressColor;
-    }
-    let messageElement = loadingContainer.querySelector("h1");
-    if (messageElement) {
-      messageElement.innerText = message;
-    }
-    let subMessageElement = loadingContainer.querySelector("span.html-render-submessage");
-    if (subMessageElement) {
-      subMessageElement.innerText = subMessage;
-    }
-  }
-  static reportError(mainMessage, subMessage, progressColor) {
-    if (!this.renderLeaf)
-      return;
-    let found = Utils.waitUntil(() => this.renderLeaf && this.renderLeaf.parent && this.renderLeaf.parent.parent, 2e3, 10);
-    if (!found)
-      return;
-    let loadingContainer = this.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
-    if (!loadingContainer)
-      return;
-    let messageElement = loadingContainer.querySelector("h1");
-    if (messageElement) {
-      messageElement.innerText = "\u274C " + mainMessage;
-      messageElement.style.color = "var(--color-red)";
-    }
-    let subMessageElement = loadingContainer.querySelector("span.html-render-submessage");
-    if (subMessageElement) {
-      subMessageElement.innerText = subMessage;
-      subMessageElement.style.color = "var(--color-red)";
-      subMessageElement.style.whiteSpace = "pre-wrap";
-    }
-    let progressBar = loadingContainer.querySelector("progress");
-    if (progressBar) {
-      progressBar.style.backgroundColor = "transparent";
-      progressBar.style.color = progressColor;
-    }
-  }
-  static endBatch() {
-    if (this.renderLeaf) {
-      this.renderLeaf.detach();
-    }
-  }
   static async generateWebpage(file) {
-    await this.getDocumentHTML(file);
+    await _HTMLGenerator.getDocumentHTML(file);
     let usingDocument = file.document;
-    let sidebars = this.generateSideBars(file.contentElement, file);
+    let sidebars = _HTMLGenerator.generateSideBars(file.contentElement, file);
     let rightSidebar = sidebars.right;
     let leftSidebar = sidebars.left;
     usingDocument.body.appendChild(sidebars.container);
     if (ExportSettings.settings.addDarkModeToggle && !usingDocument.querySelector(".theme-toggle-inline, .theme-toggle")) {
-      let toggle = this.generateDarkmodeToggle(false, usingDocument);
+      let toggle = _HTMLGenerator.generateDarkmodeToggle(false, usingDocument);
       leftSidebar.appendChild(toggle);
     }
     if (ExportSettings.settings.includeOutline) {
-      let headers = this.getHeaderList(usingDocument);
+      let headers = _HTMLGenerator.getHeaderList(usingDocument);
       if (headers) {
-        var outline = this.generateOutline(headers, usingDocument);
+        var outline = _HTMLGenerator.generateOutline(headers, usingDocument);
         rightSidebar.appendChild(outline);
       }
     }
     if (ExportSettings.settings.includeGraphView) {
-      let graph = this.generateGraphView(usingDocument);
+      let graph = _HTMLGenerator.generateGraphView(usingDocument);
       let graphHeader = usingDocument.createElement("h6");
       graphHeader.style.margin = "1em";
       graphHeader.style.marginLeft = "12px";
@@ -11185,64 +11103,9 @@ var HTMLGenerator = class {
       rightSidebar.prepend(graph);
       rightSidebar.prepend(graphHeader);
     }
-    await this.fillInHead(file);
+    await _HTMLGenerator.fillInHead(file);
     file.downloads.unshift(file.getSelfDownloadable());
     return file;
-  }
-  static async renderMarkdown(file) {
-    var _a;
-    if (!this.renderLeaf) {
-      throw new Error("Cannot render document without a render leaf! Please call beginBatch() before calling this function, and endBatch() after you are done exporting all files.");
-    }
-    await this.renderLeaf.openFile(file.markdownFile, { active: false });
-    if (!(this.renderLeaf.view instanceof import_obsidian3.MarkdownView)) {
-      let message2 = "This file was not a normal markdown file! File: " + file.markdownFile.path;
-      console.warn(message2);
-      return this.generateErrorHTML(message2);
-    }
-    let previewModeFound = await Utils.waitUntil(() => this.renderLeaf != void 0 && this.renderLeaf.view.previewMode, 2e3, 10);
-    if (!previewModeFound) {
-      let message2 = "Failed to open preview mode! File: " + file.markdownFile.path;
-      console.warn(message2);
-      return this.generateErrorHTML(message2);
-    }
-    let preview = this.renderLeaf.view.previewMode;
-    await Utils.changeViewMode(this.renderLeaf.view, "preview");
-    preview.renderer.showAll = true;
-    await preview.renderer.unfoldAllHeadings();
-    let lastRender = preview.renderer.lastRender;
-    preview.renderer.rerender(true);
-    let isRendered = false;
-    preview.renderer.onRendered(() => {
-      isRendered = true;
-    });
-    let renderfinished = await Utils.waitUntil(() => preview.renderer.lastRender != lastRender && isRendered, 1e4, 10);
-    if (!renderfinished) {
-      let message2 = "Failed to render file within 10 seconds! File: " + file.markdownFile.path;
-      console.warn(message2);
-      return this.generateErrorHTML(message2);
-    }
-    let container = preview.containerEl;
-    if (container) {
-      $(container).find(".markdown-preview-sizer").css("width", "unset");
-      $(container).find(".markdown-preview-sizer").css("height", "unset");
-      $(container).find(".markdown-preview-sizer").css("margin", "unset");
-      $(container).find(".markdown-preview-sizer").css("padding", "unset");
-      $(container).find(".markdown-preview-sizer").css("max-width", "unset");
-      $(container).find(".markdown-preview-sizer").css("min-height", "unset");
-      let stylesheet = document.getElementById("MJX-CHTML-styles");
-      if (stylesheet) {
-        if (document.getElementById("MJX-CHTML-styles")) {
-          (_a = document.getElementById("MJX-CHTML-styles")) == null ? void 0 : _a.remove();
-          document.head.appendChild(stylesheet);
-        }
-        this.mathStyles = stylesheet.innerHTML.replaceAll("app://obsidian.md/", "https://publish.obsidian.md/").trim();
-      }
-      return container.innerHTML;
-    }
-    let message = "Could not find container with rendered content! File: " + file.markdownFile.path;
-    console.warn(message);
-    return this.generateErrorHTML(message);
   }
   static async getDocumentHTML(file, addSelfToDownloads = false) {
     var _a, _b;
@@ -11258,15 +11121,45 @@ var HTMLGenerator = class {
     body.css("--line-width-adaptive", lineWidth);
     body.css("--file-line-width", lineWidth);
     let markdownViewEl = file.document.body.createDiv({ cls: "markdown-preview-view markdown-rendered" });
-    let content = await this.renderMarkdown(file);
-    markdownViewEl.outerHTML = content;
-    if (ExportSettings.settings.allowFoldingHeadings && !markdownViewEl.hasClass("allow-fold-headings")) {
+    if (ExportSettings.settings.allowFoldingHeadings)
       markdownViewEl.addClass("allow-fold-headings");
-    } else if (markdownViewEl.hasClass("allow-fold-headings")) {
-      markdownViewEl.removeClass("allow-fold-headings");
+    if (ExportSettings.settings.exportInBackground) {
+      let renderEl = document.createElement("div");
+      let fileContents = await app.vault.read(file.markdownFile);
+      try {
+        await import_obsidian2.MarkdownRenderer.renderMarkdown(fileContents, renderEl, file.markdownFile.path, HTMLExportPlugin.plugin);
+      } catch (e) {
+        markdownViewEl.innerHTML = _HTMLGenerator.errorHTML;
+        renderEl.remove();
+        return file;
+      }
+      markdownViewEl.innerHTML = renderEl.innerHTML;
+      await _HTMLGenerator.renderMissingFromBackgroundExport(file);
+      renderEl.remove();
+    } else {
+      let fileTab = _HTMLGenerator.leafHandler.openFileInNewLeaf(file.markdownFile, true);
+      await Utils.delay(200);
+      let view = Utils.getActiveTextView();
+      if (!view) {
+        markdownViewEl.innerHTML = _HTMLGenerator.errorHTML;
+      }
+      if (view instanceof import_obsidian2.MarkdownView) {
+        await Utils.doFullRender(view);
+      }
+      let obsidianDocEl = document.querySelector(".workspace-leaf.mod-active .markdown-preview-sizer");
+      if (!obsidianDocEl)
+        obsidianDocEl = document.querySelector(".workspace-leaf.mod-active .view-content");
+      markdownViewEl.innerHTML = obsidianDocEl.innerHTML;
+      let callouts = $(markdownViewEl).find(".callout.is-collapsible:not(.is-collapsed)");
+      callouts.each((index, element) => {
+        $(element).addClass("is-collapsed");
+        $(element).find(".callout-content").css("display", "none");
+      });
+      if (fileTab)
+        fileTab.detach();
     }
     if (ExportSettings.settings.addFilenameTitle)
-      this.addTitle(file);
+      _HTMLGenerator.addTitle(file);
     let arrowHTML = "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='svg-icon right-triangle'><path d='M3 8L12 17L21 8'></path></svg>";
     let headings = $(file.document).find("div h1, div h2, div h3, div h4, div h5, div h6");
     headings.each((index, element) => {
@@ -11277,17 +11170,17 @@ var HTMLGenerator = class {
       el.innerHTML = arrowHTML;
       element.prepend(el);
     });
-    this.fixLinks(file);
+    _HTMLGenerator.fixLinks(file);
     let outlinedImages = [];
     if (ExportSettings.settings.inlineImages) {
-      await this.inlineMedia(file);
+      await _HTMLGenerator.inlineMedia(file);
     } else {
-      outlinedImages = await this.outlineMedia(file);
+      outlinedImages = await _HTMLGenerator.outlineMedia(file);
     }
     if (addSelfToDownloads)
       file.downloads.push(file.getSelfDownloadable());
     file.downloads.push(...outlinedImages);
-    file.downloads.push(...await this.getAssetDownloads());
+    file.downloads.push(...await _HTMLGenerator.getAssetDownloads());
     if (ExportSettings.settings.makeNamesWebStyle) {
       file.downloads.forEach((file2) => {
         var _a2;
@@ -11296,6 +11189,59 @@ var HTMLGenerator = class {
       });
     }
     return file;
+  }
+  static async renderMissingFromBackgroundExport(file) {
+    let imageFormats = ["png", "webp", "jpg", "jpeg", "gif", "bmp", "svg"];
+    let audioFormats = ["mp3", "wav", "m4a", "ogg", "3gp", "flac"];
+    let videoFormats = ["mp4", "webm", "ogv", "mov", "mkv"];
+    let missingMedia = $(file.document).find(".internal-embed");
+    missingMedia.each((index, element) => {
+      var _a, _b, _c;
+      let el = $(element);
+      let source = (_a = $(element).attr("src")) != null ? _a : "";
+      let parsedSource = new Path(source);
+      let ext = parsedSource.extenstion.split("#")[0].trim().replaceAll(".", "");
+      let isImage = imageFormats.includes(ext);
+      let isAudio = audioFormats.includes(ext);
+      let isVideo = videoFormats.includes(ext);
+      if (isImage || isVideo || isAudio) {
+        let bestPath = app.metadataCache.getFirstLinkpathDest(parsedSource.directory.joinString(parsedSource.basename + "." + ext).asString, file.markdownFile.path);
+        if (bestPath) {
+          let path = "app://local/" + new Path(bestPath.path).absolute().asString;
+          el.empty();
+          let mediaEl = file.document.body.createEl(isImage ? "img" : isAudio ? "audio" : "video");
+          mediaEl.setAttribute("src", path);
+          mediaEl.setAttribute("alt", bestPath.basename);
+          mediaEl.setAttribute("controls", "");
+          if (el.attr("width"))
+            mediaEl.setAttribute("width", (_b = el.attr("width")) != null ? _b : "");
+          if (el.attr("height"))
+            mediaEl.setAttribute("height", (_c = el.attr("height")) != null ? _c : "");
+          el.append(mediaEl);
+          el.addClass("media-embed");
+          el.addClass("is-loaded");
+          el.addClass(isImage ? "image-embed" : isAudio ? "audio-embed" : "video-embed");
+        }
+      }
+    });
+    let mermaidDiagrams = $(file.document).find("pre.language-mermaid code");
+    mermaidDiagrams.each((index, element) => {
+      let el = $(element);
+      let diagram = el.text();
+      let diagramEl = file.document.createElement("div");
+      diagramEl.setAttribute("class", "mermaid");
+      let className = `mermaid-${file.exportPath.copy.makeWebStyle().basename}-${index}`;
+      let result = window.mermaid.render(className, diagram);
+      el.parent().replaceWith(diagramEl);
+      diagramEl.innerHTML = result;
+    });
+    let children = $(file.document).find(".markdown-preview-view > *");
+    children.each((index, element) => {
+      let el = $(element);
+      let div = file.document.createElement("div");
+      el.replaceWith(div);
+      div.appendChild(el[0]);
+    });
   }
   static addTitle(file) {
     let currentTitle = file.document.querySelector("h1, h2, h3, h4, h5, h6");
@@ -11332,14 +11278,14 @@ var HTMLGenerator = class {
   }
   static getRelativePaths(file) {
     let rootPath = file.pathToRoot;
-    let imagePath = rootPath.join(this.mediaFolderName);
-    let jsPath = rootPath.join(this.jsFolderName);
-    let cssPath = rootPath.join(this.cssFolderName);
+    let imagePath = rootPath.join(_HTMLGenerator.mediaFolderName);
+    let jsPath = rootPath.join(_HTMLGenerator.jsFolderName);
+    let cssPath = rootPath.join(_HTMLGenerator.cssFolderName);
     return { mediaPath: imagePath, jsPath, cssPath, rootPath };
   }
   static async fillInHead(file) {
     var _a, _b;
-    let relativePaths = this.getRelativePaths(file);
+    let relativePaths = _HTMLGenerator.getRelativePaths(file);
     let meta = `
 		<title>${file.markdownFile.basename}</title>
 
@@ -11388,7 +11334,7 @@ ${JSON.stringify(GraphGenerator.getGlobalGraph(ExportSettings.settings.graphMinN
     if (ExportSettings.settings.inlineJS) {
       scripts += `
 <script>
-${this.webpageJS}
+${_HTMLGenerator.webpageJS}
 <\/script>
 `;
     } else {
@@ -11397,26 +11343,27 @@ ${this.webpageJS}
 `;
     }
     let cssSettings = (_b = (_a = document.getElementById("css-settings-manager")) == null ? void 0 : _a.innerHTML) != null ? _b : "";
+    _HTMLGenerator.updateCSSCache();
     if (ExportSettings.settings.inlineCSS) {
-      let pluginCSS = this.pluginStyles;
-      let thirdPartyPluginStyles = await this.getThirdPartyPluginCSS();
+      let pluginCSS = _HTMLGenerator.pluginStyles;
+      let thirdPartyPluginStyles = await _HTMLGenerator.getThirdPartyPluginCSS();
       pluginCSS += thirdPartyPluginStyles;
       var header = `
 			${meta}
 			
 			<!-- Obsidian App Styles / Other Built-in Styles -->
-			<style> ${this.appStyles} </style>
-			<style> ${this.mathStyles} </style>
+			<style> ${_HTMLGenerator.appStyles} </style>
+			<style> ${_HTMLGenerator.mathStyles} </style>
 			<style> ${cssSettings} </style>
 
 			<!-- Plugin Styles -->
 			<style> ${pluginCSS} </style>
 
 			<!-- Theme Styles ( ${Utils.getCurrentThemeName()} ) -->
-			<style> ${this.themeStyles} </style>
+			<style> ${_HTMLGenerator.themeStyles} </style>
 
 			<!-- Snippets: ${Utils.getEnabledSnippets().join(", ")} -->
-			<style> ${this.snippetStyles} </style>
+			<style> ${_HTMLGenerator.snippetStyles} </style>
 		
 			${scripts}
 			`;
@@ -11430,7 +11377,7 @@ ${this.webpageJS}
 			<link rel="stylesheet" href="${relativePaths.cssPath}/snippets.css">
 
 			<style> ${cssSettings} </style>
-			<style> ${this.mathStyles} </style>
+			<style> ${_HTMLGenerator.mathStyles} </style>
 
 			${scripts}
 			`;
@@ -11454,12 +11401,12 @@ ${this.webpageJS}
         if (!targetFile)
           return;
         let targetPath = new Path(targetFile.path);
-        let targetRelativePath = targetPath;
+        let targetRelativePath = Path.getRelativePath(file.exportPath, targetPath);
         if (htmlCompatibleExt.includes(targetRelativePath.extensionName))
           targetRelativePath.setExtension("html");
         if (ExportSettings.settings.makeNamesWebStyle)
           targetRelativePath.makeWebStyle();
-        let finalHref = '/fuck' + targetRelativePath + targetHeader.replaceAll(" ", "_");
+        let finalHref = targetRelativePath + targetHeader.replaceAll(" ", "_");
         $(this).attr("href", finalHref);
       }
     });
@@ -11471,7 +11418,7 @@ ${this.webpageJS}
     });
   }
   static async inlineMedia(file) {
-    var _a, _b, _c, _d;
+    var _a, _b, _c;
     let query = $(file.document);
     let media = query.find("img, audio").toArray();
     for (let i = 0; i < media.length; i++) {
@@ -11482,12 +11429,18 @@ ${this.webpageJS}
       if (!src)
         continue;
       let path = new Path(src).makeRootAbsolute();
-      let base64 = (_c = await Utils.getTextBase64(path)) != null ? _c : "";
-      if (base64 === "")
+      let base64 = "";
+      try {
+        base64 = await Utils.getTextBase64(path);
+      } catch (e) {
+        console.error(e);
+        console.warn("Failed to inline media: " + path);
+        new import_obsidian2.Notice("Failed to inline media: " + path, 5e3);
         continue;
+      }
       let ext = path.extenstion.replaceAll(".", "");
-      let type = (_d = app.viewRegistry.typeByExtension[ext]) != null ? _d : "audio";
-      if (ext === "svg")
+      let type = (_c = app.viewRegistry.typeByExtension[ext]) != null ? _c : "audio";
+      if (ext == "svg")
         ext += "+xml";
       $(mediaEl).attr("src", `data:${type}/${ext};base64,${base64}`);
     }
@@ -11512,7 +11465,7 @@ ${this.webpageJS}
       let exportLocation = vaultToMedia;
       let mediaPathInExport = Path.getRelativePath(file.exportFromFolder, vaultToMedia);
       if (mediaPathInExport.asString.startsWith("..")) {
-        exportLocation = this.mediaFolderName.joinString(vaultToMedia.fullName);
+        exportLocation = _HTMLGenerator.mediaFolderName.joinString(vaultToMedia.fullName);
       }
       let relativeImagePath = Path.getRelativePath(file.exportPath, exportLocation);
       if (ExportSettings.settings.makeNamesWebStyle) {
@@ -11611,12 +11564,12 @@ ${this.webpageJS}
     }
     for (let i = 0; i < headers.length; i++) {
       let header = headers[i];
-      let listItem = this.generateOutlineItem(header, usingDocument);
+      let listItem = _HTMLGenerator.generateOutlineItem(header, usingDocument);
       while (getLastStackSize() >= header.size && listStack.length > 1) {
         listStack.pop();
       }
       let childContainer = (_a = listStack.last()) == null ? void 0 : _a.querySelector(".outline-item-children");
-      if (getLastStackSize() === 0)
+      if (getLastStackSize() == 0)
         childContainer = listStack.last();
       if (!childContainer)
         continue;
@@ -11637,10 +11590,19 @@ ${this.webpageJS}
     return graphEl;
   }
 };
-HTMLGenerator.autoDownloadExtras = false;
+var HTMLGenerator = _HTMLGenerator;
+HTMLGenerator.leafHandler = new LeafHandler();
+HTMLGenerator.autoDownloadExtras = true;
+HTMLGenerator.vaultPluginsPath = Path.vaultPath.joinString(app.vault.configDir, "plugins/").makeAbsolute();
 HTMLGenerator.mediaFolderName = new Path("media");
 HTMLGenerator.jsFolderName = new Path("scripts");
 HTMLGenerator.cssFolderName = new Path("styles");
+HTMLGenerator.errorHTML = `<center>
+		<h1>
+		Failed to render file, check obsidian log for details and report an issue on GitHub: 
+		<a href="https://github.com/KosmosisDire/obsidian-webpage-export/issues">Github Issues</a>
+		</h1>
+	</center>`;
 HTMLGenerator.appStyles = "";
 HTMLGenerator.mathStyles = "";
 HTMLGenerator.pluginStyles = "";
@@ -11671,6 +11633,7 @@ var DEFAULT_SETTINGS = {
   makeNamesWebStyle: true,
   allowFoldingHeadings: true,
   addFilenameTitle: true,
+  exportInBackground: true,
   beautifyHTML: false,
   graphAttractionForce: 50,
   graphLinkLength: 10,
@@ -11714,7 +11677,7 @@ var FlowList = class {
     return item;
   }
 };
-var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
+var _ExportSettings = class extends import_obsidian3.PluginSettingTab {
   constructor(plugin) {
     super(app, plugin);
     this.blacklistedPluginIDs = [];
@@ -11732,7 +11695,7 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
   static async loadSettings() {
     _ExportSettings.settings = Object.assign({}, DEFAULT_SETTINGS, await _ExportSettings.plugin.loadData());
     _ExportSettings.settings.customLineWidth = _ExportSettings.settings.customLineWidth.toString();
-    if (_ExportSettings.settings.customLineWidth === "0")
+    if (_ExportSettings.settings.customLineWidth == "0")
       _ExportSettings.settings.customLineWidth = "";
     let thirdPartyStylesBlacklist = await fetch(_ExportSettings.thirdPartyStylesBlacklistURL);
     let thirdPartyStylesBlacklistText = await thirdPartyStylesBlacklist.text();
@@ -11761,16 +11724,16 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
     hr.style.marginBottom = "20px";
     hr.style.borderColor = "var(--color-accent)";
     hr.style.opacity = "0.5";
-    new import_obsidian4.Setting(containerEl).setName("Inlining Options:").setDesc("If all three of these are on the html files will be completely self-contained.").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Inline CSS").setDesc("Inline the CSS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineCSS).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Inlining Options:").setDesc("If all three of these are on the html files will be completely self-contained.").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Inline CSS").setDesc("Inline the CSS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineCSS).onChange(async (value) => {
       _ExportSettings.settings.inlineCSS = value;
       await _ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(containerEl).setName("Inline JS").setDesc("Inline the JS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineJS).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Inline JS").setDesc("Inline the JS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineJS).onChange(async (value) => {
       _ExportSettings.settings.inlineJS = value;
       await _ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(containerEl).setName("Inline Images").setDesc("Inline the images into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineImages).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Inline Images").setDesc("Inline the images into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineImages).onChange(async (value) => {
       _ExportSettings.settings.inlineImages = value;
       await _ExportSettings.saveSettings();
     }));
@@ -11779,16 +11742,16 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
     hr.style.marginBottom = "20px";
     hr.style.borderColor = "var(--color-accent)";
     hr.style.opacity = "0.5";
-    new import_obsidian4.Setting(containerEl).setName("Formatting Options:").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Make names web style").setDesc("Make the names of files and folders lowercase and replace spaces with dashes.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.makeNamesWebStyle).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Formatting Options:").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Make names web style").setDesc("Make the names of files and folders lowercase and replace spaces with dashes.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.makeNamesWebStyle).onChange(async (value) => {
       _ExportSettings.settings.makeNamesWebStyle = value;
       await _ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(containerEl).setName("Allow Folding Headings").setDesc("Allow headings to be folded with an arrow icon beside each heading, just as in Obsidian.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.allowFoldingHeadings).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Allow Folding Headings").setDesc("Allow headings to be folded with an arrow icon beside each heading, just as in Obsidian.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.allowFoldingHeadings).onChange(async (value) => {
       _ExportSettings.settings.allowFoldingHeadings = value;
       await _ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(containerEl).setName("Add Filename as Title").setDesc("If the first header is not an H1, include the file name as a title at the top of the page.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.addFilenameTitle).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Add Filename as Title").setDesc("If the first header is not an H1, include the file name as a title at the top of the page.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.addFilenameTitle).onChange(async (value) => {
       _ExportSettings.settings.addFilenameTitle = value;
       await _ExportSettings.saveSettings();
     }));
@@ -11797,8 +11760,12 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
     hr.style.marginBottom = "20px";
     hr.style.borderColor = "var(--color-accent)";
     hr.style.opacity = "0.5";
-    new import_obsidian4.Setting(containerEl).setName("Export Options:").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Beautify HTML").setDesc("Beautify the HTML text to make it more human readable at the cost of export speed.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.beautifyHTML).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Export Options:").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Export in Background").setDesc("Export files in the background, this improves export times a HUGE amount and allows the files to export completely in the background.\n\nAs this is new, if you are encountering issues you can try turning this off, and report an issue on Github. There are a few types of embedded content it does not support yet.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.exportInBackground).onChange(async (value) => {
+      _ExportSettings.settings.exportInBackground = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian3.Setting(containerEl).setName("Beautify HTML").setDesc("Beautify the HTML text to make it more human readable at the cost of export speed.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.beautifyHTML).onChange(async (value) => {
       _ExportSettings.settings.beautifyHTML = value;
       await _ExportSettings.saveSettings();
     }));
@@ -11807,7 +11774,7 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
     hr.style.marginBottom = "20px";
     hr.style.borderColor = "var(--color-accent)";
     hr.style.opacity = "0.5";
-    new import_obsidian4.Setting(containerEl).setName("Include Plugin CSS").setDesc("Include the CSS from the following plugins in the exported HTML. If plugin features aren't rendering correctly, try adding the plugin to this list.").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Include Plugin CSS").setDesc("Include the CSS from the following plugins in the exported HTML. If plugin features aren't rendering correctly, try adding the plugin to this list.").setHeading();
     let pluginsList = new FlowList(containerEl);
     Utils.getPluginIDs().forEach(async (plugin) => {
       let pluginManifest = Utils.getPluginManifest(plugin);
@@ -11843,39 +11810,39 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
     experimentalHR2.style.flexGrow = "1";
     experimentalHeader.style.flexGrow = "0.1";
     experimentalHeader.style.textAlign = "center";
-    new import_obsidian4.Setting(containerEl).setName("Graph View (PLEASE READ DESCRIPTION)").setDesc("This CANNOT be used with the file:// protocol, the assets for this also will not be inlined into the HTML file at this point.").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Include global graph view").setDesc("Include an interactive graph view sim of the WHOLE vault similar to obsidian's. ").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.includeGraphView).onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Graph View (PLEASE READ DESCRIPTION)").setDesc("This CANNOT be used with the file:// protocol, the assets for this also will not be inlined into the HTML file at this point.").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Include global graph view").setDesc("Include an interactive graph view sim of the WHOLE vault similar to obsidian's. ").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.includeGraphView).onChange(async (value) => {
       _ExportSettings.settings.includeGraphView = value;
       await _ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(containerEl).setName("Graph View Settings").setDesc("Settings to control the behavior and look of the graph view. For now there is no live preview of this, so you must export your files to see your changes.").setHeading();
-    new import_obsidian4.Setting(containerEl).setName("Attraction Force").setDesc("How much should linked nodes attract each other? This will make the graph appear more clustered.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphAttractionForce / (2 / 100)).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Graph View Settings").setDesc("Settings to control the behavior and look of the graph view. For now there is no live preview of this, so you must export your files to see your changes.").setHeading();
+    new import_obsidian3.Setting(containerEl).setName("Attraction Force").setDesc("How much should linked nodes attract each other? This will make the graph appear more clustered.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphAttractionForce / (2 / 100)).setDynamicTooltip().onChange(async (value) => {
       let remapMultiplier = 2 / 100;
       _ExportSettings.settings.graphAttractionForce = value * remapMultiplier;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Link Length").setDesc("How long should the links between nodes be? The shorter the links the closer connected nodes will cluster together.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphLinkLength).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Link Length").setDesc("How long should the links between nodes be? The shorter the links the closer connected nodes will cluster together.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphLinkLength).setDynamicTooltip().onChange(async (value) => {
       _ExportSettings.settings.graphLinkLength = value;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Repulsion Force").setDesc("How much should nodes repel each other? This will make the graph appear more spread out.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphRepulsionForce / 3).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Repulsion Force").setDesc("How much should nodes repel each other? This will make the graph appear more spread out.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphRepulsionForce / 3).setDynamicTooltip().onChange(async (value) => {
       _ExportSettings.settings.graphRepulsionForce = value * 3;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Central Force").setDesc("How much should nodes be attracted to the center? This will make the graph appear more dense and circular.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphCentralForce / (5 / 100)).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Central Force").setDesc("How much should nodes be attracted to the center? This will make the graph appear more dense and circular.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphCentralForce / (5 / 100)).setDynamicTooltip().onChange(async (value) => {
       let remapMultiplier = 5 / 100;
       _ExportSettings.settings.graphCentralForce = value * remapMultiplier;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Max Node Radius").setDesc("How large should the largest nodes be? Nodes are sized by how many links they have. The larger a node is the more it will attract other nodes. This can be used to create a good grouping around the most important nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMaxNodeSize).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Max Node Radius").setDesc("How large should the largest nodes be? Nodes are sized by how many links they have. The larger a node is the more it will attract other nodes. This can be used to create a good grouping around the most important nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMaxNodeSize).setDynamicTooltip().onChange(async (value) => {
       _ExportSettings.settings.graphMaxNodeSize = value;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Min Node Radius").setDesc("How small should the smallest nodes be? The smaller a node is the less it will attract other nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMinNodeSize).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Min Node Radius").setDesc("How small should the smallest nodes be? The smaller a node is the less it will attract other nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMinNodeSize).setDynamicTooltip().onChange(async (value) => {
       _ExportSettings.settings.graphMinNodeSize = value;
       await _ExportSettings.saveSettings();
     }).showTooltip());
-    new import_obsidian4.Setting(containerEl).setName("Edge Pruning Factor").setDesc("Edges with a length above this threshold will not be rendered, however they will still contribute to the simulation. This can help large tangled graphs look more organised. Hovering over a node will still display these links.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(100 - _ExportSettings.settings.graphEdgePruning).setDynamicTooltip().onChange(async (value) => {
+    new import_obsidian3.Setting(containerEl).setName("Edge Pruning Factor").setDesc("Edges with a length above this threshold will not be rendered, however they will still contribute to the simulation. This can help large tangled graphs look more organised. Hovering over a node will still display these links.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(100 - _ExportSettings.settings.graphEdgePruning).setDynamicTooltip().onChange(async (value) => {
       _ExportSettings.settings.graphEdgePruning = 100 - value;
       await _ExportSettings.saveSettings();
     }).showTooltip());
@@ -11886,7 +11853,7 @@ var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
 var ExportSettings = _ExportSettings;
 ExportSettings.settings = DEFAULT_SETTINGS;
 ExportSettings.thirdPartyStylesBlacklistURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/third-party-styles-blacklist.txt";
-var _ExportModal = class extends import_obsidian4.Modal {
+var _ExportModal = class extends import_obsidian3.Modal {
   constructor() {
     super(app);
   }
@@ -11922,15 +11889,15 @@ var _ExportModal = class extends import_obsidian4.Modal {
 			white-space: pre-wrap;`);
     }
     contentEl.createEl("h3", { text: "Document Settings:" });
-    new import_obsidian4.Setting(contentEl).setName("Add global theme toggle").setDesc("Adds a fixed theme toggle to the top of any page that doesn't already have a toggle embedded with `theme-toggle`.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.addDarkModeToggle).onChange(async (value) => {
+    new import_obsidian3.Setting(contentEl).setName("Add global theme toggle").setDesc("Adds a fixed theme toggle to the top of any page that doesn't already have a toggle embedded with `theme-toggle`.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.addDarkModeToggle).onChange(async (value) => {
       ExportSettings.settings.addDarkModeToggle = value;
       await ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(contentEl).setName("Include document outline").setDesc("Will include an interactive document outline tree on the right side of the document.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.includeOutline).onChange(async (value) => {
+    new import_obsidian3.Setting(contentEl).setName("Include document outline").setDesc("Will include an interactive document outline tree on the right side of the document.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.includeOutline).onChange(async (value) => {
       ExportSettings.settings.includeOutline = value;
       await ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(contentEl).setName("Page Width").setTooltip("Sets the line width of the exported document. Use any css units.\nDefault units: px").setHeading().addText((text) => text.setValue(ExportSettings.settings.customLineWidth).setPlaceholder("Leave blank for default").onChange(async (value) => {
+    new import_obsidian3.Setting(contentEl).setName("Page Width").setTooltip("Sets the line width of the exported document. Use any css units.\nDefault units: px").setHeading().addText((text) => text.setValue(ExportSettings.settings.customLineWidth).setPlaceholder("Leave blank for default").onChange(async (value) => {
       ExportSettings.settings.customLineWidth = value;
       await ExportSettings.saveSettings();
     })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(() => {
@@ -11939,15 +11906,15 @@ var _ExportModal = class extends import_obsidian4.Modal {
       this.open();
     }));
     contentEl.createEl("h3", { text: "Export Options:" });
-    new import_obsidian4.Setting(contentEl).setName("Open after export").setHeading().addToggle((toggle) => toggle.setTooltip("Open the exported file after exporting.").setValue(ExportSettings.settings.openAfterExport).onChange(async (value) => {
+    new import_obsidian3.Setting(contentEl).setName("Open after export").setHeading().addToggle((toggle) => toggle.setTooltip("Open the exported file after exporting.").setValue(ExportSettings.settings.openAfterExport).onChange(async (value) => {
       ExportSettings.settings.openAfterExport = value;
       await ExportSettings.saveSettings();
     }));
-    new import_obsidian4.Setting(contentEl).setName("").setHeading().addButton((button) => button.setButtonText("Export").onClick(async () => {
+    new import_obsidian3.Setting(contentEl).setName("").setHeading().addButton((button) => button.setButtonText("Export").onClick(async () => {
       _ExportModal.canceled = false;
       this.close();
     }));
-    new import_obsidian4.Setting(contentEl).setDesc("More options located on the plugin settings page.").addExtraButton((button) => button.setTooltip("Open plugin settings").onClick(() => {
+    new import_obsidian3.Setting(contentEl).setDesc("More options located on the plugin settings page.").addExtraButton((button) => button.setTooltip("Open plugin settings").onClick(() => {
       app.setting.open();
       app.setting.openTabById("webpage-html-export");
     }));
@@ -11966,7 +11933,7 @@ ExportModal.canceled = true;
 
 // scripts/main.ts
 var { shell } = require("electron");
-var HTMLExportPlugin = class extends import_obsidian5.Plugin {
+var HTMLExportPlugin = class extends import_obsidian4.Plugin {
   addTogglePostprocessor() {
     this.registerMarkdownCodeBlockProcessor("theme-toggle", (source, el, ctx) => {
       let toggleEl = HTMLGenerator.generateDarkmodeToggle();
@@ -11975,7 +11942,7 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
     this.registerMarkdownPostProcessor((element, context) => {
       let codeBlocks = element.querySelectorAll("code, span.cm-inline-code");
       codeBlocks.forEach((codeBlock) => {
-        if (codeBlock instanceof HTMLElement && codeBlock.innerText === "theme-toggle") {
+        if (codeBlock instanceof HTMLElement && codeBlock.innerText == "theme-toggle") {
           let toggleEl = HTMLGenerator.generateDarkmodeToggle();
           codeBlock.replaceWith(toggleEl);
         }
@@ -11989,7 +11956,7 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = (_a = Utils.getActiveTextView()) == null ? void 0 : _a.file;
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           if (checking)
             return true;
           this.exportFile(file, new Path(file.path)).then((exportedFile) => {
@@ -12007,7 +11974,7 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = (_a = Utils.getActiveTextView()) == null ? void 0 : _a.file;
-        if (file instanceof import_obsidian5.TFile) {
+        if (file instanceof import_obsidian4.TFile) {
           if (checking)
             return true;
           let path = Utils.idealDefaultPath().joinString(file.name).setExtension("html");
@@ -12046,20 +12013,20 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
     this.registerEvent(this.app.workspace.on("file-menu", (menu, file) => {
       menu.addItem((item) => {
         item.setTitle("Export to HTML").setIcon("download").setSection("export").onClick(async () => {
-          if (file instanceof import_obsidian5.TFile) {
+          if (file instanceof import_obsidian4.TFile) {
             let path = new Path(file.path);
             let exportedFile = await this.exportFile(file, path);
             if (exportedFile && ExportSettings.settings.openAfterExport) {
               window.require("electron").remote.shell.openExternal(exportedFile.exportPathAbsolute.asString);
             }
-          } else if (file instanceof import_obsidian5.TFolder) {
+          } else if (file instanceof import_obsidian4.TFolder) {
             let exportInfo = await this.exportFolder(new Path(file.path));
             if (exportInfo.success && ExportSettings.settings.openAfterExport) {
               window.require("electron").remote.shell.openExternal(exportInfo.exportedPath.asString);
             }
           } else {
             console.error("File is not a TFile or TFolder! Invalid type: " + typeof file);
-            new import_obsidian5.Notice("File is not a File or Folder! Invalid type: " + typeof file, 5e3);
+            new import_obsidian4.Notice("File is not a File or Folder! Invalid type: " + typeof file, 5e3);
           }
         });
       });
@@ -12067,7 +12034,7 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
   }
   async exportFile(file, exportFromPath, partOfBatch = false, exportToPath = void 0, showSettings = true) {
     if (file.extension != "md") {
-      new import_obsidian5.Notice(`\u2757 Unfortunately exporting ${file.extension.replaceAll(".", "")} files is not supported yet.`, 7e3);
+      new import_obsidian4.Notice(`\u2757 Unfortunately exporting ${file.extension.replaceAll(".", "")} files is not supported yet.`, 7e3);
       return void 0;
     }
     if (showSettings) {
@@ -12085,25 +12052,17 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
       exportToPath = saveDialogPath;
     }
     if (!partOfBatch) {
-      await HTMLGenerator.beginBatch();
-      HTMLGenerator.reportProgress(1, 2, "Generating HTML", file.basename, "var(--color-accent)");
+      GraphGenerator.clearGraphCache();
     }
-    try {
-      var exportedFile = new ExportFile(file, exportToPath.directory.absolute(), exportFromPath.directory, partOfBatch, exportToPath.fullName, !partOfBatch);
-      await HTMLGenerator.generateWebpage(exportedFile);
-    } catch (e) {
-      HTMLGenerator.reportError("Error while generating HTML!", e, "var(--color-red)");
-      return void 0;
-    }
+    let exportedFile = new ExportFile(file, exportToPath.directory.absolute(), exportFromPath.directory, partOfBatch, exportToPath.fullName, !partOfBatch);
+    await HTMLGenerator.generateWebpage(exportedFile);
     if (!partOfBatch) {
-      await Utils.downloadFiles(exportedFile.downloads, exportToPath.directory);
-      new import_obsidian5.Notice("\u2705 Finished HTML Export:\n\n" + exportToPath.asString, 5e3);
-      HTMLGenerator.endBatch();
+      await Utils.downloadFiles(exportedFile.downloads, exportToPath.directory, false);
+      new import_obsidian4.Notice("\u2705 Finished HTML Export:\n\n" + exportToPath.asString, 5e3);
     }
     return exportedFile;
   }
   async exportFolder(folderPath, showSettings = true) {
-    performance.mark("start");
     if (showSettings) {
       let result = await new ExportModal().open();
       if (result.canceled)
@@ -12113,48 +12072,39 @@ var HTMLExportPlugin = class extends import_obsidian5.Plugin {
     if (!htmlPath)
       return { success: false, exportedPath: Path.emptyPath };
     let allFiles = this.app.vault.getMarkdownFiles();
-    let filesToExport = folderPath.isEmpty ? allFiles : allFiles.filter((file) => file.path.startsWith(folderPath.asString) && file.extension === "md");
+    let filesToExport = folderPath.isEmpty ? allFiles : allFiles.filter((file) => file.path.startsWith(folderPath.asString) && file.extension == "md");
     if (filesToExport.length > 1e5 || filesToExport.length <= 0) {
-      new import_obsidian5.Notice(`\u2757Invalid number of files to export: ${filesToExport.length}.
+      new import_obsidian4.Notice(`\u2757Invalid number of files to export: ${filesToExport.length}.
 
-Please report on GitHub if there are markdown files in this folder.`, 0);
+Please report on GitHub.`, 0);
       return { success: false, exportedPath: htmlPath };
     }
-    await HTMLGenerator.beginBatch();
-    HTMLGenerator.reportProgress(0, filesToExport.length, "Generating HTML", "...", "var(--color-accent)");
+    GraphGenerator.clearGraphCache();
+    let lastProgressMessage = Utils.generateProgressbar("Generating HTML", 1, filesToExport.length, 15, "\u25B0", "\u25B1");
+    let progressNotice = new import_obsidian4.Notice(lastProgressMessage, 0);
     let externalFiles = [];
     try {
       for (let i = 0; i < filesToExport.length; i++) {
         let file = filesToExport[i];
-        HTMLGenerator.reportProgress(i, filesToExport.length, "Generating HTML", file.basename, "var(--color-accent)");
         let filePath = htmlPath.joinString(file.name).setExtension("html");
         let exportedFile = await this.exportFile(file, folderPath, true, filePath, false);
         if (exportedFile) {
           externalFiles.push(...exportedFile.downloads);
-          externalFiles = externalFiles.filter((file2, index) => externalFiles.findIndex((f) => f.relativeDownloadPath == file2.relativeDownloadPath && f.filename === file2.filename) == index);
+          externalFiles = externalFiles.filter((file2, index) => externalFiles.findIndex((f) => f.relativeDownloadPath == file2.relativeDownloadPath && f.filename == file2.filename) == index);
         }
+        lastProgressMessage = Utils.generateProgressbar("Generating HTML", i + 1, filesToExport.length, 15, "\u25B0", "\u25B1");
+        progressNotice.setMessage(lastProgressMessage);
       }
     } catch (e) {
       console.error(e);
-      HTMLGenerator.reportError("Error while generating HTML!", e, "var(--color-red)");
+      progressNotice.setMessage("\u2757 " + lastProgressMessage);
       return { success: false, exportedPath: htmlPath };
     }
-    let errorDuringDownload = false;
-    await Utils.downloadFiles(externalFiles, htmlPath, (progress, max, filename) => {
-      HTMLGenerator.reportProgress(progress, max, "Saving HTML files to disk", filename, "var(--color-green)");
-    }, (error) => {
-      HTMLGenerator.reportError("Error saving HTML files to disk!", error, "var(--color-red)");
-      errorDuringDownload = true;
-    });
-    if (errorDuringDownload)
-      return { success: false, exportedPath: htmlPath };
-    HTMLGenerator.endBatch();
-    await Utils.delay(200);
-    new import_obsidian5.Notice("\u2705 Finished HTML Export:\n\n" + htmlPath, 5e3);
+    await Utils.delay(100);
+    progressNotice.hide();
+    await Utils.downloadFiles(externalFiles, htmlPath, true);
+    new import_obsidian4.Notice("\u2705 Finished HTML Export:\n\n" + htmlPath, 5e3);
     console.log("Finished HTML Export: " + htmlPath);
-    performance.mark("end");
-    performance.measure("exportFolder", "start", "end");
-    console.log(performance.getEntriesByName("exportFolder")[0].duration + "ms");
     return { success: true, exportedPath: htmlPath };
   }
   async checkForUpdates() {
