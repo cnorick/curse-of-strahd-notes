@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Handouts/Items/Cloak of Protection.md"
               }
             }
           }
@@ -158,13 +158,13 @@
   },
   "active": "3ae5537c709bb7ef",
   "lastOpenFiles": [
+    "Campaign Notes.md",
     "Website/site/handouts/items/sunsword.html",
     "Website/site/handouts/items/cloak-of-protection.html",
     "Website/site/handouts/items/the-tome-of-strahd.html",
     "Website/site/handouts/items/cultist-logbook.html",
     "Website/site/handouts/items",
     "Assets/Templates/Character.md",
-    "Campaign Notes.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
@@ -193,7 +193,6 @@
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
     "Website/site/handouts/images/items/cloak-of-protection.html",
-    "Website/site/handouts/maps/village-of-barovia.html",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",

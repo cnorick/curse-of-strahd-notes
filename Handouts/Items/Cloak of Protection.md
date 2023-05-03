@@ -7,7 +7,7 @@ https://roll20.net/compendium/dnd5e/Cloak%20of%20Protection#content
     top: 200px;
     bottom: 0px;
     right: 200px;
-    width: 80%;
+    width: auto;
     border: none;
     margin: 0;
     padding: 0;
