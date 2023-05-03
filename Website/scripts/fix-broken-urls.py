@@ -9,7 +9,7 @@ for root, dirnames, filenames in os.walk(sys.argv[1]):
       print('Filename: {}'.format(fname))
       with open(fname) as handle:
         soup = BeautifulSoup(handle.read(), 'html.parser')
-        for item in soup.contents:
-          if isinstance(item, Doctype):
-            print('Doctype: {}'.format(item))
-            break
+        for a in soup.find_all('a'):
+          if(not a['href'].startswith('http')):
+            # Temp fix for html exporter bug
+            a['href'] = a['href'].replace('users/nathan/appdata/local/obsidian', '')
