@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "009a42675a39f40b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Tome of Strahd.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Items/The Tome of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Items/The Tome of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Items/The Tome of Strahd.md"
               }
             }
           }
@@ -189,8 +201,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "009a42675a39f40b",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "TODO.md",
+    "Locations/Death House.md",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
@@ -198,12 +217,9 @@
     "Website/site/no-spoilers/campaign-notes/styles",
     "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/no-spoilers/campaign-notes/scripts",
-    "Session Notes/Session 3.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
     "Website/no-spoilers/campaign-notes/styles/theme.css",
-    "Website/no-spoilers/campaign-notes/styles/snippets.css",
-    "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
@@ -223,10 +239,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
