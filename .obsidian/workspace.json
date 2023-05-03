@@ -31,21 +31,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0381d6dd76cb3a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -138,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -201,20 +189,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0381d6dd76cb3a2d",
+  "active": "3cb80031cabe9cfd",
   "lastOpenFiles": [
+    "Assets/Templates/Character.md",
     "Campaign Notes.md",
-    "Items/Handouts/Rose and Thorne.md",
-    "Items/Handouts/Tome of Strahd.md",
-    "Items/Handouts/Strahd's Invitation.md",
-    "Items/Handouts/Village of Barovia.md",
-    "Items/Sunsword.md",
-    "Items/The Tome of Strahd.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "TODO.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
     "Website/site/assets/templates/character.html",
     "Website/site/assets/templates",
     "Website/site/assets",
@@ -225,20 +227,6 @@
     "Website/site/campaign/session-0.html",
     "Website/site/campaign",
     "Website/site/characters/walter.html",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Campaign/Session 3.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Doru.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
