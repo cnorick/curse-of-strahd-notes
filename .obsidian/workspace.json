@@ -11,11 +11,9 @@
             "id": "cc7c0a2e0efad740",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Campaign Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/death-house-kids.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Assets/Images/death-house-kids.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Assets/Images/death-house-kids.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Assets/Images/death-house-kids.png"
               }
             }
           }
@@ -158,6 +156,11 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Assets/Images/death-house-front.jpg",
+    "Assets/Images/barovia.jpg",
+    "Assets/Images/Copy of Arik the Barkeep V2.webp",
+    "Assets/Images/Pasted image 20230502223335.jpg",
+    "Campaign Notes.md",
     "Custom Monsters/Dog.md",
     "Session Notes/Session 3.md",
     "Handouts/Stat Blocks/Lancelot.md",
@@ -166,7 +169,6 @@
     "Handouts/Stat Blocks",
     "Handouts/Items/Potion of Healing.md",
     "Handouts/Items/Cloak of Protection.md",
-    "Campaign Notes.md",
     "Website/site/handouts/items/sunsword.html",
     "Website/site/handouts/items/cloak-of-protection.html",
     "Website/site/handouts/items/the-tome-of-strahd.html",
@@ -190,7 +192,6 @@
     "Characters/Gertruda.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",
     "Website/site/handouts/images/items/cultist-logbook.html",
@@ -200,9 +201,6 @@
     "Website/site/items/handouts/images/death-house-front.jpg",
     "Website/site/items/handouts/images/death-house-kids.png",
     "Website/site/items/handouts/images/barovia.jpg",
-    "Assets/Images/death-house-front.jpg",
-    "Assets/Images/barovia.jpg",
-    "Assets/Images/death-house-kids.png",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
