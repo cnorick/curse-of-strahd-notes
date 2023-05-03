@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Donavich.md"
+                "file": "Characters/Ismark Kolyanovich.md"
               }
             }
           }
@@ -156,8 +155,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "101a8d198059b361",
+  "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Characters/Parriwimple.md",
+    "Characters/Bildrath Cantemir.md",
+    "Session Notes/Session 1.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Donavich.md",
     "Session Notes/Session 3.md",
@@ -198,9 +200,6 @@
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
     "Website/site/characters/gustav-durst.html",
     "Website/site/handouts/images/items/the-tome-of-strahd.html",
     "Website/site/handouts/images/items/sunsword.html",

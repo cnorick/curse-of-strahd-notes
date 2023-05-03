@@ -7,7 +7,7 @@ alias: Ismark
 
 ## Playing Ismark Kolyanovich
 - He's not the typically dour Barovian
-	- He's friendly and personal when you talk to him about [[Characters/Ireena Kolyana|Ireena]] or [[Strahd Von Zarovich|Strahd]]
+	- He's friendly and personal when you talk to him about [[Ireena Kolyana|Ireena]] or [[Strahd Von Zarovich|Strahd]]
 	- But he's pretty tight-lipped when talking about anything else
 		- Unless you're able to befriend him
 - He's spent most of his adult life training with weapons in the hope of one day killing [[Strahd Von Zarovich|Strahd]]
@@ -34,17 +34,17 @@ alias: Ismark
 
 ## What They Know
 [[Barovian Lore]]
-- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Characters/Ireena Kolyana|Ireena]] and desires her above all others
-- [[Characters/Ireena Kolyana|Ireena]] is vulnerable outside of their house
+- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
+- [[Ireena Kolyana|Ireena]] is vulnerable outside of their house
 - If the party shows him their letter from the hook, he knows it's not his father's handwriting
 - In the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|tavern]] and asked, he says they're [[Vistani]] spies
 	- His prejudice is apparent
 - [[Strahd Von Zarovich|Strahd]] takes consorts on occasion
-	- Doesn't know why [[Characters/Ireena Kolyana|Ireena]] is special to [[Strahd Von Zarovich|Strahd]]
+	- Doesn't know why [[Ireena Kolyana|Ireena]] is special to [[Strahd Von Zarovich|Strahd]]
 
 ## Relations
 - Father: [[Kolyan Indirovich]]
-- Adopted Sister: [[Characters/Ireena Kolyana]]
+- Adopted Sister: [[Ireena Kolyana]]
 
 ## Stat Block
 
