@@ -4,7 +4,7 @@ import sys
 cleanContent = ''
 with open(sys.argv[1], 'r+') as my_file:
   text = my_file.read()
-  soup = BeautifulSoup(text)
+  soup = BeautifulSoup(text, features='lxml')
   
   # Make all non-absolute links relative to the root
   for a in soup.findAll('a'):
