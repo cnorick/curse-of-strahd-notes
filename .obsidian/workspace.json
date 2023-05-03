@@ -6,7 +6,7 @@
       {
         "id": "d8e35c67ea2c84e6",
         "type": "tabs",
-        "dimension": 58.16831683168317,
+        "dimension": 58.168316831683164,
         "children": [
           {
             "id": "7fc8a6c354e05ff1",
@@ -31,9 +31,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0381d6dd76cb3a2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8a2da7a1b4aca666",
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Items/Handouts/Letter from Strahd von Zarovich to Gustav Durst.md"
               }
             }
           }
@@ -189,8 +201,20 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cb80031cabe9cfd",
+  "active": "0381d6dd76cb3a2d",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Items/Handouts/Rose and Thorne.md",
+    "Items/Handouts/Tome of Strahd.md",
+    "Items/Handouts/Strahd's Invitation.md",
+    "Items/Handouts/Village of Barovia.md",
+    "Items/Sunsword.md",
+    "Items/The Tome of Strahd.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "TODO.md",
     "Website/site/assets/templates/character.html",
     "Website/site/assets/templates",
     "Website/site/assets",
@@ -201,9 +225,7 @@
     "Website/site/campaign/session-0.html",
     "Website/site/campaign",
     "Website/site/characters/walter.html",
-    "Website/site/characters/thornboldt.html",
     "Assets/Templates/Character.md",
-    "Campaign Notes.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
@@ -217,16 +239,6 @@
     "Characters/Donavich.md",
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
-    "Characters/Parriwimple.md",
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/barovia.jpg",
