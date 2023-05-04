@@ -1,4 +1,3 @@
-import shutil
 import os
 import sys
 from bs4 import BeautifulSoup
@@ -18,7 +17,7 @@ def updateIndexFile(filename):
     print('Fixing no-spoilers index file')
     for a in soup.find_all('a'):
       if(not a['href'].startswith('http')):
-        a['href'] = '/' + a['href']
+        a['href'] = '../..' + a['href']
 
     sessionAnchors = soup.find(id="Session_Notes").parent.nextSibling.find_all('a')
     for a in sessionAnchors:
@@ -41,8 +40,8 @@ def updateSessionFiles(folder):
             a.unwrap()
           overwriteFile(handle, soup)
 
+
+
+
 updateIndexFile(sys.argv[1])
 updateSessionFiles(sys.argv[2])
-
-
-# shutil.copyfile
