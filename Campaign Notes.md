@@ -1,4 +1,3 @@
-Get the [pdf version](https://cos.nathanorick.com/no-spoilers/Campaign%20Notes.pdf)
 ## Handouts
 ### Images
 ```dataviewjs
