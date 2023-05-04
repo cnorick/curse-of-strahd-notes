@@ -15,6 +15,7 @@ with open(sys.argv[1], 'r+') as indexFile:
   sessionAnchors = soup.find(id="Session_Notes").find_all('a')
   for a in sessionAnchors:
     # Make all session note links relative
+    a['href'] = a['href'][1:]
 
 
 # shutil.copyfile
