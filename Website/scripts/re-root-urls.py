@@ -12,7 +12,7 @@ with open(sys.argv[1], 'r+') as handle:
   soup = BeautifulSoup(text, 'html.parser')
 
   # Make all non-absolute links relative to the root
-  print('Fixing no-spoilers index file')
+  print('Fixing URLs in: {}'.format(sys.argv[1]))
   for a in soup.find_all('a'):
     if(not a['href'].startswith('http')):
       a['href'] = '../../' + a['href']
