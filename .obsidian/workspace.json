@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Index.md"
               }
             }
           }
@@ -167,8 +167,71 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cc7c0a2e0efad740",
+  "floating": {
+    "id": "f52b9e739cf35dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6a15cc10088c21f5",
+        "type": "window",
+        "children": [
+          {
+            "id": "2fe539b7f4fa4ad4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9608cf07c7d9022",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 900,
+        "height": 450,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "a9608cf07c7d9022",
   "lastOpenFiles": [
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
+    "Misc/If Players Die.md",
+    "Misc/Guest as Granny.md",
+    "Misc/Card Reading.md",
+    "Misc/Vistani.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "TODO.md",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Tome of Strahd.md",
+    "Handouts/Letters/Strahd's Invitation.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Handouts/Images/Portraits/Portrait of Ismark.md",
+    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
+    "Handouts/Images/Portraits/Portrait of Doru.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
@@ -179,8 +242,6 @@
     "Website/no-spoilers/campaign-notes/styles/obsidian-styles.css",
     "Website/no-spoilers/campaign-notes/styles/snippets.css",
     "Website/no-spoilers/campaign-notes/styles/theme.css",
-    "Website/no-spoilers/campaign-notes/styles",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/ireena-kolyanna.jpg",
     "Website/site/assets/images/ismark.jpg",
@@ -190,30 +251,6 @@
     "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/bildrath.jpg",
     "Website/site/assets/images/barovia.jpg",
-    "Campaign/Session 0.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Assets/Images/Parriwimple.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
