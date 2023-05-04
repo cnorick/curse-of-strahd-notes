@@ -19,7 +19,7 @@ dv.list(dv.pages('"Handouts/Maps"').sort(k => k.file.name).filter(k => k.public)
 
 ## Session Notes
 ```dataviewjs
-dv.list(dv.pages('"Session Notes"'))
+dv.list(dv.pages('"Session Notes"').file.link)
 //dv.pages('"Session Notes"').forEach(p => {
 //	dv.header(2, p.file.name);
 //	const fullText = dv.fileLink(p.file.path, true);
