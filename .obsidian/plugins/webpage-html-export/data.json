@@ -11,7 +11,7 @@
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": true,
+  "includeGraphView": false,
   "includeVaultOutline": true,
   "exportPreset": "website",
   "customLineWidth": "",
