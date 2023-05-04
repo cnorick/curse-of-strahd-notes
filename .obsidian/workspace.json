@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/Mad Mary.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/Mad Mary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Characters/Mad Mary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Characters/Mad Mary.md"
               }
             }
           }
@@ -141,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +158,8 @@
   },
   "active": "cf7aabeecddb7c72",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
+    "TODO.md",
     "Index.md",
     "Music Compiled.md",
     "Campaign Notes.md",
@@ -188,8 +191,6 @@
     "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
