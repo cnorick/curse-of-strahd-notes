@@ -26,5 +26,12 @@ def updateIndexFile(filename):
 
     overwriteFile(indexFile, soup)
 
+def updateSessionFiles(folder):
+  for root, dirnames, filenames in os.walk(folder):
+    pass
+
 updateIndexFile(sys.argv[1])
+updateSessionFiles(sys.argv[2])
+
+
 # shutil.copyfile
