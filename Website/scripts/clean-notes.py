@@ -17,7 +17,6 @@ with open(sys.argv[1], 'r+') as my_file:
     a.string.wrap(soup.new_tag('b'))
     a.unwrap()
 
-
   cleanContent = str(soup)
 
   my_file.seek(0)
