@@ -275,12 +275,12 @@ var require_jquery = __commonJS({
         }
         return typeof obj === "object" || typeof obj === "function" ? class2type[toString.call(obj)] || "object" : typeof obj;
       }
-      var version = "3.6.1", jQuery2 = function(selector, context) {
-        return new jQuery2.fn.init(selector, context);
+      var version = "3.6.1", jQuery3 = function(selector, context) {
+        return new jQuery3.fn.init(selector, context);
       };
-      jQuery2.fn = jQuery2.prototype = {
+      jQuery3.fn = jQuery3.prototype = {
         jquery: version,
-        constructor: jQuery2,
+        constructor: jQuery3,
         length: 0,
         toArray: function() {
           return slice.call(this);
@@ -292,15 +292,15 @@ var require_jquery = __commonJS({
           return num < 0 ? this[num + this.length] : this[num];
         },
         pushStack: function(elems) {
-          var ret = jQuery2.merge(this.constructor(), elems);
+          var ret = jQuery3.merge(this.constructor(), elems);
           ret.prevObject = this;
           return ret;
         },
         each: function(callback) {
-          return jQuery2.each(this, callback);
+          return jQuery3.each(this, callback);
         },
         map: function(callback) {
-          return this.pushStack(jQuery2.map(this, function(elem, i) {
+          return this.pushStack(jQuery3.map(this, function(elem, i) {
             return callback.call(elem, i, elem);
           }));
         },
@@ -314,12 +314,12 @@ var require_jquery = __commonJS({
           return this.eq(-1);
         },
         even: function() {
-          return this.pushStack(jQuery2.grep(this, function(_elem, i) {
+          return this.pushStack(jQuery3.grep(this, function(_elem, i) {
             return (i + 1) % 2;
           }));
         },
         odd: function() {
-          return this.pushStack(jQuery2.grep(this, function(_elem, i) {
+          return this.pushStack(jQuery3.grep(this, function(_elem, i) {
             return i % 2;
           }));
         },
@@ -334,7 +334,7 @@ var require_jquery = __commonJS({
         sort: arr.sort,
         splice: arr.splice
       };
-      jQuery2.extend = jQuery2.fn.extend = function() {
+      jQuery3.extend = jQuery3.fn.extend = function() {
         var options, name, src, copy, copyIsArray, clone, target = arguments[0] || {}, i = 1, length = arguments.length, deep = false;
         if (typeof target === "boolean") {
           deep = target;
@@ -355,17 +355,17 @@ var require_jquery = __commonJS({
               if (name === "__proto__" || target === copy) {
                 continue;
               }
-              if (deep && copy && (jQuery2.isPlainObject(copy) || (copyIsArray = Array.isArray(copy)))) {
+              if (deep && copy && (jQuery3.isPlainObject(copy) || (copyIsArray = Array.isArray(copy)))) {
                 src = target[name];
                 if (copyIsArray && !Array.isArray(src)) {
                   clone = [];
-                } else if (!copyIsArray && !jQuery2.isPlainObject(src)) {
+                } else if (!copyIsArray && !jQuery3.isPlainObject(src)) {
                   clone = {};
                 } else {
                   clone = src;
                 }
                 copyIsArray = false;
-                target[name] = jQuery2.extend(deep, clone, copy);
+                target[name] = jQuery3.extend(deep, clone, copy);
               } else if (copy !== void 0) {
                 target[name] = copy;
               }
@@ -374,7 +374,7 @@ var require_jquery = __commonJS({
         }
         return target;
       };
-      jQuery2.extend({
+      jQuery3.extend({
         expando: "jQuery" + (version + Math.random()).replace(/\D/g, ""),
         isReady: true,
         error: function(msg) {
@@ -426,7 +426,7 @@ var require_jquery = __commonJS({
           var ret = results || [];
           if (arr2 != null) {
             if (isArrayLike(Object(arr2))) {
-              jQuery2.merge(ret, typeof arr2 === "string" ? [arr2] : arr2);
+              jQuery3.merge(ret, typeof arr2 === "string" ? [arr2] : arr2);
             } else {
               push.call(ret, arr2);
             }
@@ -478,9 +478,9 @@ var require_jquery = __commonJS({
         support
       });
       if (typeof Symbol === "function") {
-        jQuery2.fn[Symbol.iterator] = arr[Symbol.iterator];
+        jQuery3.fn[Symbol.iterator] = arr[Symbol.iterator];
       }
-      jQuery2.each("Boolean Number String Function Array Date RegExp Object Error Symbol".split(" "), function(_i, name) {
+      jQuery3.each("Boolean Number String Function Array Date RegExp Object Error Symbol".split(" "), function(_i, name) {
         class2type["[object " + name + "]"] = name.toLowerCase();
       });
       function isArrayLike(obj) {
@@ -1657,19 +1657,19 @@ var require_jquery = __commonJS({
         }
         return Sizzle2;
       }(window2);
-      jQuery2.find = Sizzle;
-      jQuery2.expr = Sizzle.selectors;
-      jQuery2.expr[":"] = jQuery2.expr.pseudos;
-      jQuery2.uniqueSort = jQuery2.unique = Sizzle.uniqueSort;
-      jQuery2.text = Sizzle.getText;
-      jQuery2.isXMLDoc = Sizzle.isXML;
-      jQuery2.contains = Sizzle.contains;
-      jQuery2.escapeSelector = Sizzle.escape;
+      jQuery3.find = Sizzle;
+      jQuery3.expr = Sizzle.selectors;
+      jQuery3.expr[":"] = jQuery3.expr.pseudos;
+      jQuery3.uniqueSort = jQuery3.unique = Sizzle.uniqueSort;
+      jQuery3.text = Sizzle.getText;
+      jQuery3.isXMLDoc = Sizzle.isXML;
+      jQuery3.contains = Sizzle.contains;
+      jQuery3.escapeSelector = Sizzle.escape;
       var dir = function(elem, dir2, until) {
         var matched = [], truncate = until !== void 0;
         while ((elem = elem[dir2]) && elem.nodeType !== 9) {
           if (elem.nodeType === 1) {
-            if (truncate && jQuery2(elem).is(until)) {
+            if (truncate && jQuery3(elem).is(until)) {
               break;
             }
             matched.push(elem);
@@ -1686,48 +1686,48 @@ var require_jquery = __commonJS({
         }
         return matched;
       };
-      var rneedsContext = jQuery2.expr.match.needsContext;
+      var rneedsContext = jQuery3.expr.match.needsContext;
       function nodeName(elem, name) {
         return elem.nodeName && elem.nodeName.toLowerCase() === name.toLowerCase();
       }
       var rsingleTag = /^<([a-z][^\/\0>:\x20\t\r\n\f]*)[\x20\t\r\n\f]*\/?>(?:<\/\1>|)$/i;
       function winnow(elements, qualifier, not) {
         if (isFunction(qualifier)) {
-          return jQuery2.grep(elements, function(elem, i) {
+          return jQuery3.grep(elements, function(elem, i) {
             return !!qualifier.call(elem, i, elem) !== not;
           });
         }
         if (qualifier.nodeType) {
-          return jQuery2.grep(elements, function(elem) {
+          return jQuery3.grep(elements, function(elem) {
             return elem === qualifier !== not;
           });
         }
         if (typeof qualifier !== "string") {
-          return jQuery2.grep(elements, function(elem) {
+          return jQuery3.grep(elements, function(elem) {
             return indexOf.call(qualifier, elem) > -1 !== not;
           });
         }
-        return jQuery2.filter(qualifier, elements, not);
+        return jQuery3.filter(qualifier, elements, not);
       }
-      jQuery2.filter = function(expr, elems, not) {
+      jQuery3.filter = function(expr, elems, not) {
         var elem = elems[0];
         if (not) {
           expr = ":not(" + expr + ")";
         }
         if (elems.length === 1 && elem.nodeType === 1) {
-          return jQuery2.find.matchesSelector(elem, expr) ? [elem] : [];
+          return jQuery3.find.matchesSelector(elem, expr) ? [elem] : [];
         }
-        return jQuery2.find.matches(expr, jQuery2.grep(elems, function(elem2) {
+        return jQuery3.find.matches(expr, jQuery3.grep(elems, function(elem2) {
           return elem2.nodeType === 1;
         }));
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         find: function(selector) {
           var i, ret, len = this.length, self = this;
           if (typeof selector !== "string") {
-            return this.pushStack(jQuery2(selector).filter(function() {
+            return this.pushStack(jQuery3(selector).filter(function() {
               for (i = 0; i < len; i++) {
-                if (jQuery2.contains(self[i], this)) {
+                if (jQuery3.contains(self[i], this)) {
                   return true;
                 }
               }
@@ -1735,9 +1735,9 @@ var require_jquery = __commonJS({
           }
           ret = this.pushStack([]);
           for (i = 0; i < len; i++) {
-            jQuery2.find(selector, self[i], ret);
+            jQuery3.find(selector, self[i], ret);
           }
-          return len > 1 ? jQuery2.uniqueSort(ret) : ret;
+          return len > 1 ? jQuery3.uniqueSort(ret) : ret;
         },
         filter: function(selector) {
           return this.pushStack(winnow(this, selector || [], false));
@@ -1746,10 +1746,10 @@ var require_jquery = __commonJS({
           return this.pushStack(winnow(this, selector || [], true));
         },
         is: function(selector) {
-          return !!winnow(this, typeof selector === "string" && rneedsContext.test(selector) ? jQuery2(selector) : selector || [], false).length;
+          return !!winnow(this, typeof selector === "string" && rneedsContext.test(selector) ? jQuery3(selector) : selector || [], false).length;
         }
       });
-      var rootjQuery, rquickExpr = /^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]+))$/, init = jQuery2.fn.init = function(selector, context, root) {
+      var rootjQuery, rquickExpr = /^(?:\s*(<[\w\W]+>)[^>]*|#([\w-]+))$/, init = jQuery3.fn.init = function(selector, context, root) {
         var match, elem;
         if (!selector) {
           return this;
@@ -1763,9 +1763,9 @@ var require_jquery = __commonJS({
           }
           if (match && (match[1] || !context)) {
             if (match[1]) {
-              context = context instanceof jQuery2 ? context[0] : context;
-              jQuery2.merge(this, jQuery2.parseHTML(match[1], context && context.nodeType ? context.ownerDocument || context : document2, true));
-              if (rsingleTag.test(match[1]) && jQuery2.isPlainObject(context)) {
+              context = context instanceof jQuery3 ? context[0] : context;
+              jQuery3.merge(this, jQuery3.parseHTML(match[1], context && context.nodeType ? context.ownerDocument || context : document2, true));
+              if (rsingleTag.test(match[1]) && jQuery3.isPlainObject(context)) {
                 for (match in context) {
                   if (isFunction(this[match])) {
                     this[match](context[match]);
@@ -1793,55 +1793,55 @@ var require_jquery = __commonJS({
           this.length = 1;
           return this;
         } else if (isFunction(selector)) {
-          return root.ready !== void 0 ? root.ready(selector) : selector(jQuery2);
+          return root.ready !== void 0 ? root.ready(selector) : selector(jQuery3);
         }
-        return jQuery2.makeArray(selector, this);
+        return jQuery3.makeArray(selector, this);
       };
-      init.prototype = jQuery2.fn;
-      rootjQuery = jQuery2(document2);
+      init.prototype = jQuery3.fn;
+      rootjQuery = jQuery3(document2);
       var rparentsprev = /^(?:parents|prev(?:Until|All))/, guaranteedUnique = {
         children: true,
         contents: true,
         next: true,
         prev: true
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         has: function(target) {
-          var targets = jQuery2(target, this), l = targets.length;
+          var targets = jQuery3(target, this), l = targets.length;
           return this.filter(function() {
             var i = 0;
             for (; i < l; i++) {
-              if (jQuery2.contains(this, targets[i])) {
+              if (jQuery3.contains(this, targets[i])) {
                 return true;
               }
             }
           });
         },
         closest: function(selectors, context) {
-          var cur, i = 0, l = this.length, matched = [], targets = typeof selectors !== "string" && jQuery2(selectors);
+          var cur, i = 0, l = this.length, matched = [], targets = typeof selectors !== "string" && jQuery3(selectors);
           if (!rneedsContext.test(selectors)) {
             for (; i < l; i++) {
               for (cur = this[i]; cur && cur !== context; cur = cur.parentNode) {
-                if (cur.nodeType < 11 && (targets ? targets.index(cur) > -1 : cur.nodeType === 1 && jQuery2.find.matchesSelector(cur, selectors))) {
+                if (cur.nodeType < 11 && (targets ? targets.index(cur) > -1 : cur.nodeType === 1 && jQuery3.find.matchesSelector(cur, selectors))) {
                   matched.push(cur);
                   break;
                 }
               }
             }
           }
-          return this.pushStack(matched.length > 1 ? jQuery2.uniqueSort(matched) : matched);
+          return this.pushStack(matched.length > 1 ? jQuery3.uniqueSort(matched) : matched);
         },
         index: function(elem) {
           if (!elem) {
             return this[0] && this[0].parentNode ? this.first().prevAll().length : -1;
           }
           if (typeof elem === "string") {
-            return indexOf.call(jQuery2(elem), this[0]);
+            return indexOf.call(jQuery3(elem), this[0]);
           }
           return indexOf.call(this, elem.jquery ? elem[0] : elem);
         },
         add: function(selector, context) {
-          return this.pushStack(jQuery2.uniqueSort(jQuery2.merge(this.get(), jQuery2(selector, context))));
+          return this.pushStack(jQuery3.uniqueSort(jQuery3.merge(this.get(), jQuery3(selector, context))));
         },
         addBack: function(selector) {
           return this.add(selector == null ? this.prevObject : this.prevObject.filter(selector));
@@ -1852,7 +1852,7 @@ var require_jquery = __commonJS({
         }
         return cur;
       }
-      jQuery2.each({
+      jQuery3.each({
         parent: function(elem) {
           var parent = elem.parentNode;
           return parent && parent.nodeType !== 11 ? parent : null;
@@ -1894,20 +1894,20 @@ var require_jquery = __commonJS({
           if (nodeName(elem, "template")) {
             elem = elem.content || elem;
           }
-          return jQuery2.merge([], elem.childNodes);
+          return jQuery3.merge([], elem.childNodes);
         }
       }, function(name, fn) {
-        jQuery2.fn[name] = function(until, selector) {
-          var matched = jQuery2.map(this, fn, until);
+        jQuery3.fn[name] = function(until, selector) {
+          var matched = jQuery3.map(this, fn, until);
           if (name.slice(-5) !== "Until") {
             selector = until;
           }
           if (selector && typeof selector === "string") {
-            matched = jQuery2.filter(selector, matched);
+            matched = jQuery3.filter(selector, matched);
           }
           if (this.length > 1) {
             if (!guaranteedUnique[name]) {
-              jQuery2.uniqueSort(matched);
+              jQuery3.uniqueSort(matched);
             }
             if (rparentsprev.test(name)) {
               matched.reverse();
@@ -1919,13 +1919,13 @@ var require_jquery = __commonJS({
       var rnothtmlwhite = /[^\x20\t\r\n\f]+/g;
       function createOptions(options) {
         var object = {};
-        jQuery2.each(options.match(rnothtmlwhite) || [], function(_, flag) {
+        jQuery3.each(options.match(rnothtmlwhite) || [], function(_, flag) {
           object[flag] = true;
         });
         return object;
       }
-      jQuery2.Callbacks = function(options) {
-        options = typeof options === "string" ? createOptions(options) : jQuery2.extend({}, options);
+      jQuery3.Callbacks = function(options) {
+        options = typeof options === "string" ? createOptions(options) : jQuery3.extend({}, options);
         var firing, memory, fired, locked, list = [], queue = [], firingIndex = -1, fire = function() {
           locked = locked || options.once;
           fired = firing = true;
@@ -1957,7 +1957,7 @@ var require_jquery = __commonJS({
                 queue.push(memory);
               }
               (function add(args) {
-                jQuery2.each(args, function(_, arg) {
+                jQuery3.each(args, function(_, arg) {
                   if (isFunction(arg)) {
                     if (!options.unique || !self.has(arg)) {
                       list.push(arg);
@@ -1974,9 +1974,9 @@ var require_jquery = __commonJS({
             return this;
           },
           remove: function() {
-            jQuery2.each(arguments, function(_, arg) {
+            jQuery3.each(arguments, function(_, arg) {
               var index;
-              while ((index = jQuery2.inArray(arg, list, index)) > -1) {
+              while ((index = jQuery3.inArray(arg, list, index)) > -1) {
                 list.splice(index, 1);
                 if (index <= firingIndex) {
                   firingIndex--;
@@ -1986,7 +1986,7 @@ var require_jquery = __commonJS({
             return this;
           },
           has: function(fn) {
-            return fn ? jQuery2.inArray(fn, list) > -1 : list.length > 0;
+            return fn ? jQuery3.inArray(fn, list) > -1 : list.length > 0;
           },
           empty: function() {
             if (list) {
@@ -2053,29 +2053,29 @@ var require_jquery = __commonJS({
           reject.apply(void 0, [value2]);
         }
       }
-      jQuery2.extend({
+      jQuery3.extend({
         Deferred: function(func) {
           var tuples = [
             [
               "notify",
               "progress",
-              jQuery2.Callbacks("memory"),
-              jQuery2.Callbacks("memory"),
+              jQuery3.Callbacks("memory"),
+              jQuery3.Callbacks("memory"),
               2
             ],
             [
               "resolve",
               "done",
-              jQuery2.Callbacks("once memory"),
-              jQuery2.Callbacks("once memory"),
+              jQuery3.Callbacks("once memory"),
+              jQuery3.Callbacks("once memory"),
               0,
               "resolved"
             ],
             [
               "reject",
               "fail",
-              jQuery2.Callbacks("once memory"),
-              jQuery2.Callbacks("once memory"),
+              jQuery3.Callbacks("once memory"),
+              jQuery3.Callbacks("once memory"),
               1,
               "rejected"
             ]
@@ -2092,8 +2092,8 @@ var require_jquery = __commonJS({
             },
             pipe: function() {
               var fns = arguments;
-              return jQuery2.Deferred(function(newDefer) {
-                jQuery2.each(tuples, function(_i, tuple) {
+              return jQuery3.Deferred(function(newDefer) {
+                jQuery3.each(tuples, function(_i, tuple) {
                   var fn = isFunction(fns[tuple[4]]) && fns[tuple[4]];
                   deferred[tuple[1]](function() {
                     var returned = fn && fn.apply(this, arguments);
@@ -2139,8 +2139,8 @@ var require_jquery = __commonJS({
                     try {
                       mightThrow();
                     } catch (e) {
-                      if (jQuery2.Deferred.exceptionHook) {
-                        jQuery2.Deferred.exceptionHook(e, process2.stackTrace);
+                      if (jQuery3.Deferred.exceptionHook) {
+                        jQuery3.Deferred.exceptionHook(e, process2.stackTrace);
                       }
                       if (depth + 1 >= maxDepth) {
                         if (handler !== Thrower) {
@@ -2154,24 +2154,24 @@ var require_jquery = __commonJS({
                   if (depth) {
                     process2();
                   } else {
-                    if (jQuery2.Deferred.getStackHook) {
-                      process2.stackTrace = jQuery2.Deferred.getStackHook();
+                    if (jQuery3.Deferred.getStackHook) {
+                      process2.stackTrace = jQuery3.Deferred.getStackHook();
                     }
                     window2.setTimeout(process2);
                   }
                 };
               }
-              return jQuery2.Deferred(function(newDefer) {
+              return jQuery3.Deferred(function(newDefer) {
                 tuples[0][3].add(resolve(0, newDefer, isFunction(onProgress) ? onProgress : Identity, newDefer.notifyWith));
                 tuples[1][3].add(resolve(0, newDefer, isFunction(onFulfilled) ? onFulfilled : Identity));
                 tuples[2][3].add(resolve(0, newDefer, isFunction(onRejected) ? onRejected : Thrower));
               }).promise();
             },
             promise: function(obj) {
-              return obj != null ? jQuery2.extend(obj, promise) : promise;
+              return obj != null ? jQuery3.extend(obj, promise) : promise;
             }
           }, deferred = {};
-          jQuery2.each(tuples, function(i, tuple) {
+          jQuery3.each(tuples, function(i, tuple) {
             var list = tuple[2], stateString = tuple[5];
             promise[tuple[1]] = list.add;
             if (stateString) {
@@ -2193,7 +2193,7 @@ var require_jquery = __commonJS({
           return deferred;
         },
         when: function(singleValue) {
-          var remaining = arguments.length, i = remaining, resolveContexts = Array(i), resolveValues = slice.call(arguments), primary = jQuery2.Deferred(), updateFunc = function(i2) {
+          var remaining = arguments.length, i = remaining, resolveContexts = Array(i), resolveValues = slice.call(arguments), primary = jQuery3.Deferred(), updateFunc = function(i2) {
             return function(value) {
               resolveContexts[i2] = this;
               resolveValues[i2] = arguments.length > 1 ? slice.call(arguments) : value;
@@ -2215,45 +2215,45 @@ var require_jquery = __commonJS({
         }
       });
       var rerrorNames = /^(Eval|Internal|Range|Reference|Syntax|Type|URI)Error$/;
-      jQuery2.Deferred.exceptionHook = function(error, stack) {
+      jQuery3.Deferred.exceptionHook = function(error, stack) {
         if (window2.console && window2.console.warn && error && rerrorNames.test(error.name)) {
           window2.console.warn("jQuery.Deferred exception: " + error.message, error.stack, stack);
         }
       };
-      jQuery2.readyException = function(error) {
+      jQuery3.readyException = function(error) {
         window2.setTimeout(function() {
           throw error;
         });
       };
-      var readyList = jQuery2.Deferred();
-      jQuery2.fn.ready = function(fn) {
+      var readyList = jQuery3.Deferred();
+      jQuery3.fn.ready = function(fn) {
         readyList.then(fn).catch(function(error) {
-          jQuery2.readyException(error);
+          jQuery3.readyException(error);
         });
         return this;
       };
-      jQuery2.extend({
+      jQuery3.extend({
         isReady: false,
         readyWait: 1,
         ready: function(wait) {
-          if (wait === true ? --jQuery2.readyWait : jQuery2.isReady) {
+          if (wait === true ? --jQuery3.readyWait : jQuery3.isReady) {
             return;
           }
-          jQuery2.isReady = true;
-          if (wait !== true && --jQuery2.readyWait > 0) {
+          jQuery3.isReady = true;
+          if (wait !== true && --jQuery3.readyWait > 0) {
             return;
           }
-          readyList.resolveWith(document2, [jQuery2]);
+          readyList.resolveWith(document2, [jQuery3]);
         }
       });
-      jQuery2.ready.then = readyList.then;
+      jQuery3.ready.then = readyList.then;
       function completed() {
         document2.removeEventListener("DOMContentLoaded", completed);
         window2.removeEventListener("load", completed);
-        jQuery2.ready();
+        jQuery3.ready();
       }
       if (document2.readyState === "complete" || document2.readyState !== "loading" && !document2.documentElement.doScroll) {
-        window2.setTimeout(jQuery2.ready);
+        window2.setTimeout(jQuery3.ready);
       } else {
         document2.addEventListener("DOMContentLoaded", completed);
         window2.addEventListener("load", completed);
@@ -2277,7 +2277,7 @@ var require_jquery = __commonJS({
             } else {
               bulk = fn;
               fn = function(elem, _key, value2) {
-                return bulk.call(jQuery2(elem), value2);
+                return bulk.call(jQuery3(elem), value2);
               };
             }
           }
@@ -2306,7 +2306,7 @@ var require_jquery = __commonJS({
         return owner.nodeType === 1 || owner.nodeType === 9 || !+owner.nodeType;
       };
       function Data() {
-        this.expando = jQuery2.expando + Data.uid++;
+        this.expando = jQuery3.expando + Data.uid++;
       }
       Data.uid = 1;
       Data.prototype = {
@@ -2365,7 +2365,7 @@ var require_jquery = __commonJS({
               delete cache[key[i]];
             }
           }
-          if (key === void 0 || jQuery2.isEmptyObject(cache)) {
+          if (key === void 0 || jQuery3.isEmptyObject(cache)) {
             if (owner.nodeType) {
               owner[this.expando] = void 0;
             } else {
@@ -2375,7 +2375,7 @@ var require_jquery = __commonJS({
         },
         hasData: function(owner) {
           var cache = owner[this.expando];
-          return cache !== void 0 && !jQuery2.isEmptyObject(cache);
+          return cache !== void 0 && !jQuery3.isEmptyObject(cache);
         }
       };
       var dataPriv = new Data();
@@ -2416,7 +2416,7 @@ var require_jquery = __commonJS({
         }
         return data;
       }
-      jQuery2.extend({
+      jQuery3.extend({
         hasData: function(elem) {
           return dataUser.hasData(elem) || dataPriv.hasData(elem);
         },
@@ -2433,7 +2433,7 @@ var require_jquery = __commonJS({
           dataPriv.remove(elem, name);
         }
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         data: function(key, value) {
           var i, name, data, elem = this[0], attrs = elem && elem.attributes;
           if (key === void 0) {
@@ -2484,7 +2484,7 @@ var require_jquery = __commonJS({
           });
         }
       });
-      jQuery2.extend({
+      jQuery3.extend({
         queue: function(elem, type, data) {
           var queue;
           if (elem) {
@@ -2492,7 +2492,7 @@ var require_jquery = __commonJS({
             queue = dataPriv.get(elem, type);
             if (data) {
               if (!queue || Array.isArray(data)) {
-                queue = dataPriv.access(elem, type, jQuery2.makeArray(data));
+                queue = dataPriv.access(elem, type, jQuery3.makeArray(data));
               } else {
                 queue.push(data);
               }
@@ -2502,8 +2502,8 @@ var require_jquery = __commonJS({
         },
         dequeue: function(elem, type) {
           type = type || "fx";
-          var queue = jQuery2.queue(elem, type), startLength = queue.length, fn = queue.shift(), hooks = jQuery2._queueHooks(elem, type), next = function() {
-            jQuery2.dequeue(elem, type);
+          var queue = jQuery3.queue(elem, type), startLength = queue.length, fn = queue.shift(), hooks = jQuery3._queueHooks(elem, type), next = function() {
+            jQuery3.dequeue(elem, type);
           };
           if (fn === "inprogress") {
             fn = queue.shift();
@@ -2523,13 +2523,13 @@ var require_jquery = __commonJS({
         _queueHooks: function(elem, type) {
           var key = type + "queueHooks";
           return dataPriv.get(elem, key) || dataPriv.access(elem, key, {
-            empty: jQuery2.Callbacks("once memory").add(function() {
+            empty: jQuery3.Callbacks("once memory").add(function() {
               dataPriv.remove(elem, [type + "queue", key]);
             })
           });
         }
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         queue: function(type, data) {
           var setter = 2;
           if (typeof type !== "string") {
@@ -2538,26 +2538,26 @@ var require_jquery = __commonJS({
             setter--;
           }
           if (arguments.length < setter) {
-            return jQuery2.queue(this[0], type);
+            return jQuery3.queue(this[0], type);
           }
           return data === void 0 ? this : this.each(function() {
-            var queue = jQuery2.queue(this, type, data);
-            jQuery2._queueHooks(this, type);
+            var queue = jQuery3.queue(this, type, data);
+            jQuery3._queueHooks(this, type);
             if (type === "fx" && queue[0] !== "inprogress") {
-              jQuery2.dequeue(this, type);
+              jQuery3.dequeue(this, type);
             }
           });
         },
         dequeue: function(type) {
           return this.each(function() {
-            jQuery2.dequeue(this, type);
+            jQuery3.dequeue(this, type);
           });
         },
         clearQueue: function(type) {
           return this.queue(type || "fx", []);
         },
         promise: function(type, obj) {
-          var tmp, count = 1, defer = jQuery2.Deferred(), elements = this, i = this.length, resolve = function() {
+          var tmp, count = 1, defer = jQuery3.Deferred(), elements = this, i = this.length, resolve = function() {
             if (!--count) {
               defer.resolveWith(elements, [elements]);
             }
@@ -2583,36 +2583,36 @@ var require_jquery = __commonJS({
       var cssExpand = ["Top", "Right", "Bottom", "Left"];
       var documentElement = document2.documentElement;
       var isAttached = function(elem) {
-        return jQuery2.contains(elem.ownerDocument, elem);
+        return jQuery3.contains(elem.ownerDocument, elem);
       }, composed = { composed: true };
       if (documentElement.getRootNode) {
         isAttached = function(elem) {
-          return jQuery2.contains(elem.ownerDocument, elem) || elem.getRootNode(composed) === elem.ownerDocument;
+          return jQuery3.contains(elem.ownerDocument, elem) || elem.getRootNode(composed) === elem.ownerDocument;
         };
       }
       var isHiddenWithinTree = function(elem, el) {
         elem = el || elem;
-        return elem.style.display === "none" || elem.style.display === "" && isAttached(elem) && jQuery2.css(elem, "display") === "none";
+        return elem.style.display === "none" || elem.style.display === "" && isAttached(elem) && jQuery3.css(elem, "display") === "none";
       };
       function adjustCSS(elem, prop, valueParts, tween) {
         var adjusted, scale, maxIterations = 20, currentValue = tween ? function() {
           return tween.cur();
         } : function() {
-          return jQuery2.css(elem, prop, "");
-        }, initial = currentValue(), unit = valueParts && valueParts[3] || (jQuery2.cssNumber[prop] ? "" : "px"), initialInUnit = elem.nodeType && (jQuery2.cssNumber[prop] || unit !== "px" && +initial) && rcssNum.exec(jQuery2.css(elem, prop));
+          return jQuery3.css(elem, prop, "");
+        }, initial = currentValue(), unit = valueParts && valueParts[3] || (jQuery3.cssNumber[prop] ? "" : "px"), initialInUnit = elem.nodeType && (jQuery3.cssNumber[prop] || unit !== "px" && +initial) && rcssNum.exec(jQuery3.css(elem, prop));
         if (initialInUnit && initialInUnit[3] !== unit) {
           initial = initial / 2;
           unit = unit || initialInUnit[3];
           initialInUnit = +initial || 1;
           while (maxIterations--) {
-            jQuery2.style(elem, prop, initialInUnit + unit);
+            jQuery3.style(elem, prop, initialInUnit + unit);
             if ((1 - scale) * (1 - (scale = currentValue() / initial || 0.5)) <= 0) {
               maxIterations = 0;
             }
             initialInUnit = initialInUnit / scale;
           }
           initialInUnit = initialInUnit * 2;
-          jQuery2.style(elem, prop, initialInUnit + unit);
+          jQuery3.style(elem, prop, initialInUnit + unit);
           valueParts = valueParts || [];
         }
         if (valueParts) {
@@ -2633,7 +2633,7 @@ var require_jquery = __commonJS({
           return display;
         }
         temp = doc.body.appendChild(doc.createElement(nodeName2));
-        display = jQuery2.css(temp, "display");
+        display = jQuery3.css(temp, "display");
         temp.parentNode.removeChild(temp);
         if (display === "none") {
           display = "block";
@@ -2673,7 +2673,7 @@ var require_jquery = __commonJS({
         }
         return elements;
       }
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         show: function() {
           return showHide(this, true);
         },
@@ -2686,9 +2686,9 @@ var require_jquery = __commonJS({
           }
           return this.each(function() {
             if (isHiddenWithinTree(this)) {
-              jQuery2(this).show();
+              jQuery3(this).show();
             } else {
-              jQuery2(this).hide();
+              jQuery3(this).hide();
             }
           });
         }
@@ -2730,7 +2730,7 @@ var require_jquery = __commonJS({
           ret = [];
         }
         if (tag === void 0 || tag && nodeName(context, tag)) {
-          return jQuery2.merge([context], ret);
+          return jQuery3.merge([context], ret);
         }
         return ret;
       }
@@ -2747,19 +2747,19 @@ var require_jquery = __commonJS({
           elem = elems[i];
           if (elem || elem === 0) {
             if (toType(elem) === "object") {
-              jQuery2.merge(nodes, elem.nodeType ? [elem] : elem);
+              jQuery3.merge(nodes, elem.nodeType ? [elem] : elem);
             } else if (!rhtml.test(elem)) {
               nodes.push(context.createTextNode(elem));
             } else {
               tmp = tmp || fragment.appendChild(context.createElement("div"));
               tag = (rtagName.exec(elem) || ["", ""])[1].toLowerCase();
               wrap = wrapMap[tag] || wrapMap._default;
-              tmp.innerHTML = wrap[1] + jQuery2.htmlPrefilter(elem) + wrap[2];
+              tmp.innerHTML = wrap[1] + jQuery3.htmlPrefilter(elem) + wrap[2];
               j = wrap[0];
               while (j--) {
                 tmp = tmp.lastChild;
               }
-              jQuery2.merge(nodes, tmp.childNodes);
+              jQuery3.merge(nodes, tmp.childNodes);
               tmp = fragment.firstChild;
               tmp.textContent = "";
             }
@@ -2768,7 +2768,7 @@ var require_jquery = __commonJS({
         fragment.textContent = "";
         i = 0;
         while (elem = nodes[i++]) {
-          if (selection && jQuery2.inArray(elem, selection) > -1) {
+          if (selection && jQuery3.inArray(elem, selection) > -1) {
             if (ignored) {
               ignored.push(elem);
             }
@@ -2839,16 +2839,16 @@ var require_jquery = __commonJS({
         if (one === 1) {
           origFn = fn;
           fn = function(event) {
-            jQuery2().off(event);
+            jQuery3().off(event);
             return origFn.apply(this, arguments);
           };
-          fn.guid = origFn.guid || (origFn.guid = jQuery2.guid++);
+          fn.guid = origFn.guid || (origFn.guid = jQuery3.guid++);
         }
         return elem.each(function() {
-          jQuery2.event.add(this, types, fn, data, selector);
+          jQuery3.event.add(this, types, fn, data, selector);
         });
       }
-      jQuery2.event = {
+      jQuery3.event = {
         global: {},
         add: function(elem, types, handler, data, selector) {
           var handleObjIn, eventHandle, tmp, events, t, handleObj, special, handlers, type, namespaces, origType, elemData = dataPriv.get(elem);
@@ -2861,17 +2861,17 @@ var require_jquery = __commonJS({
             selector = handleObjIn.selector;
           }
           if (selector) {
-            jQuery2.find.matchesSelector(documentElement, selector);
+            jQuery3.find.matchesSelector(documentElement, selector);
           }
           if (!handler.guid) {
-            handler.guid = jQuery2.guid++;
+            handler.guid = jQuery3.guid++;
           }
           if (!(events = elemData.events)) {
             events = elemData.events = /* @__PURE__ */ Object.create(null);
           }
           if (!(eventHandle = elemData.handle)) {
             eventHandle = elemData.handle = function(e) {
-              return typeof jQuery2 !== "undefined" && jQuery2.event.triggered !== e.type ? jQuery2.event.dispatch.apply(elem, arguments) : void 0;
+              return typeof jQuery3 !== "undefined" && jQuery3.event.triggered !== e.type ? jQuery3.event.dispatch.apply(elem, arguments) : void 0;
             };
           }
           types = (types || "").match(rnothtmlwhite) || [""];
@@ -2883,17 +2883,17 @@ var require_jquery = __commonJS({
             if (!type) {
               continue;
             }
-            special = jQuery2.event.special[type] || {};
+            special = jQuery3.event.special[type] || {};
             type = (selector ? special.delegateType : special.bindType) || type;
-            special = jQuery2.event.special[type] || {};
-            handleObj = jQuery2.extend({
+            special = jQuery3.event.special[type] || {};
+            handleObj = jQuery3.extend({
               type,
               origType,
               data,
               handler,
               guid: handler.guid,
               selector,
-              needsContext: selector && jQuery2.expr.match.needsContext.test(selector),
+              needsContext: selector && jQuery3.expr.match.needsContext.test(selector),
               namespace: namespaces.join(".")
             }, handleObjIn);
             if (!(handlers = events[type])) {
@@ -2916,7 +2916,7 @@ var require_jquery = __commonJS({
             } else {
               handlers.push(handleObj);
             }
-            jQuery2.event.global[type] = true;
+            jQuery3.event.global[type] = true;
           }
         },
         remove: function(elem, types, handler, selector, mappedTypes) {
@@ -2932,11 +2932,11 @@ var require_jquery = __commonJS({
             namespaces = (tmp[2] || "").split(".").sort();
             if (!type) {
               for (type in events) {
-                jQuery2.event.remove(elem, type + types[t], handler, selector, true);
+                jQuery3.event.remove(elem, type + types[t], handler, selector, true);
               }
               continue;
             }
-            special = jQuery2.event.special[type] || {};
+            special = jQuery3.event.special[type] || {};
             type = (selector ? special.delegateType : special.bindType) || type;
             handlers = events[type] || [];
             tmp = tmp[2] && new RegExp("(^|\\.)" + namespaces.join("\\.(?:.*\\.|)") + "(\\.|$)");
@@ -2955,17 +2955,17 @@ var require_jquery = __commonJS({
             }
             if (origCount && !handlers.length) {
               if (!special.teardown || special.teardown.call(elem, namespaces, elemData.handle) === false) {
-                jQuery2.removeEvent(elem, type, elemData.handle);
+                jQuery3.removeEvent(elem, type, elemData.handle);
               }
               delete events[type];
             }
           }
-          if (jQuery2.isEmptyObject(events)) {
+          if (jQuery3.isEmptyObject(events)) {
             dataPriv.remove(elem, "handle events");
           }
         },
         dispatch: function(nativeEvent) {
-          var i, j, ret, matched, handleObj, handlerQueue, args = new Array(arguments.length), event = jQuery2.event.fix(nativeEvent), handlers = (dataPriv.get(this, "events") || /* @__PURE__ */ Object.create(null))[event.type] || [], special = jQuery2.event.special[event.type] || {};
+          var i, j, ret, matched, handleObj, handlerQueue, args = new Array(arguments.length), event = jQuery3.event.fix(nativeEvent), handlers = (dataPriv.get(this, "events") || /* @__PURE__ */ Object.create(null))[event.type] || [], special = jQuery3.event.special[event.type] || {};
           args[0] = event;
           for (i = 1; i < arguments.length; i++) {
             args[i] = arguments[i];
@@ -2974,7 +2974,7 @@ var require_jquery = __commonJS({
           if (special.preDispatch && special.preDispatch.call(this, event) === false) {
             return;
           }
-          handlerQueue = jQuery2.event.handlers.call(this, event, handlers);
+          handlerQueue = jQuery3.event.handlers.call(this, event, handlers);
           i = 0;
           while ((matched = handlerQueue[i++]) && !event.isPropagationStopped()) {
             event.currentTarget = matched.elem;
@@ -2983,7 +2983,7 @@ var require_jquery = __commonJS({
               if (!event.rnamespace || handleObj.namespace === false || event.rnamespace.test(handleObj.namespace)) {
                 event.handleObj = handleObj;
                 event.data = handleObj.data;
-                ret = ((jQuery2.event.special[handleObj.origType] || {}).handle || handleObj.handler).apply(matched.elem, args);
+                ret = ((jQuery3.event.special[handleObj.origType] || {}).handle || handleObj.handler).apply(matched.elem, args);
                 if (ret !== void 0) {
                   if ((event.result = ret) === false) {
                     event.preventDefault();
@@ -3009,7 +3009,7 @@ var require_jquery = __commonJS({
                   handleObj = handlers[i];
                   sel = handleObj.selector + " ";
                   if (matchedSelectors[sel] === void 0) {
-                    matchedSelectors[sel] = handleObj.needsContext ? jQuery2(sel, this).index(cur) > -1 : jQuery2.find(sel, this, null, [cur]).length;
+                    matchedSelectors[sel] = handleObj.needsContext ? jQuery3(sel, this).index(cur) > -1 : jQuery3.find(sel, this, null, [cur]).length;
                   }
                   if (matchedSelectors[sel]) {
                     matchedHandlers.push(handleObj);
@@ -3028,7 +3028,7 @@ var require_jquery = __commonJS({
           return handlerQueue;
         },
         addProp: function(name, hook) {
-          Object.defineProperty(jQuery2.Event.prototype, name, {
+          Object.defineProperty(jQuery3.Event.prototype, name, {
             enumerable: true,
             configurable: true,
             get: isFunction(hook) ? function() {
@@ -3051,7 +3051,7 @@ var require_jquery = __commonJS({
           });
         },
         fix: function(originalEvent) {
-          return originalEvent[jQuery2.expando] ? originalEvent : new jQuery2.Event(originalEvent);
+          return originalEvent[jQuery3.expando] ? originalEvent : new jQuery3.Event(originalEvent);
         },
         special: {
           load: {
@@ -3089,12 +3089,12 @@ var require_jquery = __commonJS({
       function leverageNative(el, type, expectSync2) {
         if (!expectSync2) {
           if (dataPriv.get(el, type) === void 0) {
-            jQuery2.event.add(el, type, returnTrue);
+            jQuery3.event.add(el, type, returnTrue);
           }
           return;
         }
         dataPriv.set(el, type, false);
-        jQuery2.event.add(el, type, {
+        jQuery3.event.add(el, type, {
           namespace: false,
           handler: function(event) {
             var notAsync, result, saved = dataPriv.get(this, type);
@@ -3115,26 +3115,26 @@ var require_jquery = __commonJS({
                   event.preventDefault();
                   return result && result.value;
                 }
-              } else if ((jQuery2.event.special[type] || {}).delegateType) {
+              } else if ((jQuery3.event.special[type] || {}).delegateType) {
                 event.stopPropagation();
               }
             } else if (saved.length) {
               dataPriv.set(this, type, {
-                value: jQuery2.event.trigger(jQuery2.extend(saved[0], jQuery2.Event.prototype), saved.slice(1), this)
+                value: jQuery3.event.trigger(jQuery3.extend(saved[0], jQuery3.Event.prototype), saved.slice(1), this)
               });
               event.stopImmediatePropagation();
             }
           }
         });
       }
-      jQuery2.removeEvent = function(elem, type, handle) {
+      jQuery3.removeEvent = function(elem, type, handle) {
         if (elem.removeEventListener) {
           elem.removeEventListener(type, handle);
         }
       };
-      jQuery2.Event = function(src, props) {
-        if (!(this instanceof jQuery2.Event)) {
-          return new jQuery2.Event(src, props);
+      jQuery3.Event = function(src, props) {
+        if (!(this instanceof jQuery3.Event)) {
+          return new jQuery3.Event(src, props);
         }
         if (src && src.type) {
           this.originalEvent = src;
@@ -3147,13 +3147,13 @@ var require_jquery = __commonJS({
           this.type = src;
         }
         if (props) {
-          jQuery2.extend(this, props);
+          jQuery3.extend(this, props);
         }
         this.timeStamp = src && src.timeStamp || Date.now();
-        this[jQuery2.expando] = true;
+        this[jQuery3.expando] = true;
       };
-      jQuery2.Event.prototype = {
-        constructor: jQuery2.Event,
+      jQuery3.Event.prototype = {
+        constructor: jQuery3.Event,
         isDefaultPrevented: returnFalse,
         isPropagationStopped: returnFalse,
         isImmediatePropagationStopped: returnFalse,
@@ -3181,7 +3181,7 @@ var require_jquery = __commonJS({
           this.stopPropagation();
         }
       };
-      jQuery2.each({
+      jQuery3.each({
         altKey: true,
         bubbles: true,
         cancelable: true,
@@ -3213,9 +3213,9 @@ var require_jquery = __commonJS({
         toElement: true,
         touches: true,
         which: true
-      }, jQuery2.event.addProp);
-      jQuery2.each({ focus: "focusin", blur: "focusout" }, function(type, delegateType) {
-        jQuery2.event.special[type] = {
+      }, jQuery3.event.addProp);
+      jQuery3.each({ focus: "focusin", blur: "focusout" }, function(type, delegateType) {
+        jQuery3.event.special[type] = {
           setup: function() {
             leverageNative(this, type, expectSync);
             return false;
@@ -3230,18 +3230,18 @@ var require_jquery = __commonJS({
           delegateType
         };
       });
-      jQuery2.each({
+      jQuery3.each({
         mouseenter: "mouseover",
         mouseleave: "mouseout",
         pointerenter: "pointerover",
         pointerleave: "pointerout"
       }, function(orig, fix) {
-        jQuery2.event.special[orig] = {
+        jQuery3.event.special[orig] = {
           delegateType: fix,
           bindType: fix,
           handle: function(event) {
             var ret, target = this, related = event.relatedTarget, handleObj = event.handleObj;
-            if (!related || related !== target && !jQuery2.contains(target, related)) {
+            if (!related || related !== target && !jQuery3.contains(target, related)) {
               event.type = handleObj.origType;
               ret = handleObj.handler.apply(this, arguments);
               event.type = fix;
@@ -3250,7 +3250,7 @@ var require_jquery = __commonJS({
           }
         };
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         on: function(types, selector, data, fn) {
           return on(this, types, selector, data, fn);
         },
@@ -3261,7 +3261,7 @@ var require_jquery = __commonJS({
           var handleObj, type;
           if (types && types.preventDefault && types.handleObj) {
             handleObj = types.handleObj;
-            jQuery2(types.delegateTarget).off(handleObj.namespace ? handleObj.origType + "." + handleObj.namespace : handleObj.origType, handleObj.selector, handleObj.handler);
+            jQuery3(types.delegateTarget).off(handleObj.namespace ? handleObj.origType + "." + handleObj.namespace : handleObj.origType, handleObj.selector, handleObj.handler);
             return this;
           }
           if (typeof types === "object") {
@@ -3278,14 +3278,14 @@ var require_jquery = __commonJS({
             fn = returnFalse;
           }
           return this.each(function() {
-            jQuery2.event.remove(this, types, fn, selector);
+            jQuery3.event.remove(this, types, fn, selector);
           });
         }
       });
       var rnoInnerhtml = /<script|<style|<link/i, rchecked = /checked\s*(?:[^=]|=\s*.checked.)/i, rcleanScript = /^\s*<!\[CDATA\[|\]\]>\s*$/g;
       function manipulationTarget(elem, content) {
         if (nodeName(elem, "table") && nodeName(content.nodeType !== 11 ? content : content.firstChild, "tr")) {
-          return jQuery2(elem).children("tbody")[0] || elem;
+          return jQuery3(elem).children("tbody")[0] || elem;
         }
         return elem;
       }
@@ -3313,14 +3313,14 @@ var require_jquery = __commonJS({
             dataPriv.remove(dest, "handle events");
             for (type in events) {
               for (i = 0, l = events[type].length; i < l; i++) {
-                jQuery2.event.add(dest, type, events[type][i]);
+                jQuery3.event.add(dest, type, events[type][i]);
               }
             }
           }
         }
         if (dataUser.hasData(src)) {
           udataOld = dataUser.access(src);
-          udataCur = jQuery2.extend({}, udataOld);
+          udataCur = jQuery3.extend({}, udataOld);
           dataUser.set(dest, udataCur);
         }
       }
@@ -3351,27 +3351,27 @@ var require_jquery = __commonJS({
             fragment = first;
           }
           if (first || ignored) {
-            scripts = jQuery2.map(getAll(fragment, "script"), disableScript);
+            scripts = jQuery3.map(getAll(fragment, "script"), disableScript);
             hasScripts = scripts.length;
             for (; i < l; i++) {
               node = fragment;
               if (i !== iNoClone) {
-                node = jQuery2.clone(node, true, true);
+                node = jQuery3.clone(node, true, true);
                 if (hasScripts) {
-                  jQuery2.merge(scripts, getAll(node, "script"));
+                  jQuery3.merge(scripts, getAll(node, "script"));
                 }
               }
               callback.call(collection[i], node, i);
             }
             if (hasScripts) {
               doc = scripts[scripts.length - 1].ownerDocument;
-              jQuery2.map(scripts, restoreScript);
+              jQuery3.map(scripts, restoreScript);
               for (i = 0; i < hasScripts; i++) {
                 node = scripts[i];
-                if (rscriptType.test(node.type || "") && !dataPriv.access(node, "globalEval") && jQuery2.contains(doc, node)) {
+                if (rscriptType.test(node.type || "") && !dataPriv.access(node, "globalEval") && jQuery3.contains(doc, node)) {
                   if (node.src && (node.type || "").toLowerCase() !== "module") {
-                    if (jQuery2._evalUrl && !node.noModule) {
-                      jQuery2._evalUrl(node.src, {
+                    if (jQuery3._evalUrl && !node.noModule) {
+                      jQuery3._evalUrl(node.src, {
                         nonce: node.nonce || node.getAttribute("nonce")
                       }, doc);
                     }
@@ -3386,10 +3386,10 @@ var require_jquery = __commonJS({
         return collection;
       }
       function remove(elem, selector, keepData) {
-        var node, nodes = selector ? jQuery2.filter(selector, elem) : elem, i = 0;
+        var node, nodes = selector ? jQuery3.filter(selector, elem) : elem, i = 0;
         for (; (node = nodes[i]) != null; i++) {
           if (!keepData && node.nodeType === 1) {
-            jQuery2.cleanData(getAll(node));
+            jQuery3.cleanData(getAll(node));
           }
           if (node.parentNode) {
             if (keepData && isAttached(node)) {
@@ -3400,13 +3400,13 @@ var require_jquery = __commonJS({
         }
         return elem;
       }
-      jQuery2.extend({
+      jQuery3.extend({
         htmlPrefilter: function(html) {
           return html;
         },
         clone: function(elem, dataAndEvents, deepDataAndEvents) {
           var i, l, srcElements, destElements, clone = elem.cloneNode(true), inPage = isAttached(elem);
-          if (!support.noCloneChecked && (elem.nodeType === 1 || elem.nodeType === 11) && !jQuery2.isXMLDoc(elem)) {
+          if (!support.noCloneChecked && (elem.nodeType === 1 || elem.nodeType === 11) && !jQuery3.isXMLDoc(elem)) {
             destElements = getAll(clone);
             srcElements = getAll(elem);
             for (i = 0, l = srcElements.length; i < l; i++) {
@@ -3431,16 +3431,16 @@ var require_jquery = __commonJS({
           return clone;
         },
         cleanData: function(elems) {
-          var data, elem, type, special = jQuery2.event.special, i = 0;
+          var data, elem, type, special = jQuery3.event.special, i = 0;
           for (; (elem = elems[i]) !== void 0; i++) {
             if (acceptData(elem)) {
               if (data = elem[dataPriv.expando]) {
                 if (data.events) {
                   for (type in data.events) {
                     if (special[type]) {
-                      jQuery2.event.remove(elem, type);
+                      jQuery3.event.remove(elem, type);
                     } else {
-                      jQuery2.removeEvent(elem, type, data.handle);
+                      jQuery3.removeEvent(elem, type, data.handle);
                     }
                   }
                 }
@@ -3453,7 +3453,7 @@ var require_jquery = __commonJS({
           }
         }
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         detach: function(selector) {
           return remove(this, selector, true);
         },
@@ -3462,7 +3462,7 @@ var require_jquery = __commonJS({
         },
         text: function(value) {
           return access(this, function(value2) {
-            return value2 === void 0 ? jQuery2.text(this) : this.empty().each(function() {
+            return value2 === void 0 ? jQuery3.text(this) : this.empty().each(function() {
               if (this.nodeType === 1 || this.nodeType === 11 || this.nodeType === 9) {
                 this.textContent = value2;
               }
@@ -3503,7 +3503,7 @@ var require_jquery = __commonJS({
           var elem, i = 0;
           for (; (elem = this[i]) != null; i++) {
             if (elem.nodeType === 1) {
-              jQuery2.cleanData(getAll(elem, false));
+              jQuery3.cleanData(getAll(elem, false));
               elem.textContent = "";
             }
           }
@@ -3513,7 +3513,7 @@ var require_jquery = __commonJS({
           dataAndEvents = dataAndEvents == null ? false : dataAndEvents;
           deepDataAndEvents = deepDataAndEvents == null ? dataAndEvents : deepDataAndEvents;
           return this.map(function() {
-            return jQuery2.clone(this, dataAndEvents, deepDataAndEvents);
+            return jQuery3.clone(this, dataAndEvents, deepDataAndEvents);
           });
         },
         html: function(value) {
@@ -3523,12 +3523,12 @@ var require_jquery = __commonJS({
               return elem.innerHTML;
             }
             if (typeof value2 === "string" && !rnoInnerhtml.test(value2) && !wrapMap[(rtagName.exec(value2) || ["", ""])[1].toLowerCase()]) {
-              value2 = jQuery2.htmlPrefilter(value2);
+              value2 = jQuery3.htmlPrefilter(value2);
               try {
                 for (; i < l; i++) {
                   elem = this[i] || {};
                   if (elem.nodeType === 1) {
-                    jQuery2.cleanData(getAll(elem, false));
+                    jQuery3.cleanData(getAll(elem, false));
                     elem.innerHTML = value2;
                   }
                 }
@@ -3545,8 +3545,8 @@ var require_jquery = __commonJS({
           var ignored = [];
           return domManip(this, arguments, function(elem) {
             var parent = this.parentNode;
-            if (jQuery2.inArray(this, ignored) < 0) {
-              jQuery2.cleanData(getAll(this));
+            if (jQuery3.inArray(this, ignored) < 0) {
+              jQuery3.cleanData(getAll(this));
               if (parent) {
                 parent.replaceChild(elem, this);
               }
@@ -3554,18 +3554,18 @@ var require_jquery = __commonJS({
           }, ignored);
         }
       });
-      jQuery2.each({
+      jQuery3.each({
         appendTo: "append",
         prependTo: "prepend",
         insertBefore: "before",
         insertAfter: "after",
         replaceAll: "replaceWith"
       }, function(name, original) {
-        jQuery2.fn[name] = function(selector) {
-          var elems, ret = [], insert = jQuery2(selector), last = insert.length - 1, i = 0;
+        jQuery3.fn[name] = function(selector) {
+          var elems, ret = [], insert = jQuery3(selector), last = insert.length - 1, i = 0;
           for (; i <= last; i++) {
             elems = i === last ? this : this.clone(true);
-            jQuery2(insert[i])[original](elems);
+            jQuery3(insert[i])[original](elems);
             push.apply(ret, elems.get());
           }
           return this.pushStack(ret);
@@ -3624,7 +3624,7 @@ var require_jquery = __commonJS({
         div.style.backgroundClip = "content-box";
         div.cloneNode(true).style.backgroundClip = "";
         support.clearCloneStyle = div.style.backgroundClip === "content-box";
-        jQuery2.extend(support, {
+        jQuery3.extend(support, {
           boxSizingReliable: function() {
             computeStyleTests();
             return boxSizingReliableVal;
@@ -3674,7 +3674,7 @@ var require_jquery = __commonJS({
             ret = ret.replace(rtrimCSS, "$1");
           }
           if (ret === "" && !isAttached(elem)) {
-            ret = jQuery2.style(elem, name);
+            ret = jQuery3.style(elem, name);
           }
           if (!support.pixelBoxStyles() && rnumnonpx.test(ret) && rboxStyle.test(name)) {
             width = style.width;
@@ -3711,7 +3711,7 @@ var require_jquery = __commonJS({
         }
       }
       function finalPropName(name) {
-        var final = jQuery2.cssProps[name] || vendorProps[name];
+        var final = jQuery3.cssProps[name] || vendorProps[name];
         if (final) {
           return final;
         }
@@ -3735,21 +3735,21 @@ var require_jquery = __commonJS({
         }
         for (; i < 4; i += 2) {
           if (box === "margin") {
-            delta += jQuery2.css(elem, box + cssExpand[i], true, styles);
+            delta += jQuery3.css(elem, box + cssExpand[i], true, styles);
           }
           if (!isBorderBox) {
-            delta += jQuery2.css(elem, "padding" + cssExpand[i], true, styles);
+            delta += jQuery3.css(elem, "padding" + cssExpand[i], true, styles);
             if (box !== "padding") {
-              delta += jQuery2.css(elem, "border" + cssExpand[i] + "Width", true, styles);
+              delta += jQuery3.css(elem, "border" + cssExpand[i] + "Width", true, styles);
             } else {
-              extra += jQuery2.css(elem, "border" + cssExpand[i] + "Width", true, styles);
+              extra += jQuery3.css(elem, "border" + cssExpand[i] + "Width", true, styles);
             }
           } else {
             if (box === "content") {
-              delta -= jQuery2.css(elem, "padding" + cssExpand[i], true, styles);
+              delta -= jQuery3.css(elem, "padding" + cssExpand[i], true, styles);
             }
             if (box !== "margin") {
-              delta -= jQuery2.css(elem, "border" + cssExpand[i] + "Width", true, styles);
+              delta -= jQuery3.css(elem, "border" + cssExpand[i] + "Width", true, styles);
             }
           }
         }
@@ -3759,15 +3759,15 @@ var require_jquery = __commonJS({
         return delta;
       }
       function getWidthOrHeight(elem, dimension, extra) {
-        var styles = getStyles(elem), boxSizingNeeded = !support.boxSizingReliable() || extra, isBorderBox = boxSizingNeeded && jQuery2.css(elem, "boxSizing", false, styles) === "border-box", valueIsBorderBox = isBorderBox, val = curCSS(elem, dimension, styles), offsetProp = "offset" + dimension[0].toUpperCase() + dimension.slice(1);
+        var styles = getStyles(elem), boxSizingNeeded = !support.boxSizingReliable() || extra, isBorderBox = boxSizingNeeded && jQuery3.css(elem, "boxSizing", false, styles) === "border-box", valueIsBorderBox = isBorderBox, val = curCSS(elem, dimension, styles), offsetProp = "offset" + dimension[0].toUpperCase() + dimension.slice(1);
         if (rnumnonpx.test(val)) {
           if (!extra) {
             return val;
           }
           val = "auto";
         }
-        if ((!support.boxSizingReliable() && isBorderBox || !support.reliableTrDimensions() && nodeName(elem, "tr") || val === "auto" || !parseFloat(val) && jQuery2.css(elem, "display", false, styles) === "inline") && elem.getClientRects().length) {
-          isBorderBox = jQuery2.css(elem, "boxSizing", false, styles) === "border-box";
+        if ((!support.boxSizingReliable() && isBorderBox || !support.reliableTrDimensions() && nodeName(elem, "tr") || val === "auto" || !parseFloat(val) && jQuery3.css(elem, "display", false, styles) === "inline") && elem.getClientRects().length) {
+          isBorderBox = jQuery3.css(elem, "boxSizing", false, styles) === "border-box";
           valueIsBorderBox = offsetProp in elem;
           if (valueIsBorderBox) {
             val = elem[offsetProp];
@@ -3776,7 +3776,7 @@ var require_jquery = __commonJS({
         val = parseFloat(val) || 0;
         return val + boxModelAdjustment(elem, dimension, extra || (isBorderBox ? "border" : "content"), valueIsBorderBox, styles, val) + "px";
       }
-      jQuery2.extend({
+      jQuery3.extend({
         cssHooks: {
           opacity: {
             get: function(elem, computed) {
@@ -3818,7 +3818,7 @@ var require_jquery = __commonJS({
           if (!isCustomProp) {
             name = finalPropName(origName);
           }
-          hooks = jQuery2.cssHooks[name] || jQuery2.cssHooks[origName];
+          hooks = jQuery3.cssHooks[name] || jQuery3.cssHooks[origName];
           if (value !== void 0) {
             type = typeof value;
             if (type === "string" && (ret = rcssNum.exec(value)) && ret[1]) {
@@ -3829,7 +3829,7 @@ var require_jquery = __commonJS({
               return;
             }
             if (type === "number" && !isCustomProp) {
-              value += ret && ret[3] || (jQuery2.cssNumber[origName] ? "" : "px");
+              value += ret && ret[3] || (jQuery3.cssNumber[origName] ? "" : "px");
             }
             if (!support.clearCloneStyle && value === "" && name.indexOf("background") === 0) {
               style[name] = "inherit";
@@ -3853,7 +3853,7 @@ var require_jquery = __commonJS({
           if (!isCustomProp) {
             name = finalPropName(origName);
           }
-          hooks = jQuery2.cssHooks[name] || jQuery2.cssHooks[origName];
+          hooks = jQuery3.cssHooks[name] || jQuery3.cssHooks[origName];
           if (hooks && "get" in hooks) {
             val = hooks.get(elem, true, extra);
           }
@@ -3870,41 +3870,41 @@ var require_jquery = __commonJS({
           return val;
         }
       });
-      jQuery2.each(["height", "width"], function(_i, dimension) {
-        jQuery2.cssHooks[dimension] = {
+      jQuery3.each(["height", "width"], function(_i, dimension) {
+        jQuery3.cssHooks[dimension] = {
           get: function(elem, computed, extra) {
             if (computed) {
-              return rdisplayswap.test(jQuery2.css(elem, "display")) && (!elem.getClientRects().length || !elem.getBoundingClientRect().width) ? swap(elem, cssShow, function() {
+              return rdisplayswap.test(jQuery3.css(elem, "display")) && (!elem.getClientRects().length || !elem.getBoundingClientRect().width) ? swap(elem, cssShow, function() {
                 return getWidthOrHeight(elem, dimension, extra);
               }) : getWidthOrHeight(elem, dimension, extra);
             }
           },
           set: function(elem, value, extra) {
-            var matches, styles = getStyles(elem), scrollboxSizeBuggy = !support.scrollboxSize() && styles.position === "absolute", boxSizingNeeded = scrollboxSizeBuggy || extra, isBorderBox = boxSizingNeeded && jQuery2.css(elem, "boxSizing", false, styles) === "border-box", subtract = extra ? boxModelAdjustment(elem, dimension, extra, isBorderBox, styles) : 0;
+            var matches, styles = getStyles(elem), scrollboxSizeBuggy = !support.scrollboxSize() && styles.position === "absolute", boxSizingNeeded = scrollboxSizeBuggy || extra, isBorderBox = boxSizingNeeded && jQuery3.css(elem, "boxSizing", false, styles) === "border-box", subtract = extra ? boxModelAdjustment(elem, dimension, extra, isBorderBox, styles) : 0;
             if (isBorderBox && scrollboxSizeBuggy) {
               subtract -= Math.ceil(elem["offset" + dimension[0].toUpperCase() + dimension.slice(1)] - parseFloat(styles[dimension]) - boxModelAdjustment(elem, dimension, "border", false, styles) - 0.5);
             }
             if (subtract && (matches = rcssNum.exec(value)) && (matches[3] || "px") !== "px") {
               elem.style[dimension] = value;
-              value = jQuery2.css(elem, dimension);
+              value = jQuery3.css(elem, dimension);
             }
             return setPositiveNumber(elem, value, subtract);
           }
         };
       });
-      jQuery2.cssHooks.marginLeft = addGetHookIf(support.reliableMarginLeft, function(elem, computed) {
+      jQuery3.cssHooks.marginLeft = addGetHookIf(support.reliableMarginLeft, function(elem, computed) {
         if (computed) {
           return (parseFloat(curCSS(elem, "marginLeft")) || elem.getBoundingClientRect().left - swap(elem, { marginLeft: 0 }, function() {
             return elem.getBoundingClientRect().left;
           })) + "px";
         }
       });
-      jQuery2.each({
+      jQuery3.each({
         margin: "",
         padding: "",
         border: "Width"
       }, function(prefix, suffix) {
-        jQuery2.cssHooks[prefix + suffix] = {
+        jQuery3.cssHooks[prefix + suffix] = {
           expand: function(value) {
             var i = 0, expanded = {}, parts = typeof value === "string" ? value.split(" ") : [value];
             for (; i < 4; i++) {
@@ -3914,10 +3914,10 @@ var require_jquery = __commonJS({
           }
         };
         if (prefix !== "margin") {
-          jQuery2.cssHooks[prefix + suffix].set = setPositiveNumber;
+          jQuery3.cssHooks[prefix + suffix].set = setPositiveNumber;
         }
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         css: function(name, value) {
           return access(this, function(elem, name2, value2) {
             var styles, len, map = {}, i = 0;
@@ -3925,28 +3925,28 @@ var require_jquery = __commonJS({
               styles = getStyles(elem);
               len = name2.length;
               for (; i < len; i++) {
-                map[name2[i]] = jQuery2.css(elem, name2[i], false, styles);
+                map[name2[i]] = jQuery3.css(elem, name2[i], false, styles);
               }
               return map;
             }
-            return value2 !== void 0 ? jQuery2.style(elem, name2, value2) : jQuery2.css(elem, name2);
+            return value2 !== void 0 ? jQuery3.style(elem, name2, value2) : jQuery3.css(elem, name2);
           }, name, value, arguments.length > 1);
         }
       });
       function Tween(elem, options, prop, end, easing) {
         return new Tween.prototype.init(elem, options, prop, end, easing);
       }
-      jQuery2.Tween = Tween;
+      jQuery3.Tween = Tween;
       Tween.prototype = {
         constructor: Tween,
         init: function(elem, options, prop, end, easing, unit) {
           this.elem = elem;
           this.prop = prop;
-          this.easing = easing || jQuery2.easing._default;
+          this.easing = easing || jQuery3.easing._default;
           this.options = options;
           this.start = this.now = this.cur();
           this.end = end;
-          this.unit = unit || (jQuery2.cssNumber[prop] ? "" : "px");
+          this.unit = unit || (jQuery3.cssNumber[prop] ? "" : "px");
         },
         cur: function() {
           var hooks = Tween.propHooks[this.prop];
@@ -3955,7 +3955,7 @@ var require_jquery = __commonJS({
         run: function(percent) {
           var eased, hooks = Tween.propHooks[this.prop];
           if (this.options.duration) {
-            this.pos = eased = jQuery2.easing[this.easing](percent, this.options.duration * percent, 0, 1, this.options.duration);
+            this.pos = eased = jQuery3.easing[this.easing](percent, this.options.duration * percent, 0, 1, this.options.duration);
           } else {
             this.pos = eased = percent;
           }
@@ -3979,14 +3979,14 @@ var require_jquery = __commonJS({
             if (tween.elem.nodeType !== 1 || tween.elem[tween.prop] != null && tween.elem.style[tween.prop] == null) {
               return tween.elem[tween.prop];
             }
-            result = jQuery2.css(tween.elem, tween.prop, "");
+            result = jQuery3.css(tween.elem, tween.prop, "");
             return !result || result === "auto" ? 0 : result;
           },
           set: function(tween) {
-            if (jQuery2.fx.step[tween.prop]) {
-              jQuery2.fx.step[tween.prop](tween);
-            } else if (tween.elem.nodeType === 1 && (jQuery2.cssHooks[tween.prop] || tween.elem.style[finalPropName(tween.prop)] != null)) {
-              jQuery2.style(tween.elem, tween.prop, tween.now + tween.unit);
+            if (jQuery3.fx.step[tween.prop]) {
+              jQuery3.fx.step[tween.prop](tween);
+            } else if (tween.elem.nodeType === 1 && (jQuery3.cssHooks[tween.prop] || tween.elem.style[finalPropName(tween.prop)] != null)) {
+              jQuery3.style(tween.elem, tween.prop, tween.now + tween.unit);
             } else {
               tween.elem[tween.prop] = tween.now;
             }
@@ -4000,7 +4000,7 @@ var require_jquery = __commonJS({
           }
         }
       };
-      jQuery2.easing = {
+      jQuery3.easing = {
         linear: function(p) {
           return p;
         },
@@ -4009,17 +4009,17 @@ var require_jquery = __commonJS({
         },
         _default: "swing"
       };
-      jQuery2.fx = Tween.prototype.init;
-      jQuery2.fx.step = {};
+      jQuery3.fx = Tween.prototype.init;
+      jQuery3.fx.step = {};
       var fxNow, inProgress, rfxtypes = /^(?:toggle|show|hide)$/, rrun = /queueHooks$/;
       function schedule() {
         if (inProgress) {
           if (document2.hidden === false && window2.requestAnimationFrame) {
             window2.requestAnimationFrame(schedule);
           } else {
-            window2.setTimeout(schedule, jQuery2.fx.interval);
+            window2.setTimeout(schedule, jQuery3.fx.interval);
           }
-          jQuery2.fx.tick();
+          jQuery3.fx.tick();
         }
       }
       function createFxNow() {
@@ -4051,7 +4051,7 @@ var require_jquery = __commonJS({
       function defaultPrefilter(elem, props, opts) {
         var prop, value, toggle, hooks, oldfire, propTween, restoreDisplay, display, isBox = "width" in props || "height" in props, anim = this, orig = {}, style = elem.style, hidden = elem.nodeType && isHiddenWithinTree(elem), dataShow = dataPriv.get(elem, "fxshow");
         if (!opts.queue) {
-          hooks = jQuery2._queueHooks(elem, "fx");
+          hooks = jQuery3._queueHooks(elem, "fx");
           if (hooks.unqueued == null) {
             hooks.unqueued = 0;
             oldfire = hooks.empty.fire;
@@ -4065,7 +4065,7 @@ var require_jquery = __commonJS({
           anim.always(function() {
             anim.always(function() {
               hooks.unqueued--;
-              if (!jQuery2.queue(elem, "fx").length) {
+              if (!jQuery3.queue(elem, "fx").length) {
                 hooks.empty.fire();
               }
             });
@@ -4083,11 +4083,11 @@ var require_jquery = __commonJS({
                 continue;
               }
             }
-            orig[prop] = dataShow && dataShow[prop] || jQuery2.style(elem, prop);
+            orig[prop] = dataShow && dataShow[prop] || jQuery3.style(elem, prop);
           }
         }
-        propTween = !jQuery2.isEmptyObject(props);
-        if (!propTween && jQuery2.isEmptyObject(orig)) {
+        propTween = !jQuery3.isEmptyObject(props);
+        if (!propTween && jQuery3.isEmptyObject(orig)) {
           return;
         }
         if (isBox && elem.nodeType === 1) {
@@ -4096,19 +4096,19 @@ var require_jquery = __commonJS({
           if (restoreDisplay == null) {
             restoreDisplay = dataPriv.get(elem, "display");
           }
-          display = jQuery2.css(elem, "display");
+          display = jQuery3.css(elem, "display");
           if (display === "none") {
             if (restoreDisplay) {
               display = restoreDisplay;
             } else {
               showHide([elem], true);
               restoreDisplay = elem.style.display || restoreDisplay;
-              display = jQuery2.css(elem, "display");
+              display = jQuery3.css(elem, "display");
               showHide([elem]);
             }
           }
           if (display === "inline" || display === "inline-block" && restoreDisplay != null) {
-            if (jQuery2.css(elem, "float") === "none") {
+            if (jQuery3.css(elem, "float") === "none") {
               if (!propTween) {
                 anim.done(function() {
                   style.display = restoreDisplay;
@@ -4152,7 +4152,7 @@ var require_jquery = __commonJS({
               }
               dataPriv.remove(elem, "fxshow");
               for (prop in orig) {
-                jQuery2.style(elem, prop, orig[prop]);
+                jQuery3.style(elem, prop, orig[prop]);
               }
             });
           }
@@ -4180,7 +4180,7 @@ var require_jquery = __commonJS({
             props[name] = value;
             delete props[index];
           }
-          hooks = jQuery2.cssHooks[name];
+          hooks = jQuery3.cssHooks[name];
           if (hooks && "expand" in hooks) {
             value = hooks.expand(value);
             delete props[name];
@@ -4196,7 +4196,7 @@ var require_jquery = __commonJS({
         }
       }
       function Animation(elem, properties, options) {
-        var result, stopped, index = 0, length = Animation.prefilters.length, deferred = jQuery2.Deferred().always(function() {
+        var result, stopped, index = 0, length = Animation.prefilters.length, deferred = jQuery3.Deferred().always(function() {
           delete tick.elem;
         }), tick = function() {
           if (stopped) {
@@ -4217,10 +4217,10 @@ var require_jquery = __commonJS({
           return false;
         }, animation = deferred.promise({
           elem,
-          props: jQuery2.extend({}, properties),
-          opts: jQuery2.extend(true, {
+          props: jQuery3.extend({}, properties),
+          opts: jQuery3.extend(true, {
             specialEasing: {},
-            easing: jQuery2.easing._default
+            easing: jQuery3.easing._default
           }, options),
           originalProperties: properties,
           originalOptions: options,
@@ -4228,7 +4228,7 @@ var require_jquery = __commonJS({
           duration: options.duration,
           tweens: [],
           createTween: function(prop, end) {
-            var tween = jQuery2.Tween(elem, animation.opts, prop, end, animation.opts.specialEasing[prop] || animation.opts.easing);
+            var tween = jQuery3.Tween(elem, animation.opts, prop, end, animation.opts.specialEasing[prop] || animation.opts.easing);
             animation.tweens.push(tween);
             return tween;
           },
@@ -4255,24 +4255,24 @@ var require_jquery = __commonJS({
           result = Animation.prefilters[index].call(animation, elem, props, animation.opts);
           if (result) {
             if (isFunction(result.stop)) {
-              jQuery2._queueHooks(animation.elem, animation.opts.queue).stop = result.stop.bind(result);
+              jQuery3._queueHooks(animation.elem, animation.opts.queue).stop = result.stop.bind(result);
             }
             return result;
           }
         }
-        jQuery2.map(props, createTween, animation);
+        jQuery3.map(props, createTween, animation);
         if (isFunction(animation.opts.start)) {
           animation.opts.start.call(elem, animation);
         }
         animation.progress(animation.opts.progress).done(animation.opts.done, animation.opts.complete).fail(animation.opts.fail).always(animation.opts.always);
-        jQuery2.fx.timer(jQuery2.extend(tick, {
+        jQuery3.fx.timer(jQuery3.extend(tick, {
           elem,
           anim: animation,
           queue: animation.opts.queue
         }));
         return animation;
       }
-      jQuery2.Animation = jQuery2.extend(Animation, {
+      jQuery3.Animation = jQuery3.extend(Animation, {
         tweeners: {
           "*": [function(prop, value) {
             var tween = this.createTween(prop, value);
@@ -4303,20 +4303,20 @@ var require_jquery = __commonJS({
           }
         }
       });
-      jQuery2.speed = function(speed, easing, fn) {
-        var opt = speed && typeof speed === "object" ? jQuery2.extend({}, speed) : {
+      jQuery3.speed = function(speed, easing, fn) {
+        var opt = speed && typeof speed === "object" ? jQuery3.extend({}, speed) : {
           complete: fn || !fn && easing || isFunction(speed) && speed,
           duration: speed,
           easing: fn && easing || easing && !isFunction(easing) && easing
         };
-        if (jQuery2.fx.off) {
+        if (jQuery3.fx.off) {
           opt.duration = 0;
         } else {
           if (typeof opt.duration !== "number") {
-            if (opt.duration in jQuery2.fx.speeds) {
-              opt.duration = jQuery2.fx.speeds[opt.duration];
+            if (opt.duration in jQuery3.fx.speeds) {
+              opt.duration = jQuery3.fx.speeds[opt.duration];
             } else {
-              opt.duration = jQuery2.fx.speeds._default;
+              opt.duration = jQuery3.fx.speeds._default;
             }
           }
         }
@@ -4329,18 +4329,18 @@ var require_jquery = __commonJS({
             opt.old.call(this);
           }
           if (opt.queue) {
-            jQuery2.dequeue(this, opt.queue);
+            jQuery3.dequeue(this, opt.queue);
           }
         };
         return opt;
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         fadeTo: function(speed, to, easing, callback) {
           return this.filter(isHiddenWithinTree).css("opacity", 0).show().end().animate({ opacity: to }, speed, easing, callback);
         },
         animate: function(prop, speed, easing, callback) {
-          var empty = jQuery2.isEmptyObject(prop), optall = jQuery2.speed(speed, easing, callback), doAnimation = function() {
-            var anim = Animation(this, jQuery2.extend({}, prop), optall);
+          var empty = jQuery3.isEmptyObject(prop), optall = jQuery3.speed(speed, easing, callback), doAnimation = function() {
+            var anim = Animation(this, jQuery3.extend({}, prop), optall);
             if (empty || dataPriv.get(this, "finish")) {
               anim.stop(true);
             }
@@ -4363,7 +4363,7 @@ var require_jquery = __commonJS({
             this.queue(type || "fx", []);
           }
           return this.each(function() {
-            var dequeue = true, index = type != null && type + "queueHooks", timers = jQuery2.timers, data = dataPriv.get(this);
+            var dequeue = true, index = type != null && type + "queueHooks", timers = jQuery3.timers, data = dataPriv.get(this);
             if (index) {
               if (data[index] && data[index].stop) {
                 stopQueue(data[index]);
@@ -4383,7 +4383,7 @@ var require_jquery = __commonJS({
               }
             }
             if (dequeue || !gotoEnd) {
-              jQuery2.dequeue(this, type);
+              jQuery3.dequeue(this, type);
             }
           });
         },
@@ -4392,9 +4392,9 @@ var require_jquery = __commonJS({
             type = type || "fx";
           }
           return this.each(function() {
-            var index, data = dataPriv.get(this), queue = data[type + "queue"], hooks = data[type + "queueHooks"], timers = jQuery2.timers, length = queue ? queue.length : 0;
+            var index, data = dataPriv.get(this), queue = data[type + "queue"], hooks = data[type + "queueHooks"], timers = jQuery3.timers, length = queue ? queue.length : 0;
             data.finish = true;
-            jQuery2.queue(this, type, []);
+            jQuery3.queue(this, type, []);
             if (hooks && hooks.stop) {
               hooks.stop.call(this, true);
             }
@@ -4413,13 +4413,13 @@ var require_jquery = __commonJS({
           });
         }
       });
-      jQuery2.each(["toggle", "show", "hide"], function(_i, name) {
-        var cssFn = jQuery2.fn[name];
-        jQuery2.fn[name] = function(speed, easing, callback) {
+      jQuery3.each(["toggle", "show", "hide"], function(_i, name) {
+        var cssFn = jQuery3.fn[name];
+        jQuery3.fn[name] = function(speed, easing, callback) {
           return speed == null || typeof speed === "boolean" ? cssFn.apply(this, arguments) : this.animate(genFx(name, true), speed, easing, callback);
         };
       });
-      jQuery2.each({
+      jQuery3.each({
         slideDown: genFx("show"),
         slideUp: genFx("hide"),
         slideToggle: genFx("toggle"),
@@ -4427,13 +4427,13 @@ var require_jquery = __commonJS({
         fadeOut: { opacity: "hide" },
         fadeToggle: { opacity: "toggle" }
       }, function(name, props) {
-        jQuery2.fn[name] = function(speed, easing, callback) {
+        jQuery3.fn[name] = function(speed, easing, callback) {
           return this.animate(props, speed, easing, callback);
         };
       });
-      jQuery2.timers = [];
-      jQuery2.fx.tick = function() {
-        var timer, i = 0, timers = jQuery2.timers;
+      jQuery3.timers = [];
+      jQuery3.fx.tick = function() {
+        var timer, i = 0, timers = jQuery3.timers;
         fxNow = Date.now();
         for (; i < timers.length; i++) {
           timer = timers[i];
@@ -4442,32 +4442,32 @@ var require_jquery = __commonJS({
           }
         }
         if (!timers.length) {
-          jQuery2.fx.stop();
+          jQuery3.fx.stop();
         }
         fxNow = void 0;
       };
-      jQuery2.fx.timer = function(timer) {
-        jQuery2.timers.push(timer);
-        jQuery2.fx.start();
+      jQuery3.fx.timer = function(timer) {
+        jQuery3.timers.push(timer);
+        jQuery3.fx.start();
       };
-      jQuery2.fx.interval = 13;
-      jQuery2.fx.start = function() {
+      jQuery3.fx.interval = 13;
+      jQuery3.fx.start = function() {
         if (inProgress) {
           return;
         }
         inProgress = true;
         schedule();
       };
-      jQuery2.fx.stop = function() {
+      jQuery3.fx.stop = function() {
         inProgress = null;
       };
-      jQuery2.fx.speeds = {
+      jQuery3.fx.speeds = {
         slow: 600,
         fast: 200,
         _default: 400
       };
-      jQuery2.fn.delay = function(time, type) {
-        time = jQuery2.fx ? jQuery2.fx.speeds[time] || time : time;
+      jQuery3.fn.delay = function(time, type) {
+        time = jQuery3.fx ? jQuery3.fx.speeds[time] || time : time;
         type = type || "fx";
         return this.queue(type, function(next, hooks) {
           var timeout = window2.setTimeout(next, time);
@@ -4486,32 +4486,32 @@ var require_jquery = __commonJS({
         input.type = "radio";
         support.radioValue = input.value === "t";
       })();
-      var boolHook, attrHandle = jQuery2.expr.attrHandle;
-      jQuery2.fn.extend({
+      var boolHook, attrHandle = jQuery3.expr.attrHandle;
+      jQuery3.fn.extend({
         attr: function(name, value) {
-          return access(this, jQuery2.attr, name, value, arguments.length > 1);
+          return access(this, jQuery3.attr, name, value, arguments.length > 1);
         },
         removeAttr: function(name) {
           return this.each(function() {
-            jQuery2.removeAttr(this, name);
+            jQuery3.removeAttr(this, name);
           });
         }
       });
-      jQuery2.extend({
+      jQuery3.extend({
         attr: function(elem, name, value) {
           var ret, hooks, nType = elem.nodeType;
           if (nType === 3 || nType === 8 || nType === 2) {
             return;
           }
           if (typeof elem.getAttribute === "undefined") {
-            return jQuery2.prop(elem, name, value);
+            return jQuery3.prop(elem, name, value);
           }
-          if (nType !== 1 || !jQuery2.isXMLDoc(elem)) {
-            hooks = jQuery2.attrHooks[name.toLowerCase()] || (jQuery2.expr.match.bool.test(name) ? boolHook : void 0);
+          if (nType !== 1 || !jQuery3.isXMLDoc(elem)) {
+            hooks = jQuery3.attrHooks[name.toLowerCase()] || (jQuery3.expr.match.bool.test(name) ? boolHook : void 0);
           }
           if (value !== void 0) {
             if (value === null) {
-              jQuery2.removeAttr(elem, name);
+              jQuery3.removeAttr(elem, name);
               return;
             }
             if (hooks && "set" in hooks && (ret = hooks.set(elem, value, name)) !== void 0) {
@@ -4523,7 +4523,7 @@ var require_jquery = __commonJS({
           if (hooks && "get" in hooks && (ret = hooks.get(elem, name)) !== null) {
             return ret;
           }
-          ret = jQuery2.find.attr(elem, name);
+          ret = jQuery3.find.attr(elem, name);
           return ret == null ? void 0 : ret;
         },
         attrHooks: {
@@ -4552,15 +4552,15 @@ var require_jquery = __commonJS({
       boolHook = {
         set: function(elem, value, name) {
           if (value === false) {
-            jQuery2.removeAttr(elem, name);
+            jQuery3.removeAttr(elem, name);
           } else {
             elem.setAttribute(name, name);
           }
           return name;
         }
       };
-      jQuery2.each(jQuery2.expr.match.bool.source.match(/\w+/g), function(_i, name) {
-        var getter = attrHandle[name] || jQuery2.find.attr;
+      jQuery3.each(jQuery3.expr.match.bool.source.match(/\w+/g), function(_i, name) {
+        var getter = attrHandle[name] || jQuery3.find.attr;
         attrHandle[name] = function(elem, name2, isXML) {
           var ret, handle, lowercaseName = name2.toLowerCase();
           if (!isXML) {
@@ -4573,25 +4573,25 @@ var require_jquery = __commonJS({
         };
       });
       var rfocusable = /^(?:input|select|textarea|button)$/i, rclickable = /^(?:a|area)$/i;
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         prop: function(name, value) {
-          return access(this, jQuery2.prop, name, value, arguments.length > 1);
+          return access(this, jQuery3.prop, name, value, arguments.length > 1);
         },
         removeProp: function(name) {
           return this.each(function() {
-            delete this[jQuery2.propFix[name] || name];
+            delete this[jQuery3.propFix[name] || name];
           });
         }
       });
-      jQuery2.extend({
+      jQuery3.extend({
         prop: function(elem, name, value) {
           var ret, hooks, nType = elem.nodeType;
           if (nType === 3 || nType === 8 || nType === 2) {
             return;
           }
-          if (nType !== 1 || !jQuery2.isXMLDoc(elem)) {
-            name = jQuery2.propFix[name] || name;
-            hooks = jQuery2.propHooks[name];
+          if (nType !== 1 || !jQuery3.isXMLDoc(elem)) {
+            name = jQuery3.propFix[name] || name;
+            hooks = jQuery3.propHooks[name];
           }
           if (value !== void 0) {
             if (hooks && "set" in hooks && (ret = hooks.set(elem, value, name)) !== void 0) {
@@ -4607,7 +4607,7 @@ var require_jquery = __commonJS({
         propHooks: {
           tabIndex: {
             get: function(elem) {
-              var tabindex = jQuery2.find.attr(elem, "tabindex");
+              var tabindex = jQuery3.find.attr(elem, "tabindex");
               if (tabindex) {
                 return parseInt(tabindex, 10);
               }
@@ -4624,7 +4624,7 @@ var require_jquery = __commonJS({
         }
       });
       if (!support.optSelected) {
-        jQuery2.propHooks.selected = {
+        jQuery3.propHooks.selected = {
           get: function(elem) {
             var parent = elem.parentNode;
             if (parent && parent.parentNode) {
@@ -4643,7 +4643,7 @@ var require_jquery = __commonJS({
           }
         };
       }
-      jQuery2.each([
+      jQuery3.each([
         "tabIndex",
         "readOnly",
         "maxLength",
@@ -4655,7 +4655,7 @@ var require_jquery = __commonJS({
         "frameBorder",
         "contentEditable"
       ], function() {
-        jQuery2.propFix[this.toLowerCase()] = this;
+        jQuery3.propFix[this.toLowerCase()] = this;
       });
       function stripAndCollapse(value) {
         var tokens = value.match(rnothtmlwhite) || [];
@@ -4673,12 +4673,12 @@ var require_jquery = __commonJS({
         }
         return [];
       }
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         addClass: function(value) {
           var classNames, cur, curValue, className, i, finalValue;
           if (isFunction(value)) {
             return this.each(function(j) {
-              jQuery2(this).addClass(value.call(this, j, getClass(this)));
+              jQuery3(this).addClass(value.call(this, j, getClass(this)));
             });
           }
           classNames = classesToArray(value);
@@ -4706,7 +4706,7 @@ var require_jquery = __commonJS({
           var classNames, cur, curValue, className, i, finalValue;
           if (isFunction(value)) {
             return this.each(function(j) {
-              jQuery2(this).removeClass(value.call(this, j, getClass(this)));
+              jQuery3(this).removeClass(value.call(this, j, getClass(this)));
             });
           }
           if (!arguments.length) {
@@ -4737,7 +4737,7 @@ var require_jquery = __commonJS({
           var classNames, className, i, self, type = typeof value, isValidValue = type === "string" || Array.isArray(value);
           if (isFunction(value)) {
             return this.each(function(i2) {
-              jQuery2(this).toggleClass(value.call(this, i2, getClass(this), stateVal), stateVal);
+              jQuery3(this).toggleClass(value.call(this, i2, getClass(this), stateVal), stateVal);
             });
           }
           if (typeof stateVal === "boolean" && isValidValue) {
@@ -4746,7 +4746,7 @@ var require_jquery = __commonJS({
           classNames = classesToArray(value);
           return this.each(function() {
             if (isValidValue) {
-              self = jQuery2(this);
+              self = jQuery3(this);
               for (i = 0; i < classNames.length; i++) {
                 className = classNames[i];
                 if (self.hasClass(className)) {
@@ -4778,12 +4778,12 @@ var require_jquery = __commonJS({
         }
       });
       var rreturn = /\r/g;
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         val: function(value) {
           var hooks, ret, valueIsFunction, elem = this[0];
           if (!arguments.length) {
             if (elem) {
-              hooks = jQuery2.valHooks[elem.type] || jQuery2.valHooks[elem.nodeName.toLowerCase()];
+              hooks = jQuery3.valHooks[elem.type] || jQuery3.valHooks[elem.nodeName.toLowerCase()];
               if (hooks && "get" in hooks && (ret = hooks.get(elem, "value")) !== void 0) {
                 return ret;
               }
@@ -4802,7 +4802,7 @@ var require_jquery = __commonJS({
               return;
             }
             if (valueIsFunction) {
-              val = value.call(this, i, jQuery2(this).val());
+              val = value.call(this, i, jQuery3(this).val());
             } else {
               val = value;
             }
@@ -4811,23 +4811,23 @@ var require_jquery = __commonJS({
             } else if (typeof val === "number") {
               val += "";
             } else if (Array.isArray(val)) {
-              val = jQuery2.map(val, function(value2) {
+              val = jQuery3.map(val, function(value2) {
                 return value2 == null ? "" : value2 + "";
               });
             }
-            hooks = jQuery2.valHooks[this.type] || jQuery2.valHooks[this.nodeName.toLowerCase()];
+            hooks = jQuery3.valHooks[this.type] || jQuery3.valHooks[this.nodeName.toLowerCase()];
             if (!hooks || !("set" in hooks) || hooks.set(this, val, "value") === void 0) {
               this.value = val;
             }
           });
         }
       });
-      jQuery2.extend({
+      jQuery3.extend({
         valHooks: {
           option: {
             get: function(elem) {
-              var val = jQuery2.find.attr(elem, "value");
-              return val != null ? val : stripAndCollapse(jQuery2.text(elem));
+              var val = jQuery3.find.attr(elem, "value");
+              return val != null ? val : stripAndCollapse(jQuery3.text(elem));
             }
           },
           select: {
@@ -4841,7 +4841,7 @@ var require_jquery = __commonJS({
               for (; i < max; i++) {
                 option = options[i];
                 if ((option.selected || i === index) && !option.disabled && (!option.parentNode.disabled || !nodeName(option.parentNode, "optgroup"))) {
-                  value = jQuery2(option).val();
+                  value = jQuery3(option).val();
                   if (one) {
                     return value;
                   }
@@ -4851,10 +4851,10 @@ var require_jquery = __commonJS({
               return values;
             },
             set: function(elem, value) {
-              var optionSet, option, options = elem.options, values = jQuery2.makeArray(value), i = options.length;
+              var optionSet, option, options = elem.options, values = jQuery3.makeArray(value), i = options.length;
               while (i--) {
                 option = options[i];
-                if (option.selected = jQuery2.inArray(jQuery2.valHooks.option.get(option), values) > -1) {
+                if (option.selected = jQuery3.inArray(jQuery3.valHooks.option.get(option), values) > -1) {
                   optionSet = true;
                 }
               }
@@ -4866,16 +4866,16 @@ var require_jquery = __commonJS({
           }
         }
       });
-      jQuery2.each(["radio", "checkbox"], function() {
-        jQuery2.valHooks[this] = {
+      jQuery3.each(["radio", "checkbox"], function() {
+        jQuery3.valHooks[this] = {
           set: function(elem, value) {
             if (Array.isArray(value)) {
-              return elem.checked = jQuery2.inArray(jQuery2(elem).val(), value) > -1;
+              return elem.checked = jQuery3.inArray(jQuery3(elem).val(), value) > -1;
             }
           }
         };
         if (!support.checkOn) {
-          jQuery2.valHooks[this].get = function(elem) {
+          jQuery3.valHooks[this].get = function(elem) {
             return elem.getAttribute("value") === null ? "on" : elem.value;
           };
         }
@@ -4884,14 +4884,14 @@ var require_jquery = __commonJS({
       var rfocusMorph = /^(?:focusinfocus|focusoutblur)$/, stopPropagationCallback = function(e) {
         e.stopPropagation();
       };
-      jQuery2.extend(jQuery2.event, {
+      jQuery3.extend(jQuery3.event, {
         trigger: function(event, data, elem, onlyHandlers) {
           var i, cur, tmp, bubbleType, ontype, handle, special, lastElement, eventPath = [elem || document2], type = hasOwn.call(event, "type") ? event.type : event, namespaces = hasOwn.call(event, "namespace") ? event.namespace.split(".") : [];
           cur = lastElement = tmp = elem = elem || document2;
           if (elem.nodeType === 3 || elem.nodeType === 8) {
             return;
           }
-          if (rfocusMorph.test(type + jQuery2.event.triggered)) {
+          if (rfocusMorph.test(type + jQuery3.event.triggered)) {
             return;
           }
           if (type.indexOf(".") > -1) {
@@ -4900,7 +4900,7 @@ var require_jquery = __commonJS({
             namespaces.sort();
           }
           ontype = type.indexOf(":") < 0 && "on" + type;
-          event = event[jQuery2.expando] ? event : new jQuery2.Event(type, typeof event === "object" && event);
+          event = event[jQuery3.expando] ? event : new jQuery3.Event(type, typeof event === "object" && event);
           event.isTrigger = onlyHandlers ? 2 : 3;
           event.namespace = namespaces.join(".");
           event.rnamespace = event.namespace ? new RegExp("(^|\\.)" + namespaces.join("\\.(?:.*\\.|)") + "(\\.|$)") : null;
@@ -4908,8 +4908,8 @@ var require_jquery = __commonJS({
           if (!event.target) {
             event.target = elem;
           }
-          data = data == null ? [event] : jQuery2.makeArray(data, [event]);
-          special = jQuery2.event.special[type] || {};
+          data = data == null ? [event] : jQuery3.makeArray(data, [event]);
+          special = jQuery3.event.special[type] || {};
           if (!onlyHandlers && special.trigger && special.trigger.apply(elem, data) === false) {
             return;
           }
@@ -4950,7 +4950,7 @@ var require_jquery = __commonJS({
                 if (tmp) {
                   elem[ontype] = null;
                 }
-                jQuery2.event.triggered = type;
+                jQuery3.event.triggered = type;
                 if (event.isPropagationStopped()) {
                   lastElement.addEventListener(type, stopPropagationCallback);
                 }
@@ -4958,7 +4958,7 @@ var require_jquery = __commonJS({
                 if (event.isPropagationStopped()) {
                   lastElement.removeEventListener(type, stopPropagationCallback);
                 }
-                jQuery2.event.triggered = void 0;
+                jQuery3.event.triggered = void 0;
                 if (tmp) {
                   elem[ontype] = tmp;
                 }
@@ -4968,32 +4968,32 @@ var require_jquery = __commonJS({
           return event.result;
         },
         simulate: function(type, elem, event) {
-          var e = jQuery2.extend(new jQuery2.Event(), event, {
+          var e = jQuery3.extend(new jQuery3.Event(), event, {
             type,
             isSimulated: true
           });
-          jQuery2.event.trigger(e, null, elem);
+          jQuery3.event.trigger(e, null, elem);
         }
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         trigger: function(type, data) {
           return this.each(function() {
-            jQuery2.event.trigger(type, data, this);
+            jQuery3.event.trigger(type, data, this);
           });
         },
         triggerHandler: function(type, data) {
           var elem = this[0];
           if (elem) {
-            return jQuery2.event.trigger(type, data, elem, true);
+            return jQuery3.event.trigger(type, data, elem, true);
           }
         }
       });
       if (!support.focusin) {
-        jQuery2.each({ focus: "focusin", blur: "focusout" }, function(orig, fix) {
+        jQuery3.each({ focus: "focusin", blur: "focusout" }, function(orig, fix) {
           var handler = function(event) {
-            jQuery2.event.simulate(fix, event.target, jQuery2.event.fix(event));
+            jQuery3.event.simulate(fix, event.target, jQuery3.event.fix(event));
           };
-          jQuery2.event.special[fix] = {
+          jQuery3.event.special[fix] = {
             setup: function() {
               var doc = this.ownerDocument || this.document || this, attaches = dataPriv.access(doc, fix);
               if (!attaches) {
@@ -5016,7 +5016,7 @@ var require_jquery = __commonJS({
       var location = window2.location;
       var nonce = { guid: Date.now() };
       var rquery = /\?/;
-      jQuery2.parseXML = function(data) {
+      jQuery3.parseXML = function(data) {
         var xml, parserErrorElem;
         if (!data || typeof data !== "string") {
           return null;
@@ -5027,7 +5027,7 @@ var require_jquery = __commonJS({
         }
         parserErrorElem = xml && xml.getElementsByTagName("parsererror")[0];
         if (!xml || parserErrorElem) {
-          jQuery2.error("Invalid XML: " + (parserErrorElem ? jQuery2.map(parserErrorElem.childNodes, function(el) {
+          jQuery3.error("Invalid XML: " + (parserErrorElem ? jQuery3.map(parserErrorElem.childNodes, function(el) {
             return el.textContent;
           }).join("\n") : data));
         }
@@ -5037,7 +5037,7 @@ var require_jquery = __commonJS({
       function buildParams(prefix, obj, traditional, add) {
         var name;
         if (Array.isArray(obj)) {
-          jQuery2.each(obj, function(i, v) {
+          jQuery3.each(obj, function(i, v) {
             if (traditional || rbracket.test(prefix)) {
               add(prefix, v);
             } else {
@@ -5052,7 +5052,7 @@ var require_jquery = __commonJS({
           add(prefix, obj);
         }
       }
-      jQuery2.param = function(a, traditional) {
+      jQuery3.param = function(a, traditional) {
         var prefix, s = [], add = function(key, valueOrFunction) {
           var value = isFunction(valueOrFunction) ? valueOrFunction() : valueOrFunction;
           s[s.length] = encodeURIComponent(key) + "=" + encodeURIComponent(value == null ? "" : value);
@@ -5060,8 +5060,8 @@ var require_jquery = __commonJS({
         if (a == null) {
           return "";
         }
-        if (Array.isArray(a) || a.jquery && !jQuery2.isPlainObject(a)) {
-          jQuery2.each(a, function() {
+        if (Array.isArray(a) || a.jquery && !jQuery3.isPlainObject(a)) {
+          jQuery3.each(a, function() {
             add(this.name, this.value);
           });
         } else {
@@ -5071,24 +5071,24 @@ var require_jquery = __commonJS({
         }
         return s.join("&");
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         serialize: function() {
-          return jQuery2.param(this.serializeArray());
+          return jQuery3.param(this.serializeArray());
         },
         serializeArray: function() {
           return this.map(function() {
-            var elements = jQuery2.prop(this, "elements");
-            return elements ? jQuery2.makeArray(elements) : this;
+            var elements = jQuery3.prop(this, "elements");
+            return elements ? jQuery3.makeArray(elements) : this;
           }).filter(function() {
             var type = this.type;
-            return this.name && !jQuery2(this).is(":disabled") && rsubmittable.test(this.nodeName) && !rsubmitterTypes.test(type) && (this.checked || !rcheckableType.test(type));
+            return this.name && !jQuery3(this).is(":disabled") && rsubmittable.test(this.nodeName) && !rsubmitterTypes.test(type) && (this.checked || !rcheckableType.test(type));
           }).map(function(_i, elem) {
-            var val = jQuery2(this).val();
+            var val = jQuery3(this).val();
             if (val == null) {
               return null;
             }
             if (Array.isArray(val)) {
-              return jQuery2.map(val, function(val2) {
+              return jQuery3.map(val, function(val2) {
                 return { name: elem.name, value: val2.replace(rCRLF, "\r\n") };
               });
             }
@@ -5122,7 +5122,7 @@ var require_jquery = __commonJS({
         function inspect(dataType) {
           var selected;
           inspected[dataType] = true;
-          jQuery2.each(structure[dataType] || [], function(_, prefilterOrFactory) {
+          jQuery3.each(structure[dataType] || [], function(_, prefilterOrFactory) {
             var dataTypeOrTransport = prefilterOrFactory(options, originalOptions, jqXHR);
             if (typeof dataTypeOrTransport === "string" && !seekingTransport && !inspected[dataTypeOrTransport]) {
               options.dataTypes.unshift(dataTypeOrTransport);
@@ -5137,14 +5137,14 @@ var require_jquery = __commonJS({
         return inspect(options.dataTypes[0]) || !inspected["*"] && inspect("*");
       }
       function ajaxExtend(target, src) {
-        var key, deep, flatOptions = jQuery2.ajaxSettings.flatOptions || {};
+        var key, deep, flatOptions = jQuery3.ajaxSettings.flatOptions || {};
         for (key in src) {
           if (src[key] !== void 0) {
             (flatOptions[key] ? target : deep || (deep = {}))[key] = src[key];
           }
         }
         if (deep) {
-          jQuery2.extend(true, target, deep);
+          jQuery3.extend(true, target, deep);
         }
         return target;
       }
@@ -5243,7 +5243,7 @@ var require_jquery = __commonJS({
         }
         return { state: "success", data: response };
       }
-      jQuery2.extend({
+      jQuery3.extend({
         active: 0,
         lastModified: {},
         etag: {},
@@ -5276,7 +5276,7 @@ var require_jquery = __commonJS({
             "* text": String,
             "text html": true,
             "text json": JSON.parse,
-            "text xml": jQuery2.parseXML
+            "text xml": jQuery3.parseXML
           },
           flatOptions: {
             url: true,
@@ -5284,7 +5284,7 @@ var require_jquery = __commonJS({
           }
         },
         ajaxSetup: function(target, settings) {
-          return settings ? ajaxExtend(ajaxExtend(target, jQuery2.ajaxSettings), settings) : ajaxExtend(jQuery2.ajaxSettings, target);
+          return settings ? ajaxExtend(ajaxExtend(target, jQuery3.ajaxSettings), settings) : ajaxExtend(jQuery3.ajaxSettings, target);
         },
         ajaxPrefilter: addToPrefiltersOrTransports(prefilters),
         ajaxTransport: addToPrefiltersOrTransports(transports),
@@ -5294,7 +5294,7 @@ var require_jquery = __commonJS({
             url = void 0;
           }
           options = options || {};
-          var transport, cacheURL, responseHeadersString, responseHeaders, timeoutTimer, urlAnchor, completed2, fireGlobals, i, uncached, s = jQuery2.ajaxSetup({}, options), callbackContext = s.context || s, globalEventContext = s.context && (callbackContext.nodeType || callbackContext.jquery) ? jQuery2(callbackContext) : jQuery2.event, deferred = jQuery2.Deferred(), completeDeferred = jQuery2.Callbacks("once memory"), statusCode = s.statusCode || {}, requestHeaders = {}, requestHeadersNames = {}, strAbort = "canceled", jqXHR = {
+          var transport, cacheURL, responseHeadersString, responseHeaders, timeoutTimer, urlAnchor, completed2, fireGlobals, i, uncached, s = jQuery3.ajaxSetup({}, options), callbackContext = s.context || s, globalEventContext = s.context && (callbackContext.nodeType || callbackContext.jquery) ? jQuery3(callbackContext) : jQuery3.event, deferred = jQuery3.Deferred(), completeDeferred = jQuery3.Callbacks("once memory"), statusCode = s.statusCode || {}, requestHeaders = {}, requestHeadersNames = {}, strAbort = "canceled", jqXHR = {
             readyState: 0,
             getResponseHeader: function(key) {
               var match;
@@ -5362,15 +5362,15 @@ var require_jquery = __commonJS({
             }
           }
           if (s.data && s.processData && typeof s.data !== "string") {
-            s.data = jQuery2.param(s.data, s.traditional);
+            s.data = jQuery3.param(s.data, s.traditional);
           }
           inspectPrefiltersOrTransports(prefilters, s, options, jqXHR);
           if (completed2) {
             return jqXHR;
           }
-          fireGlobals = jQuery2.event && s.global;
-          if (fireGlobals && jQuery2.active++ === 0) {
-            jQuery2.event.trigger("ajaxStart");
+          fireGlobals = jQuery3.event && s.global;
+          if (fireGlobals && jQuery3.active++ === 0) {
+            jQuery3.event.trigger("ajaxStart");
           }
           s.type = s.type.toUpperCase();
           s.hasContent = !rnoContent.test(s.type);
@@ -5390,11 +5390,11 @@ var require_jquery = __commonJS({
             s.data = s.data.replace(r20, "+");
           }
           if (s.ifModified) {
-            if (jQuery2.lastModified[cacheURL]) {
-              jqXHR.setRequestHeader("If-Modified-Since", jQuery2.lastModified[cacheURL]);
+            if (jQuery3.lastModified[cacheURL]) {
+              jqXHR.setRequestHeader("If-Modified-Since", jQuery3.lastModified[cacheURL]);
             }
-            if (jQuery2.etag[cacheURL]) {
-              jqXHR.setRequestHeader("If-None-Match", jQuery2.etag[cacheURL]);
+            if (jQuery3.etag[cacheURL]) {
+              jqXHR.setRequestHeader("If-None-Match", jQuery3.etag[cacheURL]);
             }
           }
           if (s.data && s.hasContent && s.contentType !== false || options.contentType) {
@@ -5453,7 +5453,7 @@ var require_jquery = __commonJS({
             if (responses) {
               response = ajaxHandleResponses(s, jqXHR, responses);
             }
-            if (!isSuccess && jQuery2.inArray("script", s.dataTypes) > -1 && jQuery2.inArray("json", s.dataTypes) < 0) {
+            if (!isSuccess && jQuery3.inArray("script", s.dataTypes) > -1 && jQuery3.inArray("json", s.dataTypes) < 0) {
               s.converters["text script"] = function() {
               };
             }
@@ -5462,11 +5462,11 @@ var require_jquery = __commonJS({
               if (s.ifModified) {
                 modified = jqXHR.getResponseHeader("Last-Modified");
                 if (modified) {
-                  jQuery2.lastModified[cacheURL] = modified;
+                  jQuery3.lastModified[cacheURL] = modified;
                 }
                 modified = jqXHR.getResponseHeader("etag");
                 if (modified) {
-                  jQuery2.etag[cacheURL] = modified;
+                  jQuery3.etag[cacheURL] = modified;
                 }
               }
               if (status === 204 || s.type === "HEAD") {
@@ -5503,37 +5503,37 @@ var require_jquery = __commonJS({
             completeDeferred.fireWith(callbackContext, [jqXHR, statusText]);
             if (fireGlobals) {
               globalEventContext.trigger("ajaxComplete", [jqXHR, s]);
-              if (!--jQuery2.active) {
-                jQuery2.event.trigger("ajaxStop");
+              if (!--jQuery3.active) {
+                jQuery3.event.trigger("ajaxStop");
               }
             }
           }
           return jqXHR;
         },
         getJSON: function(url, data, callback) {
-          return jQuery2.get(url, data, callback, "json");
+          return jQuery3.get(url, data, callback, "json");
         },
         getScript: function(url, callback) {
-          return jQuery2.get(url, void 0, callback, "script");
+          return jQuery3.get(url, void 0, callback, "script");
         }
       });
-      jQuery2.each(["get", "post"], function(_i, method) {
-        jQuery2[method] = function(url, data, callback, type) {
+      jQuery3.each(["get", "post"], function(_i, method) {
+        jQuery3[method] = function(url, data, callback, type) {
           if (isFunction(data)) {
             type = type || callback;
             callback = data;
             data = void 0;
           }
-          return jQuery2.ajax(jQuery2.extend({
+          return jQuery3.ajax(jQuery3.extend({
             url,
             type: method,
             dataType: type,
             data,
             success: callback
-          }, jQuery2.isPlainObject(url) && url));
+          }, jQuery3.isPlainObject(url) && url));
         };
       });
-      jQuery2.ajaxPrefilter(function(s) {
+      jQuery3.ajaxPrefilter(function(s) {
         var i;
         for (i in s.headers) {
           if (i.toLowerCase() === "content-type") {
@@ -5541,8 +5541,8 @@ var require_jquery = __commonJS({
           }
         }
       });
-      jQuery2._evalUrl = function(url, options, doc) {
-        return jQuery2.ajax({
+      jQuery3._evalUrl = function(url, options, doc) {
+        return jQuery3.ajax({
           url,
           type: "GET",
           dataType: "script",
@@ -5554,18 +5554,18 @@ var require_jquery = __commonJS({
             }
           },
           dataFilter: function(response) {
-            jQuery2.globalEval(response, options, doc);
+            jQuery3.globalEval(response, options, doc);
           }
         });
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         wrapAll: function(html) {
           var wrap;
           if (this[0]) {
             if (isFunction(html)) {
               html = html.call(this[0]);
             }
-            wrap = jQuery2(html, this[0].ownerDocument).eq(0).clone(true);
+            wrap = jQuery3(html, this[0].ownerDocument).eq(0).clone(true);
             if (this[0].parentNode) {
               wrap.insertBefore(this[0]);
             }
@@ -5582,11 +5582,11 @@ var require_jquery = __commonJS({
         wrapInner: function(html) {
           if (isFunction(html)) {
             return this.each(function(i) {
-              jQuery2(this).wrapInner(html.call(this, i));
+              jQuery3(this).wrapInner(html.call(this, i));
             });
           }
           return this.each(function() {
-            var self = jQuery2(this), contents = self.contents();
+            var self = jQuery3(this), contents = self.contents();
             if (contents.length) {
               contents.wrapAll(html);
             } else {
@@ -5597,23 +5597,23 @@ var require_jquery = __commonJS({
         wrap: function(html) {
           var htmlIsFunction = isFunction(html);
           return this.each(function(i) {
-            jQuery2(this).wrapAll(htmlIsFunction ? html.call(this, i) : html);
+            jQuery3(this).wrapAll(htmlIsFunction ? html.call(this, i) : html);
           });
         },
         unwrap: function(selector) {
           this.parent(selector).not("body").each(function() {
-            jQuery2(this).replaceWith(this.childNodes);
+            jQuery3(this).replaceWith(this.childNodes);
           });
           return this;
         }
       });
-      jQuery2.expr.pseudos.hidden = function(elem) {
-        return !jQuery2.expr.pseudos.visible(elem);
+      jQuery3.expr.pseudos.hidden = function(elem) {
+        return !jQuery3.expr.pseudos.visible(elem);
       };
-      jQuery2.expr.pseudos.visible = function(elem) {
+      jQuery3.expr.pseudos.visible = function(elem) {
         return !!(elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length);
       };
-      jQuery2.ajaxSettings.xhr = function() {
+      jQuery3.ajaxSettings.xhr = function() {
         try {
           return new window2.XMLHttpRequest();
         } catch (e) {
@@ -5622,10 +5622,10 @@ var require_jquery = __commonJS({
       var xhrSuccessStatus = {
         0: 200,
         1223: 204
-      }, xhrSupported = jQuery2.ajaxSettings.xhr();
+      }, xhrSupported = jQuery3.ajaxSettings.xhr();
       support.cors = !!xhrSupported && "withCredentials" in xhrSupported;
       support.ajax = xhrSupported = !!xhrSupported;
-      jQuery2.ajaxTransport(function(options) {
+      jQuery3.ajaxTransport(function(options) {
         var callback, errorCallback;
         if (support.cors || xhrSupported && !options.crossDomain) {
           return {
@@ -5696,12 +5696,12 @@ var require_jquery = __commonJS({
           };
         }
       });
-      jQuery2.ajaxPrefilter(function(s) {
+      jQuery3.ajaxPrefilter(function(s) {
         if (s.crossDomain) {
           s.contents.script = false;
         }
       });
-      jQuery2.ajaxSetup({
+      jQuery3.ajaxSetup({
         accepts: {
           script: "text/javascript, application/javascript, application/ecmascript, application/x-ecmascript"
         },
@@ -5710,12 +5710,12 @@ var require_jquery = __commonJS({
         },
         converters: {
           "text script": function(text) {
-            jQuery2.globalEval(text);
+            jQuery3.globalEval(text);
             return text;
           }
         }
       });
-      jQuery2.ajaxPrefilter("script", function(s) {
+      jQuery3.ajaxPrefilter("script", function(s) {
         if (s.cache === void 0) {
           s.cache = false;
         }
@@ -5723,12 +5723,12 @@ var require_jquery = __commonJS({
           s.type = "GET";
         }
       });
-      jQuery2.ajaxTransport("script", function(s) {
+      jQuery3.ajaxTransport("script", function(s) {
         if (s.crossDomain || s.scriptAttrs) {
           var script, callback;
           return {
             send: function(_, complete) {
-              script = jQuery2("<script>").attr(s.scriptAttrs || {}).prop({ charset: s.scriptCharset, src: s.url }).on("load error", callback = function(evt) {
+              script = jQuery3("<script>").attr(s.scriptAttrs || {}).prop({ charset: s.scriptCharset, src: s.url }).on("load error", callback = function(evt) {
                 script.remove();
                 callback = null;
                 if (evt) {
@@ -5746,15 +5746,15 @@ var require_jquery = __commonJS({
         }
       });
       var oldCallbacks = [], rjsonp = /(=)\?(?=&|$)|\?\?/;
-      jQuery2.ajaxSetup({
+      jQuery3.ajaxSetup({
         jsonp: "callback",
         jsonpCallback: function() {
-          var callback = oldCallbacks.pop() || jQuery2.expando + "_" + nonce.guid++;
+          var callback = oldCallbacks.pop() || jQuery3.expando + "_" + nonce.guid++;
           this[callback] = true;
           return callback;
         }
       });
-      jQuery2.ajaxPrefilter("json jsonp", function(s, originalSettings, jqXHR) {
+      jQuery3.ajaxPrefilter("json jsonp", function(s, originalSettings, jqXHR) {
         var callbackName, overwritten, responseContainer, jsonProp = s.jsonp !== false && (rjsonp.test(s.url) ? "url" : typeof s.data === "string" && (s.contentType || "").indexOf("application/x-www-form-urlencoded") === 0 && rjsonp.test(s.data) && "data");
         if (jsonProp || s.dataTypes[0] === "jsonp") {
           callbackName = s.jsonpCallback = isFunction(s.jsonpCallback) ? s.jsonpCallback() : s.jsonpCallback;
@@ -5765,7 +5765,7 @@ var require_jquery = __commonJS({
           }
           s.converters["script json"] = function() {
             if (!responseContainer) {
-              jQuery2.error(callbackName + " was not called");
+              jQuery3.error(callbackName + " was not called");
             }
             return responseContainer[0];
           };
@@ -5776,7 +5776,7 @@ var require_jquery = __commonJS({
           };
           jqXHR.always(function() {
             if (overwritten === void 0) {
-              jQuery2(window2).removeProp(callbackName);
+              jQuery3(window2).removeProp(callbackName);
             } else {
               window2[callbackName] = overwritten;
             }
@@ -5797,7 +5797,7 @@ var require_jquery = __commonJS({
         body.innerHTML = "<form></form><form></form>";
         return body.childNodes.length === 2;
       }();
-      jQuery2.parseHTML = function(data, context, keepScripts) {
+      jQuery3.parseHTML = function(data, context, keepScripts) {
         if (typeof data !== "string") {
           return [];
         }
@@ -5823,11 +5823,11 @@ var require_jquery = __commonJS({
         }
         parsed = buildFragment([data], context, scripts);
         if (scripts && scripts.length) {
-          jQuery2(scripts).remove();
+          jQuery3(scripts).remove();
         }
-        return jQuery2.merge([], parsed.childNodes);
+        return jQuery3.merge([], parsed.childNodes);
       };
-      jQuery2.fn.load = function(url, params, callback) {
+      jQuery3.fn.load = function(url, params, callback) {
         var selector, type, response, self = this, off = url.indexOf(" ");
         if (off > -1) {
           selector = stripAndCollapse(url.slice(off));
@@ -5840,14 +5840,14 @@ var require_jquery = __commonJS({
           type = "POST";
         }
         if (self.length > 0) {
-          jQuery2.ajax({
+          jQuery3.ajax({
             url,
             type: type || "GET",
             dataType: "html",
             data: params
           }).done(function(responseText) {
             response = arguments;
-            self.html(selector ? jQuery2("<div>").append(jQuery2.parseHTML(responseText)).find(selector) : responseText);
+            self.html(selector ? jQuery3("<div>").append(jQuery3.parseHTML(responseText)).find(selector) : responseText);
           }).always(callback && function(jqXHR, status) {
             self.each(function() {
               callback.apply(this, response || [jqXHR.responseText, status, jqXHR]);
@@ -5856,20 +5856,20 @@ var require_jquery = __commonJS({
         }
         return this;
       };
-      jQuery2.expr.pseudos.animated = function(elem) {
-        return jQuery2.grep(jQuery2.timers, function(fn) {
+      jQuery3.expr.pseudos.animated = function(elem) {
+        return jQuery3.grep(jQuery3.timers, function(fn) {
           return elem === fn.elem;
         }).length;
       };
-      jQuery2.offset = {
+      jQuery3.offset = {
         setOffset: function(elem, options, i) {
-          var curPosition, curLeft, curCSSTop, curTop, curOffset, curCSSLeft, calculatePosition, position = jQuery2.css(elem, "position"), curElem = jQuery2(elem), props = {};
+          var curPosition, curLeft, curCSSTop, curTop, curOffset, curCSSLeft, calculatePosition, position = jQuery3.css(elem, "position"), curElem = jQuery3(elem), props = {};
           if (position === "static") {
             elem.style.position = "relative";
           }
           curOffset = curElem.offset();
-          curCSSTop = jQuery2.css(elem, "top");
-          curCSSLeft = jQuery2.css(elem, "left");
+          curCSSTop = jQuery3.css(elem, "top");
+          curCSSLeft = jQuery3.css(elem, "left");
           calculatePosition = (position === "absolute" || position === "fixed") && (curCSSTop + curCSSLeft).indexOf("auto") > -1;
           if (calculatePosition) {
             curPosition = curElem.position();
@@ -5880,7 +5880,7 @@ var require_jquery = __commonJS({
             curLeft = parseFloat(curCSSLeft) || 0;
           }
           if (isFunction(options)) {
-            options = options.call(elem, i, jQuery2.extend({}, curOffset));
+            options = options.call(elem, i, jQuery3.extend({}, curOffset));
           }
           if (options.top != null) {
             props.top = options.top - curOffset.top + curTop;
@@ -5895,11 +5895,11 @@ var require_jquery = __commonJS({
           }
         }
       };
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         offset: function(options) {
           if (arguments.length) {
             return options === void 0 ? this : this.each(function(i) {
-              jQuery2.offset.setOffset(this, options, i);
+              jQuery3.offset.setOffset(this, options, i);
             });
           }
           var rect, win, elem = this[0];
@@ -5921,39 +5921,39 @@ var require_jquery = __commonJS({
             return;
           }
           var offsetParent, offset, doc, elem = this[0], parentOffset = { top: 0, left: 0 };
-          if (jQuery2.css(elem, "position") === "fixed") {
+          if (jQuery3.css(elem, "position") === "fixed") {
             offset = elem.getBoundingClientRect();
           } else {
             offset = this.offset();
             doc = elem.ownerDocument;
             offsetParent = elem.offsetParent || doc.documentElement;
-            while (offsetParent && (offsetParent === doc.body || offsetParent === doc.documentElement) && jQuery2.css(offsetParent, "position") === "static") {
+            while (offsetParent && (offsetParent === doc.body || offsetParent === doc.documentElement) && jQuery3.css(offsetParent, "position") === "static") {
               offsetParent = offsetParent.parentNode;
             }
             if (offsetParent && offsetParent !== elem && offsetParent.nodeType === 1) {
-              parentOffset = jQuery2(offsetParent).offset();
-              parentOffset.top += jQuery2.css(offsetParent, "borderTopWidth", true);
-              parentOffset.left += jQuery2.css(offsetParent, "borderLeftWidth", true);
+              parentOffset = jQuery3(offsetParent).offset();
+              parentOffset.top += jQuery3.css(offsetParent, "borderTopWidth", true);
+              parentOffset.left += jQuery3.css(offsetParent, "borderLeftWidth", true);
             }
           }
           return {
-            top: offset.top - parentOffset.top - jQuery2.css(elem, "marginTop", true),
-            left: offset.left - parentOffset.left - jQuery2.css(elem, "marginLeft", true)
+            top: offset.top - parentOffset.top - jQuery3.css(elem, "marginTop", true),
+            left: offset.left - parentOffset.left - jQuery3.css(elem, "marginLeft", true)
           };
         },
         offsetParent: function() {
           return this.map(function() {
             var offsetParent = this.offsetParent;
-            while (offsetParent && jQuery2.css(offsetParent, "position") === "static") {
+            while (offsetParent && jQuery3.css(offsetParent, "position") === "static") {
               offsetParent = offsetParent.offsetParent;
             }
             return offsetParent || documentElement;
           });
         }
       });
-      jQuery2.each({ scrollLeft: "pageXOffset", scrollTop: "pageYOffset" }, function(method, prop) {
+      jQuery3.each({ scrollLeft: "pageXOffset", scrollTop: "pageYOffset" }, function(method, prop) {
         var top = prop === "pageYOffset";
-        jQuery2.fn[method] = function(val) {
+        jQuery3.fn[method] = function(val) {
           return access(this, function(elem, method2, val2) {
             var win;
             if (isWindow(elem)) {
@@ -5972,21 +5972,21 @@ var require_jquery = __commonJS({
           }, method, val, arguments.length);
         };
       });
-      jQuery2.each(["top", "left"], function(_i, prop) {
-        jQuery2.cssHooks[prop] = addGetHookIf(support.pixelPosition, function(elem, computed) {
+      jQuery3.each(["top", "left"], function(_i, prop) {
+        jQuery3.cssHooks[prop] = addGetHookIf(support.pixelPosition, function(elem, computed) {
           if (computed) {
             computed = curCSS(elem, prop);
-            return rnumnonpx.test(computed) ? jQuery2(elem).position()[prop] + "px" : computed;
+            return rnumnonpx.test(computed) ? jQuery3(elem).position()[prop] + "px" : computed;
           }
         });
       });
-      jQuery2.each({ Height: "height", Width: "width" }, function(name, type) {
-        jQuery2.each({
+      jQuery3.each({ Height: "height", Width: "width" }, function(name, type) {
+        jQuery3.each({
           padding: "inner" + name,
           content: type,
           "": "outer" + name
         }, function(defaultExtra, funcName) {
-          jQuery2.fn[funcName] = function(margin, value) {
+          jQuery3.fn[funcName] = function(margin, value) {
             var chainable = arguments.length && (defaultExtra || typeof margin !== "boolean"), extra = defaultExtra || (margin === true || value === true ? "margin" : "border");
             return access(this, function(elem, type2, value2) {
               var doc;
@@ -5997,12 +5997,12 @@ var require_jquery = __commonJS({
                 doc = elem.documentElement;
                 return Math.max(elem.body["scroll" + name], doc["scroll" + name], elem.body["offset" + name], doc["offset" + name], doc["client" + name]);
               }
-              return value2 === void 0 ? jQuery2.css(elem, type2, extra) : jQuery2.style(elem, type2, value2, extra);
+              return value2 === void 0 ? jQuery3.css(elem, type2, extra) : jQuery3.style(elem, type2, value2, extra);
             }, type, chainable ? margin : void 0, chainable);
           };
         });
       });
-      jQuery2.each([
+      jQuery3.each([
         "ajaxStart",
         "ajaxStop",
         "ajaxComplete",
@@ -6010,11 +6010,11 @@ var require_jquery = __commonJS({
         "ajaxSuccess",
         "ajaxSend"
       ], function(_i, type) {
-        jQuery2.fn[type] = function(fn) {
+        jQuery3.fn[type] = function(fn) {
           return this.on(type, fn);
         };
       });
-      jQuery2.fn.extend({
+      jQuery3.fn.extend({
         bind: function(types, data, fn) {
           return this.on(types, null, data, fn);
         },
@@ -6031,13 +6031,13 @@ var require_jquery = __commonJS({
           return this.mouseenter(fnOver).mouseleave(fnOut || fnOver);
         }
       });
-      jQuery2.each("blur focus focusin focusout resize scroll click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(" "), function(_i, name) {
-        jQuery2.fn[name] = function(data, fn) {
+      jQuery3.each("blur focus focusin focusout resize scroll click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup contextmenu".split(" "), function(_i, name) {
+        jQuery3.fn[name] = function(data, fn) {
           return arguments.length > 0 ? this.on(name, null, data, fn) : this.trigger(name);
         };
       });
       var rtrim = /^[\s\uFEFF\xA0]+|([^\s\uFEFF\xA0])[\s\uFEFF\xA0]+$/g;
-      jQuery2.proxy = function(fn, context) {
+      jQuery3.proxy = function(fn, context) {
         var tmp, args, proxy;
         if (typeof context === "string") {
           tmp = fn[context];
@@ -6051,50 +6051,50 @@ var require_jquery = __commonJS({
         proxy = function() {
           return fn.apply(context || this, args.concat(slice.call(arguments)));
         };
-        proxy.guid = fn.guid = fn.guid || jQuery2.guid++;
+        proxy.guid = fn.guid = fn.guid || jQuery3.guid++;
         return proxy;
       };
-      jQuery2.holdReady = function(hold) {
+      jQuery3.holdReady = function(hold) {
         if (hold) {
-          jQuery2.readyWait++;
+          jQuery3.readyWait++;
         } else {
-          jQuery2.ready(true);
+          jQuery3.ready(true);
         }
       };
-      jQuery2.isArray = Array.isArray;
-      jQuery2.parseJSON = JSON.parse;
-      jQuery2.nodeName = nodeName;
-      jQuery2.isFunction = isFunction;
-      jQuery2.isWindow = isWindow;
-      jQuery2.camelCase = camelCase;
-      jQuery2.type = toType;
-      jQuery2.now = Date.now;
-      jQuery2.isNumeric = function(obj) {
-        var type = jQuery2.type(obj);
+      jQuery3.isArray = Array.isArray;
+      jQuery3.parseJSON = JSON.parse;
+      jQuery3.nodeName = nodeName;
+      jQuery3.isFunction = isFunction;
+      jQuery3.isWindow = isWindow;
+      jQuery3.camelCase = camelCase;
+      jQuery3.type = toType;
+      jQuery3.now = Date.now;
+      jQuery3.isNumeric = function(obj) {
+        var type = jQuery3.type(obj);
         return (type === "number" || type === "string") && !isNaN(obj - parseFloat(obj));
       };
-      jQuery2.trim = function(text) {
+      jQuery3.trim = function(text) {
         return text == null ? "" : (text + "").replace(rtrim, "$1");
       };
       if (typeof define === "function" && define.amd) {
         define("jquery", [], function() {
-          return jQuery2;
+          return jQuery3;
         });
       }
       var _jQuery = window2.jQuery, _$ = window2.$;
-      jQuery2.noConflict = function(deep) {
-        if (window2.$ === jQuery2) {
+      jQuery3.noConflict = function(deep) {
+        if (window2.$ === jQuery3) {
           window2.$ = _$;
         }
-        if (deep && window2.jQuery === jQuery2) {
+        if (deep && window2.jQuery === jQuery3) {
           window2.jQuery = _jQuery;
         }
-        return jQuery2;
+        return jQuery3;
       };
       if (typeof noGlobal === "undefined") {
-        window2.jQuery = window2.$ = jQuery2;
+        window2.jQuery = window2.$ = jQuery3;
       }
-      return jQuery2;
+      return jQuery3;
     });
   }
 });
@@ -10173,30 +10173,19 @@ __export(main_exports, {
   default: () => HTMLExportPlugin
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian4 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // scripts/export-settings.ts
+var import_obsidian4 = require("obsidian");
+
+// scripts/utils/utils.ts
 var import_obsidian3 = require("obsidian");
 
-// scripts/utils.ts
+// scripts/utils/path.ts
 var import_fs = require("fs");
 var import_obsidian = require("obsidian");
-var import_process = __toESM(require("process"));
+var import_fs2 = require("fs");
 var pathTools = require_upath();
-var dialog = require("electron").remote.dialog;
-var Downloadable = class {
-  constructor(filename, content, type = "text/plain", vaultRelativeDestination, useUnicode = true) {
-    this.filename = "";
-    this.content = "";
-    this.type = "text/plain";
-    this.useUnicode = true;
-    this.filename = filename;
-    this.content = content;
-    this.type = type;
-    this.relativeDownloadPath = vaultRelativeDestination;
-    this.useUnicode = useUnicode;
-  }
-};
 var _Path = class {
   constructor(path, workingDirectory = _Path.vaultPath.asString) {
     this._root = "";
@@ -10209,11 +10198,19 @@ var _Path = class {
     this._isDirectory = false;
     this._isFile = false;
     this._exists = void 0;
-    this._isWindows = import_process.default.platform == "win32";
+    this._isWindows = process.platform === "win32";
     this._workingDirectory = _Path.parsePath(workingDirectory).fullPath;
     this.reparse(path);
     if (this.isAbsolute)
       this._workingDirectory = "";
+  }
+  static log(title, message, type) {
+    this.logQueue.push({ title, message, type });
+  }
+  static dequeueLog() {
+    let queue = this.logQueue;
+    this.logQueue = [];
+    return queue;
   }
   reparse(path) {
     let parsed = _Path.parsePath(path);
@@ -10227,14 +10224,17 @@ var _Path = class {
     this._isDirectory = this._ext == "";
     this._isFile = this._ext != "";
     this._exists = void 0;
+    if (this._isWindows) {
+      this._root = this._root.replaceAll("/", "\\");
+      this._dir = this._dir.replaceAll("/", "\\");
+      this._parent = this._parent.replaceAll("/", "\\");
+      this._fullPath = this._fullPath.replaceAll("/", "\\");
+    }
     this._exists;
     return this;
   }
-  static makePathUnicodeCompatible(path) {
-    return decodeURI(path);
-  }
   static parsePath(path) {
-    path = this.makePathUnicodeCompatible(path);
+    path = decodeURI(path);
     let parsed = pathTools.parse(path);
     let parent = parsed.dir;
     if (path.endsWith("/") || path.endsWith("\\") || parsed.ext == "") {
@@ -10247,7 +10247,7 @@ var _Path = class {
     return (0, import_fs.existsSync)(path);
   }
   static joinStringPaths(...paths) {
-    return this.makePathUnicodeCompatible(pathTools.join(...paths));
+    return decodeURI(pathTools.join(...paths));
   }
   static joinPath(...paths) {
     return new _Path(_Path.joinStringPaths(...paths.map((p) => p.asString)), paths[0]._workingDirectory);
@@ -10277,6 +10277,12 @@ var _Path = class {
     }
     throw new Error("Vault path could not be determined");
   }
+  static get vaultConfigDir() {
+    if (this.vaultConfigDirCache == void 0) {
+      this.vaultConfigDirCache = new _Path(app.vault.configDir, "");
+    }
+    return this.vaultConfigDirCache;
+  }
   static get emptyPath() {
     return new _Path("", "");
   }
@@ -10293,8 +10299,10 @@ var _Path = class {
     return new _Path(_Path.joinStringPaths(this.asString, ...paths.map((p) => p.asString)), this._workingDirectory);
   }
   makeAbsolute(workingDirectory = this._workingDirectory) {
+    if (workingDirectory instanceof _Path && !workingDirectory.isAbsolute)
+      throw new Error("workingDirectory must be an absolute path");
     if (!this.isAbsolute) {
-      this._fullPath = _Path.joinStringPaths(workingDirectory, this.asString);
+      this._fullPath = _Path.joinStringPaths(workingDirectory.toString(), this.asString);
       this._workingDirectory = "";
       this.reparse(this.asString);
     }
@@ -10419,8 +10427,14 @@ var _Path = class {
     return this._workingDirectory;
   }
   get exists() {
-    if (this._exists == void 0)
-      this._exists = _Path.pathExists(this.absolute().asString);
+    if (this._exists == void 0) {
+      try {
+        this._exists = _Path.pathExists(this.absolute().asString);
+      } catch (error) {
+        this._exists = false;
+        _Path.log("Error checking if path exists: " + this.asString, error.stack, "error");
+      }
+    }
     return this._exists;
   }
   assertExists() {
@@ -10454,299 +10468,64 @@ var _Path = class {
   absolute(workingDirectory = this._workingDirectory) {
     return this.copy.makeAbsolute(workingDirectory);
   }
-  createDirectory() {
+  async createDirectory() {
     if (!this.exists) {
-      (0, import_fs.mkdirSync)(this.absolute().directory.asString, { recursive: true });
-      return true;
+      let path = this.absolute().directory.asString;
+      try {
+        await import_fs2.promises.mkdir(path, { recursive: true });
+      } catch (error) {
+        _Path.log("Error creating directory: " + path, error.stack, "error");
+        return false;
+      }
     }
-    return false;
+    return true;
+  }
+  async readFileString(encoding = "utf-8") {
+    if (!this.exists || this.isDirectory)
+      return void 0;
+    try {
+      let data = await import_fs2.promises.readFile(this.absolute().asString, { encoding });
+      return data;
+    } catch (error) {
+      _Path.log("Error reading file: " + this.asString, error.stack, "error");
+      return void 0;
+    }
+  }
+  async readFileBuffer() {
+    if (!this.exists || this.isDirectory)
+      return void 0;
+    try {
+      let data = await import_fs2.promises.readFile(this.absolute().asString);
+      return data;
+    } catch (error) {
+      _Path.log("Error reading file buffer: " + this.asString, error.stack, "error");
+      return void 0;
+    }
+  }
+  async writeFile(data, encoding = "utf-8") {
+    if (this.isDirectory)
+      return false;
+    let dirExists = await this.createDirectory();
+    if (!dirExists)
+      return false;
+    try {
+      await import_fs2.promises.writeFile(this.absolute().asString, data, { encoding });
+      return true;
+    } catch (error) {
+      _Path.log("Error writing file: " + this.asString, error.stack, "error");
+      return false;
+    }
   }
 };
 var Path = _Path;
+Path.logQueue = [];
 Path.vaultPathCache = void 0;
-var Utils = class {
-  static async delay(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
-  }
-  static padStringBeggining(str, length, char) {
-    return char.repeat(length - str.length) + str;
-  }
-  static generateProgressbar(title, progress, max, barLength, fullChar, emptyChar) {
-    return `${title}: ${Utils.padStringBeggining(progress + "/" + max, 13, " ")}
+Path.vaultConfigDirCache = void 0;
 
-${fullChar.repeat(Math.floor(progress / max * barLength))}${emptyChar.repeat(barLength - Math.floor(progress / max * barLength))}`;
-  }
-  static sampleCSSColorHex(variable, testParentEl) {
-    let testEl = document.createElement("div");
-    testEl.style.setProperty("display", "none");
-    testEl.style.setProperty("color", "var(" + variable + ")");
-    testParentEl.appendChild(testEl);
-    let col = getComputedStyle(testEl).color;
-    let opacity = getComputedStyle(testEl).opacity;
-    testEl.remove();
-    function toColorObject(str) {
-      var match = str.match(/rgb?\((\d+),\s*(\d+),\s*(\d+)\)/);
-      return match ? {
-        red: parseInt(match[1]),
-        green: parseInt(match[2]),
-        blue: parseInt(match[3]),
-        alpha: 1
-      } : null;
-    }
-    var color = toColorObject(col), alpha = parseFloat(opacity);
-    return isNaN(alpha) && (alpha = 1), color ? {
-      a: alpha * color.alpha,
-      hex: Utils.padStringBeggining(color.red.toString(16), 2, "0") + Utils.padStringBeggining(color.green.toString(16), 2, "0") + Utils.padStringBeggining(color.blue.toString(16), 2, "0")
-    } : {
-      a: alpha,
-      hex: "ffffff"
-    };
-  }
-  static async getText(path) {
-    return new Promise((resolve, reject) => {
-      (0, import_fs.readFile)(path.absolute().asString, { encoding: "utf8" }, (err, data) => {
-        if (err) {
-          new import_obsidian.Notice("Error: could not read text file at path: \n\n" + path + "\n\n" + err, 1e4);
-          console.error("Error: could not read text file at path: \n\n" + path + "\n\n" + err);
-          resolve(void 0);
-        } else
-          resolve(data);
-      });
-    });
-  }
-  static async getTextBase64(path) {
-    return new Promise((resolve, reject) => {
-      (0, import_fs.readFile)(path.absolute().asString, { encoding: "base64" }, (err, data) => {
-        if (err) {
-          new import_obsidian.Notice("Error: could not read base64 text file at path: \n\n" + path + "\n\n" + err, 1e4);
-          console.error("Error: could not read base64 text file at path: \n\n" + path + "\n\n" + err);
-          reject(err);
-        } else
-          resolve(data);
-      });
-    });
-  }
-  static async getFileBuffer(path) {
-    return new Promise((resolve, reject) => {
-      (0, import_fs.readFile)(path.absolute().asString, (err, data) => {
-        if (err) {
-          new import_obsidian.Notice("Error: could not read file at path: \n\n" + path + "\n\n" + err, 1e4);
-          console.error("Error: could not read file at path: \n\n" + path + "\n\n" + err);
-          resolve(void 0);
-        } else
-          resolve(data);
-      });
-    });
-  }
-  static changeViewMode(view, modeName) {
-    const mode = view.modes[modeName];
-    mode && view.setMode(mode);
-  }
-  static createUnicodeArray(content) {
-    let charCode, byteArray = [];
-    byteArray.push(254, 255);
-    for (let i = 0; i < content.length; ++i) {
-      charCode = content.charCodeAt(i);
-      byteArray.push((charCode & 65280) >>> 8);
-      byteArray.push(charCode & 255);
-    }
-    return new Uint8Array(byteArray);
-  }
-  static async showSaveDialog(defaultPath, defaultFileName, showAllFilesOption = true) {
-    let absoluteDefaultPath = defaultPath.directory.absolute().joinString(defaultFileName);
-    let filters = [{
-      name: Utils.trimStart(absoluteDefaultPath.extenstion, ".").toUpperCase() + " Files",
-      extensions: [Utils.trimStart(absoluteDefaultPath.extenstion, ".")]
-    }];
-    if (showAllFilesOption) {
-      filters.push({
-        name: "All Files",
-        extensions: ["*"]
-      });
-    }
-    let picker = await dialog.showSaveDialog({
-      defaultPath: absoluteDefaultPath.asString,
-      filters,
-      properties: ["showOverwriteConfirmation"]
-    });
-    if (picker.canceled)
-      return void 0;
-    let pickedPath = new Path(picker.filePath);
-    ExportSettings.settings.lastExportPath = pickedPath.asString;
-    ExportSettings.saveSettings();
-    return pickedPath;
-  }
-  static async showSelectFolderDialog(defaultPath) {
-    if (!defaultPath.exists)
-      defaultPath = Path.vaultPath;
-    let picker = await dialog.showOpenDialog({
-      defaultPath: defaultPath.directory.asString,
-      properties: ["openDirectory"]
-    });
-    if (picker.canceled)
-      return void 0;
-    let path = new Path(picker.filePaths[0]);
-    ExportSettings.settings.lastExportPath = path.directory.asString;
-    ExportSettings.saveSettings();
-    return path;
-  }
-  static idealDefaultPath() {
-    let lastPath = new Path(ExportSettings.settings.lastExportPath);
-    if (lastPath.asString != "" && lastPath.exists) {
-      return lastPath.directory;
-    }
-    return Path.vaultPath;
-  }
-  static async downloadFiles(files, folderPath, showProgress) {
-    let lastProgressMessage = Utils.generateProgressbar("Saving Files", 1, files.length, 15, "\u25B0", "\u25B1");
-    let progressNotice = new import_obsidian.Notice(lastProgressMessage, 0);
-    try {
-      for (let i = 0; i < files.length; i++) {
-        let file = files[i];
-        let array = file.content;
-        if (!file.useUnicode && file.content instanceof String)
-          array = Buffer.from(file.content, "base64");
-        if (file.useUnicode && file.content instanceof String)
-          array = Utils.createUnicodeArray(file.content.toString());
-        let parsedPath = folderPath.join(file.relativeDownloadPath).joinString(file.filename);
-        parsedPath.createDirectory();
-        if (!parsedPath.directory.assertExists())
-          continue;
-        (0, import_fs.writeFile)(parsedPath.asString, array, (err) => {
-          if (err) {
-            console.error("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err);
-            new import_obsidian.Notice("Error: could not write file at path: \n\n" + parsedPath.asString + "\n\n" + err, 1e4);
-          }
-        });
-        lastProgressMessage = Utils.generateProgressbar("Saving Files", i + 1, files.length, 15, "\u25B0", "\u25B1");
-        progressNotice.setMessage(lastProgressMessage);
-      }
-    } catch (e) {
-      progressNotice.setMessage("\u2757 " + lastProgressMessage);
-      console.error("Error while saving HTML files: \n\n" + e);
-      return;
-    }
-    progressNotice.hide();
-  }
-  static async waitUntil(condition, timeout = 1e3, interval = 100) {
-    return new Promise((resolve, reject) => {
-      let timer = 0;
-      let intervalId = setInterval(() => {
-        if (condition()) {
-          clearInterval(intervalId);
-          resolve();
-        } else {
-          timer += interval;
-          if (timer >= timeout) {
-            clearInterval(intervalId);
-            reject();
-          }
-        }
-      }, interval);
-    });
-  }
-  static async getThemeContent(themeName) {
-    var _a;
-    if (themeName == "Default")
-      return "/* Using default theme. */";
-    let themePath = new Path(`.obsidian/themes/${themeName}/theme.css`).absolute();
-    if (!themePath.exists) {
-      console.warn("Warning: could not find theme at path: \n\n" + themePath);
-      new import_obsidian.Notice("Warning: could not find theme at path: \n\n" + themePath, 1e3);
-      return "";
-    }
-    let themeContent = (_a = await Utils.getText(themePath)) != null ? _a : "";
-    return themeContent;
-  }
-  static getCurrentThemeName() {
-    var _a;
-    let themeName = (_a = app.vault.config) == null ? void 0 : _a.cssTheme;
-    return (themeName != null ? themeName : "") == "" ? "Default" : themeName;
-  }
-  static getEnabledSnippets() {
-    var _a, _b;
-    return (_b = (_a = app.vault.config) == null ? void 0 : _a.enabledCssSnippets) != null ? _b : [];
-  }
-  static getPluginIDs() {
-    let pluginsArray = Array.from(app.plugins.enabledPlugins.values());
-    for (let i = 0; i < pluginsArray.length; i++) {
-      if (app.plugins.manifests[pluginsArray[i]] == void 0) {
-        pluginsArray.splice(i, 1);
-        i--;
-      }
-    }
-    return pluginsArray;
-  }
-  static getPluginManifest(pluginID) {
-    var _a;
-    return (_a = app.plugins.manifests[pluginID]) != null ? _a : null;
-  }
-  static async getStyleSnippetsContent() {
-    var _a;
-    let snippetContents = [];
-    let enabledSnippets = this.getEnabledSnippets();
-    for (let i = 0; i < enabledSnippets.length; i++) {
-      let path = new Path(`.obsidian/snippets/${enabledSnippets[i]}.css`).absolute();
-      if (path.exists)
-        snippetContents.push((_a = await Utils.getText(path)) != null ? _a : "\n");
-    }
-    return snippetContents;
-  }
-  static async rerenderView(view) {
-    await Utils.delay(300);
-    await view.previewMode.renderer.rerender();
-    await Utils.delay(300);
-  }
-  static async doFullRender(view) {
-    Utils.changeViewMode(view, "preview");
-    await this.delay(200);
-    view.previewMode.renderer.showAll = true;
-    await view.previewMode.renderer.unfoldAllHeadings();
-    await this.rerenderView(view);
-  }
-  static async getRendererHeight(view, rerender = false) {
-    if (rerender)
-      await Utils.doFullRender(view);
-    let height = view.previewMode.renderer.sizerEl.offsetHeight;
-    return height;
-  }
-  static getActiveTextView() {
-    let view = app.workspace.getActiveViewOfType(import_obsidian.TextFileView);
-    if (!view) {
-      return null;
-    }
-    return view;
-  }
-  static findFileInVaultByName(name) {
-    return app.vault.getFiles().find((file) => {
-      if (!name)
-        return false;
-      return file.basename == name;
-    });
-  }
-  static trimEnd(inputString, trimString) {
-    if (inputString.endsWith(trimString)) {
-      return inputString.substring(0, inputString.length - trimString.length);
-    }
-    return inputString;
-  }
-  static trimStart(inputString, trimString) {
-    if (inputString.startsWith(trimString)) {
-      return inputString.substring(trimString.length);
-    }
-    return inputString;
-  }
-};
-
-// scripts/export-settings.ts
-var import_promises2 = require("fs/promises");
-
-// scripts/html-gen.ts
-var import_promises = require("fs/promises");
+// scripts/html-generation/markdown-renderer.ts
 var import_obsidian2 = require("obsidian");
-var import_jquery = __toESM(require_jquery());
 
-// scripts/graph-view/graph-gen.ts
+// scripts/html-generation/graph-gen.ts
 var GraphGenerator = class {
   static InOutQuadBlend(start, end, t) {
     t /= 2;
@@ -10807,158 +10586,63 @@ var GraphGenerator = class {
     linkCounts = indexedRadii.map((r) => linkCounts[r.index]);
     paths = indexedRadii.map((r) => ExportSettings.settings.makeNamesWebStyle ? Path.toWebStyle(paths[r.index]) : paths[r.index]);
     paths = paths.map((p) => {
-      return new Path(p).setExtension(".html").asString;
+      return new Path(p).setExtension(".html").makeUnixStyle().asString;
     });
     this.graphCache = { nodeCount, linkCount: linkSources.length, radii, labels, paths, linkSources, linkTargets };
     return (_a = this.graphCache) != null ? _a : { nodeCount: 0, linkCount: 0, radii: [], labels: [], paths: [], linkSources: [], linkTargets: [] };
   }
 };
 
-// scripts/html-gen.ts
-var import_js_beautify = __toESM(require_js());
-
-// scripts/leaf-handler.ts
-var LeafHandler = class {
-  isMainPanelLeaf(leaf) {
-    const { workspace } = app;
-    const root = leaf == null ? void 0 : leaf.getRoot();
-    return root === workspace.rootSplit || root === workspace.floatingSplit;
+// scripts/utils/downloadable.ts
+var Downloadable = class {
+  constructor(filename, content, vaultRelativeDestination, encoding = "utf8") {
+    if (vaultRelativeDestination.isFile)
+      throw new Error("vaultRelativeDestination must be a folder");
+    this.filename = filename;
+    this.content = content;
+    this.relativeDownloadPath = vaultRelativeDestination;
+    this.encoding = encoding;
   }
-  getOpenLeaves(excludeMainPanelViewTypes, includeSidePanelViewTypes) {
-    const leaves = [];
-    const saveLeaf = (l) => {
-      var _a;
-      const viewType = (_a = l.view) == null ? void 0 : _a.getViewType();
-      if (this.isMainPanelLeaf(l)) {
-        if (!(excludeMainPanelViewTypes == null ? void 0 : excludeMainPanelViewTypes.includes(viewType))) {
-          leaves.push(l);
-        }
-      } else if (includeSidePanelViewTypes == null ? void 0 : includeSidePanelViewTypes.includes(viewType)) {
-        leaves.push(l);
-      }
-    };
-    app.workspace.iterateAllLeaves(saveLeaf);
-    return leaves;
-  }
-  openFileInNewLeaf(file, navType, openState, errorContext, splitDirection = "vertical") {
-    const { workspace } = app;
-    errorContext = errorContext != null ? errorContext : "";
-    const message = `HTML Export: error opening file. ${errorContext}`;
-    const getLeaf = () => {
-      return navType === "split" ? workspace.getLeaf(navType, splitDirection) : workspace.getLeaf(navType);
-    };
-    let leaf = getLeaf();
-    try {
-      leaf.openFile(file, openState).catch((reason) => {
-        console.log(message, reason);
-      });
-    } catch (error) {
-      console.log(message, error);
-    }
-    return leaf;
+  async download(downloadDirectory) {
+    let data = this.content instanceof Buffer ? this.content : Buffer.from(this.content.toString(), this.encoding);
+    let writePath = this.relativeDownloadPath.absolute(downloadDirectory).joinString(this.filename);
+    await writePath.writeFile(data);
   }
 };
 
-// scripts/html-gen.ts
-var $ = import_jquery.default;
-var ExportFile = class {
-  constructor(file, exportToFolder, exportFromFolder, partOfBatch, fileName = "", forceExportToRoot = false) {
-    this.downloads = [];
-    this.externalDownloads = [];
-    if (exportToFolder.isFile || !exportToFolder.isAbsolute)
-      throw new Error("rootExportFolder must be an absolute path to a folder");
-    if (!fileName.endsWith(".html"))
-      throw new Error("fileName must be a .html file");
-    this.markdownFile = file;
-    this.exportToFolder = exportToFolder;
-    this.exportFromFolder = exportFromFolder;
-    this.partOfBatch = partOfBatch;
-    this.name = fileName === "" ? file.basename + ".html" : fileName;
-    this.exportPath = Path.joinStrings(file.parent.path, this.name);
-    if (forceExportToRoot)
-      this.exportPath.reparse(this.name);
-    this.exportPath.setWorkingDirectory(this.exportToFolder.asString);
-    if (ExportSettings.settings.makeNamesWebStyle) {
-      this.name = Path.toWebStyle(this.name);
-      this.exportPath.makeWebStyle();
-    }
-    this.document = document.implementation.createHTMLDocument(this.markdownFile.basename);
-  }
-  get html() {
-    let htmlString = "<!DOCTYPE html>\n" + this.document.documentElement.outerHTML;
-    if (ExportSettings.settings.beautifyHTML)
-      htmlString = (0, import_js_beautify.html_beautify)(htmlString, { indent_size: 2 });
-    return htmlString;
-  }
-  get contentElement() {
-    return this.document.querySelector(".markdown-preview-view");
-  }
-  get exportPathAbsolute() {
-    return this.exportToFolder.join(this.exportPath);
-  }
-  get pathToRoot() {
-    return Path.getRelativePath(this.exportPath, new Path(this.exportPath.workingDirectory), true);
-  }
-  getSelfDownloadable() {
-    return new Downloadable(this.name, this.html, "text/html", this.exportPath.directory, true);
-  }
-  async generateHTML(addSelfToDownloads = false) {
-    HTMLGenerator.getDocumentHTML(this, addSelfToDownloads);
-    return this;
-  }
-  async generateWebpage() {
-    HTMLGenerator.generateWebpage(this);
-    return this;
-  }
-};
-var _HTMLGenerator = class {
-  static async downloadAssets() {
+// scripts/html-generation/asset-handler.ts
+var AssetHandler = class {
+  static async updateAssets() {
     if (HTMLExportPlugin.updateInfo.updateAvailable)
       return;
-    _HTMLGenerator.assetsPath.createDirectory();
-    let webpagejs = await fetch(_HTMLGenerator.webpagejsURL);
+    await this.assetsPath.createDirectory();
+    let webpagejs = await fetch(this.webpagejsURL);
     let webpagejsText = await webpagejs.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("webpage.js").asString, webpagejsText).catch((err) => {
-      console.log(err);
-    });
-    let pluginStyles = await fetch(_HTMLGenerator.pluginStylesURL);
+    await this.assetsPath.joinString("webpage.js").writeFile(webpagejsText);
+    let pluginStyles = await fetch(this.pluginStylesURL);
     let pluginStylesText = await pluginStyles.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("plugin-styles.css").asString, pluginStylesText).catch((err) => {
-      console.log(err);
-    });
-    let obsidianStyles = await fetch(_HTMLGenerator.obsidianStylesURL);
+    this.assetsPath.joinString("plugin-styles.css").writeFile(pluginStylesText);
+    let obsidianStyles = await fetch(this.obsidianStylesURL);
     let obsidianStylesText = await obsidianStyles.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("obsidian-styles.css").asString, obsidianStylesText).catch((err) => {
-      console.log(err);
-    });
-    let graphViewJS = await fetch(_HTMLGenerator.graphViewJSURL);
+    this.assetsPath.joinString("obsidian-styles.css").writeFile(obsidianStylesText);
+    let graphViewJS = await fetch(this.graphViewJSURL);
     let graphViewJSText = await graphViewJS.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_view.js").asString, graphViewJSText).catch((err) => {
-      console.log(err);
-    });
-    let graphWASMJS = await fetch(_HTMLGenerator.graphWASMJSURL);
+    this.assetsPath.joinString("graph_view.js").writeFile(graphViewJSText);
+    let graphWASMJS = await fetch(this.graphWASMJSURL);
     let graphWASMJSText = await graphWASMJS.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_wasm.js").asString, graphWASMJSText).catch((err) => {
-      console.log(err);
-    });
-    let graphWASM = await fetch(_HTMLGenerator.graphWASMURL);
+    this.assetsPath.joinString("graph_wasm.js").writeFile(graphWASMJSText);
+    let graphWASM = await fetch(this.graphWASMURL);
     let graphWASMBuffer = await graphWASM.arrayBuffer();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph_wasm.wasm").asString, Buffer.from(graphWASMBuffer)).catch((err) => {
-      console.log(err);
-    });
-    let renderWorker = await fetch(_HTMLGenerator.renderWorkerURL);
+    this.assetsPath.joinString("graph_wasm.wasm").writeFile(Buffer.from(graphWASMBuffer));
+    let renderWorker = await fetch(this.renderWorkerURL);
     let renderWorkerText = await renderWorker.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("graph-render-worker.js").asString, renderWorkerText).catch((err) => {
-      console.log(err);
-    });
-    let tinycolor = await fetch(_HTMLGenerator.tinycolorURL);
+    this.assetsPath.joinString("graph-render-worker.js").writeFile(renderWorkerText);
+    let tinycolor = await fetch(this.tinycolorURL);
     let tinycolorText = await tinycolor.text();
-    await (0, import_promises.writeFile)(_HTMLGenerator.assetsPath.joinString("tinycolor.js").asString, tinycolorText).catch((err) => {
-      console.log(err);
-    });
+    this.assetsPath.joinString("tinycolor.js").writeFile(tinycolorText);
   }
   static async loadAppStyles() {
-    var _a;
+    var _a, _b;
     let appSheet = document.styleSheets[1];
     let stylesheets = document.styleSheets;
     for (let i = 0; i < stylesheets.length; i++) {
@@ -10967,7 +10651,7 @@ var _HTMLGenerator = class {
         break;
       }
     }
-    _HTMLGenerator.appStyles += await Utils.getText(_HTMLGenerator.assetsPath.joinString("obsidian-styles.css"));
+    this.appStyles += (_b = await this.assetsPath.joinString("obsidian-styles.css").readFileString()) != null ? _b : "";
     for (let i = 0; i < appSheet.cssRules.length; i++) {
       let rule = appSheet.cssRules[i];
       if (rule) {
@@ -10980,37 +10664,38 @@ var _HTMLGenerator = class {
         let cssText = rule.cssText + "\n";
         cssText = cssText.replaceAll("public/", "https://publish.obsidian.md/public/");
         cssText = cssText.replaceAll("lib/", "https://publish.obsidian.md/lib/");
-        _HTMLGenerator.appStyles += cssText;
+        this.appStyles += cssText;
       }
     }
   }
   static async initialize(pluginID) {
     var _a, _b, _c, _d, _e, _f, _g;
-    _HTMLGenerator.thisPluginPath = _HTMLGenerator.vaultPluginsPath.joinString(pluginID + "/").makeAbsolute();
-    _HTMLGenerator.assetsPath = _HTMLGenerator.thisPluginPath.joinString("assets/").makeAbsolute();
-    _HTMLGenerator.assetsPath.createDirectory();
-    if (_HTMLGenerator.autoDownloadExtras)
-      await _HTMLGenerator.downloadAssets();
-    await _HTMLGenerator.loadAppStyles();
-    _HTMLGenerator.pluginStyles = (_a = await Utils.getText(_HTMLGenerator.assetsPath.joinString("plugin-styles.css"))) != null ? _a : "";
-    _HTMLGenerator.themeStyles = await Utils.getThemeContent(Utils.getCurrentThemeName());
-    _HTMLGenerator.webpageJS = (_b = await Utils.getText(_HTMLGenerator.assetsPath.joinString("webpage.js"))) != null ? _b : "";
-    _HTMLGenerator.graphViewJS = (_c = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph_view.js"))) != null ? _c : "";
-    _HTMLGenerator.graphWASMJS = (_d = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph_wasm.js"))) != null ? _d : "";
-    _HTMLGenerator.graphWASM = (_e = await Utils.getFileBuffer(_HTMLGenerator.assetsPath.joinString("graph_wasm.wasm"))) != null ? _e : Buffer.from([]);
-    _HTMLGenerator.renderWorkerJS = (_f = await Utils.getText(_HTMLGenerator.assetsPath.joinString("graph-render-worker.js"))) != null ? _f : "";
-    _HTMLGenerator.tinyColorJS = (_g = await Utils.getText(_HTMLGenerator.assetsPath.joinString("tinycolor.js"))) != null ? _g : "";
+    this.vaultPluginsPath = Path.vaultPath.joinString(app.vault.configDir, "plugins/").makeAbsolute();
+    this.thisPluginPath = this.vaultPluginsPath.joinString(pluginID + "/").makeAbsolute();
+    this.assetsPath = this.thisPluginPath.joinString("assets/").makeAbsolute();
+    await this.assetsPath.createDirectory();
+    if (this.autoDownloadExtras)
+      await this.updateAssets();
+    await this.loadAppStyles();
+    this.webpageStyles = (_a = await this.assetsPath.joinString("plugin-styles.css").readFileString()) != null ? _a : "";
+    this.themeStyles = await this.getThemeContent(this.getCurrentThemeName());
+    this.webpageJS = (_b = await this.assetsPath.joinString("webpage.js").readFileString()) != null ? _b : "";
+    this.graphViewJS = (_c = await this.assetsPath.joinString("graph_view.js").readFileString()) != null ? _c : "";
+    this.graphWASMJS = (_d = await this.assetsPath.joinString("graph_wasm.js").readFileString()) != null ? _d : "";
+    this.graphWASM = (_e = await this.assetsPath.joinString("graph_wasm.wasm").readFileBuffer()) != null ? _e : Buffer.from([]);
+    this.renderWorkerJS = (_f = await this.assetsPath.joinString("graph-render-worker.js").readFileString()) != null ? _f : "";
+    this.tinyColorJS = (_g = await this.assetsPath.joinString("tinycolor.js").readFileString()) != null ? _g : "";
   }
-  static async getThirdPartyPluginCSS() {
+  static async getPluginStyles() {
     let pluginCSS = "";
     let thirdPartyPluginStyleNames = ExportSettings.settings.includePluginCSS.split("\n");
     for (let i = 0; i < thirdPartyPluginStyleNames.length; i++) {
       if (!thirdPartyPluginStyleNames[i] || thirdPartyPluginStyleNames[i] && !/\S/.test(thirdPartyPluginStyleNames[i]))
         continue;
-      let path = _HTMLGenerator.vaultPluginsPath.joinString(thirdPartyPluginStyleNames[i].replace("\n", ""), "styles.css");
+      let path = this.vaultPluginsPath.joinString(thirdPartyPluginStyleNames[i].replace("\n", ""), "styles.css");
       if (!path.exists)
         continue;
-      let style = await Utils.getText(path);
+      let style = await path.readFileString();
       if (style) {
         pluginCSS += style;
       }
@@ -11018,7 +10703,7 @@ var _HTMLGenerator = class {
     return pluginCSS;
   }
   static async getSnippetsCSS(snippetNames) {
-    let snippetsList = await Utils.getStyleSnippetsContent();
+    let snippetsList = await this.getStyleSnippetsContent();
     let snippets = "\n";
     for (let i = 0; i < snippetsList.length; i++) {
       snippets += `/* --- ${snippetNames[i]}.css --- */  
@@ -11029,45 +10714,43 @@ var _HTMLGenerator = class {
     }
     return snippets;
   }
-  static async updateCSSCache() {
-    let snippetsNames = await Utils.getEnabledSnippets();
-    let themeName = Utils.getCurrentThemeName();
-    if (snippetsNames != _HTMLGenerator.lastEnabledSnippets) {
-      _HTMLGenerator.lastEnabledSnippets = snippetsNames;
-      _HTMLGenerator.snippetStyles = await _HTMLGenerator.getSnippetsCSS(snippetsNames);
+  static async updateAssetCache() {
+    let snippetsNames = await this.getEnabledSnippets();
+    let themeName = this.getCurrentThemeName();
+    if (snippetsNames != this.lastEnabledSnippets) {
+      this.lastEnabledSnippets = snippetsNames;
+      this.snippetStyles = await this.getSnippetsCSS(snippetsNames);
     }
-    if (themeName != _HTMLGenerator.lastEnabledTheme) {
-      _HTMLGenerator.lastEnabledTheme = themeName;
-      _HTMLGenerator.themeStyles = await Utils.getThemeContent(themeName);
+    if (themeName != this.lastEnabledTheme) {
+      this.lastEnabledTheme = themeName;
+      this.themeStyles = await this.getThemeContent(themeName);
     }
-    _HTMLGenerator.mathStyles = window.MathJax.chtmlStylesheet().innerHTML.replaceAll("app://obsidian.md/", "https://publish.obsidian.md/");
   }
-  static async getAssetDownloads() {
+  static async getDownloads() {
     let toDownload = [];
     if (!ExportSettings.settings.inlineCSS) {
-      _HTMLGenerator.updateCSSCache();
-      let pluginCSS = _HTMLGenerator.pluginStyles;
-      let thirdPartyPluginCSS = await _HTMLGenerator.getThirdPartyPluginCSS();
+      let pluginCSS = this.webpageStyles;
+      let thirdPartyPluginCSS = await this.getPluginStyles();
       pluginCSS += "\n" + thirdPartyPluginCSS + "\n";
-      let appcssDownload = new Downloadable("obsidian-styles.css", _HTMLGenerator.appStyles, "text/css", _HTMLGenerator.cssFolderName);
-      let plugincssDownload = new Downloadable("plugin-styles.css", pluginCSS, "text/css", _HTMLGenerator.cssFolderName);
-      let themecssDownload = new Downloadable("theme.css", _HTMLGenerator.themeStyles, "text/css", _HTMLGenerator.cssFolderName);
-      let snippetsDownload = new Downloadable("snippets.css", _HTMLGenerator.snippetStyles, "text/css", _HTMLGenerator.cssFolderName);
+      let appcssDownload = new Downloadable("obsidian-styles.css", this.appStyles, this.cssFolderName);
+      let plugincssDownload = new Downloadable("plugin-styles.css", pluginCSS, this.cssFolderName);
+      let themecssDownload = new Downloadable("theme.css", this.themeStyles, this.cssFolderName);
+      let snippetsDownload = new Downloadable("snippets.css", this.snippetStyles, this.cssFolderName);
       toDownload.push(appcssDownload);
       toDownload.push(plugincssDownload);
       toDownload.push(themecssDownload);
       toDownload.push(snippetsDownload);
     }
     if (!ExportSettings.settings.inlineJS) {
-      let webpagejsDownload = new Downloadable("webpage.js", _HTMLGenerator.webpageJS, "text/javascript", _HTMLGenerator.jsFolderName);
+      let webpagejsDownload = new Downloadable("webpage.js", this.webpageJS, this.jsFolderName);
       toDownload.push(webpagejsDownload);
     }
     if (ExportSettings.settings.includeGraphView) {
-      let graphWASMDownload = new Downloadable("graph_wasm.wasm", _HTMLGenerator.graphWASM, "application/wasm", _HTMLGenerator.jsFolderName, false);
-      let renderWorkerJSDownload = new Downloadable("graph-render-worker.js", _HTMLGenerator.renderWorkerJS, "text/javascript", _HTMLGenerator.jsFolderName);
-      let graphWASMJSDownload = new Downloadable("graph_wasm.js", _HTMLGenerator.graphWASMJS, "text/javascript", _HTMLGenerator.jsFolderName);
-      let graphViewJSDownload = new Downloadable("graph_view.js", _HTMLGenerator.graphViewJS, "text/javascript", _HTMLGenerator.jsFolderName);
-      let tinyColorJS = new Downloadable("tinycolor.js", _HTMLGenerator.tinyColorJS, "text/javascript", _HTMLGenerator.jsFolderName);
+      let graphWASMDownload = new Downloadable("graph_wasm.wasm", this.graphWASM, this.jsFolderName);
+      let renderWorkerJSDownload = new Downloadable("graph-render-worker.js", this.renderWorkerJS, this.jsFolderName);
+      let graphWASMJSDownload = new Downloadable("graph_wasm.js", this.graphWASMJS, this.jsFolderName);
+      let graphViewJSDownload = new Downloadable("graph_view.js", this.graphViewJS, this.jsFolderName);
+      let tinyColorJS = new Downloadable("tinycolor.js", this.tinyColorJS, this.jsFolderName);
       toDownload.push(renderWorkerJSDownload);
       toDownload.push(graphWASMDownload);
       toDownload.push(graphWASMJSDownload);
@@ -11076,26 +10759,959 @@ var _HTMLGenerator = class {
     }
     return toDownload;
   }
+  static async getThemeContent(themeName) {
+    var _a;
+    if (themeName == "Default")
+      return "/* Using default theme. */";
+    let themePath = new Path(`.obsidian/themes/${themeName}/theme.css`).absolute();
+    if (!themePath.exists) {
+      RenderLog.warning("Warning: could not load theme.", "Cannot find theme at path: \n\n" + themePath);
+      return "";
+    }
+    let themeContent = (_a = await themePath.readFileString()) != null ? _a : "";
+    return themeContent;
+  }
+  static getCurrentThemeName() {
+    var _a;
+    let themeName = (_a = app.vault.config) == null ? void 0 : _a.cssTheme;
+    return (themeName != null ? themeName : "") == "" ? "Default" : themeName;
+  }
+  static getEnabledSnippets() {
+    var _a, _b;
+    return (_b = (_a = app.vault.config) == null ? void 0 : _a.enabledCssSnippets) != null ? _b : [];
+  }
+  static async getStyleSnippetsContent() {
+    var _a;
+    let snippetContents = [];
+    let enabledSnippets = this.getEnabledSnippets();
+    for (let i = 0; i < enabledSnippets.length; i++) {
+      let path = new Path(`.obsidian/snippets/${enabledSnippets[i]}.css`).absolute();
+      if (path.exists)
+        snippetContents.push((_a = await path.readFileString()) != null ? _a : "\n");
+    }
+    return snippetContents;
+  }
+};
+AssetHandler.autoDownloadExtras = true;
+AssetHandler.mediaFolderName = new Path("media");
+AssetHandler.jsFolderName = new Path("scripts");
+AssetHandler.cssFolderName = new Path("styles");
+AssetHandler.appStyles = "";
+AssetHandler.mathStyles = "";
+AssetHandler.webpageStyles = "";
+AssetHandler.themeStyles = "";
+AssetHandler.snippetStyles = "";
+AssetHandler.lastEnabledSnippets = [];
+AssetHandler.lastEnabledTheme = "";
+AssetHandler.webpageJS = "";
+AssetHandler.graphViewJS = "";
+AssetHandler.graphWASMJS = "";
+AssetHandler.renderWorkerJS = "";
+AssetHandler.tinyColorJS = "";
+AssetHandler.webpagejsURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/webpage.js";
+AssetHandler.pluginStylesURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/plugin-styles.css";
+AssetHandler.obsidianStylesURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/obsidian-styles.css";
+AssetHandler.graphViewJSURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_view.js";
+AssetHandler.graphWASMJSURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_wasm.js";
+AssetHandler.graphWASMURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_wasm.wasm";
+AssetHandler.renderWorkerURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph-render-worker.js";
+AssetHandler.tinycolorURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/tinycolor.js";
+
+// scripts/utils/tab-manager.ts
+var TabManager;
+((TabManager2) => {
+  function getLeaf(navType, splitDirection = "vertical") {
+    let leaf = navType === "split" ? app.workspace.getLeaf(navType, splitDirection) : app.workspace.getLeaf(navType);
+    return leaf;
+  }
+  async function openFileInNewTab(file, navType, splitDirection = "vertical") {
+    let leaf = getLeaf(navType, splitDirection);
+    try {
+      await leaf.openFile(file, void 0).catch((reason) => {
+        console.log(reason);
+      });
+    } catch (error) {
+      console.log(error);
+    }
+    return leaf;
+  }
+  TabManager2.openFileInNewTab = openFileInNewTab;
+  function openNewTab(navType, splitDirection = "vertical") {
+    return getLeaf(navType, splitDirection);
+  }
+  TabManager2.openNewTab = openNewTab;
+})(TabManager || (TabManager = {}));
+
+// scripts/html-generation/markdown-renderer.ts
+var import_jquery = __toESM(require_jquery());
+var { clipboard } = require("electron");
+var $ = import_jquery.default;
+var MarkdownRenderer;
+((MarkdownRenderer2) => {
+  MarkdownRenderer2.problemLog = "";
+  MarkdownRenderer2.errorInBatch = false;
+  async function renderMarkdown(file) {
+    var _a;
+    if (!MarkdownRenderer2.renderLeaf) {
+      throw new Error("Cannot render document without a render leaf! Please call beginBatch() before calling this function, and endBatch() after you are done exporting all files.");
+    }
+    try {
+      await MarkdownRenderer2.renderLeaf.openFile(file.markdownFile, { active: false });
+    } catch (e) {
+      let message2 = "Failed to open file! File: " + file.markdownFile.path;
+      RenderLog.warning("Cannot render file: ", message2);
+      return generateFailDocument();
+    }
+    if (!(MarkdownRenderer2.renderLeaf.view instanceof import_obsidian2.MarkdownView)) {
+      let message2 = "This file was not a normal markdown file! File: " + file.markdownFile.path;
+      RenderLog.warning("Cannot render file: ", message2);
+      return generateFailDocument();
+    }
+    let previewModeFound = await Utils.waitUntil(() => MarkdownRenderer2.renderLeaf != void 0 && MarkdownRenderer2.renderLeaf.view.previewMode, 2e3, 10);
+    if (!previewModeFound) {
+      let message2 = "Failed to open preview mode! File: " + file.markdownFile.path;
+      RenderLog.warning("Cannot render file: ", message2);
+      return generateFailDocument();
+    }
+    let preview = MarkdownRenderer2.renderLeaf.view.previewMode;
+    await Utils.changeViewMode(MarkdownRenderer2.renderLeaf.view, "preview");
+    preview.renderer.showAll = true;
+    await preview.renderer.unfoldAllHeadings();
+    let lastRender = preview.renderer.lastRender;
+    preview.renderer.rerender(true);
+    let isRendered = false;
+    preview.renderer.onRendered(() => {
+      isRendered = true;
+    });
+    let renderfinished = await Utils.waitUntil(() => preview.renderer.lastRender != lastRender && isRendered || MarkdownRenderer2.renderLeaf == void 0, 1e4, 10);
+    if (!renderfinished) {
+      let message2 = "Failed to render file within 10 seconds! File: " + file.markdownFile.path;
+      RenderLog.warning("Cannot render file: ", message2);
+      return generateFailDocument();
+    }
+    if (MarkdownRenderer2.renderLeaf == void 0) {
+      RenderLog.warning("Render cancelled! On file: ", file.markdownFile.path);
+      return generateFailDocument();
+    }
+    let text = MarkdownRenderer2.renderLeaf.view.data;
+    let dataviews = text.matchAll(/```(dataview|dataviewjs)/g);
+    let dataviewCount = Array.from(dataviews).length;
+    if (dataviewCount > 0) {
+      await Utils.delay(ExportSettings.settings.dataviewBlockWaitTime * dataviewCount);
+    }
+    let container = preview.containerEl;
+    if (container) {
+      $(container).find(".markdown-preview-sizer").css("width", "unset");
+      $(container).find(".markdown-preview-sizer").css("height", "unset");
+      $(container).find(".markdown-preview-sizer").css("margin", "unset");
+      $(container).find(".markdown-preview-sizer").css("padding", "unset");
+      $(container).find(".markdown-preview-sizer").css("max-width", "unset");
+      $(container).find(".markdown-preview-sizer").css("min-height", "unset");
+      let stylesheet = document.getElementById("MJX-CHTML-styles");
+      if (stylesheet) {
+        if (document.getElementById("MJX-CHTML-styles")) {
+          (_a = document.getElementById("MJX-CHTML-styles")) == null ? void 0 : _a.remove();
+          document.head.appendChild(stylesheet);
+        }
+        AssetHandler.mathStyles = stylesheet.innerHTML.replaceAll("app://obsidian.md/", "https://publish.obsidian.md/").trim();
+      }
+      return container.innerHTML;
+    }
+    let message = "Could not find container with rendered content! File: " + file.markdownFile.path;
+    RenderLog.warning("Cannot render file: ", message);
+    return generateFailDocument();
+  }
+  MarkdownRenderer2.renderMarkdown = renderMarkdown;
+  async function beginBatch() {
+    GraphGenerator.clearGraphCache();
+    MarkdownRenderer2.problemLog = "";
+    MarkdownRenderer2.errorInBatch = false;
+    MarkdownRenderer2.renderLeaf = TabManager.openNewTab("window", "vertical");
+    let parentFound = await Utils.waitUntil(() => MarkdownRenderer2.renderLeaf && MarkdownRenderer2.renderLeaf.parent, 2e3, 10);
+    if (!parentFound) {
+      try {
+        MarkdownRenderer2.renderLeaf.detach();
+      } catch (e) {
+        console.log(e);
+      }
+      new import_obsidian2.Notice("Error: Failed to create leaf for rendering!");
+      throw new Error("Failed to create leaf for rendering!");
+    }
+    MarkdownRenderer2.renderLeaf.parent.containerEl.style.height = "0";
+    $(MarkdownRenderer2.renderLeaf.parent.parent.containerEl).find(".clickable-icon, .workspace-tab-header-container-inner").css("display", "none");
+    $(MarkdownRenderer2.renderLeaf.parent.containerEl).css("max-height", "var(--header-height)");
+    $(MarkdownRenderer2.renderLeaf.parent.parent.containerEl).removeClass("mod-vertical");
+    $(MarkdownRenderer2.renderLeaf.parent.parent.containerEl).addClass("mod-horizontal");
+    MarkdownRenderer2.renderLeaf.view.containerEl.win.resizeTo(900, 450);
+    MarkdownRenderer2.renderLeaf.view.containerEl.win.moveTo(window.screen.width / 2 - 450, window.screen.height - 450 - 75);
+    console.log(MarkdownRenderer2.renderLeaf);
+    await Utils.delay(1e3);
+  }
+  MarkdownRenderer2.beginBatch = beginBatch;
+  function endBatch() {
+    if (MarkdownRenderer2.renderLeaf) {
+      if (!MarkdownRenderer2.errorInBatch)
+        MarkdownRenderer2.renderLeaf.detach();
+    }
+  }
+  MarkdownRenderer2.endBatch = endBatch;
+  function generateLogEl(title, message, textColor, backgroundColor) {
+    let logEl = document.createElement("div");
+    logEl.className = "html-render-log-item";
+    logEl.style.display = "flex";
+    logEl.style.flexDirection = "column";
+    logEl.style.marginBottom = "2px";
+    logEl.style.fontSize = "12px";
+    logEl.innerHTML = `
+		<div class="html-render-log-title" style="font-weight: bold; margin-left: 1em;">${title}</div>
+		<div class="html-render-log-message" style="margin-left: 2em; font-size: 0.8em;white-space: pre-wrap;">${message}</div>
+		`;
+    logEl.style.color = textColor;
+    logEl.style.backgroundColor = backgroundColor;
+    logEl.style.borderLeft = `5px solid ${textColor}`;
+    logEl.style.borderBottom = "1px solid var(--divider-color)";
+    logEl.style.borderTop = "1px solid var(--divider-color)";
+    return logEl;
+  }
+  MarkdownRenderer2.generateLogEl = generateLogEl;
+  function _reportProgress(complete, total, message, subMessage, progressColor) {
+    if (!MarkdownRenderer2.renderLeaf)
+      return;
+    let found = Utils.waitUntil(() => MarkdownRenderer2.renderLeaf && MarkdownRenderer2.renderLeaf.parent && MarkdownRenderer2.renderLeaf.parent.parent, 2e3, 10);
+    if (!found)
+      return;
+    let loadingContainer = MarkdownRenderer2.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
+    if (!loadingContainer) {
+      loadingContainer = document.createElement("div");
+      loadingContainer.className = `html-render-progress-container`;
+      loadingContainer.setAttribute("style", "height: 100%; min-width: 100%; display:flex; flex-direction:column; align-content: center; justify-content: center; align-items: center;");
+      loadingContainer.innerHTML = `
+			<div class="html-render-progress-container" style="height: 100%;min-width: 100%;display:flex;flex-direction:column;">
+				<div style="display: flex;height: 100%;">
+					<div style="flex-grow: 1;display: flex;flex-direction: column;align-items: center;justify-content: center;">
+						<h1 style="">Generating HTML</h1>
+						<progress class="html-render-progressbar" value="0" min="0" max="1" style="width: 300px; height: 15px; background-color: transparent; color: var(--color-accent);"></progress>
+						<span class="html-render-submessage" style="margin-block-start: 2em;"></span>
+					</div>
+					<div class="html-render-log" style="display:none; flex-direction: column; border-left: 1px solid var(--divider-color); overflow-y: auto; width: 300px; max-width: 300px; min-width: 300px;">
+						<h1 style="color: var(--color-yellow);padding: 0.3em;background-color: rgba(100, 70, 20, 0.1);margin: 0;">Export Problem Log</h1>
+						<button class="html-render-log-copy-button" style="margin: 10px;width: fit-content;align-self: center;">Copy Log to Clipboard</button>
+					</div>
+				</div>
+			</div>
+			`;
+      MarkdownRenderer2.renderLeaf.parent.parent.containerEl.appendChild(loadingContainer);
+      let copyButton = loadingContainer.querySelector("button.html-render-log-copy-button");
+      if (copyButton) {
+        copyButton.addEventListener("click", () => {
+          console.log(MarkdownRenderer2.problemLog);
+          clipboard.writeText(MarkdownRenderer2.problemLog);
+          new import_obsidian2.Notice("Copied to clipboard! Please paste this into your github issue as is.");
+        });
+      }
+    }
+    let progress = complete / total;
+    let progressBar = loadingContainer.querySelector("progress");
+    if (progressBar) {
+      progressBar.value = progress;
+      progressBar.style.backgroundColor = "transparent";
+      progressBar.style.color = progressColor;
+    }
+    let messageElement = loadingContainer.querySelector("h1");
+    if (messageElement) {
+      messageElement.innerText = message;
+    }
+    let subMessageElement = loadingContainer.querySelector("span.html-render-submessage");
+    if (subMessageElement) {
+      subMessageElement.innerText = subMessage;
+    }
+  }
+  MarkdownRenderer2._reportProgress = _reportProgress;
+  function _reportError(messageTitle, message, fatal) {
+    messageTitle = (fatal ? "[Fatal Error] " : "[Error] ") + messageTitle;
+    MarkdownRenderer2.problemLog += "\n\n##### " + messageTitle + "\n```\n" + message + "\n```";
+    if (!MarkdownRenderer2.renderLeaf)
+      return;
+    MarkdownRenderer2.errorInBatch = true;
+    let found = Utils.waitUntil(() => MarkdownRenderer2.renderLeaf && MarkdownRenderer2.renderLeaf.parent && MarkdownRenderer2.renderLeaf.parent.parent, 2e3, 10);
+    if (!found)
+      return;
+    let loadingContainer = MarkdownRenderer2.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
+    if (!loadingContainer)
+      return;
+    let titleElement = loadingContainer.querySelector("h1");
+    if (titleElement) {
+      titleElement.innerText = "\u26A0\uFE0F " + messageTitle;
+      titleElement.style.color = "var(--color-red) !important";
+    }
+    let messageElement = loadingContainer.querySelector("span.html-render-submessage");
+    if (messageElement) {
+      messageElement.innerText = messageElement.innerText + "\n\nSee the problem log \u27F6\nConsider copying the log and reporting an issue on github.";
+    }
+    let logContainer = loadingContainer.querySelector(".html-render-log");
+    if (logContainer) {
+      logContainer.style.display = "flex";
+      let logEl = generateLogEl(messageTitle, message, "var(--color-red)", "rgba(170, 10, 30, 0.1)");
+      logContainer.appendChild(logEl);
+    }
+    if (fatal) {
+      MarkdownRenderer2.renderLeaf = void 0;
+    }
+  }
+  MarkdownRenderer2._reportError = _reportError;
+  function _reportWarning(messageTitle, message) {
+    messageTitle = "[Warning] " + messageTitle;
+    MarkdownRenderer2.problemLog += "\n\n##### " + messageTitle + "\n```\n" + message + "\n```";
+    if (!ExportSettings.settings.showWarningsInExportLog)
+      return;
+    if (!MarkdownRenderer2.renderLeaf)
+      return;
+    let found = Utils.waitUntil(() => MarkdownRenderer2.renderLeaf && MarkdownRenderer2.renderLeaf.parent && MarkdownRenderer2.renderLeaf.parent.parent, 2e3, 10);
+    if (!found)
+      return;
+    let loadingContainer = MarkdownRenderer2.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
+    if (!loadingContainer)
+      return;
+    let logContainer = loadingContainer.querySelector(".html-render-log");
+    if (logContainer) {
+      logContainer.style.display = "flex";
+      let logEl = generateLogEl(messageTitle, message, "var(--color-yellow)", "rgba(170, 170, 10, 0.1)");
+      logContainer.appendChild(logEl);
+    }
+  }
+  MarkdownRenderer2._reportWarning = _reportWarning;
+  function _reportInfo(messageTitle, message) {
+    messageTitle = "[Info] " + messageTitle;
+    MarkdownRenderer2.problemLog += "\n\n##### " + messageTitle + "\n```\n" + message + "\n```";
+    if (!ExportSettings.settings.showWarningsInExportLog)
+      return;
+    if (!MarkdownRenderer2.renderLeaf)
+      return;
+    let found = Utils.waitUntil(() => MarkdownRenderer2.renderLeaf && MarkdownRenderer2.renderLeaf.parent && MarkdownRenderer2.renderLeaf.parent.parent, 2e3, 10);
+    if (!found)
+      return;
+    let loadingContainer = MarkdownRenderer2.renderLeaf.parent.parent.containerEl.querySelector(`.html-render-progress-container`);
+    if (!loadingContainer)
+      return;
+    let logContainer = loadingContainer.querySelector(".html-render-log");
+    if (logContainer) {
+      logContainer.style.display = "flex";
+      let logEl = generateLogEl(messageTitle, message, "var(--text-normal)", "rgba(0, 0, 0, 0.15)");
+      logContainer.appendChild(logEl);
+    }
+  }
+  MarkdownRenderer2._reportInfo = _reportInfo;
+  function generateFailDocument(message = "Page Not Found") {
+    return `
+		<div class="markdown-preview-view markdown-rendered">
+			<div class="markdown-preview-sizer" style="width: 100%; height: 100%; margin: 0px; padding: 0px; max-width: 100%; min-height: 100%;">
+			<div>
+				<center style='position: relative; transform: translateY(20vh); width: 100%; text-align: center;'>
+					<h1 style>${message}</h1>
+				</center>
+			</div>
+		</div>
+		`;
+  }
+  MarkdownRenderer2.generateFailDocument = generateFailDocument;
+})(MarkdownRenderer || (MarkdownRenderer = {}));
+
+// scripts/html-generation/render-log.ts
+var RenderLog;
+((RenderLog2) => {
+  function log(messageTitle, message) {
+    pullPathLogs();
+    console.log(messageTitle + ": \n" + message);
+    MarkdownRenderer._reportInfo(messageTitle, message);
+  }
+  RenderLog2.log = log;
+  function warning(messageTitle, message) {
+    pullPathLogs();
+    console.warn(messageTitle + ": \n" + message);
+    MarkdownRenderer._reportWarning(messageTitle, message);
+  }
+  RenderLog2.warning = warning;
+  function error(messageTitle, message, fatal = false) {
+    pullPathLogs();
+    console.error(messageTitle + ": \n" + message);
+    MarkdownRenderer._reportError(messageTitle, message, fatal);
+  }
+  RenderLog2.error = error;
+  function progress(complete, total, message, subMessage, progressColor = "var(--color-accent)") {
+    pullPathLogs();
+    MarkdownRenderer._reportProgress(complete, total, message, subMessage, progressColor);
+  }
+  RenderLog2.progress = progress;
+  function pullPathLogs() {
+    let logs = Path.dequeueLog();
+    for (let thisLog of logs) {
+      switch (thisLog.type) {
+        case "info":
+          log(thisLog.title, thisLog.message);
+          break;
+        case "warn":
+          warning(thisLog.title, thisLog.message);
+          break;
+        case "error":
+          error(thisLog.title, thisLog.message, false);
+          break;
+        case "fatal":
+          error(thisLog.title, thisLog.message, true);
+          break;
+      }
+    }
+  }
+  function testThrowError(chance) {
+    if (Math.random() < chance) {
+      throw new Error("Test error");
+    }
+  }
+  RenderLog2.testThrowError = testThrowError;
+})(RenderLog || (RenderLog = {}));
+
+// scripts/utils/utils.ts
+var dialog = require("electron").remote.dialog;
+var Utils = class {
+  static async delay(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+  }
+  static padStringBeggining(str, length, char) {
+    return char.repeat(length - str.length) + str;
+  }
+  static sampleCSSColorHex(variable, testParentEl) {
+    let testEl = document.createElement("div");
+    testEl.style.setProperty("display", "none");
+    testEl.style.setProperty("color", "var(" + variable + ")");
+    testParentEl.appendChild(testEl);
+    let col = getComputedStyle(testEl).color;
+    let opacity = getComputedStyle(testEl).opacity;
+    testEl.remove();
+    function toColorObject(str) {
+      var match = str.match(/rgb?\((\d+),\s*(\d+),\s*(\d+)\)/);
+      return match ? {
+        red: parseInt(match[1]),
+        green: parseInt(match[2]),
+        blue: parseInt(match[3]),
+        alpha: 1
+      } : null;
+    }
+    var color = toColorObject(col), alpha = parseFloat(opacity);
+    return isNaN(alpha) && (alpha = 1), color ? {
+      a: alpha * color.alpha,
+      hex: Utils.padStringBeggining(color.red.toString(16), 2, "0") + Utils.padStringBeggining(color.green.toString(16), 2, "0") + Utils.padStringBeggining(color.blue.toString(16), 2, "0")
+    } : {
+      a: alpha,
+      hex: "ffffff"
+    };
+  }
+  static async changeViewMode(view, modeName) {
+    const mode = view.modes[modeName];
+    mode && await view.setMode(mode);
+  }
+  static async showSaveDialog(defaultPath, defaultFileName, showAllFilesOption = true) {
+    let absoluteDefaultPath = defaultPath.directory.absolute().joinString(defaultFileName);
+    let filters = [{
+      name: Utils.trimStart(absoluteDefaultPath.extenstion, ".").toUpperCase() + " Files",
+      extensions: [Utils.trimStart(absoluteDefaultPath.extenstion, ".")]
+    }];
+    if (showAllFilesOption) {
+      filters.push({
+        name: "All Files",
+        extensions: ["*"]
+      });
+    }
+    let picker = await dialog.showSaveDialog({
+      defaultPath: absoluteDefaultPath.asString,
+      filters,
+      properties: ["showOverwriteConfirmation"]
+    });
+    if (picker.canceled)
+      return void 0;
+    let pickedPath = new Path(picker.filePath);
+    ExportSettings.settings.lastExportPath = pickedPath.asString;
+    ExportSettings.saveSettings();
+    return pickedPath;
+  }
+  static async showSelectFolderDialog(defaultPath) {
+    if (!defaultPath.exists)
+      defaultPath = Path.vaultPath;
+    let picker = await dialog.showOpenDialog({
+      defaultPath: defaultPath.directory.asString,
+      properties: ["openDirectory"]
+    });
+    if (picker.canceled)
+      return void 0;
+    let path = new Path(picker.filePaths[0]);
+    ExportSettings.settings.lastExportPath = path.directory.asString;
+    ExportSettings.saveSettings();
+    return path;
+  }
+  static idealDefaultPath() {
+    let lastPath = new Path(ExportSettings.settings.lastExportPath);
+    if (lastPath.asString != "" && lastPath.exists) {
+      return lastPath.directory;
+    }
+    return Path.vaultPath;
+  }
+  static async downloadFiles(files, folderPath) {
+    if (!folderPath.isAbsolute)
+      throw new Error("folderPath must be absolute");
+    RenderLog.progress(0, files.length, "Saving HTML files to disk", "...", "var(--color-green)");
+    for (let i = 0; i < files.length; i++) {
+      let file = files[i];
+      try {
+        await file.download(folderPath.directory);
+        RenderLog.progress(i + 1, files.length, "Saving HTML files to disk", "Saving: " + file.filename, "var(--color-green)");
+      } catch (e) {
+        RenderLog.error("Could not save file: " + file.filename, e.stack);
+        continue;
+      }
+    }
+  }
+  static async waitUntil(condition, timeout = 1e3, interval = 100) {
+    return new Promise((resolve, reject) => {
+      let timer = 0;
+      let intervalId = setInterval(() => {
+        if (condition()) {
+          clearInterval(intervalId);
+          resolve(true);
+        } else {
+          timer += interval;
+          if (timer >= timeout) {
+            clearInterval(intervalId);
+            resolve(false);
+          }
+        }
+      }, interval);
+    });
+  }
+  static getPluginIDs() {
+    let pluginsArray = Array.from(app.plugins.enabledPlugins.values());
+    for (let i = 0; i < pluginsArray.length; i++) {
+      if (app.plugins.manifests[pluginsArray[i]] == void 0) {
+        pluginsArray.splice(i, 1);
+        i--;
+      }
+    }
+    return pluginsArray;
+  }
+  static getPluginManifest(pluginID) {
+    var _a;
+    return (_a = app.plugins.manifests[pluginID]) != null ? _a : null;
+  }
+  static getActiveTextView() {
+    let view = app.workspace.getActiveViewOfType(import_obsidian3.TextFileView);
+    if (!view) {
+      return null;
+    }
+    return view;
+  }
+  static trimEnd(inputString, trimString) {
+    if (inputString.endsWith(trimString)) {
+      return inputString.substring(0, inputString.length - trimString.length);
+    }
+    return inputString;
+  }
+  static trimStart(inputString, trimString) {
+    if (inputString.startsWith(trimString)) {
+      return inputString.substring(trimString.length);
+    }
+    return inputString;
+  }
+};
+
+// scripts/export-settings.ts
+var import_promises = require("fs/promises");
+var DEFAULT_SETTINGS = {
+  inlineCSS: true,
+  inlineJS: true,
+  inlineImages: true,
+  includePluginCSS: "",
+  makeNamesWebStyle: false,
+  allowFoldingHeadings: true,
+  addFilenameTitle: true,
+  beautifyHTML: false,
+  dataviewBlockWaitTime: 700,
+  showWarningsInExportLog: true,
+  addDarkModeToggle: true,
+  includeOutline: true,
+  includeGraphView: false,
+  includeVaultOutline: true,
+  exportPreset: "",
+  customLineWidth: "",
+  openAfterExport: true,
+  keepNestedFolderStructure: false,
+  graphAttractionForce: 1,
+  graphLinkLength: 10,
+  graphRepulsionForce: 150,
+  graphCentralForce: 3,
+  graphEdgePruning: 100,
+  graphMinNodeSize: 3,
+  graphMaxNodeSize: 7,
+  lastExportPath: ""
+};
+var FlowList = class {
+  constructor(containerEl) {
+    this.checkedList = [];
+    this.containerEl = containerEl;
+    this.flowListEl = this.containerEl.createDiv({ cls: "flow-list" });
+  }
+  addItem(name, key, value, onChange) {
+    let item = this.flowListEl.createDiv({ cls: "flow-item" });
+    let checkbox = item.createEl("input", { type: "checkbox" });
+    checkbox.checked = value;
+    if (checkbox.checked)
+      this.checkedList.push(key);
+    checkbox.addEventListener("change", (evt) => {
+      if (checkbox.checked) {
+        if (!this.checkedList.includes(key))
+          this.checkedList.push(key);
+      } else {
+        if (this.checkedList.includes(key))
+          this.checkedList.remove(key);
+      }
+    });
+    checkbox.addEventListener("change", (evt) => onChange(checkbox.checked));
+    let label = item.createDiv({ cls: "flow-label" });
+    label.setText(name);
+    return item;
+  }
+};
+var _ExportSettings = class extends import_obsidian4.PluginSettingTab {
+  constructor(plugin) {
+    super(app, plugin);
+    this.blacklistedPluginIDs = [];
+    _ExportSettings.plugin = plugin;
+  }
+  async getBlacklistedPluginIDs() {
+    if (this.blacklistedPluginIDs.length > 0)
+      return this.blacklistedPluginIDs;
+    let blacklist = await AssetHandler.assetsPath.joinString("third-party-styles-blacklist.txt").readFileString();
+    if (blacklist) {
+      this.blacklistedPluginIDs = blacklist.split("\n");
+    }
+    return this.blacklistedPluginIDs;
+  }
+  static async loadSettings() {
+    _ExportSettings.settings = Object.assign({}, DEFAULT_SETTINGS, await _ExportSettings.plugin.loadData());
+    _ExportSettings.settings.customLineWidth = _ExportSettings.settings.customLineWidth.toString();
+    if (_ExportSettings.settings.customLineWidth === "0")
+      _ExportSettings.settings.customLineWidth = "";
+    let thirdPartyStylesBlacklist = await fetch(_ExportSettings.thirdPartyStylesBlacklistURL);
+    let thirdPartyStylesBlacklistText = await thirdPartyStylesBlacklist.text();
+    await (0, import_promises.writeFile)(AssetHandler.assetsPath.joinString("third-party-styles-blacklist.txt").asString, thirdPartyStylesBlacklistText).catch((err) => {
+      console.log(err);
+    });
+  }
+  static async saveSettings() {
+    await _ExportSettings.plugin.saveData(_ExportSettings.settings);
+  }
+  display() {
+    const { containerEl: contentEl } = this;
+    contentEl.empty();
+    let header = contentEl.createEl("h2", { text: "HTML Export Settings" });
+    header.style.display = "block";
+    header.style.marginBottom = "15px";
+    let supportLink = contentEl.createEl("a");
+    let buttonColor = Utils.sampleCSSColorHex("--color-accent", document.body).hex;
+    let buttonTextColor = Utils.sampleCSSColorHex("--text-on-accent", document.body).hex;
+    supportLink.outerHTML = `<a href="https://www.buymeacoffee.com/nathangeorge"><img style="height:40px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nathangeorge&button_colour=${buttonColor}&font_colour=${buttonTextColor}&font_family=Poppins&outline_colour=${buttonTextColor}&coffee_colour=FFDD00"></a>`;
+    let supportHeader = contentEl.createDiv({ text: "Support the continued development of this plugin.", cls: "setting-item-description" });
+    supportHeader.style.display = "block";
+    supportHeader.style.marginBottom = "20px";
+    let hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    new import_obsidian4.Setting(contentEl).setName("Page Features:").setDesc("Special features to embed onto the page.").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Include theme toggle").setDesc(`Adds a theme toggle to the left sidebar of any page that doesn't already have a toggle embedded with "theme-toggle" codeblock.`).addToggle((toggle) => toggle.setValue(_ExportSettings.settings.addDarkModeToggle).onChange(async (value) => {
+      _ExportSettings.settings.addDarkModeToggle = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Include document outline").setDesc("Adds an interactive document outline tree to the right sidebar of the document.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.includeOutline).onChange(async (value) => {
+      _ExportSettings.settings.includeOutline = value;
+      await _ExportSettings.saveSettings();
+    }));
+    hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    new import_obsidian4.Setting(contentEl).setName("Embedding Options:").setDesc("If all three of these are on, the html files will be completely self-contained.").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Embed CSS").setDesc("Embed the CSS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineCSS).onChange(async (value) => {
+      _ExportSettings.settings.inlineCSS = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Embed JS").setDesc("Embed the JS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineJS).onChange(async (value) => {
+      _ExportSettings.settings.inlineJS = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Embed Images").setDesc("Embed the images into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineImages).onChange(async (value) => {
+      _ExportSettings.settings.inlineImages = value;
+      await _ExportSettings.saveSettings();
+    }));
+    hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    new import_obsidian4.Setting(contentEl).setName("Formatting Options:").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Page Width").setDesc("Sets the line width of the exported document. Use any css units.\nDefault units: px").addText((text) => text.setValue(_ExportSettings.settings.customLineWidth).setPlaceholder("Leave blank for default").onChange(async (value) => {
+      _ExportSettings.settings.customLineWidth = value;
+      await _ExportSettings.saveSettings();
+    })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(() => {
+      _ExportSettings.settings.customLineWidth = "";
+      _ExportSettings.saveSettings();
+      this.display();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Make names web style").setDesc("Make the names of files and folders lowercase and replace spaces with dashes.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.makeNamesWebStyle).onChange(async (value) => {
+      _ExportSettings.settings.makeNamesWebStyle = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Allow folding headings").setDesc("Allow headings to be folded with an arrow icon beside each heading, just as in Obsidian.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.allowFoldingHeadings).onChange(async (value) => {
+      _ExportSettings.settings.allowFoldingHeadings = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Add filename as title").setDesc("If the first header is not an H1, include the file name as a title at the top of the page.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.addFilenameTitle).onChange(async (value) => {
+      _ExportSettings.settings.addFilenameTitle = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Beautify HTML").setDesc("Beautify the HTML text to make it more human readable at the cost of export speed.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.beautifyHTML).onChange(async (value) => {
+      _ExportSettings.settings.beautifyHTML = value;
+      await _ExportSettings.saveSettings();
+    }));
+    hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    new import_obsidian4.Setting(contentEl).setName("Export Options:").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Dataview Block Render Wait Time").setDesc("In milliseconds.\n\nWait this long for each dataview block to render. If you have large dataview queries this can help make sure they are rendered correctly.").addText((text) => text.setValue(_ExportSettings.settings.dataviewBlockWaitTime.toString()).setPlaceholder(DEFAULT_SETTINGS.dataviewBlockWaitTime.toString()).onChange(async (value) => {
+      if (isNaN(Number(value)))
+        return;
+      _ExportSettings.settings.dataviewBlockWaitTime = Number(value);
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Show warnings in export log").setDesc("The export log (shown in the export window) displays only relevant warnings or errors to you. Turn this off to stop displaying warnings. Errors will always show.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.showWarningsInExportLog).onChange(async (value) => {
+      _ExportSettings.settings.showWarningsInExportLog = value;
+      await _ExportSettings.saveSettings();
+    }));
+    hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    new import_obsidian4.Setting(contentEl).setName("Include Plugin CSS").setDesc("Include the CSS from the following plugins in the exported HTML. If plugin features aren't rendering correctly, try adding the plugin to this list.").setHeading();
+    let pluginsList = new FlowList(contentEl);
+    Utils.getPluginIDs().forEach(async (plugin) => {
+      let pluginManifest = Utils.getPluginManifest(plugin);
+      if (!pluginManifest)
+        return;
+      if ((await this.getBlacklistedPluginIDs()).contains(pluginManifest.id)) {
+        return;
+      }
+      let pluginDir = pluginManifest.dir;
+      if (!pluginDir)
+        return;
+      let pluginPath = new Path(pluginDir);
+      let hasCSS = pluginPath.joinString("styles.css").exists;
+      if (!hasCSS)
+        return;
+      let isChecked = _ExportSettings.settings.includePluginCSS.match(new RegExp(`^${plugin}`, "m")) != null;
+      pluginsList.addItem(pluginManifest.name, plugin, isChecked, (value) => {
+        _ExportSettings.settings.includePluginCSS = pluginsList.checkedList.join("\n");
+        _ExportSettings.saveSettings();
+      });
+    });
+    let experimentalContainer = contentEl.createDiv();
+    let experimentalHR1 = experimentalContainer.createEl("hr");
+    let experimentalHeader = experimentalContainer.createEl("span", { text: "Experimental" });
+    let experimentalHR2 = experimentalContainer.createEl("hr");
+    experimentalContainer.style.display = "flex";
+    experimentalContainer.style.marginTop = "5em";
+    experimentalContainer.style.alignItems = "center";
+    experimentalHR1.style.borderColor = "var(--color-red)";
+    experimentalHR2.style.borderColor = "var(--color-red)";
+    experimentalHeader.style.color = "var(--color-red)";
+    experimentalHR1.style.flexGrow = "1";
+    experimentalHR2.style.flexGrow = "1";
+    experimentalHeader.style.flexGrow = "0.1";
+    experimentalHeader.style.textAlign = "center";
+    new import_obsidian4.Setting(contentEl).setName("Graph View (PLEASE READ DESCRIPTION)").setDesc("This CANNOT be used with the file:// protocol, the assets for this also will not be inlined into the HTML file at this point.").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Include global graph view").setDesc("Include an interactive graph view sim of the WHOLE vault similar to obsidian's. ").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.includeGraphView).onChange(async (value) => {
+      _ExportSettings.settings.includeGraphView = value;
+      await _ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("Graph View Settings").setDesc("Settings to control the behavior and look of the graph view. For now there is no live preview of this, so you must export your files to see your changes.").setHeading();
+    new import_obsidian4.Setting(contentEl).setName("Attraction Force").setDesc("How much should linked nodes attract each other? This will make the graph appear more clustered.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphAttractionForce / (2 / 100)).setDynamicTooltip().onChange(async (value) => {
+      let remapMultiplier = 2 / 100;
+      _ExportSettings.settings.graphAttractionForce = value * remapMultiplier;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Link Length").setDesc("How long should the links between nodes be? The shorter the links the closer connected nodes will cluster together.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphLinkLength).setDynamicTooltip().onChange(async (value) => {
+      _ExportSettings.settings.graphLinkLength = value;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Repulsion Force").setDesc("How much should nodes repel each other? This will make the graph appear more spread out.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphRepulsionForce / 3).setDynamicTooltip().onChange(async (value) => {
+      _ExportSettings.settings.graphRepulsionForce = value * 3;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Central Force").setDesc("How much should nodes be attracted to the center? This will make the graph appear more dense and circular.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphCentralForce / (5 / 100)).setDynamicTooltip().onChange(async (value) => {
+      let remapMultiplier = 5 / 100;
+      _ExportSettings.settings.graphCentralForce = value * remapMultiplier;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Max Node Radius").setDesc("How large should the largest nodes be? Nodes are sized by how many links they have. The larger a node is the more it will attract other nodes. This can be used to create a good grouping around the most important nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMaxNodeSize).setDynamicTooltip().onChange(async (value) => {
+      _ExportSettings.settings.graphMaxNodeSize = value;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Min Node Radius").setDesc("How small should the smallest nodes be? The smaller a node is the less it will attract other nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMinNodeSize).setDynamicTooltip().onChange(async (value) => {
+      _ExportSettings.settings.graphMinNodeSize = value;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    new import_obsidian4.Setting(contentEl).setName("Edge Pruning Factor").setDesc("Edges with a length below this threshold will not be rendered, however they will still contribute to the simulation. This can help large tangled graphs look more organised. Hovering over a node will still display these links.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(100 - _ExportSettings.settings.graphEdgePruning).setDynamicTooltip().onChange(async (value) => {
+      _ExportSettings.settings.graphEdgePruning = 100 - value;
+      await _ExportSettings.saveSettings();
+    }).showTooltip());
+    let experimentalHREnd = contentEl.createEl("hr");
+    experimentalHREnd.style.borderColor = "var(--color-red)";
+  }
+};
+var ExportSettings = _ExportSettings;
+ExportSettings.settings = DEFAULT_SETTINGS;
+ExportSettings.thirdPartyStylesBlacklistURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/third-party-styles-blacklist.txt";
+var _ExportModal = class extends import_obsidian4.Modal {
+  constructor() {
+    super(app);
+  }
+  async open() {
+    _ExportModal.isClosed = false;
+    _ExportModal.canceled = true;
+    super.open();
+    const { contentEl } = this;
+    contentEl.empty();
+    this.titleEl.setText("Export to HTML");
+    if (HTMLExportPlugin.updateInfo.updateAvailable) {
+      let updateNotice = contentEl.createEl("strong", { text: `Update Available: ${HTMLExportPlugin.updateInfo.currentVersion} \u27F6 ${HTMLExportPlugin.updateInfo.latestVersion}` });
+      updateNotice.setAttribute("style", `margin-block-start: calc(var(--h3-size)/2);
+			background-color: var(--interactive-normal);
+			padding: 4px;
+			padding-left: 1em;
+			padding-right: 1em;
+			color: var(--color-red);
+			border-radius: 5px;
+			display: block;
+			width: fit-content;`);
+      let updateNotes = contentEl.createEl("div", { text: HTMLExportPlugin.updateInfo.updateNote });
+      updateNotes.setAttribute("style", `margin-block-start: calc(var(--h3-size)/2);
+			background-color: var(--background-secondary-alt);
+			padding: 4px;
+			padding-left: 1em;
+			padding-right: 1em;
+			color: var(--text-normal);
+			font-size: var(--font-ui-smaller);
+			border-radius: 5px;
+			display: block;
+			width: fit-content;
+			white-space: pre-wrap;`);
+    }
+    let hr = contentEl.createEl("hr");
+    hr.style.marginTop = "20px";
+    hr.style.marginBottom = "20px";
+    hr.style.borderColor = "var(--color-accent)";
+    hr.style.opacity = "0.5";
+    contentEl.createEl("h3", { text: "Basic Options:" });
+    new import_obsidian4.Setting(contentEl).setName("Export Presets").setHeading().addDropdown((dropdown) => dropdown.addOption("website", "Multi-File Website").addOption("documents", "Self-contained Documents").setValue(ExportSettings.settings.exportPreset).onChange(async (value) => {
+      ExportSettings.settings.exportPreset = value;
+      switch (value) {
+        case "documents":
+          ExportSettings.settings.inlineCSS = true;
+          ExportSettings.settings.inlineJS = true;
+          ExportSettings.settings.inlineImages = true;
+          ExportSettings.settings.makeNamesWebStyle = false;
+          ExportSettings.settings.includeGraphView = false;
+          await ExportSettings.saveSettings();
+          break;
+        case "website":
+          ExportSettings.settings.inlineCSS = false;
+          ExportSettings.settings.inlineJS = false;
+          ExportSettings.settings.inlineImages = false;
+          ExportSettings.settings.makeNamesWebStyle = true;
+          ExportSettings.settings.includeGraphView = true;
+          await ExportSettings.saveSettings();
+          break;
+      }
+      this.open();
+    }));
+    contentEl.createDiv().outerHTML = `
+		<div class="setting-item-description" style="white-space: pre-wrap; margin-bottom: 1em;
+		">Multi-File Website: For multiple files as a website.
+Self-contained Documents: For documents which should each be self contained as one file.
+
+<em>For more control open the plugin settings from the button at the bottom of this popup.</em></div>`;
+    new import_obsidian4.Setting(contentEl).setName("Open after export").addToggle((toggle) => toggle.setTooltip("Open the exported file after exporting.").setValue(ExportSettings.settings.openAfterExport).onChange(async (value) => {
+      ExportSettings.settings.openAfterExport = value;
+      await ExportSettings.saveSettings();
+    }));
+    new import_obsidian4.Setting(contentEl).setName("").setHeading().addButton((button) => {
+      button.setButtonText("Export").onClick(async () => {
+        _ExportModal.canceled = false;
+        this.close();
+      });
+      button.buttonEl.style.marginRight = "auto";
+      button.buttonEl.style.marginLeft = "auto";
+      button.buttonEl.style.width = "-webkit-fill-available";
+      button.buttonEl.style.marginBottom = "2em";
+    });
+    new import_obsidian4.Setting(contentEl).setDesc("More options located on the plugin settings page.").addExtraButton((button) => button.setTooltip("Open plugin settings").onClick(() => {
+      app.setting.open();
+      app.setting.openTabById("webpage-html-export");
+    }));
+    await Utils.waitUntil(() => _ExportModal.isClosed, 60 * 60 * 1e3, 10);
+    return { canceled: _ExportModal.canceled };
+  }
+  onClose() {
+    const { contentEl } = this;
+    contentEl.empty();
+    _ExportModal.isClosed = true;
+  }
+};
+var ExportModal = _ExportModal;
+ExportModal.isClosed = true;
+ExportModal.canceled = true;
+
+// scripts/html-generation/html-generator.ts
+var import_jquery2 = __toESM(require_jquery());
+var $2 = import_jquery2.default;
+var HTMLGenerator = class {
+  static async beginBatch() {
+    await AssetHandler.updateAssetCache();
+    await MarkdownRenderer.beginBatch();
+  }
+  static endBatch() {
+    MarkdownRenderer.endBatch();
+  }
   static async generateWebpage(file) {
-    await _HTMLGenerator.getDocumentHTML(file);
+    await this.getDocumentHTML(file);
     let usingDocument = file.document;
-    let sidebars = _HTMLGenerator.generateSideBars(file.contentElement, file);
+    let sidebars = this.generateSideBars(file.contentElement, file);
     let rightSidebar = sidebars.right;
     let leftSidebar = sidebars.left;
     usingDocument.body.appendChild(sidebars.container);
     if (ExportSettings.settings.addDarkModeToggle && !usingDocument.querySelector(".theme-toggle-inline, .theme-toggle")) {
-      let toggle = _HTMLGenerator.generateDarkmodeToggle(false, usingDocument);
+      let toggle = this.generateDarkmodeToggle(false, usingDocument);
       leftSidebar.appendChild(toggle);
     }
     if (ExportSettings.settings.includeOutline) {
-      let headers = _HTMLGenerator.getHeaderList(usingDocument);
+      let headers = this.getHeaderList(usingDocument);
       if (headers) {
-        var outline = _HTMLGenerator.generateOutline(headers, usingDocument);
+        var outline = this.generateOutline(headers, usingDocument);
         rightSidebar.appendChild(outline);
       }
     }
     if (ExportSettings.settings.includeGraphView) {
-      let graph = _HTMLGenerator.generateGraphView(usingDocument);
+      let graph = this.generateGraphView(usingDocument);
       let graphHeader = usingDocument.createElement("h6");
       graphHeader.style.margin = "1em";
       graphHeader.style.marginLeft = "12px";
@@ -11103,13 +11719,13 @@ var _HTMLGenerator = class {
       rightSidebar.prepend(graph);
       rightSidebar.prepend(graphHeader);
     }
-    await _HTMLGenerator.fillInHead(file);
+    await this.fillInHead(file);
     file.downloads.unshift(file.getSelfDownloadable());
     return file;
   }
   static async getDocumentHTML(file, addSelfToDownloads = false) {
     var _a, _b;
-    let body = $(file.document.body);
+    let body = $2(file.document.body);
     let bodyClasses = ((_a = document.body.getAttribute("class")) != null ? _a : "").replaceAll('"', "'");
     let bodyStyle = ((_b = document.body.getAttribute("style")) != null ? _b : "").replaceAll('"', "'");
     body.attr("class", bodyClasses);
@@ -11121,66 +11737,36 @@ var _HTMLGenerator = class {
     body.css("--line-width-adaptive", lineWidth);
     body.css("--file-line-width", lineWidth);
     let markdownViewEl = file.document.body.createDiv({ cls: "markdown-preview-view markdown-rendered" });
-    if (ExportSettings.settings.allowFoldingHeadings)
+    let content = await MarkdownRenderer.renderMarkdown(file);
+    markdownViewEl.outerHTML = content;
+    if (ExportSettings.settings.allowFoldingHeadings && !markdownViewEl.hasClass("allow-fold-headings")) {
       markdownViewEl.addClass("allow-fold-headings");
-    if (ExportSettings.settings.exportInBackground) {
-      let renderEl = document.createElement("div");
-      let fileContents = await app.vault.read(file.markdownFile);
-      try {
-        await import_obsidian2.MarkdownRenderer.renderMarkdown(fileContents, renderEl, file.markdownFile.path, HTMLExportPlugin.plugin);
-      } catch (e) {
-        markdownViewEl.innerHTML = _HTMLGenerator.errorHTML;
-        renderEl.remove();
-        return file;
-      }
-      markdownViewEl.innerHTML = renderEl.innerHTML;
-      await _HTMLGenerator.renderMissingFromBackgroundExport(file);
-      renderEl.remove();
-    } else {
-      let fileTab = _HTMLGenerator.leafHandler.openFileInNewLeaf(file.markdownFile, true);
-      await Utils.delay(200);
-      let view = Utils.getActiveTextView();
-      if (!view) {
-        markdownViewEl.innerHTML = _HTMLGenerator.errorHTML;
-      }
-      if (view instanceof import_obsidian2.MarkdownView) {
-        await Utils.doFullRender(view);
-      }
-      let obsidianDocEl = document.querySelector(".workspace-leaf.mod-active .markdown-preview-sizer");
-      if (!obsidianDocEl)
-        obsidianDocEl = document.querySelector(".workspace-leaf.mod-active .view-content");
-      markdownViewEl.innerHTML = obsidianDocEl.innerHTML;
-      let callouts = $(markdownViewEl).find(".callout.is-collapsible:not(.is-collapsed)");
-      callouts.each((index, element) => {
-        $(element).addClass("is-collapsed");
-        $(element).find(".callout-content").css("display", "none");
-      });
-      if (fileTab)
-        fileTab.detach();
+    } else if (markdownViewEl.hasClass("allow-fold-headings")) {
+      markdownViewEl.removeClass("allow-fold-headings");
     }
     if (ExportSettings.settings.addFilenameTitle)
-      _HTMLGenerator.addTitle(file);
+      this.addTitle(file);
     let arrowHTML = "<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='svg-icon right-triangle'><path d='M3 8L12 17L21 8'></path></svg>";
-    let headings = $(file.document).find("div h1, div h2, div h3, div h4, div h5, div h6");
+    let headings = $2(file.document).find("div h1, div h2, div h3, div h4, div h5, div h6");
     headings.each((index, element) => {
-      if ($(element).find(".heading-collapse-indicator").length > 0)
+      if ($2(element).find(".heading-collapse-indicator").length > 0)
         return;
       let el = file.document.createElement("div");
       el.setAttribute("class", "heading-collapse-indicator collapse-indicator collapse-icon");
       el.innerHTML = arrowHTML;
       element.prepend(el);
     });
-    _HTMLGenerator.fixLinks(file);
+    this.fixLinks(file);
     let outlinedImages = [];
     if (ExportSettings.settings.inlineImages) {
-      await _HTMLGenerator.inlineMedia(file);
+      await this.inlineMedia(file);
     } else {
-      outlinedImages = await _HTMLGenerator.outlineMedia(file);
+      outlinedImages = await this.outlineMedia(file);
     }
     if (addSelfToDownloads)
       file.downloads.push(file.getSelfDownloadable());
     file.downloads.push(...outlinedImages);
-    file.downloads.push(...await _HTMLGenerator.getAssetDownloads());
+    file.downloads.push(...await AssetHandler.getDownloads());
     if (ExportSettings.settings.makeNamesWebStyle) {
       file.downloads.forEach((file2) => {
         var _a2;
@@ -11189,59 +11775,6 @@ var _HTMLGenerator = class {
       });
     }
     return file;
-  }
-  static async renderMissingFromBackgroundExport(file) {
-    let imageFormats = ["png", "webp", "jpg", "jpeg", "gif", "bmp", "svg"];
-    let audioFormats = ["mp3", "wav", "m4a", "ogg", "3gp", "flac"];
-    let videoFormats = ["mp4", "webm", "ogv", "mov", "mkv"];
-    let missingMedia = $(file.document).find(".internal-embed");
-    missingMedia.each((index, element) => {
-      var _a, _b, _c;
-      let el = $(element);
-      let source = (_a = $(element).attr("src")) != null ? _a : "";
-      let parsedSource = new Path(source);
-      let ext = parsedSource.extenstion.split("#")[0].trim().replaceAll(".", "");
-      let isImage = imageFormats.includes(ext);
-      let isAudio = audioFormats.includes(ext);
-      let isVideo = videoFormats.includes(ext);
-      if (isImage || isVideo || isAudio) {
-        let bestPath = app.metadataCache.getFirstLinkpathDest(parsedSource.directory.joinString(parsedSource.basename + "." + ext).asString, file.markdownFile.path);
-        if (bestPath) {
-          let path = "app://local/" + new Path(bestPath.path).absolute().asString;
-          el.empty();
-          let mediaEl = file.document.body.createEl(isImage ? "img" : isAudio ? "audio" : "video");
-          mediaEl.setAttribute("src", path);
-          mediaEl.setAttribute("alt", bestPath.basename);
-          mediaEl.setAttribute("controls", "");
-          if (el.attr("width"))
-            mediaEl.setAttribute("width", (_b = el.attr("width")) != null ? _b : "");
-          if (el.attr("height"))
-            mediaEl.setAttribute("height", (_c = el.attr("height")) != null ? _c : "");
-          el.append(mediaEl);
-          el.addClass("media-embed");
-          el.addClass("is-loaded");
-          el.addClass(isImage ? "image-embed" : isAudio ? "audio-embed" : "video-embed");
-        }
-      }
-    });
-    let mermaidDiagrams = $(file.document).find("pre.language-mermaid code");
-    mermaidDiagrams.each((index, element) => {
-      let el = $(element);
-      let diagram = el.text();
-      let diagramEl = file.document.createElement("div");
-      diagramEl.setAttribute("class", "mermaid");
-      let className = `mermaid-${file.exportPath.copy.makeWebStyle().basename}-${index}`;
-      let result = window.mermaid.render(className, diagram);
-      el.parent().replaceWith(diagramEl);
-      diagramEl.innerHTML = result;
-    });
-    let children = $(file.document).find(".markdown-preview-view > *");
-    children.each((index, element) => {
-      let el = $(element);
-      let div = file.document.createElement("div");
-      el.replaceWith(div);
-      div.appendChild(el[0]);
-    });
   }
   static addTitle(file) {
     let currentTitle = file.document.querySelector("h1, h2, h3, h4, h5, h6");
@@ -11278,14 +11811,14 @@ var _HTMLGenerator = class {
   }
   static getRelativePaths(file) {
     let rootPath = file.pathToRoot;
-    let imagePath = rootPath.join(_HTMLGenerator.mediaFolderName);
-    let jsPath = rootPath.join(_HTMLGenerator.jsFolderName);
-    let cssPath = rootPath.join(_HTMLGenerator.cssFolderName);
+    let imagePath = rootPath.join(AssetHandler.mediaFolderName).makeUnixStyle();
+    let jsPath = rootPath.join(AssetHandler.jsFolderName).makeUnixStyle();
+    let cssPath = rootPath.join(AssetHandler.cssFolderName).makeUnixStyle();
     return { mediaPath: imagePath, jsPath, cssPath, rootPath };
   }
   static async fillInHead(file) {
     var _a, _b;
-    let relativePaths = _HTMLGenerator.getRelativePaths(file);
+    let relativePaths = this.getRelativePaths(file);
     let meta = `
 		<title>${file.markdownFile.basename}</title>
 
@@ -11334,7 +11867,7 @@ ${JSON.stringify(GraphGenerator.getGlobalGraph(ExportSettings.settings.graphMinN
     if (ExportSettings.settings.inlineJS) {
       scripts += `
 <script>
-${_HTMLGenerator.webpageJS}
+${AssetHandler.webpageJS}
 <\/script>
 `;
     } else {
@@ -11343,27 +11876,26 @@ ${_HTMLGenerator.webpageJS}
 `;
     }
     let cssSettings = (_b = (_a = document.getElementById("css-settings-manager")) == null ? void 0 : _a.innerHTML) != null ? _b : "";
-    _HTMLGenerator.updateCSSCache();
     if (ExportSettings.settings.inlineCSS) {
-      let pluginCSS = _HTMLGenerator.pluginStyles;
-      let thirdPartyPluginStyles = await _HTMLGenerator.getThirdPartyPluginCSS();
+      let pluginCSS = AssetHandler.webpageStyles;
+      let thirdPartyPluginStyles = await AssetHandler.getPluginStyles();
       pluginCSS += thirdPartyPluginStyles;
       var header = `
 			${meta}
 			
 			<!-- Obsidian App Styles / Other Built-in Styles -->
-			<style> ${_HTMLGenerator.appStyles} </style>
-			<style> ${_HTMLGenerator.mathStyles} </style>
+			<style> ${AssetHandler.appStyles} </style>
+			<style> ${AssetHandler.mathStyles} </style>
 			<style> ${cssSettings} </style>
 
 			<!-- Plugin Styles -->
 			<style> ${pluginCSS} </style>
 
-			<!-- Theme Styles ( ${Utils.getCurrentThemeName()} ) -->
-			<style> ${_HTMLGenerator.themeStyles} </style>
+			<!-- Theme Styles -->
+			<style> ${AssetHandler.themeStyles} </style>
 
-			<!-- Snippets: ${Utils.getEnabledSnippets().join(", ")} -->
-			<style> ${_HTMLGenerator.snippetStyles} </style>
+			<!-- Snippets -->
+			<style> ${AssetHandler.snippetStyles} </style>
 		
 			${scripts}
 			`;
@@ -11377,7 +11909,7 @@ ${_HTMLGenerator.webpageJS}
 			<link rel="stylesheet" href="${relativePaths.cssPath}/snippets.css">
 
 			<style> ${cssSettings} </style>
-			<style> ${_HTMLGenerator.mathStyles} </style>
+			<style> ${AssetHandler.mathStyles} </style>
 
 			${scripts}
 			`;
@@ -11386,14 +11918,14 @@ ${_HTMLGenerator.webpageJS}
   }
   static fixLinks(file) {
     let htmlCompatibleExt = ["canvas", "md"];
-    let query = $(file.document);
+    let query = $2(file.document);
     query.find("a.internal-link").each(function() {
-      $(this).attr("target", "_self");
-      let href = $(this).attr("href");
+      $2(this).attr("target", "_self");
+      let href = $2(this).attr("href");
       if (!href)
         return;
       if (href.startsWith("#")) {
-        $(this).attr("href", href.replaceAll(" ", "_"));
+        $2(this).attr("href", href.replaceAll(" ", "_"));
       } else {
         let targetHeader = href.split("#").length > 1 ? "#" + href.split("#")[1] : "";
         let target = href.split("#")[0];
@@ -11406,52 +11938,44 @@ ${_HTMLGenerator.webpageJS}
           targetRelativePath.setExtension("html");
         if (ExportSettings.settings.makeNamesWebStyle)
           targetRelativePath.makeWebStyle();
-        let finalHref = targetRelativePath + targetHeader.replaceAll(" ", "_");
-        $(this).attr("href", finalHref);
+        let finalHref = targetRelativePath.makeUnixStyle() + targetHeader.replaceAll(" ", "_");
+        $2(this).attr("href", finalHref);
       }
     });
     query.find("a.footnote-link").each(function() {
-      $(this).attr("target", "_self");
+      $2(this).attr("target", "_self");
     });
     query.find("h1, h2, h3, h4, h5, h6").each(function() {
-      $(this).attr("id", $(this).text().replaceAll(" ", "_"));
+      $2(this).attr("id", $2(this).text().replaceAll(" ", "_"));
     });
   }
   static async inlineMedia(file) {
-    var _a, _b, _c;
-    let query = $(file.document);
+    var _a, _b, _c, _d, _e;
+    let query = $2(file.document);
     let media = query.find("img, audio").toArray();
     for (let i = 0; i < media.length; i++) {
       let mediaEl = media[i];
-      if (!((_a = $(mediaEl).attr("src")) == null ? void 0 : _a.startsWith("app://local")))
+      let rawSrc = (_a = $2(mediaEl).attr("src")) != null ? _a : "";
+      if (rawSrc.startsWith("http:") || rawSrc.startsWith("https:"))
         continue;
-      let src = (_b = $(mediaEl).attr("src")) == null ? void 0 : _b.replace("app://local", "").split("?")[0];
-      if (!src)
+      let filePath = new Path((_c = (_b = app.vault.resolveFileUrl(rawSrc)) == null ? void 0 : _b.path) != null ? _c : "");
+      let base64 = (_d = await filePath.readFileString("base64")) != null ? _d : "";
+      if (base64 === "")
         continue;
-      let path = new Path(src).makeRootAbsolute();
-      let base64 = "";
-      try {
-        base64 = await Utils.getTextBase64(path);
-      } catch (e) {
-        console.error(e);
-        console.warn("Failed to inline media: " + path);
-        new import_obsidian2.Notice("Failed to inline media: " + path, 5e3);
-        continue;
-      }
-      let ext = path.extenstion.replaceAll(".", "");
-      let type = (_c = app.viewRegistry.typeByExtension[ext]) != null ? _c : "audio";
-      if (ext == "svg")
+      let ext = filePath.extensionName;
+      if (ext === "svg")
         ext += "+xml";
-      $(mediaEl).attr("src", `data:${type}/${ext};base64,${base64}`);
+      let type = (_e = app.viewRegistry.typeByExtension[ext]) != null ? _e : "audio";
+      $2(mediaEl).attr("src", `data:${type}/${ext};base64,${base64}`);
     }
   }
   static async outlineMedia(file) {
     var _a, _b;
     let downloads = [];
-    let query = $(file.document);
+    let query = $2(file.document);
     let media = query.find("img, audio, video").toArray();
     for (let i = 0; i < media.length; i++) {
-      let mediaEl = $(media[i]);
+      let mediaEl = $2(media[i]);
       let src = (_a = mediaEl.attr("src")) != null ? _a : "";
       if (!src.startsWith("app://local"))
         continue;
@@ -11465,7 +11989,7 @@ ${_HTMLGenerator.webpageJS}
       let exportLocation = vaultToMedia;
       let mediaPathInExport = Path.getRelativePath(file.exportFromFolder, vaultToMedia);
       if (mediaPathInExport.asString.startsWith("..")) {
-        exportLocation = _HTMLGenerator.mediaFolderName.joinString(vaultToMedia.fullName);
+        exportLocation = AssetHandler.mediaFolderName.joinString(vaultToMedia.fullName);
       }
       let relativeImagePath = Path.getRelativePath(file.exportPath, exportLocation);
       if (ExportSettings.settings.makeNamesWebStyle) {
@@ -11473,8 +11997,8 @@ ${_HTMLGenerator.webpageJS}
         exportLocation.makeWebStyle();
       }
       mediaEl.attr("src", relativeImagePath.asString);
-      let data = (_b = await Utils.getFileBuffer(mediaPath)) != null ? _b : Buffer.from([]);
-      let imageDownload = new Downloadable(exportLocation.fullName, data, "image/" + exportLocation.extensionName, exportLocation.directory, false);
+      let data = (_b = await mediaPath.readFileBuffer()) != null ? _b : Buffer.from([]);
+      let imageDownload = new Downloadable(exportLocation.fullName, data, exportLocation.directory);
       downloads.push(imageDownload);
     }
     return downloads;
@@ -11564,12 +12088,12 @@ ${_HTMLGenerator.webpageJS}
     }
     for (let i = 0; i < headers.length; i++) {
       let header = headers[i];
-      let listItem = _HTMLGenerator.generateOutlineItem(header, usingDocument);
+      let listItem = this.generateOutlineItem(header, usingDocument);
       while (getLastStackSize() >= header.size && listStack.length > 1) {
         listStack.pop();
       }
       let childContainer = (_a = listStack.last()) == null ? void 0 : _a.querySelector(".outline-item-children");
-      if (getLastStackSize() == 0)
+      if (getLastStackSize() === 0)
         childContainer = listStack.last();
       if (!childContainer)
         continue;
@@ -11590,350 +12114,65 @@ ${_HTMLGenerator.webpageJS}
     return graphEl;
   }
 };
-var HTMLGenerator = _HTMLGenerator;
-HTMLGenerator.leafHandler = new LeafHandler();
-HTMLGenerator.autoDownloadExtras = true;
-HTMLGenerator.vaultPluginsPath = Path.vaultPath.joinString(app.vault.configDir, "plugins/").makeAbsolute();
-HTMLGenerator.mediaFolderName = new Path("media");
-HTMLGenerator.jsFolderName = new Path("scripts");
-HTMLGenerator.cssFolderName = new Path("styles");
-HTMLGenerator.errorHTML = `<center>
-		<h1>
-		Failed to render file, check obsidian log for details and report an issue on GitHub: 
-		<a href="https://github.com/KosmosisDire/obsidian-webpage-export/issues">Github Issues</a>
-		</h1>
-	</center>`;
-HTMLGenerator.appStyles = "";
-HTMLGenerator.mathStyles = "";
-HTMLGenerator.pluginStyles = "";
-HTMLGenerator.themeStyles = "";
-HTMLGenerator.snippetStyles = "";
-HTMLGenerator.lastEnabledSnippets = [];
-HTMLGenerator.lastEnabledTheme = "";
-HTMLGenerator.webpageJS = "";
-HTMLGenerator.graphViewJS = "";
-HTMLGenerator.graphWASMJS = "";
-HTMLGenerator.renderWorkerJS = "";
-HTMLGenerator.tinyColorJS = "";
-HTMLGenerator.webpagejsURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/webpage.js";
-HTMLGenerator.pluginStylesURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/plugin-styles.css";
-HTMLGenerator.obsidianStylesURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/obsidian-styles.css";
-HTMLGenerator.graphViewJSURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_view.js";
-HTMLGenerator.graphWASMJSURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_wasm.js";
-HTMLGenerator.graphWASMURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph_wasm.wasm";
-HTMLGenerator.renderWorkerURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/graph-render-worker.js";
-HTMLGenerator.tinycolorURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/tinycolor.js";
 
-// scripts/export-settings.ts
-var DEFAULT_SETTINGS = {
-  inlineCSS: true,
-  inlineJS: true,
-  inlineImages: true,
-  includePluginCSS: "",
-  makeNamesWebStyle: true,
-  allowFoldingHeadings: true,
-  addFilenameTitle: true,
-  exportInBackground: true,
-  beautifyHTML: false,
-  graphAttractionForce: 50,
-  graphLinkLength: 10,
-  graphRepulsionForce: 60,
-  graphCentralForce: 20,
-  graphEdgePruning: 100,
-  graphMinNodeSize: 5,
-  graphMaxNodeSize: 10,
-  addDarkModeToggle: true,
-  includeOutline: true,
-  includeGraphView: false,
-  customLineWidth: "",
-  openAfterExport: true,
-  keepNestedFolderStructure: false,
-  lastExportPath: ""
-};
-var FlowList = class {
-  constructor(containerEl) {
-    this.checkedList = [];
-    this.containerEl = containerEl;
-    this.flowListEl = this.containerEl.createDiv({ cls: "flow-list" });
-  }
-  addItem(name, key, value, onChange) {
-    let item = this.flowListEl.createDiv({ cls: "flow-item" });
-    let checkbox = item.createEl("input", { type: "checkbox" });
-    checkbox.checked = value;
-    if (checkbox.checked)
-      this.checkedList.push(key);
-    checkbox.addEventListener("change", (evt) => {
-      if (checkbox.checked) {
-        if (!this.checkedList.includes(key))
-          this.checkedList.push(key);
-      } else {
-        if (this.checkedList.includes(key))
-          this.checkedList.remove(key);
-      }
-    });
-    checkbox.addEventListener("change", (evt) => onChange(checkbox.checked));
-    let label = item.createDiv({ cls: "flow-label" });
-    label.setText(name);
-    return item;
-  }
-};
-var _ExportSettings = class extends import_obsidian3.PluginSettingTab {
-  constructor(plugin) {
-    super(app, plugin);
-    this.blacklistedPluginIDs = [];
-    _ExportSettings.plugin = plugin;
-  }
-  async getBlacklistedPluginIDs() {
-    if (this.blacklistedPluginIDs.length > 0)
-      return this.blacklistedPluginIDs;
-    let blacklist = await Utils.getText(HTMLGenerator.assetsPath.joinString("third-party-styles-blacklist.txt"));
-    if (blacklist) {
-      this.blacklistedPluginIDs = blacklist.split("\n");
+// scripts/html-generation/export-file.ts
+var import_js_beautify = __toESM(require_js());
+var ExportFile = class {
+  constructor(file, exportToFolder, exportFromFolder, partOfBatch, fileName = "", forceExportToRoot = false) {
+    this.downloads = [];
+    this.externalDownloads = [];
+    if (exportToFolder.isFile || !exportToFolder.isAbsolute)
+      throw new Error("rootExportFolder must be an absolute path to a folder");
+    if (!fileName.endsWith(".html"))
+      throw new Error("fileName must be a .html file");
+    this.markdownFile = file;
+    this.exportToFolder = exportToFolder;
+    this.exportFromFolder = exportFromFolder;
+    this.partOfBatch = partOfBatch;
+    this.name = fileName === "" ? file.basename + ".html" : fileName;
+    let parentPath = file.parent.path;
+    if (parentPath.trim() == "/" || parentPath.trim() == "\\")
+      parentPath = "";
+    this.exportPath = Path.joinStrings(parentPath, this.name);
+    if (forceExportToRoot)
+      this.exportPath.reparse(this.name);
+    this.exportPath.setWorkingDirectory(this.exportToFolder.asString);
+    if (ExportSettings.settings.makeNamesWebStyle) {
+      this.name = Path.toWebStyle(this.name);
+      this.exportPath.makeWebStyle();
     }
-    return this.blacklistedPluginIDs;
+    this.document = document.implementation.createHTMLDocument(this.markdownFile.basename);
   }
-  static async loadSettings() {
-    _ExportSettings.settings = Object.assign({}, DEFAULT_SETTINGS, await _ExportSettings.plugin.loadData());
-    _ExportSettings.settings.customLineWidth = _ExportSettings.settings.customLineWidth.toString();
-    if (_ExportSettings.settings.customLineWidth == "0")
-      _ExportSettings.settings.customLineWidth = "";
-    let thirdPartyStylesBlacklist = await fetch(_ExportSettings.thirdPartyStylesBlacklistURL);
-    let thirdPartyStylesBlacklistText = await thirdPartyStylesBlacklist.text();
-    await (0, import_promises2.writeFile)(HTMLGenerator.assetsPath.joinString("third-party-styles-blacklist.txt").asString, thirdPartyStylesBlacklistText).catch((err) => {
-      console.log(err);
-    });
+  get html() {
+    let htmlString = "<!DOCTYPE html>\n" + this.document.documentElement.outerHTML;
+    if (ExportSettings.settings.beautifyHTML)
+      htmlString = (0, import_js_beautify.html_beautify)(htmlString, { indent_size: 2 });
+    return htmlString;
   }
-  static async saveSettings() {
-    await _ExportSettings.plugin.saveData(_ExportSettings.settings);
+  get contentElement() {
+    return this.document.querySelector(".markdown-preview-view");
   }
-  display() {
-    const { containerEl } = this;
-    containerEl.empty();
-    let header = containerEl.createEl("h2", { text: "HTML Export Settings" });
-    header.style.display = "block";
-    header.style.marginBottom = "15px";
-    let supportLink = containerEl.createEl("a");
-    let buttonColor = Utils.sampleCSSColorHex("--color-accent", document.body).hex;
-    let buttonTextColor = Utils.sampleCSSColorHex("--text-on-accent", document.body).hex;
-    supportLink.outerHTML = `<a href="https://www.buymeacoffee.com/nathangeorge"><img style="height:40px;" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nathangeorge&button_colour=${buttonColor}&font_colour=${buttonTextColor}&font_family=Poppins&outline_colour=${buttonTextColor}&coffee_colour=FFDD00"></a>`;
-    let supportHeader = containerEl.createDiv({ text: "Support the continued development of this plugin.", cls: "setting-item-description" });
-    supportHeader.style.display = "block";
-    supportHeader.style.marginBottom = "20px";
-    let hr = containerEl.createEl("hr");
-    hr.style.marginTop = "20px";
-    hr.style.marginBottom = "20px";
-    hr.style.borderColor = "var(--color-accent)";
-    hr.style.opacity = "0.5";
-    new import_obsidian3.Setting(containerEl).setName("Inlining Options:").setDesc("If all three of these are on the html files will be completely self-contained.").setHeading();
-    new import_obsidian3.Setting(containerEl).setName("Inline CSS").setDesc("Inline the CSS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineCSS).onChange(async (value) => {
-      _ExportSettings.settings.inlineCSS = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Inline JS").setDesc("Inline the JS into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineJS).onChange(async (value) => {
-      _ExportSettings.settings.inlineJS = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Inline Images").setDesc("Inline the images into the HTML file.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.inlineImages).onChange(async (value) => {
-      _ExportSettings.settings.inlineImages = value;
-      await _ExportSettings.saveSettings();
-    }));
-    hr = containerEl.createEl("hr");
-    hr.style.marginTop = "20px";
-    hr.style.marginBottom = "20px";
-    hr.style.borderColor = "var(--color-accent)";
-    hr.style.opacity = "0.5";
-    new import_obsidian3.Setting(containerEl).setName("Formatting Options:").setHeading();
-    new import_obsidian3.Setting(containerEl).setName("Make names web style").setDesc("Make the names of files and folders lowercase and replace spaces with dashes.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.makeNamesWebStyle).onChange(async (value) => {
-      _ExportSettings.settings.makeNamesWebStyle = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Allow Folding Headings").setDesc("Allow headings to be folded with an arrow icon beside each heading, just as in Obsidian.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.allowFoldingHeadings).onChange(async (value) => {
-      _ExportSettings.settings.allowFoldingHeadings = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Add Filename as Title").setDesc("If the first header is not an H1, include the file name as a title at the top of the page.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.addFilenameTitle).onChange(async (value) => {
-      _ExportSettings.settings.addFilenameTitle = value;
-      await _ExportSettings.saveSettings();
-    }));
-    hr = containerEl.createEl("hr");
-    hr.style.marginTop = "20px";
-    hr.style.marginBottom = "20px";
-    hr.style.borderColor = "var(--color-accent)";
-    hr.style.opacity = "0.5";
-    new import_obsidian3.Setting(containerEl).setName("Export Options:").setHeading();
-    new import_obsidian3.Setting(containerEl).setName("Export in Background").setDesc("Export files in the background, this improves export times a HUGE amount and allows the files to export completely in the background.\n\nAs this is new, if you are encountering issues you can try turning this off, and report an issue on Github. There are a few types of embedded content it does not support yet.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.exportInBackground).onChange(async (value) => {
-      _ExportSettings.settings.exportInBackground = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Beautify HTML").setDesc("Beautify the HTML text to make it more human readable at the cost of export speed.").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.beautifyHTML).onChange(async (value) => {
-      _ExportSettings.settings.beautifyHTML = value;
-      await _ExportSettings.saveSettings();
-    }));
-    hr = containerEl.createEl("hr");
-    hr.style.marginTop = "20px";
-    hr.style.marginBottom = "20px";
-    hr.style.borderColor = "var(--color-accent)";
-    hr.style.opacity = "0.5";
-    new import_obsidian3.Setting(containerEl).setName("Include Plugin CSS").setDesc("Include the CSS from the following plugins in the exported HTML. If plugin features aren't rendering correctly, try adding the plugin to this list.").setHeading();
-    let pluginsList = new FlowList(containerEl);
-    Utils.getPluginIDs().forEach(async (plugin) => {
-      let pluginManifest = Utils.getPluginManifest(plugin);
-      if (!pluginManifest)
-        return;
-      if ((await this.getBlacklistedPluginIDs()).contains(pluginManifest.id)) {
-        return;
-      }
-      let pluginDir = pluginManifest.dir;
-      if (!pluginDir)
-        return;
-      let pluginPath = new Path(pluginDir);
-      let hasCSS = pluginPath.joinString("styles.css").exists;
-      if (!hasCSS)
-        return;
-      let isChecked = _ExportSettings.settings.includePluginCSS.match(new RegExp(`^${plugin}`, "m")) != null;
-      pluginsList.addItem(pluginManifest.name, plugin, isChecked, (value) => {
-        _ExportSettings.settings.includePluginCSS = pluginsList.checkedList.join("\n");
-        _ExportSettings.saveSettings();
-      });
-    });
-    let experimentalContainer = containerEl.createDiv();
-    let experimentalHR1 = experimentalContainer.createEl("hr");
-    let experimentalHeader = experimentalContainer.createEl("h2", { text: "Experimental" });
-    let experimentalHR2 = experimentalContainer.createEl("hr");
-    experimentalContainer.style.display = "flex";
-    experimentalContainer.style.marginTop = "5em";
-    experimentalContainer.style.alignItems = "center";
-    experimentalHR1.style.borderColor = "var(--color-red)";
-    experimentalHR2.style.borderColor = "var(--color-red)";
-    experimentalHeader.style.color = "var(--color-red)";
-    experimentalHR1.style.flexGrow = "1";
-    experimentalHR2.style.flexGrow = "1";
-    experimentalHeader.style.flexGrow = "0.1";
-    experimentalHeader.style.textAlign = "center";
-    new import_obsidian3.Setting(containerEl).setName("Graph View (PLEASE READ DESCRIPTION)").setDesc("This CANNOT be used with the file:// protocol, the assets for this also will not be inlined into the HTML file at this point.").setHeading();
-    new import_obsidian3.Setting(containerEl).setName("Include global graph view").setDesc("Include an interactive graph view sim of the WHOLE vault similar to obsidian's. ").addToggle((toggle) => toggle.setValue(_ExportSettings.settings.includeGraphView).onChange(async (value) => {
-      _ExportSettings.settings.includeGraphView = value;
-      await _ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(containerEl).setName("Graph View Settings").setDesc("Settings to control the behavior and look of the graph view. For now there is no live preview of this, so you must export your files to see your changes.").setHeading();
-    new import_obsidian3.Setting(containerEl).setName("Attraction Force").setDesc("How much should linked nodes attract each other? This will make the graph appear more clustered.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphAttractionForce / (2 / 100)).setDynamicTooltip().onChange(async (value) => {
-      let remapMultiplier = 2 / 100;
-      _ExportSettings.settings.graphAttractionForce = value * remapMultiplier;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Link Length").setDesc("How long should the links between nodes be? The shorter the links the closer connected nodes will cluster together.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphLinkLength).setDynamicTooltip().onChange(async (value) => {
-      _ExportSettings.settings.graphLinkLength = value;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Repulsion Force").setDesc("How much should nodes repel each other? This will make the graph appear more spread out.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphRepulsionForce / 3).setDynamicTooltip().onChange(async (value) => {
-      _ExportSettings.settings.graphRepulsionForce = value * 3;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Central Force").setDesc("How much should nodes be attracted to the center? This will make the graph appear more dense and circular.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(_ExportSettings.settings.graphCentralForce / (5 / 100)).setDynamicTooltip().onChange(async (value) => {
-      let remapMultiplier = 5 / 100;
-      _ExportSettings.settings.graphCentralForce = value * remapMultiplier;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Max Node Radius").setDesc("How large should the largest nodes be? Nodes are sized by how many links they have. The larger a node is the more it will attract other nodes. This can be used to create a good grouping around the most important nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMaxNodeSize).setDynamicTooltip().onChange(async (value) => {
-      _ExportSettings.settings.graphMaxNodeSize = value;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Min Node Radius").setDesc("How small should the smallest nodes be? The smaller a node is the less it will attract other nodes.").addSlider((slider) => slider.setLimits(3, 15, 1).setValue(_ExportSettings.settings.graphMinNodeSize).setDynamicTooltip().onChange(async (value) => {
-      _ExportSettings.settings.graphMinNodeSize = value;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    new import_obsidian3.Setting(containerEl).setName("Edge Pruning Factor").setDesc("Edges with a length above this threshold will not be rendered, however they will still contribute to the simulation. This can help large tangled graphs look more organised. Hovering over a node will still display these links.").addSlider((slider) => slider.setLimits(0, 100, 1).setValue(100 - _ExportSettings.settings.graphEdgePruning).setDynamicTooltip().onChange(async (value) => {
-      _ExportSettings.settings.graphEdgePruning = 100 - value;
-      await _ExportSettings.saveSettings();
-    }).showTooltip());
-    let experimentalHREnd = containerEl.createEl("hr");
-    experimentalHREnd.style.borderColor = "var(--color-red)";
+  get exportPathAbsolute() {
+    return this.exportToFolder.join(this.exportPath);
+  }
+  get pathToRoot() {
+    return Path.getRelativePath(this.exportPath, new Path(this.exportPath.workingDirectory), true).makeUnixStyle();
+  }
+  getSelfDownloadable() {
+    return new Downloadable(this.name, this.html, this.exportPath.directory);
+  }
+  async generateHTML(addSelfToDownloads = false) {
+    await HTMLGenerator.getDocumentHTML(this, addSelfToDownloads);
+    return this;
+  }
+  async generateWebpage() {
+    await HTMLGenerator.generateWebpage(this);
+    return this;
   }
 };
-var ExportSettings = _ExportSettings;
-ExportSettings.settings = DEFAULT_SETTINGS;
-ExportSettings.thirdPartyStylesBlacklistURL = "https://raw.githubusercontent.com/KosmosisDire/obsidian-webpage-export/master/assets/third-party-styles-blacklist.txt";
-var _ExportModal = class extends import_obsidian3.Modal {
-  constructor() {
-    super(app);
-  }
-  async open() {
-    _ExportModal.isClosed = false;
-    _ExportModal.canceled = true;
-    super.open();
-    const { contentEl } = this;
-    contentEl.empty();
-    this.titleEl.setText("Export to HTML");
-    if (HTMLExportPlugin.updateInfo.updateAvailable) {
-      let updateNotice = contentEl.createEl("strong", { text: `Update Available: ${HTMLExportPlugin.updateInfo.currentVersion} \u27F6 ${HTMLExportPlugin.updateInfo.latestVersion}` });
-      updateNotice.setAttribute("style", `margin-block-start: calc(var(--h3-size)/2);
-			background-color: var(--interactive-normal);
-			padding: 4px;
-			padding-left: 1em;
-			padding-right: 1em;
-			color: var(--color-red);
-			border-radius: 5px;
-			display: block;
-			width: fit-content;`);
-      let updateNotes = contentEl.createEl("div", { text: HTMLExportPlugin.updateInfo.updateNote });
-      updateNotes.setAttribute("style", `margin-block-start: calc(var(--h3-size)/2);
-			background-color: var(--background-secondary-alt);
-			padding: 4px;
-			padding-left: 1em;
-			padding-right: 1em;
-			color: var(--text-normal);
-			font-size: var(--font-ui-smaller);
-			border-radius: 5px;
-			display: block;
-			width: fit-content;
-			white-space: pre-wrap;`);
-    }
-    contentEl.createEl("h3", { text: "Document Settings:" });
-    new import_obsidian3.Setting(contentEl).setName("Add global theme toggle").setDesc("Adds a fixed theme toggle to the top of any page that doesn't already have a toggle embedded with `theme-toggle`.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.addDarkModeToggle).onChange(async (value) => {
-      ExportSettings.settings.addDarkModeToggle = value;
-      await ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(contentEl).setName("Include document outline").setDesc("Will include an interactive document outline tree on the right side of the document.").addToggle((toggle) => toggle.setValue(ExportSettings.settings.includeOutline).onChange(async (value) => {
-      ExportSettings.settings.includeOutline = value;
-      await ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(contentEl).setName("Page Width").setTooltip("Sets the line width of the exported document. Use any css units.\nDefault units: px").setHeading().addText((text) => text.setValue(ExportSettings.settings.customLineWidth).setPlaceholder("Leave blank for default").onChange(async (value) => {
-      ExportSettings.settings.customLineWidth = value;
-      await ExportSettings.saveSettings();
-    })).addExtraButton((button) => button.setIcon("reset").setTooltip("Reset to default").onClick(() => {
-      ExportSettings.settings.customLineWidth = "";
-      ExportSettings.saveSettings();
-      this.open();
-    }));
-    contentEl.createEl("h3", { text: "Export Options:" });
-    new import_obsidian3.Setting(contentEl).setName("Open after export").setHeading().addToggle((toggle) => toggle.setTooltip("Open the exported file after exporting.").setValue(ExportSettings.settings.openAfterExport).onChange(async (value) => {
-      ExportSettings.settings.openAfterExport = value;
-      await ExportSettings.saveSettings();
-    }));
-    new import_obsidian3.Setting(contentEl).setName("").setHeading().addButton((button) => button.setButtonText("Export").onClick(async () => {
-      _ExportModal.canceled = false;
-      this.close();
-    }));
-    new import_obsidian3.Setting(contentEl).setDesc("More options located on the plugin settings page.").addExtraButton((button) => button.setTooltip("Open plugin settings").onClick(() => {
-      app.setting.open();
-      app.setting.openTabById("webpage-html-export");
-    }));
-    await Utils.waitUntil(() => _ExportModal.isClosed, 60 * 60 * 1e3, 10);
-    return { canceled: _ExportModal.canceled };
-  }
-  onClose() {
-    const { contentEl } = this;
-    contentEl.empty();
-    _ExportModal.isClosed = true;
-  }
-};
-var ExportModal = _ExportModal;
-ExportModal.isClosed = true;
-ExportModal.canceled = true;
 
 // scripts/main.ts
-var { shell } = require("electron");
-var HTMLExportPlugin = class extends import_obsidian4.Plugin {
+var HTMLExportPlugin = class extends import_obsidian5.Plugin {
   addTogglePostprocessor() {
     this.registerMarkdownCodeBlockProcessor("theme-toggle", (source, el, ctx) => {
       let toggleEl = HTMLGenerator.generateDarkmodeToggle();
@@ -11942,7 +12181,7 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
     this.registerMarkdownPostProcessor((element, context) => {
       let codeBlocks = element.querySelectorAll("code, span.cm-inline-code");
       codeBlocks.forEach((codeBlock) => {
-        if (codeBlock instanceof HTMLElement && codeBlock.innerText == "theme-toggle") {
+        if (codeBlock instanceof HTMLElement && codeBlock.innerText === "theme-toggle") {
           let toggleEl = HTMLGenerator.generateDarkmodeToggle();
           codeBlock.replaceWith(toggleEl);
         }
@@ -11956,12 +12195,12 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = (_a = Utils.getActiveTextView()) == null ? void 0 : _a.file;
-        if (file instanceof import_obsidian4.TFile) {
+        if (file instanceof import_obsidian5.TFile) {
           if (checking)
             return true;
           this.exportFile(file, new Path(file.path)).then((exportedFile) => {
             if (exportedFile && ExportSettings.settings.openAfterExport) {
-              window.require("electron").remote.shell.openExternal(exportedFile.exportPathAbsolute.asString);
+              this.openPath(exportedFile.exportPathAbsolute);
             }
           });
         }
@@ -11974,13 +12213,13 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
       checkCallback: (checking) => {
         var _a;
         let file = (_a = Utils.getActiveTextView()) == null ? void 0 : _a.file;
-        if (file instanceof import_obsidian4.TFile) {
+        if (file instanceof import_obsidian5.TFile) {
           if (checking)
             return true;
           let path = Utils.idealDefaultPath().joinString(file.name).setExtension("html");
           this.exportFile(file, new Path(file.path), false, path, false).then((exportedFile) => {
             if (exportedFile && ExportSettings.settings.openAfterExport) {
-              window.require("electron").remote.shell.openExternal(exportedFile.exportPathAbsolute.asString);
+              this.openPath(exportedFile.exportPathAbsolute);
             }
           });
         }
@@ -11995,17 +12234,22 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
       }
     });
   }
+  async openPath(path) {
+    await window.electron.remote.shell.openPath(path.asString);
+  }
   async onload() {
+    navigator.clipboard.writeText("Hello");
     console.log("loading webpage-html-export plugin");
     HTMLExportPlugin.plugin = this;
     await this.checkForUpdates();
-    HTMLGenerator.initialize("webpage-html-export");
+    AssetHandler.initialize("webpage-html-export");
     this.addSettingTab(new ExportSettings(this));
     ExportSettings.loadSettings();
     this.addRibbonIcon("folder-up", "Export Vault to HTML", async () => {
       let exportInfo = await this.exportFolder(Path.emptyPath);
       if (exportInfo.success && ExportSettings.settings.openAfterExport) {
-        window.require("electron").remote.shell.openExternal(exportInfo.exportedPath.asString);
+        console.log("Opening: " + exportInfo.exportedPath.asString);
+        this.openPath(exportInfo.exportedPath);
       }
     });
     this.addTogglePostprocessor();
@@ -12013,20 +12257,22 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
     this.registerEvent(this.app.workspace.on("file-menu", (menu, file) => {
       menu.addItem((item) => {
         item.setTitle("Export to HTML").setIcon("download").setSection("export").onClick(async () => {
-          if (file instanceof import_obsidian4.TFile) {
+          if (file instanceof import_obsidian5.TFile) {
             let path = new Path(file.path);
             let exportedFile = await this.exportFile(file, path);
             if (exportedFile && ExportSettings.settings.openAfterExport) {
-              window.require("electron").remote.shell.openExternal(exportedFile.exportPathAbsolute.asString);
+              console.log("Opening: " + exportedFile.exportPathAbsolute.asString);
+              this.openPath(exportedFile.exportPathAbsolute);
             }
-          } else if (file instanceof import_obsidian4.TFolder) {
+          } else if (file instanceof import_obsidian5.TFolder) {
             let exportInfo = await this.exportFolder(new Path(file.path));
             if (exportInfo.success && ExportSettings.settings.openAfterExport) {
-              window.require("electron").remote.shell.openExternal(exportInfo.exportedPath.asString);
+              console.log("Opening: " + exportInfo.exportedPath.asString);
+              this.openPath(exportInfo.exportedPath);
             }
           } else {
             console.error("File is not a TFile or TFolder! Invalid type: " + typeof file);
-            new import_obsidian4.Notice("File is not a File or Folder! Invalid type: " + typeof file, 5e3);
+            new import_obsidian5.Notice("File is not a File or Folder! Invalid type: " + typeof file, 5e3);
           }
         });
       });
@@ -12034,7 +12280,7 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
   }
   async exportFile(file, exportFromPath, partOfBatch = false, exportToPath = void 0, showSettings = true) {
     if (file.extension != "md") {
-      new import_obsidian4.Notice(`\u2757 Unfortunately exporting ${file.extension.replaceAll(".", "")} files is not supported yet.`, 7e3);
+      new import_obsidian5.Notice(`\u2757 Unfortunately exporting ${file.extension.replaceAll(".", "")} files is not supported yet.`, 7e3);
       return void 0;
     }
     if (showSettings) {
@@ -12052,17 +12298,27 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
       exportToPath = saveDialogPath;
     }
     if (!partOfBatch) {
-      GraphGenerator.clearGraphCache();
+      await HTMLGenerator.beginBatch();
+      RenderLog.progress(1, 2, "Generating HTML", "Exporting: " + file.path);
     }
-    let exportedFile = new ExportFile(file, exportToPath.directory.absolute(), exportFromPath.directory, partOfBatch, exportToPath.fullName, !partOfBatch);
-    await HTMLGenerator.generateWebpage(exportedFile);
+    try {
+      var exportedFile = new ExportFile(file, exportToPath.directory.absolute(), exportFromPath.directory, partOfBatch, exportToPath.fullName, !partOfBatch);
+      await HTMLGenerator.generateWebpage(exportedFile);
+    } catch (e) {
+      if (!partOfBatch) {
+        RenderLog.error("Could not export file: " + file.name, e.stack, true);
+      }
+      throw e;
+    }
     if (!partOfBatch) {
-      await Utils.downloadFiles(exportedFile.downloads, exportToPath.directory, false);
-      new import_obsidian4.Notice("\u2705 Finished HTML Export:\n\n" + exportToPath.asString, 5e3);
+      await Utils.downloadFiles(exportedFile.downloads, exportToPath.directory);
+      new import_obsidian5.Notice("\u2705 Finished HTML Export:\n\n" + exportToPath.asString, 5e3);
+      HTMLGenerator.endBatch();
     }
     return exportedFile;
   }
   async exportFolder(folderPath, showSettings = true) {
+    performance.mark("start");
     if (showSettings) {
       let result = await new ExportModal().open();
       if (result.canceled)
@@ -12072,39 +12328,40 @@ var HTMLExportPlugin = class extends import_obsidian4.Plugin {
     if (!htmlPath)
       return { success: false, exportedPath: Path.emptyPath };
     let allFiles = this.app.vault.getMarkdownFiles();
-    let filesToExport = folderPath.isEmpty ? allFiles : allFiles.filter((file) => file.path.startsWith(folderPath.asString) && file.extension == "md");
+    let filesToExport = folderPath.isEmpty ? allFiles : allFiles.filter((file) => new Path(file.path).directory.asString.startsWith(folderPath.asString) && file.extension === "md");
     if (filesToExport.length > 1e5 || filesToExport.length <= 0) {
-      new import_obsidian4.Notice(`\u2757Invalid number of files to export: ${filesToExport.length}.
+      new import_obsidian5.Notice(`\u2757Invalid number of files to export: ${filesToExport.length}.
 
-Please report on GitHub.`, 0);
+Please report on GitHub if there are markdown files in this folder.`, 0);
       return { success: false, exportedPath: htmlPath };
     }
-    GraphGenerator.clearGraphCache();
-    let lastProgressMessage = Utils.generateProgressbar("Generating HTML", 1, filesToExport.length, 15, "\u25B0", "\u25B1");
-    let progressNotice = new import_obsidian4.Notice(lastProgressMessage, 0);
+    await HTMLGenerator.beginBatch();
+    RenderLog.progress(0, filesToExport.length, "Generating HTML", "...", "var(--color-accent)");
     let externalFiles = [];
-    try {
-      for (let i = 0; i < filesToExport.length; i++) {
-        let file = filesToExport[i];
+    for (let i = 0; i < filesToExport.length; i++) {
+      let file = filesToExport[i];
+      try {
+        RenderLog.progress(i, filesToExport.length, "Generating HTML", "Exporting: " + file.path, "var(--color-accent)");
         let filePath = htmlPath.joinString(file.name).setExtension("html");
         let exportedFile = await this.exportFile(file, folderPath, true, filePath, false);
         if (exportedFile) {
           externalFiles.push(...exportedFile.downloads);
-          externalFiles = externalFiles.filter((file2, index) => externalFiles.findIndex((f) => f.relativeDownloadPath == file2.relativeDownloadPath && f.filename == file2.filename) == index);
+          externalFiles = externalFiles.filter((file2, index) => externalFiles.findIndex((f) => f.relativeDownloadPath == file2.relativeDownloadPath && f.filename === file2.filename) == index);
         }
-        lastProgressMessage = Utils.generateProgressbar("Generating HTML", i + 1, filesToExport.length, 15, "\u25B0", "\u25B1");
-        progressNotice.setMessage(lastProgressMessage);
+      } catch (e) {
+        let message = "Could not export file: " + file.name;
+        RenderLog.error(message, e.stack);
+        return { success: false, exportedPath: htmlPath };
       }
-    } catch (e) {
-      console.error(e);
-      progressNotice.setMessage("\u2757 " + lastProgressMessage);
-      return { success: false, exportedPath: htmlPath };
     }
-    await Utils.delay(100);
-    progressNotice.hide();
-    await Utils.downloadFiles(externalFiles, htmlPath, true);
-    new import_obsidian4.Notice("\u2705 Finished HTML Export:\n\n" + htmlPath, 5e3);
+    await Utils.downloadFiles(externalFiles, htmlPath);
+    HTMLGenerator.endBatch();
+    await Utils.delay(200);
+    new import_obsidian5.Notice("\u2705 Finished HTML Export:\n\n" + htmlPath, 5e3);
     console.log("Finished HTML Export: " + htmlPath);
+    performance.mark("end");
+    performance.measure("exportFolder", "start", "end");
+    console.log(performance.getEntriesByName("exportFolder")[0].duration + "ms");
     return { success: true, exportedPath: htmlPath };
   }
   async checkForUpdates() {
