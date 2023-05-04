@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Index.md"
               }
             }
           }
@@ -169,6 +169,8 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Index.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Assets/Templates/Character.md",
@@ -177,7 +179,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
