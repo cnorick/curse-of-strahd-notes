@@ -20,10 +20,10 @@ def updateIndexFile(filename):
       if(not a['href'].startswith('http')):
         a['href'] = '/' + a['href']
 
-    sessionAnchors = soup.find(id="Session_Notes").find_all('a')
+    sessionAnchors = soup.find(id="Session_Notes").parent.nextSibling.find_all('a')
     for a in sessionAnchors:
       # Make all session note links relative
-      print('Fixing URLs for: {}'.format(a.text))
+      print('Fixing Link to: {}'.format(a.text))
       a['href'] = a['href'][1:]
 
     overwriteFile(indexFile, soup)
