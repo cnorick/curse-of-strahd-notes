@@ -14,11 +14,8 @@ with open(sys.argv[1], 'r+') as my_file:
   # Hide all the links in the session notes
   sessionNotes = soup.find(id="Session_1").find_parent(class_='block-language-dataviewjs')
   for a in sessionNotes.find_all('a', class_='internal-link'):
+    a.string.wrap(soup.new_tag('b'))
     a.unwrap()
-    a.wrap(soup.new_tag('b'))
-    # del a['href']
-    # a.replace_with('b')
-    # del a['class']
 
 
   cleanContent = str(soup)
