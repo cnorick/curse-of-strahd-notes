@@ -23,7 +23,7 @@ def updateIndexFile(filename):
     for a in sessionAnchors:
       # Make all session note links relative
       print('Fixing Link to: {}'.format(a.text))
-      a['href'] = a['href'][1:]
+      a['href'] = a['href'][6:]
 
     overwriteFile(indexFile, soup)
 
