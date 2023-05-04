@@ -48,7 +48,7 @@
 ### Burgomaster's Mansion (E4)
 > A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the firers that have assailed the mansion. Nat a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.
 
-- CD 11 Perception -> can discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints
+- DC 11 Perception -> can discern trampled weeds all around the mansion as well as scores of wolf paw prints and human footprints
 	- (the prints were made by zombies and ghouls under [[Strahd Von Zarovich|Strahd]]'s control)
  - [[Ireena Kolyana]] is inside and won't open the heavily-barred door to anyone unless she's convinced they don't have any allegiance to [[Strahd Von Zarovich|Strahd]]
 	- Can convince with good roleplaying or DC 15 Deception/Persuasion

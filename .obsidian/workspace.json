@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "035c32b6495499a6",
+        "id": "76fdbb37ece07f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7aabeecddb7c72",
+            "id": "bbb16449a6a070a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Mad Mary.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mad Mary.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mad Mary.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mad Mary.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -156,9 +156,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf7aabeecddb7c72",
+  "active": "bbb16449a6a070a8",
   "lastOpenFiles": [
+    "Locations/Vallaki.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Mad Mary.md",
+    "Characters/Gadof Blinsky.md",
     "TODO.md",
     "Index.md",
     "Music Compiled.md",
@@ -188,9 +191,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
