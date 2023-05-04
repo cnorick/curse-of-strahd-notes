@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ismark.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ismark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Images/Portraits/Portrait of Ismark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Handouts/Images/Portraits/Portrait of Ismark.md"
               }
             }
           }
@@ -170,9 +170,10 @@
   },
   "active": "b82762be988c65da",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "New Handouts.md",
     "Campaign Notes.md",
     "Index.md",
-    "New Handouts.md",
     "Campaign/Session 4.md",
     "Characters/Walter.md",
     "Campaign/Session 3.md",
@@ -197,7 +198,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
