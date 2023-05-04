@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
-                "mode": "source",
+                "file": "Characters/Walter.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Characters/Walter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Characters/Walter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md"
+                "file": "Characters/Walter.md"
               }
             }
           }
@@ -158,9 +158,9 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Misc/Mechanics of Dream Pastries.md",
     "Locations/Village of Barovia (E).md",
     "Misc/The Morninglord.md",
-    "Misc/Mechanics of Dream Pastries.md",
     "Locations/Tser Pool Encampment (G).md",
     "Misc/Adventuring Gear.md",
     "Misc/Barovian Lore.md",
