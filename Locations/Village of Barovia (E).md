@@ -179,7 +179,7 @@ Contents:
 - The players may want to rest another night (esp if they fought [[Doru]])
 	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
 	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
-	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool]] before nightfall
+	- If they want to rest, [[Ismark Kolyanovich|Ismark]] recommends they can make it to [[Tser Pool Encampment (G)|Tser Pool]] before nightfall
 		- for a safe place to camp
 		- [[Ismark Kolyanovich|Ismark]] says the [[Vistani]] tribe at that location are friendly to visitors
 			- unlike the evil women at the tavern

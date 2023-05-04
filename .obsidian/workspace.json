@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/The Morninglord.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/The Morninglord.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/The Morninglord.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/The Morninglord.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
+    "Locations/Village of Barovia (E).md",
+    "Misc/The Morninglord.md",
     "Misc/Adventuring Gear.md",
     "Misc/Barovian Lore.md",
     "Misc/Card Reading.md",
@@ -166,9 +169,6 @@
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Vistani.md",
     "Tser Pool.md",
-    "Locations/Village of Barovia (E).md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Misc/The Morninglord.md",
     "Locations/Vallaki.md",
     "Characters/Mad Mary.md",
     "Characters/Gadof Blinsky.md",
