@@ -15,7 +15,7 @@ with open(sys.argv[1], 'r+') as my_file:
   sessionNotes = soup.find(id="Session_1").find_parent(class_='block-language-dataviewjs')
   for a in sessionNotes.find_all('a', class_='internal-link'):
     del a['href']
-    a['name'] = 'b'
+    a.replace_with('b')
     del a['class']
 
 
