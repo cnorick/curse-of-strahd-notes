@@ -3,6 +3,6 @@
 
 cp site/campaign-notes.html no-spoilers/campaign-notes/index.html
 cp -r site/styles site/scripts no-spoilers/campaign-notes
-cp -r site/session-notes no-spoilers/session-notes
-python3 scripts/create-no-spoilers.py no-spoilers/campaign-notes/index.html no-spoilers/session-notes
+cp -r site/session-notes/* no-spoilers/campaign-notes
+python3 scripts/create-no-spoilers.py no-spoilers/campaign-notes/index.html no-spoilers/campaign-notes/session-notes
 
