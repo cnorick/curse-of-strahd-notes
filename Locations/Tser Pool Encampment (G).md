@@ -1,3 +1,6 @@
+---
+alias: Tser Pool
+---
 ## Locations
 ### Entering the Camp
 - Draw a stark contrast between what they've seen so far ([[Death House]] and [[Village of Barovia (E)]])
