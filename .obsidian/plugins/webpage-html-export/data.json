@@ -1,9 +1,9 @@
 {
-  "inlineCSS": false,
-  "inlineJS": false,
-  "inlineImages": false,
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
   "includePluginCSS": "obsidian-5e-statblocks\ndataview\nobsidian-enhancing-export\nmedia-extended",
-  "makeNamesWebStyle": true,
+  "makeNamesWebStyle": false,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
   "beautifyHTML": true,
@@ -13,7 +13,7 @@
   "includeOutline": true,
   "includeGraphView": false,
   "includeVaultOutline": true,
-  "exportPreset": "website",
+  "exportPreset": "documents",
   "customLineWidth": "",
   "openAfterExport": true,
   "keepNestedFolderStructure": false,
@@ -24,6 +24,6 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 5,
   "graphMaxNodeSize": 10,
-  "lastExportPath": "C:\\Users\\Nathan\\Desktop\\Strahd\\obsidian\\Website\\site",
+  "lastExportPath": "C:\\Users\\Nathan\\Desktop\\Walter.html",
   "exportInBackground": false
 }

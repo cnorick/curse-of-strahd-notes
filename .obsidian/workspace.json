@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Characters/Walter.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Characters/Walter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Characters/Walter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Characters/Walter.md"
               }
             }
           }
@@ -170,13 +170,14 @@
   },
   "active": "a7b9e4429db2676d",
   "lastOpenFiles": [
+    "Characters/Walter.md",
+    "Campaign Notes.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -195,7 +196,6 @@
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
     "Characters/Rictavio.md",
-    "Characters/Rosevalda.md",
     "Website/site/no-spoilers/campaign-notes/scripts/graph_wasm.wasm",
     "Website/site/no-spoilers/campaign-notes/scripts/graph-render-worker.js",
     "Website/site/no-spoilers/campaign-notes/scripts/graph_wasm.js",
