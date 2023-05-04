@@ -167,45 +167,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "96a93ddb5ffa9cfd",
-        "type": "window",
-        "children": [
-          {
-            "id": "46fed5d557ee9fb3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9cf541d966ca8713",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Campaign Notes.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9cf541d966ca8713",
+  "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Assets/Templates/Character.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -225,13 +195,6 @@
     "Characters/Parriwimple.md",
     "Characters/Rictavio.md",
     "Characters/Rosevalda.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Shalooti.md",
-    "Characters/Tatyana.md",
-    "Characters/Walter.md",
-    "Characters/Thornboldt.md",
-    "Characters/Gustav Durst.md",
-    "Characters/Ireena Kolyana.md",
     "Website/scripts/create-no-spoilers.sh",
     "Website/scripts/clean-notes copy.sh",
     "Website/scripts/create-no-spoilers.py",
