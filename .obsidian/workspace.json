@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Walter.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Walter.md",
+                "file": "Handouts/Items/Cloak of Protection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Walter.md"
+                "file": "Handouts/Items/Cloak of Protection.md"
               }
             }
           }
@@ -168,7 +167,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a7b9e4429db2676d",
+  "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
     "Characters/Walter.md",
     "Campaign Notes.md",
