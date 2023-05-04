@@ -22,6 +22,26 @@
     let jsPath = "scripts";
     let cssPath = "styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="scripts/graph_view.js" type="module"></script>
+<script src="scripts/graph_wasm.js"></script>
+<script src="scripts/tinycolor.js"></script>
 <script src="scripts/webpage.js"></script>
 </head>
 <body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
@@ -34,7 +54,7 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
 <div>
 <h1 id="Music_Compiled">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -42,10 +62,9 @@
 </svg></div>Music Compiled
           </h1>
 </div>
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Music Compiled</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <p>Go into view mode to have full control</p>
 </div>
@@ -61,26 +80,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="187.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-4608" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="187.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-4314" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:07</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-4608" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-4608" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-4314" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-4314" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-4608">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-4314">
 <div>
-<div id="plyr-settings-4608-home">
+<div id="plyr-settings-4314-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-4608-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4314-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-4608-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4314-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-4608-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4314-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -108,26 +127,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="153.046" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9125" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="153.046" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1416" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">02:33</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9125" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9125" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1416" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1416" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-9125">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-1416">
 <div>
-<div id="plyr-settings-9125-home">
+<div id="plyr-settings-1416-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-9125-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1416-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9125-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1416-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9125-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1416-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -155,26 +174,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="164.032" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6859" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="164.032" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-5152" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">02:44</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6859" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6859" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-5152" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-5152" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-6859">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-5152">
 <div>
-<div id="plyr-settings-6859-home">
+<div id="plyr-settings-5152-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-6859-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5152-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6859-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5152-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6859-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5152-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -202,26 +221,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="197.035" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6880" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="197.035" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6451" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:17</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6880" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6880" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6451" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6451" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-6880">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-6451">
 <div>
-<div id="plyr-settings-6880-home">
+<div id="plyr-settings-6451-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-6880-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6451-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6880-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6451-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6880-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6451-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -249,26 +268,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="139.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1180" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="139.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-716" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">02:19</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1180" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1180" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-716" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-716" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-1180">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-716">
 <div>
-<div id="plyr-settings-1180-home">
+<div id="plyr-settings-716-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-1180-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-716-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1180-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-716-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1180-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-716-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -296,26 +315,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="181.035" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-2451" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="181.035" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-3589" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:01</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-2451" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-2451" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-3589" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-3589" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-2451">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-3589">
 <div>
-<div id="plyr-settings-2451-home">
+<div id="plyr-settings-3589-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-2451-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-3589-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2451-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-3589-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2451-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-3589-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -343,26 +362,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="170.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9366" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="170.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-5302" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">02:50</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9366" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9366" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-5302" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-5302" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-9366">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-5302">
 <div>
-<div id="plyr-settings-9366-home">
+<div id="plyr-settings-5302-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-9366-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5302-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9366-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5302-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9366-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5302-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -390,26 +409,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="219.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-5912" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="219.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9331" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:39</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-5912" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-5912" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9331" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9331" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-5912">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-9331">
 <div>
-<div id="plyr-settings-5912-home">
+<div id="plyr-settings-9331-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-5912-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9331-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-5912-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9331-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-5912-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9331-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -437,26 +456,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="194.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9985" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="194.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-5198" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:14</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9985" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9985" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-5198" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-5198" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-9985">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-5198">
 <div>
-<div id="plyr-settings-9985-home">
+<div id="plyr-settings-5198-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-9985-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5198-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9985-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5198-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9985-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-5198-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -484,26 +503,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="185.046" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-2618" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="185.046" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-818" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:05</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-2618" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-2618" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-818" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-818" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-2618">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-818">
 <div>
-<div id="plyr-settings-2618-home">
+<div id="plyr-settings-818-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-2618-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-818-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2618-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-818-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2618-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-818-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -531,26 +550,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="191.04" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1075" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="191.04" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-2730" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:11</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1075" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1075" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-2730" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-2730" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-1075">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-2730">
 <div>
-<div id="plyr-settings-1075-home">
+<div id="plyr-settings-2730-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-1075-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-2730-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1075-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-2730-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1075-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-2730-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -578,26 +597,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="190.038" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-684" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="190.038" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1459" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:10</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-684" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-684" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1459" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1459" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-684">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-1459">
 <div>
-<div id="plyr-settings-684-home">
+<div id="plyr-settings-1459-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-684-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1459-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-684-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1459-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-684-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1459-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -625,26 +644,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="187.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6600" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="187.03" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-4266" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:07</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6600" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6600" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-4266" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-4266" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-6600">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-4266">
 <div>
-<div id="plyr-settings-6600-home">
+<div id="plyr-settings-4266-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-6600-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4266-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6600-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4266-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6600-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-4266-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -672,26 +691,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="4132.024" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-3791" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="4132.024" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6697" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">1:08:52</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-3791" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-3791" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6697" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6697" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-3791">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-6697">
 <div>
-<div id="plyr-settings-3791-home">
+<div id="plyr-settings-6697-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-3791-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6697-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-3791-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6697-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-3791-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6697-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -719,26 +738,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="3520.086" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-42" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="3520.086" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6182" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">58:40</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-42" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-42" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6182" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6182" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-42">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-6182">
 <div>
-<div id="plyr-settings-42-home">
+<div id="plyr-settings-6182-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-42-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6182-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-42-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6182-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-42-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6182-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -766,26 +785,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="3185.057" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9707" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="3185.057" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1461" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">53:05</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9707" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9707" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1461" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1461" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-9707">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-1461">
 <div>
-<div id="plyr-settings-9707-home">
+<div id="plyr-settings-1461-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-9707-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1461-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9707-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1461-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-9707-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-1461-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -813,26 +832,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="2046.338" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1251" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="2046.338" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9133" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">34:06</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1251" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1251" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9133" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9133" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-1251">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-9133">
 <div>
-<div id="plyr-settings-1251-home">
+<div id="plyr-settings-9133-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-1251-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9133-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1251-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9133-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1251-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9133-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -860,26 +879,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="290.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-3741" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="290.027" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6712" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">04:50</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-3741" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-3741" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6712" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6712" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-3741">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-6712">
 <div>
-<div id="plyr-settings-3741-home">
+<div id="plyr-settings-6712-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-3741-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6712-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-3741-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6712-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-3741-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-6712-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -907,26 +926,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="346.731" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-7954" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="346.731" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9864" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">05:46</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-7954" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-7954" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9864" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9864" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-7954">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-9864">
 <div>
-<div id="plyr-settings-7954-home">
+<div id="plyr-settings-9864-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-7954-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9864-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-7954-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9864-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-7954-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9864-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -954,26 +973,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="199.4" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-1101" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="199.4" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-8903" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:19</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-1101" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-1101" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-8903" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-8903" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-1101">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-8903">
 <div>
-<div id="plyr-settings-1101-home">
+<div id="plyr-settings-8903-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-1101-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-8903-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1101-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-8903-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-1101-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-8903-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -1001,26 +1020,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="176.157" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-6263" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="176.157" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-9443" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">02:56</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-6263" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-6263" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-9443" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-9443" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-6263">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-9443">
 <div>
-<div id="plyr-settings-6263-home">
+<div id="plyr-settings-9443-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-6263-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9443-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6263-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9443-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-6263-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-9443-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -1048,26 +1067,26 @@
 <use xlink:href="#plyr-play"></use>
 </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
 <div class="plyr__controls__item plyr__progress__container">
-<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="221.772" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-2537" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="100">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+<div class="plyr__progress"><input aria-label="Seek" aria-valuemax="221.772" aria-valuemin="0" aria-valuenow="0" aria-valuetext="00:00 of 00:00" autocomplete="off" data-plyr="seek" id="plyr-seek-7340" max="100" min="0" role="slider" step="0.01" style="--value:0%;" type="range" value="0"/><progress aria-hidden="true" class="plyr__progress__buffer" max="100" min="0" role="progressbar" value="0">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
 </div>
 <div aria-label="Current time" class="plyr__controls__item plyr__time--current plyr__time">00:00</div>
 <div aria-label="Duration" class="plyr__controls__item plyr__time--duration plyr__time">03:41</div>
-<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-2537" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
-<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-2537" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
+<div class="plyr__controls__item plyr__volume"><input aria-label="Volume" aria-valuemax="100" aria-valuemin="0" aria-valuenow="25" aria-valuetext="25.0%" autocomplete="off" data-plyr="volume" id="plyr-volume-7340" max="1" min="0" role="slider" step="0.05" style="--value:25%;" type="range" value="0.25"/></div>
+<div class="plyr__controls__item plyr__menu"><button aria-controls="plyr-settings-7340" aria-expanded="false" aria-haspopup="true" class="plyr__control" data-plyr="settings" type="button"><svg aria-hidden="true" focusable="false">
 <use xlink:href="#plyr-settings"></use>
 </svg><span class="plyr__sr-only">Settings</span></button>
-<div class="plyr__menu__container" hidden="" id="plyr-settings-2537">
+<div class="plyr__menu__container" hidden="" id="plyr-settings-7340">
 <div>
-<div id="plyr-settings-2537-home">
+<div id="plyr-settings-7340-home">
 <div role="menu"><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" hidden="" role="menuitem" type="button"><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button aria-haspopup="true" class="plyr__control plyr__control--forward" data-plyr="settings" role="menuitem" type="button"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
 </div>
-<div hidden="" id="plyr-settings-2537-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-7340-captions"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2537-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-7340-quality"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"></div>
 </div>
-<div hidden="" id="plyr-settings-2537-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+<div hidden="" id="plyr-settings-7340-speed"><button class="plyr__control plyr__control--back" type="button"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
 <div role="menu"><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.5"><span>0.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="0.75"><span>0.75×</span></button><button aria-checked="true" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1"><span>Normal</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.25"><span>1.25×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.5"><span>1.5×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="1.75"><span>1.75×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="2"><span>2×</span></button><button aria-checked="false" class="plyr__control" data-plyr="speed" role="menuitemradio" type="button" value="4"><span>4×</span></button></div>
 </div>
 </div>
@@ -1086,36 +1105,39 @@
 <div>
 <p>Death House Upstairs<br/>
 </p>
-<div class="plyr plyr--full-ui plyr--video plyr--youtube plyr--fullscreen-enabled yt-controls plyr__poster-enabled plyr--paused plyr--stopped" style="--mx-default-height:30vh; --max-ratio-width:53.3333vh;" tabindex="0">
-<div class="plyr__controls"></div>
-<div class="plyr__video-wrapper plyr__video-embed" style="aspect-ratio: 16 / 9;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1" frameborder="0" height="360" id="youtube-4859" src="https://www.youtube.com/embed/GOTyzCntzJo?autoplay=0&amp;controls=true&amp;disablekb=1&amp;playsinline=1&amp;cc_load_policy=0&amp;cc_lang_pref=auto&amp;widget_referrer=app%3A%2F%2Fobsidian.md%2Findex.html&amp;rel=0&amp;showinfo=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;customControls=true&amp;noCookie=false&amp;enablejsapi=1&amp;origin=app%3A%2F%2Fobsidian.md&amp;widgetid=13" title="Player for D&amp;D Ambience - [CoS] - Death House" width="640"></iframe>
+<div class="plyr plyr--full-ui plyr--video plyr--youtube plyr--fullscreen-enabled yt-controls plyr--playing plyr__poster-enabled" style="--mx-default-height:30vh;" tabindex="0">
+<div class="plyr__video-wrapper plyr__video-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1" frameborder="0" height="360" id="youtube-8392" src="https://www.youtube.com/embed/GOTyzCntzJo?autoplay=0&amp;controls=true&amp;disablekb=1&amp;playsinline=1&amp;cc_load_policy=0&amp;cc_lang_pref=auto&amp;widget_referrer=app%3A%2F%2Fobsidian.md%2Findex.html&amp;rel=0&amp;showinfo=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;customControls=true&amp;noCookie=false&amp;enablejsapi=1&amp;origin=app%3A%2F%2Fobsidian.md&amp;widgetid=17" title="YouTube video player" width="640"></iframe>
 <div class="plyr__poster" style='background-image: url("https://i.ytimg.com/vi/GOTyzCntzJo/maxresdefault.jpg");'></div>
-</div><button aria-label="Play" class="plyr__control plyr__control--overlaid" data-plyr="play" type="button"><svg aria-hidden="true" focusable="false">
-<use xlink:href="#plyr-play"></use>
-</svg><span class="plyr__sr-only">Play</span></button>
+</div>
 </div>
 <p></p>
 </div>
 <div>
 <p>Death House Dungeon<br/>
 </p>
-<div class="plyr plyr--full-ui plyr--video plyr--youtube plyr--fullscreen-enabled yt-controls plyr__poster-enabled plyr--paused plyr--stopped" style="--mx-default-height:30vh; --max-ratio-width:53.3333vh;" tabindex="0">
-<div class="plyr__controls"></div>
-<div class="plyr__video-wrapper plyr__video-embed" style="aspect-ratio: 16 / 9;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1" frameborder="0" height="360" id="youtube-1359" src="https://www.youtube.com/embed/eqUiXz1tcmM?autoplay=0&amp;controls=true&amp;disablekb=1&amp;playsinline=1&amp;cc_load_policy=0&amp;cc_lang_pref=auto&amp;widget_referrer=app%3A%2F%2Fobsidian.md%2Findex.html&amp;rel=0&amp;showinfo=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;customControls=true&amp;noCookie=false&amp;enablejsapi=1&amp;origin=app%3A%2F%2Fobsidian.md&amp;widgetid=14" title="Player for D&amp;D Ambience - [CoS] - Death House Dungeon" width="640"></iframe>
+<div class="plyr plyr--full-ui plyr--video plyr--youtube plyr--fullscreen-enabled yt-controls plyr--playing plyr__poster-enabled" style="--mx-default-height:30vh;" tabindex="0">
+<div class="plyr__video-wrapper plyr__video-embed"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="1" frameborder="0" height="360" id="youtube-5170" src="https://www.youtube.com/embed/eqUiXz1tcmM?autoplay=0&amp;controls=true&amp;disablekb=1&amp;playsinline=1&amp;cc_load_policy=0&amp;cc_lang_pref=auto&amp;widget_referrer=app%3A%2F%2Fobsidian.md%2Findex.html&amp;rel=0&amp;showinfo=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;customControls=true&amp;noCookie=false&amp;enablejsapi=1&amp;origin=app%3A%2F%2Fobsidian.md&amp;widgetid=18" title="YouTube video player" width="640"></iframe>
 <div class="plyr__poster" style='background-image: url("https://i.ytimg.com/vi/eqUiXz1tcmM/maxresdefault.jpg");'></div>
-</div><button aria-label="Play" class="plyr__control plyr__control--overlaid" data-plyr="play" type="button"><svg aria-hidden="true" focusable="false">
-<use xlink:href="#plyr-play"></use>
-</svg><span class="plyr__sr-only">Play</span></button>
+</div>
 </div>
 <p></p>
 </div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>

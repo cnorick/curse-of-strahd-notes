@@ -22,9 +22,29 @@
     let jsPath = "scripts";
     let cssPath = "styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="scripts/graph_view.js" type="module"></script>
+<script src="scripts/graph_wasm.js"></script>
+<script src="scripts/tinycolor.js"></script>
 <script src="scripts/webpage.js"></script>
 </head>
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
 <div class="flex-container">
 <div class="sidebar-left" id="sidebar">
 <div class="sidebar-content">
@@ -34,17 +54,16 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Index</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <h1 data-heading="Danger! Big Spoilers! Do Not Read" id="Danger!_Big_Spoilers!_Do_Not_Read">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Danger! Big Spoilers! Do Not Read
-          </h1>
+            </h1>
 </div>
 <div>
 <p><a aria-label="https://cos.nathanorick.com/no-spoilers/campaign-notes/index.html" class="external-link" data-tooltip-position="top" href="https://cos.nathanorick.com/no-spoilers/campaign-notes/index.html" rel="noopener" target="_blank">Go here for no-spoiler session notes</a></p>
@@ -54,15 +73,15 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Session Notes
-          </h2>
+            </h2>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Session Notes/Session 1.md" class="internal-link" data-href="Session Notes/Session 1.md" data-tooltip-position="top" href="/session-notes/session-1.html" rel="noopener" target="_self">Session 1</a></span></li>
-<li><span><a aria-label="Session Notes/Session 2.md" class="internal-link" data-href="Session Notes/Session 2.md" data-tooltip-position="top" href="/session-notes/session-2.html" rel="noopener" target="_self">Session 2</a></span></li>
-<li><span><a aria-label="Session Notes/Session 3.md" class="internal-link" data-href="Session Notes/Session 3.md" data-tooltip-position="top" href="/session-notes/session-3.html" rel="noopener" target="_self">Session 3</a></span></li>
+<li><span><a aria-label="Session Notes/Session 1.md" class="internal-link" data-href="Session Notes/Session 1.md" data-tooltip-position="top" href="session-notes/session-1.html" rel="noopener" target="_self">Session 1</a></span></li>
+<li><span><a aria-label="Session Notes/Session 2.md" class="internal-link" data-href="Session Notes/Session 2.md" data-tooltip-position="top" href="session-notes/session-2.html" rel="noopener" target="_self">Session 2</a></span></li>
+<li><span><a aria-label="Session Notes/Session 3.md" class="internal-link" data-href="Session Notes/Session 3.md" data-tooltip-position="top" href="session-notes/session-3.html" rel="noopener" target="_self">Session 3</a></span></li>
 </ul>
 </div>
 </div>
@@ -72,17 +91,17 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Locations
-          </h2>
+            </h2>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Locations/Castle Ravenloft.md" class="internal-link" data-href="Locations/Castle Ravenloft.md" data-tooltip-position="top" href="/locations/castle-ravenloft.html" rel="noopener" target="_self">Castle Ravenloft</a></span></li>
-<li><span><a aria-label="Locations/Death House.md" class="internal-link" data-href="Locations/Death House.md" data-tooltip-position="top" href="/locations/death-house.html" rel="noopener" target="_self">Death House</a></span></li>
-<li><span><a aria-label="Locations/Old Svalich Road.md" class="internal-link" data-href="Locations/Old Svalich Road.md" data-tooltip-position="top" href="/locations/old-svalich-road.html" rel="noopener" target="_self">Old Svalich Road</a></span></li>
-<li><span><a aria-label="Locations/Tser Pool Encampment (G).md" class="internal-link" data-href="Locations/Tser Pool Encampment (G).md" data-tooltip-position="top" href="/locations/tser-pool-encampment-(g).html" rel="noopener" target="_self">Tser Pool Encampment (G)</a></span></li>
-<li><span><a aria-label="Locations/Village of Barovia (E).md" class="internal-link" data-href="Locations/Village of Barovia (E).md" data-tooltip-position="top" href="/locations/village-of-barovia-(e).html" rel="noopener" target="_self">Village of Barovia (E)</a></span></li>
+<li><span><a aria-label="Locations/Castle Ravenloft.md" class="internal-link" data-href="Locations/Castle Ravenloft.md" data-tooltip-position="top" href="locations/castle-ravenloft.html" rel="noopener" target="_self">Castle Ravenloft</a></span></li>
+<li><span><a aria-label="Locations/Death House.md" class="internal-link" data-href="Locations/Death House.md" data-tooltip-position="top" href="locations/death-house.html" rel="noopener" target="_self">Death House</a></span></li>
+<li><span><a aria-label="Locations/Old Svalich Road.md" class="internal-link" data-href="Locations/Old Svalich Road.md" data-tooltip-position="top" href="locations/old-svalich-road.html" rel="noopener" target="_self">Old Svalich Road</a></span></li>
+<li><span><a aria-label="Locations/Tser Pool Encampment (G).md" class="internal-link" data-href="Locations/Tser Pool Encampment (G).md" data-tooltip-position="top" href="locations/tser-pool-encampment-(g).html" rel="noopener" target="_self">Tser Pool Encampment (G)</a></span></li>
+<li><span><a aria-label="Locations/Village of Barovia (E).md" class="internal-link" data-href="Locations/Village of Barovia (E).md" data-tooltip-position="top" href="locations/village-of-barovia-(e).html" rel="noopener" target="_self">Village of Barovia (E)</a></span></li>
 </ul>
 </div>
 </div>
@@ -92,41 +111,41 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Characters
-          </h2>
+            </h2>
 </div>
 <div>
 <h3 data-heading="NPCs" id="NPCs">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>NPCs
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Characters/Arik Lorensk.md" class="internal-link" data-href="Characters/Arik Lorensk.md" data-tooltip-position="top" href="/characters/arik-lorensk.html" rel="noopener" target="_self">Arik Lorensk</a></span></li>
-<li><span><a aria-label="Characters/Bildrath Cantemir.md" class="internal-link" data-href="Characters/Bildrath Cantemir.md" data-tooltip-position="top" href="/characters/bildrath-cantemir.html" rel="noopener" target="_self">Bildrath Cantemir</a></span></li>
-<li><span><a aria-label="Characters/Donavich.md" class="internal-link" data-href="Characters/Donavich.md" data-tooltip-position="top" href="/characters/donavich.html" rel="noopener" target="_self">Donavich</a></span></li>
-<li><span><a aria-label="Characters/Doru.md" class="internal-link" data-href="Characters/Doru.md" data-tooltip-position="top" href="/characters/doru.html" rel="noopener" target="_self">Doru</a></span></li>
-<li><span><a aria-label="Characters/Elizabeth Durst.md" class="internal-link" data-href="Characters/Elizabeth Durst.md" data-tooltip-position="top" href="/characters/elizabeth-durst.html" rel="noopener" target="_self">Elizabeth Durst</a></span></li>
-<li><span><a aria-label="Characters/Gertruda.md" class="internal-link" data-href="Characters/Gertruda.md" data-tooltip-position="top" href="/characters/gertruda.html" rel="noopener" target="_self">Gertruda</a></span></li>
-<li><span><a aria-label="Characters/Gustav Durst.md" class="internal-link" data-href="Characters/Gustav Durst.md" data-tooltip-position="top" href="/characters/gustav-durst.html" rel="noopener" target="_self">Gustav Durst</a></span></li>
-<li><span><a aria-label="Characters/Ireena Kolyana.md" class="internal-link" data-href="Characters/Ireena Kolyana.md" data-tooltip-position="top" href="/characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena Kolyana</a></span></li>
-<li><span><a aria-label="Characters/Ismark Kolyanovich.md" class="internal-link" data-href="Characters/Ismark Kolyanovich.md" data-tooltip-position="top" href="/characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a></span></li>
-<li><span><a aria-label="Characters/Kolyan Indirovich.md" class="internal-link" data-href="Characters/Kolyan Indirovich.md" data-tooltip-position="top" href="/characters/kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a></span></li>
-<li><span><a aria-label="Characters/Lancelot.md" class="internal-link" data-href="Characters/Lancelot.md" data-tooltip-position="top" href="/characters/lancelot.html" rel="noopener" target="_self">Lancelot</a></span></li>
-<li><span><a aria-label="Characters/Mad Mage of Mount Baratok.md" class="internal-link" data-href="Characters/Mad Mage of Mount Baratok.md" data-tooltip-position="top" href="/characters/mad-mage-of-mount-baratok.html" rel="noopener" target="_self">Mad Mage of Mount Baratok</a></span></li>
-<li><span><a aria-label="Characters/Mad Mary.md" class="internal-link" data-href="Characters/Mad Mary.md" data-tooltip-position="top" href="/characters/mad-mary.html" rel="noopener" target="_self">Mad Mary</a></span></li>
-<li><span><a aria-label="Characters/Madam Eva.md" class="internal-link" data-href="Characters/Madam Eva.md" data-tooltip-position="top" href="/characters/madam-eva.html" rel="noopener" target="_self">Madam Eva</a></span></li>
-<li><span><a aria-label="Characters/Morgantha.md" class="internal-link" data-href="Characters/Morgantha.md" data-tooltip-position="top" href="/characters/morgantha.html" rel="noopener" target="_self">Morgantha</a></span></li>
-<li><span><a aria-label="Characters/Parriwimple.md" class="internal-link" data-href="Characters/Parriwimple.md" data-tooltip-position="top" href="/characters/parriwimple.html" rel="noopener" target="_self">Parriwimple</a></span></li>
-<li><span><a aria-label="Characters/Rictavio.md" class="internal-link" data-href="Characters/Rictavio.md" data-tooltip-position="top" href="/characters/rictavio.html" rel="noopener" target="_self">Rictavio</a></span></li>
-<li><span><a aria-label="Characters/Rosevalda.md" class="internal-link" data-href="Characters/Rosevalda.md" data-tooltip-position="top" href="/characters/rosevalda.html" rel="noopener" target="_self">Rosevalda</a></span></li>
-<li><span><a aria-label="Characters/Strahd Von Zarovich.md" class="internal-link" data-href="Characters/Strahd Von Zarovich.md" data-tooltip-position="top" href="/characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd Von Zarovich</a></span></li>
-<li><span><a aria-label="Characters/Tatyana.md" class="internal-link" data-href="Characters/Tatyana.md" data-tooltip-position="top" href="/characters/tatyana.html" rel="noopener" target="_self">Tatyana</a></span></li>
-<li><span><a aria-label="Characters/Thornboldt.md" class="internal-link" data-href="Characters/Thornboldt.md" data-tooltip-position="top" href="/characters/thornboldt.html" rel="noopener" target="_self">Thornboldt</a></span></li>
-<li><span><a aria-label="Characters/Walter.md" class="internal-link" data-href="Characters/Walter.md" data-tooltip-position="top" href="/characters/walter.html" rel="noopener" target="_self">Walter</a></span></li>
+<li><span><a aria-label="Characters/Arik Lorensk.md" class="internal-link" data-href="Characters/Arik Lorensk.md" data-tooltip-position="top" href="characters/arik-lorensk.html" rel="noopener" target="_self">Arik Lorensk</a></span></li>
+<li><span><a aria-label="Characters/Bildrath Cantemir.md" class="internal-link" data-href="Characters/Bildrath Cantemir.md" data-tooltip-position="top" href="characters/bildrath-cantemir.html" rel="noopener" target="_self">Bildrath Cantemir</a></span></li>
+<li><span><a aria-label="Characters/Donavich.md" class="internal-link" data-href="Characters/Donavich.md" data-tooltip-position="top" href="characters/donavich.html" rel="noopener" target="_self">Donavich</a></span></li>
+<li><span><a aria-label="Characters/Doru.md" class="internal-link" data-href="Characters/Doru.md" data-tooltip-position="top" href="characters/doru.html" rel="noopener" target="_self">Doru</a></span></li>
+<li><span><a aria-label="Characters/Elizabeth Durst.md" class="internal-link" data-href="Characters/Elizabeth Durst.md" data-tooltip-position="top" href="characters/elizabeth-durst.html" rel="noopener" target="_self">Elizabeth Durst</a></span></li>
+<li><span><a aria-label="Characters/Gertruda.md" class="internal-link" data-href="Characters/Gertruda.md" data-tooltip-position="top" href="characters/gertruda.html" rel="noopener" target="_self">Gertruda</a></span></li>
+<li><span><a aria-label="Characters/Gustav Durst.md" class="internal-link" data-href="Characters/Gustav Durst.md" data-tooltip-position="top" href="characters/gustav-durst.html" rel="noopener" target="_self">Gustav Durst</a></span></li>
+<li><span><a aria-label="Characters/Ireena Kolyana.md" class="internal-link" data-href="Characters/Ireena Kolyana.md" data-tooltip-position="top" href="characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena Kolyana</a></span></li>
+<li><span><a aria-label="Characters/Ismark Kolyanovich.md" class="internal-link" data-href="Characters/Ismark Kolyanovich.md" data-tooltip-position="top" href="characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a></span></li>
+<li><span><a aria-label="Characters/Kolyan Indirovich.md" class="internal-link" data-href="Characters/Kolyan Indirovich.md" data-tooltip-position="top" href="characters/kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a></span></li>
+<li><span><a aria-label="Characters/Lancelot.md" class="internal-link" data-href="Characters/Lancelot.md" data-tooltip-position="top" href="characters/lancelot.html" rel="noopener" target="_self">Lancelot</a></span></li>
+<li><span><a aria-label="Characters/Mad Mage of Mount Baratok.md" class="internal-link" data-href="Characters/Mad Mage of Mount Baratok.md" data-tooltip-position="top" href="characters/mad-mage-of-mount-baratok.html" rel="noopener" target="_self">Mad Mage of Mount Baratok</a></span></li>
+<li><span><a aria-label="Characters/Mad Mary.md" class="internal-link" data-href="Characters/Mad Mary.md" data-tooltip-position="top" href="characters/mad-mary.html" rel="noopener" target="_self">Mad Mary</a></span></li>
+<li><span><a aria-label="Characters/Madam Eva.md" class="internal-link" data-href="Characters/Madam Eva.md" data-tooltip-position="top" href="characters/madam-eva.html" rel="noopener" target="_self">Madam Eva</a></span></li>
+<li><span><a aria-label="Characters/Morgantha.md" class="internal-link" data-href="Characters/Morgantha.md" data-tooltip-position="top" href="characters/morgantha.html" rel="noopener" target="_self">Morgantha</a></span></li>
+<li><span><a aria-label="Characters/Parriwimple.md" class="internal-link" data-href="Characters/Parriwimple.md" data-tooltip-position="top" href="characters/parriwimple.html" rel="noopener" target="_self">Parriwimple</a></span></li>
+<li><span><a aria-label="Characters/Rictavio.md" class="internal-link" data-href="Characters/Rictavio.md" data-tooltip-position="top" href="characters/rictavio.html" rel="noopener" target="_self">Rictavio</a></span></li>
+<li><span><a aria-label="Characters/Rosevalda.md" class="internal-link" data-href="Characters/Rosevalda.md" data-tooltip-position="top" href="characters/rosevalda.html" rel="noopener" target="_self">Rosevalda</a></span></li>
+<li><span><a aria-label="Characters/Strahd Von Zarovich.md" class="internal-link" data-href="Characters/Strahd Von Zarovich.md" data-tooltip-position="top" href="characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd Von Zarovich</a></span></li>
+<li><span><a aria-label="Characters/Tatyana.md" class="internal-link" data-href="Characters/Tatyana.md" data-tooltip-position="top" href="characters/tatyana.html" rel="noopener" target="_self">Tatyana</a></span></li>
+<li><span><a aria-label="Characters/Thornboldt.md" class="internal-link" data-href="Characters/Thornboldt.md" data-tooltip-position="top" href="characters/thornboldt.html" rel="noopener" target="_self">Thornboldt</a></span></li>
+<li><span><a aria-label="Characters/Walter.md" class="internal-link" data-href="Characters/Walter.md" data-tooltip-position="top" href="characters/walter.html" rel="noopener" target="_self">Walter</a></span></li>
 </ul>
 </div>
 </div>
@@ -136,17 +155,17 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>PCs
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Characters/Anakir.md" class="internal-link" data-href="Characters/Anakir.md" data-tooltip-position="top" href="/characters/anakir.html" rel="noopener" target="_self">Anakir</a></span></li>
-<li><span><a aria-label="Characters/Bardolf.md" class="internal-link" data-href="Characters/Bardolf.md" data-tooltip-position="top" href="/characters/bardolf.html" rel="noopener" target="_self">Bardolf</a></span></li>
-<li><span><a aria-label="Characters/Elora.md" class="internal-link" data-href="Characters/Elora.md" data-tooltip-position="top" href="/characters/elora.html" rel="noopener" target="_self">Elora</a></span></li>
-<li><span><a aria-label="Characters/Pelanil.md" class="internal-link" data-href="Characters/Pelanil.md" data-tooltip-position="top" href="/characters/pelanil.html" rel="noopener" target="_self">Pelanil</a></span></li>
-<li><span><a aria-label="Characters/Shalooti.md" class="internal-link" data-href="Characters/Shalooti.md" data-tooltip-position="top" href="/characters/shalooti.html" rel="noopener" target="_self">Shalooti</a></span></li>
+<li><span><a aria-label="Characters/Anakir.md" class="internal-link" data-href="Characters/Anakir.md" data-tooltip-position="top" href="characters/anakir.html" rel="noopener" target="_self">Anakir</a></span></li>
+<li><span><a aria-label="Characters/Bardolf.md" class="internal-link" data-href="Characters/Bardolf.md" data-tooltip-position="top" href="characters/bardolf.html" rel="noopener" target="_self">Bardolf</a></span></li>
+<li><span><a aria-label="Characters/Elora.md" class="internal-link" data-href="Characters/Elora.md" data-tooltip-position="top" href="characters/elora.html" rel="noopener" target="_self">Elora</a></span></li>
+<li><span><a aria-label="Characters/Pelanil.md" class="internal-link" data-href="Characters/Pelanil.md" data-tooltip-position="top" href="characters/pelanil.html" rel="noopener" target="_self">Pelanil</a></span></li>
+<li><span><a aria-label="Characters/Shalooti.md" class="internal-link" data-href="Characters/Shalooti.md" data-tooltip-position="top" href="characters/shalooti.html" rel="noopener" target="_self">Shalooti</a></span></li>
 </ul>
 </div>
 </div>
@@ -156,7 +175,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Handouts
-          </h2>
+            </h2>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
@@ -170,25 +189,34 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Miscellaneous
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
-<div class="list-bullet"></div><a class="internal-link" data-href="Music Compiled" href="/music-compiled.html" rel="noopener" target="_self">Music Compiled</a>
+<div class="list-bullet"></div><a class="internal-link" data-href="Music Compiled" href="music-compiled.html" rel="noopener" target="_self">Music Compiled</a>
 </li>
 <li data-line="1">
-<div class="list-bullet"></div><a class="internal-link" data-href="Guest as Granny" href="/misc/guest-as-granny.html" rel="noopener" target="_self">Guest as Granny</a>
+<div class="list-bullet"></div><a class="internal-link" data-href="Guest as Granny" href="misc/guest-as-granny.html" rel="noopener" target="_self">Guest as Granny</a>
 </li>
 </ul>
 </div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>

@@ -22,9 +22,29 @@
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="../scripts/graph_view.js" type="module"></script>
+<script src="../scripts/graph_wasm.js"></script>
+<script src="../scripts/tinycolor.js"></script>
 <script src="../scripts/webpage.js"></script>
 </head>
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
 <div class="flex-container">
 <div class="sidebar-left" id="sidebar">
 <div class="sidebar-content">
@@ -34,7 +54,7 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
 <div>
 <h1 id="Ireena_Kolyana">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -42,10 +62,9 @@
 </svg></div>Ireena Kolyana
           </h1>
 </div>
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Ireena Kolyana</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <pre class="frontmatter language-yaml" style="display: none;" tabindex="0"><code class="language-yaml is-loaded"><span class="token key atrule">alias</span><span class="token punctuation">:</span> Ireena</code><button class="copy-code-button">Copy</button></pre>
 <div class="frontmatter-container">
@@ -53,7 +72,7 @@
 <div class="frontmatter-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Metadata
-            </div>
+              </div>
 <div class="frontmatter-section mod-aliases"><span class="frontmatter-section-label">Aliases</span>
 <div class="frontmatter-section-data frontmatter-section-aliases"><span class="frontmatter-alias"><span class="frontmatter-alias-icon"><svg class="svg-icon lucide-forward" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <polyline points="15 17 20 12 15 7"></polyline>
@@ -70,13 +89,13 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Playing Ireena Kolyana
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>a striking young woman with auburn hair
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -85,7 +104,7 @@
 <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div>because of this: the villagers are afraid of her and avoid her
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="3">
@@ -93,13 +112,13 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She appears mild
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>but has a strong will, and she aids the party as best she can in saving herself
-                </li>
+                  </li>
 <li data-line="5">
 <div class="list-bullet"></div>has a stubborn streak and sometimes will plant herself and changing her mind becomes extraordinarily difficult
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
@@ -107,56 +126,56 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She is one of the few truly good people in the game
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>She's scared like everyone else, but her fear has made her kind and empathetic
-                </li>
+                  </li>
 <li data-line="8">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She doesn't let her fear of <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> stand in her way
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="9">
 <div class="list-bullet"></div>She actively works to avoid him
-                    </li>
+                      </li>
 <li data-line="10">
 <div class="list-bullet"></div>The fear motivates her
-                    </li>
+                      </li>
 </ul>
 </li>
 <li data-line="11">
 <div class="list-bullet"></div>She comforts children, helps those in need
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="12">
 <div class="list-bullet"></div>loves discovering new things
-            </li>
+              </li>
 <li data-line="13">
 <div class="list-bullet"></div>Has a sense of humor and will sometimes crack jokes (unusual in Barovia) {It's a lingering effect of <a class="internal-link" data-href="Tatyana" href="tatyana.html" rel="noopener" target="_self">Tatyana</a>'s soul from an earlier time}
-            </li>
+              </li>
 <li data-line="14">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>As a noble, she shines at persuasion, deception, and insight
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="15">
 <div class="list-bullet"></div>She's the only daughter of the Burgomaster and part of only three noble families
-                </li>
+                  </li>
 <li data-line="16">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Give her the <em>Position of Privilege</em> feature from the noble background
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="17">
 <div class="list-bullet"></div>All the commoners will bend over backwards to accommodate her if they know who she is
-                    </li>
+                      </li>
 <li data-line="18">
 <div class="list-bullet"></div>Always one level better than normal for <em>Attitude</em> (friendly, hostile, etc.)
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -169,7 +188,7 @@
 <ul class="has-list-bullet">
 <li data-line="20">
 <div class="list-bullet"></div>can execute a political scandal or disgrace individuals
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="21">
@@ -177,25 +196,25 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Does embroidery as it is an "appropriate hobby for a lady"
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="22">
 <div class="list-bullet"></div>All her cloth items (clothes, backpack, etc.) have flourishes
-                </li>
+                  </li>
 <li data-line="23">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She's really good with the needle {given time to learn, she can pick up the basics of medical care/herbalism}
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="24">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>{mechanically, let her unlock the <em>Healer</em> feat + the ability to make <em>Healer Kits</em>}
-                      <ul class="has-list-bullet">
+                        <ul class="has-list-bullet">
 <li data-line="25">
 <div class="list-bullet"></div>Not good enough to do it during combat though
-                        </li>
+                          </li>
 </ul>
 </li>
 </ul>
@@ -207,19 +226,19 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She tries to be helpful to the party and not stand in the way
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="27">
 <div class="list-bullet"></div>the most actively helpful individual the party will encounter
-                </li>
+                  </li>
 <li data-line="28">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>when she can't keep up in a fight, she'll do other things:
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="29">
 <div class="list-bullet"></div>gather expended ammo, teaching herself first aid, searching bodies for useful stuff, etc.
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -229,16 +248,16 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She's not used to the rigors of life on the move -- especially the pace set by PCs
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="31">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Her feet will hurt at first. She may show signs and will be grateful for kindness/help
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="32">
 <div class="list-bullet"></div>But will absolutely not complain; she's good at sucking it up
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -248,29 +267,29 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Her hair is auburn (brownish red) and is unheard of in Barovia.
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="34">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She dies her hair black, because "red hair is unlucky"
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="35">
 <div class="list-bullet"></div>{this throws off her relationship to <a class="internal-link" data-href="Tatyana" href="tatyana.html" rel="noopener" target="_self">Tatyana</a>}
-                    </li>
+                      </li>
 <li data-line="36">
 <div class="list-bullet"></div>{all of <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a>' s targets have that color hair and they have died (unlucky)}
-                    </li>
+                      </li>
 <li data-line="37">
 <div class="list-bullet"></div>She has to re-dye it regularly or stand out in the crowd
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
 </li>
 <li data-line="38">
 <div class="list-bullet"></div>She's really pretty with high Cha and <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> is jealous; if an NPC flirts to hard, they may wind up dead
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -278,7 +297,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>What They Want
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -287,10 +306,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She wants the characters to bury her father
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>She refuses to go anywhere "while the burgomaster lies dead on the mansion floor"
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -298,10 +317,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The PCs are her best hope at protection
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div>so she's willing to accompany them if they bury her father
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -311,7 +330,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>What They Know
-          </h2>
+            </h2>
 </div>
 <div>
 <p><a class="internal-link" data-href="Barovian Lore" href="../misc/barovian-lore.html" rel="noopener" target="_self">Barovian Lore</a></p>
@@ -320,16 +339,16 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>She doesn't remember her early past
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>She doesn't know how she came to Barovia or where she came from
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> takes consorts on occasion
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div>Doesn't know why She is special to <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a>
 </li>
@@ -340,10 +359,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Her encounters with <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> are fuzzy memories (because of his vampiric charm)
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>She remembers the blazing hunger in his eyes
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
@@ -351,41 +370,41 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Wolves and creatures attacked the house night after night for weeks
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The burgomaster's heart couldn't stand the constant assault
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="8">
 <div class="list-bullet"></div>he died 3 days ago
-                    </li>
+                      </li>
 <li data-line="9">
 <div class="list-bullet"></div>since then, there have been no more attacks
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
 </li>
 <li data-line="10">
 <div class="list-bullet"></div>No one from the village has been brave enough to help <a class="internal-link" data-href="Ismark Kolyanovich" href="ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a> take <a class="internal-link" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a> to the cemetery for a proper burial
-            </li>
+              </li>
 <li data-line="11">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>One of the best educated in the valley, as the Burgomaster's daughter
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="12">
 <div class="list-bullet"></div>familiar with the geography (have her give them the map maybe)
-                </li>
+                  </li>
 <li data-line="13">
 <div class="list-bullet"></div>can provide info about important people in each town
-                </li>
+                  </li>
 <li data-line="14">
 <div class="list-bullet"></div>can regurgitate Barovia history trivia without a check
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -395,41 +414,41 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Special Feats
-          </h2>
+            </h2>
 </div>
 <div>
 <h3 data-heading="Near-Immunity to Danger" id="Near-Immunity_to_Danger">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Near-Immunity to Danger
-          </h3>
+            </h3>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Creatures who serve <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> are aware of who she is
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>They know that if they harm her, they'll have to answer to <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a>
 </li>
 <li data-line="2">
 <div class="list-bullet"></div>They may disarm her or incapacitate (without real harm) if she's fighting
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>So the PCs don't have to constantly fret about protecting her
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She's resistant to being abducted because of <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a>'s protection
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>He's capable of taking her from the PCs if he wants, but must want her with the PCs
-                </li>
+                  </li>
 <li data-line="6">
 <div class="list-bullet"></div>If she's ever taken it should be a climactic event; not every time they get in a fight
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -439,7 +458,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Tatyana" href="tatyana.html" rel="noopener" target="_self">Tatyana</a>'s Memories
-          </h3>
+            </h3>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -448,10 +467,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Since she has <a class="internal-link" data-href="Tatyana" href="tatyana.html" rel="noopener" target="_self">Tatyana</a>'s soul, sometimes Tatyana's memories will come to her
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>Other reincarnates in Barovia don't have this feature
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -459,10 +478,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>If prompted correctly by something that reminds her of <a class="internal-link" data-href="Tatyana" href="tatyana.html" rel="noopener" target="_self">Tatyana</a>'s life, these memories will come back
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div><a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> has perfected the triggers and can do this fairly easily
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -472,40 +491,40 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Examples
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>By my slight re-write of canon--while they were courting, Sergei (who was a gifted warrior) took it upon himself to teach Tatyana a bit about sword play (share your hobbies with those you love, I guess?). As a result, while Ireena doesn't own a Rapier at the start of the adventure, if she acquires one later--she'll take to it like a fish to water. Again, she's not a PC...she won't explosively grow in skill the way they do. But she will be good with a rapier from the first time she picks one up.
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>Ireena seems to know her way around Castle Ravenloft. This isn't a conscious awareness, but if she wants to go somewhere in the castle, she can find her way there without fail. She is not, however, aware of changes made since Tatyana's death (like all the traps).
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>Ireena is drawn to strong warrior types...even if it doesn't manifest as a crush, even if the party's strong warrior type isn't male or human...she'll gravitate towards that individual (especially if she is nervous).
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>At any point that is of maximum detriment to Strahd's attempts to wed her, the Dark Powers may trigger Ireena to unlock whatever memories are most likely to make Strahd's attempts blow up in his face.
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>She will recognize Sergei, if she sees him in the crypts, and will unlock fragmentary memories of him.
-            </li>
+              </li>
 <li data-line="5">
 <div class="list-bullet"></div>Because I hate the whole Krezk Pool encounter and all of the "Sergei appears and Ireena ceases to exist in favor of Tatyana" scenes...if she encounters Sergei, she will recognize him and unlock a rather large batch of memories that reveals her former identity to her. However, she continues to be Ireena, retains her personality, and must make her own decisions.
-            </li>
+              </li>
 <li data-line="6">
 <div class="list-bullet"></div>She will feel nostalgic around the Sunsword, feeling like she recognizes the hilt.
-            </li>
+              </li>
 <li data-line="7">
 <div class="list-bullet"></div>The view from the Overlook (Area K6 in Castle Ravenloft) is nostalgic to her, and unlocks a memory of clear, beautiful days seen from that spot. Weird, as she has never seen clear skies in her life.
-            </li>
+              </li>
 <li data-line="8">
 <div class="list-bullet"></div>Seeing the painting of Tatyana in Strahd's study may trigger a memory of sitting for that painting.
-            </li>
+              </li>
 <li data-line="9">
 <div class="list-bullet"></div>Seeing the dining room (and rotted cake) in Ravenloft may trigger a flashbulb of herself in a wedding dress, with the room richly decorated, and the cake fresh.
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -513,13 +532,13 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Secrets
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>She is the blood sister of <a class="internal-link is-unresolved" data-href="Izek Strazni" href="Izek Strazni" rel="noopener" target="_self">Izek Strazni</a>, but neither of them know it
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -527,7 +546,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Notes
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -536,35 +555,35 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="If Players Die" href="../misc/if-players-die.html" rel="noopener" target="_self">If Players Die</a>, an option would be to let them play Ireena since she will follow the group most of the game
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>For ambitious players, I can hand her over to play as well as their own character
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
 <div class="list-bullet"></div>You could consider not making her Izek's sister, but instead one of the PCs
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>After she joins the party, consider bumping up her stats only gradually (<a aria-label="https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/" class="external-link" data-tooltip-position="top" href="https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/" rel="noopener" target="_blank">source</a>)
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>after asking the PCs to train her
-                </li>
+                  </li>
 <li data-line="5">
 <div class="list-bullet"></div>PCs always out class her
-                </li>
+                  </li>
 <li data-line="6">
 <div class="list-bullet"></div>She is better at defending herself from mundane threats
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="7">
 <div class="list-bullet"></div>Read <a aria-label="https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/" class="external-link" data-tooltip-position="top" href="https://www.reddit.com/r/CurseofStrahd/comments/8vsw2p/my_notes_on_running_ireena_without_making_her_a/" rel="noopener" target="_blank">this</a> before the PCs meet Ireena
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -572,181 +591,40 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Relations
-          </h2>
+            </h2>
 </div>
 <div>
 <p>adopted brother: <a class="internal-link" data-href="Ismark Kolyanovich" href="ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a><br/>
-            father: <a class="internal-link" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a></p>
+              father: <a class="internal-link" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a></p>
 </div>
 <div>
 <h2 data-heading="Stat Block" id="Stat_Block">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Stat Block
-          </h2>
+            </h2>
 </div>
 <div class="statblock-plugin-parent">
 <div class="block-language-statblock statblock-plugin-container">
-<div class="container svelte-1vt02hf">
-<div class="noble basic-5e-layout svelte-1vt02hf obsidian-statblock-plugin statblock">
-<div class="bar svelte-ilp5y8"></div>
-<div class="statblock-content-container" style="--statblock-column-width:400px;">
-<div class="statblock-content">
-<div class="column">
-<div class="statblock-item-container inline-container statblock-item-inline">
-<div class="statblock-inline-item group-container">
-<div class="statblock-item-container group-container">
-<div class="statblock-item-container heading-container">
-<div class="flex-container svelte-1hofvsi">
-<h1 class="heading statblock-heading name svelte-1hofvsi" id="Noble_">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Noble</div>
-</h1>
+<div class="container svelte-1vt02hf"></div>
 </div>
 </div>
-<div class="statblock-item-container subheading-container">
-<div class="subheading svelte-1186gko">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Medium humanoid any race any alignment</div>
-</div>
-</div>
-</div>
-</div>
-<div class="statblock-inline-item image-container"></div>
-</div>
-<div class="statblock-item-container rule-container">
-<div class="tapered-rule svelte-sujd32"></div>
-</div>
-<div class="statblock-item-container property-container">
-<div class="line ac svelte-151kcqm"><span class="property-name svelte-151kcqm">Armor Class</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">15</div>
-</span></div>
-</div>
-<div class="statblock-item-container property-container">
-<div class="line hp svelte-151kcqm"><span class="property-name svelte-151kcqm">Hit Points</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">14</div>
-</span></div>
-</div>
-<div class="statblock-item-container property-container">
-<div class="line speed svelte-151kcqm"><span class="property-name svelte-151kcqm">Speed</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">30 ft.</div>
-</span></div>
-</div>
-<div class="statblock-item-container rule-container">
-<div class="tapered-rule svelte-sujd32"></div>
-</div>
-<div class="statblock-item-container table-container">
-<div class="table svelte-18uixe9">
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Str</span> <span>11 <span>(+0)</span></span> </div>
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Dex</span> <span>12 <span>(+1)</span></span> </div>
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Con</span> <span>11 <span>(+0)</span></span> </div>
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Int</span> <span>12 <span>(+1)</span></span> </div>
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Wis</span> <span>14 <span>(+2)</span></span> </div>
-<div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Cha</span> <span>16 <span>(+3)</span></span> </div>
-</div>
-</div>
-<div class="statblock-item-container rule-container">
-<div class="tapered-rule svelte-sujd32"></div>
-</div>
-<div class="statblock-item-container saves-container">
-<div class="info">
-<div class="line svelte-sgnocl"><span class="property-name svelte-sgnocl">Skills</span>
-<div class="property-text svelte-sgnocl"><span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Deception +5, Insight +4, Persuasion +5</div>
-</span></div>
-</div>
-</div>
-</div>
-<div class="statblock-item-container property-container">
-<div class="line senses svelte-151kcqm"><span class="property-name svelte-151kcqm">Senses</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">passive Perception 12</div>
-</span></div>
-</div>
-<div class="statblock-item-container property-container">
-<div class="line languages svelte-151kcqm"><span class="property-name svelte-151kcqm">Languages</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">any two languages</div>
-</span></div>
-</div>
-<div class="statblock-item-container inline-container statblock-item-inline">
-<div class="statblock-inline-item property-container">
-<div class="statblock-item-container property-container">
-<div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Challenge</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">1/8 (25 XP)</div>
-</span></div>
-</div>
-</div>
-<div class="statblock-inline-item property-container">
-<div class="statblock-item-container property-container">
-<div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Proficiency Bonus</span> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">+2</div>
-</span></div>
-</div>
-</div>
-</div>
-<div class="statblock-item-container rule-container">
-<div class="tapered-rule svelte-sujd32"></div>
-</div>
-<div class="statblock-item-container traits-container">
-<div class="statblock-section-heading">
-<h3 class="section-header actions svelte-1x5mdf" id="Actions">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div>
-</h3>
-</div>
-<div class="statblock-item-container statblock-trait-prop">
-<div class="property rapier actions svelte-1ufqbz1">
-<div class="property-name svelte-1ufqbz1">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Rapier</div>
-</div> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.</div>
-</span>
-</div>
-</div>
-</div>
-<div class="statblock-item-container traits-container">
-<div class="statblock-section-heading">
-<h3 class="section-header reactions svelte-1x5mdf" id="Reactions">
-<div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div>
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Reactions</div>
-</h3>
-</div>
-<div class="statblock-item-container statblock-trait-prop">
-<div class="property parry reactions svelte-1ufqbz1">
-<div class="property-name svelte-1ufqbz1">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">Parry</div>
-</div> <span class="property-text svelte-12rzfyk">
-<div class="statblock-rendered-text-content inline svelte-1lnliuc">The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</div>
-</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="bar svelte-ilp5y8"></div>
-</div>
-<div class="icons svelte-1vt02hf">
-<div class="clickable-icon setting-editor-extra-setting-button"><svg class="svg-icon lucide-more-vertical" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12" cy="12" r="1"></circle>
-<circle cx="12" cy="5" r="1"></circle>
-<circle cx="12" cy="19" r="1"></circle>
-</svg></div>
-</div>
-</div>
-</div>
-</div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>
@@ -833,28 +711,6 @@
 <div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><span class="outline-item-title">Stat Block</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-</div>
-</div>
-<div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Noble_">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Noble </span>
-</a>
-<div class="outline-item-children">
-<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Actions">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Actions</span>
-</a>
-<div class="outline-item-children"></div>
-</div>
-<div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Reactions">
-<div class="tree-item-icon collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
-<path d="M3 8L12 17L21 8"></path>
-</svg></div><span class="outline-item-title">Reactions</span>
 </a>
 <div class="outline-item-children"></div>
 </div>

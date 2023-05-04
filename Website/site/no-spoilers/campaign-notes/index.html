@@ -22,9 +22,29 @@
     let jsPath = "scripts";
     let cssPath = "styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="scripts/graph_view.js" type="module"></script>
+<script src="scripts/graph_wasm.js"></script>
+<script src="scripts/tinycolor.js"></script>
 <script src="scripts/webpage.js"></script>
 </head>
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
 <div class="flex-container">
 <div class="sidebar-left" id="sidebar">
 <div class="sidebar-content">
@@ -34,7 +54,7 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
 <div>
 <h1 id="Campaign_Notes">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -42,10 +62,9 @@
 </svg></div>Campaign Notes
           </h1>
 </div>
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Campaign Notes</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <p>Get the <a aria-label="https://cos.nathanorick.com/no-spoilers/Campaign%20Notes.pdf" class="external-link" data-tooltip-position="top" href="https://cos.nathanorick.com/no-spoilers/Campaign%20Notes.pdf" rel="noopener" target="_blank">pdf version</a></p>
 </div>
@@ -54,21 +73,21 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Handouts
-          </h2>
+            </h2>
 </div>
 <div>
 <h3 data-heading="Images" id="Images">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Images
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Handouts/Images/Death House Front.md" class="internal-link" data-href="Handouts/Images/Death House Front.md" data-tooltip-position="top" href="/handouts/images/death-house-front.html" rel="noopener" target="_self">Death House Front</a></span></li>
-<li><span><a aria-label="Handouts/Images/Portraits/Portrait of Rose and Thorne.md" class="internal-link" data-href="Handouts/Images/Portraits/Portrait of Rose and Thorne.md" data-tooltip-position="top" href="/handouts/images/portraits/portrait-of-rose-and-thorne.html" rel="noopener" target="_self">Portrait of Rose and Thorne</a></span></li>
+<li><span><a aria-label="Handouts/Images/Death House Front.md" class="internal-link" data-href="Handouts/Images/Death House Front.md" data-tooltip-position="top" href="handouts/images/death-house-front.html" rel="noopener" target="_self">Death House Front</a></span></li>
+<li><span><a aria-label="Handouts/Images/Portraits/Portrait of Rose and Thorne.md" class="internal-link" data-href="Handouts/Images/Portraits/Portrait of Rose and Thorne.md" data-tooltip-position="top" href="handouts/images/portraits/portrait-of-rose-and-thorne.html" rel="noopener" target="_self">Portrait of Rose and Thorne</a></span></li>
 </ul>
 </div>
 </div>
@@ -78,15 +97,15 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Items
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Handouts/Items/Cloak of Protection.md" class="internal-link" data-href="Handouts/Items/Cloak of Protection.md" data-tooltip-position="top" href="/handouts/items/cloak-of-protection.html" rel="noopener" target="_self">Cloak of Protection</a></span></li>
-<li><span><a aria-label="Handouts/Items/Orb of the Warmage.md" class="internal-link" data-href="Handouts/Items/Orb of the Warmage.md" data-tooltip-position="top" href="/handouts/items/orb-of-the-warmage.html" rel="noopener" target="_self">Orb of the Warmage</a></span></li>
-<li><span><a aria-label="Handouts/Items/Potion of Healing.md" class="internal-link" data-href="Handouts/Items/Potion of Healing.md" data-tooltip-position="top" href="/handouts/items/potion-of-healing.html" rel="noopener" target="_self">Potion of Healing</a></span></li>
+<li><span><a aria-label="Handouts/Items/Cloak of Protection.md" class="internal-link" data-href="Handouts/Items/Cloak of Protection.md" data-tooltip-position="top" href="handouts/items/cloak-of-protection.html" rel="noopener" target="_self">Cloak of Protection</a></span></li>
+<li><span><a aria-label="Handouts/Items/Orb of the Warmage.md" class="internal-link" data-href="Handouts/Items/Orb of the Warmage.md" data-tooltip-position="top" href="handouts/items/orb-of-the-warmage.html" rel="noopener" target="_self">Orb of the Warmage</a></span></li>
+<li><span><a aria-label="Handouts/Items/Potion of Healing.md" class="internal-link" data-href="Handouts/Items/Potion of Healing.md" data-tooltip-position="top" href="handouts/items/potion-of-healing.html" rel="noopener" target="_self">Potion of Healing</a></span></li>
 </ul>
 </div>
 </div>
@@ -96,17 +115,17 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Letters
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Handouts/Letters/Elisabeth Durst's Unsent Letter.md" class="internal-link" data-href="Handouts/Letters/Elisabeth Durst's Unsent Letter.md" data-tooltip-position="top" href="/handouts/letters/elisabeth-durst's-unsent-letter.html" rel="noopener" target="_self">Elisabeth Durst's Unsent Letter</a></span></li>
-<li><span><a aria-label="Handouts/Letters/Gustav Durst's Suicide Note.md" class="internal-link" data-href="Handouts/Letters/Gustav Durst's Suicide Note.md" data-tooltip-position="top" href="/handouts/letters/gustav-durst's-suicide-note.html" rel="noopener" target="_self">Gustav Durst's Suicide Note</a></span></li>
-<li><span><a aria-label="Handouts/Letters/Kolyan Indirovich's v1 Letter.md" class="internal-link" data-href="Handouts/Letters/Kolyan Indirovich's v1 Letter.md" data-tooltip-position="top" href="/handouts/letters/kolyan-indirovich's-v1-letter.html" rel="noopener" target="_self">Kolyan Indirovich's v1 Letter</a></span></li>
-<li><span><a aria-label="Handouts/Letters/Kolyan Indirovich's v2 Letter.md" class="internal-link" data-href="Handouts/Letters/Kolyan Indirovich's v2 Letter.md" data-tooltip-position="top" href="/handouts/letters/kolyan-indirovich's-v2-letter.html" rel="noopener" target="_self">Kolyan Indirovich's v2 Letter</a></span></li>
-<li><span><a aria-label="Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md" class="internal-link" data-href="Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md" data-tooltip-position="top" href="/handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html" rel="noopener" target="_self">Letter from Strahd von Zarovich to Gustav Durst</a></span></li>
+<li><span><a aria-label="Handouts/Letters/Elisabeth Durst's Unsent Letter.md" class="internal-link" data-href="Handouts/Letters/Elisabeth Durst's Unsent Letter.md" data-tooltip-position="top" href="handouts/letters/elisabeth-durst's-unsent-letter.html" rel="noopener" target="_self">Elisabeth Durst's Unsent Letter</a></span></li>
+<li><span><a aria-label="Handouts/Letters/Gustav Durst's Suicide Note.md" class="internal-link" data-href="Handouts/Letters/Gustav Durst's Suicide Note.md" data-tooltip-position="top" href="handouts/letters/gustav-durst's-suicide-note.html" rel="noopener" target="_self">Gustav Durst's Suicide Note</a></span></li>
+<li><span><a aria-label="Handouts/Letters/Kolyan Indirovich's v1 Letter.md" class="internal-link" data-href="Handouts/Letters/Kolyan Indirovich's v1 Letter.md" data-tooltip-position="top" href="handouts/letters/kolyan-indirovich's-v1-letter.html" rel="noopener" target="_self">Kolyan Indirovich's v1 Letter</a></span></li>
+<li><span><a aria-label="Handouts/Letters/Kolyan Indirovich's v2 Letter.md" class="internal-link" data-href="Handouts/Letters/Kolyan Indirovich's v2 Letter.md" data-tooltip-position="top" href="handouts/letters/kolyan-indirovich's-v2-letter.html" rel="noopener" target="_self">Kolyan Indirovich's v2 Letter</a></span></li>
+<li><span><a aria-label="Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md" class="internal-link" data-href="Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md" data-tooltip-position="top" href="handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html" rel="noopener" target="_self">Letter from Strahd von Zarovich to Gustav Durst</a></span></li>
 </ul>
 </div>
 </div>
@@ -116,13 +135,13 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Maps
-          </h3>
+            </h3>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
 <div>
 <ul class="dataview list-view-ul">
-<li><span><a aria-label="Handouts/Maps/Village of Barovia.md" class="internal-link" data-href="Handouts/Maps/Village of Barovia.md" data-tooltip-position="top" href="/handouts/maps/village-of-barovia.html" rel="noopener" target="_self">Village of Barovia</a></span></li>
+<li><span><a aria-label="Handouts/Maps/Village of Barovia.md" class="internal-link" data-href="Handouts/Maps/Village of Barovia.md" data-tooltip-position="top" href="handouts/maps/village-of-barovia.html" rel="noopener" target="_self">Village of Barovia</a></span></li>
 </ul>
 </div>
 </div>
@@ -132,7 +151,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Session Notes
-          </h2>
+            </h2>
 </div>
 <div>
 <div class="block-language-dataviewjs node-insert-event">
@@ -145,7 +164,7 @@
 <div class="embed-title markdown-embed-title">Session 1</div>
 <div class="markdown-embed-content">
 <div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists">
-<div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: 0px; min-height: 780px;">
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; min-height: unset; width: unset; height: unset; margin: unset; max-width: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
 <div class="mod-header">
 <div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Session 1</div>
@@ -160,45 +179,45 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>We started in a bar just west of Phandalin
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>There we met Taako and Barry playing Taako's made up game Taakala
-                          </li>
+                            </li>
 <li data-line="2">
 <div class="list-bullet"></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> lost 2 sp to <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> and also mysteriously lost another 13 sp
-                          </li>
+                            </li>
 <li data-line="3">
 <div class="list-bullet"></div><a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> did a lot of glaring a folks, and then after finding out that Barry was lich, picked a fight which Taako tried to diffuse
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="4">
 <div class="list-bullet"></div>The Characters received a letter via the messenger <a class="internal-link is-unresolved" data-href="Arrigal" href="#" rel="noopener" target="_self">Arrigal</a> that was addressed to each of them individually and signed the <a class="internal-link" data-href="Kolyan Indirovich" href="#" rel="noopener" target="_self">Kolyan Indirovich</a>, Burgomaster of Barovia
-                      </li>
+                        </li>
 <li data-line="5">
 <div class="list-bullet"></div>The group stayed the night at the tavern, then at first light made their way west per <a class="internal-link is-unresolved" data-href="Arrigal" href="#" rel="noopener" target="_self">Arrigal</a>'s directions
-                      </li>
+                        </li>
 <li data-line="6">
 <div class="list-bullet"></div>As the fog closed in, <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> was struck by a vision of a woman beckoning him
-                      </li>
+                        </li>
 <li data-line="7">
 <div class="list-bullet"></div>As the fog cleared, the party was surprised to find themselves in a forest
-                      </li>
+                        </li>
 <li data-line="8">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Continuing on the road, <a class="internal-link is-unresolved" data-href="Carlos" href="#" rel="noopener" target="_self">Carlos</a> the mule in tow, the group caught the stench of death
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="9">
 <div class="list-bullet"></div>they followed the smell off the road where they found where they found a mauled body
-                          </li>
+                            </li>
 <li data-line="10">
 <div class="list-bullet"></div>on the body, the found another note in another script, also signed by <a class="internal-link" data-href="Kolyan Indirovich" href="#" rel="noopener" target="_self">Kolyan Indirovich</a>
 </li>
 <li data-line="11">
 <div class="list-bullet"></div>This one is much more foreboding than the first, claiming that the Burgomaster's daughter <a class="internal-link" data-href="Ireena Kolyana" href="#" rel="noopener" target="_self">Ireena Kolyana</a> has been bitten by a vampire
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="12">
@@ -206,32 +225,32 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Right after finding the note, the party is attacked by wolves, seemingly led by a red-eyed direwolf in the distance
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="13">
 <div class="list-bullet"></div>The party was able to quickly charm, kill, and put to sleep the wolves as the direwolf looked on and make it back to the road
-                          </li>
+                            </li>
 <li data-line="14">
 <div class="list-bullet"></div><a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a> ties the carcass of one of the wolves behind Carlos, and the party takes off right as they hear the sleeping wolves wake up
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="15">
 <div class="list-bullet"></div>After a full day of travelling, night set in as the adventurers arrived in a sleeping town
-                      </li>
+                        </li>
 <li data-line="16">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Two children (whose names we don't know) begged for help from the party
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="17">
 <div class="list-bullet"></div>saying their parents are missing, their baby brother Walter is stuck in the 3rd floor nursery, and there is a monster in the basement of their house
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="18">
 <div class="list-bullet"></div>The party obliges to help as the mists close in
-                      </li>
+                        </li>
 </ul>
 </div>
 </div>
@@ -252,7 +271,7 @@
 <div class="embed-title markdown-embed-title">Session 2</div>
 <div class="markdown-embed-content">
 <div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists">
-<div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: 0px; min-height: 1696px;">
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; min-height: unset; width: unset; height: unset; margin: unset; max-width: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
 <div class="mod-header">
 <div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Session 2</div>
@@ -267,7 +286,7 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The party shortly question the kids outside of the House
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>We learn that their names are <a class="internal-link is-unresolved" data-href="Rose" href="#" rel="noopener" target="_self">Rose</a> and <a class="internal-link is-unresolved" data-href="Thorn" href="#" rel="noopener" target="_self">Thorn</a>
 </li>
@@ -278,19 +297,19 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>As we enter the house, the party sees that the place is immaculate but shrouded in darkness
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div>Floors well oiled and the furniture freshly dusted
-                          </li>
+                            </li>
 <li data-line="4">
 <div class="list-bullet"></div>Doors seem to be opening and closing on their own
-                          </li>
+                            </li>
 <li data-line="5">
 <div class="list-bullet"></div>The stuffed wolves seem to be watching them
-                          </li>
+                            </li>
 <li data-line="6">
 <div class="list-bullet"></div>The ornate carvings in the wood paneling is not always as it seems
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="7">
@@ -298,24 +317,24 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Shortly after entering, the party splits up
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="8">
 <div class="list-bullet"></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> and <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> run upstairs, chasing the sound of a harpsicord
-                          </li>
+                            </li>
 <li data-line="9">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The rest of the group stays on the first floor as <a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a> searches for loot
-                            <ul class="has-list-bullet">
+                              <ul class="has-list-bullet">
 <li data-line="10">
 <div class="list-bullet"></div><a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a>, taken by the quality of the dining room drapes, accidentally tears them to shreds as he tries to cut them down. He pockets the silverware instead
-                              </li>
+                                </li>
 </ul>
 </li>
 <li data-line="11">
 <div class="list-bullet"></div><a class="internal-link" data-href="Shalooti" href="#" rel="noopener" target="_self">Shalooti</a> explores a room full of stuffed wolves, and finds herself a deck of playing cards, but runs, scared, out of the room before she can unlock the other cabinet containing the crossbows
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="12">
@@ -323,25 +342,25 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>As <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> and <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> reach the second floor, the sound of the harpsicord is soon replaced by that of a wailing child
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="13">
 <div class="list-bullet"></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> attacks a completely ordinary suit of armor, unable to take its spear
-                          </li>
+                            </li>
 <li data-line="14">
 <div class="list-bullet"></div>They stop halfway to the third floor as they hear footsteps and a woman shushing the baby
-                          </li>
+                            </li>
 <li data-line="15">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> sends a message to <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> telling her that they know where the baby is, but her response is cut off by maniacal laughing
-                            <ul class="has-list-bullet">
+                              <ul class="has-list-bullet">
 <li data-line="16">
 <div class="list-bullet"></div>Instead of his second message, <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> hears heavy breathing
-                              </li>
+                                </li>
 <li data-line="17">
 <div class="list-bullet"></div>and upon trying to contact the woman upstairs, <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> senses his message has been redirected miles away where a man answers and says he looks forward to meeting him
-                              </li>
+                                </li>
 </ul>
 </li>
 </ul>
@@ -351,13 +370,13 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The party regroups on the second floor where they find their way to the library
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="19">
 <div class="list-bullet"></div>Inside, <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> finds an iron key among other things at the desk
-                          </li>
+                            </li>
 <li data-line="20">
 <div class="list-bullet"></div>While pursuing the books, <a class="internal-link" data-href="Shalooti" href="#" rel="noopener" target="_self">Shalooti</a>, finds a secret lever that opens a door to a secret room
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="21">
@@ -365,10 +384,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Inside the secret room, the party finds books that reference the occult
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="22">
 <div class="list-bullet"></div>they also see a human skeleton, near a chest, with a poison dart in their side, holding a note
-                          </li>
+                            </li>
 <li data-line="23">
 <div class="list-bullet"></div>in the chest, they find the dead to the house, a deed to a windmill, and a will signed by <a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> and <a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> bequeathing the house and windmill to their two children <a class="internal-link" data-href="Thornboldt" href="#" rel="noopener" target="_self">Thornboldt</a> and <a class="internal-link" data-href="Rosevalda" href="#" rel="noopener" target="_self">Rosevalda</a>
 </li>
@@ -377,10 +396,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The letter held by the skeleton is so terrifying that it sends <a class="internal-link" data-href="Shalooti" href="#" rel="noopener" target="_self">Shalooti</a> into a panic and she flees the room
-                            <ul class="has-list-bullet">
+                              <ul class="has-list-bullet">
 <li data-line="25">
 <div class="list-bullet"></div>As <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> tries reading it, he becomes instantly paralyzed, but comes to as the group discusses how to save him
-                              </li>
+                                </li>
 </ul>
 </li>
 </ul>
@@ -390,7 +409,7 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>From the note, we learn:
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="27">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -399,15 +418,15 @@
 <ul class="has-list-bullet">
 <li data-line="28">
 <div class="list-bullet"></div><a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="#" rel="noopener" target="_self">Strahd</a> mocked them for this
-                              </li>
+                                </li>
 </ul>
 </li>
 <li data-line="29">
 <div class="list-bullet"></div>They tortured and killed people in their dungeon and "on their hidden alter"
-                          </li>
+                            </li>
 <li data-line="30">
 <div class="list-bullet"></div><a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> had a stillborn child with another woman
-                          </li>
+                            </li>
 <li data-line="31">
 <div class="list-bullet"></div>The handwriting on this letter is the same as the letter that was brought to the party at the tavern by <a class="internal-link is-unresolved" data-href="Arrigal" href="#" rel="noopener" target="_self">Arrigal</a>
 </li>
@@ -415,16 +434,16 @@
 </li>
 <li data-line="32">
 <div class="list-bullet"></div>Upon leaving the secret room, the house now seems disgusting
-                      </li>
+                        </li>
 <li data-line="33">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>After learning this information, the party climbs to the third floor, intent on finding this baby once and for all
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="34">
 <div class="list-bullet"></div>but they're met at the top of the stairs by an animate suit of armor who proved to be a tough foe
-                          </li>
+                            </li>
 <li data-line="35">
 <div class="list-bullet"></div>The party nearly finished it off as they grouped up to push it over the railing, but the armor stumbled back up the stairs for one more strike on <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> before being dealt its final blow by <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a>
 </li>
@@ -435,10 +454,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> rushes into the room with the crying baby to find no woman, but only a bundle lying in the crib
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="37">
 <div class="list-bullet"></div>After mixing random elements, hoping for a <a class="internal-link" data-href="Potion of Healing" href="#" rel="noopener" target="_self">Potion of Healing</a> but only getting salt water, <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> unwraps the bundle to find no baby
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="38">
@@ -446,15 +465,15 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>A woman stirs on the bed in the other room
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="39">
 <div class="list-bullet"></div>She screams and attacks <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a>, knocking him unconscious
-                          </li>
+                            </li>
 </ul>
 </li>
 <li data-line="40">
 <div class="list-bullet"></div>As the party prepares for yet another battle, <a class="internal-link" data-href="Shalooti" href="#" rel="noopener" target="_self">Shalooti</a> conjures up the image of a small baby boy and presents it to the specter...
-                      </li>
+                        </li>
 </ul>
 </div>
 </div>
@@ -475,7 +494,7 @@
 <div class="embed-title markdown-embed-title">Session 3</div>
 <div class="markdown-embed-content">
 <div class="markdown-preview-view markdown-rendered node-insert-event show-indentation-guide allow-fold-headings allow-fold-lists">
-<div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: 0px; min-height: 3411px;">
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; min-height: unset; width: unset; height: unset; margin: unset; max-width: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
 <div class="mod-header">
 <div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Session 3</div>
@@ -485,7 +504,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Margaret the Nursemaid
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>The specter takes the illusion of the baby and seems appeased. She talks to the illusion as if it were, her baby son, <a class="internal-link" data-href="Walter" href="#" rel="noopener" target="_self">Walter</a>.</p>
@@ -497,16 +516,16 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div><a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> wasn't there for the birth of <a class="internal-link" data-href="Walter" href="#" rel="noopener" target="_self">Walter</a> because his wife <a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> kept him away
-                      </li>
+                        </li>
 <li data-line="1">
 <div class="list-bullet"></div>After <a class="internal-link" data-href="Walter" href="#" rel="noopener" target="_self">Walter</a> was born, <a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> became more involved in the cult and she was luring more innocent people into their basement where the screams would wake up <a class="internal-link" data-href="Walter" href="#" rel="noopener" target="_self">Walter</a>
 </li>
 <li data-line="2">
 <div class="list-bullet"></div><a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> and <a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> would lock <a aria-label="Rosevalda" class="internal-link" data-href="Rosevalda" data-tooltip-position="top" href="#" rel="noopener" target="_self">Rose</a> and <a aria-label="Thornboldt" class="internal-link" data-href="Thornboldt" data-tooltip-position="top" href="#" rel="noopener" target="_self">Thorn</a> in their attic bedroom while they performed the rituals in the basement
-                      </li>
+                        </li>
 <li data-line="3">
 <div class="list-bullet"></div><a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> took <a class="internal-link" data-href="Walter" href="#" rel="noopener" target="_self">Walter</a> from Margaret
-                      </li>
+                        </li>
 </ul>
 </div>
 <div>
@@ -517,7 +536,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The Stairs Behind the Mirror
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>After Margaret vanishes, the party is left to revive <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a>. <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> uses some strong magic to bring <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> nearly back to his full potential. Then, after his near death experience, as <a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a> is reflecting on his life, he notices a crack in the mirror in Margaret's room. Now, terrified of the possibility of death, he quickly backs away.</p>
@@ -540,7 +559,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Rosevalda" class="internal-link" data-href="Rosevalda" data-tooltip-position="top" href="#" rel="noopener" target="_self">Rose</a> and <a aria-label="Thornboldt" class="internal-link" data-href="Thornboldt" data-tooltip-position="top" href="#" rel="noopener" target="_self">Thorn</a>'s Room
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>Presented with a padlocked door, <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> remembers that <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> earlier found an iron key. Once she unlocks the door, the party uncovers a heartbreaking reality: <a aria-label="Rosevalda" class="internal-link" data-href="Rosevalda" data-tooltip-position="top" href="#" rel="noopener" target="_self">Rose</a> and <a aria-label="Thornboldt" class="internal-link" data-href="Thornboldt" data-tooltip-position="top" href="#" rel="noopener" target="_self">Thorn</a>'s skeletons are lying in the middle of the bedroom floor, apparently starved to death after being unable to escape their locked room.</p>
@@ -565,7 +584,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Into the Dungeon
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>The party opens the secret door and descends deep into the basement. They're greeted at the bottom of the stairs by a dark, earthen corridor and an incessant chanting, that they can't seem to pinpoint.</p>
@@ -578,7 +597,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Cultist Quarters
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>The party makes their way into what seems to be a living space with a wooden table and multiple straw beds. In one of the bed alcoves, they hear something snarling. <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> rushes in to find out what's making the noise, and it turns out to be a ghoul which the party quickly dispatches.</p>
@@ -590,25 +609,25 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div><a class="internal-link" data-href="Shalooti" href="#" rel="noopener" target="_self">Shalooti</a>: 11gp, 60sp in a pouch of human skin
-                      </li>
+                        </li>
 <li data-line="1">
 <div class="list-bullet"></div><a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a>: 3 moss agates (10gp each)
-                      </li>
+                        </li>
 <li data-line="2">
 <div class="list-bullet"></div><a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a>: leather eyepatch with a carnelian (50gp)
-                      </li>
+                        </li>
 <li data-line="3">
 <div class="list-bullet"></div><a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a>: an ivory hairbrush with silver bristles (25gp)
-                      </li>
+                        </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Anakir" href="#" rel="noopener" target="_self">Anakir</a>: a silvered shortsword (110gp)
-                        <ul class="has-list-bullet">
+                          <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>Drawing on his experience with martial weapons, <a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a> remembers the silvered weapons have the special property of causing damage to enemies with immunity to regular weapons (e.g. werewolves)
-                          </li>
+                            </li>
 </ul>
 </li>
 </ul>
@@ -621,7 +640,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The Spiked Pit and the Split Party
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>As they ventured further into the dungeon, <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> observes that there is a strange place in the floor. After throwing something onto the spot, the party realizes that they've found a trap door that falls to a spiked pit. Each of the party members easily jumps the pit, except for <a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a> who is certain he can find another way around.</p>
@@ -637,7 +656,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The Durst's Bedroom
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>Back together again, the part makes their way into an underground bedroom. The first inside, <a class="internal-link" data-href="Elora" href="#" rel="noopener" target="_self">Elora</a> sees <a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> hanging from the ceiling, and discovers his <a aria-label="Gustav Durst's Suicide Note" class="internal-link" data-href="Gustav Durst's Suicide Note" data-tooltip-position="top" href="#" rel="noopener" target="_self">suicide note</a> on the bed next to him. The note tells us that:</p>
@@ -646,10 +665,10 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div><a class="internal-link" data-href="Elizabeth Durst" href="#" rel="noopener" target="_self">Elizabeth Durst</a> was the one who started the cult
-                      </li>
+                        </li>
 <li data-line="1">
 <div class="list-bullet"></div><a class="internal-link" data-href="Gustav Durst" href="#" rel="noopener" target="_self">Gustav Durst</a> only played along because he saw no way out
-                      </li>
+                        </li>
 </ul>
 </div>
 <div>
@@ -665,19 +684,19 @@
 </li>
 <li data-line="2">
 <div class="list-bullet"></div>chain shirt
-                      </li>
+                        </li>
 <li data-line="3">
 <div class="list-bullet"></div>mess kit
-                      </li>
+                        </li>
 <li data-line="4">
 <div class="list-bullet"></div>flask of alchemist's fire
-                      </li>
+                        </li>
 <li data-line="5">
 <div class="list-bullet"></div>bullseye lantern
-                      </li>
+                        </li>
 <li data-line="6">
 <div class="list-bullet"></div>thieves tools
-                      </li>
+                        </li>
 </ul>
 </div>
 <div>
@@ -691,7 +710,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The Shrine
-                    </h3>
+                      </h3>
 </div>
 <div>
 <p>After healing <a class="internal-link" data-href="Pelanil" href="#" rel="noopener" target="_self">Pelanil</a> with one of the <a aria-label="Potion of Healing" class="internal-link" data-href="Potion of Healing" data-tooltip-position="top" href="#" rel="noopener" target="_self">Potions of Healing</a>, the party leave the Durst's bedroom and finds their way to what seems to be a shrine for a gaunt-looking man. <a class="internal-link" data-href="Bardolf" href="#" rel="noopener" target="_self">Bardolf</a> finds a secret set of stairs that leads upwards (presumably to the first level of the house).</p>
@@ -710,13 +729,22 @@
 <p></p>
 </div>
 </div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>

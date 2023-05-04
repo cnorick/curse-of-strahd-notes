@@ -1,6 +1,17 @@
 async function loadDocument(url, pushHistory = true)
 {
-	let response = await fetch(url);
+	let response;
+	try
+	{
+		response = await fetch(url);
+	}
+	catch (error)
+	{
+		console.log("Cannot use fetch API (likely due to CORS), just loading the page normally.");
+		window.location.assign(url);
+		return;
+	}
+	
 	let doc = document.implementation.createHTMLDocument();
 
 	
@@ -40,7 +51,7 @@ async function loadDocument(url, pushHistory = true)
 		`
 		<div>
 			<center style='position: relative; transform: translateY(20vh); width: 100%; text-align: center;'>
-				<h1 style>Page does not exist!</h1>
+				<h1 style>Page Not Found</h1>
 			</center>
 		</div>
 		`;

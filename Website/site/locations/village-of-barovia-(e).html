@@ -22,9 +22,29 @@
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="../scripts/graph_view.js" type="module"></script>
+<script src="../scripts/graph_wasm.js"></script>
+<script src="../scripts/tinycolor.js"></script>
 <script src="../scripts/webpage.js"></script>
 </head>
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
 <div class="flex-container">
 <div class="sidebar-left" id="sidebar">
 <div class="sidebar-content">
@@ -34,7 +54,7 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
 <div>
 <h1 id="Village_of_Barovia_(E)">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -42,23 +62,22 @@
 </svg></div>Village of Barovia (E)
           </h1>
 </div>
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Village of Barovia (E)</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <h2 data-heading="Locations" id="Locations">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Locations
-          </h2>
+            </h2>
 </div>
 <div>
 <h3 data-heading="Bildrath's Mercantile (E1)" id="Bildrath's_Mercantile_(E1)">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Bildrath's Mercantile (E1)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -69,13 +88,13 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div><a class="internal-link" data-href="Bildrath Cantemir" href="../characters/bildrath-cantemir.html" rel="noopener" target="_self">Bildrath Cantemir</a> owns the building
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>He sells items less than 25gp from the <a class="internal-link" data-href="Adventuring Gear" href="../misc/adventuring-gear.html" rel="noopener" target="_self">Adventuring Gear</a> table or 10x the price
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>He has no competition in the village
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -83,7 +102,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Blood of the Vine Tavern (E2)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -94,27 +113,27 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Sign used to read "Blood of the Vine", but the f was scratched over
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>There are a few people huddled within
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div>Three Vistani sitting together (see <a class="internal-link" data-href="#Vistani Owners" href="#Vistani_Owners" rel="noopener" target="_self">Vistani Owners</a>)
-                </li>
+                  </li>
 <li data-line="3">
 <div class="list-bullet"></div><a aria-label="Arik Lorensk" class="internal-link" data-href="Arik Lorensk" data-tooltip-position="top" href="../characters/arik-lorensk.html" rel="noopener" target="_self">Arik the Barkeep</a> tending bar
-                </li>
+                  </li>
 <li data-line="4">
 <div class="list-bullet"></div><a class="internal-link" data-href="Ismark Kolyanovich" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a> sitting by himself and sipping wine (see <a class="internal-link" data-href="#Meeting Ismark" href="#Meeting_Ismark" rel="noopener" target="_self">Meeting Ismark</a>)
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="5">
 <div class="list-bullet"></div>Glass of wine costs 1cp; pitcher: 1sp
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -122,7 +141,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Vistani Owners
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -131,27 +150,27 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Remember to describe how flamboyant they are
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>Draw a line to the guy that delivered the letter
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
 <div class="list-bullet"></div>Three <a class="internal-link" data-href="Vistani" href="../misc/vistani.html" rel="noopener" target="_self">Vistani</a> Spies (Alenka, Mirabel, and Sorvia) sit at a table near the door
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>They own the tavern and see that customers pay their tabs
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>They show little interest in the characters
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>If they come with other <a class="internal-link" data-href="Vistani" href="../misc/vistani.html" rel="noopener" target="_self">Vistani</a>, they are more likely to engage in conversation and share info (see <a aria-label="Vistani &gt; Vistani Lore" class="internal-link" data-href="Vistani#Vistani Lore" data-tooltip-position="top" href="../misc/vistani.html#Vistani_Lore" rel="noopener" target="_self">Vistani Lore</a>)
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
@@ -170,10 +189,10 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>He invites the PCs to join him and offers to pay for their wine
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div><a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="../characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> has been coming for <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> (see <a aria-label="Strahd Von Zarovich &gt; Turn Ireena Kolyana" class="internal-link" data-href="Strahd Von Zarovich#Turn Ireena Kolyana" data-tooltip-position="top" href="../characters/strahd-von-zarovich.html#Turn_Ireena_Kolyana" rel="noopener" target="_self">Turn Ireena Kolyana</a>)
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -201,15 +220,15 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>He knows moving <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> is a gamble
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>She's vulnerable to <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="../characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> outside her house
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="8">
 <div class="list-bullet"></div>He's heard that <a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a> is well defended
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -217,7 +236,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Mad Mary's Townhouse (E3)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -231,27 +250,27 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The house is boarded up and barricaded from the inside
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>DC 15 athletics check to open a door
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
 <div class="list-bullet"></div><a class="internal-link" data-href="Mad Mary" href="../characters/mad-mary.html" rel="noopener" target="_self">Mad Mary</a> sits in the center of the floor in an upstairs bedroom clutching a malformed doll
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>If inspected:
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>The doll has a strange leer and wears a sackcloth dress
-                </li>
+                  </li>
 <li data-line="5">
 <div class="list-bullet"></div>Stitched into the hem of its dress is a frayed tag bearing the words "Is No Fun, Is No Blinsky!"
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -261,7 +280,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Burgomaster's Mansion (E4)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -279,7 +298,7 @@
 <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>(the prints were made by zombies and ghouls under <a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="../characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a>'s control)
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -291,7 +310,7 @@
 <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div>Can convince with good roleplaying or DC 15 Deception/Persuasion
-                </li>
+                  </li>
 <li data-line="4">
 <div class="list-bullet"></div>Or with <a class="internal-link" data-href="Ismark Kolyanovich" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark Kolyanovich</a>
 </li>
@@ -317,10 +336,10 @@
 <ul class="has-list-bullet">
 <li data-line="10">
 <div class="list-bullet"></div>{Not necessarily <a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a>, but wherever she's safe}
-                </li>
+                  </li>
 <li data-line="11">
 <div class="list-bullet"></div>He will suggest <a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a> though
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="13">
@@ -338,7 +357,7 @@
 <ul class="has-list-bullet">
 <li data-line="15">
 <div class="list-bullet"></div>No one else in town has been brave enough to help
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -355,7 +374,7 @@
 </li>
 <li data-line="18">
 <div class="list-bullet"></div>Have them tell the whole story
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="20">
@@ -369,7 +388,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Mad Mary" href="../characters/mad-mary.html" rel="noopener" target="_self">Mad Mary</a>'s Visit
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -378,22 +397,22 @@
 </li>
 <li data-line="1">
 <div class="list-bullet"></div>Should happen during the day
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>After the players meet <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> and get situated, <a class="internal-link" data-href="Mad Mary" href="../characters/mad-mary.html" rel="noopener" target="_self">Mad Mary</a> comes to the door and knocks profusely
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> and <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> are cautious
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>He motions to everyone to stay down and stay quiet while he answers the door
-                </li>
+                  </li>
 <li data-line="5">
 <div class="list-bullet"></div>They've had a lot of unwelcome visitors recently
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
@@ -401,16 +420,16 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Mary pushes her way into the house when he opens the door
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>this puts <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> and <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> at ease because it's during the day and she came in uninvited
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="8">
 <div class="list-bullet"></div>They can share this with the players; maybe <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> comes out of hiding when it happens and explains to the PCs while <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> is dealing with Mary
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -420,16 +439,16 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The players overhear Mary's frantic rambling:
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="10">
 <div class="list-bullet"></div>begging <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> to help her daughter
-                </li>
+                  </li>
 <li data-line="11">
 <div class="list-bullet"></div>Mary speaks the first player that intervenes and begs for them to help her child
-                </li>
+                  </li>
 <li data-line="12">
 <div class="list-bullet"></div>She rambles on about <a class="internal-link" data-href="Gertruda" href="../characters/gertruda.html" rel="noopener" target="_self">Gertruda</a> making it sound like she's a little kid (7 or 8)
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="13">
@@ -437,13 +456,13 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>After the PCs alleviate Mary's hysteria, <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> walks her back home
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="14">
 <div class="list-bullet"></div>In the meantime, <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> explains that <a class="internal-link" data-href="Gertruda" href="../characters/gertruda.html" rel="noopener" target="_self">Gertruda</a> is actually a teen and ran away into the mists over a week ago and is probably dead
-                </li>
+                  </li>
 <li data-line="15">
 <div class="list-bullet"></div>There's really not much the party can do
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -453,7 +472,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>A Good Time to Rest
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -466,7 +485,7 @@
 <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>They've learned a lot, met some people, and have some story quests
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -486,22 +505,22 @@
 <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>Remind the players to try the dream pies if they haven't
-                </li>
+                  </li>
 <li data-line="6">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> and <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> politely decline pies if offered
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>They don't know what they're made of, but have seen their addictive properties
-                    </li>
+                      </li>
 <li data-line="8">
 <div class="list-bullet"></div>They have nothing against them, but they're just not interested
-                    </li>
+                      </li>
 <li data-line="9">
 <div class="list-bullet"></div>The recommend the players just have a small portion, just in case, but see no harm
-                    </li>
+                      </li>
 </ul>
 </li>
 <li data-line="10">
@@ -509,24 +528,24 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The players that try them are delighted by the taste
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="11">
 <div class="list-bullet"></div>It's very flavorful, unexpected for food from this dreary world
-                    </li>
+                      </li>
 <li data-line="12">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>When they sleep that night, they have bright, beautiful dreams full of color
-                      <ul class="has-list-bullet">
+                        <ul class="has-list-bullet">
 <li data-line="13">
 <div class="list-bullet"></div>They feel hopelessly safe and loved
-                        </li>
+                          </li>
 </ul>
 </li>
 <li data-line="14">
 <div class="list-bullet"></div>They wake up more empty than usual
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -540,10 +559,10 @@
 <ul class="has-list-bullet">
 <li data-line="16">
 <div class="list-bullet"></div>They might hear footsteps encircling the house at night, then leaving
-                </li>
+                  </li>
 <li data-line="17">
 <div class="list-bullet"></div>Players that ate pie can't be woken until morning
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="19">
@@ -560,7 +579,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Church (E5)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -579,7 +598,7 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Read descriptions from book for other parts of church (p 45)
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -587,40 +606,40 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Trap Door and Undercroft
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div><a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> lost the key to the padlock on the trap door
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>If the chain is removed and the trapdoor opened, the screaming stops
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>The trapdoor is swollen and stuck in its frame =&gt; DC12Str to open
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div><a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a> is in the undercroft
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Do everything you can to scare off the players; this is a hard battle
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>If they fight <a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a>, <a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> comes down to fight the PCs
-                </li>
+                  </li>
 <li data-line="6">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Have <a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> plead for them to stop as he fights
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>He'll let them go back upstairs if they stop
-                    </li>
+                      </li>
 </ul>
 </li>
 <li data-line="8">
@@ -635,7 +654,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Office
-          </h4>
+            </h4>
 </div>
 <div>
 <p>Contents:</p>
@@ -644,19 +663,19 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Desk drawers: few sheets of parchment, quill pens, dried-up ink jars
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Wooden cabinet: tinderbox, few wooden boxes full of candles, two well used books:
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div><em>The Bland of Truth: The Uses of Logic in the War Against Diabolist Heresies, as Fought by the Ulmist Inquisition</em> (a strange book that mixes logic exercises with lurid descriptions of fiend-worshiping cults
-                </li>
+                  </li>
 <li data-line="3">
 <div class="list-bullet"></div><em>Hymns to the Dawn</em> (a volume of chants to <a class="internal-link is-unresolved" data-href="The Morninglord" href="The Morninglord" rel="noopener" target="_self">The Morninglord</a>)
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -666,7 +685,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Chapel (E5F)
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -675,10 +694,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a> hasn't been fed since he was imprisoned (over a year)
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>he cries out to his father at all hours
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -689,10 +708,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>If the PCs seem intent on slaying <a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a>, <a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> does his best to stop them
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>If <a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a> dies, <a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> falls to the floor and weeps inconsolably, overcome with despair
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -702,7 +721,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Funeral for Burgomaster
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -711,10 +730,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The PCs and <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> come to the Church with the Bod
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>They maybe set the coffin down right inside
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -722,10 +741,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Meeting <a class="internal-link" data-href="Donavich" href="../characters/donavich.html" rel="noopener" target="_self">Donavich</a> is strained what with all the screams
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="3">
 <div class="list-bullet"></div><a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> is able to quietly convince him to leave his praying for just enough time to conduct a funeral
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -735,7 +754,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Cemetery (E6)
-          </h3>
+            </h3>
 </div>
 <div>
 <blockquote>
@@ -747,7 +766,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Funeral for Burgomaster
-          </h4>
+            </h4>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -796,10 +815,10 @@
 <ul class="has-list-bullet">
 <li data-line="17">
 <div class="list-bullet"></div>{He doesn't know that the Abbey is evil now}
-                    </li>
+                      </li>
 <li data-line="18">
 <div class="list-bullet"></div>(<a class="internal-link is-unresolved" data-href="Vallaki" href="Vallaki" rel="noopener" target="_self">Vallaki</a> is on the way to <a class="internal-link is-unresolved" data-href="Krezk" href="Krezk" rel="noopener" target="_self">Krezk</a> and <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> or <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> may convince them to go there anyway)
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -811,7 +830,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>After the Funeral
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -823,36 +842,36 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The players may want to rest another night (esp if they fought <a class="internal-link" data-href="Doru" href="../characters/doru.html" rel="noopener" target="_self">Doru</a>)
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div>But <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> and <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> {rightly} are pretty heavily against this
-                </li>
+                  </li>
 <li data-line="3">
 <div class="list-bullet"></div><a aria-label="Strahd Von Zarovich" class="internal-link" data-href="Strahd Von Zarovich" data-tooltip-position="top" href="../characters/strahd-von-zarovich.html" rel="noopener" target="_self">Strahd</a> no longer has a reason to let up his pursuit of <a aria-label="Ireena Kolyana" class="internal-link" data-href="Ireena Kolyana" data-tooltip-position="top" href="../characters/ireena-kolyana.html" rel="noopener" target="_self">Ireena</a> since <a class="internal-link" data-href="Kolyan Indirovich" href="../characters/kolyan-indirovich.html" rel="noopener" target="_self">Kolyan Indirovich</a> is buried
-                </li>
+                  </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>If they want to rest, <a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> recommends they can make it to <a class="internal-link is-unresolved" data-href="Tser Pool" href="Tser Pool" rel="noopener" target="_self">Tser Pool</a> before nightfall
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>for a safe place to camp
-                    </li>
+                      </li>
 <li data-line="6">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Ismark Kolyanovich" class="internal-link" data-href="Ismark Kolyanovich" data-tooltip-position="top" href="../characters/ismark-kolyanovich.html" rel="noopener" target="_self">Ismark</a> says the <a class="internal-link" data-href="Vistani" href="../misc/vistani.html" rel="noopener" target="_self">Vistani</a> tribe at that location are friendly to visitors
-                      <ul class="has-list-bullet">
+                        <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>unlike the evil women at the tavern
-                        </li>
+                          </li>
 </ul>
 </li>
 <li data-line="8">
 <div class="list-bullet"></div>{if they've talked to <a class="internal-link" data-href="Vistani" href="../misc/vistani.html" rel="noopener" target="_self">Vistani</a>, remind them they said to visit <a class="internal-link" data-href="Madam Eva" href="../characters/madam-eva.html" rel="noopener" target="_self">Madam Eva</a> there}
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -862,15 +881,15 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>If they're weak, don't throw in any encounters
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="10">
 <div class="list-bullet"></div>If they haven't fought any in town, make sure they get some
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="11">
 <div class="list-bullet"></div>Level up the characters when the rest next
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -878,14 +897,14 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Events (p 48)
-          </h2>
+            </h2>
 </div>
 <div>
 <h3 data-heading="Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))" id="Dream_Pies_(source)">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Dream Pies (<a aria-label="https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/" class="external-link" data-tooltip-position="top" href="https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/" rel="noopener" target="_blank">source</a>)
-          </h3>
+            </h3>
 </div>
 <div>
 <p><a class="internal-link" data-href="Mechanics of Dream Pastries" href="../misc/mechanics-of-dream-pastries.html" rel="noopener" target="_self">Mechanics of Dream Pastries</a></p>
@@ -894,16 +913,16 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Run this event when the players first leave Death House
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>Read:
-              <blockquote>
+                <blockquote>
 <p>You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure huddled in rags, pushing a rickety wooden cart through the fog. The figure approaches the door of a nearby home and knocks</p>
 </blockquote>
 </li>
 <li data-line="3">
 <div class="list-bullet"></div>if approaching:
-              <blockquote>
+                <blockquote>
 <p>You catch a delicious smell on the air. You see that the figure is an old lady. She's just handed something to the person in the house, and he is thanking her profusely</p>
 </blockquote>
 </li>
@@ -912,10 +931,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The players meet <a class="internal-link" data-href="Morgantha" href="../characters/morgantha.html" rel="noopener" target="_self">Morgantha</a> selling her dream pastries
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="6">
 <div class="list-bullet"></div>She's in the guise of an old woman and has come from <a class="internal-link is-unresolved" data-href="Old Bonegrinder" href="Old Bonegrinder" rel="noopener" target="_self">Old Bonegrinder</a> to sell her pastries
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="7">
@@ -923,13 +942,13 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>She has a small variety of pies (they don't have to be meat. Just contain kid parts like ground up bones)
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="8">
 <div class="list-bullet"></div>Meat pies, maple nut pies, and a hearty pie with a potato base
-                </li>
+                  </li>
 <li data-line="9">
 <div class="list-bullet"></div>if asked the type of meat:
-                  <blockquote>
+                    <blockquote>
 <p>Oh, Barovians use all kinds of meat. Especially since we've a dreadful lack of sunlight for good fruits and veggies. I myself prefer chicken, but there's also goat, deer, pig, and wolf meat depending on where you go. You'd think wolf meat would be more of delicacy, huh? Not here, dearie! With Lord Strahd in charge there's more wolves in these woods than we know what to do with!</p>
 </blockquote>
 </li>
@@ -940,16 +959,16 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The pastries normally cost 1gp each
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="12">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>but she will gift the party a pie to share for dinner (she won't take no for an answer)
-                  <ul class="has-list-bullet">
+                    <ul class="has-list-bullet">
 <li data-line="13">
 <div class="list-bullet"></div>She waves the fee because they're new to Barovia and their journey into town must have been hard
-                    </li>
+                      </li>
 </ul>
 </li>
 </ul>
@@ -959,13 +978,13 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>When she explains why they're so expensive:
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="15">
 <div class="list-bullet"></div>it's a bit of magic her mother taught her before the witch killed her
-                </li>
+                  </li>
 <li data-line="16">
 <div class="list-bullet"></div>The pies bring the eaters only the sweetest of dreams, something poorly lacking in this dreary world (make her seem grief stricken by the state of the world)
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="17">
@@ -973,13 +992,22 @@
 </li>
 </ul>
 </div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>

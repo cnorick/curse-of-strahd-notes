@@ -22,9 +22,29 @@
     let jsPath = "../scripts";
     let cssPath = "../styles";
   </script>
+<!-- Graph View Data -->
+<script>
+    let nodes = {
+      "nodeCount": 76,
+      "linkCount": 144,
+      "radii": [10, 9.8, 9.6875, 9.55, 9.55, 9.3875, 9.2, 8.987499999999999, 8.75, 8.75, 8.200000000000001, 7.887499999999999, 7.887499999999999, 7.887499999999999, 7.55, 7.55, 7.55, 7.55, 7.1875, 7.1875, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.800000000000001, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 6.3875, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.949999999999999, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5.4875, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+      "labels": ["Village of Barovia (E)", "Barovian Lore", "Session 3", "Ireena Kolyana", "Strahd Von Zarovich", "Death House", "Donavich", "Session 2", "Vistani", "Ismark Kolyanovich", "Elizabeth Durst", "Session 1", "Doru", "Gertruda", "Card Reading", "Castle Ravenloft", "Morgantha", "Kolyan Indirovich", "Shalooti", "Mad Mage of Mount Baratok", "Tser Pool Encampment (G)", "Gustav Durst", "Thornboldt", "Rosevalda", "Lancelot", "Bildrath Cantemir", "Session 4", "Gustav Durst's Suicide Note", "If Players Die", "Walter", "Tatyana", "Pelanil", "Madam Eva", "Mad Mary", "Elora", "Bardolf", "Anakir", "Session 3", "Potion of Healing", "Index", "Old Svalich Road", "Parriwimple", "Orb of the Warmage", "Cloak of Protection", "The Tome of Strahd", "Sunsword", "Cultist Logbook", "Elisabeth Durst's Unsent Letter", "TODO", "Music Compiled", "Mechanics of Dream Pastries", "Guest as Granny", "Adventuring Gear", "Rictavio", "Arik Lorensk", "Character", "Village of Barovia", "Portrait of Rose and Thorne", "Portrait of Bildrath", "Portrait of Doru", "Portrait of Parriwimple", "Portrait of Mad Mary", "Portrait of Ismark", "Portrait of Ireena", "Death House Front", "Strahd's Invitation", "Tome of Strahd", "Letter from Strahd von Zarovich to Gustav Durst", "Kolyan Indirovich's v2 Letter", "Kolyan Indirovich's v1 Letter", "Argynvost's Journal", "Dog", "Campaign Notes", "Session 2", "Session 1", "Session 0"],
+      "paths": ["locations/village-of-barovia-(e).html", "misc/barovian-lore.html", "session-notes/session-3.html", "characters/ireena-kolyana.html", "characters/strahd-von-zarovich.html", "locations/death-house.html", "characters/donavich.html", "session-notes/session-2.html", "misc/vistani.html", "characters/ismark-kolyanovich.html", "characters/elizabeth-durst.html", "session-notes/session-1.html", "characters/doru.html", "characters/gertruda.html", "misc/card-reading.html", "locations/castle-ravenloft.html", "characters/morgantha.html", "characters/kolyan-indirovich.html", "characters/shalooti.html", "characters/mad-mage-of-mount-baratok.html", "locations/tser-pool-encampment-(g).html", "characters/gustav-durst.html", "characters/thornboldt.html", "characters/rosevalda.html", "characters/lancelot.html", "characters/bildrath-cantemir.html", "campaign/session-4.html", "handouts/letters/gustav-durst's-suicide-note.html", "misc/if-players-die.html", "characters/walter.html", "characters/tatyana.html", "characters/pelanil.html", "characters/madam-eva.html", "characters/mad-mary.html", "characters/elora.html", "characters/bardolf.html", "characters/anakir.html", "campaign/session-3.html", "handouts/items/potion-of-healing.html", "index.html", "locations/old-svalich-road.html", "characters/parriwimple.html", "handouts/items/orb-of-the-warmage.html", "handouts/items/cloak-of-protection.html", "handouts/items/the-tome-of-strahd.html", "handouts/items/sunsword.html", "handouts/items/cultist-logbook.html", "handouts/letters/elisabeth-durst's-unsent-letter.html", "todo.html", "music-compiled.html", "misc/mechanics-of-dream-pastries.html", "misc/guest-as-granny.html", "misc/adventuring-gear.html", "characters/rictavio.html", "characters/arik-lorensk.html", "assets/templates/character.html", "handouts/maps/village-of-barovia.html", "handouts/images/portraits/portrait-of-rose-and-thorne.html", "handouts/images/portraits/portrait-of-bildrath.html", "handouts/images/portraits/portrait-of-doru.html", "handouts/images/portraits/portrait-of-parriwimple.html", "handouts/images/portraits/portrait-of-mad-mary.html", "handouts/images/portraits/portrait-of-ismark.html", "handouts/images/portraits/portrait-of-ireena.html", "handouts/images/death-house-front.html", "handouts/letters/strahd's-invitation.html", "handouts/letters/tome-of-strahd.html", "handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html", "handouts/letters/kolyan-indirovich's-v2-letter.html", "handouts/letters/kolyan-indirovich's-v1-letter.html", "handouts/letters/argynvost's-journal.html", "custom-monsters/dog.html", "campaign-notes.html", "campaign/session-2.html", "campaign/session-1.html", "campaign/session-0.html"],
+      "linkSources": [55, 37, 37, 37, 26, 26, 26, 26, 25, 25, 6, 6, 6, 6, 6, 6, 6, 6, 6, 10, 10, 10, 10, 10, 13, 13, 13, 9, 9, 9, 9, 9, 9, 9, 24, 24, 19, 19, 33, 33, 16, 16, 16, 16, 16, 41, 4, 4, 4, 39, 39, 5, 5, 5, 5, 5, 5, 5, 5, 5, 20, 20, 20, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 14, 14, 14, 14, 28, 8, 8, 8, 8, 8, 8, 11, 11, 11, 11, 11, 11, 11, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 48, 3, 3, 3, 3, 3, 3, 12, 12, 12, 12, 12],
+      "linkTargets": [1, 27, 47, 46, 0, 5, 9, 3, 41, 1, 12, 6, 15, 19, 4, 0, 1, 3, 17, 21, 29, 1, 23, 22, 15, 4, 1, 3, 4, 28, 1, 0, 8, 17, 13, 5, 14, 4, 13, 1, 1, 4, 8, 0, 3, 25, 3, 30, 0, 49, 51, 13, 18, 24, 23, 22, 29, 21, 27, 10, 5, 0, 32, 14, 25, 52, 0, 54, 9, 8, 32, 4, 3, 15, 33, 6, 12, 13, 17, 50, 16, 5, 4, 15, 0, 17, 40, 8, 44, 53, 45, 19, 3, 4, 30, 15, 40, 0, 32, 36, 34, 18, 31, 35, 17, 3, 36, 34, 18, 31, 35, 10, 21, 22, 23, 4, 38, 29, 21, 10, 23, 22, 36, 31, 35, 24, 18, 34, 27, 43, 38, 42, 18, 4, 30, 1, 9, 17, 28, 4, 6, 15, 1, 19]
+    };
+    let attractionForce = 50;
+    let linkLength = 10;
+    let repulsionForce = 60;
+    let centralForce = 20;
+    let edgePruning = 100;
+  </script>
+<script src="../scripts/graph_view.js" type="module"></script>
+<script src="../scripts/graph_wasm.js"></script>
+<script src="../scripts/tinycolor.js"></script>
 <script src="../scripts/webpage.js"></script>
 </head>
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
 <div class="flex-container">
 <div class="sidebar-left" id="sidebar">
 <div class="sidebar-content">
@@ -34,7 +54,7 @@
 </div>
 </div>
 <div class="center-content">
-<div class="markdown-preview-view markdown-rendered allow-fold-headings">
+<div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
 <div>
 <h1 id="Death_House">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -42,34 +62,33 @@
 </svg></div>Death House
           </h1>
 </div>
+<div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
 <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
-<div class="mod-header">
-<div class="inline-title" contenteditable="true" enterkeyhint="done" spellcheck="false" tabindex="-1">Death House</div>
-</div>
+<div class="mod-header"></div>
 <div>
 <h2 data-heading="Nursemaid Encounter" id="Nursemaid_Encounter">
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Nursemaid Encounter
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>The party appeases her with the fake baby
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>She takes the illusion and sits in the rocking chair with it
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div>She says the following:
-            </li>
+              </li>
 </ul>
 </div>
 <div>
 <blockquote>
 <p>Oh Walter, you were so precious when you were born. Of course, you're father wasn't there for it -- that witch of a woman kept him away. But no matter, I loved you all the same. You were the light of my life. I would have been satisfied to simply keep you to myself.<br/>
-              But she -- she couldn't stand the thought of you. That's when she started to become manic. The screams from the basement would sometimes wake you up. But you were such a good baby, Walter. I'd rock you right back to sleep.</p>
+                But she -- she couldn't stand the thought of you. That's when she started to become manic. The screams from the basement would sometimes wake you up. But you were such a good baby, Walter. I'd rock you right back to sleep.</p>
 <p>But the other children. I always loved them as well -- not as much as you, of course, Walter. But I did love them. I also pitied them. As more and more innocent people were lured into this house, those poor children would spend hours on end locked in their room. They said, of course, that it was to protect their innocence, but what's innocence when you're in a cage?</p>
 <p>Poor baby Walter. You were my light in a dark world. I tried to protect you as best I knew how. But that woman! She couldn't be satisfied until she had you. Or rather, until I no longer had you.</p>
 </blockquote>
@@ -78,7 +97,7 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>After a minute, the spell ends, and the fake baby disappears. So does she
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -86,22 +105,22 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Gertruda" href="../characters/gertruda.html" rel="noopener" target="_self">Gertruda</a>'s Dog
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>Maybe let <a class="internal-link" data-href="Shalooti" href="../characters/shalooti.html" rel="noopener" target="_self">Shalooti</a> make a nature check after seeing dog prints in the dust
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The dog is hiding under a bed or something somewhere in the house
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div>Maybe under the harpsichord
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="3">
@@ -112,12 +131,12 @@
 <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>It's on the collar and it answers to it
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="5">
 <div class="list-bullet"></div>This gives the players something to sacrifice (if they choose to)
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -125,22 +144,22 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a aria-label="Rosevalda" class="internal-link" data-href="Rosevalda" data-tooltip-position="top" href="../characters/rosevalda.html" rel="noopener" target="_self">Rose</a> and <a aria-label="Thornboldt" class="internal-link" data-href="Thornboldt" data-tooltip-position="top" href="../characters/thornboldt.html" rel="noopener" target="_self">Thorne</a> Round 2
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>They have all their memories now
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>They know they're dead
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="2">
 <div class="list-bullet"></div>They look like ghosts; spectral and see-through
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="3">
@@ -148,10 +167,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>They know they were often locked away while their parents went to "Deal with the Monster"
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>The last time, no one came back for them
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
@@ -165,19 +184,19 @@
 <ul class="has-list-bullet">
 <li data-line="0">
 <div class="list-bullet"></div>They ask for help again
-            </li>
+              </li>
 <li data-line="1">
 <div class="list-bullet"></div>They know a lot more, but are ignorant to what their parents were doing
-            </li>
+              </li>
 <li data-line="2">
 <div class="list-bullet"></div><a aria-label="Rosevalda" class="internal-link" data-href="Rosevalda" data-tooltip-position="top" href="../characters/rosevalda.html" rel="noopener" target="_self">Rose</a> thinks their mother took <a class="internal-link" data-href="Walter" href="../characters/walter.html" rel="noopener" target="_self">Walter</a> to the basement last
-            </li>
+              </li>
 <li data-line="3">
 <div class="list-bullet"></div>She asks the players to help save their baby brother and their parents defeat the monster once and for all.
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>They point to the dollhouse if anyone asks how to get to the basement
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -185,7 +204,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Basement Bedroom
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -194,10 +213,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Gustav Durst" href="../characters/gustav-durst.html" rel="noopener" target="_self">Gustav Durst</a> is hanging from the ceiling
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="1">
 <div class="list-bullet"></div>there is a key around his neck
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="2">
@@ -208,18 +227,18 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" rel="noopener" target="_self">Elizabeth Durst</a>'s ghast comes from the wall eventually
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="4">
 <div class="list-bullet"></div>She can speak, unlike the other ghouls
-                </li>
+                  </li>
 <li data-line="5">
 <div class="list-bullet"></div>She has her memory
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
 <div class="list-bullet"></div>She tells the players to get out of her room and won't fight immediately
-            </li>
+              </li>
 </ul>
 </div>
 <div>
@@ -227,7 +246,7 @@
 <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>Final Confrontation
-          </h2>
+            </h2>
 </div>
 <div>
 <ul class="has-list-bullet">
@@ -242,21 +261,21 @@
 </li>
 <li data-line="2">
 <div class="list-bullet"></div>They should feel like they fucked up either way
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="3">
 <div class="list-bullet"></div>The Dark Power from the final sacrifice made <a class="internal-link" data-href="Walter" href="../characters/walter.html" rel="noopener" target="_self">Walter</a> a monster after turning other cultists into ghouls
-            </li>
+              </li>
 <li data-line="4">
 <div class="list-bullet"></div>
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div><a class="internal-link" data-href="Walter" href="../characters/walter.html" rel="noopener" target="_self">Walter</a>'s corpse is inside of the summoned monster, crying and attached by ligaments
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="5">
 <div class="list-bullet"></div>Severing the ligaments will cause the monster to fall apart
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="6">
@@ -264,10 +283,10 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The baby's corpse is left if the monster dies
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="7">
 <div class="list-bullet"></div>they can put it in the tomb
-                </li>
+                  </li>
 </ul>
 </li>
 <li data-line="8">
@@ -275,21 +294,30 @@
 <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg class="svg-icon right-triangle" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
 <path d="M3 8L12 17L21 8"></path>
 </svg></div>The spirits around the outside of the room are Shadows and fight them if they try to leave
-              <ul class="has-list-bullet">
+                <ul class="has-list-bullet">
 <li data-line="9">
 <div class="list-bullet"></div>they can also phase through walls, blocking the characters
-                </li>
+                  </li>
 </ul>
 </li>
 </ul>
 </div>
-<div class="mod-footer">
-<div class="embedded-backlinks" style="display: none;"></div>
+<div class="mod-footer"></div>
 </div>
 </div>
 </div>
 <div class="sidebar-right" id="sidebar">
 <div class="sidebar-content">
+<h6 style="margin: 1em 1em 1em 12px;">Interactive Graph</h6>
+<div class="graph-view-placeholder">
+<div class="graph-view-container">
+<div aria-label="Expand" class="graph-icon graph-expand" data-tooltip-position="top" role="button"><svg class="svg-icon lucide-arrow-up-right" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<line x1="7" x2="17" y1="17" y2="7"></line>
+<polyline points="7 7 17 7 17 17"></polyline>
+</svg></div>
+<canvas height="512px" id="graph-canvas" width="512px"></canvas>
+</div>
+</div>
 <div class="outline-container" data-size="0">
 <div class="outline-header">
 <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon color="currentColor" height="18px" icon="ph:arrows-in-line-horizontal-bold" rotate="90deg" width="18px"></iconify-icon></button>
