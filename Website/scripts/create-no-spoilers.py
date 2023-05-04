@@ -17,7 +17,7 @@ def updateIndexFile(filename):
     print('Fixing no-spoilers index file')
     for a in soup.find_all('a'):
       if(not a['href'].startswith('http')):
-        a['href'] = '../..' + a['href']
+        a['href'] = '../../' + a['href']
 
     sessionAnchors = soup.find(id="Session_Notes").parent.nextSibling.find_all('a')
     for a in sessionAnchors:

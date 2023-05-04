@@ -9,7 +9,6 @@ s3Path="s3://tater-cos-site"
 cloudFrontId="EO6PCDBX74WRI"
 
 ./scripts/clean-notes.sh
-# python3 ./scripts/fix-broken-urls.py site/
 
 cp -r no-spoilers site/
 
