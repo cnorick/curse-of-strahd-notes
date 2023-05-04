@@ -17,5 +17,12 @@ with open(sys.argv[1], 'r+') as indexFile:
     # Make all session note links relative
     a['href'] = a['href'][1:]
 
+  cleanContent = str(soup)
+
 
 # shutil.copyfile
+
+def overwriteFile(file, content):
+  file.seek(0)
+  file.write(content)
+  file.truncate()
