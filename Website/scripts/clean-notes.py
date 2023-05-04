@@ -9,7 +9,8 @@ with open(sys.argv[1], 'r+') as my_file:
   # Make all non-absolute links relative to the root
   for a in soup.find_all('a'):
     if(not a['href'].startswith('http')):
-      a['href'] = '/' + a['href']
+      # a['href'] = '/' + a['href']
+      pass
 
   # Hide all the links in the session notes
   sessionNotes = soup.find(id="Session_1").find_parent(class_='block-language-dataviewjs')
