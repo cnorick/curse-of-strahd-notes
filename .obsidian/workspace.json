@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Cloak of Protection.md"
+                "file": "Campaign Notes.md"
               }
             }
           }
@@ -169,6 +169,7 @@
   },
   "active": "cc7c0a2e0efad740",
   "lastOpenFiles": [
+    "Handouts/Items/Cloak of Protection.md",
     "Website/scripts/create-no-spoilers.sh",
     "Website/scripts/clean-notes copy.sh",
     "Website/scripts/create-no-spoilers.py",
@@ -204,7 +205,6 @@
     "Website/site/no-spoilers/campaign-notes/scripts/graph_view.js",
     "Website/no-spoilers/campaign-notes/scripts/graph-render-worker.js",
     "Website/no-spoilers/campaign-notes/scripts/graph_wasm.wasm",
-    "Website/no-spoilers/campaign-notes/scripts/graph_view.js",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/ireena-kolyanna.jpg",
     "Website/site/assets/images/ismark.jpg",
