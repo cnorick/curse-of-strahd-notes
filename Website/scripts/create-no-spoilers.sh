@@ -1,5 +1,5 @@
 #!/bin/bash
-# Cleans links from the session notes
+# Creates the no-spoilers part of the site.
 
 cp site/campaign-notes.html no-spoilers/campaign-notes/index.html
 cp -r site/styles site/scripts no-spoilers/campaign-notes
