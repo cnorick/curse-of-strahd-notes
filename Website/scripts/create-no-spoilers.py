@@ -35,10 +35,9 @@ def updateSessionFiles(folder):
         print('Fixing URLs for: {}'.format(fname))
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
-          for a in soup.find_all('a'):
-            if(not a['href'].startswith('http')):
-              a.string.wrap(soup.new_tag('b'))
-              a.unwrap()
+          for a in soup.find_all('a', class_='internal-link'):
+            a.wrap(soup.new_tag('b'))
+            a.unwrap()
           overwriteFile(handle, soup)
 
 updateIndexFile(sys.argv[1])
