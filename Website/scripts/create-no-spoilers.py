@@ -36,8 +36,9 @@ def updateSessionFiles(folder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           for a in soup.find_all('a'):
             if(not a['href'].startswith('http')):
-              # Temp fix for html exporter bug
-              a['href'] = a['href'].replace('users/nathan/appdata/local/obsidian', '')
+              a.string.wrap(soup.new_tag('b'))
+              a.unwrap()
+          overwriteFile(handle, soup)
 
 updateIndexFile(sys.argv[1])
 updateSessionFiles(sys.argv[2])
