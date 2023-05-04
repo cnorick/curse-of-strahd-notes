@@ -16,6 +16,8 @@ dv.list(dv.pages('"Handouts/Letters"').sort(k => k.file.name).filter(k => k.publ
 dv.list(dv.pages('"Handouts/Maps"').sort(k => k.file.name).filter(k => k.public).file.link)
 ```
 
+`
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').file.link)
