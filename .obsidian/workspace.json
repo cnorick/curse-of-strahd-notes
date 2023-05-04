@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Walter.md",
-                "mode": "preview",
+                "file": "Handouts/Stat Blocks/Untitled.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Walter.md",
+                "file": "Handouts/Stat Blocks/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Walter.md",
+                "file": "Handouts/Stat Blocks/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Walter.md"
+                "file": "Handouts/Stat Blocks/Untitled.md"
               }
             }
           }
@@ -158,6 +158,10 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Handouts/Stat Blocks",
+    "Characters/Walter.md",
+    "Handouts/Stat Blocks/Untitled.md",
+    "Characters/Lancelot.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Locations/Village of Barovia (E).md",
     "Misc/The Morninglord.md",
@@ -187,10 +191,6 @@
     "Website/site/new-handouts.html",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
