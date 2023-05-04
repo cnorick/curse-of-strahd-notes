@@ -157,13 +157,13 @@ Contents:
 - At the funeral, it's just the players, [[Ismark Kolyanovich|Ismark]] and [[Donavich]]
 - [[Donavich]] offers prayers to [[The Morninglord]] in exchange for [[Kolyan Indirovich]]'s deliverance from Barovia
 >_Farewell, Illuminated one, until we meet again_
-_We carry the sun in our hearts until then_
-_Give us the strength to carry on_
-_Until the next dawn_
-_We greet your ally the Moonmaiden_
-_Her silver light guides us until then_
-_There is always another dawn_
-_Farewell, precious sun._
+>_We carry the sun in our hearts until then_
+>_Give us the strength to carry on_
+>_Until the next dawn_
+>_We greet your ally the Moonmaiden_
+>_Her silver light guides us until then_
+>_There is always another dawn_
+>_Farewell, precious sun._
   
 - Have everyone roll perception. Highest roll:
 	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
