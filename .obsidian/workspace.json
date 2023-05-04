@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9dee21b0ae3097b4",
+        "id": "035c32b6495499a6",
         "type": "tabs",
         "children": [
           {
-            "id": "9d6e7ffa960150d6",
+            "id": "cf7aabeecddb7c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Handouts.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "TODO.md"
               }
             }
           }
@@ -155,8 +155,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9d6e7ffa960150d6",
+  "active": "cf7aabeecddb7c72",
   "lastOpenFiles": [
+    "Index.md",
+    "Music Compiled.md",
+    "Campaign Notes.md",
+    "New Handouts.md",
     "Website/scripts/re-root-urls.py",
     "Website/site/no-spoilers/campaign-notes/new-handouts.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
@@ -170,7 +174,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -187,12 +190,9 @@
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
-    "Website/no-spoilers/campaign-notes/styles/plugin-styles.css",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/ireena-kolyanna.jpg",
     "Website/site/assets/images/ismark.jpg",
