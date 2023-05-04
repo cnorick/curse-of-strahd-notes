@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Mechanics of Dream Pastries.md"
               }
             }
           }
@@ -158,10 +158,10 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
-    "Misc/Mechanics of Dream Pastries.md",
     "Locations/Village of Barovia (E).md",
-    "Locations/Tser Pool Encampment (G).md",
     "Misc/The Morninglord.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Misc/Adventuring Gear.md",
     "Misc/Barovian Lore.md",
     "Misc/Card Reading.md",
