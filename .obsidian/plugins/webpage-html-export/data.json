@@ -15,7 +15,7 @@
   "includeVaultOutline": true,
   "exportPreset": "website",
   "customLineWidth": "",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "keepNestedFolderStructure": false,
   "graphAttractionForce": 50,
   "graphLinkLength": 10,
