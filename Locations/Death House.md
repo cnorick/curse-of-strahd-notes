@@ -68,4 +68,4 @@
 >
 >Then another flash. [[Elizabeth Durst|Mrs. Durst]], looks sorrowfully at herself in the mirror. You can hear [[Margaret]]'s screams in the distance as she's giving birth. "Where has your youth gone?", she whispers to her reflection. "If only you were younger. Maybe then, his eyes wouldn't betray his contempt when he looks at you."
 >
->We then see [[Elizabeth Durst|Mrs. Durst]] in the library furiously reading and 
+>We then see [[Elizabeth Durst|Mrs. Durst]] in the library, furiously and restlessly reading. Just reading. She turns pages as if
