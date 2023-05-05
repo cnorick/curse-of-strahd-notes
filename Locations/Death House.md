@@ -64,7 +64,7 @@
 >
 >Flash forward, and you see [[Margaret]] in the kitchen, preparing the children's meals. She giggles as [[Gustav Durst|Mr. Durst]] jokes with her. [[Elizabeth Durst|Elizabeth]] scowls behind a coffee cup in the corner of the room.
 >
->Another flash, and you see [[Margaret]] on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding [[Margaret]]'s hand. Then, you see [[Margaret]] holding a newly-born baby [[Walter]]. She whispers to him, "You look just like your father", as she breaks into quiet sobs.
+>Another flash, and you see [[Margaret]] on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding her hand. Then, you see [[Margaret]] holding a newly-born baby [[Walter]]. She whispers to him, "You look just like your father", as she breaks into quiet sobs.
 >
 >Then another flash. [[Elizabeth Durst|Mrs. Durst]], looks sorrowfully at herself in the mirror. You can hear [[Margaret]]'s screams in the distance as she's giving birth. "Where has your youth gone?", she whispers to her reflection. "If only you were younger. Maybe then, his eyes wouldn't betray his contempt when he looks at you."
 >
