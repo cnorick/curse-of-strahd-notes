@@ -57,4 +57,4 @@
 	- they can also phase through walls, blocking the characters
 
 ## Laying the Family to Rest
-- Once they defeat the monster, 
+- Once they defeat the monster, they'll be able to take the corpses ([[Walter]], [[Rosevalda|Rose]], [[Thornboldt|Thorn]], and [[Margaret]]) and lay them to rest
