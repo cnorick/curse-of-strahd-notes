@@ -78,4 +78,6 @@
 >
 >Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stands a spectral [[Rosevalda|Rose]] holding a sleeping baby [[Walter]]. By her side, [[Thornboldt|Thorn]] cradles his doll, for the first time unfearful. And behind [[Rosevalda|Rose]] stands a young, transparent [[Margaret]], her hand on [[Rosevalda|Rose]]'s shoulder.
 >
->[[Rosevalda|Rose]] looks up at you and says "Thank you for saving or baby brother". [[Margaret]] raises her hand in a 
+>[[Rosevalda|Rose]] looks up at you and says "Thank you for saving or baby brother". [[Margaret]] raises her hand in a grateful wave, as the group fades from your site.
+>
+>You now find yourselves in the Main Hall of the house.
