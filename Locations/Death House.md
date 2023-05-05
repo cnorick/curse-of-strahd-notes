@@ -76,8 +76,8 @@
 >
 >A black cloud engulfs the room. The cultists try to run, but they're swallowed up. [[Elizabeth Durst|Mrs. Durst]] falls to her knees, trembling. The [[Dark Powers]] have given to her the un-aging body she so desired, but she can't help but consider its cost as the inevitable full corruption of her mind is realized.
 >
->Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stands a spectral [[Rosevalda|Rose]] holding a sleeping baby [[Walter]]. By her side, [[Thornboldt|Thorn]] cradles his doll, and for the first time, seems unfearful. Behind [[Rosevalda|Rose]] stands a young, transparent [[Margaret]], her hand on [[Rosevalda|Rose]]'s shoulder.
+>Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stands a spectral [[Rosevalda|Rose]] holding a sleeping baby [[Walter]]. By her side, [[Thornboldt|Thorn]] cradles his doll, and for the first time, seems unfearful. Behind [[Rosevalda|Rose]] stands a young, transparent [[Margaret]], her hand rested on [[Rosevalda|Rose]]'s shoulder.
 >
->[[Rosevalda|Rose]] looks up at you and says "Thank you for saving or baby brother". [[Margaret]] raises her hand in a grateful wave, as the group fades from your site.
+>[[Rosevalda|Rose]] looks up at you and says "Thank you for saving or baby brother". [[Margaret]] raises her hand in a grateful wave, as the group fades from your sight.
 >
 >You now find yourselves in the Main Hall of the house.
