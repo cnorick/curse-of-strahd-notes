@@ -64,4 +64,4 @@
 >
 >Flash forward, and you see [[Margaret]] in the kitchen, preparing the children's meals. She giggles as [[Gustav Durst|Mr. Durst]] jokes with her. [[Elizabeth Durst|Elizabeth]] scowls behind a coffee cup in the corner of the room.
 >
->Flash
+>Another flash, and you see [[Margaret]] on her bed, in labor.
