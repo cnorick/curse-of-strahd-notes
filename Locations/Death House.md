@@ -52,9 +52,9 @@
 - [[Walter]]'s corpse is inside of the summoned monster, crying and attached by ligaments
 	- Severing the ligaments will cause the monster to fall apart
 - The baby's corpse is left if the monster dies
-	- they can put it in the tomb
 - The spirits around the outside of the room are Shadows and fight them if they try to leave
 	- they can also phase through walls, blocking the characters
 
 ## Laying the Family to Rest
-- Once they defeat the monster, they'll be able to take the corpses ([[Walter]], [[Rosevalda|Rose]], [[Thornboldt|Thorn]], and [[Margaret]]) and lay them to rest
+- Once they defeat the monster, they'll be able to take the corpses ([[Walter]], [[Rosevalda|Rose]], [[Thornboldt|Thorn]], and [[Margaret]]) and lay them to rest.
+- The 
