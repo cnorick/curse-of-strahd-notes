@@ -61,4 +61,4 @@
 - Once all the bones they collected (doesn't matter if they get all of them) have been laid to rest, give them inspiration
 >You're all suddenly struck by a vision. You see [[Rosevalda|Rose]] and [[Thornboldt|Thorn]] playing in their room. They're alive. The house is clean, well-kept. A young woman walks in. She must be no older than 25, and she's incredibly pretty. You recognize her. It's [[Margaret]]. She's carrying a play tea set -- although, you can't tell its a play set; it seems incredibly expensive. The children cheer as she sits in the floor with them for a tea party.
 >
->Flash forward, and you see [[Gustav Durst]]
+>Flash forward, and you see [[Margaret]] in the kitchen, preparing the children's meals. She giggles as [[Gustav Durst|Mr. Durst]] jokes with her. [[a
