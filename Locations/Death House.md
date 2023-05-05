@@ -68,4 +68,4 @@
 >
 >Then another flash. [[Elizabeth Durst|Mrs. Durst]], looks sorrowfully at herself in the mirror. You can hear [[Margaret]]'s screams in the distance as she's giving birth. "Where has your youth gone?", she whispers to her reflection. "If only you were younger. Maybe then, his eyes wouldn't betray his contempt when he looks at you."
 >
->We then see [[Elizabeth Durst|Mrs. Durst]] in the library, furiously and restlessly reading. Just reading. As she sits one book down to pick up another, and you can see the title. You actually recognize it. It's one of the books you saw in the secret room behind the bookshelf. It's a book
+>We then see [[Elizabeth Durst|Mrs. Durst]] in the library, furiously and restlessly reading. Just reading. She sits one book down to pick up another. You actually recognize it. It's one of the books you saw in the secret room behind the bookshelf. It's a book of dark magic. She flips to a page that has been bookmarked
