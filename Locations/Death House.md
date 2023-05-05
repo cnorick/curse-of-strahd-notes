@@ -72,4 +72,4 @@
 >
 >Flash. [[Margaret]] is wailing. She's begging. "Please. Please. Mrs. Durst. Not Walter. Anything but Walter. Take me. Mrs. Durst. Take me!"
 >
->Now, in the middle altar, surrounded by what's left of her dwindling cult, [[Gustav Durst|Mr. Durst]] 
+>Now, in the middle altar, surrounded by what's left of her dwindling cult, [[Gustav Durst|Mr. Durst]] nowhere to be found. She lays [[Walter]] on the 
