@@ -71,3 +71,5 @@
 >We then see [[Elizabeth Durst|Mrs. Durst]] in the library, furiously and restlessly reading. Just reading. She sits one book down to pick up another. You actually recognize it. It's one of the books you saw in the secret room behind the bookshelf. It's a book of dark magic. She flips to a page that has been bookmarked. The heading reads, "The Path to Immortality".
 >
 >Flash. [[Margaret]] is wailing. She's begging. "Please. Please. Mrs. Durst. Not Walter. Anything but Walter. Take me. Mrs. Durst. Take me!"
+>
+>Now, in the middle altar, surrounded by what's left of her sympathisers 
