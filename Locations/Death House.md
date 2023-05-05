@@ -59,4 +59,4 @@
 - Once they defeat the monster, they'll be able to take the corpses ([[Walter]], [[Rosevalda|Rose]], [[Thornboldt|Thorn]], and [[Margaret]]) and lay them to rest
 - The tomb where they found the little coffin now magically has a coffin, and the stone has [[Margaret]]'s name on it
 - Once all the bones they collected (doesn't matter if they get all of them) have been laid to rest, give them inspiration
->You're all suddenly struck by a vision. You see [[Rosevalda|Rose]] and [[Thornboldt|Thorn]] 
+>You're all suddenly struck by a vision. You see [[Rosevalda|Rose]] and [[Thornboldt|Thorn]] playing in their room. They're alive. The house is
