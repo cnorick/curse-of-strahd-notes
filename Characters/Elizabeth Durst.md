@@ -1,3 +1,6 @@
+---
+aliases: ['Elizabeth', 'Mrs. Durst']
+---
 (CE Ghast)
 ## Playing Elizabeth Durst
 - She can speak unlike the other Ghouls encountered so far
