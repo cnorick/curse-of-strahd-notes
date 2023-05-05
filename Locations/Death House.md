@@ -66,4 +66,4 @@
 >
 >Another flash, and you see [[Margaret]] on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding [[Margaret]]'s hand. Then, you see [[Margaret]] holding a newly-born baby [[Walter]]. She whispers to him, "You look just like your father", as she breaks into quiet sobs.
 >
->Then another flash. [[Elizabeth Durst|Mrs. Durst]], looks sorrowfully at herself in the mirror. 
+>Then another flash. [[Elizabeth Durst|Mrs. Durst]], looks sorrowfully at herself in the mirror. You can hear [[Margaret]]'s screams in the distance as she's giving birth. "Where has your youth gone?",
