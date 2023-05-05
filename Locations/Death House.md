@@ -76,4 +76,4 @@
 >
 >A black cloud engulfs the room. The cultists try to run, but they're swallowed up. [[Elizabeth Durst|Mrs. Durst]] falls to her knees, trembling. The [[Dark Powers]] have given her then un-aging body she so desired, but she can't help but consider the cost as her mind completes its total corruption.
 >
->Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stand a specrt
+>Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stands a spectral [[Rosevalda|Rose]] holding a sleeping baby [[Walter]]. By her side, [[Thornboldt|Thorn]] cradles his doll, unafraid for
