@@ -74,4 +74,4 @@
 >
 >Now, in the middle altar, surrounded by what's left of her dwindling cult, [[Gustav Durst|Mr. Durst]] nowhere to be found. She lays baby [[Walter]] on the dais. She says the required words. She pulls out a knife. She complete the ritual.
 >
->A black cloud engulfs the room. The cultists try to run, but they're swallowed up. [[Elizabeth Durst|Mrs. Durst]] falls to her knees, trembling. The [[Dark Powers]] have given her then un-aging body she so desired, b
+>A black cloud engulfs the room. The cultists try to run, but they're swallowed up. [[Elizabeth Durst|Mrs. Durst]] falls to her knees, trembling. The [[Dark Powers]] have given her then un-aging body she so desired, but she can't help but consider the cost as
