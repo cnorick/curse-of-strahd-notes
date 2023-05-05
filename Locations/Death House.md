@@ -55,3 +55,6 @@
 	- they can put it in the tomb
 - The spirits around the outside of the room are Shadows and fight them if they try to leave
 	- they can also phase through walls, blocking the characters
+
+## Laying the Family to Rest
+- Once they defeat the monster, 
