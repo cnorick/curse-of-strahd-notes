@@ -64,4 +64,6 @@
 >
 >Flash forward, and you see [[Margaret]] in the kitchen, preparing the children's meals. She giggles as [[Gustav Durst|Mr. Durst]] jokes with her. [[Elizabeth Durst|Elizabeth]] scowls behind a coffee cup in the corner of the room.
 >
->Another flash, and you see [[Margaret]] on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding [[Margaret]]'s hand. Then you see [[Margaret]] holding newly-born baby [[Walter]]. She whispers to him, "
+>Another flash, and you see [[Margaret]] on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding [[Margaret]]'s hand. Then, you see [[Margaret]] holding a newly-born baby [[Walter]]. She whispers to him, "You look just like your father", as she breaks into quiet sobs.
+>
+>Then you see
