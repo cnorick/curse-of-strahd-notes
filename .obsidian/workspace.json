@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -170,7 +170,9 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Mad Mary.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Ismark Kolyanovich.md",
     "Misc/Vistani.md",
     "Characters/Arik Lorensk.md",
     "Locations/Death House.md",
@@ -199,8 +201,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
