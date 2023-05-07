@@ -29,7 +29,9 @@ If you choose this option, you would just take over that NPCs character sheet. T
 This is the default option for this campaign and what I will assume you're doing until you say otherwise.
 
 You're now a ghost (not the ghost monster type, but you're spirit has just been separated from your body). Here's what that means:
+
 - You're invisible
 - You can't interact with the living world in any way
 	- The other players can't see or hear you at all, but you can see/hear them
+	- So after you read this, don't communicate with anyone at the table about the game at all; don't tell them what your ch
 - 
