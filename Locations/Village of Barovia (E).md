@@ -115,7 +115,7 @@
 >
 >Your surroundings blur, and you're delivered a camp next to a small lake that seems to be fed by a river. The camp contains 5 colorful, round tents, pitched outside four barrel-topped wagons. There's a larger tent on the shore of the lake. The camp is otherwise completely empty.
 >
->You find yourself psychically drawn towards the interior of the large tent. Without consciously doing so, you start walking towards it. In
+>You find yourself psychically drawn towards the interior of the large tent. Without consciously doing so, you start walking towards it. Inside, there's a woman
 >The dreamer is then psychically drawn to the interior of Madam Eva’s tent, where the seer sits, her face and form concealed by a dark purple cloak. Eva draws a card from the Tarokka deck atop the table - the Mists card. She informs the PC that the distance between them renders her Sight blurred and obscured, and invites the PC to join her at Tser Pool to learn what the future holds. The dream’s Madam Eva addresses each character by name, and each one recalls the experience vividly. When the party arrives at Tser Pool, Madam Eva does not acknowledge the dream, but does coyly suggest that she can see the strings of Fate that have born them to her door.
 
 ### Church (E5)
