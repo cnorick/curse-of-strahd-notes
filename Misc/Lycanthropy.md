@@ -1,20 +1,12 @@
 ## Overall Clarifications and Reminders
--   Damage Immunities
-    
+### Damage Immunities
+- Lycanthropes RAW are immune to nonmagical and non silvered damage. But, come on. A werewolf's skin isn't made of titanium. There's no a way a sword should just bounce off.
+- Instead, use some flavor and make it so that such wounds heal instantaneously. Essentially, yes, they're still immune, but this makes far more sense.
+- However, should an attack ever put them at negative full HP with a single hit, non magical or not, it's an instant kill. (If a werewolf's full HP is 58 and a single attack puts them at -58 I mean.) There'd be no time for the lycanthrope to heal, even instantly, from such a blow. This is just logical flavor I put in which you can take or leave as you will. :)
 
--   Lycanthropes RAW are immune to nonmagical and non silvered damage. But, come on. A werewolf's skin isn't made of titanium. There's no a way a sword should just bounce off.
-    
--   Instead, use some flavor and make it so that such wounds heal instantaneously. Essentially, yes, they're still immune, but this makes far more sense.
-    
--   However, should an attack ever put them at negative full HP with a single hit, non magical or not, it's an instant kill. (If a werewolf's full HP is 58 and a single attack puts them at -58 I mean.) There'd be no time for the lycanthrope to heal, even instantly, from such a blow. This is just logical flavor I put in which you can take or leave as you will. :)
-    
-
--   Inherited vs. Infected Lycanthropes in Barovia
-    
-
--   I'll go into this in more detail in the following sections, but I'd like to lay out who's who.
-    
--   Wereravens
+### Inherited vs. Infected Lycanthropes in Barovia
+- I'll go into this in more detail in the following sections, but I'd like to lay out who's who.
+- Wereravens
     
 
 -   Currently, all wereravens in Barovia are inherited lycanthropes. The Keepers of the Feather have been very careful with their ability and don't spread it willy nilly. Unless you'd like to come up with an original NPC that's an infected wereraven instead of natural born, they're all inherited lycanthropes.
