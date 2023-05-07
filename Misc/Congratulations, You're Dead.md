@@ -21,4 +21,5 @@ As you can probably already tell, Barovia is a strange place with a few rules th
 ## 3. Play as an NPC
 There are a handful of NPCs in this campaign that would work well as PCs. Depending on where we are in the campaign, you may be able to pick one up. Let me know if you're interested in doing this, and I'll tell you if there's an NPC that you could play
 
-If you choose this option, you would just take over that NPCs character sheet. This may require some heavy role-playing as many of the NPCs
+If you choose this option, you would just take over that NPCs character sheet. This may require some serious dedication to roleplaying the character as their backstory and motivations may be important drivers for the narrative.
+
