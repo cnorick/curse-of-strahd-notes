@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4b07bf51615d698c",
+        "id": "6bac4c0596f5c3a0",
         "type": "tabs",
         "children": [
           {
-            "id": "9dc8e5b1ef81759d",
+            "id": "eaa2817ade03676f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Ismark.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Ismark.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Ismark.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Images/Ismark.jpg"
-              }
+              "state": {}
             }
           }
         ]
@@ -154,8 +148,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9dc8e5b1ef81759d",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Assets/Images/mad mary.jpeg",
+    "Assets/Images/mad mary.png",
+    "Assets/Images/mad mary.jpeg.crdownload",
+    "Assets/Images/Ismark.jpg",
+    "Assets/Images/Ismark.jpg.crdownload",
     "Assets/Images/Doru.png",
     "Assets/Images/Doru.jpeg",
     "Music Compiled.md",
@@ -170,15 +169,10 @@
     "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/no-spoilers/campaign-notes/scripts",
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
-    "Website/site/no-spoilers/campaign-notes/styles/plugin-styles.css",
-    "Website/site/no-spoilers/campaign-notes/styles/theme.css",
     "Website/site/assets/images/arik-the-barkeep-v2.webp",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/ireena-kolyanna.jpg",
-    "Website/site/assets/images/ismark.jpg",
-    "Website/site/assets/images/parriwimple.jpg",
-    "Website/site/assets/images/mad-mary.png",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
