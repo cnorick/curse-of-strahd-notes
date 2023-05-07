@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Doru.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Characters/Doru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Characters/Doru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Donavich.md"
+                "file": "Characters/Doru.md"
               }
             }
           }
@@ -181,9 +180,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "01d85e381aa4e928",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
+    "Characters/Donavich.md",
     "Locations/Castle Ravenloft (K).md",
     "Characters/Ireena Kolyana.md",
     "Characters/Mad Mary.md",
@@ -213,7 +213,6 @@
     "Website/site/misc/music-compiled.html",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
