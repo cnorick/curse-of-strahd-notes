@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md"
+                "file": "Index.md"
               }
             }
           }
@@ -174,36 +174,73 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "563af37b5b9a717d",
+  "floating": {
+    "id": "f52b9e739cf35dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c2a3027a26f644c1",
+        "type": "window",
+        "children": [
+          {
+            "id": "1591e7df67cb0a31",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e2baf3a3d4c26a17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 900,
+        "height": 450,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e2baf3a3d4c26a17",
   "lastOpenFiles": [
-    "Misc/Congratulations, You're Dead.md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
     "Misc/If Players Die.md",
-    "Locations/Krezk (S).md",
-    "Characters/The Abbott.md",
-    "Characters/Jeny Greenteeth.md",
-    "Handouts/Maps/Barovia.md",
+    "Misc/Guest as Granny.md",
+    "Misc/Card Reading.md",
+    "Misc/Vistani.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Misc/The Morninglord.md",
+    "Misc/Map of Barovia.md",
+    "Misc/Congratulations, You're Dead.md",
+    "Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "TODO.md",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Tome of Strahd.md",
+    "Handouts/Letters/Strahd's Invitation.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
     "Website/site/assets/images/strahd.jpeg",
     "Website/site/assets/images/barovia_tagged.jpg",
     "Website/site/misc/map-of-barovia.html",
