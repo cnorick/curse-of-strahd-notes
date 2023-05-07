@@ -28,6 +28,8 @@
 
 #### Meeting [[Ismark Kolyanovich|Ismark]]
 - He invites the PCs to join him and offers to pay for their wine
+- He recognizes [[Lancelot]] if he's still with the group
+- He's impressed if the party tells him about [[Death House]]
 - [[Strahd Von Zarovich|Strahd]] has been coming for [[Ireena Kolyana|Ireena]] (see [[Strahd Von Zarovich#Turn Ireena Kolyana|Turn Ireena Kolyana]])
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]

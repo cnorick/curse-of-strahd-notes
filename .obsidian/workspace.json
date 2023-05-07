@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arik Lorensk.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Arik Lorensk.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Bildrath Cantemir.md",
     "Misc/Barovian Lore.md",
@@ -195,7 +196,6 @@
     "Characters/Mad Mary.md",
     "Characters/Ismark Kolyanovich.md",
     "Misc/Vistani.md",
-    "Characters/Arik Lorensk.md",
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
     "Index.md",
