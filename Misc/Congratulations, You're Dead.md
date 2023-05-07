@@ -44,4 +44,5 @@ You've gained the ability to possess other characters (Can be NPCs or PCs). When
 	- You both roll unskilled charisma. If your check is higher, you succeed. If it's the same or lower, nothing happens
 - On success:
 	- You gain full control of the character's body
-	- You keep your own mental stats/abilities (
+	- You keep your own mental stats/abilities (intelligence, wisdom, charisma)
+	- You get the possessed creature's physical stats( strength, dex, con)
