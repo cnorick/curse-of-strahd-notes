@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76fdbb37ece07f5c",
+        "id": "4b07bf51615d698c",
         "type": "tabs",
         "children": [
           {
-            "id": "c130d6b09aaa35ac",
+            "id": "9dc8e5b1ef81759d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Music Compiled.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/Ismark.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Assets/Images/Ismark.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Assets/Images/Ismark.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Compiled.md"
+                "file": "Assets/Images/Ismark.jpg"
               }
             }
           }
@@ -156,8 +154,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c130d6b09aaa35ac",
+  "active": "9dc8e5b1ef81759d",
   "lastOpenFiles": [
+    "Assets/Images/Doru.png",
+    "Assets/Images/Doru.jpeg",
+    "Music Compiled.md",
+    "Assets/Images/Doru.jpeg.crdownload",
+    "Assets/Images/donavich.jpeg",
+    "Assets/Images/donavich.jpeg.crdownload",
+    "Assets/Images/Bildrath.jpg.crdownload",
     "Assets/Images/alenka.png",
     "Assets/Images/alenka.png.crdownload",
     "Assets/Images/eva.jpeg",
@@ -167,9 +172,6 @@
     "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
     "Website/site/no-spoilers/campaign-notes/styles/plugin-styles.css",
     "Website/site/no-spoilers/campaign-notes/styles/theme.css",
-    "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
-    "Website/site/no-spoilers/campaign-notes/styles",
-    "Website/site/no-spoilers/campaign-notes/index.html",
     "Website/site/assets/images/arik-the-barkeep-v2.webp",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/death-house-front.jpg",
@@ -177,9 +179,6 @@
     "Website/site/assets/images/ismark.jpg",
     "Website/site/assets/images/parriwimple.jpg",
     "Website/site/assets/images/mad-mary.png",
-    "Website/site/assets/images/death-house-kids.png",
-    "Website/site/assets/images/doru.png",
-    "Website/site/assets/images/bildrath.jpg",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
@@ -203,7 +202,6 @@
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
