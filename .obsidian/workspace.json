@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md",
+                "file": "Handouts/Maps/Village of Barovia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md",
+                "file": "Handouts/Maps/Village of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md",
+                "file": "Handouts/Maps/Village of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md"
+                "file": "Handouts/Maps/Village of Barovia.md"
               }
             }
           }
@@ -158,8 +158,10 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Assets/Images/ravenloft_castle.jpeg",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Argynvost's Journal.md",
     "Handouts/Images/Ravenloft.md",
+    "Assets/Images/ravenloft_castle.jpeg",
     "Handouts/Images/Death House Front.md",
     "Handouts/Images/Portraits/Portrait of Donavich.md",
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
@@ -187,7 +189,6 @@
     "New Handouts.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
