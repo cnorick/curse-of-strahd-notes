@@ -206,7 +206,7 @@ Contents:
 	- If they haven't fought any in town, make sure they get some
  - Level up the characters when the rest next
  - Ismark offers to take care of [[Lancelot]] because:
- >The road is no place for a house-raised animal
+>The road is no place for a house-raised animal
 
 ## Events (p 48)
 ### Dream Pies ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
