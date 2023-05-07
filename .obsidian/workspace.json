@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Doru.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Doru.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -156,122 +156,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ec7aad6a4d356d3a",
-        "type": "window",
-        "children": [
-          {
-            "id": "cb351b61bf87061c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f62a5e8ba2dd1806",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Elizabeth Durst.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 586,
-        "y": 36,
-        "width": 600,
-        "height": 600,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "03e1338b47b8dfb2",
-        "type": "window",
-        "children": [
-          {
-            "id": "bdbd314523b9d698",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bf53dbce774f12d1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Doru.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bf53dbce774f12d1",
+  "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
-    "Characters/Gadof Blinsky.md",
-    "Locations/Death House.md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Castle Ravenloft.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Village of Barovia (E).md",
-    "Locations/Vallaki.md",
-    "Custom Monsters/Dog.md",
-    "Index.md",
-    "Misc/Adventuring Gear.md",
-    "Misc/Barovian Lore.md",
-    "Misc/If Players Die.md",
-    "Misc/Guest as Granny.md",
-    "Misc/Card Reading.md",
-    "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Misc/The Morninglord.md",
-    "Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "TODO.md",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
-    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
+    "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
+    "Website/site/no-spoilers/campaign-notes/scripts",
+    "Website/site/no-spoilers/campaign-notes/styles/snippets.css",
+    "Website/site/no-spoilers/campaign-notes/styles/plugin-styles.css",
+    "Website/site/no-spoilers/campaign-notes/styles/theme.css",
+    "Website/site/no-spoilers/campaign-notes/styles/obsidian-styles.css",
+    "Website/site/no-spoilers/campaign-notes/styles",
+    "Website/site/no-spoilers/campaign-notes/index.html",
+    "Website/site/no-spoilers/campaign-notes/new-handouts.html",
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-3.html",
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/arik-the-barkeep-v2.webp",
-    "Assets/Images/Arik the Barkeep V2.webp",
-    "Assets/Images/mad mary.png",
-    "Assets/Images/Parriwimple.jpg",
-    "Website/no-spoilers/campaign-notes/session-notes",
-    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
-    "Website/no-spoilers/campaign-notes/scripts",
-    "Website/no-spoilers/campaign-notes/styles/plugin-styles.css",
-    "Website/no-spoilers/campaign-notes/styles/obsidian-styles.css",
-    "Website/site/characters/gadof-blinsky.html",
-    "Website/site/locations/vallaki.html",
+    "Assets/Templates/Character.md",
     "Website/site/assets/images/death-house-front.jpg",
     "Website/site/assets/images/ireena-kolyanna.jpg",
     "Website/site/assets/images/ismark.jpg",
-    "Website/site/assets/images/mad-mary.png",
     "Website/site/assets/images/parriwimple.jpg",
+    "Website/site/assets/images/mad-mary.png",
+    "Website/site/assets/images/death-house-kids.png",
     "Website/site/assets/images/doru.png",
+    "Website/site/assets/images/bildrath.jpg",
+    "Website/site/assets/images/barovia.jpg",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
