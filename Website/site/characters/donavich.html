@@ -1,76 +1,473 @@
 <!DOCTYPE html>
-<html><head>
-			
-		<title>Donavich</title>
+<html>
 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-		<meta charset="UTF-8">
+<head>
 
-		<link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+  <title>Donavich</title>
 
-		<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-		<script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
-		<script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
-		<script src="https://pixijs.download/v7.2.4/pixi.js"></script>
-		
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8">
 
-			<link rel="stylesheet" href="../styles/obsidian-styles.css">
-			<link rel="stylesheet" href="../styles/plugin-styles.css">
-			<link rel="stylesheet" href="../styles/theme.css">
-			<link rel="stylesheet" href="../styles/snippets.css">
+  <link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
 
-			<style>  </style>
-			<style>  </style>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js" integrity="sha256-xLD7nhI62fcsEZK2/v8LsBcb4lG7dgULkuXoXB/j91c=" crossorigin="anonymous"></script>
+  <script src="https://code.iconify.design/iconify-icon/1.0.3/iconify-icon.min.js"></script>
+  <script src="https://pixijs.download/v7.2.4/pixi.js"></script>
 
-			
-		<script id="relative-paths">
-			let rootPath = "..";
-			let mediaPath = "../media";
-			let jsPath = "../scripts";
-			let cssPath = "../styles";
-		</script>
-		
-<script src="../scripts/webpage.js"></script>
 
-			</head><body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;"><div class="flex-container"><div id="sidebar" class="sidebar-left"><div class="sidebar-content"><div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle"><div class="toggle__fill"></div></label></div></div></div><div class="center-content"><div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;"><div><h1 id="Donavich"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Donavich</h1></div><div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="mod-header"></div><div><p>(LN male human acolyte)<br>
-<strong>Voice</strong>: Always seems to be kinda out of breath and almost crying</p></div><div><h2 data-heading="Playing Donavich" id="Playing_Donavich"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Playing Donavich</h2></div><div><ul class="has-list-bullet">
-<li data-line="0"><div class="list-bullet"></div>His voice is hoarse and weak from praying throughout the night</li>
-<li data-line="1"><div class="list-bullet"></div>He's basically driven himself insane and acts frantic</li>
-<li data-line="2"><div class="list-bullet"></div>He cannot be convinced to kill his son or advocate for it</li>
-<li data-line="3"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>He knows his son still within the monster
-<ul class="has-list-bullet">
-<li data-line="4"><div class="list-bullet"></div>and believes in his heart that <a data-href="The Morninglord" href="../misc/the-morninglord.html" class="internal-link" target="_self" rel="noopener">The Morninglord</a> will set <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> free</li>
-<li data-line="5"><div class="list-bullet"></div>what's left of his sanity relies on this belief; shattering that hope would destroy <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a></li>
-</ul>
-</li>
-<li data-line="6"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>PCs can offer to take a look at <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> and <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> will agree
-<ul class="has-list-bullet">
-<li data-line="7"><div class="list-bullet"></div>He warns the party that no harm can come to his son</li>
-</ul>
-</li>
-<li data-line="8"><div class="list-bullet"></div>If it seems like the PCs will kill <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a>, <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> will descend himself and fight them</li>
-</ul></div><div><h2 data-heading="History/Info" id="History/Info"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>History/Info</h2></div><div><ul class="has-list-bullet">
-<li data-line="0"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>A little over a year ago his son, <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a>, and several other villagers stormed <a data-href="Castle Ravenloft" href="../locations/castle-ravenloft.html" class="internal-link" target="_self" rel="noopener">Castle Ravenloft</a> in revolt
-<ul class="has-list-bullet">
-<li data-line="1"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>having been lured there by a wizard in black robes who came to Barovia from a faraway land
-<ul class="has-list-bullet">
-<li data-line="2"><div class="list-bullet"></div>{the <a data-tooltip-position="top" aria-label="Mad Mage of Mount Baratok" data-href="Mad Mage of Mount Baratok" href="mad-mage-of-mount-baratok.html" class="internal-link" target="_self" rel="noopener">Mad Mage</a>}</li>
-</ul>
-</li>
-</ul>
-</li>
-<li data-line="3"><div class="list-bullet"></div>By all accounts, the wizard died by <a data-tooltip-position="top" aria-label="Strahd Von Zarovich" data-href="Strahd Von Zarovich" href="strahd-von-zarovich.html" class="internal-link" target="_self" rel="noopener">Strahd</a>'s hand and so too did <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a></li>
-<li data-line="4"><div class="list-bullet"></div><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> returned to his father as a vampire spawn
-<ul class="has-list-bullet">
-<li data-line="5"><div class="list-bullet"></div><a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> trapped <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> in the <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Church (E5) > Trap Door and Undercroft" data-href="Village of Barovia (E)#Church (E5)#Trap Door and Undercroft" href="../locations/village-of-barovia-(e).html#Church_(E5)" class="internal-link" target="_self" rel="noopener">Church Undercroft</a> where he remains</li>
-</ul>
-</li>
-</ul></div><div><h2 data-heading="If [[Doru]] is Killed" id="If_Doru_is_Killed"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>If <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> is Killed</h2></div><div><ul class="has-list-bullet">
-<li data-line="0"><div class="list-bullet"></div>Donavich becomes withdrawn and inconsolable</li>
-<li data-line="1"><div class="list-bullet"></div>When the PCs leave the church, they can hear the church bell ring a single time</li>
-<li data-line="2"><div class="list-bullet"></div>If the party returns to the church, they find that Donavich has hanged himself from the bell's rope</li>
-</ul></div><div><h2 data-heading="What They Want" id="What_They_Want"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>What They Want</h2></div><div><ul class="has-list-bullet">
-<li data-line="0"><div class="list-bullet"></div>He wants his son back</li>
-</ul></div><div><h2 data-heading="What They Know" id="What_They_Know"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>What They Know</h2></div><div><p><a data-href="Barovian Lore" href="../misc/barovian-lore.html" class="internal-link" target="_self" rel="noopener">Barovian Lore</a></p></div><div><ul class="has-list-bullet">
-<li data-line="0"><div class="list-bullet"></div><a data-href="Ireena Kolyana" href="ireena-kolyana.html" class="internal-link" target="_self" rel="noopener">Ireena Kolyana</a> isn't the natural daughter of <a data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Kolyan Indirovich</a>. Although <a data-tooltip-position="top" aria-label="Ireena Kolyana" data-href="Ireena Kolyana" href="ireena-kolyana.html" class="internal-link" target="_self" rel="noopener">Ireena</a> never knew, <a data-tooltip-position="top" aria-label="Kolyan Indirovich" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Koylan</a> found her at the edge of the <a data-href="Svalich Woods" href="Svalich Woods" class="internal-link is-unresolved" target="_self" rel="noopener">Svalich Woods</a> near the <a data-href="Pillarstone of Ravenloft" href="Pillarstone of Ravenloft" class="internal-link is-unresolved" target="_self" rel="noopener">Pillarstone of Ravenloft</a>. She was but a girl then and seemed to have no memory of her past. <a data-tooltip-position="top" aria-label="Kolyan Indirovich" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Koylan</a> adopted her and loved her dearly</li>
-</ul></div><div><h2 data-heading="Relations" id="Relations"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Relations</h2></div><div><p>Son: <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a></p></div><div><h2 data-heading="Stat Block" id="Stat_Block"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div>Stat Block</h2></div><div class="statblock-plugin-parent"><div class="block-language-statblock statblock-plugin-container"><div class="container svelte-1vt02hf"></div></div></div><div class="mod-footer"></div></div></div></div><div id="sidebar" class="sidebar-right"><div class="sidebar-content"><div class="outline-container" data-size="0"><div class="outline-header"><h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button></div><div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Donavich"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Donavich</span></a><div class="outline-item-children"><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Playing_Donavich"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Playing Donavich</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#History/Info"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">History/Info</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#If_Doru_is_Killed"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">If Doru is Killed</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#What_They_Want"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">What They Want</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#What_They_Know"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">What They Know</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Relations"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Relations</span></a><div class="outline-item-children"></div></div><div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Stat_Block"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><span class="outline-item-title">Stat Block</span></a><div class="outline-item-children"></div></div></div></div></div></div></div></div></body></html>
+  <link rel="stylesheet" href="../styles/obsidian-styles.css">
+  <link rel="stylesheet" href="../styles/plugin-styles.css">
+  <link rel="stylesheet" href="../styles/theme.css">
+  <link rel="stylesheet" href="../styles/snippets.css">
+
+  <style> </style>
+  <style> </style>
+
+
+  <script id="relative-paths">
+    let rootPath = "..";
+    let mediaPath = "../media";
+    let jsPath = "../scripts";
+    let cssPath = "../styles";
+  </script>
+
+  <script src="../scripts/webpage.js"></script>
+
+</head>
+
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:16px; --line-width:50em; --line-width-adaptive:50em; --file-line-width:50em;">
+  <div class="flex-container">
+    <div id="sidebar" class="sidebar-left">
+      <div class="sidebar-content">
+        <div><label class="theme-toggle" for="theme_toggle"><input class="toggle__input" type="checkbox" id="theme_toggle">
+            <div class="toggle__fill"></div>
+          </label></div>
+      </div>
+    </div>
+    <div class="center-content">
+      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
+        <div>
+          <h1 id="Donavich">
+            <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                <path d="M3 8L12 17L21 8"></path>
+              </svg></div>Donavich
+          </h1>
+        </div>
+        <div class="markdown-preview-sizer markdown-preview-section" style="padding: unset; width: unset; height: unset; margin: unset; max-width: unset; min-height: unset;">
+          <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
+          <div class="mod-header"></div>
+          <div>
+            <p>(LN male human acolyte)<br>
+              <strong>Voice</strong>: Always seems to be kinda out of breath and almost crying
+            </p>
+          </div>
+          <div>
+            <h2 data-heading="Playing Donavich" id="Playing_Donavich">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Playing Donavich
+            </h2>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div>His voice is hoarse and weak from praying throughout the night
+              </li>
+              <li data-line="1">
+                <div class="list-bullet"></div>He's basically driven himself insane and acts frantic
+              </li>
+              <li data-line="2">
+                <div class="list-bullet"></div>He cannot be convinced to kill his son or advocate for it
+              </li>
+              <li data-line="3">
+                <div class="list-bullet"></div>
+                <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div>He knows his son still within the monster
+                <ul class="has-list-bullet">
+                  <li data-line="4">
+                    <div class="list-bullet"></div>and believes in his heart that <a data-href="The Morninglord" href="../misc/the-morninglord.html" class="internal-link" target="_self" rel="noopener">The Morninglord</a> will set <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> free
+                  </li>
+                  <li data-line="5">
+                    <div class="list-bullet"></div>what's left of his sanity relies on this belief; shattering that hope would destroy <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a>
+                  </li>
+                </ul>
+              </li>
+              <li data-line="6">
+                <div class="list-bullet"></div>
+                <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div>PCs can offer to take a look at <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> and <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> will agree
+                <ul class="has-list-bullet">
+                  <li data-line="7">
+                    <div class="list-bullet"></div>He warns the party that no harm can come to his son
+                  </li>
+                </ul>
+              </li>
+              <li data-line="8">
+                <div class="list-bullet"></div>If it seems like the PCs will kill <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a>, <a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> will descend himself and fight them
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 data-heading="History/Info" id="History/Info">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>History/Info
+            </h2>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div>
+                <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div>A little over a year ago his son, <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a>, and several other villagers stormed <a data-href="Castle Ravenloft" href="../locations/castle-ravenloft.html" class="internal-link" target="_self" rel="noopener">Castle Ravenloft</a> in revolt
+                <ul class="has-list-bullet">
+                  <li data-line="1">
+                    <div class="list-bullet"></div>
+                    <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                        <path d="M3 8L12 17L21 8"></path>
+                      </svg></div>having been lured there by a wizard in black robes who came to Barovia from a faraway land
+                    <ul class="has-list-bullet">
+                      <li data-line="2">
+                        <div class="list-bullet"></div>{the <a data-tooltip-position="top" aria-label="Mad Mage of Mount Baratok" data-href="Mad Mage of Mount Baratok" href="mad-mage-of-mount-baratok.html" class="internal-link" target="_self" rel="noopener">Mad Mage</a>}
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </li>
+              <li data-line="3">
+                <div class="list-bullet"></div>By all accounts, the wizard died by <a data-tooltip-position="top" aria-label="Strahd Von Zarovich" data-href="Strahd Von Zarovich" href="strahd-von-zarovich.html" class="internal-link" target="_self" rel="noopener">Strahd</a>'s hand and so too did <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a>
+              </li>
+              <li data-line="4">
+                <div class="list-bullet"></div>
+                <div class="list-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                    <path d="M3 8L12 17L21 8"></path>
+                  </svg></div><a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> returned to his father as a vampire spawn
+                <ul class="has-list-bullet">
+                  <li data-line="5">
+                    <div class="list-bullet"></div><a data-href="Donavich" href="donavich.html" class="internal-link" target="_self" rel="noopener">Donavich</a> trapped <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> in the <a data-tooltip-position="top" aria-label="Village of Barovia (E) > Church (E5) > Trap Door and Undercroft" data-href="Village of Barovia (E)#Church (E5)#Trap Door and Undercroft" href="../locations/village-of-barovia-(e).html#Church_(E5)" class="internal-link" target="_self" rel="noopener">Church Undercroft</a> where he remains
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 data-heading="If [[Doru]] is Killed" id="If_Doru_is_Killed">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>If <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a> is Killed
+            </h2>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div>Donavich becomes withdrawn and inconsolable
+              </li>
+              <li data-line="1">
+                <div class="list-bullet"></div>When the PCs leave the church, they can hear the church bell ring a single time
+              </li>
+              <li data-line="2">
+                <div class="list-bullet"></div>If the party returns to the church, they find that Donavich has hanged himself from the bell's rope
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 data-heading="What They Want" id="What_They_Want">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>What They Want
+            </h2>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div>He wants his son back
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 data-heading="What They Know" id="What_They_Know">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>What They Know
+            </h2>
+          </div>
+          <div>
+            <p><a data-href="Barovian Lore" href="../misc/barovian-lore.html" class="internal-link" target="_self" rel="noopener">Barovian Lore</a></p>
+          </div>
+          <div>
+            <ul class="has-list-bullet">
+              <li data-line="0">
+                <div class="list-bullet"></div><a data-href="Ireena Kolyana" href="ireena-kolyana.html" class="internal-link" target="_self" rel="noopener">Ireena Kolyana</a> isn't the natural daughter of <a data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Kolyan Indirovich</a>. Although <a data-tooltip-position="top" aria-label="Ireena Kolyana" data-href="Ireena Kolyana" href="ireena-kolyana.html" class="internal-link" target="_self" rel="noopener">Ireena</a> never knew, <a data-tooltip-position="top" aria-label="Kolyan Indirovich" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Koylan</a> found her at the edge of the <a data-href="Svalich Woods" href="Svalich Woods" class="internal-link is-unresolved" target="_self" rel="noopener">Svalich Woods</a> near the <a data-href="Pillarstone of Ravenloft" href="Pillarstone of Ravenloft" class="internal-link is-unresolved" target="_self" rel="noopener">Pillarstone of Ravenloft</a>. She was but a girl then and seemed to have no memory of her past. <a data-tooltip-position="top" aria-label="Kolyan Indirovich" data-href="Kolyan Indirovich" href="kolyan-indirovich.html" class="internal-link" target="_self" rel="noopener">Koylan</a> adopted her and loved her dearly
+              </li>
+            </ul>
+          </div>
+          <div>
+            <h2 data-heading="Relations" id="Relations">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Relations
+            </h2>
+          </div>
+          <div>
+            <p>Son: <a data-href="Doru" href="doru.html" class="internal-link" target="_self" rel="noopener">Doru</a></p>
+          </div>
+          <div>
+            <h2 data-heading="Stat Block" id="Stat_Block">
+              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div>Stat Block
+            </h2>
+          </div>
+          <div class="statblock-plugin-parent">
+            <div class="block-language-statblock statblock-plugin-container">
+              <div class="container svelte-1vt02hf">
+                <div class="acolyte basic-5e-layout-copy svelte-1vt02hf obsidian-statblock-plugin statblock">
+                  <div class="bar svelte-ilp5y8"></div>
+                  <div class="statblock-content-container" style="--statblock-column-width:400px;">
+                    <div class="statblock-content">
+                      <div class="column">
+                        <div class="statblock-item-container inline-container statblock-item-inline">
+                          <div class="statblock-inline-item group-container">
+                            <div class="statblock-item-container group-container ">
+                              <div class="statblock-item-container heading-container ">
+                                <div class="flex-container svelte-1hofvsi">
+                                  <h1 class="heading statblock-heading name svelte-1hofvsi" id="Acolyte_">
+                                    <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                                        <path d="M3 8L12 17L21 8"></path>
+                                      </svg></div>
+                                    <div class="statblock-rendered-text-content inline svelte-1lnliuc">Acolyte</div>
+                                  </h1>
+                                </div>
+                              </div>
+                              <div class="statblock-item-container subheading-container ">
+                                <div class="subheading svelte-1186gko">
+                                  <div class="statblock-rendered-text-content inline svelte-1lnliuc">Medium humanoid any race any alignment</div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="statblock-inline-item image-container"></div>
+                        </div>
+                        <div class="statblock-item-container rule-container">
+                          <div class="tapered-rule svelte-sujd32"></div>
+                        </div>
+                        <div class="statblock-item-container property-container ">
+                          <div class="line ac svelte-151kcqm"><span class="property-name svelte-151kcqm">Armor Class</span> <span class="property-text svelte-12rzfyk">
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">10</div>
+                            </span></div>
+                        </div>
+                        <div class="statblock-item-container property-container ">
+                          <div class="line hp svelte-151kcqm"><span class="property-name svelte-151kcqm">Hit Points</span> <span class="property-text svelte-12rzfyk">
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">9</div>
+                            </span></div>
+                        </div>
+                        <div class="statblock-item-container property-container ">
+                          <div class="line speed svelte-151kcqm"><span class="property-name svelte-151kcqm">Speed</span> <span class="property-text svelte-12rzfyk">
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">30 ft.</div>
+                            </span></div>
+                        </div>
+                        <div class="statblock-item-container rule-container">
+                          <div class="tapered-rule svelte-sujd32"></div>
+                        </div>
+                        <div class="statblock-item-container table-container ">
+                          <div class="table svelte-18uixe9">
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Str</span> <span>10 <span>(+0)</span></span> </div>
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Dex</span> <span>10 <span>(+0)</span></span> </div>
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Con</span> <span>10 <span>(+0)</span></span> </div>
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Int</span> <span>10 <span>(+0)</span></span> </div>
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Wis</span> <span>14 <span>(+2)</span></span> </div>
+                            <div class="table-item svelte-18uixe9"><span class="statblock-table-header svelte-18uixe9">Cha</span> <span>11 <span>(+0)</span></span> </div>
+                          </div>
+                        </div>
+                        <div class="statblock-item-container rule-container">
+                          <div class="tapered-rule svelte-sujd32"></div>
+                        </div>
+                        <div class="statblock-item-container saves-container ">
+                          <div class="info">
+                            <div class="line svelte-sgnocl"><span class="property-name svelte-sgnocl">Skills</span>
+                              <div class="property-text svelte-sgnocl"><span class="property-text svelte-12rzfyk">
+                                  <div class="statblock-rendered-text-content inline svelte-1lnliuc">Medicine +4, Religion +2</div>
+                                </span></div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="statblock-item-container property-container ">
+                          <div class="line senses svelte-151kcqm"><span class="property-name svelte-151kcqm">Senses</span> <span class="property-text svelte-12rzfyk">
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">passive Perception 12</div>
+                            </span></div>
+                        </div>
+                        <div class="statblock-item-container property-container ">
+                          <div class="line languages svelte-151kcqm"><span class="property-name svelte-151kcqm">Languages</span> <span class="property-text svelte-12rzfyk">
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">any one language (usually Common)</div>
+                            </span></div>
+                        </div>
+                        <div class="statblock-item-container inline-container statblock-item-inline">
+                          <div class="statblock-inline-item property-container">
+                            <div class="statblock-item-container property-container ">
+                              <div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Challenge</span> <span class="property-text svelte-12rzfyk">
+                                  <div class="statblock-rendered-text-content inline svelte-1lnliuc">1/4 (50 XP)</div>
+                                </span></div>
+                            </div>
+                          </div>
+                          <div class="statblock-inline-item property-container">
+                            <div class="statblock-item-container property-container ">
+                              <div class="line cr svelte-151kcqm"><span class="property-name svelte-151kcqm">Proficiency Bonus</span> <span class="property-text svelte-12rzfyk">
+                                  <div class="statblock-rendered-text-content inline svelte-1lnliuc">+2</div>
+                                </span></div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="statblock-item-container rule-container">
+                          <div class="tapered-rule svelte-sujd32"></div>
+                        </div>
+                        <div class="property spellcasting spells svelte-1ufqbz1">
+                          <div class="property-name svelte-1ufqbz1">
+                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">Spellcasting</div>
+                          </div> <span class="property-text svelte-12rzfyk">
+                            <div class="statblock-rendered-text-content inline svelte-1lnliuc">The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:</div>
+                          </span>
+                        </div>
+                        <ul class="spell-item svelte-5m4k7u">
+                          <li class="spell-line"><span class="spell-level"><span class="property-text svelte-12rzfyk">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">Cantrips (at will):</div>
+                              </span></span> <span class="spells svelte-5m4k7u"><span class="property-text svelte-12rzfyk">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">light, sacred flame, thaumaturgy</div>
+                              </span></span></li>
+                        </ul>
+                        <ul class="spell-item svelte-5m4k7u">
+                          <li class="spell-line"><span class="spell-level"><span class="property-text svelte-12rzfyk">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">1st level (3 slots):</div>
+                              </span></span> <span class="spells svelte-5m4k7u"><span class="property-text svelte-12rzfyk">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">bless, cure wounds, sanctuary</div>
+                              </span></span></li>
+                        </ul>
+                        <div class="statblock-item-container traits-container ">
+                          <div class="statblock-section-heading">
+                            <h3 class="section-header actions svelte-1x5mdf" id="Actions">
+                              <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                                  <path d="M3 8L12 17L21 8"></path>
+                                </svg></div>
+                              <div class="statblock-rendered-text-content inline svelte-1lnliuc">Actions</div>
+                            </h3>
+                          </div>
+                          <div class="statblock-item-container statblock-trait-prop">
+                            <div class="property club actions svelte-1ufqbz1">
+                              <div class="property-name svelte-1ufqbz1">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">Club</div>
+                              </div> <span class="property-text svelte-12rzfyk">
+                                <div class="statblock-rendered-text-content inline svelte-1lnliuc">Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.</div>
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="bar svelte-ilp5y8"></div>
+                </div>
+                <div class="icons svelte-1vt02hf">
+                  <div class="clickable-icon setting-editor-extra-setting-button"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-more-vertical">
+                      <circle cx="12" cy="12" r="1"></circle>
+                      <circle cx="12" cy="5" r="1"></circle>
+                      <circle cx="12" cy="19" r="1"></circle>
+                    </svg></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <div class="block-language-dataviewjs node-insert-event"></div>
+          </div>
+          <div class="mod-footer"></div>
+        </div>
+      </div>
+    </div>
+    <div id="sidebar" class="sidebar-right">
+      <div class="sidebar-content">
+        <div class="outline-container" data-size="0">
+          <div class="outline-header">
+            <h6 style="margin: 1em 1em 1em 0px;">Table of Contents</h6><button class="clickable-icon collapse-all"><iconify-icon icon="ph:arrows-in-line-horizontal-bold" width="18px" height="18px" rotate="90deg" color="currentColor"></iconify-icon></button>
+          </div>
+          <div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Donavich">
+              <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div><span class="outline-item-title">Donavich</span>
+            </a>
+            <div class="outline-item-children">
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Playing_Donavich">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Playing Donavich</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#History/Info">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">History/Info</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#If_Doru_is_Killed">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">If Doru is Killed</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#What_They_Want">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">What They Want</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#What_They_Know">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">What They Know</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Relations">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Relations</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+              <div class="outline-item" data-size="2"><a class="outline-item-contents internal-link" href="#Stat_Block">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Stat Block</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+            </div>
+          </div>
+          <div class="outline-item" data-size="1"><a class="outline-item-contents internal-link" href="#Acolyte_">
+              <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                  <path d="M3 8L12 17L21 8"></path>
+                </svg></div><span class="outline-item-title">Acolyte </span>
+            </a>
+            <div class="outline-item-children">
+              <div class="outline-item" data-size="3"><a class="outline-item-contents internal-link" href="#Actions">
+                  <div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
+                      <path d="M3 8L12 17L21 8"></path>
+                    </svg></div><span class="outline-item-title">Actions</span>
+                </a>
+                <div class="outline-item-children"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
