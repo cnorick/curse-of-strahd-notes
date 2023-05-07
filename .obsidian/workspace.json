@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/If Players Die.md"
+                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md"
               }
             }
           }
@@ -158,6 +158,9 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+    "Misc/If Players Die.md",
     "Misc/Guest as Granny.md",
     "Misc/Card Reading.md",
     "Misc/Barovian Lore.md",
@@ -168,7 +171,6 @@
     "TODO.md",
     "Handouts/Items/Cultist Logbook.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "New Handouts.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
@@ -182,8 +184,6 @@
     "Characters/Strahd Von Zarovich.md",
     "Characters/Shalooti.md",
     "Characters/Rosevalda.md",
-    "Characters/Rictavio.md",
-    "Characters/Pelanil.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
