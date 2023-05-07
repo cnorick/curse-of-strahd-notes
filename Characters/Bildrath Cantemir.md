@@ -1,5 +1,5 @@
 (LN male human commoner)
-![[Assets/Images/Bildrath.jpg]]
+![[Assets/Images/Bildrath.jpg|300]]
 ## Playing Bildrath Cantemir
 - Serves his own interests and offers no sanctuary
 - "If you want it badly enough, you'll pay for it"
