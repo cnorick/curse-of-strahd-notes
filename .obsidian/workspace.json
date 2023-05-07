@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Templates/Character.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f62a5e8ba2dd1806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Elizabeth Durst.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27cdf2db66d0c661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Gustav Durst.md",
+                "file": "Characters/Anakir.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Characters/Anakir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Characters/Anakir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Character.md"
+                "file": "Characters/Anakir.md"
               }
             }
           }
@@ -180,10 +156,49 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
+  "floating": {
+    "id": "f52b9e739cf35dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ec7aad6a4d356d3a",
+        "type": "window",
+        "children": [
+          {
+            "id": "cb351b61bf87061c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f62a5e8ba2dd1806",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Elizabeth Durst.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 586,
+        "y": 36,
+        "width": 600,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
-    "Characters/Anakir.md",
     "Assets/Templates/Character.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Anakir.md",
     "Characters/Bildrath Cantemir.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
@@ -198,7 +213,6 @@
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
     "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
     "Characters/Gertruda.md",
     "Characters/Mad Mage of Mount Baratok.md",
