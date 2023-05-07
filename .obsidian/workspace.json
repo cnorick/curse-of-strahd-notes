@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md"
+                "file": "Characters/Arik Lorensk.md"
               }
             }
           }
@@ -171,11 +171,12 @@
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
-    "Misc/Adventuring Gear.md",
     "Locations/Death House.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Parriwimple.md",
+    "Misc/Adventuring Gear.md",
     "Index.md",
     "Misc/Mechanics of Dream Pastries.md",
-    "Characters/Bildrath Cantemir.md",
     "Misc/Vistani.md",
     "Characters/King Barov.md",
     "Characters/Queen Ravenovia.md",
@@ -200,7 +201,6 @@
     "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
