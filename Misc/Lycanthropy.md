@@ -114,41 +114,21 @@
  
 ### Belladonna Root Treatment
 - I'm borrowing this idea straight from guildsbounty. In their post, they suggest that Belladonna (a highly poisonous real world herb) can be used as a preemptive measure to stop lycanthropy before a victim's first change. I've modified this slightly so that it can be used to sort of "kill off" the curse within any individual.
+
 #### The Mechanics of consuming Belladonna Root
-    
+- Takes 10 minutes to show effects
+- Has a bitter taste and a peculiar musky smell, making it hard to mask in foods and such.
+- After consumption, the target must succeed on a DC 13 Constitution saving throw or their strength score is reduced by 1d4.
+- After another 10 minutes, the target makes an additional DC 13 Con save. On a fail, their Strength score is reduced by 2d4 or half as much on a success.
+- This Strength reduction lasts until the target completes a long rest.
+- If Strength is reduced to 0, the target becomes paralyzed and begins dying and must roll death saving throws. Other PCs and NPCs cannot help stabilize the individual.
+- If the target succeeds on their death saves and is stabilized, they remain bedridden for the period of a long rest, after which they wake with 1 HP and a Strength score of 1. An additional long rest will restore both HP and Strength scores completely.
+- Antitoxin can stop the progression of Belladonna completely, including stabilization during the death saves. However, using Antitoxin will also completely interrupt killing off lycanthropy, leaving the curse intact.
 
--   Takes 10 minutes to show effects
-    
--   Has a bitter taste and a peculiar musky smell, making it hard to mask in foods and such.
-    
--   After consumption, the target must succeed on a DC 13 Constitution saving throw or their strength score is reduced by 1d4.
-    
--   After another 10 minutes, the target makes an additional DC 13 Con save. On a fail, their Strength score is reduced by 2d4 or half as much on a success.
-    
--   This Strength reduction lasts until the target completes a long rest.
-    
--   If Strength is reduced to 0, the target becomes paralyzed and begins dying and must roll death saving throws. Other PCs and NPCs cannot help stabilize the individual.
-    
--   If the target succeeds on their death saves and is stabilized, they remain bedridden for the period of a long rest, after which they wake with 1 HP and a Strength score of 1. An additional long rest will restore both HP and Strength scores completely.
-    
--   Antitoxin can stop the progression of Belladonna completely, including stabilization during the death saves. However, using Antitoxin will also completely interrupt killing off lycanthropy, leaving the curse intact.
-    
-
--   If an infected character is given Belladonna Root while in were-from and survives the effects, they'll be rid of their lycanthropy. This method does not work on inherited lycanthropes.
-    
--   Belladonna root is extremely hard to come by. However, the following individuals may either have the poison or know where to find some:
-    
-
--   Van Richten - If he doesn't have the root on his person, he may have some in his tower.
-    
--   Kasimir and the Dusk Elves - The elves know the woods pretty well, so it's not impossible they know where to find some Belladonna.
-    
--   Baba Lysaga - She's a creepy nature-y looking witch. She's probably got some root.
-    
--   Strahd and/or Rahadin - Strahd's got everything up in his castle. Let's face it.
-    
--   The Mad Mage - Dude's been living in the woods for years. He's got to know where to find it.
-    
-
-  
-**
+- If an infected character is given Belladonna Root while in were-from and survives the effects, they'll be rid of their lycanthropy. This method does not work on inherited lycanthropes.
+- Belladonna root is extremely hard to come by. However, the following individuals may either have the poison or know where to find some:
+	- Van Richten - If he doesn't have the root on his person, he may have some in his tower.
+	- Kasimir and the Dusk Elves - The elves know the woods pretty well, so it's not impossible they know where to find some Belladonna.
+	- Baba Lysaga - She's a creepy nature-y looking witch. She's probably got some root.
+	- Strahd and/or Rahadin - Strahd's got everything up in his castle. Let's face it.
+	- The Mad Mage - Dude's been living in the woods for years. He's got to know where to find it.
