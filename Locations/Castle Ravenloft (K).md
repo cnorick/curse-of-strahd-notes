@@ -1,4 +1,4 @@
 ---
 aliases: [Ravenloft, Castle Ravenloft]
 ---
-![[Ravenloft|.]]
+![[Assets/Images/ravenloft_castle.jpeg| 200]]
