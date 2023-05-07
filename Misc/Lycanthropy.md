@@ -22,30 +22,21 @@
 - Inherited lycanthropes are more like a species than a curse. It's something that lives in a creature's DNA and is passed down from parent to child. If one parent is an inherited lycanthrope and another is humanoid, there's a 50/50 chance the offspring will be a shape changer.
 	- As a bit of extra lore, I've made it so that inherited lycanthropy is actually given as a blessing from great nature gods/magical beings. In CoS's case, these are the Fanes of Barovia. The Fanes are a trio of extraordinarily powerful archfey directly attached to the land who laid claim over the Valley before Strahd's arrival. Long before Strahd, the Fanes gifted certain faithful individuals with lycanthropy so that they may be closer to nature.
 	- While inherited lycanthropy was originally a blessing from the Fanes, infected lycanthropy is a curse. This curse was set upon those who desecrated the land or otherwise severely offended the archfey.
+ 
 ### The Circumstances of Shape Changing
-	- Inherited lycanthropes can change forms at will and retain their full personality and mind when in their altered states. The only time when this is not the case is on the night of a full moon, in which all inherited lycanthropes are forced to change into their were-form and loose control for an evening, following their animalistic instincts. However, even then they aren't nearly as violent as infected lycanthropes and can recognize friends and family.
-	- Inherited lycanthropes undergo their first change at a very young age, usually around four or five years old. With enough practice and focus, they can gain full control of their change in a few short years. However, their transformed state is age appropriate. A young werewolf will change into a puppy version of a wolf while still an adolescent, for instance.
-	- Because their change is a blessing, inherited lycanthropes experience minimal pain during their shifts.
+- Inherited lycanthropes can change forms at will and retain their full personality and mind when in their altered states. The only time when this is not the case is on the night of a full moon, in which all inherited lycanthropes are forced to change into their were-form and loose control for an evening, following their animalistic instincts. However, even then they aren't nearly as violent as infected lycanthropes and can recognize friends and family.
+- Inherited lycanthropes undergo their first change at a very young age, usually around four or five years old. With enough practice and focus, they can gain full control of their change in a few short years. However, their transformed state is age appropriate. A young werewolf will change into a puppy version of a wolf while still an adolescent, for instance.
+- Because their change is a blessing, inherited lycanthropes experience minimal pain during their shifts.
+
 ### Creating More Inherited Lycanthropes
-    
+- So, what if someone marries into the family like Dankia Martikov? If they weren't a lycanthrope at first, how do they become a true part of the family without ending up an out of control monster?
+	- I home-brewed a sort of ritual that inherited lycanthropes can perform to create another inherited lycanthrope. Over the course of a year, on each full moon, a humanoid must accept the blood of a transformed lycanthrope, willingly given. Throughout the year, the humanoid will end up in various states of sickness and fever as a result.
+	- On the last full moon, upon accepting the blood the humanoid will undergo their first transformation as an inherited lycanthrope. If the humanoid misses a full moon and doesn't get the blood, their fever becomes much worse and the individual usually dies within a couple weeks.
+- For example:
+	- Upon deciding to join the family, Danika was locked in a room with Urwin during his transformation on the night of the full moon. Though he didn't retain his mind, Urwin was still able to recognize his feelings for Danika and remained mostly tame in her presence. Danika then made a cut on her arm and a cut on Urwin with a silvered dagger and pressed the wounds together, mixing blood. Danika did this every full moon for a year, going through the waves of sickness, before finally transforming.
+	- This is obviously a tedious and risky procedure. If the transformed lycanthrope gets spooked, they might easily lash out and accidentally kill the humanoid. If something happens and they accidentally miss a session, the humanoid will grow sick and die. Inherited lycanthropes don't usually pass on their blessing unless they are absolutely sure of the individual they've chosen.
 
--   So, what if someone marries into the family like Dankia Martikov? If they weren't a lycanthrope at first, how do they become a true part of the family without ending up an out of control monster?
-    
-
--   I home-brewed a sort of ritual that inherited lycanthropes can perform to create another inherited lycanthrope. Over the course of a year, on each full moon, a humanoid must accept the blood of a transformed lycanthrope, willingly given. Throughout the year, the humanoid will end up in various states of sickness and fever as a result.
-    
--   On the last full moon, upon accepting the blood the humanoid will undergo their first transformation as an inherited lycanthrope. If the humanoid misses a full moon and doesn't get the blood, their fever becomes much worse and the individual usually dies within a couple weeks.
-    
-
--   For example:
-    
-
--   Upon deciding to join the family, Danika was locked in a room with Urwin during his transformation on the night of the full moon. Though he didn't retain his mind, Urwin was still able to recognize his feelings for Danika and remained mostly tame in her presence. Danika then made a cut on her arm and a cut on Urwin with a silvered dagger and pressed the wounds together, mixing blood. Danika did this every full moon for a year, going through the waves of sickness, before finally transforming.
-    
--   This is obviously a tedious and risky procedure. If the transformed lycanthrope gets spooked, they might easily lash out and accidentally kill the humanoid. If something happens and they accidentally miss a session, the humanoid will grow sick and die. Inherited lycanthropes don't usually pass on their blessing unless they are absolutely sure of the individual they've chosen.
-    
-
--   Creating Cursed/Infected Lycanthropes
+### Creating Cursed/Infected Lycanthropes
     
 
 -   Inherited lycanthropes can also pass on cursed lycanthropy is they choose. This acts in the same mechanical vein as a Vistana's curse. With a bite attack, on a hit, an inherited lycanthrope can choose to try and curse the target, invoking the con save. This only activates if the target has done the lycanthrope a great wrong.
