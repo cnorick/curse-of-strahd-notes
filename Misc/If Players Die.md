@@ -6,6 +6,9 @@
 	- [[Ireena Kolyana]] will follow the group for a long time
 4. Make them a ghost, and give the party a chance to revive them
 
+## Resurrection
+- Resurrection is possible in Barovia by the [[Abbott
+
 ## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.
 - Ireena is the object of Strahd's desires; a reincarnation of his lost love that he can never obtain. That is literally Ireena's only function in the narrative of this campaign. Everything else about her is just fluff and character development.
