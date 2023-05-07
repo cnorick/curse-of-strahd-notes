@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Music Compiled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Ireena Kolyana.md",
+    "Campaign Notes.md",
     "Characters/Gustav Durst.md",
     "Characters/Gertruda.md",
     "Assets/Images/strahd.jpeg",
@@ -174,7 +176,6 @@
     "Assets/Images/emil_toranescu.jpeg.crdownload",
     "Assets/Images/cypress_belview.jpeg",
     "Assets/Images/cypress_belview.jpeg.crdownload",
-    "Characters/Ireena Kolyana.md",
     "Characters/Gadof Blinsky.md",
     "Characters/Elora.md",
     "Characters/Elizabeth Durst.md",
@@ -195,7 +196,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Mad Mage of Mount Baratok.md",
