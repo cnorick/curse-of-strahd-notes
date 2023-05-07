@@ -10,5 +10,9 @@
   "spellcheck": true,
   "alwaysUpdateLinks": true,
   "autoPairBrackets": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "/",
+  "userIgnoreFilters": [
+    "Website/"
+  ]
 }
