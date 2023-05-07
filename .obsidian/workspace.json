@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Handouts/Maps/Barovia.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Handouts/Maps/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Handouts/Maps/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Handouts/Maps/Barovia.md"
               }
             }
           }
@@ -158,9 +158,11 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Handouts/Maps/Village of Barovia.md",
+    "Handouts/Maps/Barovia.md",
     "Misc/Map of Barovia.md",
-    "Assets/Images/barovia_tagged.jpg",
     "Index.md",
+    "Assets/Images/barovia_tagged.jpg",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia_tagged.jpg.crdownload",
     "Assets/Images/barovia_village_tagged.jpg",
@@ -168,7 +170,6 @@
     "Assets/Images/barovia_untagged.tif",
     "Assets/Images/BAROVIA_(UNTAGGED).tif",
     "Assets/Images/death-house-kids.png",
-    "Handouts/Maps/Village of Barovia.md",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Argynvost's Journal.md",
     "Handouts/Images/Ravenloft.md",
