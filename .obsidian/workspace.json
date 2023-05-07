@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Misc/Guest as Granny.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Adventuring Gear.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Adventuring Gear.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           }
@@ -158,11 +158,14 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
+    "Misc/Barovian Lore.md",
+    "Misc/Adventuring Gear.md",
+    "Handouts/Items/Cloak of Protection.md",
     "Handouts/Maps/Village of Barovia.md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
     "Handouts/Items/Cultist Logbook.md",
-    "Handouts/Items/Cloak of Protection.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "New Handouts.md",
@@ -181,15 +184,12 @@
     "Characters/Rictavio.md",
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
-    "Characters/Morgantha.md",
-    "Misc/Guest as Granny.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
     "Website/site/assets/images/gertruda.jpeg",
     "Website/site/website/site/assets/images/mad-mary.png",
     "Website/site/assets/images/eva.jpeg",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/granny.jpeg",
     "Website/site/website/site/assets/images/doru.png",
     "Website/site/website/site/assets/images",
