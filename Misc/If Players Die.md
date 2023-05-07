@@ -10,7 +10,8 @@
 - Resurrection is possible in Barovia by the [[Abbott]] in [[Krezk]].
 	- Native Barovians drop hints that the Abbott is a power man of [[The Morninglord]] known for creating miracles
 	- There is a rumor he brought back a young boy from the grave
-- Much more secretly, [[Jeny Greenteeth]] and [[Madam Eva]] can resuurect the dead
+- Much more secretly, [[Jeny Greenteeth]] and [[Madam Eva]] can resurrect the dead
+	- Neither will do so lightly
 
 ## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.

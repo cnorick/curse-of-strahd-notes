@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee4524dd85c48956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Krezk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Locations/Krezk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Locations/Krezk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/If Players Die.md"
+                "file": "Locations/Krezk.md"
               }
             }
           }
@@ -156,8 +169,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Misc/If Players Die.md",
+    "Locations/Krezk.md",
+    "Characters/Jeny Greenteeth.md",
     "Handouts/Maps/Barovia.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
@@ -183,9 +199,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Website/site/assets/images/strahd.jpeg",
     "Website/site/assets/images/barovia_tagged.jpg",
     "Website/site/misc/map-of-barovia.html",
