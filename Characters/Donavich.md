@@ -1,4 +1,5 @@
 (LN male human acolyte)
+[[
 **Voice**: Always seems to be kinda out of breath and almost crying
 
 ## Playing Donavich

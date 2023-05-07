@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bac4c0596f5c3a0",
+        "id": "98581d3871c6d182",
         "type": "tabs",
         "children": [
           {
-            "id": "eaa2817ade03676f",
+            "id": "ad0558792a14f5ea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Donavich.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Donavich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Donavich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Donavich.md"
+              }
             }
           }
         ]
@@ -148,12 +156,18 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Bardolf.md",
+    "Characters/Arik Lorensk.md",
+    "Assets/Images/Arik the Barkeep V2.webp",
+    "Assets/Images/alenka.png",
+    "Assets/Images/mad mary.png",
+    "Assets/Images/morgantha.webp",
+    "Assets/Images/morgantha.webp.crdownload",
     "Assets/Images/granny.jpeg",
     "Assets/Images/granny.jpeg.crdownload",
     "Assets/Images/mad mary.jpeg",
-    "Assets/Images/mad mary.png",
     "Assets/Images/mad mary.jpeg.crdownload",
     "Assets/Images/Ismark.jpg",
     "Assets/Images/Ismark.jpg.crdownload",
@@ -164,15 +178,10 @@
     "Assets/Images/donavich.jpeg",
     "Assets/Images/donavich.jpeg.crdownload",
     "Assets/Images/Bildrath.jpg.crdownload",
-    "Assets/Images/alenka.png",
     "Assets/Images/alenka.png.crdownload",
-    "Assets/Images/eva.jpeg",
     "Assets/Images/eva.jpeg.crdownload",
     "Website/site/no-spoilers/campaign-notes/scripts/webpage.js",
-    "Website/site/no-spoilers/campaign-notes/scripts",
-    "Website/site/assets/images/arik-the-barkeep-v2.webp",
     "Assets/Templates/Character.md",
-    "Website/site/assets/images/death-house-front.jpg",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
@@ -180,8 +189,6 @@
     "Campaign/Session 4.md",
     "Campaign Notes.md",
     "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Donavich.md",
     "Characters/Elizabeth Durst.md",
