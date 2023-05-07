@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Death House.md",
+                "file": "Characters/Lancelot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Death House.md"
+                "file": "Characters/Lancelot.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
-    "Characters/Elizabeth Durst.md",
     "Locations/Death House.md",
+    "Characters/Elizabeth Durst.md",
     "Characters/Gustav Durst.md",
     "Campaign Notes.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
