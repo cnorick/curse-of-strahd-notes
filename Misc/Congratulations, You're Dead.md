@@ -49,4 +49,5 @@ You've gained the ability to possess other characters (Can be NPCs or PCs). When
 - It lasts up to 3 hours
 	- You may voluntarily end possession at any time
 - You have to take a short rest before you can attempt again
-- If you attempt to possess the same creature again, it has advantage on the charism
+- If you attempt to possess the same creature again, it has advantage on the charisma contest
+- You automatically succeed if the creature willingly lets you possess them
