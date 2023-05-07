@@ -37,8 +37,10 @@ You're now a ghost (not the ghost monster type, but you're spirit has just been 
 - You can't move too far from your physical body (I'll tell you when you're too far)
 
 ### Possession:
-You've gained the ability to possess other characters. When you'd like to try to possess someone, just say to me: "I'm going to roll charisma against \<character\>" and nothing else
-- To pos
+You've gained the ability to possess other characters. When you'd like to try to possess someone, just say to me: "I'm going to roll charisma against \<character\>" and nothing else.
+
+- To be possessible, a creature must be intelligent (i.e. have the aptitude for language. No animals)
 - To possess, you must enter a charisma contest with the possess-ee
 	- You both roll unskilled charisma. If your check is higher, you succeed. If it's the same or lower, nothing happens
-- 
+- On success:
+	- you gain full control o
