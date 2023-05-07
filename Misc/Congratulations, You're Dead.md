@@ -28,4 +28,5 @@ If you choose this option, you would just take over that NPCs character sheet. T
 ## 4. Hope the Party Revives You
 This is the default option for this campaign and what I will assume you're doing until you say otherwise.
 
-You're now a ghost (not the monster type, but)
+You're now a ghost (not the ghost monster type, but you're spirit has just been separated from your body). Here's what that means:
+- 
