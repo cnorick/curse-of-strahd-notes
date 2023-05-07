@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Assets/Templates/Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Assets/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Assets/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md"
+                "file": "Assets/Templates/Character.md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Bildrath Cantemir.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
@@ -196,7 +197,6 @@
     "Characters/Anakir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
     "Characters/Donavich.md",
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",

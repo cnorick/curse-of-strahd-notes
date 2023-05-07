@@ -1,3 +1,7 @@
+---
+aliases: []
+image: 
+---
 (NE human)
 ## Playing <% tp.file.title %>
 
