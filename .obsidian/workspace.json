@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Items/Cultist Logbook.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Items/Cultist Logbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Items/Cultist Logbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md"
+                "file": "Handouts/Items/Cultist Logbook.md"
               }
             }
           }
@@ -158,8 +158,9 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Handouts/Items/Cloak of Protection.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "New Handouts.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
@@ -195,7 +196,6 @@
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg",

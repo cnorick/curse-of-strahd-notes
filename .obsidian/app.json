@@ -13,6 +13,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "/",
   "userIgnoreFilters": [
-    "Website/"
+    "Website/",
+    "Website/site/assets/images/"
   ]
 }
