@@ -12,7 +12,7 @@
 - Anyone who attempts to leave the land of Barovia begins to choke on the fog
 	- Those who don't turn back perish
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long
-- Wolves, dire wolves, and werewolves prowls the [[Svalich Woods]], and hungry bats fill the skies at night
+- Wolves, dire wolves, and werewolves prowls the [[Svalich Woods (C)]], and hungry bats fill the skies at night
 - The [[Village of Barovia (E)]] sits at the east end of the valley
 	- Its burgomaster is named [[Kolyan Indirovich]]
 - The fortified village of [[Krezk (S)]] lies at the west endo f the valley and is built around an old abbey

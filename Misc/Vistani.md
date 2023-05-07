@@ -38,7 +38,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - There's an old windmill ([[Old Bonegrinder]]) on the road between the [[Village of Barovia (E)]] and  the town of [[Vallaki]]
 	- It should be avoided at all costs! (They refuse to say more)
 - It is wise to stick to the road
-	- Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods]]
+	- Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods (C)]]
 
 ### Beliefs and Superstitions
 - The souls of those who die in Barovia can't escape to the afterlife
