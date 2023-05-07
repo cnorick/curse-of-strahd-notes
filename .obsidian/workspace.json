@@ -11,9 +11,11 @@
             "id": "ad0558792a14f5ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/barovia_village_untagged.jpg"
+                "file": "Handouts/Maps/Barovia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/barovia_village_untagged.jpg",
+                "file": "Handouts/Maps/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/barovia_village_untagged.jpg",
+                "file": "Handouts/Maps/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/barovia_village_untagged.jpg"
+                "file": "Handouts/Maps/Barovia.md"
               }
             }
           }
@@ -154,11 +156,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Assets/Images/barovia_tagged.jpg",
-    "Handouts/Maps/Barovia.md",
     "Handouts/Maps/Village of Barovia.md",
+    "Handouts/Maps/Barovia.md",
+    "Assets/Images/barovia_village_untagged.jpg",
+    "Assets/Images/barovia_tagged.jpg",
     "Misc/Map of Barovia.md",
     "Index.md",
     "Assets/Images/death-house-front.jpg",
@@ -196,7 +199,6 @@
     "TODO.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Website/site/assets/images/donavich.jpeg",
     "Website/site/website/site/assets/images",
     "Website/site/website/site/assets",
     "Website/site/website/site",
