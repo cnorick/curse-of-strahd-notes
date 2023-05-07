@@ -36,7 +36,9 @@
 - Every day the PC remains dead, the radius of the mist wall shrinks by 30 ft.
 - While a ghost, a PC has **1d8+2** days to be resurrected into their own body. After that, their body becomes too decayed to properly sustain life
 - The PC has 10 days (until the mist wall shrinks completely) to be resurrected at all, possibly into another body
-- This can be a constructed creature without a soul, like Vasilka, or a soulless Barovian. The Abbot, Jeny Greenteeth, and Madam Eva are the only ones capable of tying a soul to a new vessel. Once the mist wall closes and consumes the PC ghost, they are officially and irrevocably dead and have to roll a new character.
+	- This can be a constructed creature without a soul, like Vasilka, or a soulless Barovian
+	- The Abbot, Jeny Greenteeth, and Madam Eva are the only ones capable of tying a soul to a new vessel
+	- Once the mist wall closes and consumes the PC ghost, they are officially and irrevocably dead and have to roll a new character.
 
 ## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.

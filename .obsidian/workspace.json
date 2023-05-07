@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abdc2c6574d16a34",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "563af37b5b9a717d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Congratulations, You're Dead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/If Players Die.md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/If Players Die.md"
+                "file": "Misc/Congratulations, You're Dead.md"
               }
             }
           }
@@ -156,11 +177,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "active": "563af37b5b9a717d",
   "lastOpenFiles": [
+    "Misc/Congratulations, You're Dead.md",
+    "Misc/If Players Die.md",
     "Locations/Krezk (S).md",
     "Characters/The Abbott.md",
-    "Misc/If Players Die.md",
     "Characters/Jeny Greenteeth.md",
     "Handouts/Maps/Barovia.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
@@ -185,7 +207,6 @@
     "Characters/Kolyan Indirovich.md",
     "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
     "Website/site/assets/images/strahd.jpeg",
     "Website/site/assets/images/barovia_tagged.jpg",
     "Website/site/misc/map-of-barovia.html",
