@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gertruda.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gertruda.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gertruda.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gertruda.md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Gustav Durst.md",
+    "Characters/Gertruda.md",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg",
@@ -172,9 +174,7 @@
     "Assets/Images/emil_toranescu.jpeg.crdownload",
     "Assets/Images/cypress_belview.jpeg",
     "Assets/Images/cypress_belview.jpeg.crdownload",
-    "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
-    "Characters/Gertruda.md",
     "Characters/Gadof Blinsky.md",
     "Characters/Elora.md",
     "Characters/Elizabeth Durst.md",
@@ -185,7 +185,6 @@
     "Assets/Images/Arik the Barkeep V2.webp",
     "Assets/Images/alenka.png",
     "Assets/Images/mad mary.png",
-    "Assets/Images/morgantha.webp",
     "Assets/Images/morgantha.webp.crdownload",
     "Assets/Images/granny.jpeg.crdownload",
     "Assets/Images/mad mary.jpeg.crdownload",

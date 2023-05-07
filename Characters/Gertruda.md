@@ -1,4 +1,5 @@
 (NE human)
+![[gertruda.jpeg|200]]
 ## Playing Gertruda
 - She's a teenager
 - {She's actually at [[Castle Ravenloft|Ravenloft]] with [[Strahd Von Zarovich|Strahd]]}

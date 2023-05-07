@@ -1,6 +1,7 @@
 ---
 alias: Ireena
 ---
+![[Ireena Kolyanna.jpg|200]]
 (LG female human noble)
 ## Playing Ireena Kolyana
 - a striking young woman with auburn hair
