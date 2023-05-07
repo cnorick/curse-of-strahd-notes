@@ -4,7 +4,7 @@ In the mean time, read over this page, but don't tell the other players what you
 
 Full character death is never any fun in a D&D campaign, so to soften the blow, I want to give you a few options. Read all these over, and take some time to consider what you'd like to do. Preferably, don't decide until the end of this session, and let me know what you'd like before the start of the next one so I can work it in narratively.
 
-After reading these over, skip to [[#4. Hope the Party Revives You]]. This is the default for the short term (at least the rest of this session). While you think 
+After reading these over, skip to [[#4. Hope the Party Revives You]]. This is the default for the short term (at least the rest of this session). While you think about what you'd like to do in the long-term, read that section so that you can continue playing for this session.
 
 ## 1. Make a New Character from Scratch
 This is really kinda the default for DnD. Your old character has completely died, and will never come back. Your new character is a completely different person with different traits, difference experiences, and a different background. We'll come up with a reason why this person runs into the party, and they'll join up and follow around the rest of the crew.
@@ -28,4 +28,4 @@ If you choose this option, you would just take over that NPCs character sheet. T
 ## 4. Hope the Party Revives You
 This is the default option for this campaign and what I will assume you're doing until you say otherwise.
 
-You
+You're now a ghost (not the monster type, but)
