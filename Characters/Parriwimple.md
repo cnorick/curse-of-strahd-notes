@@ -2,6 +2,7 @@
 alias: Parpol Cantemir
 ---
 (LG male human)
+![[Assets/Images/Parriwimple.jpg|200]]
 ## Playing Parriwimple
 - His real name is Parpol Cantemir, but no one calls him that
 - His muscles ripple beneath his leather tunic

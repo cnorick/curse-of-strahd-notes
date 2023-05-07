@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           }
@@ -158,6 +158,13 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Shalooti.md",
+    "Characters/Rosevalda.md",
+    "Characters/Rictavio.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Morgantha.md",
+    "Misc/Guest as Granny.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
@@ -189,12 +196,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg",
@@ -203,7 +204,6 @@
     "Assets/Images/rahadin.jpeg.crdownload",
     "Assets/Images/gertruda.jpeg",
     "Assets/Images/gertruda.jpeg.crdownload",
-    "Assets/Images/escher.jpeg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
