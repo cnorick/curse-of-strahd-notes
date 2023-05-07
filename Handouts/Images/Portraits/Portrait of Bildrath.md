@@ -1,5 +1,5 @@
 ---
 public: false
-protected: true
+new_handout: true
 ---
 ![[Bildrath.jpg]]

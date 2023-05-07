@@ -1,6 +1,6 @@
 ---
 public: false
-protected: true
+new_handout: true
 ---
 
 ![[Parriwimple.jpg]]
