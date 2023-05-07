@@ -24,7 +24,6 @@ dv.list(dv.pages('"Characters"').filter(k => k.pc).sort(k => k.file.name).file.l
 dv.list(dv.pages('"Handouts"').sort(k => k.file.name).file.link)
 ```
 ## Miscellaneous
-- [[Music Compiled]]
 ```dataviewjs
 	dv.list(dv.pages('"Misc"').filter(k => k.file.include_in_index != false).sort(k => k.file.name).file.link)
 ```
