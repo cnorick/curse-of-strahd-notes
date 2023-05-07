@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Characters/Ismark Kolyanovich.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
+    "Misc/Vistani.md",
     "Characters/Arik Lorensk.md",
     "Locations/Death House.md",
     "Characters/Bildrath Cantemir.md",
@@ -178,7 +179,6 @@
     "Misc/Adventuring Gear.md",
     "Index.md",
     "Misc/Mechanics of Dream Pastries.md",
-    "Misc/Vistani.md",
     "Characters/King Barov.md",
     "Characters/Queen Ravenovia.md",
     "Locations/Old Bonegrinder (O).md",
