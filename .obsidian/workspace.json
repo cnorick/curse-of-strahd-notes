@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Misc/Mechanics of Dream Pastries.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Doru.md",
     "Characters/Donavich.md",
@@ -196,7 +197,6 @@
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
     "Index.md",
-    "Misc/Mechanics of Dream Pastries.md",
     "Characters/King Barov.md",
     "Characters/Queen Ravenovia.md",
     "Locations/Old Bonegrinder (O).md",
