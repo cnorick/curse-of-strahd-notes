@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Anakir.md",
+                "file": "Assets/Templates/Character.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Anakir.md",
+                "file": "Assets/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Anakir.md",
+                "file": "Assets/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Anakir.md"
+                "file": "Assets/Templates/Character.md"
               }
             }
           }
@@ -195,10 +195,11 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Anakir.md",
     "Assets/Templates/Character.md",
+    "undefined.md",
     "Characters/Gustav Durst.md",
     "Characters/Elizabeth Durst.md",
-    "Characters/Anakir.md",
     "Characters/Bildrath Cantemir.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
@@ -224,7 +225,6 @@
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
     "Website/no-spoilers/campaign-notes/styles/plugin-styles.css",

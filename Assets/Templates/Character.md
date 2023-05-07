@@ -3,7 +3,7 @@ aliases: []
 image: Bildrath.jpg
 ---
 (NE human)
-![[<%tp.frontmatter.image%>]]
+![[<% tp.frontmatter["image"]%>]]
 ## Playing <% tp.file.title %>
 
 ## History/Info
