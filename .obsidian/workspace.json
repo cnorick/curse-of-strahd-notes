@@ -18,15 +18,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "abdc2c6574d16a34",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
+          }
+        ]
+      },
+      {
+        "id": "07bc5424e802e24a",
+        "type": "tabs",
+        "children": [
           {
             "id": "563af37b5b9a717d",
             "type": "leaf",
@@ -39,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
