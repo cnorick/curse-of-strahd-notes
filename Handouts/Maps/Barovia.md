@@ -3,4 +3,5 @@ public: false
 new_handout: false
 ---
 
-![[barovia_untagged.tif]]
+![[
+![[barovia_untagged.webp]]
