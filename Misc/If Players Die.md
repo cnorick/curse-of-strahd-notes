@@ -7,7 +7,9 @@
 4. Make them a ghost, and give the party a chance to revive them
 
 ## Resurrection
-- Resurrection is possible in Barovia by the [[Abbott
+- Resurrection is possible in Barovia by the [[Abbot]] in [[Krezk]].
+	- Native Barovians drop hints that the Abbot is a
+- 
 
 ## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.
