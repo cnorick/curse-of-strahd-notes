@@ -109,7 +109,6 @@
 	- They might hear footsteps encircling the house at night, then leaving
 	- Players that ate pie can't be woken until morning
 
-- Work in this vision somewhere: #todo 
 >If the PCs spend the night in Barovia, each of them experiences an identical dream. In that dream, the PC finds themselves standing at the River Ivlis crossroads, where a raven beckons them toward Tser Pool. Their surroundings blur, delivering them to Tser Pool, where the PC finds the Vistani encampment empty. The dreamer is then psychically drawn to the interior of Madam Eva’s tent, where the seer sits, her face and form concealed by a dark purple cloak. Eva draws a card from the Tarokka deck atop the table - the Mists card. She informs the PC that the distance between them renders her Sight blurred and obscured, and invites the PC to join her at Tser Pool to learn what the future holds. The dream’s Madam Eva addresses each character by name, and each one recalls the experience vividly. When the party arrives at Tser Pool, Madam Eva does not acknowledge the dream, but does coyly suggest that she can see the strings of Fate that have born them to her door.
 
 ### Church (E5)
