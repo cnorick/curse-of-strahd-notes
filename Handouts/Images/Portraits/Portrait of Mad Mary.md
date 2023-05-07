@@ -3,4 +3,4 @@ public: false
 protected: true
 ---
 
-![[mad mary.png]]
+![[mad mary.jpeg]]
