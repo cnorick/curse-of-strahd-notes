@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Vistani.md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Characters/Madam Eva.md",
     "Locations/Village of Barovia (E).md",
     "Locations/Death House.md",
+    "Characters/Madam Eva.md",
     "Death House.md",
     "Characters/Lancelot.md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
