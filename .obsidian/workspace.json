@@ -11,9 +11,11 @@
             "id": "ad0558792a14f5ea",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/death-house-front.jpg"
+                "file": "Misc/Map of Barovia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/death-house-front.jpg",
+                "file": "Misc/Map of Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/death-house-front.jpg",
+                "file": "Misc/Map of Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/death-house-front.jpg"
+                "file": "Misc/Map of Barovia.md"
               }
             }
           }
@@ -156,6 +158,11 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Index.md",
+    "Misc/Map of Barovia.md",
+    "Assets/Images/death-house-front.jpg",
+    "Assets/Images/barovia_tagged.jpg",
+    "Assets/Images/barovia_tagged.jpg.crdownload",
     "Assets/Images/barovia_village_tagged.jpg",
     "Assets/Images/barovia_village_tagged.jpg.crdownload",
     "Assets/Images/barovia_untagged.tif",
@@ -190,18 +197,13 @@
     "TODO.md",
     "Handouts/Items/Cultist Logbook.md",
     "New Handouts.md",
-    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
-    "Website/site/assets/images/gertruda.jpeg",
-    "Website/site/website/site/assets/images/mad-mary.png",
-    "Website/site/assets/images/eva.jpeg",
     "Website/site/website/site/assets/images",
     "Website/site/website/site/assets",
     "Website/site/website/site",
     "Website/site/website",
-    "Assets/Images/strahd.jpeg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
