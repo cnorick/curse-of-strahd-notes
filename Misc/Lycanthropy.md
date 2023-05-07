@@ -51,28 +51,18 @@
 - According to popular mythos, lycanthropes should change on the full moon. I would change this for the sake of dnd. Time moves quite quickly in-game and it's possible that no more than a month or two may pass during the whole campaign. I'd flip this mechanic so that an infected character changes every night except the night of the new moon. You'll get much more story value for lycanthropy that way.
 	- The inherited lycanthropes at the Werewolf Den keep the infected lycanthropes from running wild every night.
 - The only time an infected lycanthrope can change outside of the moon's cycle is during great duress, such as if they feel threatened or are quite angry.
-    
--   While transformed, an infected lycanthrope completely succumbs to their beastial whims, often very aggressively. The change is exceptionally painful. While in this state, they only listen to the higher ranked inherited lycanthropes and/or Strahd.
-    
+- While transformed, an infected lycanthrope completely succumbs to their beastial whims, often very aggressively. The change is exceptionally painful. While in this state, they only listen to the higher ranked inherited lycanthropes and/or Strahd.
 
--   Transforming into Animal Form
-    
+### Transforming into Animal Form
+- With a great deal of practice, an infected lycanthrope can change into their animal form at will. This doesn't come naturally, however. An infected individual must actively choose to give in to their beastial nature and fully embrace their curse to control this change. It takes time, effort, and quite a bit of pain.
 
--   With a great deal of practice, an infected lycanthrope can change into their animal form at will. This doesn't come naturally, however. An infected individual must actively choose to give in to their beastial nature and fully embrace their curse to control this change. It takes time, effort, and quite a bit of pain.
-    
+## Running a PC Infected by Lycanthropy
+- If a PC becomes an infected lycanthrope, RAW, they become super powerful. They're immune to all non magical damage and get Keen Senses and some kind of pack advantage. You don't want your players to think being a werewolf is a good thing. All power should come at a price, especially in CoS. Here's how I would instead run an infected PC.
 
-Running a PC Infected by Lycanthropy
+### Alignment
+- Firstly, don't change their alignment. I've always though that automatic alignment shifts were pretty shallow (I've got a oodles to say about the Amber Temple, but I'll cover that in another post). After all, it's not like most infected PCs are actively choosing to be evil when they're bitten. Alignment should be about personality and character growth, not a con save. Instead, make lycanthropy a story element.
 
--   If a PC becomes an infected lycanthrope, RAW, they become super powerful. They're immune to all non magical damage and get Keen Senses and some kind of pack advantage. You don't want your players to think being a werewolf is a good thing. All power should come at a price, especially in CoS. Here's how I would instead run an infected PC.
-    
-
--   Alignment
-    
-
--   Firstly, don't change their alignment. I've always though that automatic alignment shifts were pretty shallow (I've got a oodles to say about the Amber Temple, but I'll cover that in another post). After all, it's not like most infected PCs are actively choosing to be evil when they're bitten. Alignment should be about personality and character growth, not a con save. Instead, make lycanthropy a story element.
-    
-
--   The Benefits of Being Cursed by Lycanthropy
+### The Benefits of Being Cursed by Lycanthropy
     
 
 -   PCs are immune to nonmagical and non silvered damage. Wounds made by such damage heal instantaneously.
