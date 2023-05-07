@@ -11,11 +11,9 @@
             "id": "ad0558792a14f5ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Handouts/Maps/Village of Barovia.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/death-house-front.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Village of Barovia.md",
+                "file": "Assets/Images/death-house-front.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Village of Barovia.md",
+                "file": "Assets/Images/death-house-front.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Village of Barovia.md"
+                "file": "Assets/Images/death-house-front.jpg"
               }
             }
           }
@@ -156,8 +154,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Assets/Images/barovia_untagged.tif",
+    "Assets/Images/BAROVIA_(UNTAGGED).tif",
+    "Assets/Images/death-house-kids.png",
+    "Handouts/Maps/Village of Barovia.md",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Argynvost's Journal.md",
     "Handouts/Images/Ravenloft.md",
@@ -182,20 +184,17 @@
     "Misc/Barovian Lore.md",
     "Misc/Adventuring Gear.md",
     "Handouts/Items/Cloak of Protection.md",
-    "Handouts/Maps/Village of Barovia.md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
     "Handouts/Items/Cultist Logbook.md",
     "New Handouts.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
     "Website/site/assets/images/gertruda.jpeg",
     "Website/site/website/site/assets/images/mad-mary.png",
     "Website/site/assets/images/eva.jpeg",
-    "Website/site/assets/images/granny.jpeg",
     "Website/site/website/site/assets/images",
     "Website/site/website/site/assets",
     "Website/site/website/site",
@@ -203,7 +202,6 @@
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg.crdownload",
     "Assets/Images/rahadin.jpeg.crdownload",
-    "Assets/Images/gertruda.jpeg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
