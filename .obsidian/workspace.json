@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Music Compiled.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Music Compiled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Donavich.md",
+                "file": "Music Compiled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Donavich.md"
+                "file": "Music Compiled.md"
               }
             }
           }
@@ -195,6 +195,9 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Donavich.md",
+    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Characters/Bildrath Cantemir.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
@@ -206,8 +209,6 @@
     "undefined.md",
     "Characters/Gustav Durst.md",
     "Characters/Elizabeth Durst.md",
-    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Campaign/Session 0.md",
@@ -216,7 +217,6 @@
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
     "Campaign Notes.md",
-    "Characters/Donavich.md",
     "Characters/Elora.md",
     "Characters/Gertruda.md",
     "Characters/Mad Mage of Mount Baratok.md",

@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "obsidian-5e-statblocks\ndataview\nobsidian-enhancing-export\nmedia-extended",
+  "includePluginCSS": "obsidian-5e-statblocks\nobsidian-enhancing-export\ndataview",
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
   "addFilenameTitle": true,
