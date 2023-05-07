@@ -62,10 +62,10 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 	- The amount of this psychic damage depends on the severity of the curse that was invoked
 - The Vistana chooses the curse's effect from the options that follow; other Vistani curses are possible. All such effects deal psychic damage to the Vistani who uttered them when they end:  
 
-1.  The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writ­ing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes ld6 psychic damage.
-2.  The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana it takes ld6 psychic damage.
-3.  The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic damage.
-4.  The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic damage.
+1. The target is unable to perform a certain kind of act involving fine motor control, such as tying knots, writ­ing, playing an instrument, sewing, or casting spells that have somatic components. When this curse ends, the Vistana takes **1d6 psychic damage**
+2. The target's appearance changes in a sinister yet purely cosmetic way. For example, the curse can place a scar on the target's face, turn the target's teeth into yellow fangs, or give the target bad breath. When this curse ends, the Vistana it takes **1d6 psychic damage**
+3. The target gains vulnerability to a damage type of the Vistana's choice. When this curse ends, the Vistana takes **3d6 psychic damage**.
+4. The target has disadvantage on ability checks and saving throws tied to one ability score of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic damage.
 5.  The target's attunement to one magic item (chosen by the DM) ends, and the target can't attune to the cho­sen item until the curse ends. When this curse ends, the Vistana takes Sd6 psychic damage.
 6.  The target is blinded, deafened, or both. When this curse ends, the Vistana takes 5d6 psychic damage.
 
