@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Barovian Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Locations/Death House.md",
     "Locations/Village of Barovia (E).md",
+    "Locations/Death House.md",
     "Death House.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Characters/Doru.md",
