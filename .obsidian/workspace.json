@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Images/Portraits/Portrait of Parriwimple.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Images/Portraits/Portrait of Parriwimple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
+                "file": "Handouts/Images/Portraits/Portrait of Parriwimple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Granny.md"
+                "file": "Handouts/Images/Portraits/Portrait of Parriwimple.md"
               }
             }
           }
@@ -158,12 +158,17 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Assets/Images/morgantha.webp",
-    "Assets/Images/Ismark.jpg",
+    "Assets/Images/Parriwimple.jpg",
+    "Handouts/Images/Portraits/Portrait of Gertruda.md",
+    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+    "Handouts/Images/Portraits/Portrait of Doru.md",
+    "Handouts/Images/Portraits/Portrait of Granny.md",
+    "Assets/Images/morgantha.webp",
+    "Assets/Images/Ismark.jpg",
     "Assets/Images/eva.jpeg",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Misc/If Players Die.md",
     "Misc/Guest as Granny.md",
     "Misc/Card Reading.md",
@@ -174,18 +179,14 @@
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
     "Handouts/Items/Cultist Logbook.md",
-    "Handouts/Images/Portraits/Portrait of Granny.md",
     "New Handouts.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
     "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
     "Characters/Thornboldt.md",
     "Characters/Walter.md",
     "Characters/Tatyana.md",
-    "Characters/Strahd Von Zarovich.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
@@ -200,7 +201,6 @@
     "Website/site/website",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd.jpeg.crdownload",
-    "Assets/Images/revenloft_castle.jpeg",
     "Assets/Images/revenloft_castle.jpeg.crdownload",
     "Assets/Images/rahadin.jpeg.crdownload",
     "Assets/Images/gertruda.jpeg.crdownload",
