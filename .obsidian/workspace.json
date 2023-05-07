@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md",
+                "file": "Characters/Arik Lorensk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bildrath Cantemir.md"
+                "file": "Characters/Arik Lorensk.md"
               }
             }
           }
@@ -195,6 +195,8 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Bardolf.md",
+    "Characters/Arik Lorensk.md",
     "Assets/Templates/Character.md",
     "Characters/Bildrath Cantemir.md",
     "Assets/Images/Arik the Barkeep V2.webp",
@@ -214,8 +216,6 @@
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
     "Campaign Notes.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
     "Characters/Donavich.md",
     "Characters/Elora.md",
     "Characters/Gertruda.md",
