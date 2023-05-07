@@ -1,3 +1,5 @@
 ```statblock
 monster: Dog
 ```
+```dataviewjs
+```
