@@ -11,11 +11,9 @@
             "id": "ad0558792a14f5ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/barovia_village_untagged.jpg"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Assets/Images/barovia_village_untagged.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Assets/Images/barovia_village_untagged.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Barovia.md"
+                "file": "Assets/Images/barovia_village_untagged.jpg"
               }
             }
           }
@@ -156,13 +154,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Handouts/Maps/Village of Barovia.md",
+    "Assets/Images/barovia_tagged.jpg",
     "Handouts/Maps/Barovia.md",
+    "Handouts/Maps/Village of Barovia.md",
     "Misc/Map of Barovia.md",
     "Index.md",
-    "Assets/Images/barovia_tagged.jpg",
     "Assets/Images/death-house-front.jpg",
     "Assets/Images/barovia_tagged.jpg.crdownload",
     "Assets/Images/barovia_village_tagged.jpg",
@@ -196,7 +194,6 @@
     "Handouts/Items/Cloak of Protection.md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
-    "Handouts/Items/Cultist Logbook.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
