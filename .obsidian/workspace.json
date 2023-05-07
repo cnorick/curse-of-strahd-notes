@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Death House.md",
-                "mode": "source",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Death House.md",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Death House.md",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Death House.md"
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md"
               }
             }
           }
@@ -179,6 +179,7 @@
   },
   "active": "6697c24c8a2b76a9",
   "lastOpenFiles": [
+    "Characters/Lancelot.md",
     "Death House.md",
     "Locations/Death House.md",
     "Index.md",
@@ -206,7 +207,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
