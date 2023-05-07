@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+                "file": "Handouts/Images/Portraits/Portrait of Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Cypress Belview.md"
+                "file": "Handouts/Images/Portraits/Portrait of Granny.md"
               }
             }
           }
@@ -158,8 +158,12 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Assets/Images/morgantha.webp",
+    "Assets/Images/Ismark.jpg",
+    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+    "Assets/Images/eva.jpeg",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Misc/If Players Die.md",
     "Misc/Guest as Granny.md",
     "Misc/Card Reading.md",
@@ -182,8 +186,6 @@
     "Characters/Walter.md",
     "Characters/Tatyana.md",
     "Characters/Strahd Von Zarovich.md",
-    "Characters/Shalooti.md",
-    "Characters/Rosevalda.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/assets/images/donavich.jpeg",
@@ -200,9 +202,7 @@
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg",
     "Assets/Images/revenloft_castle.jpeg.crdownload",
-    "Assets/Images/rahadin.jpeg",
     "Assets/Images/rahadin.jpeg.crdownload",
-    "Assets/Images/gertruda.jpeg",
     "Assets/Images/gertruda.jpeg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
