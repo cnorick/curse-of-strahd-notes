@@ -8,4 +8,4 @@ Full character death is never any fun in a D&D campaign, so to soften the blow, 
 This is really kinda the default for DnD. Your old character has completely died, and will never come back. Your new character is a completely different person with different traits, difference experiences, and a different background. We'll come up with a reason why this person runs into the party, and they'll join up and follow around the rest of the crew.
 
 ## 2. Same Character, Different Name
-As you can probably already tell, Barovia is a strange place with a few rules that are different from other DnD settings. Without going into too much detail, there is an in-universe feature that allows this to happen.
+As you can probably already tell, Barovia is a strange place with a few rules that are different from other DnD settings. Without going into too much detail, there is an in-universe feature that allows this to happen. Basically, your body is dead, but your spirit manifests somewhere else
