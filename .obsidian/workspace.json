@@ -174,12 +174,73 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "floating": {
+    "id": "f52b9e739cf35dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "820d8e43eb8e2c54",
+        "type": "window",
+        "children": [
+          {
+            "id": "37bd7aaf97cb6ce4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "45b3b938eb1de44e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Index.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 900,
+        "height": 450,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "45b3b938eb1de44e",
   "lastOpenFiles": [
-    "Misc/Lycanthropy.md",
-    "Misc/Congratulations, You're Dead.md",
-    "Locations/Village of Barovia (E).md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Barovian Lore.md",
     "Misc/If Players Die.md",
+    "Misc/Guest as Granny.md",
+    "Misc/Card Reading.md",
+    "Misc/Vistani.md",
+    "Misc/Mechanics of Dream Pastries.md",
+    "Misc/The Morninglord.md",
+    "Misc/Map of Barovia.md",
+    "Misc/Congratulations, You're Dead.md",
+    "Misc/Lycanthropy.md",
+    "Misc/Music Compiled.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "TODO.md",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Tome of Strahd.md",
+    "Handouts/Letters/Strahd's Invitation.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Assets/Images/dead-pc.jpg",
+    "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
@@ -187,41 +248,17 @@
     "Website/site/characters/jeny-greenteeth.html",
     "Website/site/characters/the-abbott.html",
     "Website/site/locations/krezk-(s).html",
-    "Assets/Templates/Character.md",
     "Website/site/misc/congratulations,-you're-dead.html",
-    "Campaign/Session 0.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Characters/Gertruda.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
     "Website/site/assets/images/strahd.jpeg",
     "Website/site/assets/images/barovia_tagged.jpg",
     "Website/site/misc/map-of-barovia.html",
     "Website/site/assets/images/mad-mary.jpeg",
-    "Website/site/handouts/images/portraits/portrait-of-granny.html",
     "Website/site/assets/images/cypress_belview.jpeg",
     "Website/site/assets/images/ravenloft_castle.jpeg",
     "Website/site/assets/images/barovia_village_untagged.jpg",
     "Website/site/assets/images/barovia_untagged.webp",
     "Assets/Images/barovia_untagged.webp",
     "Assets/Images/barovia_village_untagged.jpg",
-    "Assets/Images/barovia_tagged.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
