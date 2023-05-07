@@ -101,35 +101,20 @@
 ### Greater Restoration Spell
 - Greater Restoration is a fifth level spell that magic classes don't even have access to until level 9. What's more, there are almost no NPCs that have the spell in game, making it much harder to find. In fact, unless I overlooked somebody (which is entirely possible, gosh there's a lot of NPCs) only Madam Eva has Greater Restoration RAW.
 - A couple other NPCs, like Van Richten, can theoretically switch out their 5th level slot for Greater Restoration after a long rest, but that's neither here nor there.
-- In fact, from a role play standpoint, I wouldn't recommend giving Van Richten access to the spell at all. He's a monster hunter, not a monster curer, after all. Helping those cursed by monsters has never been as important as killing the monster itself in his eyes.
-    
+	- In fact, from a role play standpoint, I wouldn't recommend giving Van Richten access to the spell at all. He's a monster hunter, not a monster curer, after all. Helping those cursed by monsters has never been as important as killing the monster itself in his eyes.
+- If you're expanding Strahd (as many DMs do), you might have given him access to a whole bunch of spells, including Greater Restoration. It'd be rather ironic if a lycanthrope player's only hope is the big bad guy himself. ;)
+- Lastly, I'd like to remind you guys about the Abbot's Healing Touch action, which can cure curses, disease, blindness, deafness, and poison. The Abbot is the only holy figure in game with the equivalent of a Greater Restoration Spell.
 
--   If you're expanding Strahd (as many DMs do), you might have given him access to a whole bunch of spells, including Greater Restoration. It'd be rather ironic if a lycanthrope player's only hope is the big bad guy himself. ;)
-    
--   Lastly, I'd like to remind you guys about the Abbot's Healing Touch action, which can cure curses, disease, blindness, deafness, and poison. The Abbot is the only holy figure in game with the equivalent of a Greater Restoration Spell.
-    
-
--   Killing the Root Lycanthrope
-    
-
--   Almost all infected lycanthropes can trace their curse back to an inherited lycanthrope. If the root lycanthrope is killed (through unnatural means), all the lycanthropes created from its curse are also freed of their curse.
-    
--   You can handle this in one of three ways to translate it into the game:
-    
-
--   One: The root lycanthrope of the werewolf pack and the wereraven clan long ago died of natural causes. This is no longer an option as a result.
-    
--   Two: The root lycanthrope is passed down from one elder to the next, keeping the root lycanthrope alive and ever changing in a clan. Of the wereravens, this means that Davian is probably the current root lycanthrope. Of the werewolves, Skennis or Emil are probably the current root lycanthropes. This gives PCs a viable way to get rid of the root of lycanthropy in game. However, this also opens the door to a bunch of bigger effects. If the root wolf is Skennis - old and feeble Skennis - he'd be really easy to kill and suddenly have no werewolves in Barovia. The same might be said of Davian Martikov.
-    
--   Three: The root lycanthrope for each clan lives on somewhere in the Svalich woods. This might be an ancient difficult mini-boss or an interesting NPC the players may come across.
-    
-
--   Belladonna Root Treatment
-    
-
--   I'm borrowing this idea straight from guildsbounty. In their post, they suggest that Belladonna (a highly poisonous real world herb) can be used as a preemptive measure to stop lycanthropy before a victim's first change. I've modified this slightly so that it can be used to sort of "kill off" the curse within any individual.
-    
--   The Mechanics of consuming Belladonna Root
+### Killing the Root Lycanthrope
+- Almost all infected lycanthropes can trace their curse back to an inherited lycanthrope. If the root lycanthrope is killed (through unnatural means), all the lycanthropes created from its curse are also freed of their curse.
+- You can handle this in one of three ways to translate it into the game:
+	- One: The root lycanthrope of the werewolf pack and the wereraven clan long ago died of natural causes. This is no longer an option as a result.
+	- Two: The root lycanthrope is passed down from one elder to the next, keeping the root lycanthrope alive and ever changing in a clan. Of the wereravens, this means that Davian is probably the current root lycanthrope. Of the werewolves, Skennis or Emil are probably the current root lycanthropes. This gives PCs a viable way to get rid of the root of lycanthropy in game. However, this also opens the door to a bunch of bigger effects. If the root wolf is Skennis - old and feeble Skennis - he'd be really easy to kill and suddenly have no werewolves in Barovia. The same might be said of Davian Martikov.
+	- Three: The root lycanthrope for each clan lives on somewhere in the Svalich woods. This might be an ancient difficult mini-boss or an interesting NPC the players may come across.
+ 
+### Belladonna Root Treatment
+- I'm borrowing this idea straight from guildsbounty. In their post, they suggest that Belladonna (a highly poisonous real world herb) can be used as a preemptive measure to stop lycanthropy before a victim's first change. I've modified this slightly so that it can be used to sort of "kill off" the curse within any individual.
+#### The Mechanics of consuming Belladonna Root
     
 
 -   Takes 10 minutes to show effects
