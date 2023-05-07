@@ -1,5 +1,0 @@
-```statblock
-monster: Dog
-```
-```dataviewjs
-```
