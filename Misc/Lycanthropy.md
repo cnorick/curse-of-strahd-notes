@@ -75,33 +75,20 @@
 ### Surprise, Surprise
 - DON'T TELL YOUR PC WHETHER OR NOT THEY'VE BEEN TURNED INTO A LYCANTHROPE.
 - Have them make their save against the bite and then don't say anything. Just saying, "Whelp! You failed so this is how it's going to be now." is such a wasted opportunity.
--  Instead, slowly reveal the benefits and negatives of their curse. After the first night when they black out, tell them that, by the way, they don't get the long rest. If they have to roll a perception check, have them roll with advantage and don't tell them why. If they make a melee attack and their normal modifier is a +2, remember it's actually a +4 now. They'll be surprised when they start landing hits they feel like they should have missed. Make their powers a discovery and it'll be so much cooler for them.
-    
+- Instead, slowly reveal the benefits and negatives of their curse. After the first night when they black out, tell them that, by the way, they don't get the long rest. If they have to roll a perception check, have them roll with advantage and don't tell them why. If they make a melee attack and their normal modifier is a +2, remember it's actually a +4 now. They'll be surprised when they start landing hits they feel like they should have missed. Make their powers a discovery and it'll be so much cooler for them.
 
--   Playing an Infected PC Narratively
-    
+### Playing an Infected PC Narratively
+- Infected Lycanthropes can not control their curse or their changes. An infected PC will transform every sunset and revert to their humanoid selves every sunrise.
 
--   Infected Lycanthropes can not control their curse or their changes. An infected PC will transform every sunset and revert to their humanoid selves every sunrise.
-    
--   Each Night in Game:
-    
+#### Each Night in Game:
+- Each night, the PC transforms into their wereform. However, don't describe this to them. Instead, tell them that they feel horrific pain shoot through their limbs before their memory goes dark. Only describe this change if another PC is there to witness it.
+- For these nights, it's much more interesting to forgo rolling for random encounters and just have the night pass without event. In the morning, the PC wakes up naked somewhere.
+- I'd have some fun mysteries planned out for these events. Does the PC wake up covered in blood? Who's blood is it? Is it possible they did something unspeakable? Was the PC carrying a story important item that is now lost somewhere? Is Van Richten with the party and now adamantly wants to kill the PC? This could be some really fun storytelling.
+#### In Battle:
+- If an infected PC gets really excited in battle and hardcore role-plays the bloodlust OR if the PC is in dire straights with only a handful of hit points left, have them roll a DC 14 con save. On a fail, they transform into their were form, regain half their total HP and must attack the nearest living creature, even if that creature is a friend, until it's dead. If there are multiple targets within range, as the dm, assign each of them a number and have the player roll a d6. The roll will determine which target the PC attacks next.
+- If the PC is reduced to 0 HP while in were form, they fall unconscious and revert back to their humanoid form.
 
--   Each night, the PC transforms into their wereform. However, don't describe this to them. Instead, tell them that they feel horrific pain shoot through their limbs before their memory goes dark. Only describe this change if another PC is there to witness it.
-    
--   For these nights, it's much more interesting to forgo rolling for random encounters and just have the night pass without event. In the morning, the PC wakes up naked somewhere.
-    
--   I'd have some fun mysteries planned out for these events. Does the PC wake up covered in blood? Who's blood is it? Is it possible they did something unspeakable? Was the PC carrying a story important item that is now lost somewhere? Is Van Richten with the party and now adamantly wants to kill the PC? This could be some really fun storytelling.
-    
-
--   In Battle:
-    
-
--   If an infected PC gets really excited in battle and hardcore role-plays the bloodlust OR if the PC is in dire straights with only a handful of hit points left, have them roll a DC 14 con save. On a fail, they transform into their were form, regain half their total HP and must attack the nearest living creature, even if that creature is a friend, until it's dead. If there are multiple targets within range, as the dm, assign each of them a number and have the player roll a d6. The roll will determine which target the PC attacks next.
-    
--   If the PC is reduced to 0 HP while in were form, they fall unconscious and revert back to their humanoid form.
-    
-
-Removing the Curse of Lycanthropy
+## Removing the Curse of Lycanthropy
 
 -   Quick Note on Inherited Lycanthropes
     
