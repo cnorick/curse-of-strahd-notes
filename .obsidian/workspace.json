@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Characters/Madam Eva.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Characters/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Characters/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Characters/Madam Eva.md"
               }
             }
           }
@@ -158,8 +158,13 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Music Compiled.md",
+    "Characters/Mad Mary.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Lancelot.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Ismark Kolyanovich.md",
     "Characters/Ireena Kolyana.md",
+    "Music Compiled.md",
     "Campaign Notes.md",
     "Characters/Gustav Durst.md",
     "Characters/Gertruda.md",
@@ -198,11 +203,6 @@
     "Campaign/Session 4.md",
     "Characters/Anakir.md",
     "Characters/Bildrath Cantemir.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

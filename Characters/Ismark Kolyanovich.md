@@ -1,6 +1,7 @@
 ---
 alias: Ismark
 ---
+![[Assets/Images/Ismark.jpg|200]]
 (LG male human veteran)
 - Other villagers call him "Ismark the Lesser" because he has lived in the shadow of his father
 - **Voice**: kinda quiet, speaks softly, and somewhat quickly. He's not confident because he's lived in his father's shadow

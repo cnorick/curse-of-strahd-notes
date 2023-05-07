@@ -1,4 +1,5 @@
 (CN female human commoner)
+![[mad-mary.png|200]]
 ## Playing Mad Mary
 - She's lost in her sorrow and barely notices when anyone is around
 - She says nothing in the presence of anger
