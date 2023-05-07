@@ -26,3 +26,6 @@ dv.list(dv.pages('"Handouts"').sort(k => k.file.name).file.link)
 ## Miscellaneous
 - [[Music Compiled]]
 - [[Guest as Granny]]
+```dataviewjs
+dv.list(dv.pages('"Handouts"').sort(k => k.file.name).file.link)
+```
