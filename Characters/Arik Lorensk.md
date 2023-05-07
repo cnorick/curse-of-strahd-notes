@@ -1,7 +1,6 @@
 ---
 alias: Arik the Barkeep
 ---
-[[
 (CE male human commoner)
 ## Playing Arik
 - Pudgy little man
