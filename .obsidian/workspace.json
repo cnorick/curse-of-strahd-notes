@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Misc/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arik Lorensk.md",
+                "file": "Misc/Vistani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arik Lorensk.md"
+                "file": "Misc/Vistani.md"
               }
             }
           }
@@ -171,6 +171,7 @@
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
+    "Characters/Arik Lorensk.md",
     "Locations/Death House.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Parriwimple.md",
@@ -200,7 +201,6 @@
     "Campaign/Session 4.md",
     "Campaign Notes.md",
     "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
