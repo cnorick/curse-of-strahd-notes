@@ -121,8 +121,10 @@
 >
 >The woman speaks. "\<PC Name\>, The distance between us renders my Sight blurred and obscured. Please, join me at Tser Pool to learn what the future holds."
 >
->You sleep dreamlessly for the rest of the night. 
-- When the
+>You sleep dreamlessly for the rest of the night. You wake the next morning with a vivid memory of the dream.
+
+- When they tell the others about their dream, they're shocked to learn they all had the same exact one
+	- The woman addressed them 
 
 ### Church (E5)
 > Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]] stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is work and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load
