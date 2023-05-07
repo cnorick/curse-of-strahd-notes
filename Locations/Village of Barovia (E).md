@@ -31,7 +31,7 @@
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
 	- He wants the characters to escort her to [[Vallaki]]
-		- Beyond [[Castle Ravenloft]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
+		- Beyond [[Castle Ravenloft (K)]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
 - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
  - He's heard that [[Vallaki]] is well defended
@@ -127,7 +127,7 @@
 	- The woman addressed them each by name and said the same thing
 
 ### Church (E5)
-> Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]] stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is work and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load
+> Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft (K)]] stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is work and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load
 
 When approaching:
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
@@ -184,7 +184,7 @@ Contents:
 	> While the prayer is being given, you able to spot a figure standing beyond the cemetery fence shrouded in mist. The figure is a tall man, too obscured to really see, but it appears he's wearing all black and is bowing his head as if in prayer.
 
 - After the funeral, the man is gone; You don't know where he went
-- Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
+- Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft (K)]] as possible
 	- He proposes the PCs take her to the [[Krezk (S)#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
 		- ([[Vallaki]] is on the way to [[Krezk (S)]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)

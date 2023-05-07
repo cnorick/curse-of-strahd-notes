@@ -22,7 +22,7 @@ From Donavich:
 ## What They Want
 - He wants to eat; he's starved of blood
 - He'll go back to [[Strahd Von Zarovich|Strahd]] if released
-	- He'll flee to [[Castle Ravenloft|Ravenloft]], finding wolves/deer on the way for blood
+	- He'll flee to [[Castle Ravenloft (K)|Ravenloft]], finding wolves/deer on the way for blood
 
 ## What They Know
 [[Barovian Lore]]

@@ -14,7 +14,7 @@
 - If it seems like the PCs will kill [[Doru]], [[Donavich]] will descend himself and fight them
 
 ## History/Info
-- A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft]] in revolt
+- A little over a year ago his son, [[Doru]], and several other villagers stormed [[Castle Ravenloft (K)]] in revolt
 	- having been lured there by a wizard in black robes who came to Barovia from a faraway land
 		- {the [[Mad Mage of Mount Baratok|Mad Mage]]}
 - By all accounts, the wizard died by [[Strahd Von Zarovich|Strahd]]'s hand and so too did [[Doru]]

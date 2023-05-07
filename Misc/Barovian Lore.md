@@ -1,5 +1,5 @@
 ### The Devil Strahd
-- [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft]]. No one is welcome at the castle
+- [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]. No one is welcome at the castle
 - The devil [[Strahd Von Zarovich|Strahd]] is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but the Barovians believe it nonetheless)
 - A vampire must rest in tis coffin during the day
 	- At night, it can summon wolves and vermin to do its bidding
@@ -32,7 +32,7 @@
 - The presence of [[Mother Night]] is felt most strongly between dusk and dawn
 	- although her nighttime prayers go unanswered
 	- It is widely believed that she has forsaken  the Barovian people and sent the devil [[Strahd Von Zarovich|Strahd]] to punish them for their ancestors' offenses
-- Spirits drift along the [[Old Svalich Road]] toward [[Castle Ravenloft]] in the dead of night
+- Spirits drift along the [[Old Svalich Road]] toward [[Castle Ravenloft (K)]] in the dead of night
 	- These phantoms are all that remain of [[Strahd Von Zarovich|Strahd]]'s enemies, and this damnable fate awaits anyone who opposes him
 - The [[Vistani]] serve the devil [[Strahd Von Zarovich|Strahd]]
 	- They alone are allowed to leave Barovia
