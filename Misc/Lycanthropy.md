@@ -37,35 +37,20 @@
 	- This is obviously a tedious and risky procedure. If the transformed lycanthrope gets spooked, they might easily lash out and accidentally kill the humanoid. If something happens and they accidentally miss a session, the humanoid will grow sick and die. Inherited lycanthropes don't usually pass on their blessing unless they are absolutely sure of the individual they've chosen.
 
 ### Creating Cursed/Infected Lycanthropes
-    
+- Inherited lycanthropes can also pass on cursed lycanthropy is they choose. This acts in the same mechanical vein as a Vistana's curse. With a bite attack, on a hit, an inherited lycanthrope can choose to try and curse the target, invoking the con save. This only activates if the target has done the lycanthrope a great wrong.
 
--   Inherited lycanthropes can also pass on cursed lycanthropy is they choose. This acts in the same mechanical vein as a Vistana's curse. With a bite attack, on a hit, an inherited lycanthrope can choose to try and curse the target, invoking the con save. This only activates if the target has done the lycanthrope a great wrong.
-    
+## Infected Lycanthropy
+- Infected lycanthropy is much less kind than inherited. Overall, it is a curse and should be treated as such
 
-Infected Lycanthropy
+### Spreading the Curse
+- Infected lycanthropes both receive and spread their curse through bites and no other means.
+- I would recommend that you keep this simple for your sake as a DM. A cursed individual cannot birth or sire children with the same curse. Their children are normal humanoids and must be bitten themselves to become lycanthropes.
 
--   Infected lycanthropy is much less kind than inherited. Overall, it is a curse and should be treated as such.
-    
--   Spreading the Curse
-    
-
--   Infected lycanthropes both receive and spread their curse through bites and no other means.
-    
--   I would recommend that you keep this simple for your sake as a DM. A cursed individual cannot birth or sire children with the same curse. Their children are normal humanoids and must be bitten themselves to become lycanthropes.
-    
-
--   Transforming into the Were-form
-    
-
--   Inherited lycanthropes can change into their animal form and were forms at will. Infected lycanthropes are not so lucky.
-    
--   According to popular mythos, lycanthropes should change on the full moon. I would change this for the sake of dnd. Time moves quite quickly in-game and it's possible that no more than a month or two may pass during the whole campaign. I'd flip this mechanic so that an infected character changes every night except the night of the new moon. You'll get much more story value for lycanthropy that way.
-    
-
--   The inherited lycanthropes at the Werewolf Den keep the infected lycanthropes from running wild every night.
-    
-
--   The only time an infected lycanthrope can change outside of the moon's cycle is during great duress, such as if they feel threatened or are quite angry.
+### Transforming into the Were-form
+- Inherited lycanthropes can change into their animal form and were forms at will. Infected lycanthropes are not so lucky.
+- According to popular mythos, lycanthropes should change on the full moon. I would change this for the sake of dnd. Time moves quite quickly in-game and it's possible that no more than a month or two may pass during the whole campaign. I'd flip this mechanic so that an infected character changes every night except the night of the new moon. You'll get much more story value for lycanthropy that way.
+	- The inherited lycanthropes at the Werewolf Den keep the infected lycanthropes from running wild every night.
+- The only time an infected lycanthrope can change outside of the moon's cycle is during great duress, such as if they feel threatened or are quite angry.
     
 -   While transformed, an infected lycanthrope completely succumbs to their beastial whims, often very aggressively. The change is exceptionally painful. While in this state, they only listen to the higher ranked inherited lycanthropes and/or Strahd.
     
