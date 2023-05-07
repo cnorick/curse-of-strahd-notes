@@ -12,3 +12,6 @@
 ```statblock
 monster: Commoner
 ```
+
+```dataviewjs
+```

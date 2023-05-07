@@ -40,3 +40,6 @@ Son: [[Doru]]
 ```statblock
 monster: Acolyte
 ```
+
+```dataviewjs
+```

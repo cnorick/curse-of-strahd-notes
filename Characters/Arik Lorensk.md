@@ -17,3 +17,7 @@ alias: Arik the Barkeep
 ```statblock
 monster: Commoner
 ```
+
+```dataviewjs
+
+```
