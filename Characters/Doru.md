@@ -1,4 +1,5 @@
 (NE Undead)
+![[doru.png|200]]
 ## Playing Doru
 - He's starved for blood and will attack a lone character
 	- If the PCs approach as a group, he does his best to avoid while hissing, "I can smell your blood!"
