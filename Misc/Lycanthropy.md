@@ -16,29 +16,15 @@
 
 ### Drop yo sh*t bro
 - NPCs and PCs who shape change due to lycanthropy don't have their stuff change with them. Their clothes will rip and sag. Their items and packs will be dropped. Don't forget this element.
-    
 
-Inherited Lycanthropy
-
--   Origin
-    
-
--   Inherited lycanthropes are more like a species than a curse. It's something that lives in a creature's DNA and is passed down from parent to child. If one parent is an inherited lycanthrope and another is humanoid, there's a 50/50 chance the offspring will be a shape changer.
-    
-
--   As a bit of extra lore, I've made it so that inherited lycanthropy is actually given as a blessing from great nature gods/magical beings. In CoS's case, these are the Fanes of Barovia. The Fanes are a trio of extraordinarily powerful archfey directly attached to the land who laid claim over the Valley before Strahd's arrival. Long before Strahd, the Fanes gifted certain faithful individuals with lycanthropy so that they may be closer to nature.
-    
--   While inherited lycanthropy was originally a blessing from the Fanes, infected lycanthropy is a curse. This curse was set upon those who desecrated the land or otherwise severely offended the archfey.
-    
-
--   The Circumstances of Shape Changing
-    
-
--   Inherited lycanthropes can change forms at will and retain their full personality and mind when in their altered states. The only time when this is not the case is on the night of a full moon, in which all inherited lycanthropes are forced to change into their were-form and loose control for an evening, following their animalistic instincts. However, even then they aren't nearly as violent as infected lycanthropes and can recognize friends and family.
-    
--   Inherited lycanthropes undergo their first change at a very young age, usually around four or five years old. With enough practice and focus, they can gain full control of their change in a few short years. However, their transformed state is age appropriate. A young werewolf will change into a puppy version of a wolf while still an adolescent, for instance.
-    
--   Because their change is a blessing, inherited lycanthropes experience minimal pain during their shifts.
+## Inherited Lycanthropy
+- Inherited lycanthropes are more like a species than a curse. It's something that lives in a creature's DNA and is passed down from parent to child. If one parent is an inherited lycanthrope and another is humanoid, there's a 50/50 chance the offspring will be a shape changer.
+	- As a bit of extra lore, I've made it so that inherited lycanthropy is actually given as a blessing from great nature gods/magical beings. In CoS's case, these are the Fanes of Barovia. The Fanes are a trio of extraordinarily powerful archfey directly attached to the land who laid claim over the Valley before Strahd's arrival. Long before Strahd, the Fanes gifted certain faithful individuals with lycanthropy so that they may be closer to nature.
+	- While inherited lycanthropy was originally a blessing from the Fanes, infected lycanthropy is a curse. This curse was set upon those who desecrated the land or otherwise severely offended the archfey.
+- The Circumstances of Shape Changing
+	- Inherited lycanthropes can change forms at will and retain their full personality and mind when in their altered states. The only time when this is not the case is on the night of a full moon, in which all inherited lycanthropes are forced to change into their were-form and loose control for an evening, following their animalistic instincts. However, even then they aren't nearly as violent as infected lycanthropes and can recognize friends and family.
+	- Inherited lycanthropes undergo their first change at a very young age, usually around four or five years old. With enough practice and focus, they can gain full control of their change in a few short years. However, their transformed state is age appropriate. A young werewolf will change into a puppy version of a wolf while still an adolescent, for instance.
+- Because their change is a blessing, inherited lycanthropes experience minimal pain during their shifts.
     
 
 -   Creating More Inherited Lycanthropes
