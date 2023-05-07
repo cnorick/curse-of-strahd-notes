@@ -19,7 +19,7 @@ def updateIndexFile(filename):
       if(not a['href'].startswith('http')):
         a['href'] = '../../' + a['href']
 
-    sessionAnchors = soup.find(id="Session_Notes").parent.find_next_sibling('*').find_all('a')
+    sessionAnchors = soup.find(id="Session_Notes").parent.find_next_sibling('div').find_all('a')
     for a in sessionAnchors:
       # Make all session note links relative
       print('Fixing Link to: {}'.format(a.text))
