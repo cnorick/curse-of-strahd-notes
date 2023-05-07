@@ -14,4 +14,6 @@ As you can probably already tell, Barovia is a strange place with a few rules th
 	- You roll for a new character flaw: e.g. "I have trouble trusting in my allies"
 	- You have a similar physical appearance (you may look like a sibling to your old character)
 		- but you roll for a negative physical trait: e.g. "you're missing a finger because of an accident"
-- You don't 
+- You don't have the same memories as your old character (e.g. you don't know anybody from the party)
+	- but you also don't remember anything from your past
+	- you only experience vague flashbacks
