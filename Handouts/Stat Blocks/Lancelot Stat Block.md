@@ -5,3 +5,5 @@ public: true
 monster: Dog
 name: Lancelot
 ```
+```dataviewjs
+```

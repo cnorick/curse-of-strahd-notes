@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Cultist Logbook.md",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Cultist Logbook.md",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Cultist Logbook.md",
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Cultist Logbook.md"
+                "file": "Handouts/Stat Blocks/Lancelot Stat Block.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Handouts/Maps/Village of Barovia.md",
+    "Handouts/Items/Cultist Logbook.md",
     "Handouts/Items/Cloak of Protection.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
@@ -194,8 +196,6 @@
     "Website/site/website",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd.jpeg.crdownload",
     "Assets/Images/revenloft_castle.jpeg",
