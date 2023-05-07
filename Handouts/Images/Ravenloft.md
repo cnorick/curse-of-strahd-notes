@@ -1,5 +1,6 @@
 ---
-public: true
+public: false
+new_handout: false
 ---
 
-![[death-house-front.jpg]]
+![[r]]
