@@ -2,4 +2,4 @@ While you're character in-game is actually 100% dead, that doesn't mean you're o
 
 In the mean time, read over this page, but don't tell the other players what you've seen here (they'll see it soon enough, themselves).
 
-Full character death is never any fun in a D&D campaign, so to soften the blow, I want to give you a few options. Read all these over, and take
+Full character death is never any fun in a D&D campaign, so to soften the blow, I want to give you a few options. Read all these over, and take some time to consider what you'd like to do. Preferably, don't decide until the end of this session, and let me know what you'd like before the start of the next one so I can work it in narra
