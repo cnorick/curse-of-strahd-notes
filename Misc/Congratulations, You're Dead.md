@@ -38,5 +38,5 @@ You're now a ghost (not the ghost monster type, but you're spirit has just been 
 
 ### Possession:
 You've gained the ability to possess other characters. When you'd like to try to possess someone, just say to me: "I'm going to roll charisma against \<character\>" and nothing else
-- To possess, you must enter a charisma contest with the possessee
-- 
+- To possess, you must enter a charisma contest with the possess-ee
+	- 
