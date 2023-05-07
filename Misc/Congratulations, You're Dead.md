@@ -13,5 +13,5 @@ As you can probably already tell, Barovia is a strange place with a few rules th
 	- You change your character name so its clear to everyone that the original character died
 	- You roll for a new character flaw: e.g. "I have trouble trusting in my allies"
 	- You have a similar physical appearance (you may look like a sibling to your old character)
-		- but you roll for a negative physical trait: e.g.
+		- but you roll for a negative physical trait: e.g. you're missing a finger because of an accident"
 - 
