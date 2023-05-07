@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Misc/Guest as Granny.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music Compiled.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Compiled.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Music Compiled.md",
     "New Handouts.md",
     "TODO.md",
     "Characters/Lancelot.md",
@@ -210,7 +211,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/characters/gadof-blinsky.html",
