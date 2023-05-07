@@ -27,3 +27,6 @@ actions:
 ```statblock
 monster: Dog
 ```
+
+```dataviewjs
+```

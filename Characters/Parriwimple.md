@@ -17,3 +17,6 @@ monster: Gladiator
 stats: [18, 15, 16, 6, 12, 15]
 ac: 14
 ```
+
+```dataviewjs
+```

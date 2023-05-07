@@ -31,3 +31,6 @@
 ```statblock
 monster: Night Hag
 ```
+
+```dataviewjs
+```

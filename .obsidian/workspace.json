@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Dog.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Madam Eva.md"
+                "file": "Custom Monsters/Dog.md"
               }
             }
           }
@@ -182,6 +182,17 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Walter.md",
+    "Characters/Thornboldt.md",
+    "Characters/Tatyana.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Shalooti.md",
+    "Characters/Rosevalda.md",
+    "Characters/Rictavio.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Morgantha.md",
+    "Characters/Madam Eva.md",
     "Characters/Mad Mary.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Lancelot.md",
@@ -197,20 +208,9 @@
     "Characters/Donavich.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Bardolf.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Anakir.md",
-    "Misc/Guest as Granny.md",
-    "Music Compiled.md",
-    "New Handouts.md",
-    "TODO.md",
-    "Locations/Death House.md",
-    "Index.md",
-    "Campaign Notes.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/characters/gadof-blinsky.html",
