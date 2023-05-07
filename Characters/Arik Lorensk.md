@@ -2,7 +2,7 @@
 alias: Arik the Barkeep
 ---
 (CE male human commoner)
-![[
+![[Arik the Barkeep V2.webp|200]]
 ## Playing Arik
 - Pudgy little man
 - He mindlessly cleans glasses one after another
