@@ -3,7 +3,7 @@ alias: Tser Pool
 ---
 ## Locations
 ### Entering the Camp
-- Draw a stark contrast between what they've seen so far ([[Death House]] and [[Village of Barovia (E)]])
+- Draw a stark contrast between what they've seen so far ([[Locations/Death House]] and [[Village of Barovia (E)]])
 	- These people are colorful and having fun singing and drinking around the fire
 
 ### [[Madam Eva]]'s Tent
