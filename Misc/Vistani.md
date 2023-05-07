@@ -35,7 +35,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 		 - [[Vallaki]] in the heart of the valley
 		 - [[Village of Barovia (E)|Barovia]] to the east
 		 - Strahd has spies in each settlement
-- There's an old windmill ([[Old Bonegrinder]]) on the road between the [[Village of Barovia (E)]] and  the town of [[Vallaki]]
+- There's an old windmill ([[Old Bonegrinder (O)]]) on the road between the [[Village of Barovia (E)]] and  the town of [[Vallaki]]
 	- It should be avoided at all costs! (They refuse to say more)
 - It is wise to stick to the road
 	- Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods (C)]]

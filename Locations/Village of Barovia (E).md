@@ -213,7 +213,7 @@ Contents:
 - if approaching:
 	> You catch a delicious smell on the air. You see that the figure is an old lady. She's just handed something to the person in the house, and he is thanking her profusely
 - The players meet [[Morgantha]] selling her dream pastries
-	- She's in the guise of an old woman and has come from [[Old Bonegrinder]] to sell her pastries
+	- She's in the guise of an old woman and has come from [[Old Bonegrinder (O)]] to sell her pastries
 - She has a small variety of pies (they don't have to be meat. Just contain kid parts like ground up bones)
 	- Meat pies, maple nut pies, and a hearty pie with a potato base
 	- if asked the type of meat:
