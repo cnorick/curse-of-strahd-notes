@@ -63,33 +63,19 @@
 - Firstly, don't change their alignment. I've always though that automatic alignment shifts were pretty shallow (I've got a oodles to say about the Amber Temple, but I'll cover that in another post). After all, it's not like most infected PCs are actively choosing to be evil when they're bitten. Alignment should be about personality and character growth, not a con save. Instead, make lycanthropy a story element.
 
 ### The Benefits of Being Cursed by Lycanthropy
-    
+- PCs are immune to nonmagical and non silvered damage. Wounds made by such damage heal instantaneously.
+- PCs get advantage on all skill checks relying on smell and hearing (if a werewolf) or sight and hearing (if a wereraven).
+- Their Strength score automatically is increased to 18 (if a werewolf) or their Dexterity score automatically is increased to 18 (if a wereraven). If their Strength/Dexterity is already an 18 or higher, it doesn't change.
+- Beasts of the same classification of the PC's lycanthropy regard the PC with cautious friendship and don't outright attack.
 
--   PCs are immune to nonmagical and non silvered damage. Wounds made by such damage heal instantaneously.
-    
--   PCs get advantage on all skill checks relying on smell and hearing (if a werewolf) or sight and hearing (if a wereraven).
-    
--   Their Strength score automatically is increased to 18 (if a werewolf) or their Dexterity score automatically is increased to 18 (if a wereraven). If their Strength/Dexterity is already an 18 or higher, it doesn't change.
-    
--   Beasts of the same classification of the PC's lycanthropy regard the PC with cautious friendship and don't outright attack.
-    
+### The Negatives of Being Cursed by Lycanthropy
+- Narratively, the PC changes form every night and looses control of their character. More details on this in the next section.
+- Because they run around each night, an infected PC can not benefit from a short or long rest unless it is taken during the day. After three consecutive days without a long rest, the PC should take a level of exhaustion, which becomes cumulative. Whenever a PC transforms into were-form, they regain half their total HP, but no spell slots or other benefits requiring a rest.
 
--   The Negatives of Being Cursed by Lycanthropy
-    
-
--   Narratively, the PC changes form every night and looses control of their character. More details on this in the next section.
-    
--   Because they run around each night, an infected PC can not benefit from a short or long rest unless it is taken during the day. After three consecutive days without a long rest, the PC should take a level of exhaustion, which becomes cumulative. Whenever a PC transforms into were-form, they regain half their total HP, but no spell slots or other benefits requiring a rest.
-    
-
--   Surprise, Surprise
-    
-
--   DON'T TELL YOUR PC WHETHER OR NOT THEY'VE BEEN TURNED INTO A LYCANTHROPE.
-    
--   Have them make their save against the bite and then don't say anything. Just saying, "Whelp! You failed so this is how it's going to be now." is such a wasted opportunity.
-    
--   Instead, slowly reveal the benefits and negatives of their curse. After the first night when they black out, tell them that, by the way, they don't get the long rest. If they have to roll a perception check, have them roll with advantage and don't tell them why. If they make a melee attack and their normal modifier is a +2, remember it's actually a +4 now. They'll be surprised when they start landing hits they feel like they should have missed. Make their powers a discovery and it'll be so much cooler for them.
+### Surprise, Surprise
+- DON'T TELL YOUR PC WHETHER OR NOT THEY'VE BEEN TURNED INTO A LYCANTHROPE.
+- Have them make their save against the bite and then don't say anything. Just saying, "Whelp! You failed so this is how it's going to be now." is such a wasted opportunity.
+-  Instead, slowly reveal the benefits and negatives of their curse. After the first night when they black out, tell them that, by the way, they don't get the long rest. If they have to roll a perception check, have them roll with advantage and don't tell them why. If they make a melee attack and their normal modifier is a +2, remember it's actually a +4 now. They'll be surprised when they start landing hits they feel like they should have missed. Make their powers a discovery and it'll be so much cooler for them.
     
 
 -   Playing an Infected PC Narratively
