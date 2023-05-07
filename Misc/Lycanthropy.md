@@ -90,31 +90,18 @@
 
 ## Removing the Curse of Lycanthropy
 
--   Quick Note on Inherited Lycanthropes
-    
+### Quick Note on Inherited Lycanthropes
+- In the edits I've incorporated into CoS, inherited lycanthropy isn't a curse. It's pretty much a race. So you pretty much can't get rid of it. Inherited lycanthropy can only be removed by the Fanes themselves, usually because the individual has somehow wronged them or abused their blessing.
 
--   In the edits I've incorporated into CoS, inherited lycanthropy isn't a curse. It's pretty much a race. So you pretty much can't get rid of it. Inherited lycanthropy can only be removed by the Fanes themselves, usually because the individual has somehow wronged them or abused their blessing.
-    
+### Too Simple RAW
+- As written, infected lycanthropes can get rid of their curse with a remove curse spell. This sounds great, except for the fact that that's a level 3 spell and easily accessible throughout Barovia. Not only can magic classed PCs get the spell pretty easily, but every priest and notable NPC seems to have the spell as well. You should make infected lycanthropy be more of an ordeal than that.
+- Guildsbounty's [post](https://www.reddit.com/r/CurseofStrahd/comments/95xc54/my_notes_on_the_werewolves_of_barovia/) has some great stuff on removing the curse, but I found it just a smidgen too complicated for practical use in game. A lot can go wrong and the information on the process would be hard to come by. Instead, I've borrowed and modified certain ideas as well as added a few of my own.
 
--   Too Simple RAW
-    
-
--   As written, infected lycanthropes can get rid of their curse with a remove curse spell. This sounds great, except for the fact that that's a level 3 spell and easily accessible throughout Barovia. Not only can magic classed PCs get the spell pretty easily, but every priest and notable NPC seems to have the spell as well. You should make infected lycanthropy be more of an ordeal than that.
-    
--   Guildsbounty's [post](https://www.reddit.com/r/CurseofStrahd/comments/95xc54/my_notes_on_the_werewolves_of_barovia/) has some great stuff on removing the curse, but I found it just a smidgen too complicated for practical use in game. A lot can go wrong and the information on the process would be hard to come by. Instead, I've borrowed and modified certain ideas as well as added a few of my own.
-    
-
-Better Ways to Get Rid of Lycanthropy
-
--   Greater Restoration Spell
-    
-
--   Greater Restoration is a fifth level spell that magic classes don't even have access to until level 9. What's more, there are almost no NPCs that have the spell in game, making it much harder to find. In fact, unless I overlooked somebody (which is entirely possible, gosh there's a lot of NPCs) only Madam Eva has Greater Restoration RAW.
-    
--   A couple other NPCs, like Van Richten, can theoretically switch out their 5th level slot for Greater Restoration after a long rest, but that's neither here nor there.
-    
-
--   In fact, from a role play standpoint, I wouldn't recommend giving Van Richten access to the spell at all. He's a monster hunter, not a monster curer, after all. Helping those cursed by monsters has never been as important as killing the monster itself in his eyes.
+## Better Ways to Get Rid of Lycanthropy
+### Greater Restoration Spell
+- Greater Restoration is a fifth level spell that magic classes don't even have access to until level 9. What's more, there are almost no NPCs that have the spell in game, making it much harder to find. In fact, unless I overlooked somebody (which is entirely possible, gosh there's a lot of NPCs) only Madam Eva has Greater Restoration RAW.
+- A couple other NPCs, like Van Richten, can theoretically switch out their 5th level slot for Greater Restoration after a long rest, but that's neither here nor there.
+- In fact, from a role play standpoint, I wouldn't recommend giving Van Richten access to the spell at all. He's a monster hunter, not a monster curer, after all. Helping those cursed by monsters has never been as important as killing the monster itself in his eyes.
     
 
 -   If you're expanding Strahd (as many DMs do), you might have given him access to a whole bunch of spells, including Greater Restoration. It'd be rather ironic if a lycanthrope player's only hope is the big bad guy himself. ;)
