@@ -118,3 +118,6 @@ father: [[Kolyan Indirovich]]
 monster: Noble
 hp: 14
 ```
+
+```dataviewjs
+```

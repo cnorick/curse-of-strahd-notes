@@ -51,3 +51,6 @@ alias: Ismark
 ```statblock
 monster: Veteran
 ```
+
+```dataviewjs
+```

@@ -23,3 +23,6 @@ Daughter: [[Gertruda]]
 ```statblock
 monster: Commoner
 ```
+
+```dataviewjs
+```

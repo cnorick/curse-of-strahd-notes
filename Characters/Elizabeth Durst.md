@@ -36,3 +36,6 @@ Children: [[Rosevalda|Rose]], [[Thornboldt|Thorn]]
 ```statblock
 monster: Ghast
 ```
+
+```dataviewjs
+```

@@ -15,3 +15,6 @@
 ```statblock
 monster:
 ```
+
+```dataviewjs
+```

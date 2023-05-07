@@ -36,3 +36,6 @@ Father: [[Donavich]]
 ```statblock
 monster: Vampire Spawn
 ```
+
+```dataviewjs
+```
