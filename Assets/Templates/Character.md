@@ -1,5 +1,5 @@
 (NE human)
-![[<% tp.frontmatter["image"] %>]]
+![[Arik the Barkeep V2.webp|200]]
 ## Playing <% tp.file.title %>
 
 ## History/Info

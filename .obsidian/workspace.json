@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Character.md"
+                "file": "Characters/Bildrath Cantemir.md"
               }
             }
           }
@@ -195,12 +195,15 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
-    "Characters/Anakir.md",
     "Assets/Templates/Character.md",
+    "Characters/Bildrath Cantemir.md",
+    "Assets/Images/Arik the Barkeep V2.webp",
+    "Assets/Images/mad mary.png",
+    "Assets/Images/Parriwimple.jpg",
+    "Characters/Anakir.md",
     "undefined.md",
     "Characters/Gustav Durst.md",
     "Characters/Elizabeth Durst.md",
-    "Characters/Bildrath Cantemir.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
@@ -224,7 +227,6 @@
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/no-spoilers/campaign-notes/scripts",
     "Website/no-spoilers/campaign-notes/styles/plugin-styles.css",
@@ -238,9 +240,6 @@
     "Website/site/assets/images/parriwimple.jpg",
     "Website/site/assets/images/doru.png",
     "Website/site/assets/images/death-house-kids.png",
-    "Website/site/assets/images/bildrath.jpg",
-    "Website/site/assets/images/barovia.jpg",
-    "Assets/Images/Parriwimple.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
