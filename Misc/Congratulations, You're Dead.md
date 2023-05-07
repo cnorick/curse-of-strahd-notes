@@ -26,7 +26,7 @@ There are a handful of NPCs in this campaign that would work well as PCs. Depend
 If you choose this option, you would just take over that NPCs character sheet. This may require some serious dedication to roleplaying the character as their backstory and motivations may be important drivers for the narrative.
 
 ## 4. Hope the Party Revives You (... somehow)
-This is the default option for this campaign and what I will assume you're doing until you say otherwise. Even though tthis is a totally fine way to approach your
+This is the default option for this campaign and what I will assume you're doing until you say otherwise. Even though this is the short-term default, this is still a totally fine way to approach your character's death. You'll be a ghost for a while, but the party *may* be able to figure out how to save you. If all else fails, you can fall back to one of the other options.
 
 You're now a ghost (not the ghost monster type, but you're spirit has just been separated from your body). Here's what that means:
 
