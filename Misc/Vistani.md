@@ -70,5 +70,6 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 6. The target is blinded, deafened, or both. When this curse ends, the Vistana takes **5d6 psychic damage**
 
 ## Evil Eye
--  As an action, a Vistana can target a creature within **10 feet** that the Vistana can see. This magical ability, which the Vistani call the Evil Eye, **d****uplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice)**, but requires neither so­matic nor material components.
--   The **spell save DC is 8 + the caster's proficiency bonus+ the caster's Charisma modifier.** If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn. A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours
+-  As an action, a Vistana can target a creature within **10 feet** that the Vistana can see.
+- This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice), but requires neither so­matic nor material components
+- The **spell save DC is 8 + the caster's proficiency bonus+ the caster's Charisma modifier.** If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn. A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours
