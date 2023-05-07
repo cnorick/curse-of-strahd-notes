@@ -117,7 +117,9 @@
 >
 >You find yourself psychically drawn towards the interior of the large tent. Without consciously doing so, you start walking towards it. Inside, there sits a woman, her her face and form concealed by a dark purple cloak.
 >
->She draws a card from a deck that sits atop the table. You can make out the card clearly {pull out the card} -- written atop the card
+>She draws a card from a deck that sits atop the table. You can make out the card clearly {pull out the card} -- written atop the card are the words "The Mists".
+>
+>The woman speaks. "The distance between
 >
 >The dreamer is then psychically drawn to the interior of Madam Eva’s tent, where the seer sits, her face and form concealed by a dark purple cloak. Eva draws a card from the Tarokka deck atop the table - the Mists card. She informs the PC that the distance between them renders her Sight blurred and obscured, and invites the PC to join her at Tser Pool to learn what the future holds. The dream’s Madam Eva addresses each character by name, and each one recalls the experience vividly. When the party arrives at Tser Pool, Madam Eva does not acknowledge the dream, but does coyly suggest that she can see the strings of Fate that have born them to her door.
 
