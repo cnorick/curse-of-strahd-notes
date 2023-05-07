@@ -4,7 +4,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 66
+    "downscalePercent": 50
   },
   "vimMode": true,
   "spellcheck": true,
