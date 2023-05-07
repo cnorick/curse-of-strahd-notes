@@ -170,9 +170,9 @@ Contents:
 
 - After the funeral, the man is gone; You don't know where he went
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft]] as possible
-	- He proposes the PCs take her to the [[Krezk#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
+	- He proposes the PCs take her to the [[Krezk (S)#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
 		- {He doesn't know that the Abbey is evil now}
-		- ([[Vallaki]] is on the way to [[Krezk]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
+		- ([[Vallaki]] is on the way to [[Krezk (S)]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
 
 ## After the Funeral
 - With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]

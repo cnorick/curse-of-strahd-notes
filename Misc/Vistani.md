@@ -31,7 +31,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- They have no charm, hope, or spark, and they don't cry
  - The [[Old Svalich Road]] passes through Strahd's domain
 	 - Three settlements lie on the road like beads on a string
-		 - [[Krezk]] to the west
+		 - [[Krezk (S)]] to the west
 		 - [[Vallaki]] in the heart of the valley
 		 - [[Village of Barovia (E)|Barovia]] to the east
 		 - Strahd has spies in each settlement
