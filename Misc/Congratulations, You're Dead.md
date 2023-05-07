@@ -46,3 +46,7 @@ You've gained the ability to possess other characters (Can be NPCs or PCs). When
 	- You gain full control of the character's body
 	- You keep your own mental stats/abilities (intelligence, wisdom, charisma)
 	- You get the possessed creature's physical stats( strength, dex, con)
+- It lasts up to 3 hours
+	- You may voluntarily end possession at any time
+- You have to take a short rest before you can attempt again
+- If you attempt to possess the same creature again, it has advantage on the charism
