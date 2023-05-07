@@ -1,4 +1,5 @@
 ## Overall Clarifications and Reminders
+
 ### Damage Immunities
 - Lycanthropes RAW are immune to nonmagical and non silvered damage. But, come on. A werewolf's skin isn't made of titanium. There's no a way a sword should just bounce off.
 - Instead, use some flavor and make it so that such wounds heal instantaneously. Essentially, yes, they're still immune, but this makes far more sense.
@@ -7,25 +8,14 @@
 ### Inherited vs. Infected Lycanthropes in Barovia
 - I'll go into this in more detail in the following sections, but I'd like to lay out who's who.
 - Wereravens
-    
+	- Currently, all wereravens in Barovia are inherited lycanthropes. The Keepers of the Feather have been very careful with their ability and don't spread it willy nilly. Unless you'd like to come up with an original NPC that's an infected wereraven instead of natural born, they're all inherited lycanthropes.
+	- The Martikovs are the main wereraven family in the valley. However, with mentions of NPCs like Muriel, you can assume there are one or two other families of natural born wereravens in Barovia, though perhaps not quite as large.
+- Werewolves
+	- The werewolf pack north of Kresk is made up mostly of infected werewolves, with a few inherited werewolves in leader positions.
+	- The following are natural born, inherited werewolves: Kiril, Emil, Zuleika, Skennis (the elder), Wensencia (the mother figure), and Franz (the book's suggested backup leader).
 
--   Currently, all wereravens in Barovia are inherited lycanthropes. The Keepers of the Feather have been very careful with their ability and don't spread it willy nilly. Unless you'd like to come up with an original NPC that's an infected wereraven instead of natural born, they're all inherited lycanthropes.
-    
--   The Martikovs are the main wereraven family in the valley. However, with mentions of NPCs like Muriel, you can assume there are one or two other families of natural born wereravens in Barovia, though perhaps not quite as large.
-    
-
--   Werewolves
-    
-
--   The werewolf pack north of Kresk is made up mostly of infected werewolves, with a few inherited werewolves in leader positions.
-    
--   The following are natural born, inherited werewolves: Kiril, Emil, Zuleika, Skennis (the elder), Wensencia (the mother figure), and Franz (the book's suggested backup leader).
-    
-
--   Drop yo sh*t bro
-    
-
--   NPCs and PCs who shape change due to lycanthropy don't have their stuff change with them. Their clothes will rip and sag. Their items and packs will be dropped. Don't forget this element.
+### Drop yo sh*t bro
+- NPCs and PCs who shape change due to lycanthropy don't have their stuff change with them. Their clothes will rip and sag. Their items and packs will be dropped. Don't forget this element.
     
 
 Inherited Lycanthropy
