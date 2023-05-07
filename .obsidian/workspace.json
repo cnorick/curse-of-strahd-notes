@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Monsters/Dog.md",
+                "file": "Characters/Arik Lorensk.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Dog.md",
+                "file": "Characters/Arik Lorensk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Dog.md",
+                "file": "Characters/Arik Lorensk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Dog.md"
+                "file": "Characters/Arik Lorensk.md"
               }
             }
           }
@@ -182,6 +182,12 @@
   },
   "active": "c130d6b09aaa35ac",
   "lastOpenFiles": [
+    "Characters/Donavich.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Bardolf.md",
+    "Characters/Arik Lorensk.md",
+    "Assets/Templates/Character.md",
+    "Custom Monsters/Dog.md",
     "Characters/Walter.md",
     "Characters/Thornboldt.md",
     "Characters/Tatyana.md",
@@ -202,12 +208,6 @@
     "Characters/Gustav Durst.md",
     "Characters/Gertruda.md",
     "Characters/Gadof Blinsky.md",
-    "Characters/Elora.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Doru.md",
-    "Characters/Donavich.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bardolf.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
