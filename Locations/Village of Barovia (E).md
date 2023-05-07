@@ -121,7 +121,8 @@
 >
 >The woman speaks. "\<PC Name\>, The distance between us renders my Sight blurred and obscured. Please, join me at Tser Pool to learn what the future holds."
 >
->The dreamer is then psychically drawn to the interior of Madam Eva’s tent, where the seer sits, her face and form concealed by a dark purple cloak. Eva draws a card from the Tarokka deck atop the table - the Mists card. She informs the PC that the distance between them renders her Sight blurred and obscured, and invites the PC to join her at Tser Pool to learn what the future holds. The dream’s Madam Eva addresses each character by name, and each one recalls the experience vividly. When the party arrives at Tser Pool, Madam Eva does not acknowledge the dream, but does coyly suggest that she can see the strings of Fate that have born them to her door.
+>You sleep dreamlessly for the rest of the night. 
+- When the
 
 ### Church (E5)
 > Atop a slight rise, against the roots of the pillar stone that supports [[Castle Ravenloft]] stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is work and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load
