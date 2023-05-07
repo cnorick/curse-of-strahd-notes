@@ -23,12 +23,15 @@
             "id": "b0439950adec3911",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Madam Eva.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Village of Barovia (E).md"
+              }
             }
           }
         ]
@@ -161,8 +168,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b0439950adec3911",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Characters/Madam Eva.md",
     "Locations/Village of Barovia (E).md",
     "Locations/Death House.md",
     "Death House.md",
@@ -193,7 +201,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Mad Mary.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
