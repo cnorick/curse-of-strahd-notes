@@ -35,6 +35,7 @@ You're now a ghost (not the ghost monster type, but you're spirit has just been 
 	- The other players can't see or hear you at all, but you can see/hear them
 	- So after you read this, don't communicate with anyone at the table about the game at all; don't tell them what your character is doing, and don't say anything about these rules
 - You can't move too far from your physical body (I'll tell you when you're too far)
-- Possession:
-	- You've gained the ability to possess other characters
-	- 
+
+### Possession:
+You've gained the ability to possess other characters. When you'd like to try to possess someone, tell me that
+- To possess, you must enter a charisma contest with the possessed
