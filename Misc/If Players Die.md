@@ -15,17 +15,13 @@
 
 ## The Ghost Effect
 - After a character dies, have them come back as a ghost (not an actual ghost monster, btw). After all, their soul can’t leave Barovia because of the mists, so even canonically it makes sense.
-- Possession
-	- As a ghost, the PC is invisible and can't interact with the living world in any way. The other players can't see or hear the dead PC at all.
-    -   However, the ghost player has the ability to temporarily possess other intelligent creatures (must have the aptitude for language), so that they can continue to interact with the campaign. When trying to possess a creature, they must enter a charisma contest with the possessed. On a success, the dead PC gains full control of the creature's body. While they keep their own mental stats and abilities, they must use the physical stats of the possessed creature.
-        
-    -   Possession lasts up to 3 hours, at which point the PC ghost is expelled from the body. They must take a short rest before they can attempt possession again. If the PC attempts to possess the same creature as before, the creature has advantage on their charisma contest to fend off possession.
-        
--   The Mist Wall
-    
-    -   As a ghost, the PC is still technically attached to their body, even if they possess another creature, and cannot go farther than 300 ft from their corpse. At that radius, the dead PC can see an obtrusive wall of mist 360 degrees around them. If the ghost PC approaches the mist, they can see ominous, gargantuan dark shapes moving within (Dark Powers) as well as see the distant shapes of other dead humanoids running in the mists (dead Barovians waiting to be reincarnated and trying to hide from the prowling Dark Powers). Every day the PC remains dead, the radius of the mist wall shrinks by 30 ft.
-        
-    -   While a ghost, a PC has 1d8+2 days to be resurrected into their own body. After that, their body becomes too decayed to properly sustain life. The PC has 10 days (until the mist wall shrinks completely) to be resurrected at all, possibly into another body. This can be a constructed creature without a soul, like Vasilka, or a soulless Barovian. The Abbot, Jeny Greenteeth, and Madam Eva are the only ones capable of tying a soul to a new vessel. Once the mist wall closes and consumes the PC ghost, they are officially and irrevocably dead and have to roll a new character.
+### Possession
+- As a ghost, the PC is invisible and can't interact with the living world in any way. The other players can't see or hear the dead PC at all
+- However, the ghost player has the ability to temporarily possess other intelligent creatures (must have the aptitude for language), so that they can continue to interact with the campaign. When trying to possess a creature, they must enter a charisma contest with the possessed. On a success, the dead PC gains full control of the creature's body. While they keep their own mental stats and abilities, they must use the physical stats of the possessed creature.
+- Possession lasts up to 3 hours, at which point the PC ghost is expelled from the body. They must take a short rest before they can attempt possession again. If the PC attempts to possess the same creature as before, the creature has advantage on their charisma contest to fend off possession.
+- The Mist Wall
+    - As a ghost, the PC is still technically attached to their body, even if they possess another creature, and cannot go farther than 300 ft from their corpse. At that radius, the dead PC can see an obtrusive wall of mist 360 degrees around them. If the ghost PC approaches the mist, they can see ominous, gargantuan dark shapes moving within (Dark Powers) as well as see the distant shapes of other dead humanoids running in the mists (dead Barovians waiting to be reincarnated and trying to hide from the prowling Dark Powers). Every day the PC remains dead, the radius of the mist wall shrinks by 30 ft.
+    - While a ghost, a PC has 1d8+2 days to be resurrected into their own body. After that, their body becomes too decayed to properly sustain life. The PC has 10 days (until the mist wall shrinks completely) to be resurrected at all, possibly into another body. This can be a constructed creature without a soul, like Vasilka, or a soulless Barovian. The Abbot, Jeny Greenteeth, and Madam Eva are the only ones capable of tying a soul to a new vessel. Once the mist wall closes and consumes the PC ghost, they are officially and irrevocably dead and have to roll a new character.
 
 ## A Player Character as Ireena ([source](https://www.reddit.com/r/CurseofStrahd/comments/8xu9lo/fleshing_out_curse_of_strahd_the_village_of/))
 - If at all possible, make Ireena a Player Character. Now, this doesn't mean you have to force Ireena's personality down one of your player's throats. Instead, focus on the _function_ of Ireena's character.
