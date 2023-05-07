@@ -1,8 +1,9 @@
 ---
 aliases: []
-image: 
+image: Bildrath.jpg
 ---
 (NE human)
+![[<%tp.file.image%>]]
 ## Playing <% tp.file.title %>
 
 ## History/Info
