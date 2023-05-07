@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Mechanics of Dream Pastries.md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Characters/Doru.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Doru.md",
     "Characters/Donavich.md",
     "Locations/Castle Ravenloft (K).md",
     "Characters/Ireena Kolyana.md",
