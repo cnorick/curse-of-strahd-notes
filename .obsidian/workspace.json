@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Parriwimple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Parriwimple.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Parriwimple.md"
               }
             }
           }
@@ -180,36 +180,73 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad0558792a14f5ea",
+  "floating": {
+    "id": "f52b9e739cf35dd4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f5dfe764c7d641c7",
+        "type": "window",
+        "children": [
+          {
+            "id": "a6af4e9b20562ce0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b0e2b7c5e637f7f5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Parriwimple.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 900,
+        "height": 450,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b0e2b7c5e637f7f5",
   "lastOpenFiles": [
-    "Characters/Arik Lorensk.md",
-    "Locations/Village of Barovia (E).md",
-    "Characters/Bildrath Cantemir.md",
-    "Misc/Barovian Lore.md",
-    "Locations/Death House.md",
-    "Death House.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Characters/Doru.md",
-    "Characters/Donavich.md",
-    "Locations/Castle Ravenloft (K).md",
+    "Characters/Rictavio.md",
+    "Characters/Rosevalda.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Shalooti.md",
+    "Characters/Tatyana.md",
+    "Characters/Walter.md",
+    "Characters/Thornboldt.md",
+    "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
-    "Characters/Mad Mary.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Misc/Vistani.md",
-    "Characters/Parriwimple.md",
-    "Misc/Adventuring Gear.md",
-    "Index.md",
-    "Characters/King Barov.md",
+    "Characters/Doru.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/The Abbott.md",
     "Characters/Queen Ravenovia.md",
-    "Locations/Old Bonegrinder (O).md",
+    "Characters/King Barov.md",
+    "Locations/Old Svalich Road.md",
+    "Locations/Tser Pool Encampment (G).md",
+    "Locations/Village of Barovia (E).md",
+    "Locations/Vallaki.md",
+    "Locations/Krezk (S).md",
     "Locations/Svalich Woods (C).md",
-    "Characters/Madam Eva.md",
-    "Characters/Lancelot.md",
-    "Handouts/Stat Blocks/Lancelot Stat Block.md",
-    "Misc/Congratulations, You're Dead.md",
+    "Locations/Old Bonegrinder (O).md",
+    "Locations/Castle Ravenloft (K).md",
+    "Locations/Death House.md",
+    "Custom Monsters/Dog.md",
+    "Index.md",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/dead-pc.jpg",
     "Website/site/misc/lycanthropy.html",
     "Website/site/misc/music-compiled.html",
