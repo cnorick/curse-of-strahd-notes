@@ -15,6 +15,7 @@
 	- [[Ismark Kolyanovich]] sitting by himself and sipping wine (see [[#Meeting Ismark]])
 - Glass of wine costs 1cp; pitcher: 1sp
 - There is only wine in this world. No beer, no mead, no liquor
+- Good place to meet new PCs if necessary
 
 #### Vistani Owners
 - Remember to describe how flamboyant they are

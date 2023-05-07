@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Arik Lorensk.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Arik Lorensk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Arik Lorensk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Barovian Lore.md"
+                "file": "Characters/Arik Lorensk.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
+    "Characters/Bildrath Cantemir.md",
+    "Misc/Barovian Lore.md",
     "Locations/Death House.md",
     "Death House.md",
     "Misc/Mechanics of Dream Pastries.md",
@@ -194,7 +196,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Misc/Vistani.md",
     "Characters/Arik Lorensk.md",
-    "Characters/Bildrath Cantemir.md",
     "Characters/Parriwimple.md",
     "Misc/Adventuring Gear.md",
     "Index.md",
@@ -212,7 +213,6 @@
     "Website/site/assets/images/dead-pc.jpg",
     "Website/site/misc/lycanthropy.html",
     "Website/site/misc/music-compiled.html",
-    "Campaign/Session 0.md",
     "Assets/Images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg.crdownload",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
