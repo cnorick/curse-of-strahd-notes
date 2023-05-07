@@ -33,5 +33,7 @@ You're now a ghost (not the ghost monster type, but you're spirit has just been 
 - You're invisible
 - You can't interact with the living world in any way
 	- The other players can't see or hear you at all, but you can see/hear them
-	- So after you read this, don't communicate with anyone at the table about the game at all; don't tell them what your ch
-- 
+	- So after you read this, don't communicate with anyone at the table about the game at all; don't tell them what your character is doing
+- You can't move too far from your physical body (I'll tell you when you're too far)
+- Possession:
+	- You 
