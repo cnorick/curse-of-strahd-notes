@@ -41,7 +41,5 @@ def updateSessionFiles(folder):
           overwriteFile(handle, soup)
 
 
-
-
 updateIndexFile(sys.argv[1])
 updateSessionFiles(sys.argv[2])
