@@ -11,4 +11,4 @@ This is really kinda the default for DnD. Your old character has completely died
 As you can probably already tell, Barovia is a strange place with a few rules that are different from other DnD settings. Without going into too much detail, there is an in-universe feature that allows this to happen. Mechanically, this is what will happen.
 - You use the same character sheet as is except for the following:
 	- You change your character name so its clear to everyone that the original character died
-	- You roll for a new flaw
+	- You roll for a new character flaw
