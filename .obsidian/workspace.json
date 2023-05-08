@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 1.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 1.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -180,83 +180,46 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dfb94f41ef60d85a",
-        "type": "window",
-        "children": [
-          {
-            "id": "01e1f909f7eb9e19",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "94b0d9cff588b9a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Session Notes/Session 1.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "94b0d9cff588b9a7",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "TODO.md",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
-    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
-    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Letters/Tome of Strahd.md",
-    "Handouts/Letters/Strahd's Invitation.md",
-    "Handouts/Images/Death House Front.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
-    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
-    "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Ravenloft.md",
-    "Handouts/Maps/Village of Barovia.md",
+    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
+    "Website/no-spoilers/campaign-notes/session-notes",
+    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
+    "Assets/Templates/Character.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp.crdownload",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/site/characters/queen-ravenovia.html",
     "Website/site/characters/king-barov.html",
     "Website/site/locations/svalich-woods-(c).html",
-    "Website/site/locations/old-bonegrinder-(o).html",
-    "Website/site/locations/castle-ravenloft-(k).html",
     "Website/site/assets/images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg",
     "Website/site/assets/images/strahd.jpeg",
