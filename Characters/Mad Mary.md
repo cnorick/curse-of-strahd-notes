@@ -1,3 +1,6 @@
+---
+alias: Mary Swilova
+---
 (CN female human commoner)
 ![[mad-mary.png|200]]
 ## Playing Mad Mary

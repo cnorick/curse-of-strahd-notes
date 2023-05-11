@@ -1,3 +1,6 @@
+---
+alias: Granny
+---
 (NE Fiend)
 ![[granny.jpeg|200]]
 ## Playing Morgantha/Granny

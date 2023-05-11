@@ -1,3 +1,6 @@
+---
+alias: Bildrath
+---
 (LN male human commoner)
 ![[Assets/Images/Bildrath.jpg|150]]
 ## Playing Bildrath Cantemir

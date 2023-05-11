@@ -71,3 +71,6 @@ Death House Upstairs
 
 Death House Dungeon
 ![dungeon](https://www.youtube.com/watch?v=eqUiXz1tcmM)
+
+He is Ancient Chant
+![he is ancient](https://www.youtube.com/watch?v=hrkvtDeH5sk)
