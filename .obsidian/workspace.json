@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           }
@@ -180,45 +180,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "70b4128a60c5abdc",
-        "type": "window",
-        "children": [
-          {
-            "id": "5572266d79ec4c08",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "52f9e54b759c576e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Index.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "52f9e54b759c576e",
+  "active": "ad0558792a14f5ea",
   "lastOpenFiles": [
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-4.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
+    "Website/no-spoilers/campaign-notes/session-notes",
+    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
+    "Website/site/session-notes/session-4.html",
+    "Index.md",
     "Misc/Adventuring Gear.md",
     "Misc/Barovian Lore.md",
     "Misc/If Players Die.md",
@@ -243,20 +215,11 @@
     "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
     "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
     "Handouts/Letters/Tome of Strahd.md",
-    "Handouts/Letters/Strahd's Invitation.md",
-    "Handouts/Images/Death House Front.md",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
-    "Website/no-spoilers/campaign-notes/session-notes",
-    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp.crdownload",
-    "Website/site/characters/queen-ravenovia.html",
-    "Website/site/characters/king-barov.html",
     "Website/site/assets/images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg",
     "Website/site/assets/images/strahd.jpeg",

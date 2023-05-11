@@ -36,7 +36,7 @@
 
 </head>
 
-<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark" style="--zoom-factor:1; --font-text-size:15px; --line-width:75em; --line-width-adaptive:75em; --file-line-width:75em;">
+<body class="mod-windows is-frameless is-hidden-frameless obsidian-app show-inline-title show-view-header is-maximized theme-dark is-focused" style="--zoom-factor:1; --font-text-size:15px; --line-width:75em; --line-width-adaptive:75em; --file-line-width:75em;">
   <div class="flex-container">
     <div id="sidebar" class="sidebar-left">
       <div class="sidebar-content">
@@ -46,7 +46,7 @@
       </div>
     </div>
     <div class="center-content">
-      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;" tabindex="-1">
+      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
         <div>
           <h1 id="Death_House">
             <div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle">
@@ -307,14 +307,60 @@
             </ul>
           </div>
           <div>
+            <p></p>
+            <div tabindex="0" class="plyr plyr--full-ui plyr--audio plyr--html5 plyr--paused plyr--stopped yt-controls">
+              <div class="plyr__controls"><button class="plyr__controls__item plyr__control" type="button" data-plyr="restart"><svg aria-hidden="true" focusable="false">
+                    <use xlink:href="#plyr-restart"></use>
+                  </svg><span class="plyr__sr-only">Restart</span></button><button class="plyr__controls__item plyr__control" type="button" data-plyr="play" aria-label="Play"><svg class="icon--pressed" aria-hidden="true" focusable="false">
+                    <use xlink:href="#plyr-pause"></use>
+                  </svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false">
+                    <use xlink:href="#plyr-play"></use>
+                  </svg><span class="label--pressed plyr__sr-only">Pause</span><span class="label--not-pressed plyr__sr-only">Play</span></button>
+                <div class="plyr__controls__item plyr__progress__container">
+                  <div class="plyr__progress"><input data-plyr="seek" type="range" min="0" max="100" step="0.01" value="0" autocomplete="off" role="slider" aria-label="Seek" aria-valuemin="0" aria-valuemax="346.731" aria-valuenow="0" id="plyr-seek-3367" aria-valuetext="00:00 of 00:00" style="--value:0%;"><progress class="plyr__progress__buffer" min="0" max="100" value="100" role="progressbar" aria-hidden="true">% buffered</progress><span class="plyr__tooltip">00:00</span></div>
+                </div>
+                <div class="plyr__controls__item plyr__time--current plyr__time" aria-label="Current time">00:00</div>
+                <div class="plyr__controls__item plyr__time--duration plyr__time" aria-label="Duration">05:46</div>
+                <div class="plyr__controls__item plyr__volume"><input data-plyr="volume" type="range" min="0" max="1" step="0.05" value="0.25" autocomplete="off" role="slider" aria-label="Volume" aria-valuemin="0" aria-valuemax="100" aria-valuenow="25" id="plyr-volume-3367" aria-valuetext="25.0%" style="--value:25%;"></div>
+                <div class="plyr__controls__item plyr__menu"><button aria-haspopup="true" aria-controls="plyr-settings-3367" aria-expanded="false" type="button" class="plyr__control" data-plyr="settings"><svg aria-hidden="true" focusable="false">
+                      <use xlink:href="#plyr-settings"></use>
+                    </svg><span class="plyr__sr-only">Settings</span></button>
+                  <div class="plyr__menu__container" id="plyr-settings-3367" hidden="">
+                    <div>
+                      <div id="plyr-settings-3367-home">
+                        <div role="menu"><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Captions<span class="plyr__menu__value">Disabled</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true" hidden=""><span>Quality<span class="plyr__menu__value">undefined</span></span></button><button data-plyr="settings" type="button" class="plyr__control plyr__control--forward" role="menuitem" aria-haspopup="true"><span>Speed<span class="plyr__menu__value">Normal</span></span></button></div>
+                      </div>
+                      <div id="plyr-settings-3367-captions" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Captions</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+                        <div role="menu"></div>
+                      </div>
+                      <div id="plyr-settings-3367-quality" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Quality</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+                        <div role="menu"></div>
+                      </div>
+                      <div id="plyr-settings-3367-speed" hidden=""><button type="button" class="plyr__control plyr__control--back"><span aria-hidden="true">Speed</span><span class="plyr__sr-only">Go back to previous menu</span></button>
+                        <div role="menu"><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.5"><span>0.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="0.75"><span>0.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="true" value="1"><span>Normal</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.25"><span>1.25×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.5"><span>1.5×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="1.75"><span>1.75×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="2"><span>2×</span></button><button data-plyr="speed" type="button" role="menuitemradio" class="plyr__control" aria-checked="false" value="4"><span>4×</span></button></div>
+                      </div>
+                    </div>
+                  </div>
+                </div><button class="plyr__controls__item plyr__control" type="button" data-plyr="fullscreen"><svg class="icon--pressed" aria-hidden="true" focusable="false">
+                    <use xlink:href="#plyr-exit-fullscreen"></use>
+                  </svg><svg class="icon--not-pressed" aria-hidden="true" focusable="false">
+                    <use xlink:href="#plyr-enter-fullscreen"></use>
+                  </svg><span class="label--pressed plyr__sr-only">Exit fullscreen</span><span class="label--not-pressed plyr__sr-only">Enter fullscreen</span></button>
+              </div><audio playsinline="">
+                <source src="app://local/C:/Users/Nathan/Desktop/Strahd/obsidian/Assets/Music/Death%20House%20Music%20-%202)%20Rose%20and%20Thorn%20~%20The%20Peace%20Guild%20OST%20[yDCC7EcDr3k].m4a?1615644244000">
+              </audio>
+            </div>
+            <p></p>
+          </div>
+          <div>
             <blockquote>
               <p>You're all suddenly struck by a vision. You see <a data-tooltip-position="top" aria-label="Rosevalda" data-href="Rosevalda" href="../characters/rosevalda.html" class="internal-link" target="_self" rel="noopener">Rose</a> and <a data-tooltip-position="top" aria-label="Thornboldt" data-href="Thornboldt" href="../characters/thornboldt.html" class="internal-link" target="_self" rel="noopener">Thorn</a> playing in their room. They're alive. The house is clean, well-kept. A young woman walks in. She must be no older than 25, and she's incredibly pretty. You recognize her. It's <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a>. She's carrying a play tea set -- although, you can't tell its a play set; it seems incredibly expensive. The children cheer as she sits in the floor with them for a tea party.</p>
               <p>Flash forward, and you see <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a> in the kitchen, preparing the children's meals. She giggles as <a data-tooltip-position="top" aria-label="Gustav Durst" data-href="Gustav Durst" href="../characters/gustav-durst.html" class="internal-link" target="_self" rel="noopener">Mr. Durst</a> jokes with her. <a data-tooltip-position="top" aria-label="Elizabeth Durst" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" class="internal-link" target="_self" rel="noopener">Elizabeth</a> scowls behind a coffee cup in the corner of the room.</p>
               <p>Another flash, and you see <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a> on her bed, in labor. She's accompanied only by one of the other servants, who stands quietly by, holding her hand. Then, you see <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a> holding a newly-born baby <a data-href="Walter" href="../characters/walter.html" class="internal-link" target="_self" rel="noopener">Walter</a>. She whispers to him, "You look just like your father", as she breaks into quiet sobs.</p>
-              <p>Then another flash. <a data-tooltip-position="top" aria-label="Elizabeth Durst" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" class="internal-link" target="_self" rel="noopener">Mrs. Durst</a>, looks sorrowfully at herself in the mirror. You can hear <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a>'s screams in the distance as she's giving birth. "Where has your youth gone?", she whispers to her reflection. "If only you were younger. Maybe then, his eyes wouldn't betray his contempt when he looks at you."</p>
+              <p>Then another flash. <a data-tooltip-position="top" aria-label="Elizabeth Durst" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" class="internal-link" target="_self" rel="noopener">Mrs. Durst</a>, looks sorrowfully at herself in the mirror. You can hear <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a>'s screams in the distance as she's giving birth. "Where has your youth gone?", Elizabeth whispers to her reflection. "If only you were younger. Maybe then, his eyes wouldn't betray his contempt when he looks at you."</p>
               <p>We then see <a data-tooltip-position="top" aria-label="Elizabeth Durst" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" class="internal-link" target="_self" rel="noopener">Mrs. Durst</a> in the library, furiously and restlessly reading. Just reading. She sits one book down to pick up another. You actually recognize it. It's one of the books you saw in the secret room behind the bookshelf. It's a book of dark magic. She flips to a page that has been bookmarked. The heading reads, "The Path to Immortality".</p>
               <p>Flash. <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a> is wailing. She's begging. "Please. Please. Mrs. Durst. Not Walter. Anything but Walter. Take me. Mrs. Durst. Take me!"</p>
-              <p>Now, in the middle of altar, surrounded by what's left of her dwindling cult, <a data-tooltip-position="top" aria-label="Gustav Durst" data-href="Gustav Durst" href="../characters/gustav-durst.html" class="internal-link" target="_self" rel="noopener">Mr. Durst</a> nowhere to be found. She lays baby <a data-href="Walter" href="../characters/walter.html" class="internal-link" target="_self" rel="noopener">Walter</a> on the dais. She says the required words. She pulls out a knife. She completes the ritual.</p>
+              <p>Now, in the middle of altar, surrounded by what's left of her dwindling cult, <a data-tooltip-position="top" aria-label="Gustav Durst" data-href="Gustav Durst" href="../characters/gustav-durst.html" class="internal-link" target="_self" rel="noopener">Mr. Durst</a> nowhere to be found. Elizabeth lays baby <a data-href="Walter" href="../characters/walter.html" class="internal-link" target="_self" rel="noopener">Walter</a> on the dais. She says the required words. She pulls out a knife. She completes the ritual.</p>
               <p>A black cloud engulfs the room. The cultists try to run, but they're swallowed up. <a data-tooltip-position="top" aria-label="Elizabeth Durst" data-href="Elizabeth Durst" href="../characters/elizabeth-durst.html" class="internal-link" target="_self" rel="noopener">Mrs. Durst</a> falls to her knees, trembling. The <a data-href="Dark Powers" href="Dark Powers" class="internal-link is-unresolved" target="_self" rel="noopener">Dark Powers</a> have given to her the un-aging body she so desired, but she can't help but consider its cost as the inevitable full corruption of her mind is realized.</p>
               <p>Flash once more, and you're in the Main Hall of the house. It's filthy, covered in cobwebs and dust. Before you stands a spectral <a data-tooltip-position="top" aria-label="Rosevalda" data-href="Rosevalda" href="../characters/rosevalda.html" class="internal-link" target="_self" rel="noopener">Rose</a> holding a sleeping baby <a data-href="Walter" href="../characters/walter.html" class="internal-link" target="_self" rel="noopener">Walter</a>. By her side, <a data-tooltip-position="top" aria-label="Thornboldt" data-href="Thornboldt" href="../characters/thornboldt.html" class="internal-link" target="_self" rel="noopener">Thorn</a> cradles his doll, and for the first time, seems unfearful. Behind <a data-tooltip-position="top" aria-label="Rosevalda" data-href="Rosevalda" href="../characters/rosevalda.html" class="internal-link" target="_self" rel="noopener">Rose</a> stands a young, transparent <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a>, her hand rested on <a data-tooltip-position="top" aria-label="Rosevalda" data-href="Rosevalda" href="../characters/rosevalda.html" class="internal-link" target="_self" rel="noopener">Rose</a>'s shoulder.</p>
               <p><a data-tooltip-position="top" aria-label="Rosevalda" data-href="Rosevalda" href="../characters/rosevalda.html" class="internal-link" target="_self" rel="noopener">Rose</a> looks up at you and says "Thank you for saving or baby brother". <a data-href="Margaret" href="Margaret" class="internal-link is-unresolved" target="_self" rel="noopener">Margaret</a> raises her hand in a grateful wave, as the group fades from your sight.</p>

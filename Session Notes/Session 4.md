@@ -6,7 +6,7 @@ While arguing over what to do next, the party hears the shadows awake to begin a
 [[Bardolf]] followed the secret stairs up to find a trap door leading to the room with the stuffed wolves -- a quick escape if needed later.
 
 ## Interring the Children
-Having taken care of the immediate danger, and healing the party, [[Pelanil]] takes [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s bones back to their tombs and laid them to rest
+Having taken care of the immediate danger, and healing the party, [[Pelanil]] takes [[Rosevalda|Rose]] and [[Thornboldt|Thorn]]'s bones back to their tombs and laid them to rest.
 
 ## Exploring Lower
 Using the key she found around [[Gustav Durst|Gustav]]'s neck, [[Elora]] opened the gate that lead downward towards the chanting. Quietly sneaking down the stairs, the party finds themselves in a reliquary full of trophies, all severed body parts.
