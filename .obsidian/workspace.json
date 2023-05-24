@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Characters/Arahja.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Characters/Arahja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Characters/Arahja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 4.md"
+                "file": "Characters/Arahja.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "85a204aa0942b8f4",
   "lastOpenFiles": [
+    "Session Notes/Session 4.md",
+    "Characters/Arahja.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
@@ -194,7 +196,6 @@
     "Assets/Templates/Character.md",
     "Website/site/session-notes/session-5.html",
     "Website/site/assets/images/arahja.jpg",
-    "Website/site/handouts/images/portraits/portrait-of-arahja.html",
     "Website/site/assets/images/rina.jpg",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
@@ -219,7 +220,6 @@
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
-    "Characters/Rictavio.md",
     "Assets/Images/Rina.jpg",
     "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
