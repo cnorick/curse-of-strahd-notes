@@ -1,9 +1,8 @@
 (CN bandit)
 ![[rina.jpg|200]]
-## Playing Arahja
-- Boisterous and larger-than-life
-- booming laugh
-
+## Playing Rina
+- quieter and speaks little
+- but when she does speak, it's often profound and full of mischief
 ## History/Info
 
 ## What They Want
