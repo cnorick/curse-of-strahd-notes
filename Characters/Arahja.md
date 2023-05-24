@@ -1,4 +1,4 @@
-(NE human)
+(CN bandit)
 ![[arahja.jpg|200]]
 ## Playing Arahja
 - Boisterous and larger-than-life
@@ -17,7 +17,7 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: Bandit
 ```
 
 ```dataviewjs
