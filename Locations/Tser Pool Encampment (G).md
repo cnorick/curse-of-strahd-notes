@@ -30,6 +30,7 @@ alias: Tser Pool
 #### Trapped in Barovia
 - One way or another, work this into conversation
 	- Maybe make a passing joke:
+ 
 >Look at this one, Rina! His skin is so tan! Almost like Vistani, himself, eh?
 >Yes, show it off while you can, Giorgio. The coming years without sunlight are sure to steal it from you.
 
@@ -37,7 +38,7 @@ alias: Tser Pool
 	- Once in the mists, you're here forever "So welcome to your new home"
 - When the players ask how they might escape this land
 	- The Vistani don't know, but recommend talking to [[Madam Eva]]
-		- If there's any chance of escape, she
+		- If there's any chance of escape, she'd know it
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
