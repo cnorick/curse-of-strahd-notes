@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           }
@@ -170,9 +170,9 @@
   },
   "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
-    "Misc/Vistani.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Handouts/Images/Portraits/Portrait of Arahja.md",
+    "Misc/Vistani.md",
     "Locations/Tser Pool Encampment (G).md",
     "Assets/Images/arahja.jpg",
     "Characters/Arahja.md",
