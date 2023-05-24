@@ -137,11 +137,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +157,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b9df251fc7a6bd9",
+  "active": "545d006239561766",
   "lastOpenFiles": [
     "Misc/Card Reading.md",
     "Misc/Vistani.md",
