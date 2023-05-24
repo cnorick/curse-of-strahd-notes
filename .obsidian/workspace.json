@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85a204aa0942b8f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lancelot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lancelot.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lancelot.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -179,8 +166,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "85a204aa0942b8f4",
+  "active": "6264e9ccc1a876dc",
   "lastOpenFiles": [
+    "Characters/Lancelot.md",
+    "Locations/Village of Barovia (E).md",
     "Characters/Arahja.md",
     "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
@@ -214,12 +203,10 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
-    "Characters/Parriwimple.md",
     "Assets/Images/Rina.jpg",
     "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
