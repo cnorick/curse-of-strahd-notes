@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b9df251fc7a6bd9",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "01a2136118ff966f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -177,6 +168,7 @@
   },
   "active": "01a2136118ff966f",
   "lastOpenFiles": [
+    "Index.md",
     "Session Notes/Session 5.md",
     "Misc/Card Reading.md",
     "Locations/Village of Barovia (E).md",
@@ -206,7 +198,6 @@
     "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/session-notes/session-4.html",
-    "Index.md",
     "Misc/Adventuring Gear.md",
     "Misc/If Players Die.md",
     "Misc/Guest as Granny.md",
