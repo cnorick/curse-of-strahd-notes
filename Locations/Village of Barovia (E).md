@@ -240,4 +240,7 @@ Contents:
 E1: Mercantile
 E2: Tavern
 E3: Mad Mary
+E4: Burgomaster's Mansion
+E5: Church
+E6: Cemetery
 ![[barovia_village_tagged.jpg]]
