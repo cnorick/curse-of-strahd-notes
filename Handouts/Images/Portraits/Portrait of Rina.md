@@ -2,4 +2,4 @@
 public: false
 new_handout: true
 ---
-![[arahja.jpg]]
+![[Rina.jpg]]

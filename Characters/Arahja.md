@@ -1,5 +1,5 @@
 (NE human)
-![[Arik the Barkeep V2.webp|200]]
+![[arahja.jpg|200]]
 ## Playing Arahja
 
 ## History/Info

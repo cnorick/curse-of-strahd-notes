@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Arahja.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
+                "file": "Handouts/Images/Portraits/Portrait of Rina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
+                "file": "Characters/Arahja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
+                "file": "Characters/Arahja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md"
+                "file": "Characters/Arahja.md"
               }
             }
           }
@@ -169,12 +168,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "53a5d18496100bae",
+  "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Portraits/Portrait of Arahja 1.md",
-    "Misc/Vistani.md",
     "Locations/Tser Pool Encampment (G).md",
+    "Handouts/Images/Portraits/Portrait of Rina.md",
+    "Handouts/Images/Portraits/Portrait of Arahja.md",
+    "Misc/Vistani.md",
     "Assets/Images/Rina.jpg",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Assets/Images/arahja.jpg",
