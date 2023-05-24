@@ -13,8 +13,11 @@
 	- They have no charm, hope, or spark, and they don’t cry
 - The [[Old Svalich Road]] passes through Strahd’s domain
 	- Three settlements lie on the road like beads on a string
-		- [[Krezk (S)|Krezk]] to the west, [[Vallaki]] in the heart of the valley, and [[Villa to the east. Strahd has spies in each settlement.
-
-There’s an old windmill on the road between the village of Barovia and the town of Vallaki. It should be avoided at all costs! (The Vistani refuse to say more.)
+		- [[Krezk (S)|Krezk]] to the west
+		- [[Vallaki]] in the heart of the valley
+		- [[Village of Barovia (E)|Barovia]] to the east
+	- Strahd has spies in each settlement.
+- There’s an old windmill on the road between the [[Village of Barovia (E)]] and the town of [[Vallaki]]
+	- It should be avoided at all costs! (The Vistani refuse to say more.)
 
 It is wise to stick to the road. Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the Svalich Woods.
