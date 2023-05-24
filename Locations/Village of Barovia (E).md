@@ -237,4 +237,7 @@ Contents:
 - She'll point them to the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood on the Vine Tavern]], seeing how tired they seem to be after having just escaped [[Death House]]
 
 ## Map
+E1: Mercantile
+E2: Tavern
+E3: Mad Mary
 ![[barovia_village_tagged.jpg]]
