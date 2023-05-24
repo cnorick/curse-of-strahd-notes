@@ -17,9 +17,10 @@ alias: Tser Pool
 	- where they're headed
 	- how they ended up here
 	- what they thought of [[Village of Barovia (E)|Barovia Village]]
-- The group may ask about [[Strahd Von Zarovich|Strahd]] or the land:
-	- [[Vistani#Vistani Lore|Visatni Lore]]
- 
+- The group may ask about
+	- [[Strahd Von Zarovich|Strahd]] or the land:
+		- [[Vistani#Vistani Lore|Vistani Lore]]
+	- The 
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
