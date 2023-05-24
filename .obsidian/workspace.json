@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "28469c50c5a3741e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Barovian Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53a5d18496100bae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arahja.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           }
@@ -168,8 +181,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b9df251fc7a6bd9",
+  "active": "28469c50c5a3741e",
   "lastOpenFiles": [
+    "Characters/Arahja.md",
     "Locations/Tser Pool Encampment (G).md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
@@ -177,7 +191,6 @@
     "Assets/Images/Rina.jpg",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Assets/Images/arahja.jpg",
-    "Characters/Arahja.md",
     "Misc/Card Reading.md",
     "Characters/Madam Eva.md",
     "Session Notes/Session 4.md",
