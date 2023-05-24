@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +180,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9765374bff00d440",
+  "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
     "Locations/Tser Pool Encampment (G).md",
     "Misc/Vistani.md",

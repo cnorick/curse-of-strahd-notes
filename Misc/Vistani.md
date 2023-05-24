@@ -85,7 +85,7 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 		- The Vistani CAN NOT leave Barovia, just like everyone else. The book often implies that the Vistani can exert a certain level of control over the mists. In my version, this ability lies solely with Strahd himself. However, Strahd would never deny passage to a Vistana that asked to leave. All they need do is say the word and Strahd would open a gate for them through the mists, no questions asked
 		- Strahd doesn't hunt for either blood or consorts among the Vistani
 			- If a Vistana becomes a vampire spawn, it's because _they_ pursued Strahd, not the other way around.
-            
-    -   However, this also means that the Vistani don't have any problem with Strahd either. Unless Strahd actively does something to hurt one of their own, the Vistani won't cross him. The PCs can beg and plead, but the Vistani will not act against someone who is not their enemy.
-        
--   Otherwise, the Vistani will treat Strahd with the same hospitality that they'd show anyone else. They freely give and take information, no matter who's asking for it. So long as the info isn't overtly harmful or incriminating, the Vistani believe that sharing and caring go hand in hand.
+	- However, this also means that the Vistani don't have any problem with Strahd either. Unless Strahd actively does something to hurt one of their own, the Vistani won't cross him. The PCs can beg and plead, but the Vistani will not act against someone who is not their enemy.
+- Otherwise, the Vistani will treat Strahd with the same hospitality that they'd show anyone else
+	- They freely give and take information, no matter who's asking for it
+	- So long as the info isn't overtly harmful or incriminating, the Vistani believe that sharing and caring go hand in hand
