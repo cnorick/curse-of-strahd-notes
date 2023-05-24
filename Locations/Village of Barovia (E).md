@@ -24,10 +24,11 @@ alias: Barovia Village
 - Remember to describe how flamboyant they are
 	- Draw a line to the guy that delivered the letter
 - Three [[Vistani]] Spies ([[Alenka]], [[Mirabel]], and [[Sorvia]]) sit at a table near the door
-- They've been banished from the other [[Vistani]] because t
+- They've been banished from the other [[Vistani]] because of something they've done to support [[Strahd Von Zarovich|Strahd]]
 - They own the tavern and see that customers pay their tabs
 - They show little interest in the characters
 	- If they come with other [[Vistani]], they are more likely to engage in conversation and share info (see [[Vistani#Vistani Lore|Vistani Lore]])
+	- If the characters seem interested, they would accept payment for info
 - They tell the characters they should visit [[Madam Eva]]
 
 #### Meeting [[Ismark Kolyanovich|Ismark]]
