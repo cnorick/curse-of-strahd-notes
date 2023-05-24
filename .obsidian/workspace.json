@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "310c8c462efb15ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Old Bonegrinder (O).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53a5d18496100bae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           }
@@ -168,13 +181,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b9df251fc7a6bd9",
+  "active": "310c8c462efb15ab",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
     "Locations/Tser Pool Encampment (G).md",
     "Characters/Arahja.md",
     "Characters/Rina.md",
     "Misc/The Morninglord.md",
-    "Misc/Vistani.md",
     "Misc/Vistani Lore.md",
     "Locations/Vallaki.md",
     "Misc/Barovian Lore.md",
