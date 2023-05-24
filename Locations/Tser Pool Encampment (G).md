@@ -11,8 +11,9 @@ alias: Tser Pool
 	- [[Arahja]] doing most of the talking and [[Rina]] chiming in every now and then
 - There are 12 bandits that are drinking and 3 sober bandit captains
 
-### Questions for the Group
-- At the campfire [[Arahja]] may ask the group
+### Questions for and from the Group
+- At the campfire [[Arahja]] may ask the group where they're from and where they're headed
+- 
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
