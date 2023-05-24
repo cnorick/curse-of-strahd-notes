@@ -29,6 +29,9 @@ alias: Tser Pool
 
 #### Trapped in Barovia
 - One way or another, work this into conversation
+	- Maybe make a passing joke:
+	>Look at this one, Rina! His skin is so tan! Almost like Vistani, himself, eh?
+	>Yes, show it off while you can, Giorgio. The coming years without sunlight are sure to steal it from you.
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
