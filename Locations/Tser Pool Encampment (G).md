@@ -22,7 +22,9 @@ alias: Tser Pool
 		- [[Vistani#Vistani Lore|Vistani Lore]]
 	- The story of the [[Vistani]] and [[Strahd Von Zarovich|Strahd]]:
 		- They're happy to tell about how their understanding with [[Strahd Von Zarovich|Strahd]] came to pass ([[Vistani#The Vistani and Strahd Von Zarovich Strahd|The Vistani and Strahd]])
-	- [[Village of Barovia (E)#Vistani Owners|The Vistani from the Blood on the V
+	- [[Village of Barovia (E)#Vistani Owners|The Vistani from the Blood on the Vine Tavern]]:
+		- When mentioned, the Vistani at the fire spit on the ground and swear "Mortu!"
+		- They advise the party to stay away from f
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
