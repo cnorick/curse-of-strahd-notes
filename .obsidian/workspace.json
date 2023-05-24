@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Lancelot.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Lancelot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Lancelot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arahja.md"
+                "file": "Characters/Lancelot.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "85a204aa0942b8f4",
   "lastOpenFiles": [
-    "Session Notes/Session 4.md",
     "Characters/Arahja.md",
+    "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
