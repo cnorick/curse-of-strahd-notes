@@ -10,6 +10,7 @@
 
 ## What They Know
 [[Barovian Lore]]
+[[Vistani#Vistani Lore|Vistani Lore]]
 
 ## Relations
 
