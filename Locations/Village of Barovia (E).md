@@ -1,3 +1,6 @@
+---
+alias: Barovia Village
+---
 ## Locations
 ### Bildrath's Mercantile (E1)
 > The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile"
