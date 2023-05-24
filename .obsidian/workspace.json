@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Handouts/Images/Portraits/Portrait of Arahja 1.md"
               }
             }
           }
@@ -168,12 +169,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b9df251fc7a6bd9",
+  "active": "53a5d18496100bae",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
+    "Handouts/Images/Portraits/Portrait of Arahja 1.md",
     "Misc/Vistani.md",
     "Locations/Tser Pool Encampment (G).md",
+    "Assets/Images/Rina.jpg",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Assets/Images/arahja.jpg",
     "Characters/Arahja.md",
     "Misc/Card Reading.md",
@@ -204,7 +207,6 @@
     "TODO.md",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
@@ -215,7 +217,6 @@
     "Website/site/assets/images/barovia_tagged.jpg",
     "Website/site/assets/images/mad-mary.jpeg",
     "Website/site/assets/images/cypress_belview.jpeg",
-    "Website/site/assets/images/ravenloft_castle.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
