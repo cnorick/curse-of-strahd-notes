@@ -8,7 +8,7 @@ alias: Tser Pool
 - When the party enters, as soon as a [[Vistani|Vistana]] catches sight, have them call out like they've just seen a long lost friend
 	- The party is ushered in and given food and wine.
 - One or two of the [[Vistani]] should be the main NPCs in the camp
-	- [[
+	- [[Arahja]] and [[Rina]]
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
