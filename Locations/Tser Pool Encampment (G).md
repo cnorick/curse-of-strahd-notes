@@ -12,7 +12,7 @@ alias: Tser Pool
 - There are 12 bandits that are drinking and 3 sober bandit captains
 
 ### Questions for the Group
-- At the campfire [[Arahja]] may ask the 
+- At the campfire [[Arahja]] may ask the group
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed

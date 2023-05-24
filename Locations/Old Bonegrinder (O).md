@@ -1,3 +1,3 @@
 ---
-aliases: [Old Bonegrinder, The Windmill]]
+aliases: [Old Bonegrinder, The Windmill]
 ---
