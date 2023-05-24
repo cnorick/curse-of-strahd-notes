@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98581d3871c6d182",
+        "id": "7c2184d72e308dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "b0439950adec3911",
+            "id": "5b9df251fc7a6bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 4.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 4.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           }
@@ -156,8 +156,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
+    "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
@@ -182,7 +183,6 @@
     "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
-    "Session Notes/Session 4.md",
     "TODO.md",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
     "Handouts/Letters/Argynvost's Journal.md",
@@ -195,7 +195,6 @@
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp",
-    "Assets/Images/strahd_icon.webp.crdownload",
     "Website/site/assets/images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg",
     "Website/site/assets/images/strahd.jpeg",
