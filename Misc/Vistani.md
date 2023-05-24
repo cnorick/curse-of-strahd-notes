@@ -77,3 +77,15 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 -  As an action, a Vistana can target a creature within **10 feet** that the Vistana can see.
 - This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice), but requires neither so­matic nor material components
 - The **spell save DC is 8 + the caster's proficiency bonus+ the caster's Charisma modifier.** If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn. A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours
+
+## The Vistani and [[Strahd Von Zarovich|Strahd]]
+- The Real Relationship is Respect
+	- Instead of being totally in cahoots, Strahd and the Vistani share a mutual respect of one another. The Vistani showed Strahd kindness and saved his life when they certainly didn't have to, impressing Strahd. Strahd made a vow that all Vistani would henceforth be welcome in his land, so long as they did not openly antagonize him. Because Strahd is a man of his word, he's honored his vow over the centuries. This gives the Vistani certain perks in Barovia:
+	        - The Vistani are not attacked or targeted by the normal threats in Barovia, such as wolves and werewolves.
+        - The Vistani CAN NOT leave Barovia, just like everyone else. The book often implies that the Vistani can exert a certain level of control over the mists. In my version, this ability lies solely with Strahd himself. However, Strahd would never deny passage to a Vistana that asked to leave. All they need do is say the word and Strahd would open a gate for them through the mists, no questions asked.
+            
+        -   Strahd doesn't hunt for either blood or consorts among the Vistani. If a Vistana becomes a vampire spawn, it's because _they_ pursued Strahd, not the other way around.
+            
+    -   However, this also means that the Vistani don't have any problem with Strahd either. Unless Strahd actively does something to hurt one of their own, the Vistani won't cross him. The PCs can beg and plead, but the Vistani will not act against someone who is not their enemy.
+        
+-   Otherwise, the Vistani will treat Strahd with the same hospitality that they'd show anyone else. They freely give and take information, no matter who's asking for it. So long as the info isn't overtly harmful or incriminating, the Vistani believe that sharing and caring go hand in hand.
