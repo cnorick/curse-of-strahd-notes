@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Rina.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Rina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arahja.md",
+                "file": "Characters/Rina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arahja.md"
+                "file": "Characters/Rina.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
     "Characters/Arahja.md",
+    "Characters/Rina.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Misc/The Morninglord.md",
     "Misc/Vistani.md",
     "Misc/Vistani Lore.md",
@@ -205,7 +206,6 @@
     "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
-    "TODO.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
