@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rina.md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rina.md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rina.md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           },
@@ -179,91 +179,54 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "addd566f63eb0758",
-        "type": "window",
-        "children": [
-          {
-            "id": "7c87a1587c7fe7c5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dfbc4cb8fc08f7e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Rina.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "dfbc4cb8fc08f7e2",
+  "active": "85a204aa0942b8f4",
   "lastOpenFiles": [
-    "Locations/Old Svalich Road.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Village of Barovia (E).md",
-    "Locations/Vallaki.md",
-    "Locations/Krezk (S).md",
-    "Locations/Svalich Woods (C).md",
-    "Locations/Old Bonegrinder (O).md",
-    "Locations/Castle Ravenloft (K).md",
-    "Locations/Death House.md",
-    "Custom Monsters/Dog.md",
-    "Index.md",
-    "Misc/Adventuring Gear.md",
-    "Misc/Barovian Lore.md",
-    "Misc/If Players Die.md",
-    "Misc/Guest as Granny.md",
-    "Misc/Card Reading.md",
-    "Misc/Vistani.md",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Misc/The Morninglord.md",
-    "Misc/Map of Barovia.md",
-    "Misc/Congratulations, You're Dead.md",
-    "Misc/Lycanthropy.md",
-    "Misc/Music Compiled.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "Assets/Images/Rina.jpg",
-    "Assets/Images/arahja.jpg",
-    "Website/site/no-spoilers/campaign-notes/session-notes/session-4.html",
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
-    "Website/no-spoilers/campaign-notes/session-notes",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
-    "Website/site/session-notes/session-4.html",
-    "Website/site/favicon.ico",
-    "Website/site/strahd_icon.ico",
+    "Website/site/characters/arahja.html",
+    "Website/site/characters/rina.html",
+    "Website/site/assets/images/barovia_village_tagged.jpg",
+    "Assets/Templates/Character.md",
+    "Website/site/session-notes/session-5.html",
+    "Website/site/assets/images/arahja.jpg",
+    "Website/site/handouts/images/portraits/portrait-of-arahja.html",
+    "Website/site/assets/images/rina.jpg",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Pelanil.md",
+    "Characters/Parriwimple.md",
+    "Characters/Rictavio.md",
+    "Assets/Images/Rina.jpg",
+    "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
     "Assets/Images/strahd_icon.webp",
     "Website/site/assets/images/dead-pc.jpg",
     "Assets/Images/dead-pc.jpg",
     "Website/site/assets/images/strahd.jpeg",
-    "Website/site/assets/images/barovia_tagged.jpg",
-    "Website/site/assets/images/mad-mary.jpeg",
-    "Website/site/assets/images/cypress_belview.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
