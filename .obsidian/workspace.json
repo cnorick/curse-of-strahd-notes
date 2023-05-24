@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Misc/Card Reading.md"
               }
             }
           }
@@ -158,6 +158,8 @@
   },
   "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
+    "Characters/Madam Eva.md",
     "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
@@ -190,7 +192,6 @@
     "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
     "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
     "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Letters/Tome of Strahd.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
