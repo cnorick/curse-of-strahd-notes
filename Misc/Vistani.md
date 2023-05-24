@@ -79,7 +79,8 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 
 ## The Vistani and [[Strahd Von Zarovich|Strahd]]
 - During one of [[Strahd Von Zarovich|Strahd]]'s military campaigns, years before he became a vampire, a group of Vistani rescued him after he was wounded in battle
-	- 
+	- They nursed him back to health and delivered him safely home
+
 - The Real Relationship is Respect
 	- Instead of being totally in cahoots, Strahd and the Vistani share a mutual respect of one another. The Vistani showed Strahd kindness and saved his life when they certainly didn't have to, impressing Strahd. Strahd made a vow that all Vistani would henceforth be welcome in his land, so long as they did not openly antagonize him. Because Strahd is a man of his word, he's honored his vow over the centuries. This gives the Vistani certain perks in Barovia:
 		- The Vistani are not attacked or targeted by the normal threats in Barovia, such as wolves and werewolves
