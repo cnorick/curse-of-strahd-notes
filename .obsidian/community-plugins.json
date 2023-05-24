@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-5e-statblocks",
   "templater-obsidian",
   "obsidian-hotkeys-for-templates",
   "obsidian-enhancing-export",
@@ -9,5 +8,6 @@
   "obsidian-shellcommands",
   "obsidian-advanced-uri",
   "webpage-html-export",
-  "fantasy-calendar"
+  "fantasy-calendar",
+  "obsidian-5e-statblocks"
 ]
