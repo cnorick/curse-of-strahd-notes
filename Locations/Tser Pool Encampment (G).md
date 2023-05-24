@@ -9,8 +9,7 @@ alias: Tser Pool
 	- The party is ushered in and given food and wine.
 - One or two of the [[Vistani]] should be the main NPCs in the camp
 	- [[Arahja]] doing most of the talking and [[Rina]] chiming in every now and then
-
-
+- There are 12 bandits that are drinking and 3 sober bandit captains
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
@@ -18,3 +17,8 @@ alias: Tser Pool
 - Practice some sleight of hand for picking the cards
 - Have her character wait for silence before reading the next card
 - 
+
+
+## Statblocks
+```statbloc
+```
