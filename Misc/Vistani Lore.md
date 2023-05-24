@@ -25,10 +25,11 @@
 - The Vistani have deep-rooted beliefs and superstitions that they pass down from one generation to the next
 - The souls of those who die in Barovia can’t escape to the afterlife
 	- They are prisoners in Strahd’s domain.
-- Some Vistani women are blessed with prescience. Of all the great Vistani fortune-tellers, none compares to Madam Eva. If knowledge of the future is what you seek, Madam Eva will tell you your fate.
-
-A prescient Vistana can’t see her own future or the future of another Vistana. It is the burden of the Vistani’s great gift that their own fates can’t be divined.
-
-Vistani curses are potent, but they are invoked with great caution. Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse.
-
-Ravens carry lost souls within them, so killing one is bad luck.
+- Some Vistani women are blessed with prescience
+	- Of all the great Vistani fortune-tellers, none compares to Madam Eva
+	- If knowledge of the future is what you seek, Madam Eva will tell you your fate
+- A prescient Vistana can’t see her own future or the future of another Vistana
+	- It is the burden of the Vistani’s great gift that their own fates can’t be divined
+- Vistani curses are potent, but they are invoked with great caution
+	- Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
+- Ravens carry lost souls within them, so killing one is bad luck (not true}
