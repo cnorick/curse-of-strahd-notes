@@ -15,6 +15,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - They are merciless when they believe they must be
 - One who knowingly brings harm/misfortune to others of their kind are banished
 	- the worse punishment one can imagine
+-
 
 ## Vistani Lore
 ### [[Strahd Von Zarovich]]

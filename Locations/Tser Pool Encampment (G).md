@@ -20,7 +20,8 @@ alias: Tser Pool
 - The group may ask about
 	- [[Strahd Von Zarovich|Strahd]] or the land:
 		- [[Vistani#Vistani Lore|Vistani Lore]]
-	- The 
+	- The story of the [[Vistani]] and [[Strahd Von Zarovich|Strahd]]:
+		- They're happy to tell about how their understanding with [[Strahd Von Zarovich|Strahd]] came to pass (
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
