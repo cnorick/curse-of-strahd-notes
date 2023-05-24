@@ -15,7 +15,6 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 - They are merciless when they believe they must be
 - One who knowingly brings harm/misfortune to others of their kind are banished
 	- the worse punishment one can imagine
--
 
 ## Vistani Lore
 ### [[Strahd Von Zarovich]]
@@ -79,6 +78,8 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 - The **spell save DC is 8 + the caster's proficiency bonus+ the caster's Charisma modifier.** If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn. A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours
 
 ## The Vistani and [[Strahd Von Zarovich|Strahd]]
+- During one of [[Strahd Von Zarovich|Strahd]]'s military campaigns, years before he became a vampire, a group of Vistani rescued him after he was wounded in battle
+	- 
 - The Real Relationship is Respect
 	- Instead of being totally in cahoots, Strahd and the Vistani share a mutual respect of one another. The Vistani showed Strahd kindness and saved his life when they certainly didn't have to, impressing Strahd. Strahd made a vow that all Vistani would henceforth be welcome in his land, so long as they did not openly antagonize him. Because Strahd is a man of his word, he's honored his vow over the centuries. This gives the Vistani certain perks in Barovia:
 		- The Vistani are not attacked or targeted by the normal threats in Barovia, such as wolves and werewolves
