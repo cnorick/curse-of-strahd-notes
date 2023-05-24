@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           }
@@ -182,8 +182,8 @@
   },
   "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
     "Misc/Vistani.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Locations/Village of Barovia (E).md",
     "Locations/Krezk (S).md",
     "Locations/Old Bonegrinder (O).md",
