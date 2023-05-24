@@ -24,7 +24,11 @@ alias: Tser Pool
 		- They're happy to tell about how their understanding with [[Strahd Von Zarovich|Strahd]] came to pass ([[Vistani#The Vistani and Strahd Von Zarovich Strahd|The Vistani and Strahd]])
 	- [[Village of Barovia (E)#Vistani Owners|The Vistani from the Blood on the Vine Tavern]]:
 		- When mentioned, the Vistani at the fire spit on the ground and swear "Mortu!"
-		- They advise the party to stay away from f
+		- They advise the party to stay away from filth like that
+	- {Don't mention the name of the windmill}
+
+#### Trapped in Barovia
+- One way or another, work this into conversation
 
 ### [[Madam Eva]]'s Tent
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
