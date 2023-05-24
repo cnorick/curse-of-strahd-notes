@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Misc/Vistani Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Misc/Vistani Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Misc/Vistani Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Barovian Lore.md"
+                "file": "Misc/Vistani Lore.md"
               }
             }
           }
@@ -183,6 +183,8 @@
   },
   "active": "28469c50c5a3741e",
   "lastOpenFiles": [
+    "Misc/Barovian Lore.md",
+    "Misc/Vistani Lore.md",
     "Characters/Arahja.md",
     "Locations/Tser Pool Encampment (G).md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
@@ -204,7 +206,6 @@
     "Website/site/session-notes/session-4.html",
     "Index.md",
     "Misc/Adventuring Gear.md",
-    "Misc/Barovian Lore.md",
     "Misc/If Players Die.md",
     "Misc/Guest as Granny.md",
     "Misc/Mechanics of Dream Pastries.md",
@@ -218,7 +219,6 @@
     "Session Notes/Session 3.md",
     "TODO.md",
     "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Argynvost's Journal.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
