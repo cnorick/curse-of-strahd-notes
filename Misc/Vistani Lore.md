@@ -11,7 +11,9 @@
 - Barovians are simple, frightened people. Some have old souls, but many do not
 	- The soulless ones are easy to spot, for they know nothing but fear
 	- They have no charm, hope, or spark, and they don’t cry
-- [[The Old Svalich Road]] passes through Strahd’s domain. Three settlements lie on the road like beads on a string: Krezk to the west, Vallaki in the heart of the valley, and Barovia to the east. Strahd has spies in each settlement.
+- The [[Old Svalich Road]] passes through Strahd’s domain
+	- Three settlements lie on the road like beads on a string
+		- [[Krezk (S)|Krezk]] to the west, [[Vallaki]] in the heart of the valley, and [[Villa to the east. Strahd has spies in each settlement.
 
 There’s an old windmill on the road between the village of Barovia and the town of Vallaki. It should be avoided at all costs! (The Vistani refuse to say more.)
 
