@@ -81,10 +81,10 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 ## The Vistani and [[Strahd Von Zarovich|Strahd]]
 - The Real Relationship is Respect
 	- Instead of being totally in cahoots, Strahd and the Vistani share a mutual respect of one another. The Vistani showed Strahd kindness and saved his life when they certainly didn't have to, impressing Strahd. Strahd made a vow that all Vistani would henceforth be welcome in his land, so long as they did not openly antagonize him. Because Strahd is a man of his word, he's honored his vow over the centuries. This gives the Vistani certain perks in Barovia:
-	        - The Vistani are not attacked or targeted by the normal threats in Barovia, such as wolves and werewolves.
-        - The Vistani CAN NOT leave Barovia, just like everyone else. The book often implies that the Vistani can exert a certain level of control over the mists. In my version, this ability lies solely with Strahd himself. However, Strahd would never deny passage to a Vistana that asked to leave. All they need do is say the word and Strahd would open a gate for them through the mists, no questions asked.
-            
-        -   Strahd doesn't hunt for either blood or consorts among the Vistani. If a Vistana becomes a vampire spawn, it's because _they_ pursued Strahd, not the other way around.
+		- The Vistani are not attacked or targeted by the normal threats in Barovia, such as wolves and werewolves
+		- The Vistani CAN NOT leave Barovia, just like everyone else. The book often implies that the Vistani can exert a certain level of control over the mists. In my version, this ability lies solely with Strahd himself. However, Strahd would never deny passage to a Vistana that asked to leave. All they need do is say the word and Strahd would open a gate for them through the mists, no questions asked
+		- Strahd doesn't hunt for either blood or consorts among the Vistani
+			- If a Vistana becomes a vampire spawn, it's because _they_ pursued Strahd, not the other way around.
             
     -   However, this also means that the Vistani don't have any problem with Strahd either. Unless Strahd actively does something to hurt one of their own, the Vistani won't cross him. The PCs can beg and plead, but the Vistani will not act against someone who is not their enemy.
         
