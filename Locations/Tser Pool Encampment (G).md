@@ -12,7 +12,11 @@ alias: Tser Pool
 - There are 12 bandits that are drinking and 3 sober bandit captains
 
 ### Questions for and from the Group
-- At the campfire [[Arahja]] may ask the group where they're from and where they're headed
+- At the campfire [[Arahja]] may ask the group:
+	- where they're from
+	- where they're headed
+	- how they ended up here
+	- what they thought of [[Villa
 - 
 
 ### [[Madam Eva]]'s Tent
