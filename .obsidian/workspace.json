@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2184d72e308dd0",
+        "id": "c81fb0e80689b9df",
         "type": "tabs",
         "children": [
           {
-            "id": "01a2136118ff966f",
+            "id": "6264e9ccc1a876dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "01a2136118ff966f",
+  "active": "6264e9ccc1a876dc",
   "lastOpenFiles": [
-    "Misc/Vistani.md",
+    "Handouts/Maps/Village of Barovia.md",
     "Locations/Village of Barovia (E).md",
+    "Misc/Vistani.md",
     "Index.md",
     "Session Notes/Session 5.md",
     "Misc/Card Reading.md",
@@ -203,7 +204,6 @@
     "Misc/Guest as Granny.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Map of Barovia.md",
-    "Misc/Congratulations, You're Dead.md",
     "Website/site/favicon.ico",
     "Website/site/strahd_icon.ico",
     "Website/site/assets/images/strahd_icon.webp",
