@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Card Reading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9765374bff00d440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Vistani.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a5d18496100bae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Rina.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           }
@@ -165,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +157,10 @@
   },
   "active": "5b9df251fc7a6bd9",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
+    "Misc/Card Reading.md",
     "Misc/Vistani.md",
+    "Handouts/Images/Portraits/Portrait of Rina.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Locations/Village of Barovia (E).md",
     "Locations/Krezk (S).md",
     "Locations/Old Bonegrinder (O).md",
@@ -193,12 +170,10 @@
     "Misc/Vistani Lore.md",
     "Locations/Vallaki.md",
     "Misc/Barovian Lore.md",
-    "Handouts/Images/Portraits/Portrait of Rina.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Assets/Images/Rina.jpg",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Assets/Images/arahja.jpg",
-    "Misc/Card Reading.md",
     "Characters/Madam Eva.md",
     "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-4.html",
