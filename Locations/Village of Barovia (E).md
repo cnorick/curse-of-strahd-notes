@@ -244,3 +244,4 @@ E4: Burgomaster's Mansion
 E5: Church
 E6: Cemetery
 ![[barovia_village_tagged.jpg]]
+![[Assets/Images/barovia_village_untagged.jpg]]
