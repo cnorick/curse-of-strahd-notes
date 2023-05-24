@@ -136,14 +136,21 @@
                 "file": "Locations/Village of Barovia (E).md"
               }
             }
+          },
+          {
+            "id": "537e2a47f3a68d0f",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +161,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "active": "5b9df251fc7a6bd9",
