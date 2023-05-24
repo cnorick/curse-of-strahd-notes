@@ -53,7 +53,7 @@ The Vistani are wanderers, traveling about in horse-drawn, barrel-top0ped wagons
 	- It is the burden of the Vistani's great gift that their own fates can't be divined
 - Vistani curses are potent, but they are invoked with great caution
 - Vistani know that to curse one who is undeserving of such punishment can have grave consequences for the one who utters such a curse
-- Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry lost sols within)
+- Ravens carry lost souls within them, so killing one is bad luck. (The ravens don't carry lost souls within)
 
 ## Vistani Curses
 A Vistana, regardless of age, can use an action to utter a curse. The curse targets another creature within 30 feet that the Vistana can see. The Vistana can't utter another such curse before finishing a long rest. The curse is a repayment for an injustice or a slight.
@@ -73,7 +73,7 @@ A Vistana, regardless of age, can use an action to utter a curse. The curse targ
 6. The target is blinded, deafened, or both. When this curse ends, the Vistana takes **5d6 psychic damage**
 
 ## Evil Eye
--  As an action, a Vistana can target a creature within **10 feet** that the Vistana can see.
+- As an action, a Vistana can target a creature within **10 feet** that the Vistana can see.
 - This magical ability, which the Vistani call the Evil Eye, duplicates the duration and effect of the animal friendship, charm person, or hold person spell (Vistana's choice), but requires neither so­matic nor material components
 - The **spell save DC is 8 + the caster's proficiency bonus+ the caster's Charisma modifier.** If the target succeeds on the save, the Vistana is blinded until the end of the Vistana's next turn. A Vistana who uses Evil Eye can't use it again before finishing a short or long rest. Once a target succeeds on a saving throw against a Vistana's Evil Eye, it is immune to the Evil Eye of all Vistani for 24 hours
 

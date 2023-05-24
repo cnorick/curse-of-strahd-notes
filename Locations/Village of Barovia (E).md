@@ -23,7 +23,7 @@ alias: Barovia Village
 #### Vistani Owners
 - Remember to describe how flamboyant they are
 	- Draw a line to the guy that delivered the letter
-- Three [[Vistani]] Spies ([[Alenka]], [[Mirabel]], and Sorvia) sit at a table near the door
+- Three [[Vistani]] Spies ([[Alenka]], [[Mirabel]], and [[Sorvia]]) sit at a table near the door
 - They own the tavern and see that customers pay their tabs
 - They show little interest in the characters
 	- If they come with other [[Vistani]], they are more likely to engage in conversation and share info (see [[Vistani#Vistani Lore|Vistani Lore]])

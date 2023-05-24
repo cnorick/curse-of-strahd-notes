@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Vistani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Vistani.md"
               }
             }
           },
@@ -168,10 +168,10 @@
   },
   "active": "01a2136118ff966f",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
     "Index.md",
     "Session Notes/Session 5.md",
     "Misc/Card Reading.md",
-    "Locations/Village of Barovia (E).md",
     "Characters/Bildrath Cantemir.md",
     "Misc/Vistani.md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
