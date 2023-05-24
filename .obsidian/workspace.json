@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -168,12 +168,12 @@
   },
   "active": "01a2136118ff966f",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
     "Locations/Village of Barovia (E).md",
     "Index.md",
     "Session Notes/Session 5.md",
     "Misc/Card Reading.md",
     "Characters/Bildrath Cantemir.md",
-    "Misc/Vistani.md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
     "Locations/Tser Pool Encampment (G).md",
     "Locations/Krezk (S).md",
