@@ -12,6 +12,7 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- both times, he charmed his way into her home and drank her blood
 - He intends to kill her at their next meeting
 	- and turn her into his vampire spawn consort
+- Turned into a vampire in 351 (It's 735 now)
 
 ### Find [[Rudolph Van Richten]]
 #todo 

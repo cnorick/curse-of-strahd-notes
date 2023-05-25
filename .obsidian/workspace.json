@@ -82,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -236,10 +237,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "537e2a47f3a68d0f",
+  "active": "3fa8413a9e897460",
   "lastOpenFiles": [
-    "Characters/Ireena Kolyana.md",
     "Characters/Strahd Von Zarovich.md",
+    "Characters/Ireena Kolyana.md",
     "Misc/Barovian Lore.md",
     "Session Notes/Session 5.md",
     "Locations/Village of Barovia (E).md",
