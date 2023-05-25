@@ -19,11 +19,9 @@
             "id": "11cac55376822d62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Misc/Vistani.md",
-                "mode": "source",
-                "source": false
+                "file": "Handouts/Maps/Tser Pool Encampment Day.webp"
               }
             }
           },
@@ -132,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Handouts/Maps/Tser Pool Encampment Day.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Handouts/Maps/Tser Pool Encampment Day.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Handouts/Maps/Tser Pool Encampment Day.webp"
               }
             }
           },
@@ -213,8 +211,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "11cac55376822d62",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
+    "Handouts/Maps/Tser Pool Encampment Day.webp",
+    "Handouts/Maps/Tser Falls Day.webp",
     "Handouts/Maps/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Handouts/Maps/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Handouts/Maps/Old Bonegrinder/03 - Old Bonegrinder Day (1st Floor).webp",
@@ -224,11 +225,8 @@
     "Handouts/Maps/Old Bonegrinder",
     "Handouts/Maps/Forest Fane/02 - The Forest Fane Day (Shrine).webp",
     "Handouts/Maps/Forest Fane/01 -The Forest Fane Day (Megaliths).webp",
-    "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp",
     "Handouts/Maps/Forest Fane",
-    "Handouts/Maps/River Ivlis Crossroads Day.webp",
     "Session Notes/Session 5.md",
-    "Handouts/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Handouts/Maps/Village of Barovia",
     "Characters/Ireena Kolyana.md",
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
@@ -241,7 +239,6 @@
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Locations/Village of Barovia (E).md",
-    "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Barovian Lore.md",
     "Characters/Gertruda.md",
