@@ -38,6 +38,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bb79cbfbafa67e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -190,9 +202,10 @@
   },
   "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
+    "Characters/Strahd Von Zarovich.md",
+    "Session Notes/Session 5.md",
     "Misc/Vistani.md",
     "Locations/Village of Barovia (E).md",
-    "Session Notes/Session 5.md",
     "Characters/Gertruda.md",
     "Misc/Barovian Lore.md",
     "Handouts/Maps/Barovia.md",
@@ -215,7 +228,6 @@
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Characters/Lancelot.md",
-    "Characters/Arahja.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
