@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Barovian Lore.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -218,10 +218,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "0f06e1c3f474e4a6",
+  "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
-    "Session Notes/Session 5.md",
     "Misc/Barovian Lore.md",
+    "Session Notes/Session 5.md",
     "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
     "Locations/Village of Barovia (E).md",
