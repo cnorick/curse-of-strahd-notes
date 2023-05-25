@@ -15,4 +15,4 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
 - [[Lancelot]] actually belongs
 
-[[Shalooti]] having been pe at the bar to a small
+[[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare to see
