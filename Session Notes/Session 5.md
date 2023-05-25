@@ -17,7 +17,6 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
 - [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but she recently went missing
 	- Her mother, [[Mad Mary|Mary Swilova]], has recently gone mad because of the disappearance of her daughter
-- [[Strahd]]
 
 When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [[Ireena Kolyana|Ireena]]'s situation, [[Ismark Kolyanovich|Ismark]] recommends they continue speaking at the [[Village of Barovia (E)#Burgomaster's Mansion (E4)|Burgomaster's Mansion]] for privacy's sake as he indicates towards the [[Vistani]] spies in the corner.
 
@@ -35,5 +34,7 @@ Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovi
 From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - [[Strahd Von Zarovich|Strahd]] has bitten [[Ireena Kolyana|Ireena]] twice within a fortnight
 	- Within
+- [[Strahd]] has taken multiple consorts, but ultimately turned them into vampire spawn
+- 
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
