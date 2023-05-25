@@ -31,11 +31,9 @@
             "id": "bfa0c0c783ca58e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp"
               }
             }
           },
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp"
               }
             }
           },
@@ -225,8 +223,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
+    "Session Notes/Session 5.md",
+    "Handouts/Maps/01 - Old Svalich Road Encounter Day.webp",
     "Handouts/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Handouts/Maps/Village of Barovia",
     "Characters/Ireena Kolyana.md",
@@ -238,8 +238,6 @@
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/01 - Werewolf Den (Ground).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/03 - Werewolf Den (Shrine of Mother Night).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/01 - Grid/02 - Werewolf Den (Mountain).webp",
-    "Handouts/Maps/Wolfrun/Krezk Gate/Night/03 - Gridless Layers (Transparent Backgrounds)/03 - Krezk Gate (Roof).webp",
-    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/01 - Grid/01 - Werewolf Den (Ground).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid",
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless",
@@ -252,7 +250,6 @@
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Locations/Village of Barovia (E).md",
-    "Session Notes/Session 5.md",
     "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Barovian Lore.md",
