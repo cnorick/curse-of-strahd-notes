@@ -19,8 +19,11 @@ aliases: [Strahd, Count Strahd von Zarovich]
 #todo 
 
 ## History
-- Born 3
-- Turned into a vampire in 351 (It's 735 now)
+- Born in 306
+- Inherited father's crown, lands, and army in 346
+- Conquered the valley in 347, finished Ravenloft in 350
+- Died and Turned into a vampire in 351 (It's 735 now)
+- K
 
 ## Statblock
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
