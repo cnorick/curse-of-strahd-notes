@@ -11,55 +11,8 @@
             "id": "6264e9ccc1a876dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a643cdb9cb4a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "978d17484df757f5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb5b641e5b11032d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Village of Barovia (E).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "386bef81f943bbbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Barovian Lore.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -137,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,11 +159,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "20a643cdb9cb4a20",
+  "active": "6264e9ccc1a876dc",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
-    "Characters/Gertruda.md",
     "Session Notes/Session 5.md",
+    "Characters/Gertruda.md",
     "Misc/Barovian Lore.md",
     "Handouts/Maps/Barovia.md",
     "Characters/Ismark Kolyanovich.md",
