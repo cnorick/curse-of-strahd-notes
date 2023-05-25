@@ -52,4 +52,4 @@ Just to make sure things were in order, [[Bardolf]] and [[Pelanil]] head to the 
 ### Some Long-Deserved Rest
 All back at the mansion, the party lie down for the night. They all have the same exact dream of a woman asking them to join her at [[Tser Pool Encampment (G)|Tser Pool]] for a card reading saying that their distance has rendered her "Sight blurred and obscured."
 
-All the party members except for [[Pelanil]] had the most wonderful, peaceful sleep they'd ever experience 
+All the party members except for [[Pelanil]] had the most wonderful, peaceful sleep they'd ever experienced, only to wake feeling drained and incredibly sad.
