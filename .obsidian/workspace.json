@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a51ab37b12343e82",
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -200,8 +201,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "0f06e1c3f474e4a6",
+  "active": "6bb79cbfbafa67e0",
   "lastOpenFiles": [
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Ireena Kolyana.md",
     "Handouts/Maps/Wolfrun/Werewolf Den/03 - Werewolf Den (Shrine of Mother Night).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/02 - Werewolf Den (Mountain).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/01 - Werewolf Den (Ground).webp",
@@ -212,7 +215,6 @@
     "Handouts/Maps/Wolfrun/Van Richten's Tower/04 - Van Richten's Tower (3rd Floor).jpg",
     "Handouts/Maps/Wolfrun/Van Richten's Tower/03 - Van Richten's Tower (2nd Floor).jpg",
     "Handouts/Maps/Wolfrun/Van Richten's Tower/02 - Van Richten's Tower (1st Floor).jpg",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/01 - Van Richten's Tower (Ground).jpg",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
@@ -225,11 +227,9 @@
     "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
     "Misc/Vistani.md",
     "Session Notes/Session 5.md",
-    "Characters/Ireena Kolyana.md",
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Locations/Village of Barovia (E).md",
-    "Characters/Strahd Von Zarovich.md",
     "Misc/Barovian Lore.md",
     "Characters/Gertruda.md",
     "Handouts/Maps/Barovia.md",
