@@ -1,5 +1,5 @@
 ---
-public: false
+public: true
 new_handout: true
 ---
 

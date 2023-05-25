@@ -1,1 +1,1 @@
-After meeting up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]], the party interact wti
+After meeting up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]], the party interact with [[Arik Lorensk|Arik the Barkeep]]

@@ -1,5 +1,5 @@
 ---
-public: false
+public: true
 new_handout: false
 ---
 [[barovia_untagged.webp]]
