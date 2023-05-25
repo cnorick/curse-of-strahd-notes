@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ismark Kolyanovich.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -210,10 +210,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "386bef81f943bbbe",
+  "active": "20a643cdb9cb4a20",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
+    "Characters/Ismark Kolyanovich.md",
     "Session Notes/Session 5.md",
+    "Locations/Village of Barovia (E).md",
     "Handouts/Maps/Barovia.md",
     "Handouts/Maps/Village of Barovia.md",
     "Handouts/Images/Ravenloft.md",
@@ -250,7 +251,6 @@
     "Website/site/assets/images/rina.jpg",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
     "Assets/Images/Rina.jpg",
     "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
