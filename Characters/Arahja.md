@@ -1,5 +1,5 @@
 (CN bandit)
-![[arahja.jpg|200]]
+![[Assets/Images/People/arahja.jpg|200]]
 ## Playing Arahja
 - Boisterous and larger-than-life
 - booming laugh

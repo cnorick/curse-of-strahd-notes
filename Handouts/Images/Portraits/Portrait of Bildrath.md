@@ -1,4 +1,4 @@
 ---
 public: true
 ---
-![[Bildrath.jpg]]
+![[Assets/Images/People/Bildrath.jpg]]

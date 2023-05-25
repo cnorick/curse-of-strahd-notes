@@ -13,11 +13,54 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/dead-pc.jpg"
+                "file": "Assets/Images/People/alenka.png"
+              }
+            }
+          },
+          {
+            "id": "f47084342563bada",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/People/arahja.jpg"
+              }
+            }
+          },
+          {
+            "id": "8a4482515a1fb75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Arik Lorensk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2724e91857d4152",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/People/alenka.png"
+              }
+            }
+          },
+          {
+            "id": "c9bdbddab8f80786",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/donavich.jpeg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a51ab37b12343e82",
@@ -118,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/dead-pc.jpg",
+                "file": "Assets/Images/donavich.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/dead-pc.jpg",
+                "file": "Assets/Images/donavich.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/dead-pc.jpg"
+                "file": "Assets/Images/donavich.jpeg"
               }
             }
           },
@@ -199,8 +242,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "c9bdbddab8f80786",
   "lastOpenFiles": [
+    "Assets/Images/People/Bildrath.jpg",
+    "Assets/Images/People/alenka.png",
+    "Assets/Images/People/arahja.jpg",
+    "Characters/Arik Lorensk.md",
+    "Assets/Images/dead-pc.jpg",
+    "Assets/Images/People",
     "Untitled",
     "Assets/Images/strahd.jpeg",
     "Assets/Images/strahd_icon.webp",
@@ -216,9 +265,6 @@
     "Handouts/Maps/Wolfrun/Werewolf Den/01 - Werewolf Den (Ground).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/04 - Werewolf Den (Ring of Stones).webp",
     "Handouts/Maps/Wolfrun/Van Richten's Tower/07 - Van Richten's Tower (Destroyed).jpg",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/06 - Van Richten's Tower (Roof with Lightning).jpg",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/05 - Van Richten's Tower (Roof).jpg",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/04 - Van Richten's Tower (3rd Floor).jpg",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
@@ -226,8 +272,6 @@
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/02 - Gridless",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/01 - Grid",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy",
-    "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid",
     "Misc/Vistani.md",
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
@@ -246,7 +290,6 @@
     "Handouts/Images/Portraits/Portrait of Ireena.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
     "Session Notes/Session 4.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

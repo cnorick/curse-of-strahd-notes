@@ -2,7 +2,7 @@
 alias: Bildrath
 ---
 (LN male human commoner)
-![[Assets/Images/Bildrath.jpg|150]]
+![[Assets/Images/People/Bildrath.jpg|150]]
 ## Playing Bildrath Cantemir
 - Serves his own interests and offers no sanctuary
 - "If you want it badly enough, you'll pay for it"

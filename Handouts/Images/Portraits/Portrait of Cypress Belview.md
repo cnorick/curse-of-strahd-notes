@@ -2,4 +2,4 @@
 public: false
 new_handout: false
 ---
-![[cypress_belview.jpeg]]
+![[Assets/Images/People/cypress_belview.jpeg]]

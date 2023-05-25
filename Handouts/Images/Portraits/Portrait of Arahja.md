@@ -2,4 +2,4 @@
 public: false
 new_handout: true
 ---
-![[arahja.jpg]]
+![[Assets/Images/People/arahja.jpg]]
