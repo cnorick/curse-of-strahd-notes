@@ -16,16 +16,6 @@
             }
           },
           {
-            "id": "11cac55376822d62",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Handouts/Maps/Tser Pool Encampment Day.webp"
-              }
-            }
-          },
-          {
             "id": "6bb79cbfbafa67e0",
             "type": "leaf",
             "state": {
@@ -37,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a51ab37b12343e82",
@@ -213,27 +202,27 @@
   },
   "active": "0f06e1c3f474e4a6",
   "lastOpenFiles": [
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/12 - Castle Ravenloft (Roof - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/11 - Castle Ravenloft (Roof).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/10 - Castle Ravenloft (7th Floor - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/09 - Castle Ravenloft (7th Floor).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/08 - Castle Ravenloft (6th Floor - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2/07 - Castle Ravenloft (6th Floor).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1/06 - Castle Ravenloft (5th Floor - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1/04 - Castle Ravenloft (4th Floor - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1/06 - Castle Ravenloft (5th Floor - No Heart of Sorrow - No Lighting).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1/05 - Castle Ravenloft (5th Floor - No Heart of Sorrow).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1/05 - Castle Ravenloft (5th Floor).webp",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 2",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Gridless 1",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Grid 2",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Night/Night Grid 1",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Day/Day Gridless 1",
-    "Handouts/Maps/Castle Ravenloft/Spires of Ravenloft/Day/Day Grid 1",
-    "Handouts/Maps/Castle Ravenloft/Main Floor/Night/02 - Gridless",
-    "Handouts/Maps/Castle Ravenloft/Main Floor/Night/01 - Grid",
-    "Handouts/Maps/Castle Ravenloft/Main Floor/Day/01 - Grid",
-    "Handouts/Maps/Castle Ravenloft/Main Floor/Day/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Werewolf Den/03 - Werewolf Den (Shrine of Mother Night).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/02 - Werewolf Den (Mountain).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/01 - Werewolf Den (Ground).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/04 - Werewolf Den (Ring of Stones).webp",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/07 - Van Richten's Tower (Destroyed).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/06 - Van Richten's Tower (Roof with Lightning).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/05 - Van Richten's Tower (Roof).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/04 - Van Richten's Tower (3rd Floor).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/03 - Van Richten's Tower (2nd Floor).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/02 - Van Richten's Tower (1st Floor).jpg",
+    "Handouts/Maps/Wolfrun/Van Richten's Tower/01 - Van Richten's Tower (Ground).jpg",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/03 - Gridless Layers (Transparent Backgrounds)",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/01 - Grid",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
     "Misc/Vistani.md",
     "Session Notes/Session 5.md",
     "Characters/Ireena Kolyana.md",
