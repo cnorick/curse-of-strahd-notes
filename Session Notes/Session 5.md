@@ -38,4 +38,4 @@ From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - Others have stormed [[Castle Ravenloft (K)|Castle Ravenloft]], only to have been killed or turned by [[Strahd Von Zarovich|Strahd]]
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well guarded and ultimately worth the risk
 
-[[Ismark Kolyanovich|Ismark]] offers the party 50gp to transport [[Ireena Kolyana|Ireena]], and thy
+[[Ismark Kolyanovich|Ismark]] offers the party 50gp to transport [[Ireena Kolyana|Ireena]], and they agree to do so. The party is ready to set out at once, but [[Ireena Kolyana|Ireena]] refuses to leave until she see's her father properly laid to rest in the village cemetery. [[Ismark Kolyanovich|Ismark]] recommends the party leave first thing in the morning to carry the b
