@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Madam Eva.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -187,91 +187,54 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "floating": {
-    "id": "f52b9e739cf35dd4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d7e6676db8f00685",
-        "type": "window",
-        "children": [
-          {
-            "id": "c994a6345394f0dd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6585b075f1a6dee4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Madam Eva.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "6585b075f1a6dee4",
+  "active": "554c8a34a58e58de",
   "lastOpenFiles": [
+    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
+    "Website/site/assets/images/people/strahd.jpeg",
+    "Website/site/assets/images/maps/barovia_village_tagged.jpg",
+    "Assets/Templates/Character.md",
+    "Website/site/assets/images/maps/barovia_tagged.jpg",
+    "Website/site/assets/images/places/death-house-front.jpg",
+    "Website/site/assets/images/people/rina.jpg",
+    "Website/site/assets/images/people/parriwimple.jpg",
+    "Website/site/assets/images/people/mad-mary.jpeg",
+    "Website/site/assets/images/people/ismark.jpg",
+    "Website/site/assets/images/people/ireena-kolyanna.jpg",
+    "Website/site/assets/images/people/granny.jpeg",
+    "Website/site/assets/images/people",
+    "Website/site/handouts/images/portraits/portrait-of-arik.html",
+    "Website/site/assets/images/places",
+    "Website/site/handouts/maps/tser-falls-map.html",
+    "Website/site/handouts/maps/old-slavich-road-map.html",
+    "Website/site/handouts/maps/village-of-barovia-map.html",
+    "Website/site/handouts/maps/river-ivlis-crossroads-map.html",
+    "Website/site/handouts/maps/barovia-map.html",
+    "Website/site/assets/images/maps/revenloft-moors",
+    "Website/site/assets/images/maps",
+    "Campaign/Session 0.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Gertruda.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
     "Characters/Pelanil.md",
     "Characters/Parriwimple.md",
     "Characters/Rictavio.md",
-    "Characters/Rosevalda.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Shalooti.md",
-    "Characters/Tatyana.md",
-    "Characters/Walter.md",
-    "Characters/Thornboldt.md",
-    "Characters/Gustav Durst.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Doru.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Jeny Greenteeth.md",
-    "Characters/The Abbott.md",
-    "Characters/Queen Ravenovia.md",
-    "Characters/King Barov.md",
-    "Characters/Arahja.md",
-    "Characters/Rina.md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Village of Barovia (E).md",
-    "Locations/Vallaki.md",
-    "Locations/Krezk (S).md",
-    "Locations/Svalich Woods (C).md",
-    "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
-    "Assets/Images/People/alenka.png",
-    "Assets/Images/Maps/Revenloft Moors/River Ivlis Crossroads Day.webp",
-    "Assets/Images/Places/death-house-front.jpg",
-    "Assets/Images/Maps/barovia_village_untagged.jpg",
-    "Assets/Images/Maps/barovia_village_tagged.jpg",
-    "Assets/Images/Maps/barovia_untagged.webp",
-    "Assets/Images/Maps/barovia_tagged.jpg",
-    "Assets/Images/People/Rina.jpg",
-    "Assets/Images/Places",
-    "Assets/Images/People/rahadin.jpeg",
-    "Assets/Images/People",
-    "Untitled",
-    "Assets/Images/Maps",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/03 - Gridless Layers (Transparent Backgrounds)",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/02 - Gridless",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
