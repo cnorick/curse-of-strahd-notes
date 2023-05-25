@@ -13,6 +13,6 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
 - Wine is the only strong drink found in Barovia, and the grapes barely grow
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
-- [[Lancelot]] actually belongs
+- [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but 
 
-[[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare to see
+[[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare for there to be such joyful sound in this dreary place.
