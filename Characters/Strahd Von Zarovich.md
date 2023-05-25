@@ -18,6 +18,9 @@ aliases: [Strahd, Count Strahd von Zarovich]
 ### Search for a Successor or Consort
 #todo 
 
+## Statblock
+
+
 ```statblock
 monster: Vampire
 ```
