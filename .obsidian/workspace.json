@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2b3d11146d54ba6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 5.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +179,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f47084342563bada",
+  "active": "e2b3d11146d54ba6",
   "lastOpenFiles": [
-    "Locations/Castle Ravenloft (K).md",
     "Session Notes/Session 5.md",
+    "Locations/Castle Ravenloft (K).md",
     "New Handouts.md",
     "Misc/Music Compiled.md",
     "Handouts/Maps/Old Svalich Road Map.md",
