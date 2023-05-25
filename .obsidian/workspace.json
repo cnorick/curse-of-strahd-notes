@@ -49,8 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "386bef81f943bbbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ismark Kolyanovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Ismark Kolyanovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Characters/Ismark Kolyanovich.md"
               }
             }
           },
@@ -197,8 +210,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "eb5b641e5b11032d",
+  "active": "386bef81f943bbbe",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
     "Session Notes/Session 5.md",
     "Handouts/Maps/Barovia.md",
     "Handouts/Maps/Village of Barovia.md",
@@ -218,7 +232,6 @@
     "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Locations/Village of Barovia (E).md",
     "Characters/Lancelot.md",
     "Characters/Arahja.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
