@@ -23,7 +23,9 @@ aliases: [Strahd, Count Strahd von Zarovich]
 - Inherited father's crown, lands, and army in 346
 - Conquered the valley in 347, finished Ravenloft in 350
 - Died and Turned into a vampire in 351 (It's 735 now)
-- [[Strahd Von Zarovich|Strahd]] was raised to be a military man, but his brother, [[Sergei]] was raised to 
+- Strahd was raised to be a military man
+	- his brother, [[Sergei]] was kept away from war after the death of their father
+	- Strahd was envious of the love their mother 
 - His mother died on the way to moving to Ravenloft
 - He was in love with [[Tatyana]], [[
 
