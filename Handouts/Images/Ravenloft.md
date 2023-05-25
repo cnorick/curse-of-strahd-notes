@@ -3,4 +3,4 @@ public: false
 new_handout: false
 ---
 
-![[ravenloft_castle.jpeg]]
+![[Assets/Images/Places/ravenloft_castle.jpeg]]

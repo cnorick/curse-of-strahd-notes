@@ -2,4 +2,4 @@
 public: true
 ---
 
-![[death-house-front.jpg]]
+![[Assets/Images/Places/death-house-front.jpg]]
