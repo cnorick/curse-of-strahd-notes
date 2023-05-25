@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0698218146e852e7",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
             "id": "6bb79cbfbafa67e0",
             "type": "leaf",
             "state": {
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a51ab37b12343e82",
@@ -45,8 +36,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0698218146e852e7",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Handouts/Maps/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Handouts/Maps/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Handouts/Maps/Barovia.md"
               }
             }
           },
@@ -201,15 +201,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "0f06e1c3f474e4a6",
+  "active": "6bb79cbfbafa67e0",
   "lastOpenFiles": [
+    "Characters/Ireena Kolyana.md",
     "Handouts/Maps/Barovia.md",
     "Assets/Images/Maps",
     "Campaign Notes.md",
     "New Handouts.md",
     "Session Notes/Session 5.md",
     "Characters/Strahd Von Zarovich.md",
-    "Characters/Ireena Kolyana.md",
     "Handouts/Maps/Wolfrun/Werewolf Den/03 - Werewolf Den (Shrine of Mother Night).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/02 - Werewolf Den (Mountain).webp",
     "Handouts/Maps/Wolfrun/Werewolf Den/01 - Werewolf Den (Ground).webp",
