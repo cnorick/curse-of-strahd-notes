@@ -19,5 +19,5 @@ aliases: [Strahd, Count Strahd von Zarovich]
 #todo 
 
 ```statblock
-monster: Captain
+monster: Goblin
 ```

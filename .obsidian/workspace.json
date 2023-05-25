@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           },
@@ -239,11 +239,11 @@
   },
   "active": "0f06e1c3f474e4a6",
   "lastOpenFiles": [
+    "Characters/Strahd Von Zarovich.md",
     "Misc/Barovian Lore.md",
     "Session Notes/Session 5.md",
     "Locations/Village of Barovia (E).md",
     "Misc/Vistani.md",
-    "Characters/Strahd Von Zarovich.md",
     "Characters/Gertruda.md",
     "Handouts/Maps/Barovia.md",
     "Characters/Ismark Kolyanovich.md",
