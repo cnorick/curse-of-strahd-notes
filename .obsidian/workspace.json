@@ -62,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -211,10 +210,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "20a643cdb9cb4a20",
+  "active": "eb5b641e5b11032d",
   "lastOpenFiles": [
-    "Misc/Barovian Lore.md",
     "Session Notes/Session 5.md",
+    "Misc/Barovian Lore.md",
     "Locations/Village of Barovia (E).md",
     "Handouts/Maps/Barovia.md",
     "Characters/Ismark Kolyanovich.md",

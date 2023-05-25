@@ -3,7 +3,7 @@ After meeting up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|B
 
 Suspicious because of their resemblance to [[Arrigal]] who first delivered the fake letter, [[Pelanil]] approaches the three [[Vistani]] women sitting near the door to learn more about them. He tells them about the party's escape from [[Death House]] and asks why they're dressed the way they are.
 
-The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and ask him why  We learn that the women actually own the tavern, and take offense to [[Pelanil]]'s questions. As the conversation between [[Pelanil]] and the [[Vistani]] women gets heated, the man sitting alone in the corner of the bar steps in.
+The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say they don't indulge in such things. We learn that the women actually own the tavern, and take offense to [[Pelanil]]'s questions. As the conversation between [[Pelanil]] and the [[Vistani]] women gets heated, the man sitting alone in the corner of the bar steps in.
 
 ## Ismark
 [[Ismark Kolyanovich]] invites the party to join him at his table. He overheard them talking about their experience with [[Death House]] and is impressed. He really thinks that they may be able to help him and his sister with a problem their having. From [[Ismark Kolyanovich|Ismark]], we learn the following:
