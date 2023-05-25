@@ -8,6 +8,7 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 
 ### Meeting Ismark
 [[Ismark Kolyanovich]] invites the party to join him at his table. He overheard them talking about their experience with [[Death House]] and is impressed. He really thinks that they may be able to help him and his sister with a problem their having. From [[Ismark Kolyanovich|Ismark]], we learn the following:
+- [[Ismark Kolyanovich|Ismark]] is the son of [[Kolyan Indirovich|Burgomaster Indirovich]]
 - For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to his sister, [[Ireena Kolyana|Ireena]] and desires her above all others
 - The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]
@@ -17,7 +18,7 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but she recently went missing
 	- Her mother, [[Mad Mary|Mary Swilova]], has recently gone mad because of the disappearance of her daughter
 
-
+When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [[Ireena Kolyana|Ireena]]'s situation, [[Ismark Kolyanovich|Ismark]] recommends they continue speaking at the [[Village of Barovia (E)#Burgomaster's Mansion (E4)|Burgomaster's Mansion]] in order to be 
 [[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare for there to be such joyful sound in this dreary place.
 
-- Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] he
+- Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
