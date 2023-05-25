@@ -22,6 +22,9 @@ When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [
 
 [[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare for there to be such joyful music in this dreary place.
 
-[[Pelanil]] makes a scene, acting as if he will not help [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]], and 
+[[Pelanil]] makes a scene, acting as if he will not help [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]], and leaves the tavern, secretly heading toward the mansion.
+
+## The Burgomaster's Mansion
+Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the walls and the weeds around the house have been trampled. He knoc
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
