@@ -28,9 +28,9 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- Strahd was envious of the love their mother showed Sergei
 - Strahd forged a pact with the [[Dark Powers]] or the Shadowfell in return for immortality
 	- then built [[Ravenloft]] and commanded his mother and brother to move in
-	- His mother died on the way to moving to Ravenloft, but 
-	- 
-- He was in love with [[Tatyana]], [[
+	- His mother died on the way to moving to Ravenloft, but [[Sergei]] lived there
+- Strahd fell in love with [[Tatyana]], but she fell in love with the warmer [[Sergei]]
+	- Strahd's pride kept him from standing in their way until their wedding day
 
 ## Statblock
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
