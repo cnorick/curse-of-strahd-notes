@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Barovia.md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           },
@@ -201,8 +201,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6bb79cbfbafa67e0",
+  "active": "0f06e1c3f474e4a6",
   "lastOpenFiles": [
+    "Handouts/Maps/Barovia.md",
+    "Assets/Images/Maps",
     "Campaign Notes.md",
     "New Handouts.md",
     "Session Notes/Session 5.md",
@@ -227,14 +229,12 @@
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/01 - Grid",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy",
     "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid",
-    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
     "Misc/Vistani.md",
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Locations/Village of Barovia (E).md",
     "Misc/Barovian Lore.md",
     "Characters/Gertruda.md",
-    "Handouts/Maps/Barovia.md",
     "Characters/Ismark Kolyanovich.md",
     "Handouts/Maps/Village of Barovia/Village of Barovia.md",
     "Handouts/Images/Ravenloft.md",
@@ -248,7 +248,6 @@
     "Handouts/Images/Portraits/Portrait of Granny.md",
     "Session Notes/Session 4.md",
     "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
