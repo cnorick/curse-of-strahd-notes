@@ -10,3 +10,4 @@ We learn that the women actually own the tavern, and take offense to [[Pelanil]]
 - The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
+- 
