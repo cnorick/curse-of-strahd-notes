@@ -43,7 +43,7 @@ In the end, they see the ghosts of the children and [[Margaret]] once more as [[
 ## Finally Out of the House
 After freeing the spirits from death house, the party walks out at level 3.
 
-[[Bardolf]] unties a hungry [[Carlos]], and as the party goes wandering in search of a place to rest, they encounter a friendly old lady, [[Morgantha]], who insists they call her Granny. Granny sells the party some of her delicious homemade pies, and the party scarfs them down right away. Granny also offers the following information:
+[[Bardolf]] unties a hungry [[Carlos]], and as the party goes wandering in search of a place to rest, they encounter a friendly old lady, [[Morgantha]], who insists they call her Granny. Granny sells the party some of her delicious homemade pies, and the party scarfs them down right away, except for [[Pelanil]] who packs his away for later. Granny also offers the following information:
 - Rumor is that [[Kolyan Indirovich|Burgomaster Indirovich]] is dead and that his son, [[Ismark Kolyanovich]] is set to replace him (Granny doesn't believe in his leadership)
 - The party can find a place to rest at [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|The Blood of the Vine Tavern]]
 - [[Bildrath Cantemir]] sells wares on the other side of town
@@ -54,4 +54,4 @@ Exhausted, [[Pelanil]] heads directly to the tavern, where he pays for a bath, a
 
 [[Bardolf]] heads to [[Village of Barovia (E)#Bildrath's Mercantile (E1)|Bildrath's Mercantile]] to find some feed for [[Carlos]]. [[Bildrath Cantemir|Bildrath]] is unwilling to budge on his incredibly high prices, so [[Bardolf]] is forced to pay top dollar. As [[Barovia]] tries to bargain, [[Bildrath Cantemir|Bildrath]] summons his nephew [[Parriwimple]] to deal with [[Bardolf]].
 
-Eventually, the party meets up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]] where they are finally ready to get some well-deserved rest.
+Eventually, the party each make their the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]] where they are finally ready to get some well-deserved rest.

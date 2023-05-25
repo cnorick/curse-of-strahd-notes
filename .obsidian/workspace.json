@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Session Notes/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Session Notes/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Session Notes/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Session Notes/Session 4.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "6264e9ccc1a876dc",
   "lastOpenFiles": [
-    "Characters/Lancelot.md",
+    "Session Notes/Session 5.md",
     "Locations/Village of Barovia (E).md",
+    "Characters/Lancelot.md",
     "Characters/Arahja.md",
     "Session Notes/Session 4.md",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
@@ -206,7 +207,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
     "Assets/Images/Rina.jpg",
     "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
