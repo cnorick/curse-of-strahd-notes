@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Maps/Crossroads 1.md",
+                "file": "Handouts/Maps/River Ivlis Crossroads.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Crossroads 1.md",
+                "file": "Handouts/Maps/River Ivlis Crossroads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Crossroads 1.md",
+                "file": "Handouts/Maps/River Ivlis Crossroads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Crossroads 1.md"
+                "file": "Handouts/Maps/River Ivlis Crossroads.md"
               }
             }
           },
@@ -214,10 +214,11 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
-    "Handouts/Maps/Crossroads.md",
-    "Handouts/Maps/Crossroads 1.md",
+    "Handouts/Maps/Village of Barovia Map.md",
+    "Handouts/Maps/Old Slavich Road Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/River Ivlis Crossroads.md",
     "Assets/Images/Maps/Revenloft Moors/River Ivlis Crossroads Day.webp",
-    "Handouts/Maps/Old Slavich Road.md",
     "Handouts/Maps/Barovia.md",
     "New Handouts.md",
     "Assets/Images/Places/death-house-front.jpg",
@@ -251,7 +252,6 @@
     "Misc/Barovian Lore.md",
     "Characters/Gertruda.md",
     "Characters/Ismark Kolyanovich.md",
-    "Handouts/Maps/Village of Barovia.md",
     "Handouts/Images/Ravenloft.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
