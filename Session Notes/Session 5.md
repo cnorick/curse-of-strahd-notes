@@ -25,6 +25,8 @@ When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [
 [[Pelanil]] makes a scene, acting as if he will not help [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]], and leaves the tavern, secretly heading toward the mansion.
 
 ## The Burgomaster's Mansion
-Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the walls and that the weeds around the house have been trampled. He knocks on the door, and a young woman peeks through the peephole and asks who's there. [[Pelanil]] explains his intentions to help and his meeti
+Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the walls and that the weeds around the house have been trampled. He knocks on the door, and a young woman peeks through the peephole and asks who's there. [[Pelanil]] explains his intentions to help and his meeting with [[Ismark Kolyanovich|Ismark]], but [[Ireena Kolyana|Ireena]], who seems to be terrified of strangers, does not believe him and asks him to leave.
+
+Very soon after, the rest of the party arrives ti
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
