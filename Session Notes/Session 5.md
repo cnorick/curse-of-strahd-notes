@@ -18,7 +18,8 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but she recently went missing
 	- Her mother, [[Mad Mary|Mary Swilova]], has recently gone mad because of the disappearance of her daughter
 
-When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [[Ireena Kolyana|Ireena]]'s situation, [[Ismark Kolyanovich|Ismark]] recommends they continue speaking at the [[Village of Barovia (E)#Burgomaster's Mansion (E4)|Burgomaster's Mansion]] in order to be 
+When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [[Ireena Kolyana|Ireena]]'s situation, [[Ismark Kolyanovich|Ismark]] recommends they continue speaking at the [[Village of Barovia (E)#Burgomaster's Mansion (E4)|Burgomaster's Mansion]] for privacy's sake as he indicates toward the [[Vistani]] spies in the corner.
+
 [[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare for there to be such joyful sound in this dreary place.
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
