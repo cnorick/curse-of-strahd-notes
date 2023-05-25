@@ -26,8 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfa0c0c783ca58e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Vistani.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Vistani.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -175,8 +188,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6264e9ccc1a876dc",
+  "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
     "Locations/Village of Barovia (E).md",
     "Session Notes/Session 5.md",
     "Characters/Gertruda.md",
@@ -212,7 +226,6 @@
     "Website/site/characters/arahja.html",
     "Website/site/characters/rina.html",
     "Website/site/assets/images/barovia_village_tagged.jpg",
-    "Assets/Templates/Character.md",
     "Website/site/session-notes/session-5.html",
     "Website/site/assets/images/arahja.jpg",
     "Website/site/assets/images/rina.jpg",
