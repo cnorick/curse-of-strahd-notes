@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +175,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "11cac55376822d62",
+  "active": "6264e9ccc1a876dc",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
     "Session Notes/Session 5.md",
