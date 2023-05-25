@@ -1,1 +1,1 @@
-After meeting up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]], the party order wine with [[Arik Lorensk|Arik the Barkeep]] who doesn't seem to be completely there. 
+After meeting up at the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]], the party order wine from [[Arik Lorensk|Arik the Barkeep]] who doesn't seem to be completely there.  [[Pelanil]] approaches the 3 [[Vistani]] women sitting near the door and 
