@@ -10,5 +10,10 @@ dv.list(dv.pages('"Handouts/Items"').sort(k => k.file.name).filter(k => k.new_ha
 
 ## Letters
 ```dataviewjs
-dv.list(dv.pages('"Handouts/Items"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
+dv.list(dv.pages('"Handouts/Letters"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
+```
+
+## Maps
+```dataviewjs
+dv.list(dv.pages('"Handouts/Maps"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
 ```

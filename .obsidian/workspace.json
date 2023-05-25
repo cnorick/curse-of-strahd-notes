@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Maps/Old Slavich Road.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Maps/Old Slavich Road.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Handouts/Maps/Old Slavich Road.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Handouts/Maps/Old Slavich Road.md"
               }
             }
           },
@@ -214,6 +214,8 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
+    "Handouts/Maps/Barovia.md",
+    "Handouts/Maps/Old Slavich Road.md",
     "New Handouts.md",
     "Assets/Images/Places/death-house-front.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
@@ -229,7 +231,6 @@
     "Characters/Arik Lorensk.md",
     "Assets/Images/People",
     "Untitled",
-    "Handouts/Maps/Barovia.md",
     "Characters/Ireena Kolyana.md",
     "Assets/Images/Maps",
     "Campaign Notes.md",
