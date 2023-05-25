@@ -6,7 +6,7 @@ Suspicious because of their resemblance to [[Arrigal]] who first delivered the f
 We learn that the women actually own the tavern, and take offense to [[Pelanil]]'s questions. As the conversation between [[Pelanil]] and the [[Vistani]] women gets heated, the man sitting alone in the corner of the bar steps in.
 
 [[Ismark Kolyanovich]] invites the party to join him at his table. He overheard them talking about their experience with [[Death House]] and is impressed. He really thinks that they may be able to help him and his sister with a problem their having. From [[Ismark Kolyanovich|Ismark]], we learn the following:
-- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
+- For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to his sister, [[Ireena Kolyana|Ireena]] and desires her above all others
 - The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
