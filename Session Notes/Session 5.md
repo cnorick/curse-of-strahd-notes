@@ -50,4 +50,4 @@ From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 Just to make sure things were in order, [[Bardolf]] and [[Pelanil]] head to the church that evening to inform [[Donavich]] that they'll be back first thing tomorrow for a funeral. They find [[Donavich]] exhausted and hoarse from praying all day for his son [[Doru]] who was apparently turned by [[Strahd Von Zarovich|Strahd]] when he attempted to storm [[Ravenloft]].
 
 ### Some Long-Deserved Rest
-All back at the mansion, the party lie down for the night. They all have the same exact dream of a woman asking them to join her at [[Tser Pool Encampment (G)|Tser Pool]] for a card reading
+All back at the mansion, the party lie down for the night. They all have the same exact dream of a woman asking them to join her at [[Tser Pool Encampment (G)|Tser Pool]] for a card reading. All the party members except for [[Pelanil]] had the most wonderful, peaceful sleep they'd ever experience 
