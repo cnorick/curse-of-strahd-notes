@@ -2,4 +2,4 @@
 public: false
 new_handout: false
 ---
-![[Assets/Images/gertruda.jpeg]]
+![[Assets/Images/People/gertruda.jpeg]]

@@ -1,4 +1,4 @@
-![[granny.jpeg|200]]
+![[Assets/Images/People/granny.jpeg|200]]
 
 Firstly, try to play Morgantha as the most loving, grandmotherly person in the whole wide world. She's kind to a fault and a shameless gossip (as many elder women can be as a stereotype).
 

@@ -55,7 +55,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/donavich.jpeg"
+                "file": "Assets/Images/death-house-front.jpg"
               }
             }
           }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/donavich.jpeg",
+                "file": "Assets/Images/death-house-front.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/donavich.jpeg",
+                "file": "Assets/Images/death-house-front.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/donavich.jpeg"
+                "file": "Assets/Images/death-house-front.jpg"
               }
             }
           },
@@ -244,15 +244,21 @@
   },
   "active": "c9bdbddab8f80786",
   "lastOpenFiles": [
-    "Assets/Images/People/Bildrath.jpg",
-    "Assets/Images/People/alenka.png",
-    "Assets/Images/People/arahja.jpg",
+    "Assets/Images/Maps/barovia_village_untagged.jpg",
+    "Assets/Images/Maps/barovia_village_tagged.jpg",
+    "Assets/Images/Maps/barovia_untagged.webp",
+    "Assets/Images/Maps/barovia_tagged.jpg",
+    "Assets/Images/People/Rina.jpg",
+    "Assets/Images/Places",
+    "Assets/Images/People/rahadin.jpeg",
+    "Assets/Images/People/mad mary.jpeg",
+    "Assets/Images/People/Ismark.jpg",
+    "Assets/Images/People/Ireena Kolyanna.jpg",
+    "Assets/Images/People/granny.jpeg",
+    "Assets/Images/People/gertruda.jpeg",
     "Characters/Arik Lorensk.md",
-    "Assets/Images/dead-pc.jpg",
     "Assets/Images/People",
     "Untitled",
-    "Assets/Images/strahd.jpeg",
-    "Assets/Images/strahd_icon.webp",
     "Handouts/Maps/Barovia.md",
     "Characters/Ireena Kolyana.md",
     "Assets/Images/Maps",
@@ -260,18 +266,12 @@
     "New Handouts.md",
     "Session Notes/Session 5.md",
     "Characters/Strahd Von Zarovich.md",
-    "Handouts/Maps/Wolfrun/Werewolf Den/03 - Werewolf Den (Shrine of Mother Night).webp",
-    "Handouts/Maps/Wolfrun/Werewolf Den/02 - Werewolf Den (Mountain).webp",
-    "Handouts/Maps/Wolfrun/Werewolf Den/01 - Werewolf Den (Ground).webp",
-    "Handouts/Maps/Wolfrun/Werewolf Den/04 - Werewolf Den (Ring of Stones).webp",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/07 - Van Richten's Tower (Destroyed).jpg",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/02 - Gridless",
-    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Day - Copy/01 - Grid",
     "Misc/Vistani.md",
     "Handouts/Images/Portraits/Portrait of Arik.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",

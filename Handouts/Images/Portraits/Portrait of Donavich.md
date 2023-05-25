@@ -3,4 +3,4 @@ public: true
 new_handout: true
 ---
 
-![[Assets/Images/donavich.jpeg]]
+![[Assets/Images/People/donavich.jpeg]]

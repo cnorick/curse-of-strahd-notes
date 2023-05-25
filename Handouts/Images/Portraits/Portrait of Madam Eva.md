@@ -2,4 +2,4 @@
 public: false
 new_handout: true
 ---
-![[Assets/Images/eva.jpeg]]
+![[Assets/Images/People/eva.jpeg]]

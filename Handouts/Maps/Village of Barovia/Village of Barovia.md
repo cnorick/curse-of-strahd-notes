@@ -2,4 +2,4 @@
 public: true
 ---
 
-![[barovia_village_untagged.jpg]]
+![[Assets/Images/Maps/barovia_village_untagged.jpg]]

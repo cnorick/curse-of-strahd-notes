@@ -2,7 +2,7 @@
 alias: Granny
 ---
 (NE Fiend)
-![[granny.jpeg|200]]
+![[Assets/Images/People/granny.jpeg|200]]
 ## Playing Morgantha/Granny
 ### As Granny Selling Dream Pies
 - Most loving grandmotherly person in the world

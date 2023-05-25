@@ -3,4 +3,4 @@ public: true
 new_handout: false
 ---
 
-![[Ismark.jpg]]
+![[Assets/Images/People/Ismark.jpg]]

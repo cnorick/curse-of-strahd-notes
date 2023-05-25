@@ -2,7 +2,7 @@
 alias: Eva
 ---
 (NE human)
-![[eva.jpeg|200]]
+![[Assets/Images/People/eva.jpeg|200]]
 ## Playing Madam Eva
 
 ## History/Info

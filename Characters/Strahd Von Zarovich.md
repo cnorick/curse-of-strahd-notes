@@ -1,7 +1,7 @@
 ---
 aliases: [Strahd, Count Strahd von Zarovich]
 ---
-![[strahd.jpeg|200]]
+![[Assets/Images/People/strahd.jpeg|200]]
 ## Strahd's Goals
 ### Turn [[Ireena Kolyana]]
 - Strahd slayed [[Sergei]] because he loved [[Tatyana]] so much

@@ -3,4 +3,4 @@ public: true
 new_handout: false
 ---
 
-![[Parriwimple.jpg]]
+![[Assets/Images/People/Parriwimple.jpg]]

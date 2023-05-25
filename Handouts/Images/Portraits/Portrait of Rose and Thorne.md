@@ -2,4 +2,4 @@
 public: true
 ---
 
-![[death-house-kids.png]]
+![[Assets/Images/People/death-house-kids.png]]

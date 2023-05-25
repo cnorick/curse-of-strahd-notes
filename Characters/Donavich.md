@@ -1,5 +1,5 @@
 (LN male human acolyte)
-![[donavich.jpeg|200]]
+![[Assets/Images/People/donavich.jpeg|200]]
 **Voice**: Always seems to be kinda out of breath and almost crying
 
 ## Playing Donavich

@@ -2,4 +2,4 @@
 public: false
 new_handout: true
 ---
-![[Rina.jpg]]
+![[Assets/Images/People/Rina.jpg]]

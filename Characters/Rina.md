@@ -1,5 +1,5 @@
 (CN bandit)
-![[rina.jpg|200]]
+![[Assets/Images/People/Rina.jpg|200]]
 ## Playing Rina
 - quieter and speaks little
 - but when she does speak, it's often profound and full of mischief
