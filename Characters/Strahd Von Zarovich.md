@@ -31,6 +31,9 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- His mother died on the way to moving to Ravenloft, but [[Sergei]] lived there
 - Strahd fell in love with [[Tatyana]], but she fell in love with the warmer [[Sergei]]
 	- Strahd's pride kept him from standing in their way until their wedding day
+	- Strahd murdered [[Sergei]] and drank his blood
+		- fulfilling the evil pact
+	- He chased [[Tatyana]], but she threw herself from a castle balcony
 
 ## Statblock
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
