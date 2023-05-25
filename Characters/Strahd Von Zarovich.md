@@ -34,7 +34,7 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- Strahd murdered [[Sergei]] and drank his blood
 		- fulfilling the evil pact
 	- He chased [[Tatyana]], but she threw herself from a castle balcony
-- The pact fulfilled, his mother's and father's sprits disappointed, the Castle and the Valley were spirited away
+- The pact fulfilled, his mother's and father's sprits disappointed, the Castle and the Valley were spirited away, locked in a demiplane surrounded by fog
 
 ## Statblock
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.

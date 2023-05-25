@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -189,7 +189,9 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Misc/Vistani.md",
     "Locations/Tser Pool Encampment (G).md",
+    "Characters/Strahd Von Zarovich.md",
     "Session Notes/Session 5.md",
     "Locations/Castle Ravenloft (K).md",
     "New Handouts.md",
@@ -233,8 +235,6 @@
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
-    "Characters/Mad Mary.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
