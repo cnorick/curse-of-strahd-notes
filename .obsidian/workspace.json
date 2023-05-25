@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Handouts/Maps/Old Slavich Road Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "slavic ro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Handouts/Maps/Old Slavich Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Handouts/Maps/Old Slavich Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Handouts/Maps/Old Slavich Road Map.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "554c8a34a58e58de",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",
@@ -210,7 +211,6 @@
     "Website/site/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/site/handouts/maps/barovia-map.html",
     "Website/site/assets/images/maps/revenloft-moors",
-    "Website/site/assets/images/maps",
     "Campaign/Session 0.md",
     "Campaign/Session 3.md",
     "Campaign/Session 1.md",
