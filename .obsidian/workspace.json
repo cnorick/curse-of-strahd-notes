@@ -53,6 +53,24 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "a51ab37b12343e82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f06e1c3f474e4a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Barovian Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           },
@@ -200,10 +218,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "bfa0c0c783ca58e1",
+  "active": "0f06e1c3f474e4a6",
   "lastOpenFiles": [
-    "Misc/Barovian Lore.md",
     "Session Notes/Session 5.md",
+    "Misc/Barovian Lore.md",
     "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
     "Locations/Village of Barovia (E).md",

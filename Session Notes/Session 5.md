@@ -35,6 +35,7 @@ Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovi
 From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - [[Strahd Von Zarovich|Strahd]] has bitten [[Ireena Kolyana|Ireena]] twice within a fortnight
 	- She doesn't remember much about her encounters with [[Strahd Von Zarovich|Strahd]] though
+- [[Strahd Von Zarovich|Strahd]] doesn't seem to be able to enter residences without invitation
 - [[Kolyan Indirovich|Burgomaster Indirovich]] died from a heart attack after wolves and other terrible creatures under [[Strahd Von Zarovich|Strahd]]'s command attacked the house night after night
 - [[Strahd Von Zarovich|Strahd]] has taken multiple consorts, but ultimately turned them into vampire spawn
 - Others have stormed [[Castle Ravenloft (K)|Castle Ravenloft]], only to have been killed or turned by [[Strahd Von Zarovich|Strahd]]
