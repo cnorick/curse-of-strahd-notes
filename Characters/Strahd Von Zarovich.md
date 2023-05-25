@@ -17,3 +17,7 @@ aliases: [Strahd, Count Strahd von Zarovich]
 #todo 
 ### Search for a Successor or Consort
 #todo 
+
+```statblock
+monster: Captain
+```

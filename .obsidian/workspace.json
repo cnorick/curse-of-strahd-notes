@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Barovian Lore.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Barovian Lore.md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -237,11 +237,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "101a8d198059b361",
+  "active": "0f06e1c3f474e4a6",
   "lastOpenFiles": [
+    "Misc/Barovian Lore.md",
     "Session Notes/Session 5.md",
     "Locations/Village of Barovia (E).md",
-    "Misc/Barovian Lore.md",
     "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
     "Characters/Gertruda.md",
