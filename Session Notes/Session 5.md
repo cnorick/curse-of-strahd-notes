@@ -29,6 +29,9 @@ Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the
 
 Very soon after, the rest of the party arrives with [[Ismark Kolyanovich|Ismark]] who [[Ireena Kolyana|Ireena]] is happy to let inside. [[Ismark Kolyanovich|Ismark]] explains the party's experience with [[Death House]] and tells [[Ireena Kolyana|Ireena]] that they may be capable of getting her to safety.
 
-Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovich]]'s corpse in a wooden coffin with wilted flowers and the scent of decay surrounding it. [[Pelanil]] does a little magic to bring the flowers back to life, and noticing the absence of a cross among the various religious iconography around the house, offers one to [[Ireena Kolyana|Ireena]] while he spreads the gospel of [[Jesus]] from the village of [[Nazareth]]
+Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovich]]'s corpse in a wooden coffin with wilted flowers and the scent of decay surrounding it. [[Pelanil]] does a little magic to bring the flowers back to life, and noticing the absence of a cross among the various religious iconography around the house, offers one to [[Ireena Kolyana|Ireena]] while he spreads the gospel of the half-elf [[Jesus]] from the village of [[Nazareth]].
+
+From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
+- [[Strahd Von Zarovich|Strahd]] has bitten [[Ireena Kolyana|Ireena]] twice withi
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
