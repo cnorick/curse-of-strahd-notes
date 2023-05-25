@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads.md",
+                "file": "Handouts/Maps/Tser Pool Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads.md",
+                "file": "Handouts/Maps/Tser Pool Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads.md",
+                "file": "Handouts/Maps/Tser Pool Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads.md"
+                "file": "Handouts/Maps/Tser Pool Map.md"
               }
             }
           },
@@ -214,12 +214,13 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/Tser Pool Map.md",
+    "Handouts/Maps/Barovia Map.md",
+    "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Old Slavich Road Map.md",
-    "Handouts/Maps/Tser Falls Map.md",
-    "Handouts/Maps/River Ivlis Crossroads.md",
     "Assets/Images/Maps/Revenloft Moors/River Ivlis Crossroads Day.webp",
-    "Handouts/Maps/Barovia.md",
     "New Handouts.md",
     "Assets/Images/Places/death-house-front.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
@@ -259,7 +260,6 @@
     "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Handouts/Images/Portraits/Portrait of Mad Mary.md",
     "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

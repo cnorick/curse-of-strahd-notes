@@ -52,6 +52,6 @@ After freeing the spirits from death house, the party walks out at level 3.
 
 Exhausted, [[Pelanil]] heads directly to the tavern, where he pays for a bath, and proceeds to the bar.
 
-[[Bardolf]] heads to [[Village of Barovia (E)#Bildrath's Mercantile (E1)|Bildrath's Mercantile]] to find some feed for [[Carlos]]. [[Bildrath Cantemir|Bildrath]] is unwilling to budge on his incredibly high prices, so [[Bardolf]] is forced to pay top dollar. As [[Barovia]] tries to bargain, [[Bildrath Cantemir|Bildrath]] summons his nephew [[Parriwimple]] to deal with [[Bardolf]].
+[[Bardolf]] heads to [[Village of Barovia (E)#Bildrath's Mercantile (E1)|Bildrath's Mercantile]] to find some feed for [[Carlos]]. [[Bildrath Cantemir|Bildrath]] is unwilling to budge on his incredibly high prices, so [[Bardolf]] is forced to pay top dollar. As [[Barovia Map]] tries to bargain, [[Bildrath Cantemir|Bildrath]] summons his nephew [[Parriwimple]] to deal with [[Bardolf]].
 
 Eventually, the party each make their the [[Village of Barovia (E)#Blood of the Vine Tavern (E2)|Blood of the Vine Tavern]] where they are finally ready to get some well-deserved rest.
