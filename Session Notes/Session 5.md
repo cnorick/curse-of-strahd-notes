@@ -34,10 +34,11 @@ Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovi
 
 From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - [[Strahd Von Zarovich|Strahd]] has bitten [[Ireena Kolyana|Ireena]] twice within a fortnight
-	- She doesn't remember much about her encounters with [[ST
+	- She doesn't remember much about her encounters with [[Strahd Von Zarovich|Strahd]] though
 - [[Kolyan Indirovich|Burgomaster Indirovich]] died from a heart attack after wolves and other terrible creatures under [[Strahd Von Zarovich|Strahd]]'s command attacked the house night after night
 - [[Strahd Von Zarovich|Strahd]] has taken multiple consorts, but ultimately turned them into vampire spawn
 - Others have stormed [[Castle Ravenloft (K)|Castle Ravenloft]], only to have been killed or turned by [[Strahd Von Zarovich|Strahd]]
+	- Notably, [[Donavich]]'s son [[Doru]]
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well guarded and ultimately worth the risk
 
 [[Ismark Kolyanovich|Ismark]] offers the party 50gp to transport [[Ireena Kolyana|Ireena]], and they agree to do so. The party is ready to set out at once, but [[Ireena Kolyana|Ireena]] refuses to leave until she see's her father properly laid to rest in the village cemetery. [[Ismark Kolyanovich|Ismark]] recommends the party leave first thing in the morning to carry the body to [[Donavich]] at the church.
