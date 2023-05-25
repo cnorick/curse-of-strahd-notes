@@ -1,6 +1,6 @@
 ---
 public: true
-new_handout: false
+new_handout: true
 ---
-[[Assets/Images/Maps/barovia_untagged.webp]]
-![[Assets/Images/Maps/barovia_untagged.webp]]
+[[01 - Old Svalich Road Encounter Day.webp]]
+![[01 - Old Svalich Road Encounter Day.webp]]
