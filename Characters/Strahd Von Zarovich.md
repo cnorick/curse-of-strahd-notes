@@ -27,7 +27,9 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- his brother, [[Sergei]] was kept away from war after the death of their father
 	- Strahd was envious of the love their mother showed Sergei
 - Strahd forged a pact with the [[Dark Powers]] or the Shadowfell in return for immortality
-- His mother died on the way to moving to Ravenloft
+	- then built [[Ravenloft]] and commanded his mother and brother to move in
+	- His mother died on the way to moving to Ravenloft, but 
+	- 
 - He was in love with [[Tatyana]], [[
 
 ## Statblock
