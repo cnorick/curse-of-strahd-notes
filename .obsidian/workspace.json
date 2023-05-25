@@ -8,22 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bb79cbfbafa67e0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/People/alenka.png"
-              }
-            }
-          },
-          {
             "id": "f47084342563bada",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Maps/Tser Pool Map.md",
+                "file": "New Handouts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "554c8a34a58e58de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Tser Pool Map.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Tser Pool Map.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Tser Pool Map.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -212,16 +214,18 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "f47084342563bada",
+  "active": "554c8a34a58e58de",
   "lastOpenFiles": [
-    "Handouts/Maps/Tser Falls Map.md",
+    "New Handouts.md",
     "Handouts/Maps/Tser Pool Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
+    "Assets/Images/People/alenka.png",
     "Handouts/Maps/Barovia Map.md",
     "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Old Slavich Road Map.md",
     "Assets/Images/Maps/Revenloft Moors/River Ivlis Crossroads Day.webp",
-    "New Handouts.md",
     "Assets/Images/Places/death-house-front.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
     "Assets/Images/Maps/barovia_village_tagged.jpg",
@@ -230,8 +234,6 @@
     "Assets/Images/People/Rina.jpg",
     "Assets/Images/Places",
     "Assets/Images/People/rahadin.jpeg",
-    "Assets/Images/People/mad mary.jpeg",
-    "Assets/Images/People/Ismark.jpg",
     "Characters/Arik Lorensk.md",
     "Assets/Images/People",
     "Untitled",
@@ -259,7 +261,6 @@
     "Handouts/Images/Portraits/Portrait of Parriwimple.md",
     "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
