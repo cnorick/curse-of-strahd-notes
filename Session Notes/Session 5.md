@@ -11,7 +11,7 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Ismark Kolyanovich|Ismark]] is the son of [[Kolyan Indirovich|Burgomaster Indirovich]]
 - For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to his sister, [[Ireena Kolyana|Ireena]] and desires her above all others
 - The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
-- [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]
+- [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)|Castle Ravenloft]]
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
 - Wine is the only strong drink found in Barovia, and the grapes barely grow
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]

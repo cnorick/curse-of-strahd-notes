@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
-    "Misc/Music Compiled.md",
+    "Locations/Castle Ravenloft (K).md",
+    "Session Notes/Session 5.md",
     "New Handouts.md",
+    "Misc/Music Compiled.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Locations/Tser Pool Encampment (G).md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
@@ -220,8 +222,6 @@
     "Characters/Kolyan Indirovich.md",
     "Characters/Lancelot.md",
     "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Characters/Morgantha.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
