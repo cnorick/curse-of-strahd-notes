@@ -12,12 +12,15 @@ aliases: [Strahd, Count Strahd von Zarovich]
 	- both times, he charmed his way into her home and drank her blood
 - He intends to kill her at their next meeting
 	- and turn her into his vampire spawn consort
-- Turned into a vampire in 351 (It's 735 now)
 
 ### Find [[Rudolph Van Richten]]
 #todo 
 ### Search for a Successor or Consort
 #todo 
+
+## History
+- Born 3
+- Turned into a vampire in 351 (It's 735 now)
 
 ## Statblock
 With his mind sharp and his heart dark, Strahd von Zarovich is a formidable foe. Courage and lives beyond measure have been lost to him. Reread chapter 1, "Into the Mists," to understand his personality and goals.
