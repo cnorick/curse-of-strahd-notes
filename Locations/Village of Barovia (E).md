@@ -168,7 +168,7 @@ Contents:
 	- If [[Doru]] dies, [[Donavich]] falls to the floor and weeps inconsolably, overcome with despair
 
 #### Funeral for Burgomaster
-- The PCs and [[Ismark Kolyanovich|Ismark]] come to the Church with the Bod
+- The PCs and [[Ismark Kolyanovich|Ismark]] come to the Church with the Body
 	- They maybe set the coffin down right inside
 - Meeting [[Donavich]] is strained what with all the screams
 	- [[Ismark Kolyanovich|Ismark]] is able to quietly convince him to leave his praying for just enough time to conduct a funeral
