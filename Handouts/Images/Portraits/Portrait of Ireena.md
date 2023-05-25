@@ -1,6 +1,6 @@
 ---
-public: false
-new_handout: true
+public: true
+new_handout: false
 ---
 
 ![[Ireena Kolyanna.jpg]]

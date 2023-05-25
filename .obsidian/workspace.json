@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4c6717b142932ec8",
+            "id": "20a643cdb9cb4a20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Gertruda.md",
+                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Gertruda.md",
+                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Gertruda.md",
+                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Gertruda.md"
+                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md"
               }
             }
           },
@@ -179,8 +179,17 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "4c6717b142932ec8",
+  "active": "20a643cdb9cb4a20",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Portrait of Rina.md",
+    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
+    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
+    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Handouts/Images/Portraits/Portrait of Ismark.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Handouts/Images/Portraits/Portrait of Granny.md",
+    "Session Notes/Session 4.md",
+    "Handouts/Images/Portraits/Portrait of Gertruda.md",
     "Handouts/Images/Portraits/Portrait of Doru.md",
     "Handouts/Images/Portraits/Portrait of Donavich.md",
     "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
@@ -189,7 +198,6 @@
     "Handouts/Maps/Barovia.md",
     "Handouts/Maps/Village of Barovia.md",
     "Session Notes/Session 5.md",
-    "Session Notes/Session 4.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Lancelot.md",
     "Characters/Arahja.md",
@@ -212,14 +220,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
     "Assets/Images/Rina.jpg",
     "Assets/Images/arahja.jpg",
     "Website/site/assets/images/strahd_icon.webp",
