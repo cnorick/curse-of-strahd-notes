@@ -9,3 +9,4 @@ We learn that the women actually own the tavern, and take offense to [[Pelanil]]
 - For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
 - The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]
+- 
