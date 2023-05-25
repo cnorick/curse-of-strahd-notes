@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "978d17484df757f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5b641e5b11032d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Village of Barovia (E).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Locations/Village of Barovia (E).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Locations/Village of Barovia (E).md"
               }
             }
           },
@@ -179,8 +197,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "20a643cdb9cb4a20",
+  "active": "eb5b641e5b11032d",
   "lastOpenFiles": [
+    "Session Notes/Session 5.md",
     "Handouts/Maps/Barovia.md",
     "Handouts/Maps/Village of Barovia.md",
     "Handouts/Images/Ravenloft.md",
@@ -199,7 +218,6 @@
     "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
     "Handouts/Images/Portraits/Portrait of Bildrath.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Session Notes/Session 5.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Lancelot.md",
     "Characters/Arahja.md",
