@@ -69,21 +69,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3fa8413a9e897460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arik.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arik.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Arik.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -222,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,14 +225,34 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3fa8413a9e897460",
+  "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
+    "Characters/Ireena Kolyana.md",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)/02 - Werewolf Den (Mountain).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid/02 - Werewolf Den (Mountain).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/02 - Werewolf Den (Mountain).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/04 - Werewolf Den (Ring of Stones).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid/01 - Werewolf Den (Ground).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/01 - Werewolf Den (Ground).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless/03 - Werewolf Den (Shrine of Mother Night).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/01 - Grid/02 - Werewolf Den (Mountain).webp",
+    "Handouts/Maps/Wolfrun/Krezk Gate/Night/03 - Gridless Layers (Transparent Backgrounds)/03 - Krezk Gate (Roof).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/01 - Grid/01 - Werewolf Den (Ground).webp",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/03 - Gridless Layers (Transparent Backgrounds)",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Night 01/01 - Grid",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Werewolf Den/Day 01/01 - Grid",
+    "Handouts/Maps/Wolfrun/Krezk Gate/Night/03 - Gridless Layers (Transparent Backgrounds)",
+    "Handouts/Maps/Wolfrun/Krezk Gate/Night/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Krezk Gate/Night/01 - Grid",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night/03 - Gridless Layers (Transparent Backgrounds)",
+    "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night/02 - Gridless",
+    "Handouts/Maps/Wolfrun/Krezk Gate/Day/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Images/Portraits/Portrait of Arik.md",
+    "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Locations/Village of Barovia (E).md",
     "Session Notes/Session 5.md",
     "Misc/Vistani.md",
-    "Characters/Ireena Kolyana.md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Barovian Lore.md",
     "Characters/Gertruda.md",
@@ -264,27 +272,6 @@
     "Handouts/Images/Portraits/Portrait of Gertruda.md",
     "Handouts/Images/Portraits/Portrait of Doru.md",
     "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Website/site/no-spoilers/campaign-notes/session-notes/session-5.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
-    "Website/no-spoilers/campaign-notes/scripts/webpage.js",
-    "Website/site/characters/arahja.html",
-    "Website/site/characters/rina.html",
-    "Website/site/assets/images/barovia_village_tagged.jpg",
-    "Website/site/session-notes/session-5.html",
-    "Website/site/assets/images/arahja.jpg",
-    "Website/site/assets/images/rina.jpg",
-    "Assets/Images/Rina.jpg",
-    "Assets/Images/arahja.jpg",
-    "Website/site/assets/images/strahd_icon.webp",
-    "Assets/Images/strahd_icon.webp",
-    "Website/site/assets/images/dead-pc.jpg",
-    "Assets/Images/dead-pc.jpg",
-    "Website/site/assets/images/strahd.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
