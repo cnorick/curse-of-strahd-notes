@@ -25,10 +25,10 @@ When the party presses for more details on [[Ismark Kolyanovich|Ismark]]'s and [
 [[Pelanil]] makes a scene, acting as if he will not help [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]], and leaves the tavern, secretly heading toward the mansion.
 
 ## The Burgomaster's Mansion
-Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the walls and that the weeds around the house have been trampled. He knocks on the door, and a young woman peeks through the peephole and asks who's there. [[Pelanil]] explains his intentions to help and his meeting with [[Ismark Kolyanovich|Ismark]], but [[Ireena Kolyana|Ireena]], who seems to be terrified of strangers, does not believe him and asks him to leave.
+Arriving first at the mansion, [[Pelanil]] sees that there are claw marks on the walls, the windows are boarded up, and that the weeds around the house have been trampled. He knocks on the door, and a young woman peeks through the peephole and asks who's there. [[Pelanil]] explains his intentions to help and his meeting with [[Ismark Kolyanovich|Ismark]], but [[Ireena Kolyana|Ireena]], who seems to be terrified of strangers, does not believe him and asks him to leave.
 
 Very soon after, the rest of the party arrives with [[Ismark Kolyanovich|Ismark]] who [[Ireena Kolyana|Ireena]] is happy to let inside. [[Ismark Kolyanovich|Ismark]] explains the party's experience with [[Death House]] and tells [[Ireena Kolyana|Ireena]] that they may be capable of getting her to safety.
 
-Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovich]]'s corpse in a wooden coffin with wilted flowers and the scent of decay surrounding it. [[Pelanil]] does a little magic to bring the flowers back to life, and noticing the absence of a cross among
+Upon entering the house, the party sees [[Kolyan Indirovich|Burgomaster Indirovich]]'s corpse in a wooden coffin with wilted flowers and the scent of decay surrounding it. [[Pelanil]] does a little magic to bring the flowers back to life, and noticing the absence of a cross among the various religious iconography around the house
 
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well gaurded
