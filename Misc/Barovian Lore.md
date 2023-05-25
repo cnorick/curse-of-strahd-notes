@@ -9,7 +9,7 @@
 - [ ] Running water burns a vampire like acid, and sunlight causes a vampire to burst into flames
 
 ### The Land of Barovia
-- [ ] Anyone who attempts to leave the land of Barovia begins to choke on the fog
+- [x] Anyone who attempts to leave the land of Barovia begins to choke on the fog
 	- Those who don't turn back perish
 - [ ] Many strangers have been drawn to Barovia over the years, but they all die or disappear before long
 - [ ] Wolves, dire wolves, and werewolves prowls the [[Svalich Woods (C)]], and hungry bats fill the skies at night

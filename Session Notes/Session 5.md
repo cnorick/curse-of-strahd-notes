@@ -41,6 +41,9 @@ From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - Others have stormed [[Castle Ravenloft (K)|Castle Ravenloft]], only to have been killed or turned by [[Strahd Von Zarovich|Strahd]]
 	- Notably, [[Donavich]]'s son [[Doru]]
 - Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well guarded and ultimately worth the risk
+- Anyone who attempts to leave the land of Barovia begins to choke on the fog
+	- Those who don't turn back perish
+
 
 [[Ismark Kolyanovich|Ismark]] offers the party 50gp to transport [[Ireena Kolyana|Ireena]], and they agree to do so. The party is ready to set out at once, but [[Ireena Kolyana|Ireena]] refuses to leave until she see's her father properly laid to rest in the village cemetery. [[Ismark Kolyanovich|Ismark]] recommends the party leave first thing in the morning to carry the body to [[Donavich]] at the church.
 
