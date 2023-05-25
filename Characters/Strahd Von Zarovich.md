@@ -25,7 +25,8 @@ aliases: [Strahd, Count Strahd von Zarovich]
 - Died and Turned into a vampire in 351 (It's 735 now)
 - Strahd was raised to be a military man
 	- his brother, [[Sergei]] was kept away from war after the death of their father
-	- Strahd was envious of the love their mother 
+	- Strahd was envious of the love their mother showed Sergei
+- Strahd forged a pact with the [[Dark Powers]] or the Shadowfell in return for immortality
 - His mother died on the way to moving to Ravenloft
 - He was in love with [[Tatyana]], [[
 
