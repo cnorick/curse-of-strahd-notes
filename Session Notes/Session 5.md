@@ -15,6 +15,9 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - Wine is the only strong drink found in Barovia, and the grapes barely grow
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
 - [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but she recently went missing
-	- Her mother, [[Mad Mary|Mary Swilova]] has gone somewhat mad because of the loss of here daughter
+	- Her mother, [[Mad Mary|Mary Swilova]], has recently gone mad because of the disappearance of her daughter
+
 
 [[Shalooti]], having been performing for the small crowd, elicits applause from [[Ismark Kolyanovich|Ismark]] who says that it's rare for there to be such joyful sound in this dreary place.
+
+- Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] he
