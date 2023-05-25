@@ -40,4 +40,4 @@ From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 
 [[Ismark Kolyanovich|Ismark]] offers the party 50gp to transport [[Ireena Kolyana|Ireena]], and they agree to do so. The party is ready to set out at once, but [[Ireena Kolyana|Ireena]] refuses to leave until she see's her father properly laid to rest in the village cemetery. [[Ismark Kolyanovich|Ismark]] recommends the party leave first thing in the morning to carry the body to [[Donavich]] at the church.
 
-Just to make sure things were in order, [[Bardolf]] and [[Pelanil]] head to the church that evening to inform [[Donavich]] that they'll be back first thing tomorrow for a funeral. They find 
+Just to make sure things were in order, [[Bardolf]] and [[Pelanil]] head to the church that evening to inform [[Donavich]] that they'll be back first thing tomorrow for a funeral. They find [[Donavich]] exhausted and hoarse from praying all day for his son [[Doru]] who was apparently turned by [[Strahd Von Zarovich|Strahd]] when he attempted to storm [[Ravenloft]].
