@@ -11,11 +11,9 @@
             "id": "6bb79cbfbafa67e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/dead-pc.jpg"
               }
             }
           }
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Assets/Images/dead-pc.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/Barovia.md",
+                "file": "Assets/Images/dead-pc.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/Barovia.md"
+                "file": "Assets/Images/dead-pc.jpg"
               }
             }
           },
@@ -203,8 +201,10 @@
   },
   "active": "6bb79cbfbafa67e0",
   "lastOpenFiles": [
-    "Characters/Ireena Kolyana.md",
+    "Assets/Images/strahd.jpeg",
+    "Assets/Images/strahd_icon.webp",
     "Handouts/Maps/Barovia.md",
+    "Characters/Ireena Kolyana.md",
     "Assets/Images/Maps",
     "Campaign Notes.md",
     "New Handouts.md",
@@ -219,7 +219,6 @@
     "Handouts/Maps/Wolfrun/Van Richten's Tower/05 - Van Richten's Tower (Roof).jpg",
     "Handouts/Maps/Wolfrun/Van Richten's Tower/04 - Van Richten's Tower (3rd Floor).jpg",
     "Handouts/Maps/Wolfrun/Van Richten's Tower/03 - Van Richten's Tower (2nd Floor).jpg",
-    "Handouts/Maps/Wolfrun/Van Richten's Tower/02 - Van Richten's Tower (1st Floor).jpg",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/03 - Gridless Layers (Transparent Backgrounds)",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/02 - Gridless",
     "Handouts/Maps/Wolfrun/Abbey of Saint Markovia/Night - Copy/01 - Grid",
