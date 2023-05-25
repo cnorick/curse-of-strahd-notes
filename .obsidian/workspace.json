@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Music Compiled.md",
-                "mode": "preview",
+                "file": "New Handouts.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Music Compiled.md",
+                "file": "New Handouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Music Compiled.md",
+                "file": "New Handouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Music Compiled.md"
+                "file": "New Handouts.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
+    "Misc/Music Compiled.md",
     "New Handouts.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Locations/Tser Pool Encampment (G).md",
@@ -221,7 +222,6 @@
     "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
     "Characters/Morgantha.md",
-    "Characters/Pelanil.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
