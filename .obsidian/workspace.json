@@ -216,7 +216,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "5dd923c79aeee55a",
+  "active": "537e2a47f3a68d0f",
   "lastOpenFiles": [
     "Characters/Ireena Kolyana.md",
     "Characters/Strahd Von Zarovich.md",
