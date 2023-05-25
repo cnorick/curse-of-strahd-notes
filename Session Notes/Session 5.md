@@ -13,4 +13,6 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
 - Wine is the only strong drink found in Barovia, and the grapes barely grow
 	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
-- 
+- [[Lancelot]] actually belongs
+
+[[Shalooti]] having been pe at the bar to a small
