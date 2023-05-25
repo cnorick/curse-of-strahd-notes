@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6264e9ccc1a876dc",
+            "id": "0698218146e852e7",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -202,9 +202,9 @@
   },
   "active": "bfa0c0c783ca58e1",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
-    "Session Notes/Session 5.md",
     "Misc/Vistani.md",
+    "Session Notes/Session 5.md",
+    "Characters/Strahd Von Zarovich.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Gertruda.md",
     "Misc/Barovian Lore.md",
