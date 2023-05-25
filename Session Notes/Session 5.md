@@ -7,4 +7,5 @@ We learn that the women actually own the tavern, and take offense to [[Pelanil]]
 
 [[Ismark Kolyanovich]] invites the party to join him at his table. He overheard them talking about their experience with [[Death House]] and is impressed. He really thinks that they may be able to help him and his sister with a problem their having. From [[Ismark Kolyanovich|Ismark]], we learn the following:
 - For some reason, [[Strahd Von Zarovich|Strahd]] is attracted to [[Ireena Kolyana|Ireena]] and desires her above all others
+- The women in the corner are [[Vistani]] spies for [[Strahd Von Zarovich|Strahd]]
 - 
