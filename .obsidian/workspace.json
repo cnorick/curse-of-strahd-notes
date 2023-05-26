@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Gustav Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Gustav Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Characters/Gustav Durst.md"
               }
             }
           },
@@ -234,7 +234,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Index.md",
+                    "file": "Characters/Gustav Durst.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -244,8 +244,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 830,
-        "y": 555,
+        "x": 941,
+        "y": 127,
         "width": 900,
         "height": 450,
         "maximize": false,
@@ -255,32 +255,35 @@
   },
   "active": "d7b66f8b8bdad355",
   "lastOpenFiles": [
-    "Locations/Death House.md",
-    "Locations/Castle Ravenloft (K).md",
-    "Locations/Krezk (S).md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Svalich Woods (C).md",
-    "Locations/Old Bonegrinder (O).md",
-    "Locations/Vallaki.md",
-    "Locations/Village of Barovia (E).md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 5.md",
-    "TODO.md",
-    "Misc/Card Reading.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Gertruda.md",
+    "Characters/King Barov.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
     "Characters/Madam Eva.md",
-    "Misc/Vistani.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Rina.md",
+    "Characters/Rictavio.md",
+    "Characters/Lancelot.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Rosevalda.md",
+    "Characters/The Abbott.md",
+    "Characters/Thornboldt.md",
+    "Characters/Tatyana.md",
+    "Characters/Shalooti.md",
+    "Characters/Walter.md",
     "Characters/Strahd Von Zarovich.md",
-    "New Handouts.md",
-    "Misc/Music Compiled.md",
-    "Handouts/Maps/Old Svalich Road Map.md",
+    "Assets/Templates/Character.md",
+    "Handouts/Items/Cloak of Protection.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/maps/barovia_tagged.jpg",
     "Website/site/assets/images/places/death-house-front.jpg",
     "Website/site/assets/images/people/rina.jpg",
@@ -298,9 +301,6 @@
     "Website/site/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/site/handouts/maps/barovia-map.html",
     "Website/site/assets/images/maps/revenloft-moors",
-    "Campaign/Session 0.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 1.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
