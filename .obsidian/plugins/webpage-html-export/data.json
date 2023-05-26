@@ -15,7 +15,7 @@
   "includeVaultOutline": true,
   "exportPreset": "website",
   "customLineWidth": "",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "keepNestedFolderStructure": false,
   "graphAttractionForce": 50,
   "graphLinkLength": 10,
@@ -24,6 +24,6 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 5,
   "graphMaxNodeSize": 10,
-  "lastExportPath": "C:\\Users\\Nathan\\Desktop\\Strahd\\obsidian\\Website\\site",
+  "lastExportPath": "C:\\Users\\Nathan\\Downloads",
   "exportInBackground": false
 }
