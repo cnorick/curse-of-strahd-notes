@@ -52,6 +52,7 @@ alias: Tser Pool
 >My cards grant me sight into the Threads of Fate that bind us all. They told me that champions were coming to the land and that I would guide them on their path.
 
 #### Card Reading
+>Madam Eva clears the table in the middle of the room. She takes out a roll of fabric from t
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
 - Practice some sleight of hand for picking the cards
