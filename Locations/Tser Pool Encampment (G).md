@@ -52,7 +52,7 @@ alias: Tser Pool
 >My cards grant me sight into the Threads of Fate that bind us all. They told me that champions were coming to the land and that I would guide them on their path.
 
 #### Card Reading
->Madam Eva clears the table in the middle of the room. She takes out a roll of black velvet from a chest nearby and carefully rolls it out on the table. From the chest she also 
+>Madam Eva clears the table in the middle of the room. She takes out a roll of black velvet from a chest nearby and carefully rolls it out on the table. From the chest she also pulls a crystal ball, and a deck of cards. You've all seen these cards before in your dream. She then cuts the cards into two separate decks
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
 - Practice some sleight of hand for picking the cards
