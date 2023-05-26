@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -205,8 +205,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "32be656fedfdc18d",
+  "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
     "Locations/Tser Pool Encampment (G).md",
     "Characters/Madam Eva.md",
     "Misc/Vistani.md",
@@ -252,7 +253,6 @@
     "Characters/Elora.md",
     "Characters/Gertruda.md",
     "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Ismark Kolyanovich.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
