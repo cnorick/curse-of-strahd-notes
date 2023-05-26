@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Misc/Card Reading.md"
               }
             }
           },
@@ -205,10 +205,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3e925c0c8630fe6d",
+  "active": "32be656fedfdc18d",
   "lastOpenFiles": [
-    "Misc/Card Reading.md",
     "Locations/Tser Pool Encampment (G).md",
+    "Misc/Card Reading.md",
     "Characters/Madam Eva.md",
     "Misc/Vistani.md",
     "Characters/Strahd Von Zarovich.md",
