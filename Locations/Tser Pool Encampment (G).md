@@ -45,7 +45,8 @@ alias: Tser Pool
 - She addresses them all by name without introduction
 >I've been awaiting your arrival. I see that fate has indeed led you to me. Are you ready to learn your fate?
 
-- If 
+- If pressed:
+>My cards grant me sight into the Threads of Fate that bind us all. They told me that champions were coming to the land and that I would guide them on their path.
 
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
