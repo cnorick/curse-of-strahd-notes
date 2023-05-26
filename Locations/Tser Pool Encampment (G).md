@@ -41,7 +41,8 @@ alias: Tser Pool
 		- If there's any chance of escape, she'd know it
 
 ### [[Madam Eva]]'s Tent
-- She calls out to them by name as they approach the tent, and before they announce themselves
+- She calls for them to enter as approach the tent, and before they announce themselves
+- She addresses them all by name without introduction
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
 - Practice some sleight of hand for picking the cards
