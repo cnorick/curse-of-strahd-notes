@@ -135,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gustav Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gustav Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,9 +172,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Gustav Durst.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,45 +212,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "floating": {
-    "id": "c37637c72cb17b7c",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7c8fdd51282297cc",
-        "type": "window",
-        "children": [
-          {
-            "id": "3b84bc5c99469fb0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d7b66f8b8bdad355",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Gustav Durst.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 941,
-        "y": 127,
-        "width": 900,
-        "height": 450,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d7b66f8b8bdad355",
+  "active": "0a76a395b98ccb8d",
   "lastOpenFiles": [
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Bardolf.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gustav Durst.md",
     "Characters/Gadof Blinsky.md",
     "Characters/Gertruda.md",
     "Characters/King Barov.md",
@@ -270,17 +240,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Rina.md",
     "Characters/Rictavio.md",
-    "Characters/Lancelot.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Rosevalda.md",
-    "Characters/The Abbott.md",
-    "Characters/Thornboldt.md",
-    "Characters/Tatyana.md",
-    "Characters/Shalooti.md",
-    "Characters/Walter.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Assets/Templates/Character.md",
-    "Handouts/Items/Cloak of Protection.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",
