@@ -43,6 +43,7 @@ alias: Tser Pool
 ### [[Madam Eva]]'s Tent
 - She calls for them to enter as approach the tent, and before they announce themselves
 - She addresses them all by name without introduction
+>I've been awaiting your arrival. I see that fate has indeed led you to me
 - When she does the [[Card Reading]], roll out the "black velvet" cloth that you packed
 	- Maybe write all the pre-picked cards on index cards, and completely move the DM screen
 - Practice some sleight of hand for picking the cards
