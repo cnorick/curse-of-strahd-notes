@@ -3,6 +3,8 @@ alias: Tser Pool
 ---
 ## Prep
 - [ ] Separate card decks
+- [ ] Take out the prepped cards
+- [ ] Before the session, once everyone is at the table, ask someone to shuffle each deck
 
 ## Locations
 ### Entering the Camp
