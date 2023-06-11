@@ -32,13 +32,6 @@ def removeLinksInFile(fname):
 
     overwriteFile(handle, soup)
 
-def updateSessionFiles(folder):
-  for root, dirnames, filenames in os.walk(folder):
-    for filename in filenames:
-      fname = os.path.join(root, filename)
-      if fname.endswith('.html'):
-        removeLinksInFile(fname)
-
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
@@ -76,8 +69,6 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
             os.makedirs(os.path.dirname(newPath), exist_ok=True)
             shutil.copyfile(origPath, newPath)
             removeLinksInFile(newPath)
-
-
 
 
 
