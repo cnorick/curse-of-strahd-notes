@@ -69,7 +69,9 @@ def importLinkedFiles(folder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Parsing for linked files: {}'.format(fname))
 
-          soup.find_all('a', class_='internal-link')
+          for a in soup.find_all('a', class_='internal-link'):
+            path = a['href']
+
 
 
 
