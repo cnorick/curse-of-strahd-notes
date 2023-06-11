@@ -31,14 +31,14 @@ def updateIndexFile(filename):
     #   if(not a['href'].startswith('http')):
     #     a['href'] = '../../' + a['href']
 
-    sessionAnchors = soup.find(id="Session_Notes").parent.find_next_sibling('div').find_all('a')
-    for a in sessionAnchors:
-      # Make all session note links relative
-      print('Fixing Link to: {}'.format(a.text))
-      a['href'] = a['href'][6:]
-      a['class'] = a.get('class', []) + [alreadyFixedLinkClass]
+    # sessionAnchors = soup.find(id="Session_Notes").parent.find_next_sibling('div').find_all('a')
+    # for a in sessionAnchors:
+    #   # Make all session note links relative
+    #   print('Fixing Link to: {}'.format(a.text))
+    #   a['href'] = a['href'][6:]
+    #   a['class'] = a.get('class', []) + [alreadyFixedLinkClass]
 
-    overwriteFile(indexFile, soup)
+    # overwriteFile(indexFile, soup)
 
 def updateSessionFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
