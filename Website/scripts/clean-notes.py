@@ -32,6 +32,15 @@ def removeLinksInFile(fname):
 
     overwriteFile(handle, soup)
 
+def fixAssetsInFile(fname):
+  with open(fname, 'r+') as handle:
+    soup = BeautifulSoup(handle.read(), 'html.parser')
+    print('Fixing URLs for: {}'.format(fname))
+    fixUrls(soup)
+
+    overwriteFile(handle, soup)
+
+
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
