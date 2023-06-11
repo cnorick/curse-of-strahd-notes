@@ -9,7 +9,9 @@ def overwriteFile(file, soup):
   file.truncate()
 
 def fixUrls(soup):
-  pass
+  for a in soup.find_all('a', class_='internal-link'):
+    a.wrap(soup.new_tag('b'))
+    a.unwrap()
 
 def removeSidebar(soup):
   soup.findAll('tree-container')
@@ -42,10 +44,7 @@ def updateSessionFiles(folder):
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Fixing URLs for: {}'.format(fname))
-
-          for a in soup.find_all('a', class_='internal-link'):
-            a.wrap(soup.new_tag('b'))
-            a.unwrap()
+          fixUrls(soup)
           overwriteFile(handle, soup)
 
 
