@@ -60,6 +60,9 @@ def updateAllFiles(folder):
 
           overwriteFile(handle, soup)
 
-updateIndexFile(sys.argv[1])
-updateSessionFiles(sys.argv[2])
+indexFilename = sys.argv[1]
+sessionFilesFolder = sys.argv[2]
+updateIndexFile(indexFilename)
+updateSessionFiles(sessionFilesFolder)
+importLinkedFiles(sys.argv[3])
 updateAllFiles(sys.argv[3])
