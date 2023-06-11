@@ -14,7 +14,7 @@ def fixUrls(soup):
     a.unwrap()
 
 def removeSidebar(soup):
-  treeContainer = soup.find_all(class_='tree-container')
+  treeContainer = soup.find(class_='tree-container')
   treeContainer.decompose()
 
 def updateIndexFile(filename):
