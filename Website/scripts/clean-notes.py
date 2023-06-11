@@ -24,6 +24,11 @@ def updateRootPath(soup, rootPath):
   meta = soup.find(id='root-path')
   meta['root-path'] = '/' + rootPath
 
+def fixImages(soup):
+  images = soup.find_all('img')
+  for image in images:
+    image['src'] = './' + image['src']
+
 def removeLinksInFile(fname):
   with open(fname, 'r+') as handle:
     soup = BeautifulSoup(handle.read(), 'html.parser')
@@ -35,8 +40,8 @@ def removeLinksInFile(fname):
 def fixAssetsInFile(fname):
   with open(fname, 'r+') as handle:
     soup = BeautifulSoup(handle.read(), 'html.parser')
-    print('Fixing URLs for: {}'.format(fname))
-    fixUrls(soup)
+    print('Fixing Assets for: {}'.format(fname))
+    fixImages(soup)
 
     overwriteFile(handle, soup)
 
