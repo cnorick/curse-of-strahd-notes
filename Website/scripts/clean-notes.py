@@ -79,7 +79,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
 
             relativePath = os.path.join(*a['href'].split('/'))
             newPath = os.path.join(spoilersFolder, relativePath)
-            if os.path.isFile(newPath):
+            if os.path.isfile(newPath):
               break
             
             origPath = os.path.join(rootSiteFolder, relativePath)
