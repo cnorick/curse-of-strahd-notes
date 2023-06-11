@@ -56,8 +56,8 @@ def updateSessionFiles(folder):
         removeLinksInFile(fname)
 
 def updateRootPath(soup, rootPath):
-  rootPath = soup.find(id='root-path')
-  rootPath['root-path'] = rootPath
+  meta = soup.find(id='root-path')
+  meta['root-path'] = rootPath
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
