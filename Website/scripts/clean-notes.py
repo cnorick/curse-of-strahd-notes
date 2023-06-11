@@ -2,6 +2,8 @@ import os
 import sys
 from bs4 import BeautifulSoup
 
+alreadyFixedLinkClass = 'skip-fix'
+
 def overwriteFile(file, soup):
   content = str(soup)
   file.seek(0)
@@ -33,7 +35,7 @@ def updateIndexFile(filename):
       # Make all session note links relative
       print('Fixing Link to: {}'.format(a.text))
       a['href'] = a['href'][6:]
-      a['class'] = a.get('class', []) + ['skip-fix']
+      a['class'] = a.get('class', []) + [alreadyFixedLinkClass]
 
     overwriteFile(indexFile, soup)
 
@@ -71,6 +73,8 @@ def importLinkedFiles(folder):
           print('Parsing for linked files: {}'.format(fname))
 
           for a in soup.find_all('a', class_='internal-link'):
+            if alreadyFixedLinkClass in a.get('class', []):
+              break
             path = '../..' + a['href']
 
 
