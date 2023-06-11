@@ -78,7 +78,7 @@ def importLinkedFilesForFolder(folder):
               break
             path = os.path.join(folder, '..', '..', a['href'])
             print('copying file: {}'.format(path))
-            shutil.copyfile(path, )
+            shutil.copyfile(path, folder)
 
 
 
