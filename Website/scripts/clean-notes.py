@@ -32,9 +32,9 @@ def updateSessionFiles(folder):
     for filename in filenames:
       if filename.endswith('.html'):
         fname = os.path.join(root, filename)
-        print('Fixing URLs for: {}'.format(fname))
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
+          print('Fixing URLs for: {}'.format(fname))
           for a in soup.find_all('a', class_='internal-link'):
             a.wrap(soup.new_tag('b'))
             a.unwrap()
