@@ -4,7 +4,7 @@
 
 ## Session Notes
 ```dataviewjs
-dv.list(dv.pages('"Session Notes"').file.link)
+dv.list(dv.pages('"Session Notes"').sort().file.link)
 ```
 ## Locations
 ```dataviewjs
