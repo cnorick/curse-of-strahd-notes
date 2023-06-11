@@ -64,8 +64,8 @@ def updateAllFiles(folder):
 
           overwriteFile(handle, soup)
 
-def importLinkedFilesForFolder(folder, rootSiteFolder):
-  for root, dirnames, filenames in os.walk(folder):
+def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
+  for root, dirnames, filenames in os.walk(spoilersFolder):
     for filename in filenames:
       if filename.endswith('.html'):
         fname = os.path.join(root, filename)
@@ -76,10 +76,12 @@ def importLinkedFilesForFolder(folder, rootSiteFolder):
           for a in soup.find_all('a', class_='internal-link'):
             if alreadyFixedLinkClass in a.get('class', []):
               break
-            if os.path.isFile
-            path = os.path.join(folder, '..', '..', a['href'])
-            print('copying file: {}'.format(path))
-            shutil.copyfile(path, folder)
+            if os.path.isFile():
+              break
+            newPath = os.path.join()
+            origPath = os.path.join(rootSiteFolder, '..', '..', a['href'])
+            print('copying file: {}'.format(origPath))
+            shutil.copyfile(origPath, spoilersFolder)
 
 
 
