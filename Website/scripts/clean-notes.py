@@ -76,14 +76,15 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
           for a in soup.find_all('a', class_='internal-link'):
             if alreadyFixedLinkClass in a.get('class', []):
               break
-            if os.path.isFile():
+
+            relativePath = os.path.join(*a['href'].split('/'))
+            newPath = os.path.join(spoilersFolder, relativePath)
+            if os.path.isFile(newPath):
               break
             
-            relativePath = os.path.join(*a['href'].split('/'))
-            newPath = os.path.join()
-            origPath = os.path.join(rootSiteFolder, )
+            origPath = os.path.join(rootSiteFolder, relativePath)
             print('copying file: {}'.format(origPath))
-            shutil.copyfile(origPath, spoilersFolder)
+            shutil.copyfile(origPath, newPath)
 
 
 
