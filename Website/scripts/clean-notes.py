@@ -83,7 +83,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
               break
             
             origPath = os.path.join(rootSiteFolder, relativePath)
-            print('copying file: {}'.format(origPath))
+            print('copying {} -> {}'.format(origPath, newPath))
             shutil.copyfile(origPath, newPath)
 
 
