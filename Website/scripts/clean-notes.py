@@ -22,7 +22,7 @@ def removeSidebar(soup):
 
 def updateRootPath(soup, rootPath):
   meta = soup.find(id='root-path')
-  meta['root-path'] = rootPath
+  meta['root-path'] = '/' + rootPath
 
 def updateIndexFile(filename):
   with open(filename, 'r+') as indexFile:
