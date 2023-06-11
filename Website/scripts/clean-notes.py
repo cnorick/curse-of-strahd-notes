@@ -2,7 +2,7 @@ import os
 import sys
 from bs4 import BeautifulSoup
 
-alreadyFixedLinkClass = 'skip-fix'
+alreadyFixedLinkClass = 'link-fixed'
 
 def overwriteFile(file, soup):
   content = str(soup)
