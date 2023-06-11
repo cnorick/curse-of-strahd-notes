@@ -87,7 +87,8 @@ def importLinkedFilesForFolder(folder):
 indexFilename = sys.argv[1]
 sessionFilesFolder = sys.argv[2]
 rootSpoilersFolder = sys.argv[3]
+rootMainSiteFolder = sys.argv[4]
 updateIndexFile(indexFilename)
 updateSessionFiles(sessionFilesFolder)
-importLinkedFilesForFolder(rootSpoilersFolder)
+importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
 updateAllFiles(rootSpoilersFolder)
