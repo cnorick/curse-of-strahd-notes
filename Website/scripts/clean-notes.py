@@ -107,6 +107,6 @@ sessionFilesFolder = sys.argv[2]
 rootSpoilersFolder = sys.argv[3]
 rootMainSiteFolder = sys.argv[4]
 updateIndexFile(indexFilename)
-updateSessionFiles(sessionFilesFolder)
+# updateSessionFiles(sessionFilesFolder)
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
 updateAllFiles(rootSpoilersFolder)
