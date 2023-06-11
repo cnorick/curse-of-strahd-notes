@@ -40,20 +40,20 @@ def updateIndexFile(filename):
 
     # overwriteFile(indexFile, soup)
 
-def removeLinksInFile(filename):
-  if filename.endswith('.html'):
-    fname = os.path.join(root, filename)
-    with open(fname, 'r+') as handle:
-      soup = BeautifulSoup(handle.read(), 'html.parser')
-      print('Fixing URLs for: {}'.format(fname))
-      fixUrls(soup)
+def removeLinksInFile(fname):
+  with open(fname, 'r+') as handle:
+    soup = BeautifulSoup(handle.read(), 'html.parser')
+    print('Fixing URLs for: {}'.format(fname))
+    fixUrls(soup)
 
-      overwriteFile(handle, soup)
+    overwriteFile(handle, soup)
 
 def updateSessionFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
-      removeLinksInFile(filename)
+      fname = os.path.join(root, filename)
+      if fname.endswith('.html'):
+        removeLinksInFile(fname)
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
@@ -89,6 +89,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
             print('copying {} -> {}'.format(origPath, newPath))
             os.makedirs(os.path.dirname(newPath), exist_ok=True)
             shutil.copyfile(origPath, newPath)
+            removeLinksInFile(newPath)
 
 
 
