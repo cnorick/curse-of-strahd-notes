@@ -75,7 +75,7 @@ def importLinkedFiles(folder):
           for a in soup.find_all('a', class_='internal-link'):
             if alreadyFixedLinkClass in a.get('class', []):
               break
-            path = '../..' + folder + a['href']
+            path = folder + '/../../' + a['href']
             print('copying file: {}'.format(path))
 
 
