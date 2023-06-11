@@ -68,7 +68,8 @@ def importLinkedFiles(folder):
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Parsing for linked files: {}'.format(fname))
-          removeSidebar(soup)
+
+          soup.find_all('a', class_='internal-link')
 
 
 
