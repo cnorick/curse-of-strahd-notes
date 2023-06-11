@@ -20,6 +20,10 @@ def removeSidebar(soup):
   treeContainer = soup.find(class_='tree-container')
   treeContainer.decompose()
 
+def updateRootPath(soup, rootPath):
+  meta = soup.find(id='root-path')
+  meta['root-path'] = rootPath
+
 def updateIndexFile(filename):
   with open(filename, 'r+') as indexFile:
     text = indexFile.read()
@@ -54,10 +58,6 @@ def updateSessionFiles(folder):
       fname = os.path.join(root, filename)
       if fname.endswith('.html'):
         removeLinksInFile(fname)
-
-def updateRootPath(soup, rootPath):
-  meta = soup.find(id='root-path')
-  meta['root-path'] = rootPath
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
