@@ -69,6 +69,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
             os.makedirs(os.path.dirname(newPath), exist_ok=True)
             shutil.copyfile(origPath, newPath)
             removeLinksInFile(newPath)
+            fixAssetsInFile(newPath)
 
 
 
