@@ -1,5 +1,6 @@
 import os
 import sys
+import shutil
 from bs4 import BeautifulSoup
 
 alreadyFixedLinkClass = 'link-fixed'
@@ -77,6 +78,7 @@ def importLinkedFiles(folder):
               break
             path = os.path.join(root, '..', '..', a['href'])
             print('copying file: {}'.format(path))
+            os.
 
 
 
