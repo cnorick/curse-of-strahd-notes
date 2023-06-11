@@ -55,6 +55,10 @@ def updateSessionFiles(folder):
       if fname.endswith('.html'):
         removeLinksInFile(fname)
 
+def updateRootPath(soup, rootPath):
+  rootPath = soup.find(id='root-path')
+  rootPath['root-path'] = rootPath
+
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
@@ -64,6 +68,7 @@ def updateAllFiles(folder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Removing Sidebar for: {}'.format(fname))
           removeSidebar(soup)
+          updateRootPath(soup, folder)
 
           overwriteFile(handle, soup)
 
