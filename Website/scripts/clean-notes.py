@@ -14,7 +14,8 @@ def fixUrls(soup):
     a.unwrap()
 
 def removeSidebar(soup):
-  soup.findAll('tree-container')
+  treeContainer = soup.find_all(class_='tree-container')
+
  
 
 def updateIndexFile(filename):
@@ -43,8 +44,12 @@ def updateSessionFiles(folder):
         fname = os.path.join(root, filename)
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
-          print('Fixing URLs for: {}'.format(fname))
+          print('Fixing URLs for: {}'.format(fname))=
           fixUrls(soup)
+
+          print('Removing Sidebar for: {}'.format(fname))=
+          removeSidebar(soup)
+
           overwriteFile(handle, soup)
 
 
