@@ -24,26 +24,6 @@ def updateRootPath(soup, rootPath):
   meta = soup.find(id='root-path')
   meta['root-path'] = '/' + rootPath
 
-def updateIndexFile(filename):
-  with open(filename, 'r+') as indexFile:
-    text = indexFile.read()
-    soup = BeautifulSoup(text, 'html.parser')
-
-    # Make all non-absolute links relative to the root
-    # print('Fixing no-spoilers index file')
-    # for a in soup.find_all('a'):
-    #   if(not a['href'].startswith('http')):
-    #     a['href'] = '../../' + a['href']
-
-    # sessionAnchors = soup.find(id="Session_Notes").parent.find_next_sibling('div').find_all('a')
-    # for a in sessionAnchors:
-    #   # Make all session note links relative
-    #   print('Fixing Link to: {}'.format(a.text))
-    #   a['href'] = a['href'][6:]
-    #   a['class'] = a.get('class', []) + [alreadyFixedLinkClass]
-
-    # overwriteFile(indexFile, soup)
-
 def removeLinksInFile(fname):
   with open(fname, 'r+') as handle:
     soup = BeautifulSoup(handle.read(), 'html.parser')
@@ -102,11 +82,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
 
 
 
-indexFilename = sys.argv[1]
-sessionFilesFolder = sys.argv[2]
-rootSpoilersFolder = sys.argv[3]
-rootMainSiteFolder = sys.argv[4]
-updateIndexFile(indexFilename)
-# updateSessionFiles(sessionFilesFolder)
+rootSpoilersFolder = sys.argv[1]
+rootMainSiteFolder = sys.argv[2]
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
 updateAllFiles(rootSpoilersFolder)
