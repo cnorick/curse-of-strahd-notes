@@ -25,7 +25,7 @@ def updateRootPath(soup, rootPath):
   meta['root-path'] = '/' + rootPath
 
 def fixImages(soup):
-  images = soup.find_all('img')
+  images = soup.select('.image-embed>img')
   for image in images:
     image['src'] = '/' + image['src']
 
