@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Ravenloft.md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -186,71 +186,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "7059c856279911de",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a9b7aa20d06b43b3",
-        "type": "window",
-        "children": [
-          {
-            "id": "8cc8727ccd94589c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd5c63812208f85a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Handouts/Images/Ravenloft.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "fd5c63812208f85a",
+  "active": "f47084342563bada",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Portraits/Portrait of Arik.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
-    "Handouts/Images/Portraits/Portrait of Rina.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
-    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
-    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
-    "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
-    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Letters/Tome of Strahd.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
-    "Handouts/Letters/Strahd's Invitation.md",
-    "Handouts/Maps/Old Svalich Road Map.md",
-    "Handouts/Maps/Barovia Map.md",
-    "Handouts/Maps/Tser Pool Map.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 4.md",
+    "Assets/Templates/Character.md",
+    "Campaign Notes.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Anakir.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Gertruda.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Gustav Durst.md",
+    "Characters/King Barov.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Madam Eva.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",
