@@ -84,6 +84,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
             
             origPath = os.path.join(rootSiteFolder, relativePath)
             print('copying {} -> {}'.format(origPath, newPath))
+            os.makedirs(os.path.dirname(newPath), exist_ok=True)
             shutil.copyfile(origPath, newPath)
 
 
