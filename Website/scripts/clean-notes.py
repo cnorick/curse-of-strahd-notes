@@ -70,7 +70,7 @@ def importLinkedFiles(folder):
           print('Parsing for linked files: {}'.format(fname))
 
           for a in soup.find_all('a', class_='internal-link'):
-            path = a['href']
+            path = '../..' + a['href']
 
 
 
