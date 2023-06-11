@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "obsidian-5e-statblocks\nfantasy-calendar\nmedia-extended",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
@@ -16,7 +16,7 @@
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": true,
+  "includeGraphView": false,
   "includeFileTree": true,
   "exportPreset": "website",
   "openAfterExport": true,
@@ -27,5 +27,5 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "lastExportPath": ""
+  "lastExportPath": "C:\\Users\\Nathan\\Downloads\\foo"
 }
