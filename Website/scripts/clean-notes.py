@@ -60,6 +60,16 @@ def updateAllFiles(folder):
 
           overwriteFile(handle, soup)
 
+def importLinkedFiles(folder):
+  for root, dirnames, filenames in os.walk(folder):
+    for filename in filenames:
+      if filename.endswith('.html'):
+        fname = os.path.join(root, filename)
+        with open(fname, 'r+') as handle:
+          soup = BeautifulSoup(handle.read(), 'html.parser')
+          print('Parsing for linked files: {}'.format(fname))
+          removeSidebar(soup)
+
 
 
 indexFilename = sys.argv[1]
