@@ -27,7 +27,7 @@ def updateRootPath(soup, rootPath):
 def fixImages(soup):
   images = soup.find_all('img')
   for image in images:
-    image['src'] = './' + image['src']
+    image['src'] = '/' + image['src']
 
 def removeLinksInFile(fname):
   with open(fname, 'r+') as handle:
