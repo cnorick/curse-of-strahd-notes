@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 5.md"
+                "file": "Campaign Notes.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
+    "Session Notes/Session 5.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 3.md",
@@ -213,7 +214,6 @@
     "Characters/Jeny Greenteeth.md",
     "Characters/Mad Mage of Mount Baratok.md",
     "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
     "Website/no-spoilers/campaign-notes/scripts/webpage.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",
