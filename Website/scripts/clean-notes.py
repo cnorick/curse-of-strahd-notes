@@ -51,6 +51,19 @@ def updateSessionFiles(folder):
 
           overwriteFile(handle, soup)
 
+def updateAllFiles(folder):
+  for root, dirnames, filenames in os.walk(folder):
+    for filename in filenames:
+      if filename.endswith('.html'):
+        fname = os.path.join(root, filename)
+        with open(fname, 'r+') as handle:
+          soup = BeautifulSoup(handle.read(), 'html.parser')
+          print('Removing Sidebar for: {}'.format(fname))
+          removeSidebar(soup)
+
+          overwriteFile(handle, soup)
+
 
 updateIndexFile(sys.argv[1])
 updateSessionFiles(sys.argv[2])
+updateAllFiles(sys.argv[3])
