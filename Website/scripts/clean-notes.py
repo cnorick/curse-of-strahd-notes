@@ -64,7 +64,7 @@ def updateAllFiles(folder):
 
           overwriteFile(handle, soup)
 
-def importLinkedFiles(folder):
+def importLinkedFilesForFolder(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
       if filename.endswith('.html'):
@@ -78,7 +78,8 @@ def importLinkedFiles(folder):
               break
             path = os.path.join(root, '..', '..', a['href'])
             print('copying file: {}'.format(path))
-            os.
+            shutil.copyfile(path, )
+
 
 
 
@@ -88,5 +89,5 @@ sessionFilesFolder = sys.argv[2]
 rootSpoilersFolder = sys.argv[3]
 updateIndexFile(indexFilename)
 updateSessionFiles(sessionFilesFolder)
-importLinkedFiles(rootSpoilersFolder)
+importLinkedFilesForFolder(rootSpoilersFolder)
 updateAllFiles(rootSpoilersFolder)
