@@ -79,7 +79,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
             if os.path.isFile():
               break
             newPath = os.path.join()
-            origPath = os.path.join(rootSiteFolder, '..', '..', a['href'])
+            origPath = os.path.join(rootSiteFolder, a['href'])
             print('copying file: {}'.format(origPath))
             shutil.copyfile(origPath, spoilersFolder)
 
