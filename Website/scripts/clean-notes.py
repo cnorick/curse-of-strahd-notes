@@ -46,9 +46,6 @@ def updateSessionFiles(folder):
           print('Fixing URLs for: {}'.format(fname))
           fixUrls(soup)
 
-          print('Removing Sidebar for: {}'.format(fname))
-          removeSidebar(soup)
-
           overwriteFile(handle, soup)
 
 def updateAllFiles(folder):
@@ -62,7 +59,6 @@ def updateAllFiles(folder):
           removeSidebar(soup)
 
           overwriteFile(handle, soup)
-
 
 updateIndexFile(sys.argv[1])
 updateSessionFiles(sys.argv[2])
