@@ -11,6 +11,11 @@ def overwriteFile(file, soup):
   file.write(content)
   file.truncate()
 
+def removeUrls(soup):
+  for a in soup.find_all('a', class_='internal-link'):
+    a.wrap(soup.new_tag('b'))
+    a.unwrap()
+
 def fixUrls(soup):
   for a in soup.find_all('a', class_='internal-link'):
     a.wrap(soup.new_tag('b'))
@@ -31,6 +36,14 @@ def fixImages(soup):
     image['src'] = '/' + image['src']
 
 def removeLinksInFile(fname):
+  with open(fname, 'r+') as handle:
+    soup = BeautifulSoup(handle.read(), 'html.parser')
+    print('Removing URLs for: {}'.format(fname))
+    removeUrls(soup)
+
+    overwriteFile(handle, soup)
+
+def fixUrlsInFile(fname):
   with open(fname, 'r+') as handle:
     soup = BeautifulSoup(handle.read(), 'html.parser')
     print('Fixing URLs for: {}'.format(fname))
