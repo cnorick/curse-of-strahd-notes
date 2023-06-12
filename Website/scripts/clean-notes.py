@@ -78,13 +78,13 @@ def importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder):
   for a in soup.find_all('a', class_='internal-link'):
     if alreadyFixedLinkClass in a.get('class', []):
       print('link already fixed: {}'.format(newPath))
-      break
+      continue
 
     relativePath = os.path.join(*a['href'].split('/'))
     newPath = os.path.join(spoilersFolder, relativePath)
     if os.path.isfile(newPath):
       print('file already exists: {}'.format(newPath))
-      break
+      continue
     
     origPath = os.path.join(rootSiteFolder, relativePath)
     print('copying {} -> {}'.format(origPath, newPath))
