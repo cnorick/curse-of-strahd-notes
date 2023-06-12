@@ -107,7 +107,6 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
 
 
 
-
 rootSpoilersFolder = sys.argv[1]
 rootMainSiteFolder = sys.argv[2]
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
