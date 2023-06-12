@@ -16,7 +16,7 @@
   "showWarningsInExportLog": true,
   "addDarkModeToggle": true,
   "includeOutline": true,
-  "includeGraphView": true,
+  "includeGraphView": false,
   "includeFileTree": true,
   "exportPreset": "website",
   "openAfterExport": true,
