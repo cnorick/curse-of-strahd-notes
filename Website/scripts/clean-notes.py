@@ -18,8 +18,8 @@ def removeUrls(soup):
 
 def fixUrls(soup):
   for a in soup.find_all('a', class_='internal-link'):
-    a.wrap(soup.new_tag('b'))
-    a.unwrap()
+    a['rel'] = ''
+    a['data-href'] = ''
 
 def removeSidebar(soup):
   treeContainer = soup.find(class_='tree-container')
