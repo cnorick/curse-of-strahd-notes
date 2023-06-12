@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "New Handouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "New Handouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "New Handouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "New Handouts.md"
               }
             }
           },
@@ -188,6 +188,7 @@
   },
   "active": "f47084342563bada",
   "lastOpenFiles": [
+    "Index.md",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
@@ -198,7 +199,6 @@
     "Website/no-spoilers/campaign-notes/handouts/stat-blocks/lancelot-stat-block.html",
     "Website/no-spoilers/campaign-notes/handouts/stat-blocks",
     "Website/no-spoilers/campaign-notes/handouts/maps/village-of-barovia-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/old-svalich-road-map.html",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 3.md",
