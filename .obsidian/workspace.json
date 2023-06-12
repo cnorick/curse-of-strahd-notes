@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -186,44 +186,81 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f47084342563bada",
+  "floating": {
+    "id": "7059c856279911de",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c66c3f34b78ffe80",
+        "type": "window",
+        "children": [
+          {
+            "id": "2c6eeffc2d5e3fa3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "559cfaa8056a3db2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Strahd Von Zarovich.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "559cfaa8056a3db2",
   "lastOpenFiles": [
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 4.md",
-    "Assets/Templates/Character.md",
-    "Campaign Notes.md",
-    "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Anakir.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
-    "Characters/Elora.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Gertruda.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Gustav Durst.md",
-    "Characters/King Barov.md",
-    "Characters/Jeny Greenteeth.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Mad Mary.md",
-    "Characters/Madam Eva.md",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/graph_wasm.js",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/graph_view.js",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/tinycolor.js",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/graph_wasm.wasm",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/graph-render-worker.js",
+    "Characters/Tatyana.md",
+    "Characters/Thornboldt.md",
+    "Characters/Walter.md",
+    "Custom Monsters/Dog.md",
+    "Handouts/Items/Cultist Logbook.md",
+    "Handouts/Items/Orb of the Warmage.md",
+    "Handouts/Items/Potion of Healing.md",
+    "Handouts/Items/Cloak of Protection.md",
+    "Handouts/Items/Sunsword.md",
+    "Handouts/Items/The Tome of Strahd.md",
+    "Handouts/Images/Death House Front.md",
+    "Handouts/Images/Ravenloft.md",
+    "Handouts/Images/Portraits/Portrait of Arahja.md",
+    "Handouts/Images/Portraits/Portrait of Arik.md",
+    "Handouts/Images/Portraits/Portrait of Bildrath.md",
+    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
+    "Handouts/Images/Portraits/Portrait of Donavich.md",
+    "Handouts/Images/Portraits/Portrait of Gertruda.md",
+    "Handouts/Images/Portraits/Portrait of Granny.md",
+    "Handouts/Images/Portraits/Portrait of Ismark.md",
+    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
+    "Handouts/Images/Portraits/Portrait of Doru.md",
+    "Handouts/Images/Portraits/Portrait of Rina.md",
+    "Handouts/Images/Portraits/Portrait of Ireena.md",
+    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-1.html",
+    "Website/no-spoilers/campaign-notes/session-notes",
+    "Website/no-spoilers/campaign-notes/handouts/stat-blocks/lancelot-stat-block.html",
+    "Website/no-spoilers/campaign-notes/handouts/stat-blocks",
+    "Website/no-spoilers/campaign-notes/handouts/maps/village-of-barovia-map.html",
     "Website/site/assets/images/maps/01-old-svalich-road-encounter-day.webp",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/maps/barovia_village_tagged.jpg",

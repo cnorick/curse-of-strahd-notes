@@ -103,6 +103,7 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
           importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder)
           print('Fixing Urls: {}'.format(fname))
           fixUrls(soup)
+          overwriteFile(handle, soup)
 
 
 
