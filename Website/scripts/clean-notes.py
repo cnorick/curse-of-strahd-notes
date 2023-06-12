@@ -3,7 +3,7 @@ import sys
 import shutil
 from bs4 import BeautifulSoup
 
-alreadyFixedLinkClass = 'link-fixed'
+alreadyFixedLinkClass = 'keep-link'
 
 def overwriteFile(file, soup):
   content = str(soup)
