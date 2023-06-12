@@ -74,6 +74,24 @@ def updateAllFiles(folder):
 
           overwriteFile(handle, soup)
 
+def importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder):
+  for a in soup.find_all('a', class_='internal-link'):
+    if alreadyFixedLinkClass in a.get('class', []):
+      break
+
+    relativePath = os.path.join(*a['href'].split('/'))
+    newPath = os.path.join(spoilersFolder, relativePath)
+    if os.path.isfile(newPath):
+      break
+    
+    origPath = os.path.join(rootSiteFolder, relativePath)
+    print('copying {} -> {}'.format(origPath, newPath))
+    os.makedirs(os.path.dirname(newPath), exist_ok=True)
+    shutil.copyfile(origPath, newPath)
+    removeLinksInFile(newPath)
+    fixAssetsInFile(newPath)
+
+
 def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
   for root, dirnames, filenames in os.walk(spoilersFolder):
     for filename in filenames:
@@ -82,22 +100,8 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Parsing for linked files: {}'.format(fname))
+          importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder)
 
-          for a in soup.find_all('a', class_='internal-link'):
-            if alreadyFixedLinkClass in a.get('class', []):
-              break
-
-            relativePath = os.path.join(*a['href'].split('/'))
-            newPath = os.path.join(spoilersFolder, relativePath)
-            if os.path.isfile(newPath):
-              break
-            
-            origPath = os.path.join(rootSiteFolder, relativePath)
-            print('copying {} -> {}'.format(origPath, newPath))
-            os.makedirs(os.path.dirname(newPath), exist_ok=True)
-            shutil.copyfile(origPath, newPath)
-            removeLinksInFile(newPath)
-            fixAssetsInFile(newPath)
 
 
 
