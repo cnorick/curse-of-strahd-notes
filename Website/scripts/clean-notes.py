@@ -58,6 +58,9 @@ def fixAssetsInFile(fname):
 
     overwriteFile(handle, soup)
 
+def removeDynamicLinks(soup):
+  classes = ['internal-link', 'footnote-link', 'tree-item-link']
+  internalLinks = soup.find_all('a', class_= lambda c: c in classes)
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
@@ -70,6 +73,8 @@ def updateAllFiles(folder):
           removeSidebar(soup)
           print('Updating Root Path for: {}'.format(fname))
           updateRootPath(soup, folder)
+          print('Removing dynamic links for: {}'.format(fname))
+          removeDynamicLinks(soup)
 
           overwriteFile(handle, soup)
 
