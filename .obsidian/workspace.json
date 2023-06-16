@@ -11,11 +11,9 @@
             "id": "3e925c0c8630fe6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/favicon.webp"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Assets/favicon.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Assets/favicon.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Assets/favicon.webp"
               }
             }
           },
@@ -176,6 +174,9 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Index.md",
+    "Assets/favicon (2) 1.ico",
+    "Assets/favicon (2).ico",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
@@ -184,9 +185,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/old-svalich-road-map.html",
     "Assets/Templates/Character.md",
     "Website/site/assets/favicon.webp",
     "Campaign/Session 0.md",
