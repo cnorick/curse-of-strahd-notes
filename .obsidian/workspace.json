@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Characters/Elizabeth Durst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Characters/Elizabeth Durst.md"
               }
             }
           },
@@ -174,11 +174,72 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e925c0c8630fe6d",
+  "floating": {
+    "id": "a5b750387129dd0d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "713a38ae86a48b71",
+        "type": "window",
+        "children": [
+          {
+            "id": "0951f64eee991773",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d6faa3fea94a171",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Elizabeth Durst.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "2d6faa3fea94a171",
   "lastOpenFiles": [
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/King Barov.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Madam Eva.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rictavio.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/The Abbott.md",
+    "Characters/Tatyana.md",
+    "Characters/Walter.md",
+    "Characters/Thornboldt.md",
     "Assets/favicon.webp",
-    "Locations/Tser Pool Encampment (G).md",
-    "Index.md",
     "Website/site/no-spoilers/campaign-notes/index.html",
     "Website/site/no-spoilers/campaign-notes/lib/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/lib/styles/snippets.css",
@@ -193,35 +254,11 @@
     "Website/site/assets/images/places/death-house-front.jpg",
     "Website/site/assets/images/people/arahja.jpg",
     "Website/site/assets/images/people/arik-the-barkeep-v2.webp",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/people/bildrath.jpg",
     "Website/site/assets/images/people/donavich.jpeg",
     "Website/site/assets/images/people/cypress_belview.jpeg",
     "Website/site/assets/images/people/gertruda.jpeg",
     "Website/site/assets/images/people/ireena-kolyanna.jpg",
-    "Website/site/assets/images/people/ismark.jpg",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 4.md",
-    "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bardolf.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Doru.md",
-    "Characters/Elora.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gertruda.md",
-    "Characters/Gustav Durst.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
-    "Characters/Jeny Greenteeth.md",
-    "Characters/King Barov.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

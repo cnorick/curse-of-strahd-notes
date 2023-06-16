@@ -27,3 +27,4 @@ dv.list(dv.pages('"Handouts"').sort(k => k.file.name).file.link)
 ```dataviewjs
 	dv.list(dv.pages('"Misc"').filter(k => k.file.include_in_index != false).sort(k => k.file.name).file.link)
 ```
+[[favicon.webp]]
