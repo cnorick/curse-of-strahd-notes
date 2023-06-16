@@ -63,8 +63,8 @@ def removeDynamicLinks(soup):
   internalLinks = soup.find_all('a', class_= lambda c: c in classes)
   for link in internalLinks:
     for c in classes:
-      if (c in link['class'])
-      link['class'].remove(c)
+      if (c in link['class']):
+        link['class'].remove(c)
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
