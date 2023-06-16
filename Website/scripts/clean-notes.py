@@ -26,8 +26,8 @@ def removeSidebar(soup):
   treeContainer.decompose()
 
 def updateRootPath(soup, rootPath):
-  meta = soup.find(id='root-path')
-  meta['root-path'] = '/' + rootPath
+  # meta = soup.find(id='root-path')
+  # meta['root-path'] = '/' + rootPath
 
 def fixImages(soup):
   images = soup.select('.image-embed>img')
