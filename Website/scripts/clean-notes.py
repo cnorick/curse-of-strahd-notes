@@ -112,8 +112,8 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Parsing for linked files: {}'.format(fname))
           importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder)
-          print('Fixing Urls: {}'.format(fname))
-          fixUrls(soup)
+          # print('Fixing Urls: {}'.format(fname))
+          # fixUrls(soup)
           overwriteFile(handle, soup)
 
 
