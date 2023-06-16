@@ -12,6 +12,6 @@ cloudFrontId="EO6PCDBX74WRI"
 
 cp -r no-spoilers site/
 
-aws s3 sync site $s3Path $flags
+# aws s3 sync site $s3Path $flags
 
-aws cloudfront create-invalidation --distribution-id $cloudFrontId --paths '/*'
+# aws cloudfront create-invalidation --distribution-id $cloudFrontId --paths '/*'
