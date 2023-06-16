@@ -76,8 +76,8 @@ def updateAllFiles(folder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Removing Sidebar for: {}'.format(fname))
           removeSidebar(soup)
-          print('Updating Root Path for: {}'.format(fname))
-          updateRootPath(soup, folder)
+          # print('Updating Root Path for: {}'.format(fname))
+          # updateRootPath(soup, folder)
           print('Removing dynamic links for: {}'.format(fname))
           removeDynamicLinks(soup)
 
