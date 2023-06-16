@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Misc/Music Compiled (Web).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Misc/Music Compiled (Web).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Misc/Music Compiled (Web).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Misc/Music Compiled (Web).md"
               }
             }
           },
@@ -174,13 +174,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e925c0c8630fe6d",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Misc/Music Compiled.md",
+    "Misc/Music Compiled (Web).md",
+    "Index.md",
     "Assets/favicon.ico",
     "Assets/favicon.webp",
     "favicon (2).ico",
     "Website/site/favicon (2).ico",
-    "Index.md",
     "Assets/favicon (2) 1.ico",
     "Assets/favicon (2).ico",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -188,7 +190,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
     "Assets/Templates/Character.md",
     "Website/site/assets/favicon.webp",
     "Campaign/Session 0.md",
@@ -213,7 +214,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/places/death-house-front.jpg",
     "Website/site/assets/images/people/arahja.jpg",
