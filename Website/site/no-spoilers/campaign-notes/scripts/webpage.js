@@ -433,7 +433,7 @@ function initializePage()
 	setupCheckboxes();
 	setupCanvas();
 	setupCodeblocks();
-	setupLinks();
+	// setupLinks();
 }
 
 function deinitializePage()
