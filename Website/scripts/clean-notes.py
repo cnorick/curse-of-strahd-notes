@@ -130,6 +130,7 @@ def updateAllFiles(rootSiteFolder):
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Updating favicon for: {}'.format(fname))
           updateFavicon(soup)
+          overwriteFile(handle, soup)
 
 
 
