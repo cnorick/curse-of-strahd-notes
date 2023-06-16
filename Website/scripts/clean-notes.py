@@ -26,6 +26,7 @@ def removeSidebar(soup):
   treeContainer.decompose()
 
 def updateRootPath(soup, rootPath):
+  pass
   # meta = soup.find(id='root-path')
   # meta['root-path'] = '/' + rootPath
 
