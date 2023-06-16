@@ -2,7 +2,7 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "includePluginCSS": "obsidian-5e-statblocks\nfantasy-calendar\nmedia-extended",
+  "includePluginCSS": "fantasy-calendar\nobsidian-5e-statblocks",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
   "allowFoldingHeadings": true,
