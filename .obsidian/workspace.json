@@ -176,6 +176,8 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Index.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Website/site/no-spoilers/campaign-notes/index.html",
     "Website/site/no-spoilers/campaign-notes/lib/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/lib/styles/snippets.css",
@@ -186,7 +188,6 @@
     "Website/site/no-spoilers/campaign-notes/lib/scripts/tinycolor.js",
     "Website/site/no-spoilers/campaign-notes/lib/scripts/webpage.js",
     "Website/site/no-spoilers/campaign-notes/lib/scripts/graph_view.js",
-    "Website/site/no-spoilers/campaign-notes/lib/scripts/graph-render-worker.js",
     "Website/site/assets/images/people/strahd.jpeg",
     "Website/site/assets/images/places/death-house-front.jpg",
     "Website/site/assets/images/people/arahja.jpg",
@@ -221,7 +222,6 @@
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
