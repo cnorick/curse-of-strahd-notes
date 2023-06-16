@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f47084342563bada",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New Handouts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3e925c0c8630fe6d",
             "type": "leaf",
             "state": {
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -186,8 +174,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f47084342563bada",
+  "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "New Handouts.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
@@ -198,7 +187,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 3.md",
