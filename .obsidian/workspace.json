@@ -11,9 +11,11 @@
             "id": "3e925c0c8630fe6d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/favicon.webp"
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/favicon.webp",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/favicon.webp",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/favicon.webp"
+                "file": "Index.md"
               }
             }
           },
@@ -173,8 +174,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "101a8d198059b361",
+  "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Assets/favicon.webp",
     "Locations/Tser Pool Encampment (G).md",
     "Index.md",
     "Website/site/no-spoilers/campaign-notes/index.html",
@@ -220,7 +222,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
