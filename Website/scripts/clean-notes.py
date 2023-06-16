@@ -123,3 +123,4 @@ rootSpoilersFolder = sys.argv[1]
 rootMainSiteFolder = sys.argv[2]
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
 updateAllSpoilerFiles(rootSpoilersFolder)
+updateAllFiles(rootMainSiteFolder)
