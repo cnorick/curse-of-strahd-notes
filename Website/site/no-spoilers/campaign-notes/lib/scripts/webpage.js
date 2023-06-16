@@ -885,7 +885,7 @@ function initializePage(setupOnNode)
 	setupCheckboxes(setupOnNode);
 	setupCanvas(setupOnNode);
 	setupCodeblocks(setupOnNode);
-	setupLinks(setupOnNode);
+	// setupLinks(setupOnNode);
 	setupResize(setupOnNode);
 
 	setupOnNode.querySelectorAll("*").forEach(function(element)
