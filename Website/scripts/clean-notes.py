@@ -61,6 +61,8 @@ def fixAssetsInFile(fname):
 def removeDynamicLinks(soup):
   classes = ['internal-link', 'footnote-link', 'tree-item-link']
   internalLinks = soup.find_all('a', class_= lambda c: c in classes)
+  for link in internalLinks:
+    link['class'] = ''
 
 def updateAllFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
