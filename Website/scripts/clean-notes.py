@@ -67,7 +67,7 @@ def removeDynamicLinks(soup):
       if (c in link['class']):
         link['class'].remove(c)
 
-def updateAllFiles(folder):
+def updateAllSpoilerFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
       if filename.endswith('.html'):
@@ -122,4 +122,4 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
 rootSpoilersFolder = sys.argv[1]
 rootMainSiteFolder = sys.argv[2]
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
-updateAllFiles(rootSpoilersFolder)
+updateAllSpoilerFiles(rootSpoilersFolder)
