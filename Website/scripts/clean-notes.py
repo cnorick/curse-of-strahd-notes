@@ -35,6 +35,10 @@ def fixImages(soup):
   for image in images:
     image['src'] = '/' + image['src']
 
+def updateFavicon(soup):
+  icon = soup.find("link", rel="icon")
+  icon['href'] = '/assets/favicon.webp'
+
 def removeLinksInFile(fname):
   with open(fname, 'r+') as handle:
     soup = BeautifulSoup(handle.read(), 'html.parser')
@@ -124,6 +128,7 @@ def updateAllFiles(rootSiteFolder):
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Updating favicon for: {}'.format(fname))
+          updateFavicon(soup)
 
 
 
