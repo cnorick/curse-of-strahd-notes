@@ -37,6 +37,7 @@ def fixImages(soup):
 
 def updateFavicon(soup):
   icon = soup.find("link", rel="icon")
+  print(icon.href)
   icon['href'] = '/assets/favicon.webp'
 
 def removeLinksInFile(fname):
