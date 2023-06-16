@@ -65,7 +65,7 @@ def fixAssetsInFile(fname):
     overwriteFile(handle, soup)
 
 def removeDynamicLinks(soup):
-  classes = ['internal-link', 'footnote-link', 'tree-item-link']
+  classes = ['internal-link', 'footnote-link']
   internalLinks = soup.find_all('a', class_= lambda c: c in classes)
   for link in internalLinks:
     for c in classes:
