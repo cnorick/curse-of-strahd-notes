@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/strahd_icon.webp"
+                "file": "Assets/favicon.webp"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/strahd_icon.webp",
+                "file": "Assets/favicon.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/strahd_icon.webp",
+                "file": "Assets/favicon.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/strahd_icon.webp"
+                "file": "Assets/favicon.webp"
               }
             }
           },
@@ -172,7 +172,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e925c0c8630fe6d",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
     "Locations/Tser Pool Encampment (G).md",
     "Index.md",
