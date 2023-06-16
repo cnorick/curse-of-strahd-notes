@@ -11,11 +11,9 @@
             "id": "3e925c0c8630fe6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/strahd_icon.webp"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Assets/Images/strahd_icon.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Assets/Images/strahd_icon.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Assets/Images/strahd_icon.webp"
               }
             }
           },
@@ -176,8 +174,8 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
-    "Index.md",
     "Locations/Tser Pool Encampment (G).md",
+    "Index.md",
     "Website/site/no-spoilers/campaign-notes/index.html",
     "Website/site/no-spoilers/campaign-notes/lib/styles/obsidian-styles.css",
     "Website/site/no-spoilers/campaign-notes/lib/styles/snippets.css",
