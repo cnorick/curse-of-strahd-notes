@@ -116,6 +116,14 @@ def importLinkedFilesForFolder(spoilersFolder, rootSiteFolder):
           # fixUrls(soup)
           overwriteFile(handle, soup)
 
+def updateAllFiles(rootSiteFolder):
+  for root, dirnames, filenames in os.walk(rootSiteFolder):
+    for filename in filenames:
+      if filename.endswith('.html'):
+        fname = os.path.join(root, filename)
+        with open(fname, 'r+') as handle:
+          soup = BeautifulSoup(handle.read(), 'html.parser')
+          print('Updating favicon for: {}'.format(fname))
 
 
 
