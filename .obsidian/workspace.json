@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Locations/Krezk (S).md",
+    "Locations/Village of Barovia (E).md",
     "Index.md",
     "Misc/Music Compiled (Web).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -210,8 +212,6 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
-    "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
     "Website/favicon.jpg",
     "Assets/favicon.webp",
     "Website/site/assets/favicon.webp",
