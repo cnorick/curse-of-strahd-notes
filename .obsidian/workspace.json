@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "101a8d198059b361",
   "lastOpenFiles": [
     "Locations/Tser Pool Encampment (G).md",
     "Index.md",
