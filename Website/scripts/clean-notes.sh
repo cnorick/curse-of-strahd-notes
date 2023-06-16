@@ -1,6 +1,7 @@
 #!/bin/bash
 # Cleans links from the session notes
 
+cp favicon.ico site
 rm -r no-spoilers/*
 mkdir no-spoilers/campaign-notes
 cp site/campaign-notes.html no-spoilers/campaign-notes/index.html
