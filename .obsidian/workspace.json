@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Music Compiled (Web).md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Music Compiled (Web).md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Music Compiled (Web).md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Music Compiled (Web).md"
+                "file": "Index.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Misc/Music Compiled (Web).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
@@ -186,7 +187,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/old-svalich-road-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
     "Website/no-spoilers/campaign-notes/handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v2-letter.html",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
