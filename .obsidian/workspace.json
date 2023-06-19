@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Madam Eva's Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Madam Eva's Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Madam Eva's Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Madam Eva.md"
+                "file": "Custom Monsters/Madam Eva's Stats.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "6c2b0bdf2eda1537",
   "lastOpenFiles": [
+    "Characters/Madam Eva.md",
+    "Custom Monsters/Madam Eva's Stats.md",
     "Locations/Tser Pool Encampment (G).md",
     "Misc/Barovian Lore.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
@@ -269,8 +271,6 @@
     "Website/site/assets/images/places/old-bonegrinder.webp",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
