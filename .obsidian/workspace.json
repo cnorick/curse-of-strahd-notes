@@ -13,7 +13,17 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp"
+                "file": "Assets/Images/Places/DM Map - Old Bonegrinder.jpg"
+              }
+            }
+          },
+          {
+            "id": "04ac0fb861681af1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg"
               }
             }
           },
@@ -55,7 +65,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg"
               }
             }
           },
@@ -210,18 +220,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf34efc46a8f8118",
+  "active": "04ac0fb861681af1",
   "lastOpenFiles": [
     "Assets/Images/Places/DM Map - Old Bonegrinder.jpg",
+    "Assets/Images/Places/Map - Old Bonegrinder.jpg",
+    "Assets/Images/Places/Old Bonegrinder.webp",
+    "Assets/Images/Places/ravenloft_castle.jpeg",
+    "Assets/Images/Places/St Andral's Church.webp",
+    "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
+    "Locations/Old Bonegrinder (O).md",
+    "Assets/Images/Places/Map - Old Bonegrinder.jpg.crdownload",
     "Assets/Images/Places/DM Map - Old Bonegrinder.jpg.crdownload",
     "Session Notes/Session 5.md",
     "Locations/The Town of Vallaki (N).md",
     "Campaign/Session 4.md",
-    "Locations/Old Bonegrinder (O).md",
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
     "Campaign Notes.md",
-    "Assets/Images/Places/Old Bonegrinder.webp",
     "Assets/Images/Places/Old Bonegrinder.webp.crdownload",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/barovia-church-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/barovia-church.html",
@@ -230,7 +245,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arik.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/site/assets/images/places/barvia-church.jpg",
     "Website/site/assets/images/maps/village-of-barovia/01-church-of-the-morning-lord-(ground).webp",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
@@ -251,13 +265,9 @@
     "Locations/Village of Barovia (E).md",
     "Misc/Adventuring Gear.md",
     "Misc/Card Reading.md",
-    "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Assets/Images/Maps/01 - Old Svalich Road Encounter Day.webp",
-    "Assets/Images/Places/Barvia Church.jpg",
-    "Assets/Images/Places/St Andral's Church.webp",
-    "Website/favicon.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -1,4 +1,4 @@
-	---
+---
 aliases: [Old Bonegrinder, The Windmill]
 ---
 ![[Old Bonegrinder.webp|300x300]]
@@ -24,4 +24,4 @@ Ground Floor
 ### The Megaliths
 
 ### Maps
-![[old bonegrinder]]
+![[DM Map - Old Bonegrinder.jpg]]
