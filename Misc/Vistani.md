@@ -36,10 +36,10 @@ alias: Vistana
  - The [[Old Svalich Road]] passes through Strahd's domain
 	 - Three settlements lie on the road like beads on a string
 		 - [[Krezk (S)|Krezk]] to the west
-		 - [[Vallaki (N)]] in the heart of the valley
+		 - [[The Town of Vallaki (N)]] in the heart of the valley
 		 - [[Village of Barovia (E)|Barovia]] to the east
 		 - Strahd has spies in each settlement
-- There's an old windmill on the road between the [[Village of Barovia (E)]] and the town of [[Vallaki (N)]]
+- There's an old windmill on the road between the [[Village of Barovia (E)]] and the town of [[The Town of Vallaki (N)]]
 	- {Don't tell them them the name, [[Old Bonegrinder (O)]]}
 - It is wise to stick to the road
 	- Wild druids, wayward ghosts, and packs of wolves and werewolves haunt the [[Svalich Woods (C)]]

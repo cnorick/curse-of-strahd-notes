@@ -47,8 +47,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Vallaki (N).md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Vallaki (N).md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Vallaki (N).md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Vallaki (N).md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -211,6 +212,8 @@
   },
   "active": "c6dc2b836db2d56f",
   "lastOpenFiles": [
+    "Campaign/Session 4.md",
+    "Locations/The Town of Vallaki (N).md",
     "Locations/Old Bonegrinder (O).md",
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
@@ -243,13 +246,11 @@
     "Locations/Old Svalich Road.md",
     "Locations/Svalich Woods (C).md",
     "Locations/Tser Pool Encampment (G).md",
-    "Locations/Vallaki (N).md",
     "Locations/Village of Barovia (E).md",
     "Misc/Adventuring Gear.md",
     "Misc/Card Reading.md",
     "Misc/Barovian Lore.md",
     "Misc/Congratulations, You're Dead.md",
-    "Misc/Guest as Granny.md",
     "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",

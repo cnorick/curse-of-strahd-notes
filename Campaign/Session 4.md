@@ -4,4 +4,4 @@
 - Meet [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]]
 - Bury [[Ismark Kolyanovich]]
 	- Go the the [[Village of Barovia (E)#Church (E5)|Church]] then the [[Village of Barovia (E)#Cemetery (E6)|Cemetery]]
-- Set out for [[Tser Pool]] and [[Vallaki (N)]]
+- Set out for [[Tser Pool]] and [[The Town of Vallaki (N)]]

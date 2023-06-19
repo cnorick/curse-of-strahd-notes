@@ -12,4 +12,4 @@ Closer investigation:
 >The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 
 - DC 12 Insight -> senses the raven is trying to warn the party
-	- After delivering the message, the raven flies off toward the valley below ([[Vallaki (N)]]
+	- After delivering the message, the raven flies off toward the valley below ([[The Town of Vallaki (N)]]
