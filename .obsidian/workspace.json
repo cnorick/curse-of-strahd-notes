@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Images/Places/The Windmill.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Images/Places/The Windmill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Images/Places/The Windmill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Handouts/Images/Places/The Windmill.md"
               }
             }
           },
@@ -199,6 +199,9 @@
   },
   "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
+    "Handouts/Images/Places/Barovia Church.md",
+    "Handouts/Images/Places/The Windmill.md",
+    "Locations/Old Bonegrinder (O).md",
     "Assets/Images/Places/Old Bonegrinder.webp",
     "Assets/Images/Places/Old Bonegrinder.webp.crdownload",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/barovia-church-map.html",
@@ -224,7 +227,6 @@
     "Index.md",
     "Locations/Death House.md",
     "Locations/Castle Ravenloft (K).md",
-    "Locations/Old Bonegrinder (O).md",
     "Locations/Krezk (S).md",
     "Locations/Old Svalich Road.md",
     "Locations/Svalich Woods (C).md",
@@ -236,7 +238,6 @@
     "Misc/Barovian Lore.md",
     "Misc/Congratulations, You're Dead.md",
     "Misc/Guest as Granny.md",
-    "Misc/If Players Die.md",
     "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
@@ -244,7 +245,6 @@
     "Assets/Images/Places/Barvia Church.jpg",
     "Assets/Images/Places/St Andral's Church.webp",
     "Website/favicon.jpg",
-    "Assets/favicon.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
