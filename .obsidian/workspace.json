@@ -28,9 +28,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf34efc46a8f8118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Old Bonegrinder (O).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -185,54 +197,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d6d855ba5d472d",
+  "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
+    "Website/site/no-spoilers/campaign-notes/handouts/maps/barovia-church-map.html",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/places/barovia-church.html",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/places/death-house-front.html",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/places",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arik.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/old-svalich-road-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/letter-from-strahd-von-zarovich-to-gustav-durst.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v2-letter.html",
-    "Handouts/Images/Places/Barovia Church.md",
+    "Website/site/assets/images/places/barvia-church.jpg",
+    "Website/site/assets/images/maps/village-of-barovia/01-church-of-the-morning-lord-(ground).webp",
     "Campaign Notes.md",
-    "New Handouts.md",
-    "Handouts/Maps/Barovia Church Map.md",
+    "Handouts/Stat Blocks/Lancelot Stat Block.md",
+    "Handouts/Maps/Old Svalich Road Map.md",
+    "Handouts/Maps/Barovia Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/River Ivlis Crossroads Map.md",
+    "Handouts/Maps/Tser Pool Map.md",
     "Handouts/Maps/Village of Barovia Map.md",
+    "Handouts/Maps/Barovia Church Map.md",
+    "Index.md",
+    "Locations/Death House.md",
+    "Locations/Castle Ravenloft (K).md",
+    "Locations/Old Bonegrinder (O).md",
+    "Locations/Krezk (S).md",
+    "Locations/Old Svalich Road.md",
+    "Locations/Svalich Woods (C).md",
+    "Locations/Tser Pool Encampment (G).md",
+    "Locations/Vallaki.md",
+    "Locations/Village of Barovia (E).md",
+    "Misc/Adventuring Gear.md",
+    "Misc/Card Reading.md",
+    "Misc/Barovian Lore.md",
+    "Misc/Congratulations, You're Dead.md",
+    "Misc/Guest as Granny.md",
+    "Misc/If Players Die.md",
     "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Assets/Images/Maps/01 - Old Svalich Road Encounter Day.webp",
-    "Index.md",
-    "Handouts/Images/Places/Ravenloft.md",
-    "Handouts/Images/Places/Death House Front.md",
-    "Locations/Village of Barovia (E).md",
     "Assets/Images/Places/Barvia Church.jpg",
     "Assets/Images/Places/St Andral's Church.webp",
-    "Handouts/Maps/Barovia Map.md",
-    "Locations/Vallaki.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Locations/Krezk (S).md",
-    "Misc/Music Compiled (Web).md",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
-    "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bardolf.md",
     "Website/favicon.jpg",
     "Assets/favicon.webp",
-    "Website/site/assets/favicon.webp",
-    "Website/site/assets/images/people/strahd.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
