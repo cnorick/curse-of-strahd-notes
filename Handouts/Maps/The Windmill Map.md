@@ -1,6 +1,6 @@
 ---
 public: false
-new_n
+new_handout: true
 ---
 
-![[Assets/Images/Maps/barovia_village_untagged.jpg]]
+![[Map - Old Bonegrinder.jpg]]

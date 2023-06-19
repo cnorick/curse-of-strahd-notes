@@ -18,9 +18,8 @@ Closer investigation:
 	- Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
-Ground Floor
-
 ## Areas
+### 
 ### The Megaliths
 
 ### Maps

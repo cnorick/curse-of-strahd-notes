@@ -44,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/The Windmill Map.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/The Windmill Map.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/The Windmill Map.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -199,10 +200,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "24d6d855ba5d472d",
+  "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
-    "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/The Windmill Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/Village of Barovia Map.md",
     "Campaign Notes.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
@@ -233,7 +235,6 @@
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Map.md",
-    "Handouts/Maps/Tser Falls Map.md",
     "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Tser Pool Map.md",
     "Handouts/Maps/Barovia Church Map.md",
