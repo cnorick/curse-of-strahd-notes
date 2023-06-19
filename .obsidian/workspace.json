@@ -47,15 +47,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Session Notes/Session 5.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "441296b6fe7340f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,10 +222,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c6dc2b836db2d56f",
+  "active": "441296b6fe7340f7",
   "lastOpenFiles": [
-    "Campaign/Session 4.md",
+    "Session Notes/Session 5.md",
     "Locations/The Town of Vallaki (N).md",
+    "Campaign/Session 4.md",
     "Locations/Old Bonegrinder (O).md",
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
@@ -250,7 +263,6 @@
     "Misc/Adventuring Gear.md",
     "Misc/Card Reading.md",
     "Misc/Barovian Lore.md",
-    "Misc/Congratulations, You're Dead.md",
     "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
