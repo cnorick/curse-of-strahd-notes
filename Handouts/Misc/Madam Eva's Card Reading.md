@@ -7,27 +7,18 @@ public: false
 
 >A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
-## 2. [[The Holy Symbol of Ravenkind]]
+## 1 of Swords -- Avenger
 >This card tells of a powerful force for good and protection, a holy symbol of great hope.
-
-**Card**: 1 of Swords -- Avenger
-**Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt]] (Q36)
 
 >The treasure lies in a dragon's house, in hands once clean and now corrupted.
 
-## 3. [[Sunsword]]
+## 8 of Glyphs -- Bishop
 >This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
-
-**Card**: 8 of Glyphs -- Bishop
-**Location**: Sealed Treasury of the Amber Temple (X40)
 
 >What you seek lies in a pile of treasure, beyond a set of amber doors
 
-## 4. Strahd's Enemy
+## Broken One 
 >This card sheds light on one who will help you greatly in the battle against darkness.
-
-**Card**: Broken One (B)
-**Person**: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
 
 >Your greatest ally will be a wizard. His mind is broken, but his spells are strong
 
