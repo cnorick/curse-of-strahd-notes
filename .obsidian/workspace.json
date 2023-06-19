@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Locations/Vallaki.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Locations/Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Locations/Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Locations/Vallaki.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
     "Locations/Krezk (S).md",
     "Locations/Village of Barovia (E).md",
     "Index.md",
@@ -211,7 +212,6 @@
     "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Jeny Greenteeth.md",
     "Website/favicon.jpg",
     "Assets/favicon.webp",
     "Website/site/assets/favicon.webp",
