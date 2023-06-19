@@ -76,7 +76,7 @@ def wrapImagesInLink(soup):
   images = soup.find_all('img')
   for image in images:
     anchor = soup.new_tag('a')
-    anchor.href = image.src
+    anchor['href'] = image['src']
     image.wrap(anchor)
 
     
