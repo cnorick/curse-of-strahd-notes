@@ -75,8 +75,7 @@ def removeDynamicLinks(soup):
 def wrapImagesInLink(soup):
   images = soup.find_all('img')
   for image in images:
-    anchor = soup.new_tag('a')
-    anchor['href'] = image['src']
+    anchor = soup.new_tag('a', href=image.src)
     image.wrap(anchor)
     
 
