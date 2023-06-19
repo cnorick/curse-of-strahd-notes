@@ -24,4 +24,4 @@ Ground Floor
 ### The Megaliths
 
 ### Maps
-![[02 - Old Bonegrinder Day Alt (Ground Floor - Clean).webp]]
+![[old bonegrinder]]
