@@ -20,4 +20,8 @@ Closer investigation:
 
 Ground Floor
 
-## The Megaliths
+## Areas
+### The Megaliths
+
+### Maps
+![[02 - Old Bonegrinder Day Alt (Ground Floor - Clean).webp]]
