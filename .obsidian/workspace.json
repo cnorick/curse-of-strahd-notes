@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6dc2b836db2d56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Vallaki (N).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Locations/Vallaki (N).md"
               }
             }
           },
@@ -197,12 +209,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf34efc46a8f8118",
+  "active": "c6dc2b836db2d56f",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
     "Campaign Notes.md",
-    "Locations/Old Bonegrinder (O).md",
     "Assets/Images/Places/Old Bonegrinder.webp",
     "Assets/Images/Places/Old Bonegrinder.webp.crdownload",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/barovia-church-map.html",
@@ -231,7 +243,7 @@
     "Locations/Old Svalich Road.md",
     "Locations/Svalich Woods (C).md",
     "Locations/Tser Pool Encampment (G).md",
-    "Locations/Vallaki.md",
+    "Locations/Vallaki (N).md",
     "Locations/Village of Barovia (E).md",
     "Misc/Adventuring Gear.md",
     "Misc/Card Reading.md",

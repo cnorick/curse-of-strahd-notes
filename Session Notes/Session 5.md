@@ -40,7 +40,7 @@ From [[Ireena Kolyana|Ireena]] and [[Ismark Kolyanovich|Ismark]] we learn:
 - [[Strahd Von Zarovich|Strahd]] has taken multiple consorts, but ultimately turned them into vampire spawn
 - Others have stormed [[Castle Ravenloft (K)|Castle Ravenloft]], only to have been killed or turned by [[Strahd Von Zarovich|Strahd]]
 	- Notably, [[Donavich]]'s son [[Doru]]
-- Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki]] is well guarded and ultimately worth the risk
+- Moving [[Ireena Kolyana|Ireena]] is a gamble, but [[Ismark Kolyanovich|Ismark]] hears that [[Vallaki (N)]] is well guarded and ultimately worth the risk
 - Anyone who attempts to leave the land of Barovia begins to choke on the fog
 	- Those who don't turn back perish
 

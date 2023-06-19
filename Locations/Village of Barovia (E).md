@@ -38,11 +38,11 @@ alias: Barovia Village
 - [[Strahd Von Zarovich|Strahd]] has been coming for [[Ireena Kolyana|Ireena]] (see [[Strahd Von Zarovich#Turn Ireena Kolyana|Turn Ireena Kolyana]])
 - He asks for aid in protecting his adopted sister [[Ireena Kolyana]]
 	- If they agree, he takes them to the [[#Burgomaster's Mansion (E4)|burgomaster's residence]]
-	- He wants the characters to escort her to [[Vallaki]]
+	- He wants the characters to escort her to [[Vallaki (N)]]
 		- Beyond [[Castle Ravenloft (K)]] and he hopes beyond the reach of [[Strahd Von Zarovich|Strahd]]
 - He knows moving [[Ireena Kolyana|Ireena]] is a gamble
 	- She's vulnerable to [[Strahd Von Zarovich|Strahd]] outside her house
- - He's heard that [[Vallaki]] is well defended
+ - He's heard that [[Vallaki (N)]] is well defended
 
 ### Mad Mary's Townhouse (E3)
 > A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse
@@ -67,8 +67,8 @@ alias: Barovia Village
 
 - [[Ismark Kolyanovich]] and [[Ireena Kolyana|Ireena]] made the coffin themselves
 - [[Ismark Kolyanovich|Ismark]] will offer 50gp to the PCs if they escort Ireena to safety
-	- {Not necessarily [[Vallaki]], but wherever she's safe}
-	- He will suggest [[Vallaki]] though
+	- {Not necessarily [[Vallaki (N)]], but wherever she's safe}
+	- He will suggest [[Vallaki (N)]] though
 
 - [[Ireena Kolyana|Ireena]] refuses to go until her father is buried
 	- She asks the PCs to help [[Ismark Kolyanovich|Ismark]] deliver the body to [[Donavich]]
@@ -193,12 +193,12 @@ Contents:
 
 - After the funeral, the man is gone; You don't know where he went
 - Once buried, [[Donavich]] suggests the [[Ireena Kolyana|Ireena]] be taken as far from [[Castle Ravenloft (K)]] as possible
-	- He proposes the PCs take her to the [[Krezk (S)#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki]]
+	- He proposes the PCs take her to the [[Krezk (S)#Abbey of Saint Markovia|Abbey of Saint Markovia in Krezk]], or failing that, the fortified town of [[Vallaki (N)]]
 		- {He doesn't know that the Abbey is evil now}
-		- ([[Vallaki]] is on the way to [[Krezk (S)]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
+		- ([[Vallaki (N)]] is on the way to [[Krezk (S)]] and [[Ireena Kolyana|Ireena]] or [[Ismark Kolyanovich|Ismark]] may convince them to go there anyway)
 
 ## After the Funeral
-- With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki]]
+- With the Burgomaster buried, [[Ireena Kolyana|Ireena]] is ready to head to [[Vallaki (N)]]
 - The players may want to rest another night (esp if they fought [[Doru]])
 	- But [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] {rightly} are pretty heavily against this
 	- [[Strahd Von Zarovich|Strahd]] no longer has a reason to let up his pursuit of [[Ireena Kolyana|Ireena]] since [[Kolyan Indirovich]] is buried
