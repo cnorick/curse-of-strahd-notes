@@ -134,3 +134,7 @@ damageTags:
 miscTags:
 - MW
 ---
+
+```statblock
+monster: Madam Eva
+```
