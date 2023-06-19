@@ -1,4 +1,4 @@
----
+	---
 aliases: [Old Bonegrinder, The Windmill]
 ---
 ![[Old Bonegrinder.webp|300x300]]
@@ -14,4 +14,10 @@ Closer investigation:
 - DC 12 Insight -> senses the raven is trying to warn the party
 	- After delivering the message, the raven flies off toward the valley below ([[The Town of Vallaki (N)]])
 
-- Beyond the windmill is the forest. Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge. Ravens can be seen circling in the air above the stones, which are described at the end of the chapter.
+- Beyond the windmill is the forest
+	- Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge
+	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
+
+Ground Floor
+
+## The Megaliths
