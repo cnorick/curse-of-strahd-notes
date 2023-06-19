@@ -54,22 +54,28 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d6390385da51c55d",
+        "type": "tabs",
+        "children": [
           {
             "id": "c6dc2b836db2d56f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 5.md",
+                "file": "Misc/Card Reading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,8 +232,10 @@
   },
   "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
-    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Misc/Card Reading.md",
+    "Session Notes/Session 5.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Handouts/Letters/Strahd's Invitation.md",
     "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
@@ -263,8 +271,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
     "Campaign/Session 3.md",
-    "Campaign/Session 4.md",
-    "Characters/Anakir.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",

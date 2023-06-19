@@ -1,9 +1,40 @@
 ---
-public: true
+public: false
 ---
 
-Hail to thee of might and valor,
+## 7 of Stars -- Illusionist
+>This card tells of history. Knowledge of the ancient will help you better understand your enemy.
 
-I, the Burgomaster of Barovia, send you honor - with despair. My adopted daughter, the fair Ireena Kolyana, has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now my dear Ireena languishes and dies from an unholy wound caused by this vile beast. He has become too powerful to conquer. So I say to you, give us up for dead and encircle this land with the symbols of good. Let holy men call upon their power that the devil may be contained within the walls of weeping Barovia. Leave our sorrows to our graves, and save the world from this evil fate of ours. There is much wealth entrapped in this community. Return for your reward after we are all departed for a better life.
+>A man is not what he seems. He comes here in a carnival wagon. Therein lies what you seek.
 
-Kolyan Indirovich
+## 2. [[The Holy Symbol of Ravenkind]]
+>This card tells of a powerful force for good and protection, a holy symbol of great hope.
+
+**Card**: 1 of Swords -- Avenger
+**Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt]] (Q36)
+
+>The treasure lies in a dragon's house, in hands once clean and now corrupted.
+
+## 3. [[Sunsword]]
+>This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
+
+**Card**: 8 of Glyphs -- Bishop
+**Location**: Sealed Treasury of the Amber Temple (X40)
+
+>What you seek lies in a pile of treasure, beyond a set of amber doors
+
+## 4. Strahd's Enemy
+>This card sheds light on one who will help you greatly in the battle against darkness.
+
+**Card**: Broken One (B)
+**Person**: [[Mad Mage of Mount Baratok|Mad Mage]] (Area M)
+
+>Your greatest ally will be a wizard. His mind is broken, but his spells are strong
+
+## 5. Strahd's Location
+>Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
+
+**Card**: Innocent
+**Location**: [[Sergei]]'s Tomb (K85)
+
+>He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
