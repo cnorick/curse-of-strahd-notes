@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Handouts/Images/Places/Ravenloft 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Handouts/Images/Places/Ravenloft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Handouts/Images/Places/Ravenloft 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Handouts/Images/Places/Ravenloft 1.md"
               }
             }
           },
@@ -189,6 +189,13 @@
   },
   "active": "bf50d972a4726e10",
   "lastOpenFiles": [
+    "Handouts/Images/Places/Ravenloft.md",
+    "Handouts/Images/Places/Ravenloft 1.md",
+    "Handouts/Images/Places/Death House Front.md",
+    "Locations/Village of Barovia (E).md",
+    "Handouts/Images/Places",
+    "Assets/Images/Places/Barvia Church.jpg",
+    "Assets/Images/Places/Barvia Church.jpg.crdownload",
     "Assets/Images/Places/St Andral's Church.webp",
     "Assets/Images/Places/St Andral's Church.webp.crdownload",
     "Index.md",
@@ -197,7 +204,6 @@
     "Locations/Vallaki.md",
     "Locations/Tser Pool Encampment (G).md",
     "Locations/Krezk (S).md",
-    "Locations/Village of Barovia (E).md",
     "Misc/Music Compiled (Web).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
@@ -206,8 +212,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/old-svalich-road-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
@@ -224,8 +228,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
     "Characters/Elora.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gertruda.md",
     "Website/favicon.jpg",
     "Assets/favicon.webp",
     "Website/site/assets/favicon.webp",
@@ -233,8 +235,6 @@
     "Website/site/assets/images/places/death-house-front.jpg",
     "Website/site/assets/images/people/arahja.jpg",
     "Website/site/assets/images/people/arik-the-barkeep-v2.webp",
-    "Website/site/assets/images/people/bildrath.jpg",
-    "Website/site/assets/images/people/donavich.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
