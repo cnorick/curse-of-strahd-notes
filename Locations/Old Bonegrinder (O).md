@@ -24,7 +24,7 @@ Closer investigation:
 >
 >The sweet smell of pastries blends horridly with a stench that burns your nostrils. The awful odor comes out of an open, upright barrel in the center of the room.
 >
->Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
+>  Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
 ### The Megaliths
 
 ### Maps
