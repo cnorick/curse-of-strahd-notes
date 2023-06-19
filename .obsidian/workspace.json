@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "58425cc7ac53a51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Arahja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf22cdccaa40f2b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Barovian Lore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c6dc2b836db2d56f",
             "type": "leaf",
             "state": {
@@ -45,7 +69,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Arahja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Arahja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Characters/Arahja.md"
               }
             }
           },
@@ -200,8 +224,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf34efc46a8f8118",
+  "active": "58425cc7ac53a51d",
   "lastOpenFiles": [
+    "Misc/Barovian Lore.md",
+    "Characters/Arahja.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Locations/Old Bonegrinder (O).md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -224,7 +251,6 @@
     "Campaign/Session 4.md",
     "Campaign Notes.md",
     "Characters/Anakir.md",
-    "Characters/Arahja.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Bardolf.md",
@@ -239,8 +265,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
