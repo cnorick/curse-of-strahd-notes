@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -212,7 +213,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-doru.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/dm-map-old-bonegrinder.jpg",
