@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Madam Eva.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Characters/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Characters/Madam Eva.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "6c2b0bdf2eda1537",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
     "Misc/Barovian Lore.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Characters/Arahja.md",
@@ -249,7 +250,6 @@
     "Campaign Notes.md",
     "Handouts/Items/Cloak of Protection.md",
     "Handouts/Misc",
-    "Locations/Tser Pool Encampment (G).md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
     "New Handouts.md",
