@@ -72,6 +72,15 @@ def removeDynamicLinks(soup):
       if (c in link['class']):
         link['class'].remove(c)
 
+def wrapImagesInLink(soup):
+  images = soup.find_all('img')
+  for image in images:
+    anchor = soup.new_tag('a')
+    anchor.href = image.src
+    image.wrap(anchor)
+
+    
+
 def updateAllSpoilerFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
