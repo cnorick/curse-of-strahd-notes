@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Places/The Windmill.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Places/The Windmill.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Places/The Windmill.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Places/The Windmill.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -201,6 +201,7 @@
   "lastOpenFiles": [
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
+    "Campaign Notes.md",
     "Locations/Old Bonegrinder (O).md",
     "Assets/Images/Places/Old Bonegrinder.webp",
     "Assets/Images/Places/Old Bonegrinder.webp.crdownload",
@@ -215,7 +216,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/site/assets/images/places/barvia-church.jpg",
     "Website/site/assets/images/maps/village-of-barovia/01-church-of-the-morning-lord-(ground).webp",
-    "Campaign Notes.md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Map.md",
