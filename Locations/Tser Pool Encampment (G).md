@@ -61,6 +61,7 @@ alias: Tser Pool
 - Take down the DM screen
 - Perform the actions as you say them
 - Have her character wait for silence before reading the next card
+- After the reading, she shoos the party out of the ten to go have fun
 
 
 ## Stat Blocks
