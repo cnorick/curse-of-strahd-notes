@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign Notes.md"
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
               }
             }
           },
@@ -226,9 +226,19 @@
   },
   "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
+    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Handouts/Letters/Tome of Strahd.md",
+    "Handouts/Letters/Strahd's Invitation.md",
+    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
+    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
+    "Handouts/Letters/Gustav Durst's Suicide Note.md",
+    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
+    "Handouts/Letters/Argynvost's Journal.md",
+    "Handouts/Maps/Barovia Church Map.md",
+    "Campaign Notes.md",
     "Handouts/Items/Cloak of Protection.md",
     "Handouts/Misc",
-    "Campaign Notes.md",
     "Locations/Tser Pool Encampment (G).md",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
@@ -255,16 +265,6 @@
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
     "Characters/Anakir.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bardolf.md",
-    "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Doru.md",
-    "Characters/Elora.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gertruda.md",
-    "Characters/Gustav Durst.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",

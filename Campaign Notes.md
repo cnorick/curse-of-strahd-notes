@@ -20,6 +20,10 @@ dv.list(dv.pages('"Handouts/Letters"').sort(k => k.file.name).filter(k => k.publ
 ```dataviewjs
 dv.list(dv.pages('"Handouts/Maps"').sort(k => k.file.name).filter(k => k.public).file.link)
 ```
+### Miscellaneous
+```dataviewjs
+dv.list(dv.pages('"Handouts/Misc"').sort(k => k.file.name).filter(k => k.public).file.link)
+```
 ### Stat Blocks
 ```dataviewjs
 dv.list(dv.pages('"Handouts/Stat Blocks"').sort(k => k.file.name).filter(k => k.public).file.link)
