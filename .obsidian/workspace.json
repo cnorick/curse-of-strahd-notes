@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Campaign Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Campaign Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Campaign Notes.md"
               }
             }
           },
@@ -187,6 +187,7 @@
   },
   "active": "24d6d855ba5d472d",
   "lastOpenFiles": [
+    "New Handouts.md",
     "Handouts/Maps/Barovia Church Map.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
