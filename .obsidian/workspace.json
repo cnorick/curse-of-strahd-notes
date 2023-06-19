@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "58425cc7ac53a51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Arahja.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf22cdccaa40f2b0",
             "type": "leaf",
             "state": {
@@ -54,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c2b0bdf2eda1537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "d6390385da51c55d",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -230,11 +230,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf34efc46a8f8118",
+  "active": "6c2b0bdf2eda1537",
   "lastOpenFiles": [
+    "Misc/Barovian Lore.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Characters/Arahja.md",
     "Misc/Card Reading.md",
     "Session Notes/Session 5.md",
-    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Handouts/Letters/Strahd's Invitation.md",
@@ -251,8 +253,6 @@
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "TODO.md",
     "New Handouts.md",
-    "Characters/Arahja.md",
-    "Misc/Barovian Lore.md",
     "Locations/Old Bonegrinder (O).md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
