@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e925c0c8630fe6d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Places/DM Map - Old Bonegrinder.jpg"
-              }
-            }
-          },
-          {
-            "id": "04ac0fb861681af1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg"
-              }
-            }
-          },
-          {
             "id": "24d6d855ba5d472d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign Notes.md",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +44,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Places/Map - Old Bonegrinder.jpg"
+                "file": "Handouts/Maps/The Windmill Map.md"
               }
             }
           },
@@ -220,10 +199,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "04ac0fb861681af1",
+  "active": "24d6d855ba5d472d",
   "lastOpenFiles": [
-    "Assets/Images/Places/DM Map - Old Bonegrinder.jpg",
-    "Assets/Images/Places/Map - Old Bonegrinder.jpg",
+    "Handouts/Maps/Village of Barovia Map.md",
+    "Handouts/Maps/The Windmill Map.md",
+    "Campaign Notes.md",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Places/Old Bonegrinder.webp",
     "Assets/Images/Places/ravenloft_castle.jpeg",
     "Assets/Images/Places/St Andral's Church.webp",
@@ -236,7 +221,6 @@
     "Campaign/Session 4.md",
     "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/The Windmill.md",
-    "Campaign Notes.md",
     "Assets/Images/Places/Old Bonegrinder.webp.crdownload",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/barovia-church-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/barovia-church.html",
@@ -246,14 +230,12 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/site/assets/images/places/barvia-church.jpg",
-    "Website/site/assets/images/maps/village-of-barovia/01-church-of-the-morning-lord-(ground).webp",
     "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Map.md",
     "Handouts/Maps/Tser Falls Map.md",
     "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Tser Pool Map.md",
-    "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Barovia Church Map.md",
     "Index.md",
     "Locations/Death House.md",
@@ -265,9 +247,6 @@
     "Locations/Village of Barovia (E).md",
     "Misc/Adventuring Gear.md",
     "Misc/Card Reading.md",
-    "Assets/Images/Maps/barovia_untagged.webp",
-    "Assets/Images/Maps/barovia_tagged.jpg",
-    "Assets/Images/Maps/01 - Old Svalich Road Encounter Day.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
