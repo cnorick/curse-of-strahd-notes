@@ -1,7 +1,7 @@
 ---
 aliases: [Old Bonegrinder, The Windmill]
 ---
-
+![[Old Bonegrinder.webp|200x20]]
 ## Approaching
 Read this as the party passes the path that branches toward the windmill
 
