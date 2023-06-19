@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf50d972a4726e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Images/Places/Ravenloft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Places/Ravenloft 1.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Places/Ravenloft 1.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Places/Ravenloft 1.md"
+                "file": "Index.md"
               }
             }
           },
@@ -187,10 +174,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bf50d972a4726e10",
+  "active": "3e925c0c8630fe6d",
   "lastOpenFiles": [
+    "Handouts/Images/Places/Barovia Church.md",
     "Handouts/Images/Places/Ravenloft.md",
-    "Handouts/Images/Places/Ravenloft 1.md",
     "Handouts/Images/Places/Death House Front.md",
     "Locations/Village of Barovia (E).md",
     "Handouts/Images/Places",
