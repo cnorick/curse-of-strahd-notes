@@ -24,11 +24,8 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 
 ## What They Want
 **Ideal**: "I wish Strahd to be free of his curse."
-Bond
-"The Vistani are my people now."
-Flaw. 
-
-"The people whose fates I divine aren't important. They are but the means to an end."
+**Bond**: "The Vistani are my people now."
+**Flaw**: "The people whose fates I divine aren't important. They are but the means to an end."
 
 ## What They Know
 [[Barovian Lore]]
