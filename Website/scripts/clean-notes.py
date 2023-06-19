@@ -78,7 +78,6 @@ def wrapImagesInLink(soup):
     anchor = soup.new_tag('a')
     anchor['href'] = image['src']
     image.wrap(anchor)
-
     
 
 def updateAllSpoilerFiles(folder):
