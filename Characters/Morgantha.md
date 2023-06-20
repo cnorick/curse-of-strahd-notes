@@ -31,7 +31,7 @@ alias: Granny
 	- The townsfolk are afraid to interfere
 
 ## At Old Bonegrinder
-Morgantha can use the barrel as a font for a [scrying](http://longo.com.br/5e/spells.html#scrying_phb) spell. She can also knock on the barrel three times as an action to summon a [dretch](http://longo.com.br/5e/bestiary.html#dretch_mm). The demon crawls out of the barrel at the end of Morgantha's turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. Morgantha can summon up to nine dretches in this manner before the ichor is gone.
+- Morgantha can use the barrel as a font for a [scrying](http://longo.com.br/5e/spells.html#scrying_phb) spell. She can also knock on the barrel three times as an action to summon a [dretch](http://longo.com.br/5e/bestiary.html#dretch_mm). The demon crawls out of the barrel at the end of Morgantha's turn and obeys the night hag's commands for 1 hour, after which it dissolves into a pool of ichor. Morgantha can summon up to nine dretches in this manner before the ichor is gone.
 
 ## Stat Block
 

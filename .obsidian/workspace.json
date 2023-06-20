@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -277,8 +277,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "826736cc02f1659d",
+  "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
+    "Characters/Morgantha.md",
     "Locations/Old Bonegrinder (O).md",
     "Offalia Wormwiggle.md",
     "Bella Sunbane.md",
@@ -324,7 +325,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Doru.md",
     "Characters/Elora.md",
-    "Characters/Gadof Blinsky.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
