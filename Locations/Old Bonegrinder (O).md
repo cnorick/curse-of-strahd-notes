@@ -25,10 +25,12 @@ Closer investigation:
 ### Ground Floor
 >The ground floor has been converted into a makeshift kitchen, but the room is a bit disorganized and has a musty, lived-in air about it. Baskets and old dishware are piled in one corner. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.
 >
+>There is an open, upright barrel in the center of the room.
 >
 >Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
 
 If inspecting the barrel:
+>The sweet smell of pastries blends horridly with a stench that burns your nostrils. The awful odor comes out of an open, upright barrel in the center of the room.
 
 ### The Megaliths
 
