@@ -18,6 +18,9 @@ Closer investigation:
 	- Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
+## Interactions
+- [[Morgantha]] is not home when the characters arrive, but her daughe
+
 ## Areas
 ### Ground Floor
 >The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors. In addition to the clucking of the chickens, you hear toads croaking.
