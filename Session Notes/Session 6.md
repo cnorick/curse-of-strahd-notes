@@ -3,6 +3,8 @@ After their well deserved rest, the party meets [[Ismark Kolyanovich|Ismark]] do
 
 At the church, the party is met with some screaming, and begging for food coming from the basement. [[Ismark Kolyanovich|Ismark]] tells the group that this is [[Donavich]]'s son [[Doru]] who was turned by [[Strahd Von Zarovich|Strahd]] a little over a year ago. [[Donavich]] keeps him locked in the basement.
 
+After interrupting his endless praying, [[Donavich]] leads the party to the cemetery where his 
+
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
