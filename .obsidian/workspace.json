@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offalia Wormwiggle.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bella Sunbane.md",
+                "file": "Characters/Bella Sunbane.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,13 +116,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Assets/Templates/Character.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ca8d19ef1f02816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Characters/Morgantha.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b1620b47ca3e3cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Cyrus Belview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f07808037be4b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Bella Sunbane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,8 +314,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "826736cc02f1659d",
+  "active": "9ca8d19ef1f02816",
   "lastOpenFiles": [
+    "Characters/Bella Sunbane.md",
+    "Assets/Templates/Character.md",
+    "Characters/Morgantha.md",
+    "Characters/Cyrus Belview.md",
     "Locations/Old Bonegrinder (O).md",
     "Misc/RAW/Adventuring Gear.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
@@ -290,9 +331,7 @@
     "Misc/RAW",
     "Misc/RAW/Pale Tincture (Ingested).md",
     "Misc/RAW/Cackle Fever.md",
-    "Characters/Morgantha.md",
-    "Offalia Wormwiggle.md",
-    "Bella Sunbane.md",
+    "Characters/Offalia Wormwiggle.md",
     "Locations/Tser Pool Encampment (G).md",
     "Handouts/Maps/The Windmill Map.md",
     "Handouts/Images/Places/The Windmill.md",
@@ -317,7 +356,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
-    "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",

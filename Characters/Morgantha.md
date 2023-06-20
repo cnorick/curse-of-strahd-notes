@@ -3,6 +3,7 @@ alias: Granny
 ---
 (NE Fiend)
 ![[Assets/Images/People/granny.jpeg|200]]
+## Histo
 ## Playing Morgantha/Granny
 ### As Granny Selling Dream Pies
 - Most loving grandmotherly person in the world
