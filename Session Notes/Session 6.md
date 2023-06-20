@@ -1,5 +1,5 @@
 ## The Funeral
-After 
+After their well deserved rest, the party meets [[Ismark Kolyanovich|Ismark]] downstair
 
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
 
