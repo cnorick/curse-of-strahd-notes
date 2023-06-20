@@ -6,7 +6,9 @@ At the church, the party is met with some screaming, and begging for food coming
 After interrupting his endless praying, [[Donavich]] leads the party to the cemetery where he offers prayers to [[The Morninglord]] for [[Kolyan Indirovich]]'s deliverance from Barovia.
 
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
-While the rest of the party has their heads bow
+While the rest of the party has their heads bowed in prayer, [[Elora]] notices a shadowy figure standing outside the cemetery gates. She sneaks off from the party and approaches.
+
+Upon greeting the man,
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 
