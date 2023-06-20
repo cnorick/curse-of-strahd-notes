@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -243,8 +243,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "495153fc064d12de",
+  "active": "2a1031ca18883348",
   "lastOpenFiles": [
+    "Locations/Village of Barovia (E).md",
     "Session Notes/Session 6.md",
     "Characters/Doru.md",
     "Session Notes/Session 5.md",
@@ -271,7 +272,6 @@
     "Campaign Notes.md",
     "Handouts/Items/Cloak of Protection.md",
     "Handouts/Misc",
-    "Handouts/Stat Blocks/Lancelot Stat Block.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
