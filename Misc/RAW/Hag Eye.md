@@ -4,3 +4,6 @@ A hag coven can craft a magic item called a hag eye, which is made from a real 
 - 1hp
 - darkvision with radius of 60 feet
 - if destroyed: each coven member takes 3d10 psychic damage and is blinded for 24hr
+- only the hags in the coven can use it
+
+(MM 176)
