@@ -25,7 +25,10 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 ## On the Road
 The party leaves [[Village of Barovia (E)|Barovia Village]] and makes their way toward [[Tser Pool Encampment (G)|Tser Pool]].
 
-They come to a fork in the road that has a gallows and graveyard off to the side. Upon inspecting the graves, [[Bardolf]] finds 11 blank tombstones
+They come to a fork in the road that has a gallows and graveyard off to the side. Upon inspecting the graves, [[Bardolf]] finds 11 blank tombstones, one of which he engraves in memory of his father. [[Bardolf]] is also surprised to see the he himself now hangs in the once empty gallows.
 
-## [[Tser
+Af
+
+## [[Tser Pool Encampment (G)|Tser Pool]]
+
 ## [[Madam Eva]]'s Card Reading
