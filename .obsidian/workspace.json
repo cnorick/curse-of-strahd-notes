@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/RAW/Hag Eye.md",
                 "mode": "source",
                 "source": false
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Misc/RAW/Hag Eye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Misc/RAW/Hag Eye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Misc/RAW/Hag Eye.md"
               }
             }
           },
@@ -314,13 +314,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9ca8d19ef1f02816",
+  "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
+    "Misc/RAW/Hag Eye.md",
+    "Characters/Morgantha.md",
     "Characters/Bella Sunbane.md",
     "Assets/Templates/Character.md",
-    "Characters/Morgantha.md",
     "Characters/Cyrus Belview.md",
-    "Locations/Old Bonegrinder (O).md",
     "Misc/RAW/Adventuring Gear.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Misc/Card Reading.md",
@@ -361,7 +362,6 @@
     "Campaign/Session 2.md",
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
-    "Campaign Notes.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
