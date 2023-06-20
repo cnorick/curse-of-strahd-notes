@@ -15,6 +15,8 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 ## Back at the Mansion
 [[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. Upon arrival, they find [[Mad Mary|Mary Swilova]] banging on the door. [[Anakir]] attempts to send her a message which she interprets as voices in her head, and proceeds to become unresponsive. [[Anakir]] provides some shock therapy.
 
+As the party is finishing up their
+
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 [[Bardolf]] introduces the party to his brand new invention, [[Metarlos]], the metal, and magically enhanced version of [[Carlos]]. [[Bardolf]] leaves [[Carlos]] with [[Ismark Kolyanovich|Ismark]] who thanks him greatly, saying that if things go poorly in the village, the townsfolk will at least have some food. [[Bardolf]] warns [[Ismark Kolyanovich|Ismark]] against eating [[Carlos]].
 
@@ -45,14 +47,15 @@ She draws the following cards and gives the corresponding descriptions:
 - 1 of Swords -- Avenger
 >This card tells of a powerful force for good and protection, a holy symbol of great hope.
 >The treasure lies in a dragon's house, in hands once clean and now corrupted.
-- of Glyphs -- Bishop
+
+- 8 of Glyphs -- Bishop
 >This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
 >What you seek lies in a pile of treasure, beyond a set of amber doors
 
-## Broken One 
+- Broken One 
 >This card sheds light on one who will help you greatly in the battle against darkness.
 >Your greatest ally will be a wizard. His mind is broken, but his spells are strong
 
-## Innocent
+- Innocent
 >Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him!
 >He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
