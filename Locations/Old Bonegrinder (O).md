@@ -27,7 +27,7 @@ Closer investigation:
 >
 >There is an open, upright barrel in the center of the room.
 >
->Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. You can hear movement upstairs.
+>A large brick oven takes up most of one side of the room. The oven emits warmth and you can smell something sweet baking inside. Surrounding the oven on some shelves are several jars of condiments and ingredients. There's also a couple rubbish bins filled with animal bones and bits of discarded dough
 
 If inspecting the barrel:
 >As you look into the barrel, the sweet smell of pastries blends horridly with a stench that burns your nostrils.
@@ -35,7 +35,7 @@ If inspecting the barrel:
 - The barrel holds glistening, greenish-black demon ichor
 
 - Anyone still addicted knows the smell of the dream pastries right away and gets a craving
-- If anyone looks in the oven, they also recognize them
+	- If anyone looks in the oven, they also recognize them as [[Mechanics of Dream Pastries]]
 
 Inside the cabinet:
 >Wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of powdered bone. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see "Diseases" in chapter 8, "Running the Game," of the [Dungeon Master's Guide](http://longo.com.br/5e/book.html#dmg)). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of pale tincture (see "Poisons" in chapter 8 of the [Dungeon Master's Guide](http://longo.com.br/5e/book.html#dmg)).
