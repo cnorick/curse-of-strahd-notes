@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -232,12 +232,13 @@
   },
   "active": "6c2b0bdf2eda1537",
   "lastOpenFiles": [
-    "Custom Monsters/Dog.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Characters/Strahd Von Zarovich.md",
     "Custom Monsters/Madam Eva's Stats.md",
+    "Custom Monsters/Dog.md",
     "Characters/Madam Eva.md",
     "Locations/Tser Pool Encampment (G).md",
     "Misc/Barovian Lore.md",
-    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Characters/Arahja.md",
     "Misc/Card Reading.md",
     "Session Notes/Session 5.md",
@@ -270,7 +271,6 @@
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/dm-map-old-bonegrinder.jpg",
     "Website/site/assets/images/places/old-bonegrinder.webp",
-    "Campaign/Session 0.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
