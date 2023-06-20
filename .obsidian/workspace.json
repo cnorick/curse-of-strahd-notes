@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Misc/Untitled.md"
               }
             }
           },
@@ -279,8 +279,9 @@
   },
   "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
-    "Misc/Cackle Fever.md",
     "Locations/Old Bonegrinder (O).md",
+    "Misc/Untitled.md",
+    "Misc/Cackle Fever.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Characters/Morgantha.md",
     "Offalia Wormwiggle.md",
@@ -324,7 +325,6 @@
     "Characters/Bildrath Cantemir.md",
     "Characters/Bardolf.md",
     "Characters/Donavich.md",
-    "Characters/Elizabeth Durst.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
