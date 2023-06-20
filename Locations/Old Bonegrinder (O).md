@@ -19,7 +19,7 @@ Closer investigation:
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
 ## Interactions
-- [[Morgantha]] is not home when the characters arrive, but her daughters [[
+- [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]]
 
 ## Areas
 ### Ground Floor
