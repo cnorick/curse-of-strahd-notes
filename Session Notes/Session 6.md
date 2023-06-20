@@ -1,7 +1,7 @@
 ## The Funeral
 After their well deserved rest, the party meets [[Ismark Kolyanovich|Ismark]] downstairs, they each take up a spot helping carry the coffin, and make their way across town to meet [[Donavich]] for the funeral, leaving [[Ireena Kolyana|Ireena]] at home for safety.
 
-At the church, the party is met with some screaming, and begging for food. [[Ismark Kolyanovich|Ismark]] tells the group that 
+At the church, the party is met with some screaming, and begging for food coming from the basement. [[Ismark Kolyanovich|Ismark]] tells the group that this is [[Donavich]]'s son [[Doru]] who was turned by [[Strahd Von Zarovich|Strahd]] a little over a year ago. [[Donavich]] keeps him locked in the basement.
 
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
 
