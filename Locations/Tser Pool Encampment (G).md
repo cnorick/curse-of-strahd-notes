@@ -25,7 +25,7 @@ alias: Tser Pool
 	- how they ended up here
 	- what they thought of [[Village of Barovia (E)|Barovia Village]]
 	- what are their goals
-	- what's the back
+	- what's their backstory
 - The group may ask about
 	- [[Strahd Von Zarovich|Strahd]] or the land:
 		- [[Vistani#Vistani Lore|Vistani Lore]]

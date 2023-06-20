@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -235,8 +235,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dd3f9aba4b4275ca",
+  "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
     "Locations/Old Bonegrinder (O).md",
     "Handouts/Maps/The Windmill Map.md",
     "Handouts/Images/Places/The Windmill.md",
@@ -282,7 +283,6 @@
     "Characters/Gadof Blinsky.md",
     "Characters/Gertruda.md",
     "Characters/Gustav Durst.md",
-    "Characters/Ireena Kolyana.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
