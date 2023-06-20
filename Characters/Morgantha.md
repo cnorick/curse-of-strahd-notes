@@ -30,6 +30,8 @@ alias: Granny
 - The rumor is The Burgomaster's daughter, [[Ireena Kolyana|Ireena]] has caught [[Strahd Von Zarovich|Strahd]]'s eye recently
 	- The townsfolk are afraid to interfere
 
+
+
 ## Stat Block
 
 ```statblock

@@ -32,7 +32,10 @@ Closer investigation:
 If inspecting the barrel:
 >As you look into the barrel, the sweet smell of pastries blends horridly with a stench that burns your nostrils.
 
+- The barrel holds glistening, greenish-black demon ichor
+
 - Anyone still addicted knows the smell of the dream pastries right away
+- If anyone looks in the oven, they also recognize them
 
 ### The Megaliths
 

@@ -105,6 +105,24 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "af9e6940bbdb2c93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "826736cc02f1659d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Morgantha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -259,10 +277,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5312ed12d8dc3a38",
+  "active": "826736cc02f1659d",
   "lastOpenFiles": [
-    "Offalia Wormwiggle.md",
     "Locations/Old Bonegrinder (O).md",
+    "Offalia Wormwiggle.md",
     "Bella Sunbane.md",
     "Locations/Tser Pool Encampment (G).md",
     "Handouts/Maps/The Windmill Map.md",
