@@ -1,5 +1,5 @@
 ---
 public: false
-new_handout: true
+new_handout: false
 ---
-![[doru.png]]
+![[Doru.jpeg]]
