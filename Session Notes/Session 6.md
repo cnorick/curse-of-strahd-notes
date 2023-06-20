@@ -27,8 +27,9 @@ The party leaves [[Village of Barovia (E)|Barovia Village]] and makes their way 
 
 They come to a fork in the road that has a gallows and graveyard off to the side. Upon inspecting the graves, [[Bardolf]] finds 11 blank tombstones, one of which he engraves in memory of his father. [[Bardolf]] is also surprised to see the he himself now hangs in the once empty gallows.
 
-After a quick break, the party then continues their journey toward [[Tser Pool Encampment (G)|Tser Pool]]. Nearing the end, [[Pelanil]] notices wolves lurking in the woods. The party is able to quickly dispatch them all, with only [[Pelanil]] taking dama
+After a quick break, the party then continues their journey toward [[Tser Pool Encampment (G)|Tser Pool]]. Nearing the end, [[Pelanil]] notices wolves lurking in the woods. The party is able to quickly dispatch them all, with only [[Pelanil]] taking damage. We learn that [[Ireena Kolyana|Ireena]] is trained with the rapier, but is not all that great. Regardless, she's incredibly set on helping the party the best she can.
 
 ## [[Tser Pool Encampment (G)|Tser Pool]]
+As evening s
 
 ## [[Madam Eva]]'s Card Reading
