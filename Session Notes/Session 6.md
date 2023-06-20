@@ -20,8 +20,9 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 
 [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] say their goodbyes, and [[Ismark Kolyanovich|Ismark]] confirms that the party is on their way to [[The Town of Vallaki (N)|Vallaki]] and stopping over at [[Tser Pool Encampment (G)|Tser Pool]] for the night.
 
-[[Ismark Kolyanovich|Ismark]] offers to take care of [[Lancelot]] since travelling is not saf
+[[Ismark Kolyanovich|Ismark]] offers to take care of [[Lancelot]] since travelling is not safe for house-raised pets, but [[Shalooti]] insists that [[Lancelot]] will do just fine on the road.
 
 ## On the Road
+The party leaves [[Village of Barovia (E)|Barovia Village]] and makes their way toward [[
 
 ## [[Madam Eva]]'s Card Reading
