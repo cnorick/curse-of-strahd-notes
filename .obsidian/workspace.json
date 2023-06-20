@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf22cdccaa40f2b0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp"
-              }
-            }
-          },
-          {
             "id": "6c2b0bdf2eda1537",
             "type": "leaf",
             "state": {
@@ -52,51 +42,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d6390385da51c55d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6dc2b836db2d56f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           },
           {
-            "id": "8b1f5e6dd30e0c9e",
+            "id": "8dcca2aba3842e9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Doru.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495153fc064d12de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -251,8 +211,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cf22cdccaa40f2b0",
+  "active": "8dcca2aba3842e9f",
   "lastOpenFiles": [
+    "Characters/Strahd Von Zarovich.md",
+    "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
     "Locations/Old Bonegrinder (O).md",
     "Session Notes/Session 6.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
@@ -288,7 +250,6 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
-    "Characters/King Barov.md",
     "Website/site/assets/images/people/doru.jpeg",
     "Assets/Images/People/Doru.jpeg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
@@ -298,7 +259,6 @@
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
-    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
