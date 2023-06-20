@@ -12,7 +12,8 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 
 [[Donavich]] pulls [[Bardolf]] aside and begs him to take [[Ireena Kolyana|Ireena]] far away from this village, and recommends they take her to the [[The Abbott|Abbott]] at the [[Abbey of Saint Markovia]] in [[Krezk (S)|Krezk]].
 
-[[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. Upon arrival, they find [[Mad Mary|Mary Swilova]]
+## Back at the Mansion
+[[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. Upon arrival, they find [[Mad Mary|Mary Swilova]] banging on the door. [[Anakir]] attempts to send her a message which she interprets as voices in her head, and proceeds to become unresponsive. [[Anakir]] provides some shock therapy.
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 
