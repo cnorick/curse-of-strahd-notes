@@ -131,6 +131,18 @@
             }
           },
           {
+            "id": "324b70c019b08294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6b1620b47ca3e3cf",
             "type": "leaf",
             "state": {
@@ -229,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Session Notes/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Session Notes/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Session Notes/Session 5.md"
               }
             }
           },
@@ -312,8 +324,8 @@
   },
   "active": "9ca8d19ef1f02816",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
     "Locations/Old Bonegrinder (O).md",
+    "Characters/Morgantha.md",
     "Misc/RAW/Hag Eye.md",
     "Characters/Bella Sunbane.md",
     "Assets/Templates/Character.md",
