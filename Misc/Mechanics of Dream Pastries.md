@@ -1,5 +1,5 @@
 ---
-aliases: [Dream Pastries
+aliases: [Dream Pastries, Dream Pastry, Pastry]
 ---
 [source](https://www.reddit.com/r/CurseofStrahd/comments/91bv3n/fleshing_out_curse_of_strahd_the_mechanics_of/)
 Having a PC eat a pastry and immediately drop into sleep is a bit sudden for my tastes. I wanted to make the pies a bit more subtle in their execution. In my mind, eating the pies is already like voluntarily failing a wisdom save, so there's no need for PCs to drop where they stand.
