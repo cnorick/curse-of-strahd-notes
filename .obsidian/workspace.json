@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "934ee4ce2ddad50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d6390385da51c55d",
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -242,30 +254,35 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "45438dc6045eab64",
+  "active": "934ee4ce2ddad50f",
   "lastOpenFiles": [
-    "Handouts/Images/Portraits/Portrait of Rina.md",
-    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
-    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
+    "Website/site/assets/images/people/doru.jpeg",
+    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Bardolf.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/King Barov.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
+    "Characters/Madam Eva.md",
     "Assets/Images/People/Doru.jpeg",
-    "Locations/Old Bonegrinder (O).md",
-    "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
-    "Handouts/Images/Portraits/Portrait of Arik.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Places/The Windmill.md",
-    "Handouts/Images/Places/Ravenloft.md",
-    "Handouts/Images/Places/Death House Front.md",
-    "Handouts/Images/Places/Barovia Church.md",
-    "Session Notes/Session 6.md",
     "Website/site/no-spoilers/campaign-notes/handouts/misc/madam-eva's-card-reading.html",
     "Website/site/no-spoilers/campaign-notes/handouts/misc",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-6.html",
@@ -276,11 +293,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
-    "Assets/Templates/Character.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/dm-map-old-bonegrinder.jpg",
     "Website/site/assets/images/places/old-bonegrinder.webp",
