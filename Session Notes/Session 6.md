@@ -1,5 +1,7 @@
 ## The Funeral
-After their well deserved rest, the party meets [[Ismark Kolyanovich|Ismark]] downstairs, they each take up a spot helping carry the coffin, and make their way across town to meet [[Donavich]] for the funer
+After their well deserved rest, the party meets [[Ismark Kolyanovich|Ismark]] downstairs, they each take up a spot helping carry the coffin, and make their way across town to meet [[Donavich]] for the funeral.
+
+
 
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
 
