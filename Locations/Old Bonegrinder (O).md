@@ -30,7 +30,9 @@ Closer investigation:
 >Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. You can hear movement upstairs.
 
 If inspecting the barrel:
->As you look into the barrel,The sweet smell of pastries blends horridly with a stench that burns your nostrils. The awful odor comes out of an open, upright barrel in the center of the room.
+>As you look into the barrel, the sweet smell of pastries blends horridly with a stench that burns your nostrils.
+
+- Anyone still addicted knows the smell of the dream pastries right away
 
 ### The Megaliths
 
