@@ -18,7 +18,9 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 [[Bardolf]] introduces the party to his brand new invention, [[Metarlos]], the metal, and magically enhanced version of [[Carlos]]. [[Bardolf]] leaves [[Carlos]] with [[Ismark Kolyanovich|Ismark]] who thanks him greatly, saying that if things go poorly in the village, the townsfolk will at least have some food. [[Bardolf]] warns [[Ismark Kolyanovich|Ismark]] against eating [[Carlos]].
 
-[[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] say their goo
+[[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] say their goodbyes, and [[Ismark Kolyanovich|Ismark]] confirms that the party is on their way to [[The Town of Vallaki (N)|Vallaki]] and stopping over at [[Tser Pool Encampment (G)|Tser Pool]] for the night.
+
+[[Ismark Kolyanovich|Ismark]] offers to take care of [[Lancelot]] since travelling is not saf
 
 ## On the Road
 
