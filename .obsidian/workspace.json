@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -314,10 +314,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5312ed12d8dc3a38",
+  "active": "9ca8d19ef1f02816",
   "lastOpenFiles": [
-    "Misc/RAW/Hag Eye.md",
     "Locations/Old Bonegrinder (O).md",
+    "Misc/RAW/Hag Eye.md",
     "Characters/Morgantha.md",
     "Characters/Bella Sunbane.md",
     "Assets/Templates/Character.md",

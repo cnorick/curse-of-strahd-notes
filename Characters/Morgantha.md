@@ -4,7 +4,7 @@ alias: Granny
 (NE Fiend)
 ![[Assets/Images/People/granny.jpeg|200]]
 ## History/Info
-- Morgantha gave her coven's hag eye to [[Cyrus Belview]]
+- Morgantha gave her coven's [[Hag Eye]] to [[Cyrus Belview]]
 	- so she can keep an eye on [[Strahd Von Zarovich|Strahd]]
 - She's fearful of [[Strahd Von Zarovich|Strahd]], and respects his dominion over this land
 ## Playing Morgantha/Granny
