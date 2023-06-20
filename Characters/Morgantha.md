@@ -3,7 +3,10 @@ alias: Granny
 ---
 (NE Fiend)
 ![[Assets/Images/People/granny.jpeg|200]]
-## Histo
+## History/Info
+- Morgantha gave her coven's hag eye to [[Cyrus Belview]]
+	- so she can keep an eye on [[Strahd Von Zarovich|Strahd]]
+- She's fearful of [[Strahd Von Zarovich|Strahd]], and respects his dominion over this land
 ## Playing Morgantha/Granny
 ### As Granny Selling Dream Pies
 - Most loving grandmotherly person in the world
@@ -25,7 +28,6 @@ alias: Granny
 - There's a [[Vistani]] camp to the west, on the shores of [[Tser Pool]] on the outskirts of [[The Town of Vallaki (N)]]
 - [[Strahd Von Zarovich]] has undead enemies in Barovia, namely the fallen knights of the [[Order of the Silver Dragon]]. These revenants can be found in a ruined mansion west of [[The Town of Vallaki (N)]] (see [[Argynvostholt]])
 - [[Strahd Von Zarovich]]'s most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see [[Amber Temple]]). The temple can be reached by following the long and winding [[Tsolenka Pass]]
-- Morgantha gave her coven's hag eye to [[Cyrus Belview]]
 
 ### Rumors About the [[Village of Barovia (E)]]
 - No one has seen the burgomaster for a few days and his children aren't saying much
