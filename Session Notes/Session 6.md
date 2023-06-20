@@ -10,7 +10,7 @@ While the rest of the party has their heads bowed in prayer, [[Elora]] notices a
 
 Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Strahd]] who has come to pay respects to the late Burgomaster. [[Strahd Von Zarovich|Strahd]] is surprised when [[Elora]] approaches, but quickly regains his cool. He already knows her name, but asks about her relation to the Burgomaster. He tells her that he looks forward to meeting in the future under better circumstances, then immediately turns in to a bat and flies off.
 
-[[Donavich]] pulls [[Bardolf]] aside and begs him to take [[Ireena Kolyana|Ireena]] far away from this village, and recommends they take her to the [[The Abbott|Abbott]] at the [[Abbey of Saint Markovia]] in [[Krezk (S)|Krezk]]. [[Bardolf]] swears he will get vengeance by "holding a candle under [[Str
+[[Donavich]] pulls [[Bardolf]] aside and begs him to take [[Ireena Kolyana|Ireena]] far away from this village, and recommends they take her to the [[The Abbott|Abbott]] at the [[Abbey of Saint Markovia]] in [[Krezk (S)|Krezk]]. [[Bardolf]] swears he will get vengeance by "holding a candle under [[Strahd Von Zarovich|Strahd]]'s nuts". [[Donavich]] gives [[Bardolf]] his last candle to support his cause.
 
 ## Back at the Mansion
 [[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. Upon arrival, they find [[Mad Mary|Mary Swilova]] banging on the door. [[Anakir]] attempts to send her a message which she interprets as voices in her head, and proceeds to become unresponsive. [[Anakir]] provides some shock therapy.
@@ -30,6 +30,7 @@ They come to a fork in the road that has a gallows and graveyard off to the side
 After a quick break, the party then continues their journey toward [[Tser Pool Encampment (G)|Tser Pool]]. Nearing the end, [[Pelanil]] notices wolves lurking in the woods. The party is able to quickly dispatch them all, with only [[Pelanil]] taking damage. We learn that [[Ireena Kolyana|Ireena]] is trained with the rapier, but is not all that great. Regardless, she's incredibly set on helping the party the best she can.
 
 ## [[Tser Pool Encampment (G)|Tser Pool]]
-In early evening, the party arrives at the outskirt of the [[Vistani]] camp at [[Tser Pool Encampment (G)|Tser Pool]]. [[Shalooti]] immediately runs up to the fire to roast the wolf leg she harvested for [[Lancelot]]. The party is met by an intoxicated [[Arahja]], a [[Vistani|Vistana]] who does not seem at all like the others they have encountered thus far.
+In early evening, the party arrives at the outskirt of the [[Vistani]] camp at [[Tser Pool Encampment (G)|Tser Pool]]. [[Shalooti]] immediately runs up to the fire to roast the wolf leg she harvested for [[Lancelot]]. The party is met by an intoxicated [[Arahja]], a [[Vistani|Vistana]] who does not seem at all like the others they have encountered thus far. He encourages the group to go see [[Madam Eva]].
 
 ## [[Madam Eva]]'s Card Reading
+[[M
