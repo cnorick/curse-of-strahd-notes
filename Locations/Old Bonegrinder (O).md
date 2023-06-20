@@ -41,6 +41,8 @@ Inside the cabinet:
 >Wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of an unfamiliar powder. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. One is a golden syrup labeled "Youth", the second a red tea labelled "Laughter", and the third a greenish milky liquid labeled "Mother's Milk"
 >
 
+- Youth: magically makes the imbiber appear younger and more attractive for 24 hours
+-  Laughter:  a nonmagical red tea that infects the imbiber with cackle fever
 - The first elixir, labeled "Youth," is a golden syrup that magically makes the imbiber appear younger and more attractive for 24 hours. The second elixir, labeled "Laughter," is a nonmagical red tea that infects the imbiber with cackle fever (see "Diseases" in chapter 8, "Running the Game," of the [Dungeon Master's Guide](http://longo.com.br/5e/book.html#dmg)). The third elixir, a greenish milky liquid labeled "Mother's Milk," is actually a dose of pale tincture (see "Poisons" in chapter 8 of the [Dungeon Master's Guide](http://longo.com.br/5e/book.html#dmg)).
 
 - The powder is ground bone
