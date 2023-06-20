@@ -33,4 +33,4 @@ After a quick break, the party then continues their journey toward [[Tser Pool E
 In early evening, the party arrives at the outskirt of the [[Vistani]] camp at [[Tser Pool Encampment (G)|Tser Pool]]. [[Shalooti]] immediately runs up to the fire to roast the wolf leg she harvested for [[Lancelot]]. The party is met by an intoxicated [[Arahja]], a [[Vistani|Vistana]] who does not seem at all like the others they have encountered thus far. He encourages the group to go see [[Madam Eva]].
 
 ## [[Madam Eva]]'s Card Reading
-[[M
+[[Madam Eva]] calls out to the party before they enter the tent, and when they do, she addresses each of them by name. She asks if the party would like to know their future, and they agree to a tarokka reading.
