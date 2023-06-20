@@ -23,6 +23,9 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 [[Ismark Kolyanovich|Ismark]] offers to take care of [[Lancelot]] since travelling is not safe for house-raised pets, but [[Shalooti]] insists that [[Lancelot]] will do just fine on the road.
 
 ## On the Road
-The party leaves [[Village of Barovia (E)|Barovia Village]] and makes their way toward [[
+The party leaves [[Village of Barovia (E)|Barovia Village]] and makes their way toward [[Tser Pool Encampment (G)|Tser Pool]].
 
+They come to a fork in the road that has a gallows and graveyard off to the side. Upon inspecting the graves, [[Bardolf]] finds 11 blank tombstones
+
+## [[Tser
 ## [[Madam Eva]]'s Card Reading
