@@ -13,14 +13,9 @@ alignment:
 ac: 10
 hp: 88
 speed: 20
-stats: [8,
-dex: 11
-con: 12
-int: 17
-wis: 20
-cha: 18
-save:
-  con: "+5"
+stats: [8, 11, 12, 17, 20, 18]
+skillsaves:
+  - perception: 5
 skill:
   arcana: "+7"
   deception: "+8"
