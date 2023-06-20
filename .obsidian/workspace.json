@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Untitled.md",
+                "file": "Misc/Barovian Lore.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Untitled.md",
+                "file": "Misc/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Untitled.md",
+                "file": "Misc/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Untitled.md"
+                "file": "Misc/Barovian Lore.md"
               }
             }
           },
@@ -277,10 +277,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5312ed12d8dc3a38",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Misc/Untitled",
+    "Misc/Adventuring Gear.md",
     "Locations/Old Bonegrinder (O).md",
-    "Misc/Untitled.md",
+    "Misc/Pale Tincture (Ingested).md",
     "Misc/Cackle Fever.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Characters/Morgantha.md",
@@ -323,8 +325,6 @@
     "Characters/Arahja.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bildrath Cantemir.md",
-    "Characters/Bardolf.md",
-    "Characters/Donavich.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
