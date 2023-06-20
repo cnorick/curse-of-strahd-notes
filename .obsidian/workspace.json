@@ -11,11 +11,9 @@
             "id": "cf22cdccaa40f2b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp"
               }
             }
           },
@@ -55,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "d6390385da51c55d",
@@ -173,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
+                "file": "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp"
               }
             }
           },
@@ -254,9 +251,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c6dc2b836db2d56f",
+  "active": "cf22cdccaa40f2b0",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Session Notes/Session 6.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v1-letter.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
@@ -290,8 +289,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Website/site/assets/images/people/doru.jpeg",
     "Assets/Images/People/Doru.jpeg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
