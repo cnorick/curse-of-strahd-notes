@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -242,8 +242,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c6dc2b836db2d56f",
+  "active": "2a1031ca18883348",
   "lastOpenFiles": [
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Misc/Card Reading.md",
     "Session Notes/Session 6.md",
     "Characters/The Abbott.md",
     "Locations/Village of Barovia (E).md",
@@ -255,11 +257,9 @@
     "Characters/Strahd Von Zarovich.md",
     "Locations/Old Bonegrinder (O).md",
     "Misc/Barovian Lore.md",
-    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Handouts/Maps/The Windmill Map.md",
     "Locations/Tser Pool Encampment (G).md",
     "Characters/Arahja.md",
-    "Misc/Card Reading.md",
     "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Handouts/Letters/Strahd's Invitation.md",
