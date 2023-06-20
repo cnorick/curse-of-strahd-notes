@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Handouts/Maps/The Windmill Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Handouts/Maps/The Windmill Map.md"
               }
             }
           },
@@ -213,9 +213,19 @@
   },
   "active": "8dcca2aba3842e9f",
   "lastOpenFiles": [
+    "Handouts/Images/Places/The Windmill.md",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
+    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
+    "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
+    "Assets/Images/Maps/01 - Old Svalich Road Encounter Day.webp",
+    "Assets/Images/Maps/barovia_tagged.jpg",
+    "Assets/Images/Maps/barovia_untagged.webp",
+    "Assets/Images/Maps/barovia_village_tagged.jpg",
+    "Assets/Images/Maps/barovia_village_untagged.jpg",
+    "Locations/Old Bonegrinder (O).md",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
-    "Locations/Old Bonegrinder (O).md",
     "Session Notes/Session 6.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v1-letter.html",
@@ -249,16 +259,6 @@
     "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Jeny Greenteeth.md",
-    "Website/site/assets/images/people/doru.jpeg",
-    "Assets/Images/People/Doru.jpeg",
-    "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
-    "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/dm-map-old-bonegrinder.jpg",
-    "Website/site/assets/images/places/old-bonegrinder.webp",
-    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/04 - Old Bonegrinder Day (2nd Floor).webp",
-    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/05 - Old Bonegrinder Day (Attic).webp",
-    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/06 - Old Bonegrinder Day (Roof).webp",
-    "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
