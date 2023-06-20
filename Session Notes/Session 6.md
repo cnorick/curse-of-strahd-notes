@@ -8,7 +8,7 @@ After interrupting his endless praying, [[Donavich]] leads the party to the ceme
 ## [[Elora]] Meets [[Strahd Von Zarovich|Strahd]]
 While the rest of the party has their heads bowed in prayer, [[Elora]] notices a shadowy figure standing outside the cemetery gates. She sneaks off from the party and approaches.
 
-Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Strahd]] who has come to pay respects to the late Burgomaster. [[Strahd Von Zarovich|Strahd]] is surprised when [[El
+Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Strahd]] who has come to pay respects to the late Burgomaster. [[Strahd Von Zarovich|Strahd]] is surprised when [[Elora]] approaches, but quickly regains his cool. He already knows her name, but asks about her relation to the Burgomaster. He tells her that he lo
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 
