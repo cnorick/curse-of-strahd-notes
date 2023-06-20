@@ -16,6 +16,7 @@ Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Str
 [[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. Upon arrival, they find [[Mad Mary|Mary Swilova]] banging on the door. [[Anakir]] attempts to send her a message which she interprets as voices in her head, and proceeds to become unresponsive. [[Anakir]] provides some shock therapy.
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
+[[Bardolf]] introduces the party to his brand new invention, [[Metarlos]], the metal version of [[Carlos]]. 
 
 ## On the Road
 
