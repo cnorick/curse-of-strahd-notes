@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
               }
             }
           },
@@ -254,8 +254,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "934ee4ce2ddad50f",
+  "active": "c6dc2b836db2d56f",
   "lastOpenFiles": [
+    "Session Notes/Session 6.md",
     "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v1-letter.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
@@ -266,7 +267,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
     "Website/no-spoilers/campaign-notes/handouts/items/potion-of-healing.html",
     "Website/no-spoilers/campaign-notes/handouts/items/cloak-of-protection.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/death-house-front.html",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
