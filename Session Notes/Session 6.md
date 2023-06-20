@@ -10,7 +10,9 @@ While the rest of the party has their heads bowed in prayer, [[Elora]] notices a
 
 Upon greeting the man, she realizes that it's actually [[Strahd Von Zarovich|Strahd]] who has come to pay respects to the late Burgomaster. [[Strahd Von Zarovich|Strahd]] is surprised when [[Elora]] approaches, but quickly regains his cool. He already knows her name, but asks about her relation to the Burgomaster. He tells her that he looks forward to meeting in the future under better circumstances, then immediately turns in to a bat and flies off.
 
-[[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion. [[Donavich]] pulls [[Bard
+[[Donavich]] pulls [[Bardolf]] aside and begs him to take [[Ireena Kolyana|Ireena]] far away from this village, and recommends they visit the [[Aboo [[Abbey
+
+[[Elora]] tells the party about her encounter, and concerned for [[Ireena Kolyana|Ireena]]'s safety, they begin running back to the mansion.
 
 ## Wrapping Up in [[Village of Barovia (E)|Barovia Village]]
 
