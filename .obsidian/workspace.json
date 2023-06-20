@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Madam Eva.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "file": "Characters/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Madam Eva's Stats.md"
+                "file": "Characters/Madam Eva.md"
               }
             }
           },
@@ -220,14 +220,14 @@
   },
   "active": "2a1031ca18883348",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
+    "Custom Monsters/Dog.md",
     "Custom Monsters/Madam Eva's Stats.md",
+    "Characters/Strahd Von Zarovich.md",
     "Characters/Madam Eva.md",
     "Locations/Old Bonegrinder (O).md",
     "Misc/Barovian Lore.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Handouts/Maps/The Windmill Map.md",
-    "Custom Monsters/Dog.md",
     "Locations/Tser Pool Encampment (G).md",
     "Characters/Arahja.md",
     "Misc/Card Reading.md",

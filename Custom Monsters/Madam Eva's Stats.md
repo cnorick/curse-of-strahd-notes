@@ -2,7 +2,14 @@
 statblock: true
 name: Madam Eva
 size: M
-
+type:
+  type: humanoid
+  tags:
+  - human
+source: CoS
+alignment:
+- C
+- N
 ac: 10
 hp: 88
 speed: 20
