@@ -40,7 +40,7 @@ monster: Night Hag
 ```
 
 ```statblock
-monst
+monster: Dretch
 ```
 ```dataviewjs
 ```
