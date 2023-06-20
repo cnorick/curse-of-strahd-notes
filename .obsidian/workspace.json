@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd3f9aba4b4275ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -223,8 +235,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5312ed12d8dc3a38",
+  "active": "dd3f9aba4b4275ca",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Handouts/Maps/The Windmill Map.md",
     "Handouts/Images/Places/The Windmill.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
@@ -236,7 +249,6 @@
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_village_tagged.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
-    "Locations/Old Bonegrinder (O).md",
     "Characters/Strahd Von Zarovich.md",
     "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
     "Session Notes/Session 6.md",

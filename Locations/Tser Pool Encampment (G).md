@@ -2,11 +2,11 @@
 alias: Tser Pool
 ---
 ## Prep
-- [ ] Separate card decks
-- [ ] Take out the prepped cards
-- [ ] Before the session, once everyone is at the table, ask someone to shuffle each deck
-- [ ] Stick the card reading paper in the book
-- [ ] Practice sneaking the cards on top after the shuffle
+- [x] Separate card decks
+- [x] Take out the prepped cards
+- [x] Before the session, once everyone is at the table, ask someone to shuffle each deck
+- [x] Stick the card reading paper in the book
+- [x] Practice sneaking the cards on top after the shuffle
 
 ## Locations
 ### Entering the Camp
@@ -24,6 +24,8 @@ alias: Tser Pool
 	- where they're headed
 	- how they ended up here
 	- what they thought of [[Village of Barovia (E)|Barovia Village]]
+	- what are their goals
+	- what's the back
 - The group may ask about
 	- [[Strahd Von Zarovich|Strahd]] or the land:
 		- [[Vistani#Vistani Lore|Vistani Lore]]
