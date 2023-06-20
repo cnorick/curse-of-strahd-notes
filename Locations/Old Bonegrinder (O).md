@@ -19,7 +19,7 @@ Closer investigation:
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
 ## Interactions
-- [[Morgantha]] is not home when the characters arrive, but her daughe
+- [[Morgantha]] is not home when the characters arrive, but her daughters [[
 
 ## Areas
 ### Ground Floor

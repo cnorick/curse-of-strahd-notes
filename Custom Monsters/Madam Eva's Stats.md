@@ -1,7 +1,6 @@
 ---
 statblock: true
 name: Madam Eva
-isNpc: true
 size: M
 type:
   type: humanoid
