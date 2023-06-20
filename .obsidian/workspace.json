@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Characters/Gadof Blinsky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Characters/Gadof Blinsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "Characters/Gadof Blinsky.md"
               }
             }
           },
@@ -242,34 +242,71 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2a1031ca18883348",
+  "floating": {
+    "id": "a5b750387129dd0d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ad1e9d5b117850fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "5a3af510fc449f1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa5de6ee6b31a84e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Gadof Blinsky.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aa5de6ee6b31a84e",
   "lastOpenFiles": [
-    "Handouts/Misc/Madam Eva's Card Reading.md",
-    "Misc/Card Reading.md",
-    "Session Notes/Session 6.md",
-    "Characters/The Abbott.md",
-    "Locations/Village of Barovia (E).md",
-    "Characters/Doru.md",
-    "Session Notes/Session 5.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/King Barov.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Mad Mage of Mount Baratok.md",
+    "Characters/Mad Mary.md",
+    "Characters/Morgantha.md",
+    "Characters/Parriwimple.md",
     "Characters/Madam Eva.md",
-    "Custom Monsters/Madam Eva's Stats.md",
-    "Custom Monsters/Dog.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rictavio.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/The Abbott.md",
+    "Characters/Tatyana.md",
+    "Characters/Walter.md",
+    "Characters/Thornboldt.md",
     "Characters/Strahd Von Zarovich.md",
-    "Locations/Old Bonegrinder (O).md",
-    "Misc/Barovian Lore.md",
-    "Handouts/Maps/The Windmill Map.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Characters/Arahja.md",
-    "Handouts/Letters/Kolyan Indirovich's v2 Letter.md",
-    "Handouts/Letters/Tome of Strahd.md",
-    "Handouts/Letters/Strahd's Invitation.md",
-    "Handouts/Letters/Letter from Strahd von Zarovich to Gustav Durst.md",
-    "Handouts/Letters/Kolyan Indirovich's v1 Letter.md",
-    "Handouts/Letters/Gustav Durst's Suicide Note.md",
-    "Handouts/Letters/Elisabeth Durst's Unsent Letter.md",
-    "Handouts/Letters/Argynvost's Journal.md",
-    "Handouts/Maps/Barovia Church Map.md",
-    "Campaign Notes.md",
+    "Custom Monsters/Dog.md",
+    "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Handouts/Misc",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
