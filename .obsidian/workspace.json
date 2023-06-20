@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "d6390385da51c55d",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
               }
             }
           },
@@ -230,15 +230,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6c2b0bdf2eda1537",
+  "active": "cf34efc46a8f8118",
   "lastOpenFiles": [
-    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Misc/Barovian Lore.md",
     "Characters/Strahd Von Zarovich.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Custom Monsters/Madam Eva's Stats.md",
     "Custom Monsters/Dog.md",
     "Characters/Madam Eva.md",
     "Locations/Tser Pool Encampment (G).md",
-    "Misc/Barovian Lore.md",
     "Characters/Arahja.md",
     "Misc/Card Reading.md",
     "Session Notes/Session 5.md",

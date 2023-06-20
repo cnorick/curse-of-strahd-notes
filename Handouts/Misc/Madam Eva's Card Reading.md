@@ -1,5 +1,5 @@
 ---
-public: false
+public: true
 ---
 
 ## 7 of Stars -- Illusionist
