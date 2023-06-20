@@ -30,6 +30,6 @@ They come to a fork in the road that has a gallows and graveyard off to the side
 After a quick break, the party then continues their journey toward [[Tser Pool Encampment (G)|Tser Pool]]. Nearing the end, [[Pelanil]] notices wolves lurking in the woods. The party is able to quickly dispatch them all, with only [[Pelanil]] taking damage. We learn that [[Ireena Kolyana|Ireena]] is trained with the rapier, but is not all that great. Regardless, she's incredibly set on helping the party the best she can.
 
 ## [[Tser Pool Encampment (G)|Tser Pool]]
-As evening s
+In early evening, the party arrives at the outskirt of the [[Vistani]] camp at [[Tser Pool Encampment (G)|Tser Pool]]. [[Shalooti]] immediately runs up to the fire to roast the wolf leg she harvested for [[Lancelot]]. The party
 
 ## [[Madam Eva]]'s Card Reading
