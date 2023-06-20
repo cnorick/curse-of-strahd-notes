@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "9997875c649e4f19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bella Sunbane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dd3f9aba4b4275ca",
             "type": "leaf",
             "state": {
@@ -237,8 +249,9 @@
   },
   "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
+    "Bella Sunbane.md",
     "Locations/Old Bonegrinder (O).md",
+    "Locations/Tser Pool Encampment (G).md",
     "Handouts/Maps/The Windmill Map.md",
     "Handouts/Images/Places/The Windmill.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
@@ -282,7 +295,6 @@
     "Characters/Elora.md",
     "Characters/Gadof Blinsky.md",
     "Characters/Gertruda.md",
-    "Characters/Gustav Durst.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
