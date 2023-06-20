@@ -19,7 +19,7 @@ Closer investigation:
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
 ## Interactions
-- [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there. [[Bella Sunbane|Bella]] is 
+- [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there. [[Bella Sunbane|Bella]] is on the first floor baking, and [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
 
 ## Areas
 ### Ground Floor
@@ -39,7 +39,6 @@ If inspecting the barrel:
 
 Inside the cabinet:
 >Wooden bowls full of herbs and baking ingredients, including flour, sugar, and several gourds of an unfamiliar powder. Hanging on the inside of the cabinet doors are a dozen locks of hair. Amid various concoctions are three small, labeled containers that hold elixirs. One is a golden syrup labeled "Youth", the second a red tea labelled "Laughter", and the third a greenish milky liquid labeled "Mother's Milk"
->
 
 - Youth: magically makes the imbiber appear younger and more attractive for 24 hours
 - Laughter:  a nonmagical red tea that infects the imbiber with [[Cackle Fever]]
