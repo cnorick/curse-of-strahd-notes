@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gadof Blinsky.md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gadof Blinsky.md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gadof Blinsky.md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -242,45 +242,36 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "a5b750387129dd0d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ad1e9d5b117850fc",
-        "type": "window",
-        "children": [
-          {
-            "id": "5a3af510fc449f1c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa5de6ee6b31a84e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Gadof Blinsky.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "aa5de6ee6b31a84e",
+  "active": "2a1031ca18883348",
   "lastOpenFiles": [
+    "Website/site/no-spoilers/campaign-notes/handouts/misc/madam-eva's-card-reading.html",
+    "Website/site/no-spoilers/campaign-notes/handouts/misc",
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-6.html",
+    "Website/no-spoilers/campaign-notes/handouts/letters/elisabeth-durst's-unsent-letter.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
+    "Assets/Templates/Character.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Bardolf.md",
+    "Characters/Donavich.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Doru.md",
+    "Characters/Elora.md",
+    "Characters/Gadof Blinsky.md",
     "Characters/Gertruda.md",
     "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
@@ -289,34 +280,6 @@
     "Characters/King Barov.md",
     "Characters/Kolyan Indirovich.md",
     "Characters/Lancelot.md",
-    "Characters/Mad Mage of Mount Baratok.md",
-    "Characters/Mad Mary.md",
-    "Characters/Morgantha.md",
-    "Characters/Parriwimple.md",
-    "Characters/Madam Eva.md",
-    "Characters/Pelanil.md",
-    "Characters/Queen Ravenovia.md",
-    "Characters/Rictavio.md",
-    "Characters/Rina.md",
-    "Characters/Rosevalda.md",
-    "Characters/Shalooti.md",
-    "Characters/The Abbott.md",
-    "Characters/Tatyana.md",
-    "Characters/Walter.md",
-    "Characters/Thornboldt.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Custom Monsters/Dog.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Misc",
-    "Website/site/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-madam-eva.html",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/map-old-bonegrinder.jpg",
     "Website/site/assets/images/maps/revenloft-moors/old-bonegrinder/dm-map-old-bonegrinder.jpg",
     "Website/site/assets/images/places/old-bonegrinder.webp",
