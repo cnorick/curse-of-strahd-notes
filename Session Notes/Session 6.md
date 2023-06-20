@@ -34,3 +34,6 @@ In early evening, the party arrives at the outskirt of the [[Vistani]] camp at [
 
 ## [[Madam Eva]]'s Card Reading
 [[Madam Eva]] calls out to the party before they enter the tent, and when they do, she addresses each of them by name. She asks if the party would like to know their future, and they agree to a tarokka reading.
+
+[[Madam Eva]] rolls out a sheet of black velvet on her table, takes out a crystal ball, and a deck of cards. She splits the cards into two piles and explains that one deck is the common deck and one deck is the high deck.
+

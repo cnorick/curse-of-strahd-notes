@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "Misc/Card Reading.md"
               }
             }
           },
@@ -243,10 +242,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2a1031ca18883348",
+  "active": "c6dc2b836db2d56f",
   "lastOpenFiles": [
-    "Characters/The Abbott.md",
     "Session Notes/Session 6.md",
+    "Characters/The Abbott.md",
     "Locations/Village of Barovia (E).md",
     "Characters/Doru.md",
     "Session Notes/Session 5.md",
