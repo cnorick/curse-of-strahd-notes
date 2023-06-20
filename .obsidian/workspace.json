@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48c35f8edad45764",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Monsters/Madam Eva's Stats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "d6390385da51c55d",
@@ -62,8 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "004565d05a9a67ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Monsters/Dog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Madam Eva's Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Custom Monsters/Madam Eva's Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Madam Eva.md"
+                "file": "Custom Monsters/Madam Eva's Stats.md"
               }
             }
           },
@@ -218,12 +243,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2a1031ca18883348",
+  "active": "48c35f8edad45764",
   "lastOpenFiles": [
     "Custom Monsters/Dog.md",
+    "Characters/Madam Eva.md",
     "Custom Monsters/Madam Eva's Stats.md",
     "Characters/Strahd Von Zarovich.md",
-    "Characters/Madam Eva.md",
     "Locations/Old Bonegrinder (O).md",
     "Misc/Barovian Lore.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",

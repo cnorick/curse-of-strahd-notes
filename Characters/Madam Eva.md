@@ -35,7 +35,7 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 ## Stat Block
 
 ```statblock
-monster:
+monster: Madam Eva
 ```
 
 ```dataviewjs

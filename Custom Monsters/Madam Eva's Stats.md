@@ -1,7 +1,7 @@
 ---
 statblock: true
 name: Madam Eva
-size: M
+size: medium
 type:
   type: humanoid
   tags:
@@ -13,7 +13,7 @@ alignment:
 ac: 10
 hp: 88
 speed: 20
-str: 8
+stats: [8,
 dex: 11
 con: 12
 int: 17
