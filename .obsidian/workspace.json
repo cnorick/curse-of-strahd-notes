@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -277,8 +277,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5312ed12d8dc3a38",
+  "active": "826736cc02f1659d",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Misc/RAW/Adventuring Gear.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Misc/Card Reading.md",
@@ -287,7 +288,6 @@
     "Misc/Mechanics of Dream Pastries.md",
     "Misc/Peoples and Lore",
     "Misc/RAW",
-    "Locations/Old Bonegrinder (O).md",
     "Misc/RAW/Pale Tincture (Ingested).md",
     "Misc/RAW/Cackle Fever.md",
     "Characters/Morgantha.md",

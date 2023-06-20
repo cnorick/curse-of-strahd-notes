@@ -19,7 +19,11 @@ Closer investigation:
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
 ## Interactions
-- [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there. [[Bella Sunbane|Bella]] is on the first floor baking, and [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
+- [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there
+	- [[Bella Sunbane|Bella]] is on the first floor baking
+	- [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
+- All three
+- If the players knock
 
 ## Areas
 ### Ground Floor
