@@ -114,21 +114,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b03c0306a4eb93b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/spells/Ray of Sickness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Ray of Sickness.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Ray of Sickness.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Ray of Sickness.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -283,10 +271,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b03c0306a4eb93b",
+  "active": "c97a5d43c89183c0",
   "lastOpenFiles": [
-    "reference/spells/Identify.md",
     "reference/spells/Ray of Sickness.md",
+    "reference/spells/Identify.md",
     "Characters/Morgantha.md",
     "reference/monsters/Hags.md",
     "Session Notes/Session 6.md",
