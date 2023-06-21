@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md"
               }
             }
           },
@@ -231,8 +231,10 @@
   },
   "active": "8a8f0a200e798f0f",
   "lastOpenFiles": [
-    "Victor Vallakovich.md",
+    "Custom Monsters/Dog.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
     "Characters/Morgantha.md",
+    "Victor Vallakovich.md",
     "Characters/Madam Eva.md",
     "reference/spells/Mage Hand.md",
     "Characters/Lydia Petrovna.md",
@@ -268,8 +270,6 @@
     "Campaign/Session 0.md",
     "Campaign/Session 2.md",
     "Campaign/Session 1.md",
-    "Campaign/Session 3.md",
-    "Characters/Parriwimple.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
