@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tsolenka Pass (T).md",
+                "file": "Locations/Van Richten's Tower (V).md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tsolenka Pass (T).md",
+                "file": "Locations/Van Richten's Tower (V).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tsolenka Pass (T).md",
+                "file": "Locations/Van Richten's Tower (V).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tsolenka Pass (T).md"
+                "file": "Locations/Van Richten's Tower (V).md"
               }
             }
           },
@@ -256,9 +256,10 @@
   },
   "active": "887fefe960ef4e00",
   "lastOpenFiles": [
-    "Locations/Village of Krezk (S).md",
+    "Locations/Ruins of Berez (U).md",
     "Locations/Tsolenka Pass (T).md",
-    "Locations/Untitled.md",
+    "Locations/Village of Krezk (S).md",
+    "Locations/Van Richten's Tower (V).md",
     "Locations/Raven River Crossroads (R).md",
     "Locations/Argynvostholt (Q).md",
     "Locations/Luna River Crossroads (P).md",
@@ -282,7 +283,6 @@
     "Victor Vallakovich.md",
     "Characters/Vargas Vallakovich.md",
     "Characters/Lydia Petrovna.md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",
