@@ -1,8 +1,9 @@
 ---
 aliases: [Urwin]
 ---
-(NE human)
+(LG male human)
 ![[Arik the Barkeep V2.webp|200]]
+
 ## Playing Urwin Martikov
 
 ## History/Info
@@ -14,11 +15,13 @@ aliases: [Urwin]
 [[Vallaki Lore]]
 
 ## Relations
+- wife: [[Danika Dorakova]]
+- member of: [[The Keepers of the Feather]]
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: wereraven
 ```
 
 ```dataviewjs
