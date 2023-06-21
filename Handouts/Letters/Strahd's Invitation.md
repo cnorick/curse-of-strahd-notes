@@ -1,3 +1,8 @@
+---
+public: false
+new_handout: false
+---
+
 ![[Strahd's Invitation.jpg]]
 
 My friends,
