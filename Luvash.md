@@ -2,8 +2,8 @@
 aliases: []
 ---
 (CE male human bandit captain)
-![[Arik the Barkeep V2.webp|200]]
-## Playing Arrigal
+![[Luvash.jpg|200]]
+## Playing Luvash
 
 ## History/Info
 
@@ -14,7 +14,7 @@ aliases: []
 [[Vallaki Lore]]
 
 ## Relations
-- brother: [[Luvash]]
+- brother: [[Arrigal]]
 
 ## Stat Block
 

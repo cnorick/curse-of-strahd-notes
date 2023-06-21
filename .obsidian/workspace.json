@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luvash.md",
+                "file": "Arrigal.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luvash.md",
+                "file": "Arrigal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luvash.md",
+                "file": "Arrigal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Luvash.md"
+                "file": "Arrigal.md"
               }
             }
           },
@@ -285,8 +285,12 @@
   },
   "active": "4899e72c64783c25",
   "lastOpenFiles": [
-    "Arrigal.md",
     "Luvash.md",
+    "Assets/Images/People/Luvash.jpg",
+    "Assets/Images/People/Luvash.jpg.crdownload",
+    "Assets/Images/People/Arrigal.jpg",
+    "Assets/Images/People/Arrigal.jpg.crdownload",
+    "Arrigal.md",
     "Stella Wachter.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
     "Henrik van der Voort.md",
@@ -323,14 +327,9 @@
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg.crdownload",
     "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Bray Martikova.md",
-    "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg.crdownload",
-    "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/Map - Burgomaster's Mansion.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/Map - Burgomaster's Mansion.jpg.crdownload",
     "Brom Martikova.md",
     "Custom Monsters/Child Wereraven.md",
     "Danika Dorakova.md",
-    "Urwin Martikov.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
