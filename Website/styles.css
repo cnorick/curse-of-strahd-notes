@@ -1,0 +1,374 @@
+.statblock.svelte-1vt02hf a {
+    font-style: var(--statblock-link-style)
+}
+
+.container.svelte-1vt02hf {
+    display: flex;
+    width: 100%;
+    margin: 0.25rem 0
+}
+
+.statblock.svelte-1vt02hf {
+    margin: 0 auto;
+    position: relative
+}
+
+.icons.svelte-1vt02hf {
+    position: absolute;
+    left: 0
+}
+
+.bar.svelte-ilp5y8 {
+    height: 5px;
+    background: var(--statblock-bar-color);
+    border: var(--statblock-bar-border-size) solid var(--statblock-bar-border-color);
+    z-index: 1;
+    width: auto
+}
+
+.flex-container.svelte-1hofvsi {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.heading.svelte-1hofvsi {
+    font-family: var(--statblock-heading-font);
+    color: var(--statblock-heading-font-color);
+    font-weight: var(--statblock-heading-font-weight);
+    margin: 0px;
+    letter-spacing: 1px;
+    font-variant: var(--statblock-heading-font-variant);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    line-height: var(--statblock-heading-line-height)
+}
+
+.inline.svelte-1lnliuc {
+    display: inline
+}
+
+.subheading.svelte-1186gko {
+    font-weight: var(--statblock-subheading-font-weight);
+    font-style: var(--statblock-subheading-font-style);
+    font-size: var(--statblock-subheading-font-size);
+    margin: 0
+}
+
+.image.svelte-102vxjq {
+    width: var(--statblock-image-width);
+    height: var(--statblock-image-height)
+}
+
+.image.pointer.svelte-102vxjq {
+    cursor: pointer
+}
+
+img.svelte-102vxjq {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    border: var(--statblock-image-border-size) solid var(--statblock-image-border-color);
+    object-position: center
+}
+
+.tapered-rule.svelte-sujd32 {
+    width: auto;
+    margin: 0.5em 0;
+    height: 5px;
+    background: -webkit-linear-gradient(0deg,
+            var(--statblock-rule-color) 0%,
+            var(--statblock-rule-color) 50%,
+            var(--statblock-background-color) 95%,
+            var(--statblock-background-color) 100%);
+    clip-path: polygon(0 0, 0 100%, 95% 50%);
+    -webkit-clip-path: polygon(0 0, 0 100%, 95% 50%)
+}
+
+.line.svelte-151kcqm {
+    line-height: var(--statblock-property-line-height);
+    display: block;
+    color: var(--statblock-property-font-color)
+}
+
+.property-name.svelte-151kcqm {
+    margin: 0;
+    margin-right: 0.25em;
+    display: inline;
+    color: var(--statblock-property-name-font-color);
+    font-weight: var(--statblock-property-name-font-weight)
+}
+
+.property-text.svelte-12rzfyk {
+    display: inline;
+    white-space: pre-line;
+    text-indent: 0
+}
+
+.property-text.svelte-12rzfyk {
+    display: inline;
+    margin: 0
+}
+
+.statblock-table-header.svelte-18uixe9 {
+    font-weight: var(--statblock-table-header-font-weight)
+}
+
+.table.svelte-18uixe9 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap
+}
+
+.table-item.svelte-18uixe9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap
+}
+
+.line.svelte-sgnocl {
+    line-height: var(--statblock-saves-line-height);
+    display: block;
+    color: var(--statblock-font-color)
+}
+
+.property-name.svelte-sgnocl {
+    margin: 0;
+    margin-right: 0.25em;
+    display: inline;
+    font-weight: bold
+}
+
+.property-text.svelte-sgnocl {
+    display: inline;
+    margin: 0
+}
+
+.property-name.svelte-1ufqbz1 {
+    margin: 0;
+    margin-right: 0.25em;
+    display: inline;
+    font-weight: var(--statblock-traits-font-weight);
+    font-style: var(--statblock-traits-font-style)
+}
+
+.statblock-nested-traits.svelte-1ufqbz1 {
+    margin-left: 1rem
+}
+
+.section-header.svelte-1x5mdf {
+    border-bottom: var(--statblock-section-heading-border-size) solid var(--statblock-section-heading-border-color);
+    color: var(--statblock-section-heading-font-color);
+    font-size: var(--statblock-section-heading-font-size);
+    font-variant: var(--statblock-section-heading-font-variant);
+    font-weight: var(--statblock-section-heading-font-weight);
+    letter-spacing: 1px;
+    margin: 0;
+    margin-bottom: 0.3em;
+    break-inside: avoid-column;
+    break-after: avoid-column
+}
+
+.top.svelte-fktbyg {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.name.svelte-fktbyg {
+    display: flex;
+    align-items: center
+}
+
+.name.svelte-fktbyg .buttons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center
+}
+
+.bottom.svelte-fktbyg {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 0.5rem
+}
+
+.min-height {
+    min-height: 2rem
+}
+
+.block.svelte-1k21190.svelte-1k21190 {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center
+}
+
+.item.svelte-1k21190.svelte-1k21190 {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding: 2px;
+    margin: 2px
+}
+
+.group.svelte-1k21190.svelte-1k21190 {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 2px dashed grey;
+    min-height: 2rem
+}
+
+.dropdown-icon.svelte-1k21190.svelte-1k21190 {
+    align-self: flex-start
+}
+
+.inline.svelte-1k21190.svelte-1k21190 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    min-width: 2rem
+}
+
+.icon.svelte-1k21190.svelte-1k21190 {
+    display: flex
+}
+
+.statblock-creator-container.svelte-1k21190.svelte-1k21190 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    gap: 0.25rem
+}
+
+body:not(.is-mobile) .statblock-creator-container.svelte-1k21190:not(:hover)>.icons.svelte-1k21190 {
+    visibility: hidden
+}
+
+.statblock-creator-block.svelte-1k21190.svelte-1k21190 {
+    width: 100%
+}
+
+.icons.svelte-1k21190.svelte-1k21190 {
+    display: flex;
+    justify-content: flex-end
+}
+
+.statblock-creator-container.svelte-1k21190 .icons.svelte-1k21190 {
+    align-items: center
+}
+
+.icon.svelte-1k21190:not(:first-child) .clickable-icon {
+    margin-left: 0
+}
+
+.if-else-block-container.svelte-1k21190.svelte-1k21190 {
+    display: grid;
+    grid-template-columns: 1fr;
+    border: 2px solid grey;
+    border-radius: 0.25rem;
+    min-height: 2rem;
+    padding: 0.25rem
+}
+
+.collapse-container.svelte-1k21190.svelte-1k21190 {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    gap: 0.25rem
+}
+
+.collapsible.svelte-1k21190.svelte-1k21190 {
+    border-left: 2px solid grey;
+    padding-left: 0.25rem
+}
+
+.statblock-creator-container.svelte-1e3b779.svelte-1e3b779 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+    gap: 0.25rem
+}
+
+body:not(.is-mobile) .statblock-creator-container.svelte-1e3b779:not(:hover)>.icons.svelte-1e3b779 {
+    visibility: hidden
+}
+
+.statblock-creator-block.svelte-1e3b779.svelte-1e3b779 {
+    width: 100%
+}
+
+.icons.svelte-1e3b779.svelte-1e3b779 {
+    display: flex;
+    justify-content: flex-end
+}
+
+.statblock-creator-container.svelte-1e3b779 .icons.svelte-1e3b779 {
+    align-items: center
+}
+
+.icon.svelte-1e3b779:not(:first-child) .clickable-icon {
+    margin-left: 0
+}
+
+.layout.svelte-1e3b779.svelte-1e3b779 {
+    border: 2px dashed grey
+}
+
+.property-block-container.svelte-r3p86y {
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.info.svelte-r3p86y {
+    display: flex;
+    flex-flow: column
+}
+
+.context.svelte-r3p86y {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    color: var(--text-muted)
+}
+
+.context-item.svelte-r3p86y {
+    display: flex;
+    align-items: center
+}
+
+ul.spell-item.svelte-5m4k7u {
+    margin: 0
+}
+
+ul.spell-item.svelte-5m4k7u:first-of-type {
+    margin-top: revert
+}
+
+ul.spell-item.svelte-5m4k7u:last-of-type {
+    margin-bottom: revert
+}
+
+.spells.svelte-5m4k7u {
+    font-style: italic
+}
+
+.statblock-markdown.svelte-1c3hzq4 {
+    display: inline
+}
+
+.statblock-markdown.svelte-1c3hzq4 p {
+    display: inline
+}
+
+.statblock-markdown.svelte-1c3hzq4 p~p {
+    display: inline-block
+}
