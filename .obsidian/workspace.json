@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bella Sunbane.md"
+                "file": "Characters/Offalia Wormwiggle.md"
               }
             }
           },
@@ -286,6 +286,7 @@
   "active": "ccbc112ad7d89351",
   "lastOpenFiles": [
     "Characters/Morgantha.md",
+    "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
     "Locations/Old Bonegrinder (O).md",
     "reference/spells/Ray of Sickness.md",
@@ -310,7 +311,6 @@
     "reference/spells/Water Breathing.md",
     "reference/spells/Warding Bond.md",
     "reference/spells/Wall of Ice.md",
-    "reference/spells/Wall of Thorns.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",

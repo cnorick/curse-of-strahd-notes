@@ -52,9 +52,6 @@ monster: Dretch
 ```
 
 ### Spells
-
-^38b962
-
 - 1st level (4 slots):
 	- ![[Identify]]
 	- [[Ray of Sickness]]
