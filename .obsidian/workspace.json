@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af87ac1cc9863f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Madalena.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Haliq.md",
+                "file": "Madalena.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Haliq.md",
+                "file": "Madalena.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Haliq.md"
+                "file": "Madalena.md"
               }
             }
           },
@@ -247,9 +259,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3e3178af37d197f0",
+  "active": "af87ac1cc9863f55",
   "lastOpenFiles": [
     "Dhavit.md",
+    "Madalena.md",
     "Haliq.md",
     "Fiona Wachter.md",
     "Ernst Larnak.md",
@@ -294,7 +307,6 @@
     "Characters/Vargas Vallakovich.md",
     "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Tser Pool Map.md",
-    "Handouts/Maps/Tser Falls Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
