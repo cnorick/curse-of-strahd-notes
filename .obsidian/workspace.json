@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "9264cc6ed7602aa7",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myrtle.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Myrtle.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myrtle.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -266,11 +266,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "20fef0035421b8f9",
+  "active": "8dcca2aba3842e9f",
   "lastOpenFiles": [
-    "Locations/Old Bonegrinder (O).md",
     "Myrtle.md",
     "Freek.md",
+    "Locations/Old Bonegrinder (O).md",
     "reference/Human.md",
     "reference/npcs/Commoner.md",
     "Lucian.md",
