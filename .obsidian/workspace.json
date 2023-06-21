@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Van Richten's Tower (V).md",
+                "file": "Locations/The Amber Temple (X).md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Van Richten's Tower (V).md",
+                "file": "Locations/The Amber Temple (X).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Van Richten's Tower (V).md",
+                "file": "Locations/The Amber Temple (X).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Van Richten's Tower (V).md"
+                "file": "Locations/The Amber Temple (X).md"
               }
             }
           },
@@ -256,10 +256,12 @@
   },
   "active": "887fefe960ef4e00",
   "lastOpenFiles": [
+    "Locations/The Wizard of Wines (W).md",
+    "Locations/The Amber Temple (X).md",
+    "Locations/Van Richten's Tower (V).md",
     "Locations/Ruins of Berez (U).md",
     "Locations/Tsolenka Pass (T).md",
     "Locations/Village of Krezk (S).md",
-    "Locations/Van Richten's Tower (V).md",
     "Locations/Raven River Crossroads (R).md",
     "Locations/Argynvostholt (Q).md",
     "Locations/Luna River Crossroads (P).md",
@@ -281,8 +283,6 @@
     "Karl Wachter.md",
     "Characters/Strahd Von Zarovich.md",
     "Victor Vallakovich.md",
-    "Characters/Vargas Vallakovich.md",
-    "Characters/Lydia Petrovna.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",
