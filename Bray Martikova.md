@@ -1,9 +1,9 @@
 ---
-aliases: [Brom]
+aliases: [Bray]
 ---
 (LG wereraven boy noncombatant)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Brom Martikova
+## Playing Bray Martikova
 
 ## History/Info
 
@@ -16,7 +16,7 @@ aliases: [Brom]
 ## Relations
 father: [[Urwin Martikov]]
 mother: [[Danika Dorakova]]
-brother: [[Bray Martikova]]
+brother: [[Brom Martikova]]
 
 ## Stat Block
 
