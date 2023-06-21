@@ -28,5 +28,7 @@
 	- [ ] (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake)
 - [ ] There's a [[Vistani]] camp in the woods southwest of town ([[area N9]]). The Vistani there aren't very friendly
 	- [ ] Vistani aren't welcome in [[The Town of Vallaki (N)|Vallaki]].
-- [ ] West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.
-- [ ] South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.
+- [ ] West of town is a haunted mansion (see [[Argynvostholt (Q)]])
+	- [ ] Legend has it that a dragon died there long, long ago
+- [ ] South of town is a village that has been abandoned for decades
+	- [ ] Its burgomaster committed some terrible offense and incurred the wrath of [[Strahd Von Zarovich|Strahd]]
