@@ -1,6 +1,7 @@
 ---
 statblock: true
-name: Night Hag with Inline Spells
+name: Foobar
+t
 spells:
 	- 1st level (4 slots): identify, ray of sickness
 	- 2nd level (3 slots): hold person, locate object
@@ -11,7 +12,7 @@ spells:
 ---
 
 ```statblock
-monster: Night Hag
+monster: Foobar
 ```
 
 	- At will: detect magic, magic missile
