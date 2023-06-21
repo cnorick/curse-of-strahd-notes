@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/spells/Shatter 1.md",
+                "file": "reference/spells/Ray of Sickness.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Shatter 1.md",
+                "file": "reference/spells/Ray of Sickness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Shatter 1.md",
+                "file": "reference/spells/Ray of Sickness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Shatter 1.md"
+                "file": "reference/spells/Ray of Sickness.md"
               }
             }
           },
@@ -286,7 +286,7 @@
   "active": "5b03c0306a4eb93b",
   "lastOpenFiles": [
     "reference/spells/Identify.md",
-    "reference/spells/Shatter 1.md",
+    "reference/spells/Ray of Sickness.md",
     "Characters/Morgantha.md",
     "reference/monsters/Hags.md",
     "Session Notes/Session 6.md",
