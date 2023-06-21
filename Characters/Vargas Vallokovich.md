@@ -9,6 +9,7 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
 - catchphrase: "All will be well!"
 
 ## History/Info
+- 
 
 ## What They Want
 - Wants the town to be safe from [[Strahd Von Zarovich|Strahd]]
