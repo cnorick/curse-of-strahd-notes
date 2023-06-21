@@ -72,4 +72,4 @@ spells:
   - 7th level (1 slots): fire storm, regenerate
   - 8th level (1 slots): earthquake
 spellsNotes: ""
-monster: Madam Eva
+---
