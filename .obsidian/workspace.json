@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arrigal.md",
+                "file": "Luvash.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrigal.md",
+                "file": "Luvash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrigal.md",
+                "file": "Luvash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrigal.md"
+                "file": "Luvash.md"
               }
             }
           },
@@ -285,8 +285,9 @@
   },
   "active": "4899e72c64783c25",
   "lastOpenFiles": [
-    "Stella Wachter.md",
     "Arrigal.md",
+    "Luvash.md",
+    "Stella Wachter.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
     "Henrik van der Voort.md",
     "Gadof Blinsky.md",
@@ -330,7 +331,6 @@
     "Custom Monsters/Child Wereraven.md",
     "Danika Dorakova.md",
     "Urwin Martikov.md",
-    "Characters/Rictavio.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
