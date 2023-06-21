@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: null
+image: [[Rictavio-Token.png]]
 name: Rictavio
 source:
   - Curse of Strahd
@@ -65,8 +65,6 @@ spells:
   - 4th level (3 slots): death ward, freedom of movement
   - 5th level (1 slots): dispel evil and good
 spellsNotes: ""
-monster: Rictavio
-
 ---
 
 ```statblock
