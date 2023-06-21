@@ -116,7 +116,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "reference/monsters/Aboleth.md",
                 "mode": "source",
                 "source": false
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "reference/monsters/Aboleth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "reference/monsters/Aboleth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Character.md"
+                "file": "reference/monsters/Aboleth.md"
               }
             }
           },
@@ -315,27 +315,40 @@
   },
   "active": "826736cc02f1659d",
   "lastOpenFiles": [
-    "Session Notes/Session 5.md",
-    "Locations/Old Bonegrinder (O).md",
-    "Characters/Morgantha.md",
-    "Misc/RAW/Hag Eye.md",
-    "Characters/Bella Sunbane.md",
     "Assets/Templates/Character.md",
-    "Characters/Cyrus Belview.md",
-    "Misc/RAW/Adventuring Gear.md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
-    "Misc/Card Reading.md",
-    "Misc/RAW/Lycanthropy.md",
-    "Misc/Map of Barovia.md",
-    "Misc/Mechanics of Dream Pastries.md",
+    "reference/spells/Zone of Truth.md",
+    "reference/spells/Word of Recall.md",
+    "reference/spells/Wish.md",
+    "reference/spells/Wind Wall.md",
+    "reference/spells/Wind Walk.md",
+    "reference/spells/Weird.md",
+    "reference/spells/Web.md",
+    "reference/spells/Water Walk.md",
+    "reference/spells/Water Breathing.md",
+    "reference/spells/Warding Bond.md",
+    "reference/spells/Wall of Ice.md",
+    "reference/spells/Wall of Thorns.md",
+    "reference/spells/Wall of Stone.md",
+    "reference/spells/Wall of Force.md",
+    "reference/spells/Wall of Fire.md",
+    "reference/spells/Unseen Servant.md",
+    "reference/spells/Vampiric Touch.md",
+    "reference/spells/Vicious Mockery.md",
+    "reference/spells/True Strike.md",
+    "reference/spells/True Resurrection.md",
+    "reference/spells/True Seeing.md",
+    "reference/spells/Tree Stride.md",
+    "reference/spells/True Polymorph.md",
+    "reference/spells/Transport via Plants.md",
+    "reference/spells/Tongues.md",
+    "reference/spells",
+    "reference/npcs",
+    "reference/monsters",
+    "reference/items",
+    "reference/creatures",
+    "reference",
     "Misc/Peoples and Lore",
     "Misc/RAW",
-    "Misc/RAW/Pale Tincture (Ingested).md",
-    "Misc/RAW/Cackle Fever.md",
-    "Characters/Offalia Wormwiggle.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Handouts/Maps/The Windmill Map.md",
-    "Handouts/Images/Places/The Windmill.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
@@ -345,22 +358,9 @@
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_village_tagged.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
-    "Characters/Strahd Von Zarovich.md",
     "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
-    "Session Notes/Session 6.md",
-    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v1-letter.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/barovia-map.html",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
