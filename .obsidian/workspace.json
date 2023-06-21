@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a4f66b35e9ffaaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "9264cc6ed7602aa7",
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Freek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Freek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Freek.md"
               }
             }
           },
@@ -242,10 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8dcca2aba3842e9f",
+  "active": "8a4f66b35e9ffaaf",
   "lastOpenFiles": [
-    "Lucian.md",
     "Locations/Old Bonegrinder (O).md",
+    "Freek.md",
+    "Lucian.md",
     "Handouts/Maps/The Windmill Map.md",
     "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
@@ -269,7 +282,6 @@
     "reference/spells/Web.md",
     "reference/spells/Water Walk.md",
     "reference/spells/Water Breathing.md",
-    "reference/spells/Warding Bond.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",

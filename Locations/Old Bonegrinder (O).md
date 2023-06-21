@@ -116,11 +116,12 @@ If [[Bella Sunbane|Bella]] is still here:
 	- The outward-facing side of each crate is fitted with a small door that has an iron latch and iron hinges
 	- It can be unlatched and opened easily from the outside
 - The two captured children (LG male and female noncombatants) were taken from the village of Barovia after being given to the hags by their parents in exchange for dream pastries
-	- The boy, [[Freek]], is seven years old
+	- The boy, [[Freek]], is seven years old (has no soul)
 	- The girl, [[Myrtle]], is barely five
 	- Their crates are full of crumbs, as the hags are fattening them up
 	- If freed, neither child wants to go home, because of what their parents did
-	- They both speak kindly of [[Ismark and Ireena in Barovia, hoping to be taken to them.
+	- They both speak kindly of [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] in Barovia, hoping to be taken to them
+		- They're very happy to see [[Ireena Kolyana|Ireena]]
 
 ### Domed Attic (O4)
 
