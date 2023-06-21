@@ -1,7 +1,7 @@
 ---
 aliases: []
 ---
-(NE human)
+(N female human girl)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Arabell
 
@@ -11,8 +11,10 @@ aliases: []
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
+father: [[Luvash]]
 
 ## Stat Block
 

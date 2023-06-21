@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "a44790ff28cd0134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alexei.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d0b3e134becea3a6",
             "type": "leaf",
             "state": {
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabell.md",
+                "file": "Alexei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arabell.md",
+                "file": "Alexei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arabell.md"
+                "file": "Alexei.md"
               }
             }
           },
@@ -283,9 +295,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d0b3e134becea3a6",
+  "active": "a44790ff28cd0134",
   "lastOpenFiles": [
     "Luvash.md",
+    "Alexei.md",
     "Arabell.md",
     "Lord Nikolai Wachter.md",
     "Handouts/Images/Portraits/Portrait of Luvash.md",
@@ -330,7 +343,6 @@
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg.crdownload",
     "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Bray Martikova.md",
-    "Brom Martikova.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
