@@ -102,27 +102,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "af9e6940bbdb2c93",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "76f07808037be4b5",
+            "id": "c97a5d43c89183c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Morgantha.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -196,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bella Sunbane.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -277,12 +271,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "76f07808037be4b5",
+  "active": "c97a5d43c89183c0",
   "lastOpenFiles": [
+    "Session Notes/Session 6.md",
+    "Handouts/Maps/The Windmill Map.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Night Hag.md",
     "reference/monsters/Hags.md",
+    "Characters/Bella Sunbane.md",
     "reference/monsters/Aboleth.md",
     "Characters/Morgantha.md",
-    "Characters/Bella Sunbane.md",
     "Characters/Cyrus Belview.md",
     "Session Notes/Session 5.md",
     "Assets/Templates/Character.md",
@@ -301,10 +299,6 @@
     "reference/spells/Wall of Stone.md",
     "reference/spells/Wall of Force.md",
     "reference/spells/Wall of Fire.md",
-    "reference/spells/Unseen Servant.md",
-    "reference/spells/Vampiric Touch.md",
-    "reference/spells/Vicious Mockery.md",
-    "reference/spells/True Strike.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
