@@ -121,21 +121,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "97f4ffc3c1cfaca7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/monsters/Hags.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/monsters/Hags.md",
+                "file": "Characters/Bella Sunbane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/monsters/Hags.md",
+                "file": "Characters/Bella Sunbane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/monsters/Hags.md"
+                "file": "Characters/Bella Sunbane.md"
               }
             }
           },
@@ -290,13 +277,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "97f4ffc3c1cfaca7",
+  "active": "76f07808037be4b5",
   "lastOpenFiles": [
+    "reference/monsters/Hags.md",
+    "reference/monsters/Aboleth.md",
     "Characters/Morgantha.md",
     "Characters/Bella Sunbane.md",
     "Characters/Cyrus Belview.md",
     "Session Notes/Session 5.md",
-    "reference/monsters/Aboleth.md",
     "Assets/Templates/Character.md",
     "reference/spells/Zone of Truth.md",
     "reference/spells/Word of Recall.md",
@@ -317,7 +305,6 @@
     "reference/spells/Vampiric Touch.md",
     "reference/spells/Vicious Mockery.md",
     "reference/spells/True Strike.md",
-    "reference/spells/True Resurrection.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
