@@ -105,9 +105,12 @@ Inside the cabinet:
 
 ### Bedroom (O3)
 If [[Bella Sunbane|Bella]] is still here:
->Another old woman is here sitting on the side of the bed
+>Another old woman is here sitting on the side of the bed pricking a small child with a needle as she cries
 
 >In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine-foot-high ceiling. A moldy bed with a tattered canopy stands nearby.
+
+- The discarded clothing belongs to children whom the night hags have already devoured
+- The trapdoor in the ceiling can be pushed open to reveal [area O4](http://longo.com.br/5e/adventure.html#CoS,6,o4.%20domed%20attic).
 
 ### Domed Attic (O4)
 
