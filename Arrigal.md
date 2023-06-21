@@ -11,13 +11,15 @@ aliases: []
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
+- brother: [[Luvash]]
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Bandit Captain
 ```
 
 ```dataviewjs
