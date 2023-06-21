@@ -111,42 +111,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "826736cc02f1659d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reference/monsters/Aboleth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "324b70c019b08294",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b1620b47ca3e3cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Cyrus Belview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "76f07808037be4b5",
             "type": "leaf",
             "state": {
@@ -157,8 +121,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97f4ffc3c1cfaca7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Morgantha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/monsters/Aboleth.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/monsters/Aboleth.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/monsters/Aboleth.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -313,8 +290,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "826736cc02f1659d",
+  "active": "97f4ffc3c1cfaca7",
   "lastOpenFiles": [
+    "Characters/Bella Sunbane.md",
+    "Characters/Cyrus Belview.md",
+    "Session Notes/Session 5.md",
+    "reference/monsters/Aboleth.md",
     "Assets/Templates/Character.md",
     "reference/spells/Zone of Truth.md",
     "reference/spells/Word of Recall.md",
@@ -337,10 +318,6 @@
     "reference/spells/True Strike.md",
     "reference/spells/True Resurrection.md",
     "reference/spells/True Seeing.md",
-    "reference/spells/Tree Stride.md",
-    "reference/spells/True Polymorph.md",
-    "reference/spells/Transport via Plants.md",
-    "reference/spells/Tongues.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
