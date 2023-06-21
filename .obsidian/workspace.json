@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Custom Monsters/Strahd Statblock.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Custom Monsters/Strahd Statblock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Custom Monsters/Strahd Statblock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md"
+                "file": "Custom Monsters/Strahd Statblock.md"
               }
             }
           },
@@ -256,6 +256,8 @@
   },
   "active": "5d7d6ade5cc9aaca",
   "lastOpenFiles": [
+    "Characters/Offalia Wormwiggle.md",
+    "Custom Monsters/Strahd Statblock.md",
     "Characters/Bella Sunbane.md",
     "Characters/Morgantha.md",
     "Custom Monsters/Night Hag (Spells Inlined).md",
@@ -293,8 +295,6 @@
     "reference/spells/Seeming.md",
     "reference/Half-Orc.md",
     "reference/Between Adventures.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 2.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
