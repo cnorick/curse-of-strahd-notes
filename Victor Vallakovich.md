@@ -20,6 +20,8 @@ aliases: [Victor, The Baronet]
 [[Vallaki Lore]]
 
 ## Relations
+- father: [[Vargas Vallakovich]]
+- mother: [[Lydia Petrovna]]
 
 ## Stat Block
 

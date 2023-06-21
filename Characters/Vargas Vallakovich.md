@@ -1,9 +1,9 @@
 ---
-aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
+aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, The Burgomaster]
 ---
 (NE male human noble)
 ![[Baron_Vargas_Vallakovich.jpg|200]]
-## Playing Vargas Vallokovich
+## Playing Vargas Vallakovich
 - ruthless heel
 	- prides himself on his good breeding and finely honed leadership skills
 - catchphrase: "All will be well!"
