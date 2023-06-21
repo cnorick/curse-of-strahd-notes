@@ -1,7 +1,7 @@
 ---
 statblock: true
 name: Foobar
-t
+size: small
 spells:
 	- 1st level (4 slots): identify, ray of sickness
 	- 2nd level (3 slots): hold person, locate object
@@ -12,7 +12,7 @@ spells:
 ---
 
 ```statblock
-monster: Foobar
+monster: custom/Foobar
 ```
 
 	- At will: detect magic, magic missile
