@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Lady Fiona Wachter, Fiona]
 ---
 (NE human)
 ![[Arik the Barkeep V2.webp|200]]
