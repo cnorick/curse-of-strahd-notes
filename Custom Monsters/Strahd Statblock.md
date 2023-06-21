@@ -137,3 +137,9 @@ monster: Strahd von Zarovich
 ```statblock
 monster: Strahd von Zarovich
 ```
+
+```statblock
+monster: Madam Eva
+```
+```dataviewjs
+```
