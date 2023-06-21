@@ -23,7 +23,8 @@ Closer investigation:
 	- [[Bella Sunbane|Bella]] is somewhere upstairs too, but comes down every now and then to check the pies
 	- [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
 	- [[Morgantha]] comes in much later disguised as Granny with her cart of pies
-		- She also has a large wiggling sack contain a little boy she took as payment [[Luci
+		- She also has a large wiggling sack contain a little boy she took as payment [[Lucien]]
+  
 - All three disguise themselves as old women in their late 50s (daughters) and 70s (Morgantha)
 - If the players knock, they hear some shuffling, and [[Bella Sunbane|Bella]] comes to the door
 	- [[Bella Sunbane|Bella]] is really friendly and invites them inside
@@ -59,6 +60,8 @@ Closer investigation:
 - Don't bring [[Morgantha]] in until later, because the party will have hard time beating a complete coven
 	- Wait 10-15 turns
 	- Don't immediately bring her into combat
+- Exploit [[Ireena Kolyana|Ireena]]'s safety
+	- They use their action to disengage from her instead of attacking
 
 ## Areas
 ### Ground Floor
