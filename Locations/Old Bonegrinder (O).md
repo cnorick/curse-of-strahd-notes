@@ -62,6 +62,8 @@ Closer investigation:
 	- Don't immediately bring her into combat
 - Exploit [[Ireena Kolyana|Ireena]]'s safety
 	- They use their action to disengage from her instead of attacking
+- Bring in 3 [[Swarm of Ravens]] to help
+	- make it cinematic
 
 ## Areas
 ### Ground Floor
