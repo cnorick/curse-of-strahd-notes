@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Blur.md",
+                "file": "reference/creatures/Mastiff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Blur.md",
+                "file": "reference/creatures/Mastiff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Blur.md"
+                "file": "reference/creatures/Mastiff.md"
               }
             }
           },
@@ -218,7 +218,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Blur.md",
+                    "file": "reference/creatures/Mastiff.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -239,40 +239,42 @@
   },
   "active": "2215eb386c4351f6",
   "lastOpenFiles": [
-    "reference/spells/Branding Smite.md",
-    "reference/spells/Burning Hands.md",
-    "reference/spells/Call Lightning.md",
-    "reference/spells/Calm Emotions.md",
-    "reference/spells/Chain Lightning.md",
-    "reference/spells/Charm Person.md",
-    "reference/spells/Chill Touch.md",
-    "reference/spells/Circle of Death.md",
-    "reference/spells/Clairvoyance.md",
-    "reference/spells/Clone.md",
-    "reference/spells/Color Spray.md",
-    "reference/spells/Cloudkill.md",
-    "reference/spells/Command.md",
-    "reference/spells/Commune with Nature.md",
-    "reference/spells/Commune.md",
-    "reference/spells/Comprehend Languages.md",
-    "reference/spells/Compulsion.md",
-    "reference/spells/Cone of Cold.md",
-    "reference/spells/Confusion.md",
-    "reference/spells/Conjure Animals.md",
-    "reference/spells/Conjure Celestial.md",
-    "reference/spells/Conjure Elemental.md",
-    "reference/spells/Conjure Fey.md",
-    "reference/spells/Conjure Minor Elementals.md",
-    "reference/spells/Conjure Woodland Beings.md",
-    "reference/spells/Contact Other Plane.md",
-    "reference/spells",
-    "reference/npcs",
-    "reference/monsters",
-    "reference/items",
-    "reference/creatures",
-    "reference",
-    "Misc/Peoples and Lore",
-    "Misc/RAW",
+    "reference/creatures/Mule.md",
+    "reference/creatures/Octopus.md",
+    "reference/creatures/Owl.md",
+    "reference/creatures/Panther.md",
+    "reference/creatures/Phase Spider.md",
+    "reference/creatures/Poisonous Snake.md",
+    "reference/creatures/Polar Bear.md",
+    "reference/creatures/Pony.md",
+    "reference/creatures/Quipper.md",
+    "reference/creatures/Rat.md",
+    "reference/creatures/Raven.md",
+    "reference/creatures/Reef Shark.md",
+    "reference/creatures/Rhinoceros.md",
+    "reference/creatures/Riding Horse.md",
+    "reference/creatures/Saber-Toothed Tiger.md",
+    "reference/creatures/Scorpion.md",
+    "reference/creatures/Sea Horse.md",
+    "reference/creatures/Spider.md",
+    "reference/creatures/Swarm of Bats.md",
+    "reference/creatures/Swarm of Insects.md",
+    "reference/creatures/Swarm of Poisonous Snakes.md",
+    "reference/creatures/Swarm of Quippers.md",
+    "reference/creatures/Swarm of Rats.md",
+    "reference/creatures/Swarm of Ravens.md",
+    "reference/creatures/Tiger.md",
+    "reference/creatures/Vulture.md",
+    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-6.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
@@ -283,8 +285,6 @@
     "Assets/Images/Maps/barovia_village_tagged.jpg",
     "Assets/Images/Maps/barovia_village_untagged.jpg",
     "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
-    "Website/no-spoilers/campaign-notes/handouts/letters/kolyan-indirovich's-v1-letter.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
