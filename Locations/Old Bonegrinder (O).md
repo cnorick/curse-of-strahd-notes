@@ -95,7 +95,7 @@ Inside the cabinet:
 - The powder is ground bone: DC 18 survival
 
 ### Bone Mill (O2)
->A \[set of] haggard, heavyset old woman with a face as wrinkled as a boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
+>\An ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mops of black hair sweeps the floor. One is pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
 >
 >The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up.
 
