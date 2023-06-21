@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,19 +48,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "34dd8a90e5c3039b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Handouts/Maps/River Ivlis Crossroads Map.md"
               }
             }
           },
@@ -217,6 +207,12 @@
   },
   "active": "3cc6f239c45f958c",
   "lastOpenFiles": [
+    "Handouts/Maps/Old Svalich Road Map.md",
+    "Handouts/Maps/Barovia Church Map.md",
+    "Handouts/Maps/Barovia Map.md",
+    "Handouts/Maps/Vallaki/Vallaki Map.md",
+    "Locations/The Town of Vallaki (N).md",
+    "Handouts/Maps/Vallaki",
     "Characters/Izek Strazni.md",
     "Custom Monsters/Dog.md",
     "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp",
@@ -245,11 +241,6 @@
     "Locations/Van Richten's Tower (V).md",
     "Locations/Ruins of Berez (U).md",
     "Locations/Tsolenka Pass (T).md",
-    "Locations/Village of Krezk (S).md",
-    "Locations/Raven River Crossroads (R).md",
-    "Locations/Argynvostholt (Q).md",
-    "Locations/Luna River Crossroads (P).md",
-    "Locations/Mount Baratok (M).md",
     "Locations/Untitled",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
@@ -260,7 +251,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Misc/Templates/Untitled.canvas",
