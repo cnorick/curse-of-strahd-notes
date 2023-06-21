@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b03c0306a4eb93b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reference/spells/Shatter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "reference/spells/Shatter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "reference/spells/Shatter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "reference/spells/Shatter 1.md"
               }
             }
           },
@@ -271,10 +283,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c97a5d43c89183c0",
+  "active": "5b03c0306a4eb93b",
   "lastOpenFiles": [
-    "reference/monsters/Hags.md",
+    "reference/spells/Identify.md",
+    "reference/spells/Shatter 1.md",
     "Characters/Morgantha.md",
+    "reference/monsters/Hags.md",
     "Session Notes/Session 6.md",
     "Handouts/Maps/The Windmill Map.md",
     "Characters/Strahd Von Zarovich.md",
@@ -297,8 +311,6 @@
     "reference/spells/Wall of Ice.md",
     "reference/spells/Wall of Thorns.md",
     "reference/spells/Wall of Stone.md",
-    "reference/spells/Wall of Force.md",
-    "reference/spells/Wall of Fire.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",

@@ -49,7 +49,7 @@ monster: Dretch
 
 - 1st level (4 slots):
 	- [[Identify]]
-	- [[ray of sickness]]
+	- [[Ray of Sickness]]
 - 2nd level (3 slots): 
 	- [[Hold Person]]
 	- [[Locate Object]]
