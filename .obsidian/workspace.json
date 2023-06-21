@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -241,10 +241,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c97a5d43c89183c0",
+  "active": "5312ed12d8dc3a38",
   "lastOpenFiles": [
-    "Characters/Offalia Wormwiggle.md",
     "Characters/Morgantha.md",
+    "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
     "Locations/Old Bonegrinder (O).md",
     "reference/spells/Ray of Sickness.md",
