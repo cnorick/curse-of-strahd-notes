@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64cc7ab97621cf33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Udo Lukovich.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Udo Lukovich.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Udo Lukovich.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -211,10 +223,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f06bf0ebd9a7d286",
+  "active": "64cc7ab97621cf33",
   "lastOpenFiles": [
-    "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Udo Lukovich.md",
+    "Untitled.md",
+    "Assets/Images/People/Fiona Wachter and Majesto.jpg",
+    "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
+    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg.crdownload",
+    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg.crdownload",
+    "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Bray Martikova.md",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg.crdownload",
@@ -242,11 +261,7 @@
     "Handouts/Images/Portraits/Portrait of Milivoj.md",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
-    "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/DM Map - Blue Water Inn.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/DM Map - Blue Water Inn.jpg.crdownload",
     "Milivoj.md",
-    "Assets/Images/People/Milivoj.jpg",
-    "Assets/Images/People/Milivoj.jpg.crdownload",
     "Characters/Vargas Vallakovich.md",
     "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Tser Pool Map.md",
@@ -256,9 +271,6 @@
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Church Map.md",
     "Handouts/Maps/Barovia Map.md",
-    "Locations/The Town of Vallaki (N).md",
-    "Handouts/Maps/Vallaki",
-    "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
