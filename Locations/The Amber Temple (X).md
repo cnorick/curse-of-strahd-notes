@@ -1,2 +1,3 @@
 ---
-alia
+aliases: [The Amber Temple, Amber Temple]
+---
