@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Danika Dorakova.md",
+                "file": "Characters/Rictavio.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Danika Dorakova.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Danika Dorakova.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Danika Dorakova.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "41cd1a269500a5dc",
   "lastOpenFiles": [
+    "Danika Dorakova.md",
     "Custom Monsters/Rictavio Statblock.md",
     "Assets/Images/People/Rictavio-Token.png",
     "Assets/Images/People/Rictavio-Token.png.crdownload",
@@ -201,7 +202,6 @@
     "Assets/Images/People/Yevgeni Krushkin.jpg.crdownload",
     "Assets/Images/People/Szoldar Szoldarovich.jpg",
     "Assets/Images/People/Szoldar Szoldarovich.jpg.crdownload",
-    "Danika Dorakova.md",
     "Urwin Martikov.md",
     "The Keepers of the Feather.md",
     "Custom Monsters/Wereraven.md",

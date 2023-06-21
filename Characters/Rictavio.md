@@ -2,7 +2,7 @@
 aliases: ['Rudolf van Richten', 'van Richten']
 ---
 (NE human)
-![[Arik the Barkeep V2.webp|200]]
+![[Rictavio-Token.png|200]]
 ## Playing Rictavio
 
 ## History/Info
@@ -11,13 +11,14 @@ aliases: ['Rudolf van Richten', 'van Richten']
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Rictavio
 ```
 
 ```dataviewjs
