@@ -6,6 +6,7 @@ alias: Izek
 ## Playing Izek Strazni
 
 ## History/Info
+- In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square [[Area N8]]
 
 ## What They Want
 
