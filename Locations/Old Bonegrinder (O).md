@@ -22,7 +22,8 @@ Closer investigation:
 - [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there
 	- [[Bella Sunbane|Bella]] is somewhere upstairs too, but comes down every now and then to check the pies
 	- [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
-	- [[Morgantha]] comes in much later disguised as Granny
+	- [[Morgantha]] comes in much later disguised as Granny with her cart of pies
+		- She also has a large wiggling sack contain a little boy she took as payment [[Luci
 - All three disguise themselves as old women in their late 50s (daughters) and 70s (Morgantha)
 - If the players knock, they hear some shuffling, and [[Bella Sunbane|Bella]] comes to the door
 	- [[Bella Sunbane|Bella]] is really friendly and invites them inside
