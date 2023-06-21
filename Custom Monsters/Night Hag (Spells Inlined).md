@@ -3,7 +3,7 @@ statblock: true
 name: Night Hag with Spells Inlined
 extends: Night Hag
 spells:
-- Shared Spellcasting: While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+- Shared Spellcasting: While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves. For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
 - 1st level (4 slots): identify, ray of sickness
 - 2nd level (3 slots): hold person, locate object
 - 3rd level (3 slots): bestow curse, counterspell, lightning bolt
@@ -11,54 +11,9 @@ spells:
 - 5th level (2 slots): contact other plane, scrying
 - 6th level (1 slot): eye bite
 - Innate Spellcasting: The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
-  - At will: detect magic, magic missile
+- At will: detect magic, magic missile
+- 2/day each: plane shift (self only), ray of enfeeblement, sleep
 
-      2/day each: plane shift (self only), ray of enfeeblement, sleep
-    attack_bonus: 0
-  - name: Magic Resistance
-    desc: The hag has advantage on saving throws against spells and other magical
-      effects.
-    attack_bonus: 0
-  - name: Night Hag Items
-    desc: >-
-      A night hag carries two very rare magic items that she must craft for
-      herself If either object is lost, the night hag will go to great lengths
-      to retrieve it, as creating a new tool takes time and effort.
-
-      Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
-
-      Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
-    attack_bonus: 0
-  - name: Hag Coven
-    desc: >-
-      When hags must work together, they form covens, in spite of their selfish
-      natures. A coven is made up of hags of any type, all of whom are equals
-      within the group. However, each of the hags continues to desire more
-      personal power.
-
-      A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
-    attack_bonus: 0
-  - name: Shared Spellcasting (Coven Only)
-    desc: >-
-      While all three members of a hag coven are within 30 feet of one another,
-      they can each cast the following spells from the wizard's spell list but
-      must share the spell slots among themselves:
-
-
-      • 1st level (4 slots): identify, ray of sickness
-
-      • 2nd level (3 slots): hold person, locate object
-
-      • 3rd level (3 slots): bestow curse, counterspell, lightning bolt
-
-      • 4th level (3 slots): phantasmal killer, polymorph
-
-      • 5th level (2 slots): contact other plane, scrying
-
-      • 6th level (1 slot): eye bite
-
-
-      For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
     attack_bonus: 0
   - name: Hag Eye (Coven Only)
     desc: >-
