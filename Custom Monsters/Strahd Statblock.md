@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: null
+image: [[Assets/Images/People/strahd.jpeg]]
 name: Strahd von Zarovich
 source:
   - Curse of Strahd

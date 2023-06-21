@@ -85,21 +85,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5d7d6ade5cc9aaca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Monsters/Madam Eva Statblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -173,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Madam Eva Statblock.md",
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Madam Eva Statblock.md",
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Madam Eva Statblock.md"
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md"
               }
             }
           },
@@ -254,12 +242,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5d7d6ade5cc9aaca",
+  "active": "278dbf4623b1b015",
   "lastOpenFiles": [
     "Custom Monsters/Strahd Statblock.md",
-    "Custom Monsters/Madam Eva Statblock.md",
     "Custom Monsters/Night Hag (Spells Inlined).md",
     "Custom Monsters/Dog.md",
+    "Custom Monsters/Madam Eva Statblock.md",
     "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
     "Characters/Morgantha.md",
