@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Victor Vallakovich.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Victor Vallakovich.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Victor Vallakovich.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -229,10 +229,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ee762d0dbbd97b40",
+  "active": "8a8f0a200e798f0f",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
     "Victor Vallakovich.md",
+    "Characters/Morgantha.md",
     "Characters/Madam Eva.md",
     "reference/spells/Mage Hand.md",
     "Characters/Lydia Petrovna.md",
