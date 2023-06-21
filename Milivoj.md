@@ -2,7 +2,7 @@
 aliases: []
 ---
 (NE human)
-![[Arik the Barkeep V2.webp|200]]
+![[Milivoj.jpg|200]]
 ## Playing Milivoj
 
 ## History/Info
@@ -11,6 +11,7 @@ aliases: []
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 
