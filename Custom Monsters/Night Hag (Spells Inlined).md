@@ -1,6 +1,8 @@
 ---
 statblock: true
 name: Night Hag with Inline Spells
+source:
+  - Custom
 extends: Night Hag
 spells:
   - Innate Spellcasting -- The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components
