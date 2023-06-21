@@ -1,7 +1,7 @@
 ---
 aliases: [Brom]
 ---
-(LG wereraven boy)
+(LG wereraven boy noncombatant)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Brom Martikova
 
@@ -15,12 +15,13 @@ aliases: [Brom]
 
 ## Relations
 father: [[Urwin Martikov]]
-mother: 
+mother: [[Danika Dorakova]]
+brother: [[Bray Martikova]]
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Wereraven
 ```
 
 ```dataviewjs
