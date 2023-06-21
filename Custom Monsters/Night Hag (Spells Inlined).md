@@ -3,54 +3,15 @@ statblock: true
 name: Night Hag with Spells Inlined
 extends: Night Hag
 spells:
-- While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+- Shared Spellcasting: While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 - 1st level (4 slots): identify, ray of sickness
 - 2nd level (3 slots): hold person, locate object
 - 3rd level (3 slots): bestow curse, counterspell, lightning bolt
 - 4th level (3 slots): phantasmal killer, polymorph
 - 5th level (2 slots): contact other plane, scrying
 - 6th level (1 slot): eye bite
-
-monster: Night Hag
-
-name: Night Hag
-size: Medium
-type: fiend
-subtype: ""
-alignment: neutral evil
-ac: 17
-hp: 112
-hit_dice: 15d8 + 44
-speed: 30 ft.
-stats:
-  - 18
-  - 15
-  - 16
-  - 16
-  - 14
-  - 16
-skillsaves:
-  - deception: 7
-  - insight: 6
-  - perception: 6
-  - stealth: 6
-damage_vulnerabilities: ""
-damage_resistances: cold, fire; bludgeoning, piercing, and slashing from
-  nonmagical weapons that aren't silvered
-damage_immunities: ""
-condition_immunities: charmed
-senses: darkvision 120 ft., passive Perception 16
-languages: Abyssal, Common, Infernal, Primordial
-cr: "5"
-traits:
-  - name: Innate Spellcasting
-    desc: >-
-      The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to
-      hit with spell attacks). She can innately cast the following spells,
-      requiring no material components:
-
-
-      At will: detect magic, magic missile
+- Innate Spellcasting: The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+  - At will: detect magic, magic missile
 
       2/day each: plane shift (self only), ray of enfeeblement, sleep
     attack_bonus: 0
