@@ -68,10 +68,10 @@ Closer investigation:
 	- [[Myrtle]] and [[Lucien]] can try to pitch in if they find the right opportunity
 	- They don't fight directly, but may throw flower when the hags are invisible
 - Let one flee
-	- If they kill 2, try to let one flee so that they can have a
+	- If they kill 2, try to let one flee so that they can have a return arc
 
 ## Areas
-### Ground Floor
+### Ground Floor (1)
 >The ground floor has been converted into a makeshift kitchen, but the room is a bit disorganized and has a musty, lived-in air about it. Baskets and old dishware are piled in one corner. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.
 >
 >There is an open, upright barrel in the center of the room.
