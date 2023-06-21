@@ -75,18 +75,6 @@
             }
           },
           {
-            "id": "89453f938a8fe630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nikolai Wachter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "34dd8a90e5c3039b",
             "type": "leaf",
             "state": {
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nikolai Wachter.md",
+                "file": "Fiona Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nikolai Wachter.md",
+                "file": "Fiona Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nikolai Wachter.md"
+                "file": "Fiona Wachter.md"
               }
             }
           },
@@ -266,11 +254,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "89453f938a8fe630",
+  "active": "34dd8a90e5c3039b",
   "lastOpenFiles": [
-    "Fiona Wachter.md",
-    "Nikolai Wachter.md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
+    "Nikolai Wachter.md",
+    "Assets/Templates/Character.md",
+    "Karl Wachter.md",
+    "Fiona Wachter.md",
     "Characters/Strahd Von Zarovich.md",
     "Victor Vallakovich.md",
     "Characters/Vargas Vallakovich.md",
@@ -292,8 +282,6 @@
     "reference/Time.md",
     "reference/Tiefling.md",
     "reference/Spells.md",
-    "reference/The Environment.md",
-    "reference/Spellcasting.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",

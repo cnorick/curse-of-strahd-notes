@@ -1,9 +1,9 @@
 ---
-aliases: [Nikolai]
+aliases: [Karl]
 ---
 (NE human)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Nikolai Wachter
+## Playing Karl Wachter
 
 ## History/Info
 
@@ -14,7 +14,7 @@ aliases: [Nikolai]
 
 ## Relations
 - mother: [[Fiona Wachter]]
-- brother: [[Karl Wachter]]
+- brother: [[Nikolai Wachter]]
 
 ## Stat Block
 
