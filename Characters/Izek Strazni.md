@@ -13,6 +13,7 @@ alias: Izek
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 
