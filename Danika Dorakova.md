@@ -15,6 +15,7 @@ aliases: [Danika]
 
 ## Relations
 - husband: [[Urwin Martikov]]
+- sons: [[Brom Martikova]], [[Bray Martikova]]
 - member of: [[The Keepers of the Feather]]
 
 ## Stat Block
