@@ -20,6 +20,7 @@ aliases: [Lydia, The Baroness]
 ## Relations
 - brother: [[Father Lucian Petrovich]]
 - husband: [[Vargas Vallokovich]]
+- son: [[Victor Vallakovich]]
 
 ## Stat Block
 

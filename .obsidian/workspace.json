@@ -48,9 +48,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee762d0dbbd97b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Victor Vallakovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f212eaeedd9edfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Madam Eva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Characters/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Characters/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lydia Petrovna.md"
+                "file": "Characters/Madam Eva.md"
               }
             }
           },
@@ -205,10 +229,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f9a512c2b50b0184",
+  "active": "1f212eaeedd9edfa",
   "lastOpenFiles": [
-    "Father Lucian Petrovich.md",
+    "Victor Vallakovich.md",
+    "reference/spells/Mage Hand.md",
     "Characters/Lydia Petrovna.md",
+    "Father Lucian Petrovich.md",
     "Tasha Petrovna.md",
     "Characters/Vargas Vallokovich.md",
     "Characters/Izek Strazni.md",
@@ -244,8 +270,6 @@
     "Characters/Parriwimple.md",
     "Characters/Pelanil.md",
     "Characters/Rictavio.md",
-    "Characters/Queen Ravenovia.md",
-    "Characters/Rina.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
