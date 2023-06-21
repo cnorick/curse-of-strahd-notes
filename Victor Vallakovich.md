@@ -7,7 +7,9 @@ aliases: [Victor, The Baronet]
 - He's miserable, and doesn't want to live with his parents anymore
 
 ## History/Info
-- Has confined himself to the attic [[N3
+- Has confined himself to the attic [[area N3t]]
+	- to avoid the unwanted attention of his mother and disapproving glares of his father
+- Found an old spellbook in the mansion
 
 ## What They Want
 
