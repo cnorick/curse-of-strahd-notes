@@ -1,5 +1,5 @@
 (NE human)
-![[my
+![[Myrtle.jpg|200]]
 ## Playing Myrtle
 - A little girl, barely 5 years old
 
@@ -18,7 +18,7 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: Commoner
 ```
 
 ```dataviewjs
