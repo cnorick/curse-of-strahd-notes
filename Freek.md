@@ -1,6 +1,6 @@
-(NE human)
-![[Arik the Barkeep V2.webp|200]]
+(NE human boy)
 ## Playing Freek
+- He has no soul and should not be too talkative
 
 ## History/Info
 
@@ -14,7 +14,7 @@
 ## Stat Block
 
 ```statblock
-monster:
+monster: 
 ```
 
 ```dataviewjs
