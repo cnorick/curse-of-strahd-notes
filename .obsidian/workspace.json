@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Urwin Martikov.md",
+                "file": "Characters/Urwin Martikov.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Udo Lukovich.md",
+                "file": "Characters/Udo Lukovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Nikolai Wachter.md",
+                "file": "Handouts/Letters/Strahd's Invitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Nikolai Wachter.md",
+                "file": "Handouts/Letters/Strahd's Invitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Nikolai Wachter.md",
+                "file": "Handouts/Letters/Strahd's Invitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Nikolai Wachter.md"
+                "file": "Handouts/Letters/Strahd's Invitation.md"
               }
             }
           },
@@ -295,8 +295,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "d0b3e134becea3a6",
   "lastOpenFiles": [
+    "Characters/Udo Lukovich.md",
+    "Assets/Images/Strahd's Invitation.jpg",
+    "Assets/Images/Strahd's Invitation.jpg.crdownload",
+    "Characters/Nikolai Wachter.md",
     "Characters/Karl Wachter.md",
     "Characters/Danika Dorakova.md",
     "Characters/Arabelle.md",
@@ -326,7 +330,7 @@
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg.crdownload",
     "reference/Adventuring Gear.md",
     "Characters/Gunther Arasek.md",
-    "Yelena Arasek.md",
+    "Characters/Yelena Arasek.md",
     "Leo.md",
     "Characters/Fiona Wachter.md",
     "Characters/Haliq.md",
@@ -334,15 +338,10 @@
     "Characters/Madalena.md",
     "Characters/Dhavit.md",
     "Characters/Ernst Larnak.md",
-    "Characters/Nikolai Wachter.md",
-    "Udo Lukovich.md",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg.crdownload",
-    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg.crdownload",
-    "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
