@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lydia Petrovna.md",
+                "file": "Characters/Lydia Petrovna.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lydia Petrovna.md",
+                "file": "Characters/Lydia Petrovna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lydia Petrovna.md",
+                "file": "Characters/Lydia Petrovna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lydia Petrovna.md"
+                "file": "Characters/Lydia Petrovna.md"
               }
             }
           },
@@ -205,10 +205,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f9a512c2b50b0184",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
     "Characters/Vargas Vallokovich.md",
-    "Lydia Petrovna.md",
+    "Characters/Lydia Petrovna.md",
     "Characters/Izek Strazni.md",
     "Assets/Templates/Character.md",
     "Untitled.md",
