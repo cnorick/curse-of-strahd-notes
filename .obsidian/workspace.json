@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "e647011ed386d3e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gadof Blinsky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af87ac1cc9863f55",
             "type": "leaf",
             "state": {
@@ -128,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Henrik van der Voort.md",
+                "file": "Gadof Blinsky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Henrik van der Voort.md",
+                "file": "Gadof Blinsky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Henrik van der Voort.md"
+                "file": "Gadof Blinsky.md"
               }
             }
           },
@@ -283,10 +295,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c708d812579e7b50",
+  "active": "e647011ed386d3e0",
   "lastOpenFiles": [
-    "Stella Wachter.md",
     "Henrik van der Voort.md",
+    "Gadof Blinsky.md",
+    "Stella Wachter.md",
     "Assets/Images/People/Henrik van der Voort.jpg",
     "Assets/Images/People/Henrik van der Voort.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg",
@@ -330,7 +343,6 @@
     "Assets/Images/People/Rictavio-Token.png.crdownload",
     "Assets/Images/People/Rictavio.jpg",
     "Assets/Images/People/Rictavio.jpg.crdownload",
-    "Yevgeni Krushkin.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
