@@ -1,6 +1,7 @@
 ---
-aliases: [Vargas
-(NE human)
+aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich]
+---
+(NE male human noble)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Untitled
 
