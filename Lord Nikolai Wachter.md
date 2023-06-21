@@ -1,5 +1,5 @@
 ---
-aliases: [Nikolai Wachter, Nikolai]
+aliases: []
 ---
 (dead human)
 ![[Arik the Barkeep V2.webp|200]]
