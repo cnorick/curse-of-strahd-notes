@@ -1,5 +1,7 @@
 ---
-statblock: true
+statblock: inline
+---
+```statblock
 name: Night Hag with Spells Inlined
 extends: Night Hag
 spells:
