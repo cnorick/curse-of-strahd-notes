@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Control Water.md",
+                "file": "reference/creatures/Awakened Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Control Water.md",
+                "file": "reference/creatures/Awakened Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Control Water.md"
+                "file": "reference/creatures/Awakened Tree.md"
               }
             }
           },
@@ -313,7 +313,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Control Water.md",
+                    "file": "reference/creatures/Awakened Tree.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -334,32 +334,32 @@
   },
   "active": "d5d7179ab4f5c0f7",
   "lastOpenFiles": [
-    "reference/spells/Control Weather.md",
-    "reference/spells/Counterspell.md",
-    "reference/spells/Create Food and Water.md",
-    "reference/spells/Create or Destroy Water.md",
-    "reference/spells/Create Undead.md",
-    "reference/spells/Creation.md",
-    "reference/spells/Cure Wounds.md",
-    "reference/spells/Dancing Lights.md",
-    "reference/spells/Darkness.md",
-    "reference/spells/Darkvision.md",
-    "reference/spells/Daylight.md",
-    "reference/spells/Death Ward.md",
-    "reference/spells/Delayed Blast Fireball.md",
-    "reference/spells/Demiplane.md",
-    "reference/spells/Detect Evil and Good.md",
-    "reference/spells/Detect Magic.md",
-    "reference/spells/Detect Poison and Disease.md",
-    "reference/spells/Detect Thoughts.md",
-    "reference/spells/Dimension Door.md",
-    "reference/spells/Disguise Self.md",
-    "reference/spells/Disintegrate.md",
-    "reference/spells/Dispel Evil and Good.md",
-    "reference/spells/Dispel Magic.md",
-    "reference/spells/Divination.md",
-    "reference/spells/Divine Favor.md",
-    "reference/spells/Divine Word.md",
+    "reference/creatures/Axe Beak.md",
+    "reference/creatures/Baboon.md",
+    "reference/creatures/Badger.md",
+    "reference/creatures/Bat.md",
+    "reference/creatures/Black Bear.md",
+    "reference/creatures/Blink Dog.md",
+    "reference/creatures/Blood Hawk.md",
+    "reference/creatures/Boar.md",
+    "reference/creatures/Brown Bear.md",
+    "reference/creatures/Camel.md",
+    "reference/creatures/Cat.md",
+    "reference/creatures/Constrictor Snake.md",
+    "reference/creatures/Crab.md",
+    "reference/creatures/Crocodile.md",
+    "reference/creatures/Death Dog.md",
+    "reference/creatures/Deer.md",
+    "reference/creatures/Dire Wolf.md",
+    "reference/creatures/Draft Horse.md",
+    "reference/creatures/Eagle.md",
+    "reference/creatures/Elephant.md",
+    "reference/creatures/Elk.md",
+    "reference/creatures/Flying Snake.md",
+    "reference/creatures/Frog.md",
+    "reference/creatures/Giant Ape.md",
+    "reference/creatures/Giant Badger.md",
+    "reference/creatures/Giant Bat.md",
     "Assets/Images/Strahd's Invitation.jpg",
     "Assets/Images/Strahd's Invitation.jpg.crdownload",
     "Assets/Images/People/Luvash.jpg",
