@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "4899e72c64783c25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stella Wachter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af87ac1cc9863f55",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lord Nikolai Wachter.md",
+                "file": "Stella Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lord Nikolai Wachter.md",
+                "file": "Stella Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lord Nikolai Wachter.md"
+                "file": "Stella Wachter.md"
               }
             }
           },
@@ -259,10 +271,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4054059e4d6e748c",
+  "active": "4899e72c64783c25",
   "lastOpenFiles": [
-    "Fiona Wachter.md",
     "Lord Nikolai Wachter.md",
+    "Stella Wachter.md",
+    "Fiona Wachter.md",
     "Haliq.md",
     "Amalthia.md",
     "Madalena.md",
@@ -306,7 +319,6 @@
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
     "Milivoj.md",
-    "Characters/Vargas Vallakovich.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

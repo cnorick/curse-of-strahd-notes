@@ -15,6 +15,7 @@ aliases: [Nikolai Wachter, Nikolai]
 ## Relations
 - wife: [[Fiona Wachter]]
 - sons: [[Nikolai Wachter|Nikolai]], [[Karl Wachter|Karl]]
+- daughter: [[Stella Wachter]]
 
 ## Stat Block
 
