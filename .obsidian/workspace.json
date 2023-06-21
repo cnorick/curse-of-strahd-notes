@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "0a118207804c71d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gunther Arasek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af87ac1cc9863f55",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Gunther Arasek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Gunther Arasek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stella Wachter.md"
+                "file": "Gunther Arasek.md"
               }
             }
           },
@@ -271,10 +283,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4899e72c64783c25",
+  "active": "0a118207804c71d7",
   "lastOpenFiles": [
-    "Leo.md",
     "Stella Wachter.md",
+    "Gunther Arasek.md",
+    "Leo.md",
     "Lord Nikolai Wachter.md",
     "Fiona Wachter.md",
     "Haliq.md",
@@ -316,7 +329,6 @@
     "Assets/Images/People/Szoldar Szoldarovich.jpg.crdownload",
     "The Keepers of the Feather.md",
     "Custom Monsters/Wereraven.md",
-    "Handouts/Images/Portraits/Portrait of Milivoj.md",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
     "Misc/Templates/Untitled.canvas",
