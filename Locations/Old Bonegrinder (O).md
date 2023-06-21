@@ -71,7 +71,7 @@ Closer investigation:
 	- If they kill 2, try to let one flee so that they can have a return arc
 
 ## Areas
-### Ground Floor (1)
+### Ground Floor (O1)
 >The ground floor has been converted into a makeshift kitchen, but the room is a bit disorganized and has a musty, lived-in air about it. Baskets and old dishware are piled in one corner. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.
 >
 >There is an open, upright barrel in the center of the room.
@@ -94,6 +94,10 @@ Inside the cabinet:
 - Mother's Milk: a dose of [[Pale Tincture (Ingested)]]
 - The powder is ground bone: DC 18 survival
 
+### Bone Mill (O2)
+- Unless lured else
+### Bedroom (O3)
+### Domed Attic (O4)
 
 ### The Megaliths
 
