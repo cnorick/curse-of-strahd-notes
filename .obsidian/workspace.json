@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bray Martikova.md",
+                "file": "Handouts/Maps/Vallaki/Vallaki Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bray Martikova.md",
+                "file": "Handouts/Maps/Vallaki/Vallaki Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bray Martikova.md",
+                "file": "Handouts/Maps/Vallaki/Vallaki Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bray Martikova.md"
+                "file": "Handouts/Maps/Vallaki/Vallaki Map.md"
               }
             }
           },
@@ -201,12 +201,12 @@
   },
   "active": "26e65d6845c2d5cb",
   "lastOpenFiles": [
+    "Bray Martikova.md",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/DM Map - Burgomaster's Mansion.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/Map - Burgomaster's Mansion.jpg",
     "Assets/Images/Maps/Vallaki Valley/Burgomaster's Mansion/Map - Burgomaster's Mansion.jpg.crdownload",
     "Brom Martikova.md",
-    "Bray Martikova.md",
     "Custom Monsters/Child Wereraven.md",
     "Danika Dorakova.md",
     "Urwin Martikov.md",
@@ -246,7 +246,6 @@
     "Locations/The Town of Vallaki (N).md",
     "Handouts/Maps/Vallaki",
     "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp",
-    "Assets/Images/Maps/Vallaki Valley/DM Map - Vallaki.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
