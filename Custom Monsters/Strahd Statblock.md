@@ -1,7 +1,7 @@
 ---
 statblock: true
 image: null
-name: Strahd von Zarovich 2
+name: Strahd von Zarovich
 source:
   - Curse of Strahd
 type: undead
@@ -135,5 +135,5 @@ monster: Strahd von Zarovich
 ---
 
 ```statblock
-monster: Strahd von Zarovich 2
+monster: Strahd von Zarovich
 ```

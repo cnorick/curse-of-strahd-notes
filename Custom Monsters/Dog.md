@@ -1,6 +1,8 @@
 ---
 statblock: true
 name: Dog
+source:
+	- Custom
 size: small
 type: beast
 alignment: lawful good
