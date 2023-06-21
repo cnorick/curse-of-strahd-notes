@@ -16,7 +16,7 @@ spells:
 ---
 
 ```statblock
-monster: Night
+monster: Night Hag
 ```
 
 ```dataviewjs
