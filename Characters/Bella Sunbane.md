@@ -16,8 +16,9 @@ alias: Bella
 ## Stat Block
 
 ```statblock
-monster:
+monster: Night Hag
 ```
 
 ```dataviewjs
 ```
+	![[Morgantha#^38b962]]]
