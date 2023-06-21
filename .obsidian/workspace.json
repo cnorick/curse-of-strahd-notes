@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabell.md",
+                "file": "Arabelle.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexei.md",
+                "file": "Arabelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexei.md",
+                "file": "Arabelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexei.md"
+                "file": "Arabelle.md"
               }
             }
           },
@@ -295,11 +295,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a44790ff28cd0134",
+  "active": "d0b3e134becea3a6",
   "lastOpenFiles": [
-    "Luvash.md",
     "Alexei.md",
-    "Arabell.md",
+    "Luvash.md",
+    "Arabelle.md",
     "Lord Nikolai Wachter.md",
     "Handouts/Images/Portraits/Portrait of Luvash.md",
     "Handouts/Images/Portraits/Portrait of Arrigal.md",

@@ -15,7 +15,7 @@ aliases: []
 
 ## Relations
 - brother: [[Arrigal]]
-- daughter: [[Arabell]]
+- daughter: [[Arabelle]]
 
 ## Stat Block
 

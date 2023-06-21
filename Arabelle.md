@@ -3,7 +3,7 @@ aliases: []
 ---
 (N female human girl)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Arabell
+## Playing Arabelle
 
 ## History/Info
 
