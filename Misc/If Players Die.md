@@ -7,7 +7,7 @@
 4. Make them a ghost, and give the party a chance to revive them
 
 ## Resurrection
-- Resurrection is possible in Barovia by the [[The Abbott]] in [[Krezk (S)|Krezk]].
+- Resurrection is possible in Barovia by the [[The Abbott]] in [[Village of Krezk (S)|Krezk]].
 	- Native Barovians drop hints that the Abbott is a power man of [[The Morninglord]] known for creating miracles
 	- There is a rumor he brought back a young boy from the grave
 - Much more secretly, [[Jeny Greenteeth]] and [[Madam Eva]] can resurrect the dead

@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Untitled.md",
+                "file": "Locations/Tsolenka Pass (T).md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Untitled.md",
+                "file": "Locations/Tsolenka Pass (T).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Untitled.md",
+                "file": "Locations/Tsolenka Pass (T).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Untitled.md"
+                "file": "Locations/Tsolenka Pass (T).md"
               }
             }
           },
@@ -256,8 +256,11 @@
   },
   "active": "887fefe960ef4e00",
   "lastOpenFiles": [
-    "Locations/Argynvostholt (Q).md",
+    "Locations/Village of Krezk (S).md",
+    "Locations/Tsolenka Pass (T).md",
     "Locations/Untitled.md",
+    "Locations/Raven River Crossroads (R).md",
+    "Locations/Argynvostholt (Q).md",
     "Locations/Luna River Crossroads (P).md",
     "Locations/Mount Baratok (M).md",
     "Locations/Gates of Ravenloft (J).md",
@@ -280,9 +283,6 @@
     "Characters/Vargas Vallakovich.md",
     "Characters/Lydia Petrovna.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
-    "Index.md",
-    "reference/Alignment.md",
-    "reference/Ability Checks.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",

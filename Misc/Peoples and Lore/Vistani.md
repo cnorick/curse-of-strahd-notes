@@ -35,7 +35,7 @@ alias: Vistana
 	- They have no charm, hope, or spark, and they don't cry
  - The [[Old Svalich Road (A)]] passes through Strahd's domain
 	 - Three settlements lie on the road like beads on a string
-		 - [[Krezk (S)|Krezk]] to the west
+		 - [[Village of Krezk (S)|Krezk]] to the west
 		 - [[The Town of Vallaki (N)]] in the heart of the valley
 		 - [[Village of Barovia (E)|Barovia]] to the east
 		 - Strahd has spies in each settlement

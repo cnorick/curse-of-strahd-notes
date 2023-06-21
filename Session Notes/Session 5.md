@@ -14,7 +14,7 @@ The [[Vistani]] women see [[Pelanil]]'s pie from [[Morgantha|Granny]] and say th
 - [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)|Castle Ravenloft]]
 - [[Arik Lorensk|Arik the Barkeep]] acts the way he does because he is "mist-touched"
 - Wine is the only strong drink found in Barovia, and the grapes barely grow
-	- All the wine comes from the [[Wizard of the Wines]] winery near [[Krezk (S)|Krezk]]
+	- All the wine comes from the [[Wizard of the Wines]] winery near [[Village of Krezk (S)|Krezk]]
 - [[Lancelot]] is actually [[Gertruda]]'s childhood pet, but she recently went missing
 	- Her mother, [[Mad Mary|Mary Swilova]], has recently gone mad because of the disappearance of her daughter
 - The first letter the party received from [[Arrigal]] is not in [[Kolyan Indirovich|Burgomaster Indirovich]]'s handwriting, but the one they found on the corpse is his father's

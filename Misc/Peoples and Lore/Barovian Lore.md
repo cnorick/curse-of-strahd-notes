@@ -15,11 +15,11 @@
 - [ ] Wolves, dire wolves, and werewolves prowls the [[Svalich Woods (C)]], and hungry bats fill the skies at night
 - [ ] The [[Village of Barovia (E)]] sits at the east end of the valley
 	- Its burgomaster is named [[Kolyan Indirovich]]
-- [ ] The fortified village of [[Krezk (S)]] lies at the west endo f the valley and is built around an old abbey
+- [ ] The fortified village of [[Village of Krezk (S)]] lies at the west endo f the valley and is built around an old abbey
 	 The village burgomaster is named [[Dmitri Krezkov]]
 - [ ] Wine is the lifeblood of Barovia
 	- For some it is the only reason to keep living
-	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Krezk (S)]]
+	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Village of Krezk (S)]]
 - [ ] A mad wizard of great power haunts the foothills of [[Mount Baratok]]
 	- He is an outsider and no friend of the vampires
 
