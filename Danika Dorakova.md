@@ -1,7 +1,7 @@
 ---
 aliases: [Danika]
 ---
-(NE human)
+(LG female human)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Danika Dorakova
 
