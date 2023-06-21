@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Danika Dorakova.md",
+                "file": "Characters/Danika Dorakova.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ernst Larnak.md",
+                "file": "Characters/Ernst Larnak.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Characters/Fiona Wachter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luvash.md",
+                "file": "Characters/Luvash.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexei.md",
+                "file": "Characters/Alexei.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arabelle.md",
+                "file": "Characters/Nikolai Wachter.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gadof Blinsky.md",
+                "file": "Characters/Gadof Blinsky 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amalthia.md",
+                "file": "Characters/Amalthia.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arabelle.md",
+                "file": "Characters/Nikolai Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arabelle.md",
+                "file": "Characters/Nikolai Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arabelle.md"
+                "file": "Characters/Nikolai Wachter.md"
               }
             }
           },
@@ -295,23 +295,25 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d0b3e134becea3a6",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
-    "Alexei.md",
-    "Luvash.md",
-    "Arabelle.md",
-    "Lord Nikolai Wachter.md",
+    "Characters/Karl Wachter.md",
+    "Characters/Danika Dorakova.md",
+    "Characters/Arabelle.md",
+    "Characters/Alexei.md",
+    "Characters/Luvash.md",
+    "Characters/Lord Nikolai Wachter.md",
     "Handouts/Images/Portraits/Portrait of Luvash.md",
     "Handouts/Images/Portraits/Portrait of Arrigal.md",
-    "Arrigal.md",
+    "Characters/Arrigal.md",
     "Assets/Images/People/Luvash.jpg",
     "Assets/Images/People/Luvash.jpg.crdownload",
     "Assets/Images/People/Arrigal.jpg",
     "Assets/Images/People/Arrigal.jpg.crdownload",
-    "Stella Wachter.md",
+    "Characters/Stella Wachter.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
-    "Henrik van der Voort.md",
-    "Gadof Blinsky.md",
+    "Characters/Henrik van der Voort.md",
+    "Characters/Gadof Blinsky 1.md",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg",
@@ -323,17 +325,16 @@
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg.crdownload",
     "reference/Adventuring Gear.md",
-    "Gunther Arasek.md",
+    "Characters/Gunther Arasek.md",
     "Yelena Arasek.md",
     "Leo.md",
-    "Fiona Wachter.md",
-    "Haliq.md",
-    "Amalthia.md",
-    "Madalena.md",
-    "Dhavit.md",
-    "Ernst Larnak.md",
-    "Nikolai Wachter.md",
-    "Karl Wachter.md",
+    "Characters/Fiona Wachter.md",
+    "Characters/Haliq.md",
+    "Characters/Amalthia.md",
+    "Characters/Madalena.md",
+    "Characters/Dhavit.md",
+    "Characters/Ernst Larnak.md",
+    "Characters/Nikolai Wachter.md",
     "Udo Lukovich.md",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
@@ -342,7 +343,6 @@
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/Map - Wachterhaus.jpg.crdownload",
     "Handouts/Maps/Vallaki/Vallaki Map.md",
-    "Bray Martikova.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
