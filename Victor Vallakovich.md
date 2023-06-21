@@ -17,7 +17,7 @@ aliases: [Victor, The Baronet]
 
 ## What They Know
 [[Barovian Lore]]
-[[Vallaki Lore
+[[Vallaki Lore]]
 
 ## Relations
 
