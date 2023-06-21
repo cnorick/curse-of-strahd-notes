@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "3e3178af37d197f0",
+            "id": "4054059e4d6e748c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Haliq.md",
+                "file": "Lord Nikolai Wachter.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,33 +102,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9fe41c5a5f8bfb3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haliq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2004e12de948f812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Madalena.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Madalena.md",
+                "file": "Lord Nikolai Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Madalena.md",
+                "file": "Lord Nikolai Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Madalena.md"
+                "file": "Lord Nikolai Wachter.md"
               }
             }
           },
@@ -283,13 +259,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2004e12de948f812",
+  "active": "4054059e4d6e748c",
   "lastOpenFiles": [
+    "Fiona Wachter.md",
+    "Lord Nikolai Wachter.md",
     "Haliq.md",
     "Amalthia.md",
     "Madalena.md",
     "Dhavit.md",
-    "Fiona Wachter.md",
     "Ernst Larnak.md",
     "Nikolai Wachter.md",
     "Karl Wachter.md",
@@ -330,7 +307,6 @@
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
     "Milivoj.md",
     "Characters/Vargas Vallakovich.md",
-    "Handouts/Maps/Village of Barovia Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

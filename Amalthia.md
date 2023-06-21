@@ -16,7 +16,7 @@ aliases: []
 
 ## Relations
 - servant for: [[Fiona Wachter]]
-- works with [[Haliq]], [[Madalena]], [[Dhavit]]
+- works with: [[Haliq]], [[Madalena]], [[Dhavit]]
 
 ## Stat Block
 
