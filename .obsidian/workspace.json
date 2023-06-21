@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Templates/Handout.md",
+                "file": "Handouts/Images/Portraits/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Handout.md",
+                "file": "Handouts/Images/Portraits/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Handout.md",
+                "file": "Handouts/Images/Portraits/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Handout.md"
+                "file": "Handouts/Images/Portraits/Untitled.md"
               }
             }
           },
@@ -189,9 +189,11 @@
   },
   "active": "838cfab55277bb27",
   "lastOpenFiles": [
-    "Assets/Templates/Character.md",
-    "Assets/Templates/Handout.md",
+    "Handouts/Images/Portraits/Portrait of Myrtle.md",
     "Handouts/Images/Portraits/Untitled.md",
+    "Untitled.md",
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Character.md",
     "Characters/Myrtle.md",
     "Characters/Freek.md",
     "Assets/Images/People/Myrtle.jpg",
@@ -225,8 +227,6 @@
     "Locations/Death House.md",
     "Locations/Krezk (S).md",
     "Locations/Old Bonegrinder (O).md",
-    "Locations/Old Svalich Road.md",
-    "Locations/Svalich Woods (C).md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
