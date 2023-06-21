@@ -123,7 +123,12 @@ If [[Bella Sunbane|Bella]] is still here:
 	- They both speak kindly of [[Ismark Kolyanovich|Ismark]] and [[Ireena Kolyana|Ireena]] in Barovia, hoping to be taken to them
 		- They're very happy to see [[Ireena Kolyana|Ireena]]
 
+- The hags don't use the bed for sleeping, but they store their treasure in it. Six pieces of cheap jewelry (worth 25 gp each) are stuffed in the moldy straw mattress.
+
 ### Domed Attic (O4)
+>You've reached the windmill's peak—a domed chamber filled with old machinery. There's not much room to move around. Light slips into this attic through small holes in the walls.
+
+- Characters searching this space find a few old, abandoned bird's nests
 
 ### The Megaliths
 
