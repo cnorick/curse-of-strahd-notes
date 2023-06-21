@@ -7,7 +7,8 @@
 	- [ ] Some Vallakians believe that the festivals keep the devil [[Strahd]] at bay
 	- [ ] Others think they provide no protection or benefit whatsoever
 	- [ ] Most consider them dismal affairs
-- [ ] Those who speak ill of the festivals are declared by [[Vargas Vallakovich|The Burgomaster]] to be in league with the devil Strahd and arrested. Some are thrown in the stocks ([area N8](http://longo.com.br/5e/adventure.html#CoS,5,n8.%20town%20square)), while others are taken to the burgomaster's mansion so that the baron can purge them of their evil.
+- [ ] Those who speak ill of the festivals are declared by [[Vargas Vallakovich|The Burgomaster]] to be in league with the [[Strahd Von Zarovich|Devil Strahd]] and arrested
+	- [ ] Some are thrown in the stocks ([[area N8]], while others are taken to the [[burgomaster's mansion]] so that [[Vargas Vallakovich|The Baron]] can purge them of their evil
 - [ ] The burgomaster's henchman, Izek Strazni, has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire. Fear of Izek keeps the baron's enemies at bay.
 - [ ] No one hates the burgomaster more than Lady Fiona Wachter, who is often quoted as saying, "I'd rather serve the devil than a madman." She owns an old house in town ([area N4](http://longo.com.br/5e/adventure.html#CoS,5,n4.%20wachterhaus)) but rarely leaves her estate. Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd
 - [ ] Purple flashes of light have been seen emanating from the attic of the burgomaster's mansion. 
