@@ -12,6 +12,8 @@ alias: Bella
 [[Barovian Lore]]
 
 ## Relations
+- Mother: [[Morgantha]]
+- Sister: [[Offalia Wormwiggle]]
 
 ## Stat Block
 
@@ -21,4 +23,4 @@ monster: Night Hag
 
 ```dataviewjs
 ```
-	![[Morgantha#^38b962]]]
+	![[Morgantha#Spells]]
