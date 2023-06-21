@@ -36,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9a512c2b50b0184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lydia Petrovna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md",
+                "file": "Lydia Petrovna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md",
+                "file": "Lydia Petrovna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md"
+                "file": "Lydia Petrovna.md"
               }
             }
           },
@@ -192,10 +205,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "98c60ced9152ee80",
+  "active": "f9a512c2b50b0184",
   "lastOpenFiles": [
-    "Characters/Izek Strazni.md",
     "Characters/Vargas Vallokovich.md",
+    "Lydia Petrovna.md",
+    "Characters/Izek Strazni.md",
     "Assets/Templates/Character.md",
     "Untitled.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
@@ -232,7 +246,6 @@
     "Characters/Rina.md",
     "Index.md",
     "Locations/Castle Ravenloft (K).md",
-    "Locations/Death House.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",

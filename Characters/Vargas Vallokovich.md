@@ -18,7 +18,8 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
 - He has two pet mastiffs that follow him everywhere
 	- as well as a murderous and deformed henchman named [[Izek Strazni]]
 - If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
-- In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square [[Area N8]].
+- Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting
+	- The baron has charged [[Izek]] with finding out what happened to them, but investigation isn't Izek's forte. Searches have been organized, to no avail
  
 ## What They Want
 - Wants the town to be safe from [[Strahd Von Zarovich|Strahd]]
@@ -29,6 +30,7 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
 
 ## Relations
 - henchman: [[Izek Strazni]]
+- wife: [[Lydia Petrovna]]
 
 ## Stat Block
 
