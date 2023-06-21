@@ -27,7 +27,8 @@ Closer investigation:
 	- [[Bella Sunbane|Bella]] is really friendly and invites them inside
 	- They immediately smell the scent of something delicious
 	- There is not much room in the windmill for everyone to be comfortable
-		- [[Bella Sunbane|Bella]] makes an obvious show of being hospitible 
+		- [[Bella Sunbane|Bella]] makes an obvious show of being hospitable by clearing chairs and stuff
+		- "We don't usually have guests. I'm so very sorry for not making things nicer"
 - If they sneak in, and [[Bella Sunbane|Bella]] hears, she yells down "Mother is that you?"
 	- The door is unlocked
 - [[Bella Sunbane|Bella]] just calls [[Offalia Wormwiggle|Offalia]] "Sister" because of the sinister name
