@@ -36,14 +36,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "576fbbb80afd8897",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -119,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Seeming.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Seeming.md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Seeming.md"
+                "file": "Characters/Bildrath Cantemir.md"
               }
             }
           },
@@ -200,8 +192,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2b934086a9817c6",
+  "active": "ac93ceabaeb1cdb6",
   "lastOpenFiles": [
+    "reference/spells/Seeming.md",
     "reference/Half-Orc.md",
     "reference/Between Adventures.md",
     "Locations/The Town of Vallaki (N).md",
@@ -237,7 +230,6 @@
     "Locations/Village of Barovia (E).md",
     "Misc/Card Reading.md",
     "Misc/Congratulations, You're Dead.md",
-    "Misc/Guest as Granny.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
