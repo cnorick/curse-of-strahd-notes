@@ -1,7 +1,6 @@
 ---
 statblock: true
 name: Night Hag with Spells Inlined
-extends: Night Hag
 spells:
 - Shared Spellcasting: While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves. For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
 - 1st level (4 slots): identify, ray of sickness
@@ -17,7 +16,7 @@ spells:
 ---
 
 ```statblock
-monster: Night Hag with Spells Inlined
+monster: Night
 ```
 
 ```dataviewjs
