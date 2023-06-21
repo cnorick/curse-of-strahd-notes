@@ -4,71 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "c81fb0e80689b9df",
+        "id": "b3e269c510c903b8",
         "type": "tabs",
         "children": [
           {
-            "id": "6c2b0bdf2eda1537",
+            "id": "b2b934086a9817c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45438dc6045eab64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "934ee4ce2ddad50f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20fef0035421b8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Myrtle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4f66b35e9ffaaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Freek.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "230e3fd55f1839f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac93ceabaeb1cdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Village of Barovia (E).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 6.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 6.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -223,14 +192,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "934ee4ce2ddad50f",
+  "active": "b2b934086a9817c6",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
+    "Locations/Village of Barovia (E).md",
+    "Locations/The Town of Vallaki (N).md",
+    "Characters/Freek.md",
+    "Characters/Myrtle.md",
     "Session Notes/Session 6.md",
+    "Characters/Morgantha.md",
     "Campaign/Session 4.md",
     "Locations/Old Bonegrinder (O).md",
-    "Characters/Myrtle.md",
-    "Characters/Freek.md",
     "reference/Human.md",
     "reference/npcs/Commoner.md",
     "Lucian.md",
@@ -249,8 +220,6 @@
     "reference/spells/Zone of Truth.md",
     "reference/spells/Word of Recall.md",
     "reference/spells/Wish.md",
-    "reference/spells/Wind Wall.md",
-    "reference/spells/Wind Walk.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
