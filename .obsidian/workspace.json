@@ -8,24 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98c60ced9152ee80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Vargas Vallokovich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3cc6f239c45f958c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Characters/Izek Strazni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "39a96e4a3e8bb194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c60ced9152ee80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Vargas Vallokovich.md",
                 "mode": "source",
                 "source": false
               }

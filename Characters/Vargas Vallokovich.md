@@ -17,6 +17,8 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
 	- If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town
 - He has two pet mastiffs that follow him everywhere
 	- as well as a murderous and deformed henchman named [[Izek Strazni]]
+- If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well.
+- In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square [[Area N8]].
  
 ## What They Want
 - Wants the town to be safe from [[Strahd Von Zarovich|Strahd]]
