@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e3178af37d197f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dhavit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Dhavit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Dhavit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiona Wachter.md"
+                "file": "Dhavit.md"
               }
             }
           },
@@ -235,8 +247,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "72a696a5bebb41ea",
+  "active": "3e3178af37d197f0",
   "lastOpenFiles": [
+    "Fiona Wachter.md",
+    "Dhavit.md",
     "Ernst Larnak.md",
     "Nikolai Wachter.md",
     "Karl Wachter.md",
@@ -281,8 +295,6 @@
     "Handouts/Maps/Tser Pool Map.md",
     "Handouts/Maps/Tser Falls Map.md",
     "Handouts/Maps/The Windmill Map.md",
-    "Handouts/Maps/River Ivlis Crossroads Map.md",
-    "Handouts/Maps/Old Svalich Road Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
