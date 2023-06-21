@@ -17,7 +17,7 @@ spells:
 ---
 
 ```statblock
-monster: Night Hag
+monster: Night Hag with Spells Inlined
 ```
 
 ```dataviewjs
