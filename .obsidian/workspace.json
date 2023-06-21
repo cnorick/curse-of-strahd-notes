@@ -66,43 +66,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cdf8664f921a2087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9997875c649e4f19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Bella Sunbane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd3f9aba4b4275ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "9264cc6ed7602aa7",
+        "type": "tabs",
+        "children": [
           {
             "id": "c97a5d43c89183c0",
             "type": "leaf",
@@ -114,21 +85,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ccbc112ad7d89351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -283,10 +241,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ccbc112ad7d89351",
+  "active": "c97a5d43c89183c0",
   "lastOpenFiles": [
-    "Characters/Morgantha.md",
     "Characters/Offalia Wormwiggle.md",
+    "Characters/Morgantha.md",
     "Characters/Bella Sunbane.md",
     "Locations/Old Bonegrinder (O).md",
     "reference/spells/Ray of Sickness.md",

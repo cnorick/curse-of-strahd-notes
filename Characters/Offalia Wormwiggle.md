@@ -19,8 +19,10 @@ alias: Offalia
 ## Stat Block
 
 ```statblock
-monster:
+monster: Night Hag
 ```
+
+![[Morgantha#Spells]]
 
 ```dataviewjs
 ```
