@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Mastiff.md",
+                "file": "Assets/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Mastiff.md",
+                "file": "Assets/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Mastiff.md"
+                "file": "Assets/Templates/Character.md"
               }
             }
           },
@@ -218,7 +218,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Mastiff.md",
+                    "file": "Assets/Templates/Character.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -228,8 +228,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 325,
-        "y": 83,
+        "x": 457,
+        "y": 309,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -239,32 +239,32 @@
   },
   "active": "2215eb386c4351f6",
   "lastOpenFiles": [
-    "reference/creatures/Mule.md",
-    "reference/creatures/Octopus.md",
-    "reference/creatures/Owl.md",
-    "reference/creatures/Panther.md",
-    "reference/creatures/Phase Spider.md",
-    "reference/creatures/Poisonous Snake.md",
-    "reference/creatures/Polar Bear.md",
-    "reference/creatures/Pony.md",
-    "reference/creatures/Quipper.md",
-    "reference/creatures/Rat.md",
-    "reference/creatures/Raven.md",
-    "reference/creatures/Reef Shark.md",
-    "reference/creatures/Rhinoceros.md",
-    "reference/creatures/Riding Horse.md",
-    "reference/creatures/Saber-Toothed Tiger.md",
-    "reference/creatures/Scorpion.md",
-    "reference/creatures/Sea Horse.md",
-    "reference/creatures/Spider.md",
-    "reference/creatures/Swarm of Bats.md",
-    "reference/creatures/Swarm of Insects.md",
-    "reference/creatures/Swarm of Poisonous Snakes.md",
-    "reference/creatures/Swarm of Quippers.md",
-    "reference/creatures/Swarm of Rats.md",
-    "reference/creatures/Swarm of Ravens.md",
-    "reference/creatures/Tiger.md",
-    "reference/creatures/Vulture.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 3.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Rictavio.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rina.md",
+    "Index.md",
+    "Locations/Castle Ravenloft (K).md",
+    "Locations/Death House.md",
+    "Locations/Krezk (S).md",
+    "Locations/Old Bonegrinder (O).md",
+    "Locations/Old Svalich Road.md",
+    "Locations/Svalich Woods (C).md",
+    "Locations/The Town of Vallaki (N).md",
+    "Locations/Tser Pool Encampment (G).md",
+    "Locations/Village of Barovia (E).md",
+    "Misc/Card Reading.md",
+    "Misc/Congratulations, You're Dead.md",
+    "Misc/Guest as Granny.md",
+    "Misc/If Players Die.md",
+    "Misc/Map of Barovia.md",
+    "Misc/Mechanics of Dream Pastries.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
