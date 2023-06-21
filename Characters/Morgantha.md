@@ -51,7 +51,14 @@ monster: Dretch
 	- [[Identify]]
 	- [[ray of sickness]]
 - 2nd level (3 slots): 
-- [[Hold Person]]
-- [[locate object • 3rd level (3 slots): bestow curse, counterspell, lightning bolt • 4th level (3 slots): phantasmal killer, polymorph • 5th level (2 slots): contact other plane, scrying • 6th level (1 slot): eye bite
+	- [[Hold Person]]
+	- [[Locate Object]]
+- 3rd level (3 slots):
+	- [[Bestow Curse]]
+	- [[Counterspell]]
+	- [[Lightning Bolt]]
+- 4th level (3 slots): phantasmal killer, polymorph • 5th level (2 slots): contact other plane, scrying • 6th level (1 slot): eye bite
+	[[Phantasmal Killer]]
+	
 ```dataviewjs
 ```
