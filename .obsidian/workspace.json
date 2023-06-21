@@ -104,18 +104,6 @@
             }
           },
           {
-            "id": "c708d812579e7b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Henrik van der Voort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e647011ed386d3e0",
             "type": "leaf",
             "state": {
@@ -140,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -214,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Henrik van der Voort.md",
+                "file": "Stella Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Henrik van der Voort.md",
+                "file": "Stella Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Henrik van der Voort.md"
+                "file": "Stella Wachter.md"
               }
             }
           },
@@ -295,14 +283,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c708d812579e7b50",
+  "active": "4899e72c64783c25",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Portrait of Henrik.md",
+    "Henrik van der Voort.md",
     "Gadof Blinsky.md",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg.crdownload",
-    "Henrik van der Voort.md",
     "Stella Wachter.md",
     "Assets/Images/People/Henrik van der Voort.jpg",
     "Assets/Images/People/Henrik van der Voort.jpg.crdownload",

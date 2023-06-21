@@ -2,7 +2,7 @@
 aliases: [Henrik]
 ---
 (LE male human commoner)
-![[Henrik van der Voort.jpg|]]
+![[Henrik van der Voort.jpg|200]]
 ## Playing Henrik van der Voort
 
 ## History/Info
