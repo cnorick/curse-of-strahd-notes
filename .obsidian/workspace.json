@@ -92,18 +92,6 @@
             }
           },
           {
-            "id": "4899e72c64783c25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arrigal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e647011ed386d3e0",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arrigal.md",
+                "file": "Lord Nikolai Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arrigal.md",
+                "file": "Lord Nikolai Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrigal.md"
+                "file": "Lord Nikolai Wachter.md"
               }
             }
           },
@@ -283,14 +271,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4899e72c64783c25",
+  "active": "4054059e4d6e748c",
   "lastOpenFiles": [
+    "Handouts/Images/Portraits/Portrait of Luvash.md",
+    "Handouts/Images/Portraits/Portrait of Arrigal.md",
+    "Arrigal.md",
     "Luvash.md",
     "Assets/Images/People/Luvash.jpg",
     "Assets/Images/People/Luvash.jpg.crdownload",
     "Assets/Images/People/Arrigal.jpg",
     "Assets/Images/People/Arrigal.jpg.crdownload",
-    "Arrigal.md",
     "Stella Wachter.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
     "Henrik van der Voort.md",
@@ -329,7 +319,6 @@
     "Bray Martikova.md",
     "Brom Martikova.md",
     "Custom Monsters/Child Wereraven.md",
-    "Danika Dorakova.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

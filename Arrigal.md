@@ -2,7 +2,7 @@
 aliases: []
 ---
 (CE male human bandit captain)
-![[Arik the Barkeep V2.webp|200]]
+![[Arrigal.jpg|200]]
 ## Playing Arrigal
 
 ## History/Info
