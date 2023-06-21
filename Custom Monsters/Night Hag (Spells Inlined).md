@@ -1,7 +1,6 @@
 ---
-statblock: inline
+statblock: true
 name: Night Hag with Inline Spells
-extends: Night Hag
 spells:
 	- 1st level (4 slots): identify, ray of sickness
 	- 2nd level (3 slots): hold person, locate object
@@ -12,7 +11,7 @@ spells:
 ---
 
 ```statblock
-monster: Night Hag with Inline Spells
+monster: Night Hag
 ```
 
 	- At will: detect magic, magic missile
