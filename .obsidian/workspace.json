@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Awakened Tree.md",
+                "file": "Characters/Mad Mary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Awakened Tree.md",
+                "file": "Characters/Mad Mary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Awakened Tree.md"
+                "file": "Characters/Mad Mary.md"
               }
             }
           },
@@ -313,7 +313,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Awakened Tree.md",
+                    "file": "Characters/Mad Mary.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -334,32 +334,32 @@
   },
   "active": "d5d7179ab4f5c0f7",
   "lastOpenFiles": [
-    "reference/creatures/Axe Beak.md",
-    "reference/creatures/Baboon.md",
-    "reference/creatures/Badger.md",
-    "reference/creatures/Bat.md",
-    "reference/creatures/Black Bear.md",
-    "reference/creatures/Blink Dog.md",
-    "reference/creatures/Blood Hawk.md",
-    "reference/creatures/Boar.md",
-    "reference/creatures/Brown Bear.md",
-    "reference/creatures/Camel.md",
-    "reference/creatures/Cat.md",
-    "reference/creatures/Constrictor Snake.md",
-    "reference/creatures/Crab.md",
-    "reference/creatures/Crocodile.md",
-    "reference/creatures/Death Dog.md",
-    "reference/creatures/Deer.md",
-    "reference/creatures/Dire Wolf.md",
-    "reference/creatures/Draft Horse.md",
-    "reference/creatures/Eagle.md",
-    "reference/creatures/Elephant.md",
-    "reference/creatures/Elk.md",
-    "reference/creatures/Flying Snake.md",
-    "reference/creatures/Frog.md",
-    "reference/creatures/Giant Ape.md",
-    "reference/creatures/Giant Badger.md",
-    "reference/creatures/Giant Bat.md",
+    "Characters/Madam Eva.md",
+    "Characters/Morgantha.md",
+    "Characters/Myrtle.md",
+    "Characters/Offalia Wormwiggle.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rictavio.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Tatyana.md",
+    "Characters/The Abbott.md",
+    "Characters/Thornboldt.md",
+    "Characters/Walter.md",
+    "Characters/Vargas Vallakovich.md",
+    "Characters/Amalthia.md",
+    "Characters/Alexei.md",
+    "Characters/Brom Martikova.md",
+    "Characters/Arabelle.md",
+    "Characters/Arrigal.md",
+    "Characters/Bluto Krogarov.md",
+    "Characters/Bray Martikova.md",
+    "Characters/Henrik van der Voort.md",
+    "Characters/Danika Dorakova.md",
     "Assets/Images/Strahd's Invitation.jpg",
     "Assets/Images/Strahd's Invitation.jpg.crdownload",
     "Assets/Images/People/Luvash.jpg",
