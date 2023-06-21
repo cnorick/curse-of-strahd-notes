@@ -11,6 +11,7 @@ aliases: [Lady Fiona Wachter, Fiona]
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 - sons: [[Nikolai Wachter]], [[Karl Wachter]]

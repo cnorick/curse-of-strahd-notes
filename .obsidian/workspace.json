@@ -73,21 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f9a512c2b50b0184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lydia Petrovna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Fiona Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Fiona Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lydia Petrovna.md"
+                "file": "Fiona Wachter.md"
               }
             }
           },
@@ -242,8 +230,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f9a512c2b50b0184",
+  "active": "34dd8a90e5c3039b",
   "lastOpenFiles": [
+    "Bluto Krogarov.md",
+    "Father Lucian Petrovich.md",
+    "Fiona Wachter.md",
+    "Karl Wachter.md",
+    "Nikolai Wachter.md",
+    "Tasha Petrovna.md",
+    "Victor Vallakovich.md",
+    "Characters/Lydia Petrovna.md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
     "Argynvostholt.md",
     "Locations/Lake Zarovich (L).md",
@@ -262,15 +258,7 @@
     "Locations/Mount Baratok (M).md",
     "Locations/Gates of Ravenloft (J).md",
     "Locations/Black Carriage (I).md",
-    "Locations/Tser Falls (H).md",
-    "Locations/River Ivlis Crossroads (F).md",
-    "Locations/River Ivlis (D).md",
-    "Locations/Gates of Barovia (B).md",
-    "Locations/Old Svalich Road (A).md",
     "Locations/Untitled",
-    "Bluto Krogarov.md",
-    "Fiona Wachter.md",
-    "Nikolai Wachter.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",

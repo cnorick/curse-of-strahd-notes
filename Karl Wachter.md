@@ -11,6 +11,7 @@ aliases: [Karl]
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 - mother: [[Fiona Wachter]]
