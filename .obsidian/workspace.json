@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Falls (H).md",
+                "file": "Locations/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Falls (H).md",
+                "file": "Locations/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Falls (H).md",
+                "file": "Locations/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Falls (H).md"
+                "file": "Locations/Untitled.md"
               }
             }
           },
@@ -256,8 +256,11 @@
   },
   "active": "887fefe960ef4e00",
   "lastOpenFiles": [
-    "Locations/River Ivlis Crossroads (F).md",
+    "Locations/Gates of Ravenloft (J).md",
+    "Locations/Untitled.md",
+    "Locations/Black Carriage (I).md",
     "Locations/Tser Falls (H).md",
+    "Locations/River Ivlis Crossroads (F).md",
     "Locations/River Ivlis (D).md",
     "Locations/Gates of Barovia (B).md",
     "Locations/Old Svalich Road (A).md",
@@ -280,9 +283,6 @@
     "reference/Abilities.md",
     "Misc/RAW/Pale Tincture (Ingested).md",
     "reference/items/Adamantine Armor.md",
-    "reference/Magic Items.md",
-    "reference/Wizard.md",
-    "reference/Weapons.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",
