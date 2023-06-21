@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Bildrath Cantemir.md"
               }
             }
           },
@@ -200,8 +200,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2b934086a9817c6",
+  "active": "ac93ceabaeb1cdb6",
   "lastOpenFiles": [
+    "Characters/Bildrath Cantemir.md",
+    "Locations/The Town of Vallaki (N).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -212,8 +214,6 @@
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-3.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-2.html",
-    "Characters/Bildrath Cantemir.md",
     "Assets/Templates/Character.md",
     "Campaign/Session 0.md",
     "Campaign/Session 2.md",
@@ -231,7 +231,6 @@
     "Locations/Old Bonegrinder (O).md",
     "Locations/Old Svalich Road.md",
     "Locations/Svalich Woods (C).md",
-    "Locations/The Town of Vallaki (N).md",
     "Locations/Tser Pool Encampment (G).md",
     "Locations/Village of Barovia (E).md",
     "Misc/Card Reading.md",
