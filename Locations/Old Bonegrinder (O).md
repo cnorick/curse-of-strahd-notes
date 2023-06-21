@@ -104,6 +104,10 @@ Inside the cabinet:
 - They operate the millstone manually since the windmill no longer functions
 
 ### Bedroom (O3)
+If [[Bella Sunbane|Bella]] is still here:
+>Another old woman is here sitting on the side of the bed
+
+>In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine-foot-high ceiling. A moldy bed with a tattered canopy stands nearby.
 
 ### Domed Attic (O4)
 
