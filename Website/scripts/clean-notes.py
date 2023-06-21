@@ -77,8 +77,10 @@ def wrapImagesInLink(soup):
   for image in images:
     anchor = soup.new_tag('a', href=image.src)
     image.wrap(anchor)
-    
 
+def addStylesLink(soup):
+  soup.head.append(soup.new_tag('link', href='/styles.css', rel='stylesheet'))
+    
 def updateAllSpoilerFiles(folder):
   for root, dirnames, filenames in os.walk(folder):
     for filename in filenames:
@@ -139,6 +141,7 @@ def updateAllFiles(rootSiteFolder):
           updateFavicon(soup)
           # print('Wrapping images for: {}'.format(fname))
           # wrapImagesInLink(soup)
+          addStylesLink(soup)
           overwriteFile(handle, soup)
 
 
