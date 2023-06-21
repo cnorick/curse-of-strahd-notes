@@ -1,7 +1,7 @@
 ---
 aliases: [Ernst]
 ---
-(NE human)
+(LE male human)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Ernst Larnak
 
@@ -11,13 +11,15 @@ aliases: [Ernst]
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
+- spy for: [[Fiona Wachter]]
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Spy
 ```
 
 ```dataviewjs
