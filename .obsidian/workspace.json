@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Urwin Martikov.md",
+                "file": "Custom Monsters/Wereraven.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Urwin Martikov.md",
+                "file": "Custom Monsters/Wereraven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Urwin Martikov.md",
+                "file": "Custom Monsters/Wereraven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Urwin Martikov.md"
+                "file": "Custom Monsters/Wereraven.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   "active": "0bce447c03ef0723",
   "lastOpenFiles": [
     "Urwin Martikov.md",
+    "Custom Monsters/Wereraven.md",
     "Handouts/Images/Portraits/Portrait of Milivoj.md",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg",
     "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
@@ -236,7 +237,6 @@
     "Victor Vallakovich.md",
     "Characters/Lydia Petrovna.md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
-    "Argynvostholt.md",
     "Locations/Untitled",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
