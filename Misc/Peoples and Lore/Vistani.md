@@ -33,7 +33,7 @@ alias: Vistana
 	- Some have old souls, but many do not
 	- The soulless ones are easy to spot, for they know nothing but fear
 	- They have no charm, hope, or spark, and they don't cry
- - The [[Old Svalich Road]] passes through Strahd's domain
+ - The [[Old Svalich Road (A)]] passes through Strahd's domain
 	 - Three settlements lie on the road like beads on a string
 		 - [[Krezk (S)|Krezk]] to the west
 		 - [[The Town of Vallaki (N)]] in the heart of the valley

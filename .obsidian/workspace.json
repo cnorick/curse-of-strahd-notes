@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
+                "file": "Locations/Old Svalich Road (A).md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
+                "file": "Locations/Old Svalich Road (A).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
+                "file": "Locations/Old Svalich Road (A).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md"
+                "file": "Locations/Old Svalich Road (A).md"
               }
             }
           },
@@ -256,8 +256,8 @@
   },
   "active": "887fefe960ef4e00",
   "lastOpenFiles": [
-    "Bluto Krogarov.md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
+    "Bluto Krogarov.md",
     "Locations/Lake Zarovich (L).md",
     "Fiona Wachter.md",
     "Nikolai Wachter.md",

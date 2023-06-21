@@ -18,12 +18,12 @@
 	- [ ] [[Lady Wachter]] also has a mad daughter whom she keeps locked away
 	- [ ] [[Vargas Vallakovich|The Burgomaster]] doesn't confront [[Fiona]] or her offspring because he is afraid of Lady Wachter, whose family has old ties to [[Strahd]]
 - [ ] Purple flashes of light have been seen emanating from the attic of the [[burgomaster's mansion]] 
-- [ ] Wolves and dire wolves prowl the woods and aren't afraid to attack travelers on the [[Old Svalich Road]]
+- [ ] Wolves and dire wolves prowl the woods and aren't afraid to attack travelers on the [[Old Svalich Road (A)]]
 	- [ ] Well-armed groups of hunters and trappers have managed to kill several of the wolves, but more keep coming
 - [ ] It's too dangerous to go fishing on [[Lake Zarovich (L)]]
 	- [ ] but the threat of [[Strahd]]'s wolves hasn't stopped [[Bluto Krogarov]], the town drunk, from trying
 	- [ ] He sets out each morning and returns every evening, but hasn't caught any fish in a while
-- [ ] There have been no recent sightings of the [[Mad Mage of Mount Baratok (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)
+- [ ] There have been no recent sightings of the [[Mad Mage of Mount Baratok]] (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)
 - [ ] There's a Vistani camp in the woods southwest of town ([area N9](http://longo.com.br/5e/adventure.html#CoS,5,n9.%20vistani%20camp)). The Vistani there aren't very friendly. Vistani aren't welcome in Vallaki.
 - [ ] West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.
 - [ ] South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.
