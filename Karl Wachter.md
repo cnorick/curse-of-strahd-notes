@@ -1,7 +1,7 @@
 ---
 aliases: [Karl]
 ---
-(NE human)
+(N male human noble)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Karl Wachter
 
@@ -20,7 +20,7 @@ aliases: [Karl]
 ## Stat Block
 
 ```statblock
-monster:
+monster: Noble
 ```
 
 ```dataviewjs

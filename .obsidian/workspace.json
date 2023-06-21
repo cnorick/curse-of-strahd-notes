@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ernst Larnak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b383c75e6eef5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nikolai Wachter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f809a4053f5a7a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karl Wachter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Karl Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Karl Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Karl Wachter.md"
               }
             }
           },
@@ -223,10 +247,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "64cc7ab97621cf33",
+  "active": "f809a4053f5a7a65",
   "lastOpenFiles": [
+    "Nikolai Wachter.md",
+    "Ernst Larnak.md",
     "Udo Lukovich.md",
-    "Untitled.md",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg",
@@ -270,7 +295,6 @@
     "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Church Map.md",
-    "Handouts/Maps/Barovia Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

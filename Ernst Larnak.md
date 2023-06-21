@@ -1,9 +1,9 @@
 ---
-aliases: [Nikolai]
+aliases: [Ernst]
 ---
-(N male human noble)
+(NE human)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Nikolai Wachter
+## Playing Ernst Larnak
 
 ## History/Info
 
@@ -11,16 +11,13 @@ aliases: [Nikolai]
 
 ## What They Know
 [[Barovian Lore]]
-[[Vallaki Lore]]
 
 ## Relations
-- mother: [[Fiona Wachter]]
-- brother: [[Karl Wachter]]
 
 ## Stat Block
 
 ```statblock
-monster: Noble
+monster:
 ```
 
 ```dataviewjs
