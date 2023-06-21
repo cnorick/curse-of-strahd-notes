@@ -33,6 +33,21 @@ Closer investigation:
 	- The door is unlocked
 - [[Bella Sunbane|Bella]] just calls [[Offalia Wormwiggle|Offalia]] "Sister" because of the sinister name
 
+### Conversation with Bella
+- Her sister is upstairs hard at work
+	- "Sister! Come say hello to our guests!" "Oh, hush, Bella! I'm working! You know Mother will be home soon."
+- Bella's mother is Morgantha and she frequently goes into town for a few days at a time to sell her wares. They have a little place in town to stay, but they much prefer the windmill as their home. Bella and her sister are the primary bakers in their little business.
+-
+- Bella is delighted when the players admit that they met her mother and even more so when they admit they tried the pies. Bella wants to know the PCs' critiques on the taste and what might possibly make them tastier. Bella would love to hear some baking tips.
+    
+- Bella doesn't talk about the actual content of the pies unless she's specifically asked. She admits that it's a family secret passed down from her mother's mother.
+    
+- If the PCs bring up the witch thing, Bella gets sad and says her mother doesn't really talk about her mother or how she died. But Bella knows that it was something terrible.
+    
+- If the PCs bring up the deed to the windmill that they obtained from Death House, Bella looks suddenly devastated. She tells the PCs that the windmill was abandoned for centuries before their grandmother came to live there. "I-Is that why you're here? To kick three old women out of their home? Shame on you!"
+    
+- Otherwise, Bella does her best to keep the conversation about the PCs. She asks them where they're off to and how they're handling Barovia. Better to talk about the PCs than them, after all.
+
 ## Areas
 ### Ground Floor
 >The ground floor has been converted into a makeshift kitchen, but the room is a bit disorganized and has a musty, lived-in air about it. Baskets and old dishware are piled in one corner. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors.
