@@ -128,7 +128,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "reference/monsters/Hags.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "reference/monsters/Hags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "reference/monsters/Hags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "reference/monsters/Hags.md"
               }
             }
           },
@@ -292,6 +292,7 @@
   },
   "active": "97f4ffc3c1cfaca7",
   "lastOpenFiles": [
+    "Characters/Morgantha.md",
     "Characters/Bella Sunbane.md",
     "Characters/Cyrus Belview.md",
     "Session Notes/Session 5.md",
@@ -317,7 +318,6 @@
     "reference/spells/Vicious Mockery.md",
     "reference/spells/True Strike.md",
     "reference/spells/True Resurrection.md",
-    "reference/spells/True Seeing.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
