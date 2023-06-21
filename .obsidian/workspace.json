@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Letters/Strahd's Invitation.md",
+                "file": "reference/spells/Control Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Letters/Strahd's Invitation.md",
+                "file": "reference/spells/Control Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Letters/Strahd's Invitation.md"
+                "file": "reference/spells/Control Water.md"
               }
             }
           },
@@ -295,29 +295,77 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d0b3e134becea3a6",
+  "floating": {
+    "id": "5367b616ac8fc6e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "057d279c53025c46",
+        "type": "window",
+        "children": [
+          {
+            "id": "75edf84033d20c65",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d5d7179ab4f5c0f7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "reference/spells/Control Water.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d5d7179ab4f5c0f7",
   "lastOpenFiles": [
-    "Characters/Udo Lukovich.md",
+    "reference/spells/Control Weather.md",
+    "reference/spells/Counterspell.md",
+    "reference/spells/Create Food and Water.md",
+    "reference/spells/Create or Destroy Water.md",
+    "reference/spells/Create Undead.md",
+    "reference/spells/Creation.md",
+    "reference/spells/Cure Wounds.md",
+    "reference/spells/Dancing Lights.md",
+    "reference/spells/Darkness.md",
+    "reference/spells/Darkvision.md",
+    "reference/spells/Daylight.md",
+    "reference/spells/Death Ward.md",
+    "reference/spells/Delayed Blast Fireball.md",
+    "reference/spells/Demiplane.md",
+    "reference/spells/Detect Evil and Good.md",
+    "reference/spells/Detect Magic.md",
+    "reference/spells/Detect Poison and Disease.md",
+    "reference/spells/Detect Thoughts.md",
+    "reference/spells/Dimension Door.md",
+    "reference/spells/Disguise Self.md",
+    "reference/spells/Disintegrate.md",
+    "reference/spells/Dispel Evil and Good.md",
+    "reference/spells/Dispel Magic.md",
+    "reference/spells/Divination.md",
+    "reference/spells/Divine Favor.md",
+    "reference/spells/Divine Word.md",
     "Assets/Images/Strahd's Invitation.jpg",
     "Assets/Images/Strahd's Invitation.jpg.crdownload",
-    "Characters/Nikolai Wachter.md",
-    "Characters/Karl Wachter.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Arabelle.md",
-    "Characters/Alexei.md",
-    "Characters/Luvash.md",
-    "Characters/Lord Nikolai Wachter.md",
-    "Handouts/Images/Portraits/Portrait of Luvash.md",
-    "Handouts/Images/Portraits/Portrait of Arrigal.md",
-    "Characters/Arrigal.md",
     "Assets/Images/People/Luvash.jpg",
     "Assets/Images/People/Luvash.jpg.crdownload",
     "Assets/Images/People/Arrigal.jpg",
     "Assets/Images/People/Arrigal.jpg.crdownload",
-    "Characters/Stella Wachter.md",
-    "Handouts/Images/Portraits/Portrait of Henrik.md",
-    "Characters/Henrik van der Voort.md",
-    "Characters/Gadof Blinsky 1.md",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg",
@@ -328,16 +376,6 @@
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg.crdownload",
-    "reference/Adventuring Gear.md",
-    "Characters/Gunther Arasek.md",
-    "Characters/Yelena Arasek.md",
-    "Leo.md",
-    "Characters/Fiona Wachter.md",
-    "Characters/Haliq.md",
-    "Characters/Amalthia.md",
-    "Characters/Madalena.md",
-    "Characters/Dhavit.md",
-    "Characters/Ernst Larnak.md",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Wachterhaus/DM Map - Wachterhaus.jpg",
