@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Night Hag (Spells Inlined).md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -254,11 +254,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "278dbf4623b1b015",
+  "active": "5d7d6ade5cc9aaca",
   "lastOpenFiles": [
+    "Custom Monsters/Night Hag (Spells Inlined).md",
     "Characters/Morgantha.md",
     "Custom Monsters/Dog.md",
-    "Custom Monsters/Night Hag (Spells Inlined).md",
     "Victor Vallakovich.md",
     "Characters/Madam Eva.md",
     "reference/spells/Mage Hand.md",

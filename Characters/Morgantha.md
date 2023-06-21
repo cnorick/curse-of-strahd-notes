@@ -52,25 +52,5 @@ name: Night Hag
 monster: Dretch
 ```
 
-### Spells
-- 1st level (4 slots):
-	- ![[Identify]]
-	- [[Ray of Sickness]]
-- 2nd level (3 slots): 
-	- ![[Hold Person]]
-	- ![[Locate Object]]
-- 3rd level (3 slots):
-	- ![[Bestow Curse]]
-	- ![[Counterspell]]
-	- ![[Lightning Bolt]]
-- 4th level (3 slots): 
-	- ![[Phantasmal Killer]]
-	- ![[Polymorph]]
-- 5th level (2 slots):
-	- ![[Contact Other Plane]]
-	- ![[Scrying]]
- - 6th level (1 slot):eye bite
-	- ![[Eyebite]]
-	
 ```dataviewjs
 ```
