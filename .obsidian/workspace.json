@@ -62,15 +62,11 @@
             }
           },
           {
-            "id": "1f212eaeedd9edfa",
+            "id": "8a8f0a200e798f0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Madam Eva.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -148,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Madam Eva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +160,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Madam Eva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Madam Eva.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,9 +221,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1f212eaeedd9edfa",
+  "active": "8a8f0a200e798f0f",
   "lastOpenFiles": [
     "Victor Vallakovich.md",
+    "Characters/Morgantha.md",
+    "Characters/Madam Eva.md",
     "reference/spells/Mage Hand.md",
     "Characters/Lydia Petrovna.md",
     "Father Lucian Petrovich.md",
@@ -268,8 +262,6 @@
     "Campaign/Session 1.md",
     "Campaign/Session 3.md",
     "Characters/Parriwimple.md",
-    "Characters/Pelanil.md",
-    "Characters/Rictavio.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
