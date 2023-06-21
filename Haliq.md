@@ -3,7 +3,7 @@ aliases: []
 ---
 (N male human commoner)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Dhavit
+## Playing Haliq
 
 ## History/Info
 - [[Fiona Wachter]]'s valet
@@ -16,6 +16,7 @@ aliases: []
 
 ## Relations
 - servant for: [[Fiona Wachter]]
+- works with: [[Dhavit]]
 
 ## Stat Block
 

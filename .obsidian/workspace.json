@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dhavit.md",
+                "file": "Haliq.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dhavit.md",
+                "file": "Haliq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dhavit.md",
+                "file": "Haliq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dhavit.md"
+                "file": "Haliq.md"
               }
             }
           },
@@ -249,8 +249,9 @@
   },
   "active": "3e3178af37d197f0",
   "lastOpenFiles": [
-    "Fiona Wachter.md",
     "Dhavit.md",
+    "Haliq.md",
+    "Fiona Wachter.md",
     "Ernst Larnak.md",
     "Nikolai Wachter.md",
     "Karl Wachter.md",
@@ -294,7 +295,6 @@
     "Handouts/Maps/Village of Barovia Map.md",
     "Handouts/Maps/Tser Pool Map.md",
     "Handouts/Maps/Tser Falls Map.md",
-    "Handouts/Maps/The Windmill Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
