@@ -22,8 +22,10 @@ Closer investigation:
 - [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there
 	- [[Bella Sunbane|Bella]] is on the first floor baking
 	- [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
-- All three disguise themselves as old women in their 
-- If the players knock, [[Bella Sunbane|Bella]] is really friendly and invites them inside
+- All three disguise themselves as old women in their 70s
+- If the players knock, they hear some shuffling, and [[Bella Sunbane|Bella]] comes to the door
+	- [[Bella Sunbane|Bella]] is really friendly and invites them inside
+	- They immediately smell the scent of something delicious
 
 ## Areas
 ### Ground Floor
