@@ -17,6 +17,10 @@
     {
       "folder": "Characters",
       "template": "Assets/Templates/Character.md"
+    },
+    {
+      "folder": "Handouts",
+      "template": "Assets/Templates/Handout.md"
     }
   ],
   "syntax_highlighting": true,
