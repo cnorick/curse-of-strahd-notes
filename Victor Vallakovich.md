@@ -9,12 +9,15 @@ aliases: [Victor, The Baronet]
 ## History/Info
 - Has confined himself to the attic [[area N3t]]
 	- to avoid the unwanted attention of his mother and disapproving glares of his father
-- Found an old spellbook in the mansion
+- Found an old spellbook in the mansion's library years ago and used it to teach himself magic
+- He's been busy constructing a [[Teleportation Circle]] in hopes of escaping Barovia
 
 ## What They Want
+- Wants to escape Barovia and get away from his parents
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki lod
 
 ## Relations
 
