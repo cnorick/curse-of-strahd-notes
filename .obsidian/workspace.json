@@ -44,24 +44,12 @@
             }
           },
           {
-            "id": "8dcca2aba3842e9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "20fef0035421b8f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myrtle.md",
+                "file": "Characters/Myrtle.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,45 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freek.md",
+                "file": "Characters/Freek.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "9264cc6ed7602aa7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c97a5d43c89183c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Morgantha.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5312ed12d8dc3a38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Session Notes/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Session Notes/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Session Notes/Session 6.md"
               }
             }
           },
@@ -266,22 +223,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8dcca2aba3842e9f",
+  "active": "934ee4ce2ddad50f",
   "lastOpenFiles": [
-    "Myrtle.md",
-    "Freek.md",
+    "Characters/Morgantha.md",
+    "Session Notes/Session 6.md",
+    "Campaign/Session 4.md",
     "Locations/Old Bonegrinder (O).md",
+    "Characters/Myrtle.md",
+    "Characters/Freek.md",
     "reference/Human.md",
     "reference/npcs/Commoner.md",
     "Lucian.md",
     "Handouts/Maps/The Windmill Map.md",
     "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
-    "Characters/Morgantha.md",
     "reference/spells/Ray of Sickness.md",
     "reference/spells/Identify.md",
     "reference/monsters/Hags.md",
-    "Session Notes/Session 6.md",
     "Characters/Strahd Von Zarovich.md",
     "Night Hag.md",
     "reference/monsters/Aboleth.md",
@@ -293,7 +251,6 @@
     "reference/spells/Wish.md",
     "reference/spells/Wind Wall.md",
     "reference/spells/Wind Walk.md",
-    "reference/spells/Weird.md",
     "reference/spells",
     "reference/npcs",
     "reference/monsters",
