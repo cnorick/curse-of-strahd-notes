@@ -66,11 +66,9 @@
             "id": "34dd8a90e5c3039b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Fiona Wachter.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp"
               }
             }
           }
@@ -149,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiona Wachter.md"
+                "file": "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/03 - Vallaki Town Square Day (Festival of the Blazing Sun - Rain).webp"
               }
             }
           },
@@ -232,9 +230,11 @@
   },
   "active": "34dd8a90e5c3039b",
   "lastOpenFiles": [
+    "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/02 - Vallaki Town Square Day (Festival of the Blazing Sun).webp",
+    "Assets/Images/Maps/Vallaki Valley/Vallaki Town Square/01 - Vallaki Town Square Day.webp",
+    "Fiona Wachter.md",
     "Bluto Krogarov.md",
     "Father Lucian Petrovich.md",
-    "Fiona Wachter.md",
     "Karl Wachter.md",
     "Nikolai Wachter.md",
     "Tasha Petrovna.md",
@@ -257,7 +257,6 @@
     "Locations/Luna River Crossroads (P).md",
     "Locations/Mount Baratok (M).md",
     "Locations/Gates of Ravenloft (J).md",
-    "Locations/Black Carriage (I).md",
     "Locations/Untitled",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
@@ -277,7 +276,6 @@
     "Assets/Images/Maps/Village of Barovia/01 - Church of the Morning Lord (Ground).webp",
     "Assets/Images/Maps/01 - Old Svalich Road Encounter Day.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
-    "Assets/Images/Maps/barovia_untagged.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
