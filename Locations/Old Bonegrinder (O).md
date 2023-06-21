@@ -65,7 +65,10 @@ Closer investigation:
 - Bring in 3 [[Swarm of Ravens]] to help
 	- make it cinematic
 - Let the kids help
-	- [[Myrtle]] and [[Lucien]]
+	- [[Myrtle]] and [[Lucien]] can try to pitch in if they find the right opportunity
+	- They don't fight directly, but may throw flower when the hags are invisible
+- Let one flee
+	- If they kill 2, try to let one flee so that they can have a
 
 ## Areas
 ### Ground Floor
