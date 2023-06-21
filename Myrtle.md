@@ -1,6 +1,7 @@
-(NE human boy)
-## Playing Freek
-- He has no soul and should not be too talkative
+(NE human)
+
+## Playing Myrtle
+- 
 
 ## History/Info
 
@@ -14,7 +15,7 @@
 ## Stat Block
 
 ```statblock
-monster: Commoner
+monster:
 ```
 
 ```dataviewjs
