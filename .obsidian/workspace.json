@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Characters/Offalia Wormwiggle.md"
               }
             }
           },
@@ -256,8 +256,9 @@
   },
   "active": "5d7d6ade5cc9aaca",
   "lastOpenFiles": [
-    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Characters/Bella Sunbane.md",
     "Characters/Morgantha.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
     "Custom Monsters/Dog.md",
     "Victor Vallakovich.md",
     "Characters/Madam Eva.md",
@@ -294,7 +295,6 @@
     "reference/Between Adventures.md",
     "Campaign/Session 0.md",
     "Campaign/Session 2.md",
-    "Campaign/Session 1.md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",

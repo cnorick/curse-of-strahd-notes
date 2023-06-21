@@ -21,10 +21,9 @@ alias: Offalia
 ## Stat Block
 
 ```statblock
-monster: Night Hag
+extends: Night Hag with Inline Spells
+name: Night Hag
 ```
-
-![[Morgantha#Spells]]
 
 ```dataviewjs
 ```
