@@ -95,11 +95,11 @@ Inside the cabinet:
 - The powder is ground bone: DC 18 survival
 
 ### Bone Mill (O2)
->\An ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mops of black hair sweeps the floor. One is pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
+>\An ugly young women wearing a silk shawl and a stitched gown. Long needles stick out of her tangled mops of black hair sweeps the floor. One is pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
 >
 >The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up.
 
-- Unless lured elsewhere, [[Offalia Wormwiggle|Offalia]] and [[Bella Sunbane|Bella]] are here running the grindstone, grinding children's bones
+- Unless lured elsewhere, [[Offalia Wormwiggle|Offalia]] is here running the grindstone, grinding children's bones
 	- unless provoked (or maybe surprised), they're happy to entertain the guests and offer them pies
 - They operate the millstone manually since the windmill no longer functions
 
