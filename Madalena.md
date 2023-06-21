@@ -1,12 +1,12 @@
 ---
 aliases: []
 ---
-(N male human commoner)
+(N female human commoner)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Dhavit
+## Playing Madalena
 
 ## History/Info
-- [[Fiona Wachter]]'s cook
+- [[Fiona Wachter]]'s maid
 
 ## What They Want
 

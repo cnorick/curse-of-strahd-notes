@@ -97,6 +97,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Amalthia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe41c5a5f8bfb3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Haliq.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2004e12de948f812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Madalena.md",
                 "mode": "source",
                 "source": false
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -259,11 +283,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "af87ac1cc9863f55",
+  "active": "2004e12de948f812",
   "lastOpenFiles": [
-    "Dhavit.md",
-    "Madalena.md",
     "Haliq.md",
+    "Amalthia.md",
+    "Madalena.md",
+    "Dhavit.md",
     "Fiona Wachter.md",
     "Ernst Larnak.md",
     "Nikolai Wachter.md",
@@ -306,7 +331,6 @@
     "Milivoj.md",
     "Characters/Vargas Vallakovich.md",
     "Handouts/Maps/Village of Barovia Map.md",
-    "Handouts/Maps/Tser Pool Map.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

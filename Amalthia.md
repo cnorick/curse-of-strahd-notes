@@ -1,12 +1,12 @@
 ---
 aliases: []
 ---
-(N male human commoner)
+(N female human commoner)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Haliq
+## Playing Amalthia
 
 ## History/Info
-- [[Fiona Wachter]]'s valet
+- [[Fiona Wachter]]'s maid
 
 ## What They Want
 
@@ -16,7 +16,7 @@ aliases: []
 
 ## Relations
 - servant for: [[Fiona Wachter]]
-- works with: [[Madalena]], [[Dhavit]], [[Amalthia]]
+- works with [[Haliq]], [[Madalena]], [[Dhavit]]
 
 ## Stat Block
 
