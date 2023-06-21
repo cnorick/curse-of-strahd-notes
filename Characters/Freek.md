@@ -1,5 +1,5 @@
 (NE human boy)
-
+![[Freek.jpg|200]]
 ## Playing Freek
 - He has no soul and should not be too talkative
 - A 7-year-old boy

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Freek.md",
+                "file": "Characters/Myrtle.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Freek.md",
+                "file": "Characters/Myrtle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Freek.md",
+                "file": "Characters/Myrtle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Freek.md"
+                "file": "Characters/Myrtle.md"
               }
             }
           },
@@ -189,6 +189,9 @@
   },
   "active": "838cfab55277bb27",
   "lastOpenFiles": [
+    "Characters/Freek.md",
+    "Assets/Images/People/Myrtle.jpg",
+    "Assets/Images/People/Myrtle.jpg.crdownload",
     "Assets/Images/People/Freek.jpg",
     "Assets/Images/People/Freek.jpg.crdownload",
     "Locations/The Town of Vallaki (N).md",
@@ -201,7 +204,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-6.html",
     "Website/no-spoilers/campaign-notes/session-notes/session-5.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-4.html",
     "reference/spells/Seeming.md",
     "reference/Half-Orc.md",
     "reference/Between Adventures.md",
@@ -233,8 +235,6 @@
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Assets/Images/Maps/barovia_village_tagged.jpg",
-    "Assets/Images/Maps/barovia_village_untagged.jpg",
-    "Assets/Images/Maps/Bogs of Berez/Berez Churchyard/01 - Berez - Churchyard.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
