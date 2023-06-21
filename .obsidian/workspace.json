@@ -4,46 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1078ba6f53eedb48",
+        "id": "f2258e1af448ee3e",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc6f239c45f958c",
+            "id": "f9eaba87f8bba327",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "39a96e4a3e8bb194",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98c60ced9152ee80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Victor Vallakovich.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "4d3c6ae89038cd64",
+            "id": "3661bada53334dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Vargas Vallakovich.md",
+                "file": "Milivoj.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
+                "file": "Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads Map.md",
+                "file": "Milivoj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Maps/River Ivlis Crossroads Map.md"
+                "file": "Milivoj.md"
               }
             }
           },
@@ -205,8 +183,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3cc6f239c45f958c",
+  "active": "3661bada53334dd1",
   "lastOpenFiles": [
+    "Milivoj.md",
+    "Characters/Vargas Vallakovich.md",
+    "Handouts/Maps/Village of Barovia Map.md",
+    "Handouts/Maps/Tser Pool Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/The Windmill Map.md",
+    "Handouts/Maps/River Ivlis Crossroads Map.md",
     "Handouts/Maps/Old Svalich Road Map.md",
     "Handouts/Maps/Barovia Church Map.md",
     "Handouts/Maps/Barovia Map.md",
@@ -233,14 +218,7 @@
     "Misc/Peoples and Lore/Vallaki Lore.md",
     "Argynvostholt.md",
     "Locations/Lake Zarovich (L).md",
-    "Characters/Vargas Vallakovich.md",
     "Locations/Werewolf Den (Z).md",
-    "Locations/Yester Hill (Y).md",
-    "Locations/The Amber Temple (X).md",
-    "Locations/The Wizard of Wines (W).md",
-    "Locations/Van Richten's Tower (V).md",
-    "Locations/Ruins of Berez (U).md",
-    "Locations/Tsolenka Pass (T).md",
     "Locations/Untitled",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
