@@ -64,6 +64,8 @@ Closer investigation:
 	- They use their action to disengage from her instead of attacking
 - Bring in 3 [[Swarm of Ravens]] to help
 	- make it cinematic
+- Let the kids help
+	- [[Myrtle]] and [[Lucien]]
 
 ## Areas
 ### Ground Floor
