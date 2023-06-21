@@ -2,18 +2,14 @@
 statblock: true
 name: Night Hag with Spells Inlined
 extends: Night Hag
-spells: 
-      • 1st level (4 slots): identify, ray of sickness
-
-      • 2nd level (3 slots): hold person, locate object
-
-      • 3rd level (3 slots): bestow curse, counterspell, lightning bolt
-
-      • 4th level (3 slots): phantasmal killer, polymorph
-
-      • 5th level (2 slots): contact other plane, scrying
-
-      • 6th level (1 slot): eye bite
+spells:
+- While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+- 1st level (4 slots): identify, ray of sickness
+- 2nd level (3 slots): hold person, locate object
+- 3rd level (3 slots): bestow curse, counterspell, lightning bolt
+- 4th level (3 slots): phantasmal killer, polymorph
+- 5th level (2 slots): contact other plane, scrying
+- 6th level (1 slot): eye bite
 
 monster: Night Hag
 
