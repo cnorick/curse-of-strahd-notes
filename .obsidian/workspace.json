@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yevgeni Krushkin.md",
+                "file": "Characters/Rictavio.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yevgeni Krushkin.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yevgeni Krushkin.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yevgeni Krushkin.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "ca488a835f1f7a6d",
   "lastOpenFiles": [
-    "Szoldar Szoldarovich.md",
     "Yevgeni Krushkin.md",
+    "Szoldar Szoldarovich.md",
     "Assets/Images/People/Yevgeni Krushkin.jpg",
     "Assets/Images/People/Yevgeni Krushkin.jpg.crdownload",
     "Assets/Images/People/Szoldar Szoldarovich.jpg",

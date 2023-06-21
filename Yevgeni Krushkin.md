@@ -3,7 +3,7 @@ aliases: [Yevgeni]
 ---
 (N male human scout)
 ![[Yevgeni Krushkin.jpg|200]]
-## Playing Szoldar Szoldarovich
+## Playing Yevgeni Krushkin
 
 ## History/Info
 
@@ -14,7 +14,7 @@ aliases: [Yevgeni]
 [[Vallaki Lore]]
 
 ## Relations
-- buddy: [[Yevgeni Krushkin]]
+- buddy: [[Szoldar Szoldarovich]]
 
 ## Stat Block
 
@@ -23,4 +23,4 @@ monster: Scout
 ```
 
 ```dataviewjs
-`
+```
