@@ -1,3 +1,5 @@
+.statblock-plugin-parent {
+
 .statblock a {
     font-style: var(--statblock-link-style)
 }
@@ -371,4 +373,5 @@ ul.spell-item:last-of-type {
 
 .statblock-markdown p~p {
     display: inline-block
+}
 }
