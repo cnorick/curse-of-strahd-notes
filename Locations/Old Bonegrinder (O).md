@@ -97,9 +97,10 @@ Inside the cabinet:
 ### Bone Mill (O2)
 >A \[set of] haggard, heavyset old woman with a face as wrinkled as a boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
 >
->The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
-- Unless lured elsewhere, [[Offalia Wormwiggle|Offalia]] and [[Bella Sunbane|Bella]] are here running the grindstone, grinding childrens' bones
+>The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up.
 
+- Unless lured elsewhere, [[Offalia Wormwiggle|Offalia]] and [[Bella Sunbane|Bella]] are here running the grindstone, grinding children's bones
+- They operate the millstone manually since the windmill no longer functions
 
 ### Bedroom (O3)
 ### Domed Attic (O4)
