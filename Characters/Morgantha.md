@@ -44,7 +44,8 @@ alias: Granny
 ## Stat Block
 
 ```statblock
-monster: Night Hag
+extends: Night Hag with Inline Spells
+name: Night Hag
 ```
 
 ```statblock

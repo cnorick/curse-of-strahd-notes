@@ -8,18 +8,16 @@ spells:
   - 2/day each: plane shift (self only), ray of enfeeblement, sleep
   - Shared Spellcasting -- While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves. For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
   - 1st level (4 slots): identify, ray of sickness
-- 2nd level (3 slots): hold person, locate object
-- 3rd level (3 slots): bestow curse, counterspell, lightning bolt
-- 4th level (3 slots): phantasmal killer, polymorph
-- 5th level (2 slots): contact other plane, scrying
-- 6th level (1 slot): eye bite
+  - 2nd level (3 slots): hold person, locate object
+  - 3rd level (3 slots): bestow curse, counterspell, lightning bolt
+  - 4th level (3 slots): phantasmal killer, polymorph
+  - 5th level (2 slots): contact other plane, scrying
+  - 6th level (1 slot): eye bite
 ---
-spells:
-	- Shared Spellcasting -- While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves. For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
-
 
 ```statblock
-monster: Night Hag with Inline Spells
+extends: Night Hag with Inline Spells
+name: Night Hag
 ```
 
 ```dataviewjs
