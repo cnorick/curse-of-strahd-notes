@@ -11,14 +11,14 @@ aliases: [Gadof, Blinksky]
 
 ## What They Know
 [[Barovian Lore]]
-[[Vall
+[[Vallaki Lore]]
 
 ## Relations
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Commoner
 ```
 
 ```dataviewjs

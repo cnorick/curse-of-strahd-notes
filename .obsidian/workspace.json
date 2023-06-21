@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gadof Blinsky.md",
+                "file": "Henrik van der Voort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gadof Blinsky.md",
+                "file": "Henrik van der Voort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gadof Blinsky.md"
+                "file": "Henrik van der Voort.md"
               }
             }
           },
@@ -295,10 +295,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e647011ed386d3e0",
+  "active": "c708d812579e7b50",
   "lastOpenFiles": [
-    "Henrik van der Voort.md",
     "Gadof Blinsky.md",
+    "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg.crdownload",
+    "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg.crdownload",
+    "Henrik van der Voort.md",
     "Stella Wachter.md",
     "Assets/Images/People/Henrik van der Voort.jpg",
     "Assets/Images/People/Henrik van der Voort.jpg.crdownload",
@@ -338,11 +342,6 @@
     "Urwin Martikov.md",
     "Characters/Rictavio.md",
     "Handouts/Images/Portraits/Portrait of Rictavio.md",
-    "Custom Monsters/Rictavio Statblock.md",
-    "Assets/Images/People/Rictavio-Token.png",
-    "Assets/Images/People/Rictavio-Token.png.crdownload",
-    "Assets/Images/People/Rictavio.jpg",
-    "Assets/Images/People/Rictavio.jpg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
