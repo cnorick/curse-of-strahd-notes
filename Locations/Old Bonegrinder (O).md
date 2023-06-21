@@ -18,7 +18,7 @@ Closer investigation:
 	- Once atop the windmill's hill, the characters can see a ring of four squat megaliths at the forest's edge
 	- Ravens can be seen circling in the air above the stones (see [[#The Megaliths]])
 
-## Interactions
+## Coming Inside
 - [[Morgantha]] is not home when the characters arrive, but her daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]] are there
 	- [[Bella Sunbane|Bella]] is somewhere upstairs too, but comes down every now and then to check the pies
 	- [[Offalia Wormwiggle|Offalia]] is upstairs running the bone grinder
@@ -33,7 +33,7 @@ Closer investigation:
 	- The door is unlocked
 - [[Bella Sunbane|Bella]] just calls [[Offalia Wormwiggle|Offalia]] "Sister" because of the sinister name
 
-### Conversation with Bella
+## Conversation with Bella
 - Her sister is upstairs hard at work
 	- "Sister! Come say hello to our guests!" "Oh, hush, Bella! I'm working! You know Mother will be home soon."
 - Bella's mother is Morgantha and she frequently goes into town for a few days at a time to sell her wares
@@ -49,7 +49,12 @@ Closer investigation:
 - If the PCs bring up the deed to the windmill that they obtained from Death House, Bella looks suddenly devastated
 	- She tells the PCs that the windmill was abandoned for centuries before their grandmother came to live there
 	- "I-Is that why you're here? To kick three old women out of their home? Shame on you!"
-- Otherwise, Bella does her best to keep the conversation about the PCs. She asks them where they're off to and how they're handling Barovia. Better to talk about the PCs than them, after all.
+- Otherwise, Bella does her best to keep the conversation about the PCs
+	- She asks them where they're off to and how they're handling Barovia
+	- Better to talk about the PCs than them, after all
+
+## Fighting
+- Don't bring [[Morg
 
 ## Areas
 ### Ground Floor
