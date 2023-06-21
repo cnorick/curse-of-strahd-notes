@@ -27,6 +27,7 @@ Closer investigation:
 	- [[Bella Sunbane|Bella]] is really friendly and invites them inside
 	- They immediately smell the scent of something delicious
 - If they sneak in, and [[Bella Sunbane|Bella]] hears, she yells down "Mother is that you?"
+	- The door is unlocked
 - [[Bella Sunbane|Bella]] just calls [[Offalia Wormwiggle|Offalia]] "Sister" because of the sinister name
 
 ## Areas
