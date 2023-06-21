@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bella Sunbane.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -283,8 +283,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ccbc112ad7d89351",
+  "active": "c97a5d43c89183c0",
   "lastOpenFiles": [
+    "Characters/Bella Sunbane.md",
     "Characters/Morgantha.md",
     "Locations/Old Bonegrinder (O).md",
     "reference/spells/Ray of Sickness.md",
@@ -294,7 +295,6 @@
     "Handouts/Maps/The Windmill Map.md",
     "Characters/Strahd Von Zarovich.md",
     "Night Hag.md",
-    "Characters/Bella Sunbane.md",
     "reference/monsters/Aboleth.md",
     "Characters/Cyrus Belview.md",
     "Session Notes/Session 5.md",
