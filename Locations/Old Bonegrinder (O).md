@@ -110,7 +110,11 @@ If [[Bella Sunbane|Bella]] is still here:
 >In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine-foot-high ceiling. A moldy bed with a tattered canopy stands nearby.
 
 - The discarded clothing belongs to children whom the night hags have already devoured
-- The trapdoor in the ceiling can be pushed open to reveal [area O4](http://longo.com.br/5e/adventure.html#CoS,6,o4.%20domed%20attic).
+- The trapdoor in the ceiling can be pushed open to reveal the [[#Domed Attic (O4)]]
+- Each crate is 3 feet square
+	- The top one is empty, but the middle and lower ones each contain a captive child
+	- The outward-facing side of each crate is fitted with a small door that has an iron latch and iron hinges
+	- It can be unlatched and opened easily from the outside.
 
 ### Domed Attic (O4)
 
