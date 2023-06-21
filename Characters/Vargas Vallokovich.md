@@ -31,6 +31,7 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich, The Baron]
 ## Relations
 - henchman: [[Izek Strazni]]
 - wife: [[Lydia Petrovna]]
+- son: [[Victor Vallakovich]]
 
 ## Stat Block
 
