@@ -21,7 +21,9 @@ brother: [[Bray Martikova]]
 ## Stat Block
 
 ```statblock
-monster: Wereraven
+extends: Wereraven
+name: Child Wereraven
+hp: 7
 ```
 
 ```dataviewjs
