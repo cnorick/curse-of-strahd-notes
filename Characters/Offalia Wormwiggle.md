@@ -4,6 +4,8 @@ alias: Offalia
 (Medium fiend neutral evil)
 
 ## Playing Offalia Wormwiggle
+- Really kind while disguised
+- Not very attractive
 
 ## History/Info
 

@@ -1,8 +1,10 @@
 ---
 alias: Bella
 ---
-(NE human)
+(Medium fiend neutral evil)
 ## Playing Bella Sunbane
+- Really kind while disguised
+- Not very attractive
 
 ## History/Info
 
