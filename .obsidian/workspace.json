@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Arrigal.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Arrigal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Arrigal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stella Wachter.md"
+                "file": "Arrigal.md"
               }
             }
           },
@@ -285,6 +285,8 @@
   },
   "active": "4899e72c64783c25",
   "lastOpenFiles": [
+    "Stella Wachter.md",
+    "Arrigal.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
     "Henrik van der Voort.md",
     "Gadof Blinsky.md",
@@ -292,7 +294,6 @@
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/DM Map - Vistani Camp.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg",
     "Assets/Images/Maps/Vallaki Valley/Vistani Camp/Map - Vistani Camp.jpg.crdownload",
-    "Stella Wachter.md",
     "Assets/Images/People/Henrik van der Voort.jpg",
     "Assets/Images/People/Henrik van der Voort.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg",
@@ -330,7 +331,6 @@
     "Danika Dorakova.md",
     "Urwin Martikov.md",
     "Characters/Rictavio.md",
-    "Handouts/Images/Portraits/Portrait of Rictavio.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
