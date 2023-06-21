@@ -14,7 +14,9 @@
 - [ ] No one hates [[Vargas Vallakovich|The Burgomaster]] more than [[Fiona Wachter]]
 	- [ ] who is often quoted as saying, "I'd rather serve the devil than a madman."
 	- [ ] She owns an old house in town ([[area N4]]) but rarely leaves her estate
-	- [ ] Her two adult sons, Nikolai and Karl, are local troublemakers. Lady Wachter also has a mad daughter whom she keeps locked away. The burgomaster doesn't confront Fiona or her offspring because he is afraid of Lady Wachter, whose family has old ties to Strahd
+	- [ ] Her two adult sons, [[Nikolai Wachter|Nikolai]] and [[Karl Wachter|Karl]], are local troublemakers
+	- [ ] [[Lady Wachter]] also has a mad daughter whom she keeps locked away
+	- [ ] [[Vargas Vallakovich|The Burgomaster]] doesn't confront [[Fiona]] or her offspring because he is afraid of Lady Wachter, whose family has old ties to [[Strahd]]
 - [ ] Purple flashes of light have been seen emanating from the attic of the burgomaster's mansion. 
 - [ ] Wolves and dire wolves prowl the woods and aren't afraid to attack travelers on the Old Svalich Road. Well-armed groups of hunters and trappers have managed to kill several of the wolves, but more keep coming.
 - [ ] It's too dangerous to go fishing on Lake Zarovich (chapter 2, area L), but the threat of Strahd's wolves hasn't stopped Bluto Krogarov, the town drunk, from trying. He sets out each morning and returns every evening, but hasn't caught any fish in a while.

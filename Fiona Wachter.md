@@ -13,6 +13,7 @@ aliases: [Lady Fiona Wachter, Fiona]
 [[Barovian Lore]]
 
 ## Relations
+- sons: [[Nikolai Wachter]], [[Karl Wachter]]
 
 ## Stat Block
 

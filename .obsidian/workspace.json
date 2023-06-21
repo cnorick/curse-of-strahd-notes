@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fiona Wachter.md",
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiona Wachter.md"
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md"
               }
             }
           },
@@ -254,13 +254,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "34dd8a90e5c3039b",
+  "active": "887fefe960ef4e00",
   "lastOpenFiles": [
+    "Fiona Wachter.md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
     "Nikolai Wachter.md",
     "Assets/Templates/Character.md",
     "Karl Wachter.md",
-    "Fiona Wachter.md",
     "Characters/Strahd Von Zarovich.md",
     "Victor Vallakovich.md",
     "Characters/Vargas Vallakovich.md",
