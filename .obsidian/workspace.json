@@ -85,7 +85,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lord Nikolai Wachter.md",
+                "file": "Luvash.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0b3e134becea3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arabell.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lord Nikolai Wachter.md",
+                "file": "Arabell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lord Nikolai Wachter.md",
+                "file": "Arabell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lord Nikolai Wachter.md"
+                "file": "Arabell.md"
               }
             }
           },
@@ -271,12 +283,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4054059e4d6e748c",
+  "active": "d0b3e134becea3a6",
   "lastOpenFiles": [
+    "Luvash.md",
+    "Arabell.md",
+    "Lord Nikolai Wachter.md",
     "Handouts/Images/Portraits/Portrait of Luvash.md",
     "Handouts/Images/Portraits/Portrait of Arrigal.md",
     "Arrigal.md",
-    "Luvash.md",
     "Assets/Images/People/Luvash.jpg",
     "Assets/Images/People/Luvash.jpg.crdownload",
     "Assets/Images/People/Arrigal.jpg",
@@ -299,7 +313,6 @@
     "Gunther Arasek.md",
     "Yelena Arasek.md",
     "Leo.md",
-    "Lord Nikolai Wachter.md",
     "Fiona Wachter.md",
     "Haliq.md",
     "Amalthia.md",
@@ -318,7 +331,6 @@
     "Handouts/Maps/Vallaki/Vallaki Map.md",
     "Bray Martikova.md",
     "Brom Martikova.md",
-    "Custom Monsters/Child Wereraven.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
