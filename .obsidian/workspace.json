@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccbc112ad7d89351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Bella Sunbane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Bella Sunbane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Characters/Bella Sunbane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Characters/Bella Sunbane.md"
               }
             }
           },
@@ -271,10 +283,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c97a5d43c89183c0",
+  "active": "ccbc112ad7d89351",
   "lastOpenFiles": [
-    "Locations/Old Bonegrinder (O).md",
     "Characters/Morgantha.md",
+    "Locations/Old Bonegrinder (O).md",
     "reference/spells/Ray of Sickness.md",
     "reference/spells/Identify.md",
     "reference/monsters/Hags.md",
