@@ -141,6 +141,7 @@ def updateAllFiles(rootSiteFolder):
           updateFavicon(soup)
           # print('Wrapping images for: {}'.format(fname))
           # wrapImagesInLink(soup)
+          print('Adding styles link for: {}'.format(fname))
           addStylesLink(soup)
           overwriteFile(handle, soup)
 
