@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Characters/Bildrath Cantemir.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,8 +45,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Bildrath Cantemir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Bildrath Cantemir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Bildrath Cantemir.md"
+              }
             }
           },
           {
@@ -197,7 +200,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "576fbbb80afd8897",
+  "active": "ac93ceabaeb1cdb6",
   "lastOpenFiles": [
     "Locations/Village of Barovia (E).md",
     "Locations/The Town of Vallaki (N).md",
