@@ -104,18 +104,6 @@
             }
           },
           {
-            "id": "0a118207804c71d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yelena Arasek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "af87ac1cc9863f55",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -202,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yelena Arasek.md",
+                "file": "Stella Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yelena Arasek.md",
+                "file": "Stella Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yelena Arasek.md"
+                "file": "Stella Wachter.md"
               }
             }
           },
@@ -283,8 +271,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0a118207804c71d7",
+  "active": "4899e72c64783c25",
   "lastOpenFiles": [
+    "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg.crdownload",
+    "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg.crdownload",
+    "reference/Adventuring Gear.md",
     "Gunther Arasek.md",
     "Yelena Arasek.md",
     "Stella Wachter.md",
@@ -323,14 +316,9 @@
     "Assets/Images/People/Rictavio.jpg",
     "Assets/Images/People/Rictavio.jpg.crdownload",
     "Yevgeni Krushkin.md",
-    "Szoldar Szoldarovich.md",
     "Assets/Images/People/Yevgeni Krushkin.jpg",
     "Assets/Images/People/Yevgeni Krushkin.jpg.crdownload",
     "Assets/Images/People/Szoldar Szoldarovich.jpg",
-    "Assets/Images/People/Szoldar Szoldarovich.jpg.crdownload",
-    "The Keepers of the Feather.md",
-    "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Blue Water Inn/Map - Blue Water Inn.jpg.crdownload",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

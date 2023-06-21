@@ -6,6 +6,7 @@ aliases: [Gunther]
 ## Playing Gunther Arasek
 
 ## History/Info
+- They sell from [[reference/Adventuring Gear|Adventuring Gear]] that is 25 gp or less at 5x the price
 
 ## What They Want
 
