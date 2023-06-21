@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: null
+image: [[Assets/Images/People/eva.jpeg]]
 name: Madam Eva
 source:
   - Curse of Strahd
@@ -73,3 +73,10 @@ spells:
   - 8th level (1 slots): earthquake
 spellsNotes: ""
 ---
+
+```statblock
+monster: Madam Eva
+```
+
+```dataviewjs
+```
