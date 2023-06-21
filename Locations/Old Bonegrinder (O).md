@@ -54,7 +54,7 @@ Closer investigation:
 	- Better to talk about the PCs than them, after all
 
 ## Fighting
-- Don't bring [[Morg
+- Don't bring [[Morgantha]] in until later, because the party will have hard time beating a complete coven
 
 ## Areas
 ### Ground Floor
