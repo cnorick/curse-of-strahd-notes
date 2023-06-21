@@ -23,7 +23,8 @@
 - [ ] It's too dangerous to go fishing on [[Lake Zarovich (L)]]
 	- [ ] but the threat of [[Strahd]]'s wolves hasn't stopped [[Bluto Krogarov]], the town drunk, from trying
 	- [ ] He sets out each morning and returns every evening, but hasn't caught any fish in a while
-- [ ] There have been no recent sightings of the [[Mad Mage of Mount Baratok]] (chapter 2, area M). Folks used to see him skulking along the north shore of Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)
+- [ ] There have been no recent sightings of the [[Mad Mage of Mount Baratok]] ([[Mount Baratok (M)|Mount Baratok]])
+	- [ ] Folks used to see him skulking along the north shore of [[Lake Zarovich, shooting lightning bolts into the water to kill the fish. (If the characters seem interested in meeting this wizard, locals recommend that they use the fishing boats on the south shore to cross the lake, because it's shorter and a lot less dangerous than walking around the lake.)
 - [ ] There's a Vistani camp in the woods southwest of town ([area N9](http://longo.com.br/5e/adventure.html#CoS,5,n9.%20vistani%20camp)). The Vistani there aren't very friendly. Vistani aren't welcome in Vallaki.
 - [ ] West of town is a haunted mansion (see chapter 7, "Argynvostholt"). Legend has it that a dragon died there long, long ago.
 - [ ] South of town is a village that has been abandoned for decades. Its burgomaster committed some terrible offense and incurred the wrath of Strahd.
