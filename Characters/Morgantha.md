@@ -47,6 +47,11 @@ monster: Night Hag
 monster: Dretch
 ```
 
-• 1st level (4 slots): identify, ray of sickness • 2nd level (3 slots): hold person, locate object • 3rd level (3 slots): bestow curse, counterspell, lightning bolt • 4th level (3 slots): phantasmal killer, polymorph • 5th level (2 slots): contact other plane, scrying • 6th level (1 slot): eye bite
+- 1st level (4 slots):
+	- [[Identify]]
+	- [[ray of sickness]]
+- 2nd level (3 slots): 
+- [[Hold Person]]
+- [[locate object • 3rd level (3 slots): bestow curse, counterspell, lightning bolt • 4th level (3 slots): phantasmal killer, polymorph • 5th level (2 slots): contact other plane, scrying • 6th level (1 slot): eye bite
 ```dataviewjs
 ```
