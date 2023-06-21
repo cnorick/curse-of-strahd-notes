@@ -36,8 +36,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "576fbbb80afd8897",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,10 +197,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "b2b934086a9817c6",
+  "active": "576fbbb80afd8897",
   "lastOpenFiles": [
-    "Locations/Village of Barovia (E).md",
     "Locations/The Town of Vallaki (N).md",
+    "Locations/Village of Barovia (E).md",
     "Characters/Freek.md",
     "Characters/Myrtle.md",
     "Session Notes/Session 6.md",
