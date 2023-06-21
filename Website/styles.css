@@ -1,25 +1,28 @@
-.statblock-plugin-parent {
 
-.statblock a {
+.statblock-plugin-parent .statblock a {
     font-style: var(--statblock-link-style)
 }
 
+.statblock-plugin-parent 
 .container {
     display: flex;
     width: 100%;
     margin: 0.25rem 0
 }
 
+.statblock-plugin-parent 
 .statblock {
     margin: 0 auto;
     position: relative
 }
 
+.statblock-plugin-parent 
 .icons {
     position: absolute;
     left: 0
 }
 
+.statblock-plugin-parent 
 .bar {
     height: 5px;
     background: var(--statblock-bar-color);
@@ -28,12 +31,14 @@
     width: auto
 }
 
+.statblock-plugin-parent 
 .flex-container {
     display: flex;
     justify-content: space-between;
     align-items: center
 }
 
+.statblock-plugin-parent 
 .heading {
     font-family: var(--statblock-heading-font);
     color: var(--statblock-heading-font-color);
@@ -47,10 +52,12 @@
     line-height: var(--statblock-heading-line-height)
 }
 
+.statblock-plugin-parent 
 .inline {
     display: inline
 }
 
+.statblock-plugin-parent 
 .subheading {
     font-weight: var(--statblock-subheading-font-weight);
     font-style: var(--statblock-subheading-font-style);
@@ -58,15 +65,18 @@
     margin: 0
 }
 
+.statblock-plugin-parent 
 .image {
     width: var(--statblock-image-width);
     height: var(--statblock-image-height)
 }
 
+.statblock-plugin-parent 
 .image.pointer {
     cursor: pointer
 }
 
+.statblock-plugin-parent 
 img {
     object-fit: cover;
     width: 100%;
@@ -76,6 +86,7 @@ img {
     object-position: center
 }
 
+.statblock-plugin-parent 
 .tapered-rule {
     width: auto;
     margin: 0.5em 0;
@@ -89,12 +100,14 @@ img {
     -webkit-clip-path: polygon(0 0, 0 100%, 95% 50%)
 }
 
+.statblock-plugin-parent 
 .line {
     line-height: var(--statblock-property-line-height);
     display: block;
     color: var(--statblock-property-font-color)
 }
 
+.statblock-plugin-parent 
 .property-name {
     margin: 0;
     margin-right: 0.25em;
@@ -103,21 +116,25 @@ img {
     font-weight: var(--statblock-property-name-font-weight)
 }
 
+.statblock-plugin-parent 
 .property-text {
     display: inline;
     white-space: pre-line;
     text-indent: 0
 }
 
+.statblock-plugin-parent 
 .property-text {
     display: inline;
     margin: 0
 }
 
+.statblock-plugin-parent 
 .statblock-table-header {
     font-weight: var(--statblock-table-header-font-weight)
 }
 
+.statblock-plugin-parent 
 .table {
     display: flex;
     justify-content: space-evenly;
@@ -125,6 +142,7 @@ img {
     flex-wrap: wrap
 }
 
+.statblock-plugin-parent 
 .table-item {
     display: flex;
     justify-content: center;
@@ -132,12 +150,14 @@ img {
     flex-flow: column nowrap
 }
 
+.statblock-plugin-parent 
 .line {
     line-height: var(--statblock-saves-line-height);
     display: block;
     color: var(--statblock-font-color)
 }
 
+.statblock-plugin-parent 
 .property-name {
     margin: 0;
     margin-right: 0.25em;
@@ -145,11 +165,13 @@ img {
     font-weight: bold
 }
 
+.statblock-plugin-parent 
 .property-text {
     display: inline;
     margin: 0
 }
 
+.statblock-plugin-parent 
 .property-name {
     margin: 0;
     margin-right: 0.25em;
@@ -158,10 +180,12 @@ img {
     font-style: var(--statblock-traits-font-style)
 }
 
+.statblock-plugin-parent 
 .statblock-nested-traits {
     margin-left: 1rem
 }
 
+.statblock-plugin-parent 
 .section-header {
     border-bottom: var(--statblock-section-heading-border-size) solid var(--statblock-section-heading-border-color);
     color: var(--statblock-section-heading-font-color);
@@ -175,23 +199,27 @@ img {
     break-after: avoid-column
 }
 
+.statblock-plugin-parent 
 .top {
     display: flex;
     align-items: center;
     justify-content: space-between
 }
 
+.statblock-plugin-parent 
 .name {
     display: flex;
     align-items: center
 }
 
+.statblock-plugin-parent 
 .name .buttons {
     display: flex;
     justify-content: flex-end;
     align-items: center
 }
 
+.statblock-plugin-parent 
 .bottom {
     display: flex;
     justify-content: flex-end;
@@ -199,16 +227,19 @@ img {
     margin-top: 0.5rem
 }
 
+.statblock-plugin-parent 
 .min-height {
     min-height: 2rem
 }
 
+.statblock-plugin-parent 
 .block {
     display: flex;
     justify-content: flex-start;
     align-items: center
 }
 
+.statblock-plugin-parent 
 .item {
     display: grid;
     grid-template-columns: 1fr;
@@ -217,6 +248,7 @@ img {
     margin: 2px
 }
 
+.statblock-plugin-parent 
 .group {
     display: grid;
     grid-template-columns: 1fr;
@@ -224,10 +256,12 @@ img {
     min-height: 2rem
 }
 
+.statblock-plugin-parent 
 .dropdown-icon {
     align-self: flex-start
 }
 
+.statblock-plugin-parent 
 .inline {
     display: flex;
     justify-content: space-between;
@@ -237,10 +271,12 @@ img {
     min-width: 2rem
 }
 
+.statblock-plugin-parent 
 .icon {
     display: flex
 }
 
+.statblock-plugin-parent 
 .statblock-creator-container {
     display: flex;
     justify-content: space-between;
@@ -249,27 +285,33 @@ img {
     gap: 0.25rem
 }
 
+.statblock-plugin-parent 
 body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     visibility: hidden
 }
 
+.statblock-plugin-parent 
 .statblock-creator-block {
     width: 100%
 }
 
+.statblock-plugin-parent 
 .icons {
     display: flex;
     justify-content: flex-end
 }
 
+.statblock-plugin-parent 
 .statblock-creator-container .icons {
     align-items: center
 }
 
+.statblock-plugin-parent 
 .icon:not(:first-child) .clickable-icon {
     margin-left: 0
 }
 
+.statblock-plugin-parent 
 .if-else-block-container {
     display: grid;
     grid-template-columns: 1fr;
@@ -279,6 +321,7 @@ body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     padding: 0.25rem
 }
 
+.statblock-plugin-parent 
 .collapse-container {
     display: grid;
     grid-template-columns: auto 1fr;
@@ -286,11 +329,13 @@ body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     gap: 0.25rem
 }
 
+.statblock-plugin-parent 
 .collapsible {
     border-left: 2px solid grey;
     padding-left: 0.25rem
 }
 
+.statblock-plugin-parent 
 .statblock-creator-container {
     display: flex;
     justify-content: space-between;
@@ -299,42 +344,51 @@ body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     gap: 0.25rem
 }
 
+.statblock-plugin-parent 
 body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     visibility: hidden
 }
 
+.statblock-plugin-parent 
 .statblock-creator-block {
     width: 100%
 }
 
+.statblock-plugin-parent 
 .icons {
     display: flex;
     justify-content: flex-end
 }
 
+.statblock-plugin-parent 
 .statblock-creator-container .icons {
     align-items: center
 }
 
+.statblock-plugin-parent 
 .icon:not(:first-child) .clickable-icon {
     margin-left: 0
 }
 
+.statblock-plugin-parent 
 .layout {
     border: 2px dashed grey
 }
 
+.statblock-plugin-parent 
 .property-block-container {
     display: flex;
     justify-content: space-between;
     align-items: center
 }
 
+.statblock-plugin-parent 
 .info {
     display: flex;
     flex-flow: column
 }
 
+.statblock-plugin-parent 
 .context {
     display: flex;
     align-items: center;
@@ -342,36 +396,43 @@ body:not(.is-mobile) .statblock-creator-container:not(:hover)>.icons {
     color: var(--text-muted)
 }
 
+.statblock-plugin-parent 
 .context-item {
     display: flex;
     align-items: center
 }
 
+.statblock-plugin-parent 
 ul.spell-item {
     margin: 0
 }
 
+.statblock-plugin-parent 
 ul.spell-item:first-of-type {
     margin-top: revert
 }
 
+.statblock-plugin-parent 
 ul.spell-item:last-of-type {
     margin-bottom: revert
 }
 
+.statblock-plugin-parent 
 .spells {
     font-style: italic
 }
 
+.statblock-plugin-parent 
 .statblock-markdown {
     display: inline
 }
 
+.statblock-plugin-parent 
 .statblock-markdown p {
     display: inline
 }
 
+.statblock-plugin-parent 
 .statblock-markdown p~p {
     display: inline-block
-}
 }
