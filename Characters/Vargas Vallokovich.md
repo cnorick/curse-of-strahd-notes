@@ -2,7 +2,7 @@
 aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich]
 ---
 (NE male human noble)
-![[Arik the Barkeep V2.webp|200]]
+![[Baron_Vargas_Vallakovich.jpg|200]]
 ## Playing Untitled
 
 ## History/Info
@@ -17,7 +17,7 @@ aliases: [Vargas, Burgomaster Vallokovich, Baron Vargas Vallakovich]
 ## Stat Block
 
 ```statblock
-monster:
+monster: Noble
 ```
 
 ```dataviewjs
