@@ -104,6 +104,18 @@
             }
           },
           {
+            "id": "c708d812579e7b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Henrik van der Voort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "af87ac1cc9863f55",
             "type": "leaf",
             "state": {
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Henrik van der Voort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stella Wachter.md",
+                "file": "Henrik van der Voort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stella Wachter.md"
+                "file": "Henrik van der Voort.md"
               }
             }
           },
@@ -271,8 +283,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "4899e72c64783c25",
+  "active": "c708d812579e7b50",
   "lastOpenFiles": [
+    "Stella Wachter.md",
+    "Henrik van der Voort.md",
+    "Assets/Images/People/Henrik van der Voort.jpg",
+    "Assets/Images/People/Henrik van der Voort.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/DM Map - Coffin Maker's Shop.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/Coffin Maker's Shop/Map - Coffin Maker's Shop.jpg",
@@ -280,7 +296,6 @@
     "reference/Adventuring Gear.md",
     "Gunther Arasek.md",
     "Yelena Arasek.md",
-    "Stella Wachter.md",
     "Leo.md",
     "Lord Nikolai Wachter.md",
     "Fiona Wachter.md",
@@ -316,9 +331,6 @@
     "Assets/Images/People/Rictavio.jpg",
     "Assets/Images/People/Rictavio.jpg.crdownload",
     "Yevgeni Krushkin.md",
-    "Assets/Images/People/Yevgeni Krushkin.jpg",
-    "Assets/Images/People/Yevgeni Krushkin.jpg.crdownload",
-    "Assets/Images/People/Szoldar Szoldarovich.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
