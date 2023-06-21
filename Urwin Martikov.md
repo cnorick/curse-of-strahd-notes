@@ -1,7 +1,7 @@
 ---
 aliases: [Urwin]
 ---
-(LG male human)
+(LG male wereraven)
 ![[Arik the Barkeep V2.webp|200]]
 
 ## Playing Urwin Martikov
@@ -19,9 +19,8 @@ aliases: [Urwin]
 - member of: [[The Keepers of the Feather]]
 
 ## Stat Block
-
 ```statblock
-monster: wereraven
+monster: Wereraven
 ```
 
 ```dataviewjs
