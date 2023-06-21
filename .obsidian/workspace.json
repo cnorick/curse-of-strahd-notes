@@ -97,21 +97,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c079618d0316e332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Lake Zarovich (L).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lake Zarovich (L).md",
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lake Zarovich (L).md",
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lake Zarovich (L).md"
+                "file": "Misc/Peoples and Lore/Vallaki Lore.md"
               }
             }
           },
@@ -266,8 +254,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "c079618d0316e332",
+  "active": "0310532b78868fc1",
   "lastOpenFiles": [
+    "Locations/Lake Zarovich (L).md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
     "Characters/Vargas Vallakovich.md",
     "Locations/Werewolf Den (Z).md",
@@ -291,7 +280,6 @@
     "Locations/Old Svalich Road (A).md",
     "Locations/Untitled",
     "Bluto Krogarov.md",
-    "Locations/Lake Zarovich (L).md",
     "Fiona Wachter.md",
     "Nikolai Wachter.md",
     "Assets/Templates/Character.md",
