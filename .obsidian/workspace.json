@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md",
+                "file": "Victor Vallakovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md",
+                "file": "Victor Vallakovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md",
+                "file": "Victor Vallakovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Vargas Vallokovich.md"
+                "file": "Victor Vallakovich.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "98c60ced9152ee80",
   "lastOpenFiles": [
+    "Characters/Vargas Vallokovich.md",
     "Characters/Lydia Petrovna.md",
     "Index.md",
     "reference/Alignment.md",
@@ -244,7 +245,6 @@
     "Custom Monsters/Dog.md",
     "Custom Monsters/Strahd Statblock.md",
     "Characters/Offalia Wormwiggle.md",
-    "Characters/Bella Sunbane.md",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg",
     "Assets/Images/People/Baron_Vargas_Vallakovich.jpg.crdownload",
     "Assets/Images/People/Myrtle.jpg",
