@@ -57,8 +57,14 @@ monster: Dretch
 	- [[Bestow Curse]]
 	- [[Counterspell]]
 	- [[Lightning Bolt]]
-- 4th level (3 slots): phantasmal killer, polymorph • 5th level (2 slots): contact other plane, scrying • 6th level (1 slot): eye bite
-	[[Phantasmal Killer]]
+- 4th level (3 slots): 
+	- [[Phantasmal Killer]]
+	- [[Polymorph]]
+- 5th level (2 slots):
+	- [[Contact Other Plane]]
+	- [[Scrying]]
+ - 6th level (1 slot):eye bite
+	- [[Eyebite]]
 	
 ```dataviewjs
 ```
