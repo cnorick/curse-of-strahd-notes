@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Vargas Vallokovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Vargas Vallokovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Vargas Vallokovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Vargas Vallokovich.md"
               }
             }
           },
@@ -176,6 +176,8 @@
   },
   "active": "98c60ced9152ee80",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
+    "Characters/Vargas Vallokovich.md",
     "Handouts/Images/Portraits/Portrait of Freek.md",
     "Handouts/Images/Portraits/Portrait of Myrtle.md",
     "Untitled.md",
@@ -187,7 +189,6 @@
     "Assets/Images/People/Myrtle.jpg.crdownload",
     "Assets/Images/People/Freek.jpg",
     "Assets/Images/People/Freek.jpg.crdownload",
-    "Locations/The Town of Vallaki (N).md",
     "Characters/Bildrath Cantemir.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
@@ -213,7 +214,6 @@
     "Locations/Castle Ravenloft (K).md",
     "Locations/Death House.md",
     "Locations/Krezk (S).md",
-    "Locations/Old Bonegrinder (O).md",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/DM Map - Old Bonegrinder.jpg",
     "Assets/Images/Maps/Revenloft Moors/Old Bonegrinder/01 - Old Bonegrinder Day (Ground Floor).webp",
