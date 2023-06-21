@@ -29,5 +29,5 @@ dv.list(dv.pages('"Handouts"').sort(k => k.file.name).file.link)
 ```
 ## Reference
 ```dataviewjs
-	dv.list(dv.pages('"reference"').filter(k => k.file.include_in_index != false).sort(k => k.file.name).file.link)
+	dv.list(dv.pages('"reference/"').filter(k => k.file.include_in_index != false).sort(k => k.file.name).file.link)
 ```
