@@ -15,6 +15,8 @@ aliases: [Lady Fiona Wachter, Fiona]
 
 ## Relations
 - sons: [[Nikolai Wachter]], [[Karl Wachter]]
+- spy: [[Ernst Larnak]]
+- servants: [[Dhavit]], [[Madalena]], [[Amalthia]]
 
 ## Stat Block
 

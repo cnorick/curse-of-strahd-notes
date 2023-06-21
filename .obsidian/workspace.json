@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72a696a5bebb41ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiona Wachter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ernst Larnak.md",
+                "file": "Fiona Wachter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ernst Larnak.md",
+                "file": "Fiona Wachter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ernst Larnak.md"
+                "file": "Fiona Wachter.md"
               }
             }
           },
@@ -223,11 +235,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "64cc7ab97621cf33",
+  "active": "72a696a5bebb41ea",
   "lastOpenFiles": [
+    "Ernst Larnak.md",
     "Nikolai Wachter.md",
     "Karl Wachter.md",
-    "Ernst Larnak.md",
     "Udo Lukovich.md",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg",
     "Assets/Images/People/Fiona Wachter and Majesto.jpg.crdownload",
