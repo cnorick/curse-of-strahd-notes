@@ -7,6 +7,8 @@
 	- [ ] Some Vallakians believe that the festivals keep the devil [[Strahd]] at bay
 	- [ ] Others think they provide no protection or benefit whatsoever
 	- [ ] Most consider them dismal affairs
+- [ ] [[Vargas Vallakovich|The Baron]]'s father had tough laws
+	- [ ] It's said he died from illness, but there is some su
 - [ ] Those who speak ill of the festivals are declared by [[Vargas Vallakovich|The Burgomaster]] to be in league with the [[Strahd Von Zarovich|Devil Strahd]] and arrested
 	- [ ] Some are thrown in the stocks ([[area N8]]), while others are taken to the [[burgomaster's mansion]] so that [[Vargas Vallakovich|The Baron]] can purge them of their evil
 - [ ] [[Vargas Vallakovich|The Burgomaster]]'s henchman, [[Izek Strazni]], has a history of violence as well as a fiendish deformity: a monstrous arm with which he can conjure fire
