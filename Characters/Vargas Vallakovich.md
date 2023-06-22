@@ -8,7 +8,7 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 	- prides himself on his good breeding and finely honed leadership skills
 - catchphrase: "All will be well!"
 - Has a bunch of nervous ticks
-	- smiling
+	- walks around with a constant, almost comically strained smile
 - He has a very brittle ego
 	- he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully
 
