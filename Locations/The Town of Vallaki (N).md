@@ -17,7 +17,10 @@ aliases: [Vallaki, The Town of Vallaki]
 ### Punishments
 - Time in stocks between a day to a few weeks
 - Seizure of assets
-- Inprisonment at Vallaki's reformation 
+- Imprisonment at Vallaki's Reformation House
+- Personal reformation conducted by [[Vargas Vallakovich|The Baron]]
+	- He chooses a random dissenter and takes them to his mansion for hands-on torture
+- 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
