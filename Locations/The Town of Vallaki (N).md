@@ -20,7 +20,9 @@ aliases: [Vallaki, The Town of Vallaki]
 - Imprisonment at Vallaki's Reformation House
 - Personal reformation conducted by [[Vargas Vallakovich|The Baron]]
 	- He chooses a random dissenter and takes them to his mansion for hands-on torture
-- 
+- public hanging
+	- doesn't happen often, and reserved for severe dissenters that repeat offense
+
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
