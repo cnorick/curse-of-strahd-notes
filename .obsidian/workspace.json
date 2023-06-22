@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "75514e382bfd4bd9",
+        "id": "4abe1f73c861baa9",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7fb71cc3d5bcf6",
+            "id": "dfbfae95a824880a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/The Town of Vallaki (N).md"
+              }
             }
           },
           {
@@ -166,8 +174,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2f7fb71cc3d5bcf6",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "reference/creatures/Swarm of Ravens.md",
     "Characters/Ireena Kolyana.md",
     "Locations/Village of Barovia (E).md",
     "Misc/Peoples and Lore/The Morninglord.md",
@@ -213,7 +222,6 @@
     "Characters/Cyrus Belview.md",
     "Characters/Donavich.md",
     "Characters/Doru.md",
-    "Characters/Elizabeth Durst.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
