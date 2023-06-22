@@ -17,7 +17,8 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 - Since his father blamed everything on [[Strahd Von Zarovich|Strahd]], [[Vargas Vallakovich|Vargas]] was always able to blame his father's actions on someone else
 	- So much so, he became deluded, and everything bad was because of [[Strahd Von Zarovich|Strahd]]
 - He killed his father
-	- He thought his
+	- He thought his father was abusive because he was possessed by [[Strahd Von Zarovich|Strahd]]
+	- He gave his 
 
 ### About
 - If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and
