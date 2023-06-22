@@ -11,7 +11,10 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 	- he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully
 
 ## History/Info
-### 
+### Origin Story
+- Was a vic
+
+### About
 - If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and
 	- sends twelve [[Guard|Guards]] to arrest them, seize their weapons, and run them out of town
 	- If the guards fail in their duty, the baron sends [[Izek Strazni]] to rally a mob of thirty [[Commoner|Commoners]] to lynch the party
@@ -36,13 +39,13 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 - son: [[Victor Vallakovich]]
 
 ## Stat Block
-```statblock
-mo
-```
 
 ```statblock
 monster: Noble
 ```
 
+```statblock
+monster: Mastiff
+```
 ```dataviewjs
 ```
