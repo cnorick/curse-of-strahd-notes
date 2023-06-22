@@ -23,7 +23,6 @@ aliases: [Vallaki, The Town of Vallaki]
 - public hanging
 	- doesn't happen often, and reserved for severe dissenters that repeat offense
 
-
 ## Maps
 ![[DM Map - Vallaki.jpg]]
 
