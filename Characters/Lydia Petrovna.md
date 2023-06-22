@@ -16,6 +16,7 @@ aliases: [Lydia, The Baroness]
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 - brother: [[Father Lucian Petrovich]]
