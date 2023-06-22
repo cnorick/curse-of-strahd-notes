@@ -35,8 +35,12 @@
             "id": "2873f03a04fffcc9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Vargas Vallakovich.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Vargas Vallakovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Vargas Vallakovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Vargas Vallakovich.md"
+              }
             }
           },
           {
