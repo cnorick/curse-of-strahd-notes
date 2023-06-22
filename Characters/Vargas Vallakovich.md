@@ -12,7 +12,8 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 
 ## History/Info
 ### Origin Story
-- Was a vic
+- Was a victim of child abuse by his father
+	- Since his father was so afraid
 
 ### About
 - If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and
