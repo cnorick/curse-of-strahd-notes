@@ -7,6 +7,8 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 - ruthless heel
 	- prides himself on his good breeding and finely honed leadership skills
 - catchphrase: "All will be well!"
+- Has a bunch of nervous ticks
+	- smiling
 - He has a very brittle ego
 	- he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully
 
@@ -19,7 +21,8 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 - He killed his father
 	- He thought his father was abusive because he was possessed by [[Strahd Von Zarovich|Strahd]]
 	- He gave his father a sleeping drought to rid [[Strahd Von Zarovich|Strahd]]'s possession of their household
-- Feeling any sort of anger or
+- Feeling any sort of anger or panic are signs of [[Strahd Von Zarovich|Strahd]]
+	- This is where he gets his nervous ticks like smiling all the time
 
 ### About
 - If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and
