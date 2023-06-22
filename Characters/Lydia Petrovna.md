@@ -2,7 +2,7 @@
 aliases: [Lydia, The Baroness]
 ---
 (LG female human commoner)
-![[Arik the Barkeep V2.webp|200]]
+![[lydia.jpg|200]]
 ## Playing Lydia Petrovna
 - At the risk of sacrificing her sanity, she has embraced her husband's philosophy of happiness
 	- She laughs at [[Vargas Vallakovich|The Baron]]'s every comment, to the extent that it has become a nervous reflex
