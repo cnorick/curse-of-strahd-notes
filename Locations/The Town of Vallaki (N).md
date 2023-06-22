@@ -13,7 +13,11 @@ aliases: [Vallaki, The Town of Vallaki]
 	- But getting caught avoiding a festival is grounds for a steep punishment
 - Regular laws apply
 	- e.g. murdering a civilian would result in incarceration, but murdering a guard would mean execution
-- 
+ 
+### Punishments
+- Time in stocks between a day to a few weeks
+- Seizure of assets
+- Inprisonment at Vallaki's reformation 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
