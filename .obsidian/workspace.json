@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,12 +49,12 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000013,
+                  "scale": 1.0000000000000018,
                   "close": false
                 }
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Village of Barovia (E).md",
+                "file": "Misc/Congratulations, You're Dead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Village of Barovia (E).md"
+                "file": "Misc/Congratulations, You're Dead.md"
               }
             }
           },
@@ -215,11 +215,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f76d6e8504ca16e8",
+  "active": "2f7fb71cc3d5bcf6",
   "lastOpenFiles": [
+    "Misc/If Players Die.md",
+    "Misc/Peoples and Lore/The Morninglord.md",
+    "Locations/Village of Barovia (E).md",
     "Locations/The Town of Vallaki (N).md",
     "Mirabel.md",
-    "Locations/Village of Barovia (E).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -261,8 +263,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
     "Characters/Freek.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gertruda.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

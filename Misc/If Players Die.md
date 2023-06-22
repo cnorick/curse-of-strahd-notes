@@ -1,3 +1,5 @@
+Show players: [[Congratulations, You're Dead]]
+
 1. Make a brand new character and introduce them to the campaign in the usual way
 2. Let them use their same character sheet under a different name
 	- {maybe their soul was transferred like others in Barovia}
