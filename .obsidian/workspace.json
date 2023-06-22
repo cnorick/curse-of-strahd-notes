@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,11 +49,11 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
+                  "linkDistance": 187,
                   "scale": 1.0000000000000018,
                   "close": false
                 }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Congratulations, You're Dead.md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           },
@@ -215,11 +215,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2f7fb71cc3d5bcf6",
+  "active": "f76d6e8504ca16e8",
   "lastOpenFiles": [
-    "Misc/If Players Die.md",
-    "Misc/Peoples and Lore/The Morninglord.md",
     "Locations/Village of Barovia (E).md",
+    "Misc/Peoples and Lore/The Morninglord.md",
+    "Misc/If Players Die.md",
+    "Misc/Congratulations, You're Dead.md",
     "Locations/The Town of Vallaki (N).md",
     "Mirabel.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
@@ -262,7 +263,6 @@
     "Characters/Doru.md",
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
-    "Characters/Freek.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
