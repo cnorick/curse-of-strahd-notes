@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Assets/Templates/Portrait.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Assets/Templates/Portrait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lydia Petrovna.md",
+                "file": "Assets/Templates/Portrait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lydia Petrovna.md"
+                "file": "Assets/Templates/Portrait.md"
               }
             }
           },
@@ -201,6 +201,10 @@
   },
   "active": "2873f03a04fffcc9",
   "lastOpenFiles": [
+    "Assets/Templates/Character.md",
+    "Assets/Templates/Portrait.md",
+    "Assets/Templates/Handout.md",
+    "Characters/Lydia Petrovna.md",
     "Assets/Images/People/lydia.jpg",
     "Assets/Images/People/lydia.jpg.crdownload",
     "Characters/Vargas Vallakovich.md",
@@ -232,9 +236,6 @@
     "Website/site/assets/images/people/milivoj.jpg",
     "Website/site/assets/images/people/rictavio.jpg",
     "Website/site/assets/images/people/henrik-van-der-voort.jpg",
-    "Website/site/assets/images/people/arrigal.jpg",
-    "Assets/Templates/Character.md",
-    "Assets/Templates/Handout.md",
     "Campaign/Session 0.md",
     "Campaign/Session 1.md",
     "Campaign/Session 2.md",
@@ -246,7 +247,6 @@
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
     "Characters/Bella Sunbane.md",
-    "Characters/Bildrath Cantemir.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
