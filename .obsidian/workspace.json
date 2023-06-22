@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2873f03a04fffcc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +191,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "10139a3ffff9b403",
+  "active": "2873f03a04fffcc9",
   "lastOpenFiles": [
+    "Misc/Peoples and Lore/Vallaki Lore.md",
     "Locations/The Town of Vallaki (N).md",
     "reference/creatures/Swarm of Ravens.md",
     "Characters/Ireena Kolyana.md",
@@ -234,7 +239,6 @@
     "Characters/Bildrath Cantemir.md",
     "Characters/Cyrus Belview.md",
     "Characters/Donavich.md",
-    "Characters/Doru.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
