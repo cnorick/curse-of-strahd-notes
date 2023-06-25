@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Izek Strazni.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -234,9 +234,9 @@
   },
   "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gadof Blinsky.md",
     "Characters/Izek Strazni.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Gadof Blinsky.md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Locations/Village of Barovia (E).md",
