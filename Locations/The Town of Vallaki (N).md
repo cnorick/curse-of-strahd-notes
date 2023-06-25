@@ -56,6 +56,9 @@ aliases: [Vallaki, The Town of Vallaki]
 |6-18|Vallakian townsfolk|
 |19-20|Vallakian [[Cultist]]|
 
+- **Rats**: A house infested with rats appears abandoned at first. The rats are servants of Strahd and attack if the characters explore the interior of the house
+- **Rats**: A house infested with rats appears abandoned at first. The rats are servants of Strahd and attack if the characters explore the interior of the house
+
 ## Maps
 ![[DM Map - Vallaki.jpg]]
 
