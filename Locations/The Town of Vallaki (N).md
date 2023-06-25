@@ -45,7 +45,7 @@ aliases: [Vallaki, The Town of Vallaki]
 
 ## Statblocks
 ```statblock
-monster: Guard
+extends: Guard
 actions:
   - name: Pike
     desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
