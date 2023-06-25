@@ -46,6 +46,16 @@ aliases: [Vallaki, The Town of Vallaki]
 		- (six stand watch at the gates, six patrol the walls)
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
+### House Occupants
+- If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
+
+|d20|Occupant|
+|---|---|
+|1-3|None|
+|4-5|2d4 [swarms of rats](http://longo.com.br/5e/bestiary.html#swarm%20of%20rats_mm)|
+|6-18|Vallakian townsfolk|
+|19-20|Vallakian [cultists](http://longo.com.br/5e/bestiary.html#cultist_mm)|
+
 ## Maps
 ![[DM Map - Vallaki.jpg]]
 
