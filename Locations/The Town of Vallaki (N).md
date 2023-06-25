@@ -93,7 +93,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- If not minor: he will do what he must to follow the law and keep his sibling safe
 		- he's ok executing another party member that isn't his sibling
 	- If the sibling commits terrible crimes: he actively betrays Vallaki
-- 
+- [[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
