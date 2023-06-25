@@ -52,9 +52,9 @@ aliases: [Vallaki, The Town of Vallaki]
 |d20|Occupant|
 |---|---|
 |1-3|None|
-|4-5|2d4 [swarms of rats](http://longo.com.br/5e/bestiary.html#swarm%20of%20rats_mm)|
+|4-5|2d4 [[Swarm of Rats]]|
 |6-18|Vallakian townsfolk|
-|19-20|Vallakian [cultists](http://longo.com.br/5e/bestiary.html#cultist_mm)|
+|19-20|Vallakian [[Cultist]]|
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
