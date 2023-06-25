@@ -47,6 +47,7 @@ aliases: [Vallaki, The Town of Vallaki]
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
 ### House Occupants
+## N1. St
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
 
 |d20|Occupant|
@@ -61,8 +62,7 @@ aliases: [Vallaki, The Town of Vallaki]
 	- Anyone who listens at the door hears chatter from within
 	- Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules
 - **Cultists**: A cult haven contains 2d4 Vallakian adults (LE male and female [[Cultist]]s  and one [[Cult Fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices
-	- These cultists worship devils and consider [[Lady Fiona Wachter]] (see [area N4](http://longo.com.br/5e/adventure.html#CoS,5,n4.%20wachterhaus)) to be their spiritual leader.
-
+	- These cultists worship devils and consider [[Fiona Wachter|Lady Fiona Wachter]] to be their spiritual lead
 ## Maps
 ![[DM Map - Vallaki.jpg]]
 
