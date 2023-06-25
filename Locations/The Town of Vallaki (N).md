@@ -83,19 +83,20 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 ### Vistani Camp (N9)
 
 ## Scenario If-Thens
-- PCs openly break laws or antagonize [[Vargas Vallakovich|The Baron]] -> The guards will come down hard
+- **PCs openly break laws or antagonize [[Vargas Vallakovich|The Baron]] -> The guards will come down hard**
 	- people would snitch if they do this in private
 	- guilty until proven innocent
-- [[Izek Strazni|Izek]] sees his sibling -> He immediately recognizes them and is so excited, he freaks everyone out
-- PCs are arrested -> [[Izek Strazni|Izek]] comes around pretty quickly
+- **[[Izek Strazni|Izek]] sees his sibling -> He immediately recognizes them and is so excited, he freaks everyone out**
+- **PCs are arrested -> [[Izek Strazni|Izek]] comes around pretty quickly**
 	- If a minor ordeal: [[Izek Strazni|Izek]] will use his authority to excuse the party and try to get them to the [[#Burgomaster's Mansion (N3)|Burgomaster's mansion]] where he says they'll be safe
 		- gives them a good chance to explore the mansion since they have his permission to be there
 	- If not minor: he will do what he must to follow the law and keep his sibling safe
 		- he's ok executing another party member that isn't his sibling
 	- If the sibling commits terrible crimes: he actively betrays Vallaki
-- [[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)
+- **[[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)**
 	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the [[#Festival of the Blazing Sun]]
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
+- **PCs side with [[Fiona Wachter|Lady Wachter]]**
 
 
 ## Events
