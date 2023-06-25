@@ -73,9 +73,8 @@ languages: any one language (usually Common)
 cr: 1/8
 actions:
   - name: Pike
-    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft.,
-      one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing
-      damage if used with two hands to make a melee attack."
+    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
+      one target. Hit: 1d10+1 piercing damage"
     attack_bonus: 3
     damage_dice: 1d6
     damage_bonus: 1
