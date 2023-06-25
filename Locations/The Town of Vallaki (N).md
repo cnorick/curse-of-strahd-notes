@@ -73,7 +73,13 @@ aliases: [Vallaki, The Town of Vallaki]
 
 ### Arasek Stockyard (N5)
 
-### Coffin 
+### Coffin Maker's Shop (N6)
+
+### Blinsky Toys (N7)
+
+### Town Square (N8)
+
+### Vistani Camp (N9)
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
