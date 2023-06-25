@@ -57,7 +57,10 @@ aliases: [Vallaki, The Town of Vallaki]
 |19-20|Vallakian [[Cultist]]|
 
 - **Rats**: A house infested with rats appears abandoned at first. The rats are servants of Strahd and attack if the characters explore the interior of the house
-- **Rats**: A house infested with rats appears abandoned at first. The rats are servants of Strahd and attack if the characters explore the interior of the house
+- **Townsfolk**: A house of Vallakian townsfolk contains 1d4 adults (LG male and female human [[Commoner]]s and 1d8-1 children (LG male and female human noncombatants)
+	- Anyone who listens at the door hears chatter from within
+	- Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules
+- **Townsfolk**:
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
