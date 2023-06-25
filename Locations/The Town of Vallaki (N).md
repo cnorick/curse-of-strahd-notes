@@ -35,6 +35,8 @@ aliases: [Vallaki, The Town of Vallaki]
 	- The north gate is sometimes called the Zarovich Gate, or "the gate to the lake," because it leads to Lake Zarovich (chapter 2, area L).
 	- The west gate is referred to as the Sunset Gate, even though no living person in Vallaki has seen an undimmed sunset. A few abandoned cottages line the road outside this gate.
 	- The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate.
+- Heavy iron chains with iron padlocks keep the gates shut at night
+	- During the day, the gates are closed but not typically locked
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
