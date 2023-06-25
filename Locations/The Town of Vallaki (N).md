@@ -68,6 +68,7 @@ aliases: [Vallaki, The Town of Vallaki]
 ### Blue Water Inn (N2)
 
 ### Burgomaster's Mansion (N3)
+in izek's room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
 
 ### Wachterhaus (N4)
 
