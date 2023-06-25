@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Maps/barovia_untagged.webp",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Maps/barovia_untagged.webp",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Maps/barovia_untagged.webp"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -221,8 +220,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f44df3bc1cc30bb1",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Assets/Images/Maps/barovia_untagged.webp",
     "Handouts/Maps/Barovia Map.md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/Maps/Vallaki Valley/East Gate/01 - Vallaki East Gate Day (Ground).webp",
@@ -268,7 +268,6 @@
     "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
