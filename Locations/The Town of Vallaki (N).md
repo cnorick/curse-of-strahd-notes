@@ -60,7 +60,8 @@ aliases: [Vallaki, The Town of Vallaki]
 - **Townsfolk**: A house of Vallakian townsfolk contains 1d4 adults (LG male and female human [[Commoner]]s and 1d8-1 children (LG male and female human noncombatants)
 	- Anyone who listens at the door hears chatter from within
 	- Townsfolk won't willingly invite strangers into their homes, but they will speak with characters from behind closed doors or while standing in their vestibules
-- **Townsfolk**:
+- **Cultists**: A cult haven contains 2d4 Vallakian adults (LE male and female [[Cultist]]s  and one [[Cult Fanatic]] (LE male or female) who leads them in prayer or orchestrates ritual sacrifices
+	- These cultists worship devils and consider [[Lady Fiona Wachter]] (see [area N4](http://longo.com.br/5e/adventure.html#CoS,5,n4.%20wachterhaus)) to be their spiritual leader.
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
