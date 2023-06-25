@@ -59,9 +59,9 @@
 
 ## Krezk
 
-[[Village of Krezk (S)|Krezk]] is already a small, communal town that's very self sufficient. They almost never get visitors and instead of buying and selling, have more of a barter system, which leaves little need for traditional commerce. So, their shops are less stores and more like houses of trade![[krezk-shopping.jpg]]
+[[Village of Krezk (S)|Krezk]] is already a small, communal town that's very self sufficient. They almost never get visitors and instead of buying and selling, have more of a barter system, which leaves little need for traditional commerce. So, their shops are less stores and more like houses of trade
 
-![https://preview.redd.it/pldozjo2btf11.jpg?width=1422&format=pjpg&auto=webp&v=enabled&s=c34a96cfb6c33b5c7f7426e49a874a8a8bb6ea91](https://preview.redd.it/pldozjo2btf11.jpg?width=1422&format=pjpg&auto=webp&v=enabled&s=c34a96cfb6c33b5c7f7426e49a874a8a8bb6ea91)
+![[krezk-shopping.jpg]]
 
 ## Inn
 
