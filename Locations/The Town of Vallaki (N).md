@@ -37,7 +37,8 @@ aliases: [Vallaki, The Town of Vallaki]
 	- The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate.
 - Heavy iron chains with iron padlocks keep the gates shut at night
 	- During the day, the gates are closed but not typically locked
-- Two town [[guard|guards]] stand just inside each gate. Instead of spears, they carry pikes (reach 10 ft., 1d10+1 piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
+- Two town [[guard|guards]] stand just inside each gate
+- Instead of spears, they carry pikes (reach 10 ft., 1d10+1 piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
@@ -46,12 +47,13 @@ aliases: [Vallaki, The Town of Vallaki]
 ## Statblocks
 ```statblock
 extends: Guard
+name: Guard with Pike
 actions:
   - name: Pike
     desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
-      one target. Hit: 1d10+1 piercing damage"
+      one target. Hit: 1d10+1 piercing damage
+	  These weapons are long enough to stab creatures through the bars of the gate."
     attack_bonus: 3
     damage_dice: 1d10
     damage_bonus: 1
 ```
-pikes (reach 10 ft., 1d10+1 piercing damage on a hit).
