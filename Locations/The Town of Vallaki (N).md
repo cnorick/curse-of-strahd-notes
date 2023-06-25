@@ -89,7 +89,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - [[Izek Strazni|Izek]] sees his sibling -> He immediately recognizes them and is so excited, he freaks everyone out
 - PCs are arrested -> [[Izek Strazni|Izek]] comes around pretty quickly
 	- If a minor ordeal: [[Izek Strazni|Izek]] will use his authority to excuse the party and try to get them to the [[#Burgomaster's Mansion (N3)|Burgomaster's mansion]] where he says they'll be safe
-		- gives them a good chance to explore the mansion
+		- gives them a good chance to explore the mansion since they have his permission to be there
+	- If not minor: he will do what he must to follow the law and keep his sibling safe
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
