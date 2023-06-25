@@ -14,8 +14,10 @@ alias: Izek
 	- His parents tried to hide it, but it was so bulky, the other kids bullied him
 	- Eventually, someone caught sight of the arm, and the family fled for safety from the strict [[The Town of Vallaki (N)|Vallaki]] laws
 	- In the woods outside of town, the family encountered wolves, and the mother and father perished
-- His sibling is [[Elora]]
-	- She was also left alone  in the woods
+- His younger sibling is [[Elora]]
+	- She was also left alone in the woods, but he couldn't find her
+	- He's had dreams of his sister for his entire life, and in the dreams watched her age
+	- He's had tons of [[Gadof Blinsky 1|Blinksky]] dolls
 
 ## What They Want
 

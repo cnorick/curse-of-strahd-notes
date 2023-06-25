@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "81690adc59df6078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Gadof Blinsky 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "10139a3ffff9b403",
             "type": "leaf",
             "state": {
@@ -65,7 +77,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Characters/Gadof Blinsky 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Characters/Gadof Blinsky 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Izek Strazni.md"
+                "file": "Characters/Gadof Blinsky 1.md"
               }
             }
           },
@@ -220,8 +233,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "81690adc59df6078",
   "lastOpenFiles": [
+    "Characters/Izek Strazni.md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Locations/Village of Barovia (E).md",
