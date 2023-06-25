@@ -30,7 +30,11 @@ aliases: [Vallaki, The Town of Vallaki]
 >The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.
 
 - A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there
-- 
+
+- Three tall gates made of iron bars lead into town:
+	- The north gate is sometimes called the Zarovich Gate, or "the gate to the lake," because it leads to Lake Zarovich (chapter 2, area L).
+	- The west gate is referred to as the Sunset Gate, even though no living person in Vallaki has seen an undimmed sunset. A few abandoned cottages line the road outside this gate.
+	- The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate.
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
