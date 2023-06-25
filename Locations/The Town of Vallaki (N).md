@@ -86,7 +86,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - PCs openly break laws or antagonize [[Vargas Vallakovich|The Baron]] -> The guards will come down hard
 	- people would snitch if they do this in private
 	- guilty until proven innocent
-- 
+- [[Izek Strazni|Izek]] sees his sibling 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
