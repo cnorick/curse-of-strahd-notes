@@ -84,6 +84,8 @@ aliases: [Vallaki, The Town of Vallaki]
 ## Scenario If-Thens
 - PCs openly break laws or antagonize [[Vargas Vallakovich|The Baron]] -> The guards will come down hard
 	- people would snitch if they do this in private
+	- guilty until proven innocent
+- 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
