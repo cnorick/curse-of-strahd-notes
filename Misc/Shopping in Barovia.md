@@ -1,1 +1,2 @@
 ## Vallaki
+![[vallaki-shopping.jpg]]
