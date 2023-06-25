@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Izek Strazni.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Izek Strazni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Izek Strazni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Izek Strazni.md"
               }
             }
           },
@@ -222,9 +222,9 @@
   },
   "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
     "Assets/Images/Maps/barovia_untagged.webp",
     "Locations/Village of Barovia (E).md",
-    "Locations/The Town of Vallaki (N).md",
     "Handouts/Maps/Barovia Map.md",
     "Assets/Images/Maps/Vallaki Valley/East Gate/01 - Vallaki East Gate Day (Ground).webp",
     "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp",
