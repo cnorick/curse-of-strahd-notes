@@ -70,7 +70,5 @@ actions:
     desc: "Melee or Ranged Weapon Attack: +2 to hit, reach 10 ft. or range 20/60 ft.,
       one target. Hit: 1d4 piercing damage."
     attack_bonus: 2
-    damage_dice: 1d10
-    damage_bonus: 1
-
+    damage_dice: 1d4
 ```
