@@ -94,6 +94,11 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 		- he's ok executing another party member that isn't his sibling
 	- If the sibling commits terrible crimes: he actively betrays Vallaki
 - [[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)
+	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the 
+
+
+## Events
+### Festival of the Blazing 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
