@@ -102,7 +102,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - **PCs side with [[Vargas Vallakovich|Vargas]]** -> He asks them to find proof of [[Fiona Wachter|Lady Wachter]]'s foul plans
 	- If they do, [[Vargas Vallakovich|Vargas]] sends every guard not on gate duty to [[#Wachterhaus (N4)|Wachterhaus]] and drag her to the center of town for public execution
 	- They'll be a fight at [[#Wachterhaus (N4)]]
-	- The next night after [[Fiona Wachter|Fiona]]'s death,
+	- The next night after [[Fiona Wachter|Fiona]]'s death, her most loyal cultists will break into the [[#Burgomaster's Mansion (N3)]] and assassinate [[Vargas Vallakovich|Vargas]]
+ 
 
 
 ## Events
