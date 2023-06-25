@@ -69,6 +69,7 @@ aliases: [Vallaki, The Town of Vallaki]
 
 ### Burgomaster's Mansion (N3)
 
+### Wachterhaus (N4)
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
