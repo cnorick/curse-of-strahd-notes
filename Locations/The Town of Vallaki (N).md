@@ -29,7 +29,8 @@ aliases: [Vallaki, The Town of Vallaki]
 >
 >The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.
 
-- The wall is 15-feet high and completely encloses the town
+- A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there
+- 
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]

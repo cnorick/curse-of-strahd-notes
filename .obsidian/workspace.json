@@ -11,9 +11,11 @@
             "id": "dfbfae95a824880a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp"
+                "file": "Locations/The Town of Vallaki (N).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
