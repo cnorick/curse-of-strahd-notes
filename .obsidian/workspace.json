@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gadof Blinsky 1.md",
+                "file": "Characters/Gadof Blinsky.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gadof Blinsky 1.md",
+                "file": "Characters/Izek Strazni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gadof Blinsky 1.md",
+                "file": "Characters/Izek Strazni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gadof Blinsky 1.md"
+                "file": "Characters/Izek Strazni.md"
               }
             }
           },
@@ -233,8 +232,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "81690adc59df6078",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Characters/Gadof Blinsky.md",
+    "Characters/Gadof Blinsky.md",
     "Characters/Izek Strazni.md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/Maps/barovia_untagged.webp",
@@ -279,8 +280,6 @@
     "Campaign/Session 3.md",
     "Campaign/Session 4.md",
     "Campaign Notes.md",
-    "Characters/Anakir.md",
-    "Characters/Arahja.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

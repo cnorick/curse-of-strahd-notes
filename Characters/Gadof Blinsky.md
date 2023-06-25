@@ -1,6 +1,9 @@
-(NE human)
+---
+aliases: [Gadof, Blinsky]
+---
+(CG male human commoner)
 ![[Arik the Barkeep V2.webp|200]]
-## Playing Session 3
+## Playing Gadof Blinsky
 
 ## History/Info
 
@@ -8,13 +11,14 @@
 
 ## What They Know
 [[Barovian Lore]]
+[[Vallaki Lore]]
 
 ## Relations
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Commoner
 ```
 
 ```dataviewjs
