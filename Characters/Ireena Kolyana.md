@@ -49,7 +49,7 @@ alias: Ireena
 	- She refuses to go anywhere "while the burgomaster lies dead on the mansion floor"
 - The PCs are her best hope at protection
 	- so she's willing to accompany them if they bury her father
-- Once in [[The Town of Vallaki (N)|Vallaki]], she'll want the party to escort her to [[The Town of Vallaki (N)#]]
+- Once in [[The Town of Vallaki (N)|Vallaki]], she'll want the party to escort her to [[The Town of Vallaki (N)#St Andral's Church (N1)]] to be safe from [[Strahd Von Zarovich|Strahd]]
 
 ## What They Know
 [[Barovian Lore]]

@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Ireena Kolyana.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Ireena Kolyana.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -245,8 +244,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "936ae84130f39c87",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Characters/Ireena Kolyana.md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Fiona Wachter.md",
     "Characters/Izek Strazni.md",
@@ -267,7 +267,6 @@
     "Assets/Images/People/lydia.jpg.crdownload",
     "Characters/Vargas Vallakovich.md",
     "reference/creatures/Swarm of Ravens.md",
-    "Characters/Ireena Kolyana.md",
     "Misc/Peoples and Lore/The Morninglord.md",
     "Misc/If Players Die.md",
     "Misc/Congratulations, You're Dead.md",
