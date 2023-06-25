@@ -92,6 +92,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 		- gives them a good chance to explore the mansion since they have his permission to be there
 	- If not minor: he will do what he must to follow the law and keep his sibling safe
 		- he's ok executing another party member that isn't his sibling
+	- If the sibling commits terrible crimes: he actively betrays Vallaki
 - 
 
 ## Maps
