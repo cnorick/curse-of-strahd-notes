@@ -99,7 +99,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - **PCs side with [[Fiona Wachter|Lady Wachter]] and revolution takes place** -> [[Vargas Vallakovich|The Baron]] won't be killed, but taken prisoner, tortured, and paraded around town
 	- Roll to see how many guards die in riot (describe them as being lynched by the mob)
 	- [[Lydia Petrovna|Lydia]] and [[Victor Vallakovich|Victor]] will be left alone, but will be public outcasts
-- **PCs side with [[Vargas Vallakovich|Vargas]]** -> He asks them to find proof of [[Fiona Wachter|Lady Wachter]]'s plan
+- **PCs side with [[Vargas Vallakovich|Vargas]]** -> He asks them to find proof of [[Fiona Wachter|Lady Wachter]]'s foul plans
+	- If they do, [[Vargas Vallakovich|Vargas]] sends every guard not on gate duty to [[#Wachterhaus (N4)|Wachterhaus]]
 
 
 ## Events
