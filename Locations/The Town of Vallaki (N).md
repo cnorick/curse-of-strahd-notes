@@ -38,7 +38,11 @@ aliases: [Vallaki, The Town of Vallaki]
 - Heavy iron chains with iron padlocks keep the gates shut at night
 	- During the day, the gates are closed but not typically locked
 - Two town [[#Statblocks|guards]] stand just inside each gate
-- Instead of spears, they carry pikes (reach 10 ft., 1d10+1 piercing damage on a hit). These weapons are long enough to stab creatures through the bars of the gate. The guards greet all visitors with suspicion, particularly those who arrive at night. If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter.
+	- The guards greet all visitors with suspicion, particularly those who arrive at night
+	- If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter
+- If trouble breaks out at one of the gates, the guards there cry out, "To arms!"
+	- Their shouts are echoed across Vallaki, putting the entire town on alert within minutes
+	- Vallaki has twenty-four human [guards](http://longo.com.br/5e/bestiary.html#guard_mm), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [commoners](http://longo.com.br/5e/bestiary.html#commoner_mm) armed with clubs, daggers, and torches.
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
@@ -47,7 +51,7 @@ aliases: [Vallaki, The Town of Vallaki]
 ## Statblocks
 ```statblock
 extends: Guard
-name: Guard with Pike
+name: Wall Guard
 actions:
   - name: Pike
     desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
