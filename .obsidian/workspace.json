@@ -76,8 +76,21 @@
                 "file": "Assets/Images/Maps/barovia_untagged.webp"
               }
             }
+          },
+          {
+            "id": "936ae84130f39c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Ireena Kolyana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Ireena Kolyana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Ireena Kolyana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Ireena Kolyana.md"
               }
             }
           },
@@ -232,10 +245,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "936ae84130f39c87",
   "lastOpenFiles": [
-    "Characters/Fiona Wachter.md",
     "Locations/The Town of Vallaki (N).md",
+    "Characters/Fiona Wachter.md",
     "Characters/Izek Strazni.md",
     "Characters/Gadof Blinsky.md",
     "Characters/Gadof Blinsky.md",
