@@ -11,7 +11,9 @@ alias: Izek
 - His family is descendent from some of the [[Death House]] cultists
 	- Because of the evil from death house, his family had a history of evil deformities
 - He was born as a partial [[Tiefling]] and has a demon arm
-	- His parents tried
+	- His parents tried to hide it, but it was so bulky, the other kids bullied him
+	- Eventually, someone caught sight of the arm, and the family fled for safety from the strict [[The Town of Vallaki (N)|Vallaki]] laws
+	- In the woods outside of t
 
 ## What They Want
 
