@@ -44,7 +44,7 @@ aliases: [Vallaki, The Town of Vallaki]
 	- Their shouts are echoed across Vallaki, putting the entire town on alert within minutes
 	- Vallaki has twenty-four human [[guard|guards]], half of whom are on duty at any given time
 		- (six stand watch at the gates, six patrol the walls)
-		- The town can also muster a militia of fifty able-bodied human [[]] armed with clubs, daggers, and torches.
+		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
