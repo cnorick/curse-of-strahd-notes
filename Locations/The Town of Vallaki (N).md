@@ -56,7 +56,7 @@ extends: Guard
 name: Wall Guard
 actions:
   - name: Pike
-    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
+    desc: "Melee Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
       one target. Hit: 1d10+1 piercing damage. These weapons are long enough to stab creatures through the bars of the gate."
     attack_bonus: 3
     damage_dice: 1d10
@@ -66,6 +66,11 @@ actions:
 name: Vallaki Commoner
 monster: Commoner
 actions:
- 
+  - name: Dagger
+    desc: "Melee or Ranged Weapon Attack: +3 to hit, reach 10 ft. or range 20/60 ft.,
+      one target. Hit: 1d4 piercing damage."
+    attack_bonus: 3
+    damage_dice: 1d10
+    damage_bonus: 1
 
 ```
