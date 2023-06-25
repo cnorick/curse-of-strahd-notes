@@ -57,9 +57,9 @@
     - Gili is a monster of a man. Though human, he stands nearly seven feet tall and has a hefty bulk to him. He's also got one of those resting caveman faces that makes him look pretty darn scary. However, Gili is a lover, not a fighter, and is a major pacifist. He likes pretty things and delights in making beautiful clothing.
     - Lottie, in contrast, is short, petite, and heartbreakingly beautiful. She's kind and shy and her intrinsic grace inspires her husband's finest work. These two are one of the sweetest and most sincere couples you'll find in Barovia.
 
-## Kresk
+## Krezk
 
-[[Kres is already a small, communal town that's very self sufficient. They almost never get visitors and instead of buying and selling, have more of a barter system, which leaves little need for traditional commerce. So, their shops are less stores and more like houses of trade
+[[Village of Krezk (S)|Krezk]] is already a small, communal town that's very self sufficient. They almost never get visitors and instead of buying and selling, have more of a barter system, which leaves little need for traditional commerce. So, their shops are less stores and more like houses of trade![[krezk-shopping.jpg]]
 
 ![https://preview.redd.it/pldozjo2btf11.jpg?width=1422&format=pjpg&auto=webp&v=enabled&s=c34a96cfb6c33b5c7f7426e49a874a8a8bb6ea91](https://preview.redd.it/pldozjo2btf11.jpg?width=1422&format=pjpg&auto=webp&v=enabled&s=c34a96cfb6c33b5c7f7426e49a874a8a8bb6ea91)
 
