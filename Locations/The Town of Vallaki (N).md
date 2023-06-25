@@ -96,7 +96,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - **[[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)**
 	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the [[#Festival of the Blazing Sun]]
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
-- **PCs side with [[Fiona Wachter|Lady Wachter]]**
+- **PCs side with [[Fiona Wachter|Lady Wachter]] and revolution takes place** -> [[Vargas Vallakovich|The Baron]] won't be killed, but taken prisoner, torchured, and paraded around town
+	- Roll to see how many guards die in riot
 
 
 ## Events
