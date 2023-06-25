@@ -65,5 +65,7 @@ actions:
 ```statblock
 name: Vallaki Commoner
 monster: Commoner
+actions:
+ 
 
 ```
