@@ -81,6 +81,9 @@ aliases: [Vallaki, The Town of Vallaki]
 
 ### Vistani Camp (N9)
 
+## Scenario If-Thens
+
+
 ## Maps
 ![[DM Map - Vallaki.jpg]]
 
