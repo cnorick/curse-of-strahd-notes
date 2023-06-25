@@ -37,12 +37,14 @@ aliases: [Vallaki, The Town of Vallaki]
 	- The east gate is also known as the Morning Gate, or, as some locals like to call it, the Mourning Gate.
 - Heavy iron chains with iron padlocks keep the gates shut at night
 	- During the day, the gates are closed but not typically locked
-- Two town [[#Statblocks|guards]] stand just inside each gate
+- Two town [[#Statblocks|wall guards]] stand just inside each gate
 	- The guards greet all visitors with suspicion, particularly those who arrive at night
 	- If the characters arrive at night, one or more of them must succeed on a DC 20 Charisma (Persuasion) check to convince the guards to unlock the gate and let them enter
 - If trouble breaks out at one of the gates, the guards there cry out, "To arms!"
 	- Their shouts are echoed across Vallaki, putting the entire town on alert within minutes
-	- Vallaki has twenty-four human [guards](http://longo.com.br/5e/bestiary.html#guard_mm), half of whom are on duty at any given time (six stand watch at the gates, six patrol the walls). The town can also muster a militia of fifty able-bodied human [commoners](http://longo.com.br/5e/bestiary.html#commoner_mm) armed with clubs, daggers, and torches.
+	- Vallaki has twenty-four human [[guard|guards]], half of whom are on duty at any given time
+		- (six stand watch at the gates, six patrol the walls)
+		- The town can also muster a militia of fifty able-bodied human [commoners]] armed with clubs, daggers, and torches.
 
 ## Maps
 ![[DM Map - Vallaki.jpg]]
