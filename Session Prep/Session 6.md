@@ -9,8 +9,8 @@
 - The party goes to bed
 - The party sets out
 	- They can go down the footpath, or back and around the high road
-- 235minutes ~4hr to get to [[Old Bonegrinder (O)|Old Bonegrinder]]
--0
+- 235minutes, ~4hr to get to [[Old Bonegrinder (O)|Old Bonegrinder]]
+- 340minutes, ~5.5hr to get all the way to [[The Town of Vallaki (N)|Vallaki]]
 
 - [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
 - [ ] Pie saves at noon
