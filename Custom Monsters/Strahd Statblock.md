@@ -141,8 +141,8 @@ lair_actions:
     desc: Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.
   - name: Summon Spirit
     desc: Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[specter]]
- - name: Control Shadow
-   desc: Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[shadow]](http://longo.com.br/5e/bestiary.html#shadow_mm) that obeys Strahd's commands, acting on initiative count 20. A [greater restoration](http://longo.com.br/5e/spells.html#greater%20restoration_phb) spell or a [remove curse](http://longo.com.br/5e/spells.html#remove%20curse_phb) spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.
+  - name: Control Shadow
+    desc: Strahd targets one Medium or smaller creature that casts a shadow. The target's shadow must be visible to Strahd and within 30 feet of him. If the target fails a DC 17 Charisma saving throw, its shadow detaches from it and becomes a [[shadow]] that obeys Strahd's commands, acting on initiative count 20. A [[greater restoration]] spell or a [[remove curse]] spell cast on the target restores its natural shadow, but only if its undead shadow has been destroyed.
 monster: Strahd von Zarovich
 
 ---
