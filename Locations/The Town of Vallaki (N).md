@@ -103,7 +103,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- If they do, [[Vargas Vallakovich|Vargas]] sends every guard not on gate duty to [[#Wachterhaus (N4)|Wachterhaus]] and drag her to the center of town for public execution
 	- They'll be a fight at [[#Wachterhaus (N4)]]
 	- The next night after [[Fiona Wachter|Fiona]]'s death, her most loyal cultists will break into the [[#Burgomaster's Mansion (N3)]] and assassinate [[Vargas Vallakovich|Vargas]]
-- **The party goes to the [[#Coffin Maker's Shop (N6)|Coffin Shop]] looking for bones** -> [[Strahd Von Zarovich|Strahd]] is alerted, and shows up within a few hours
+- **The party goes to the [[#Coffin Maker's Shop (N6)|Coffin Shop]] looking for bones** -> [[Strahd Von Zarovich|Strahd]] is alerted, and shows up within a few hours on [[Beaucephalus]]
 	- 
  
 
