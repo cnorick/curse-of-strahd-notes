@@ -112,6 +112,8 @@ actions:
 bonus_actions: []
 reactions: []
 legendary_actions:
+  - name: ''
+    desc: Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of its turn.
   - name: Move
     desc: Strahd moves up to his speed without provoking opportunity attacks.
   - name: Unarmed Strike
@@ -131,9 +133,9 @@ spells:
   - 5th level (1 slots): animate objects, scrying
 spellsNotes: ""
 lair_actions:
-  - name: desc
+  - name: ''
     desc: While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated. On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round
-  - name: Move
+  - name: 1
     desc: Strahd moves up to his speed without provoking opportunity attacks.
   - name: Unarmed Strike
     desc: Strahd makes one unarmed strike.
