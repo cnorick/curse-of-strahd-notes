@@ -13,7 +13,7 @@
 - 340minutes, ~5.5hr to get all the way to [[The Town of Vallaki (N)|Vallaki]]
 
 - [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
-- [ ] Pie saves at noon
+- [ ] Pie saves at noon (maybe wait until old bone grinder when they smell the pies)
 	- [ ] [[Anakir]] makes con save (DC 12)
 		- save: nothing
 		- fail: They find themselves eating pie again; if no pie, they have disadvantage on skill checks until they eat pie
@@ -23,5 +23,6 @@
 
 - Characters see [[Old Bonegrinder (O)|Old Bonegrinder]] and will *hopefully* go check it out
 	- maybe [[Ireena Kolyana|Ireena]] could convince them to; she's certainly ok with a break
+- They may talk to [[Bella Sunbane|Bella]]
 
 ![[Assets/Images/Maps/barovia_tagged.jpg]]
