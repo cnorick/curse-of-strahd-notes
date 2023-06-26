@@ -60,7 +60,7 @@ alias: Tser Pool
 >
 >The wizard and the vampire cast spells at each other. Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard's magic couldn't save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard's body, to see if, you know, he had anything of value, but the River Ivlis had already spirited him away.
 
-- The storyteller doesn't remember the wizard's name, but recalls that it sounded important
+- The storyteller doesn't remember the wizard's name, but recalls that it sounded important {[[Mad Mage of Mount Baratok]]}
 
 ### [[Madam Eva]]'s Tent
 - She calls for them to enter as approach the tent, and before they announce themselves
