@@ -130,7 +130,9 @@ spells:
   - 4th level (3 slots): blight, greater invisibility, polymorph
   - 5th level (1 slots): animate objects, scrying
 spellsNotes: ""
-lair_actions: While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated. On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round:
+lair_actions:
+  - name: desc
+    desc: While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated. On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round
   - name: Move
     desc: Strahd moves up to his speed without provoking opportunity attacks.
   - name: Unarmed Strike
