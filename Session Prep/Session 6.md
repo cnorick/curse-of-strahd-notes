@@ -7,6 +7,7 @@
 	- Mention being trapped in Barovia
 
 - The party goes to bed
+- The party sets out
 - [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
 - [ ] Pie saves at noon
 	- [ ] [[Anakir]] makes con save (DC 12)
