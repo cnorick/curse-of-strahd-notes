@@ -107,7 +107,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- Makes a show of riding through town, and sets his vampire spawn (6 of them) loose on the town and the church (if not consecrated)
 	- If [[Ireena Kolyana|Ireena]] is safe, he's pissed
 	- If she's not safe, he tries to charm her into coming with him
-	- Then, at the [
+	- Then, at the [[#Festival of the Blazing Sun]], the public unrest boils over into full blown panic
+		- A mob erupts against [[Vargas Vallakovich|The Baron]] and his men (worse than [[Fiona Wachter|Fiona]]
  
 
 
