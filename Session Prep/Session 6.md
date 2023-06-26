@@ -21,4 +21,6 @@
 		- save: they're cured
 		- fail: disadvantage on skill checks, they have nightmares, but wake up cured; they aren't *forced* to eat pie, but can voluntarily
 
+
+
 ![[Assets/Images/Maps/barovia_tagged.jpg]]
