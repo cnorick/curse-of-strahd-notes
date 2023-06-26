@@ -104,7 +104,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- They'll be a fight at [[#Wachterhaus (N4)]]
 	- The next night after [[Fiona Wachter|Fiona]]'s death, her most loyal cultists will break into the [[#Burgomaster's Mansion (N3)]] and assassinate [[Vargas Vallakovich|Vargas]]
 - **The party goes to the [[#Coffin Maker's Shop (N6)|Coffin Shop]] looking for bones** -> [[Strahd Von Zarovich|Strahd]] is alerted, and shows up within a few hours on [[Beucephalus]]
+	- Makes a show of riding through town, and sets his vampire spawn loose on the town and the church (if not consecrated)
 	- If [[Ireena Kolyana|Ireena]] is safe, he's pissed
+	- If
  
 
 
