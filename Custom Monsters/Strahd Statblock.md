@@ -130,6 +130,7 @@ spells:
   - 4th level (3 slots): blight, greater invisibility, polymorph
   - 5th level (1 slots): animate objects, scrying
 spellsNotes: ""
+lair_actions
 monster: Strahd von Zarovich
 
 ---
