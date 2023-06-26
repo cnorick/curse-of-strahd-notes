@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Create or Destroy Water.md",
+                "file": "reference/creatures/Panther.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Create or Destroy Water.md",
+                "file": "reference/creatures/Panther.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Create or Destroy Water.md"
+                "file": "reference/creatures/Panther.md"
               }
             }
           },
@@ -317,7 +317,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Create or Destroy Water.md",
+                    "file": "reference/creatures/Owl.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -338,32 +338,32 @@
   },
   "active": "a787eb1572060e69",
   "lastOpenFiles": [
-    "reference/spells/Create Undead.md",
-    "reference/spells/Creation.md",
-    "reference/spells/Cure Wounds.md",
-    "reference/spells/Dancing Lights.md",
-    "reference/spells/Darkness.md",
-    "reference/spells/Darkvision.md",
-    "reference/spells/Daylight.md",
-    "reference/spells/Death Ward.md",
-    "reference/spells/Delayed Blast Fireball.md",
-    "reference/spells/Demiplane.md",
-    "reference/spells/Detect Evil and Good.md",
-    "reference/spells/Detect Magic.md",
-    "reference/spells/Detect Poison and Disease.md",
-    "reference/spells/Detect Thoughts.md",
-    "reference/spells/Dimension Door.md",
-    "reference/spells/Disguise Self.md",
-    "reference/spells/Disintegrate.md",
-    "reference/spells/Dispel Evil and Good.md",
-    "reference/spells/Dispel Magic.md",
-    "reference/spells/Divination.md",
-    "reference/spells/Divine Favor.md",
-    "reference/spells/Divine Word.md",
-    "reference/spells/Dominate Beast.md",
-    "reference/spells/Dominate Monster.md",
-    "reference/spells/Dominate Person.md",
-    "reference/spells/Dream.md",
+    "reference/creatures/Phase Spider.md",
+    "reference/creatures/Poisonous Snake.md",
+    "reference/creatures/Polar Bear.md",
+    "reference/creatures/Pony.md",
+    "reference/creatures/Quipper.md",
+    "reference/creatures/Rat.md",
+    "reference/creatures/Raven.md",
+    "reference/creatures/Reef Shark.md",
+    "reference/creatures/Rhinoceros.md",
+    "reference/creatures/Riding Horse.md",
+    "reference/creatures/Saber-Toothed Tiger.md",
+    "reference/creatures/Scorpion.md",
+    "reference/creatures/Sea Horse.md",
+    "reference/creatures/Spider.md",
+    "reference/creatures/Swarm of Bats.md",
+    "reference/creatures/Swarm of Insects.md",
+    "reference/creatures/Swarm of Poisonous Snakes.md",
+    "reference/creatures/Swarm of Quippers.md",
+    "reference/creatures/Swarm of Rats.md",
+    "reference/creatures/Swarm of Ravens.md",
+    "reference/creatures/Tiger.md",
+    "reference/creatures/Warhorse.md",
+    "reference/creatures/Vulture.md",
+    "reference/creatures/Weasel.md",
+    "reference/creatures/Winter Wolf.md",
+    "reference/creatures/Wolf.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
