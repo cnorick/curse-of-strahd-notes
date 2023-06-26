@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Session 6.md",
+                "file": "Session Prep/Session 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 6.md",
+                "file": "Session Prep/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 6.md",
+                "file": "Session Prep/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaign/Session 6.md"
+                "file": "Session Prep/Session 6.md"
               }
             }
           },
@@ -286,11 +286,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Campaign/Untitled.md",
+    "Session Prep/Session 6.md",
     "Misc/Mechanics of Dream Pastries.md",
-    "Campaign/Session 6.md",
-    "Campaign/Session 4.md",
+    "Session Prep/Session 4.md",
     "Locations/Tser Pool Encampment (G).md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Strahd Von Zarovich.md",
@@ -311,10 +312,10 @@
     "Website/site/assets/images/people/strahd-and-beucephalus.jpg",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
-    "Campaign/Session 0.md",
-    "Campaign/Session 1.md",
-    "Campaign/Session 2.md",
-    "Campaign/Session 3.md",
+    "Session Prep/Session 0.md",
+    "Session Prep/Session 1.md",
+    "Session Prep/Session 2.md",
+    "Session Prep/Session 3.md",
     "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arahja.md",
@@ -327,7 +328,6 @@
     "Characters/Doru.md",
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
-    "Characters/Freek.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
