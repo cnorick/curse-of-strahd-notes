@@ -6,3 +6,5 @@
 		- save: nothing
 		- fail: They find themselves eating pie again; if no pie, they have disadvantage on skill checks until they eat pie
 	- The other pie eaters: con save (DC 4)
+		- save: they're cured
+		- fail: 
