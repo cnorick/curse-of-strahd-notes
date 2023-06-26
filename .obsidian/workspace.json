@@ -142,45 +142,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8f2b49643cf542c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Gates of Barovia (B).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1e3833cf7bcf032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Mirabel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea08ce1fb91c3a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Bella Sunbane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Mirabel.md",
+                "file": "reference/spells/Minor Illusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Mirabel.md",
+                "file": "reference/spells/Minor Illusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Mirabel.md"
+                "file": "reference/spells/Minor Illusion.md"
               }
             }
           },
@@ -335,33 +299,74 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "floating": {
+    "id": "5367b616ac8fc6e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5e38aed74854b7f7",
+        "type": "window",
+        "children": [
+          {
+            "id": "62ef87893070e4c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "08399bbaa83f5fc6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "reference/spells/Mind Blank.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "08399bbaa83f5fc6",
   "lastOpenFiles": [
-    "Characters/Lucien.md",
-    "Locations/Old Bonegrinder (O).md",
-    "Session Prep/Session 6.md",
-    "Characters/Offalia Wormwiggle.md",
-    "Characters/Bella Sunbane.md",
-    "Session Prep/Session 4.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Portraits/Portrait of Rina.md",
-    "Handouts/Images/Places/The Windmill.md",
-    "Handouts/Images/Places/Ravenloft.md",
-    "Handouts/Images/Places/Death House Front.md",
-    "Handouts/Images/Places/Barovia Church.md",
-    "Characters/Ireena Kolyana.md",
-    "Handouts/Images/Places/Gates of Barovia Image.md",
-    "Locations/Gates of Barovia (B).md",
+    "reference/spells/Mirage Arcane.md",
+    "reference/spells/Mirror Image.md",
+    "reference/spells/Mislead.md",
+    "reference/spells/Misty Step.md",
+    "reference/spells/Modify Memory.md",
+    "reference/spells/Moonbeam.md",
+    "reference/spells/Move Earth.md",
+    "reference/spells/Nondetection.md",
+    "reference/spells/Pass without Trace.md",
+    "reference/spells/Passwall.md",
+    "reference/spells/Phantasmal Killer.md",
+    "reference/spells/Phantom Steed.md",
+    "reference/spells/Planar Ally.md",
+    "reference/spells/Planar Binding.md",
+    "reference/spells/Plane Shift.md",
+    "reference/spells/Plant Growth.md",
+    "reference/spells/Poison Spray.md",
+    "reference/spells/Polymorph.md",
+    "reference/spells/Power Word Kill.md",
+    "reference/spells/Power Word Stun.md",
+    "reference/spells/Prayer of Healing.md",
+    "reference/spells/Prestidigitation.md",
+    "reference/spells/Prismatic Spray.md",
+    "reference/spells/Prismatic Wall.md",
+    "reference/spells/Private Sanctum.md",
+    "reference/spells/Produce Flame.md",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp.crdownload",
-    "Locations/Tser Pool Encampment (G).md",
-    "Characters/Rina.md",
-    "Characters/Arahja.md",
     "Assets/Images/Maps/barovia_tagged.jpg",
-    "Misc/Mechanics of Dream Pastries.md",
-    "Campaign/Untitled.md",
-    "Locations/The Town of Vallaki (N).md",
-    "Characters/Strahd Von Zarovich.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -374,11 +379,7 @@
     "Website/site/assets/images/people/lydia.jpg",
     "Website/site/assets/images/maps/vallaki-valley/krezk-shopping.jpg",
     "Website/site/assets/images/maps/vallaki-valley/vallaki-shopping.jpg",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/people/strahd-and-beucephalus.jpg",
-    "Assets/Templates/Handout.md",
-    "Assets/Templates/Portrait.md",
-    "Session Prep/Session 0.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
