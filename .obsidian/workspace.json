@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Session Prep/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Session Prep/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md"
+                "file": "Session Prep/Session 6.md"
               }
             }
           },
@@ -299,11 +299,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "364ffaa3d9b28209",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Locations/Tser Pool Encampment (G).md",
+    "Characters/Rina.md",
+    "Characters/Arahja.md",
     "Session Prep/Session 6.md",
     "Assets/Images/Maps/barovia_tagged.jpg",
-    "Locations/Tser Pool Encampment (G).md",
     "Misc/Mechanics of Dream Pastries.md",
     "Campaign/Untitled.md",
     "Session Prep/Session 4.md",
@@ -332,7 +334,6 @@
     "Session Prep/Session 3.md",
     "Campaign Notes.md",
     "Characters/Anakir.md",
-    "Characters/Arahja.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
     "Characters/Bella Sunbane.md",
