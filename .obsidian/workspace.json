@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -299,7 +299,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "364ffaa3d9b28209",
   "lastOpenFiles": [
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
@@ -312,6 +312,7 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
+    "Index.md",
     "Assets/Templates/Character.md",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
@@ -336,7 +337,6 @@
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",

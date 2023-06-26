@@ -6,7 +6,6 @@
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
 ```
-
 ## Session Prep
 ```dataviewjs
 dv.list(dv.pages('"Session Prep"').sort().file.link)
