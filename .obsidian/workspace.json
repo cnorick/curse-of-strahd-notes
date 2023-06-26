@@ -161,7 +161,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Mirabel.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Characters/Mirabel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Characters/Mirabel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 6.md"
+                "file": "Characters/Mirabel.md"
               }
             }
           },
@@ -335,8 +335,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Characters/Lucien.md",
     "Locations/Old Bonegrinder (O).md",
     "Session Prep/Session 6.md",
     "Characters/Offalia Wormwiggle.md",
@@ -378,7 +379,6 @@
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
     "Session Prep/Session 0.md",
-    "Session Prep/Session 1.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
