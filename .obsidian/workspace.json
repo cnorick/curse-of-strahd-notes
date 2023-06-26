@@ -180,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Bella Sunbane.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Bella Sunbane.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -335,9 +335,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cea08ce1fb91c3a6",
+  "active": "d1e3833cf7bcf032",
   "lastOpenFiles": [
+    "Characters/Offalia Wormwiggle.md",
     "Locations/Old Bonegrinder (O).md",
+    "Characters/Bella Sunbane.md",
     "Session Prep/Session 6.md",
     "Session Prep/Session 4.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
@@ -377,8 +379,6 @@
     "Assets/Templates/Portrait.md",
     "Session Prep/Session 0.md",
     "Session Prep/Session 1.md",
-    "Session Prep/Session 2.md",
-    "Session Prep/Session 3.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
