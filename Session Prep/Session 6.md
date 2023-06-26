@@ -21,6 +21,7 @@
 		- save: they're cured
 		- fail: disadvantage on skill checks, they have nightmares, but wake up cured; they aren't *forced* to eat pie, but can voluntarily
 
-
+- Characters see [[Old Bonegrinder (O)|Old Bonegrinder]] and will *hopefully* go check it out
+	- maybe [[Ireena Kolyana|Ireena]] could convince them to; she's certainly ok with a break
 
 ![[Assets/Images/Maps/barovia_tagged.jpg]]
