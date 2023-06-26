@@ -20,12 +20,13 @@ alias: Tser Pool
 
 ### Questions for and from the Group
 - At the campfire [[Arahja]] may ask the group:
-	- where they're from
-	- where they're headed
-	- how they ended up here
-	- what they thought of [[Village of Barovia (E)|Barovia Village]]
-	- what are their goals
-	- what's their backstory
+	- [ ] where they're from
+	- [ ] where they're headed
+	- [ ] how they ended up here
+	- [ ] what they thought of [[Village of Barovia (E)|Barovia Village]]
+	- [ ] what are their goals
+	- 
+	- [ ] what's their backstory
 - The group may ask about
 	- [[Strahd Von Zarovich|Strahd]] or the land:
 		- [[Vistani#Vistani Lore|Vistani Lore]]
