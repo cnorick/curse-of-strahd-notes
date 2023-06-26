@@ -130,8 +130,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "364ffaa3d9b28209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Tser Pool Encampment (G).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -288,11 +301,11 @@
   },
   "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Misc/Mechanics of Dream Pastries.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Session Prep/Session 6.md",
+    "Misc/Mechanics of Dream Pastries.md",
     "Campaign/Untitled.md",
     "Session Prep/Session 4.md",
-    "Locations/Tser Pool Encampment (G).md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Strahd Von Zarovich.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",

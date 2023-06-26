@@ -1,6 +1,8 @@
 - They start at [[Tser Pool Encampment (G)|Tser Pool]]
 - They just left [[Madam Eva]]'s tent
-- It's late in the evening, and [[
+- It's late in the evening, and [[Arahja]] invites them back to the fire for some wine and music
+	- There are about a dozen [[Vistani]] around the fire
+	- [[Rina]] is also there
 
 - [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
 - [ ] Pie saves at noon
