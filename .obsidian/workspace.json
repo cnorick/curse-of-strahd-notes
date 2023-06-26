@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Panther.md",
+                "file": "Characters/Arrigal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Panther.md",
+                "file": "Characters/Arrigal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Panther.md"
+                "file": "Characters/Arrigal.md"
               }
             }
           },
@@ -317,7 +317,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Owl.md",
+                    "file": "Characters/Arrigal.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -338,32 +338,33 @@
   },
   "active": "a787eb1572060e69",
   "lastOpenFiles": [
-    "reference/creatures/Phase Spider.md",
-    "reference/creatures/Poisonous Snake.md",
-    "reference/creatures/Polar Bear.md",
-    "reference/creatures/Pony.md",
-    "reference/creatures/Quipper.md",
-    "reference/creatures/Rat.md",
-    "reference/creatures/Raven.md",
-    "reference/creatures/Reef Shark.md",
-    "reference/creatures/Rhinoceros.md",
-    "reference/creatures/Riding Horse.md",
-    "reference/creatures/Saber-Toothed Tiger.md",
-    "reference/creatures/Scorpion.md",
-    "reference/creatures/Sea Horse.md",
-    "reference/creatures/Spider.md",
-    "reference/creatures/Swarm of Bats.md",
-    "reference/creatures/Swarm of Insects.md",
-    "reference/creatures/Swarm of Poisonous Snakes.md",
-    "reference/creatures/Swarm of Quippers.md",
-    "reference/creatures/Swarm of Rats.md",
-    "reference/creatures/Swarm of Ravens.md",
-    "reference/creatures/Tiger.md",
-    "reference/creatures/Warhorse.md",
-    "reference/creatures/Vulture.md",
-    "reference/creatures/Weasel.md",
-    "reference/creatures/Winter Wolf.md",
-    "reference/creatures/Wolf.md",
+    "Characters/Bluto Krogarov.md",
+    "Characters/Bray Martikova.md",
+    "Characters/Henrik van der Voort.md",
+    "Characters/Danika Dorakova.md",
+    "Characters/Dhavit.md",
+    "Characters/Ernst Larnak.md",
+    "Characters/Father Lucian Petrovich.md",
+    "Characters/Fiona Wachter.md",
+    "Characters/Gunther Arasek.md",
+    "Characters/Haliq.md",
+    "Characters/Milivoj.md",
+    "Characters/Karl Wachter.md",
+    "Characters/Lord Nikolai Wachter.md",
+    "Characters/Luvash.md",
+    "Characters/Madalena.md",
+    "Characters/Tasha Petrovna.md",
+    "Characters/Nikolai Wachter.md",
+    "Characters/Stella Wachter.md",
+    "Characters/Szoldar Szoldarovich.md",
+    "Characters/Yevgeni Krushkin.md",
+    "Characters/Udo Lukovich.md",
+    "Characters/Urwin Martikov.md",
+    "Characters/Victor Vallakovich.md",
+    "Characters/Yelena Arasek.md",
+    "Characters/Gadof Blinsky.md",
+    "Characters/Mirabel.md",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/places/gates-of-barovia-image.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -373,7 +374,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
