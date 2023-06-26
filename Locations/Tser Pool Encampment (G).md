@@ -25,12 +25,14 @@ alias: Tser Pool
 	- [ ] how they ended up here
 	- [ ] what they thought of [[Village of Barovia (E)|Barovia Village]]
 	- [ ] what are their goals
-	- 
+		- like beyond just rescuing [[Ireena Kolyana|Ireena]]
+		- do they want out
+		- what would they do if they left Barovia
 	- [ ] what's their backstory
 - The group may ask about
 	- [[Strahd Von Zarovich|Strahd]] or the land:
 		- [[Vistani#Vistani Lore|Vistani Lore]]
-	- The story of the [[Vistani]] and [[Strahd Von Zarovich|Strahd]]:
+	- The story of [[Vistani#The Vistani and Strahd Von Zarovich Strahd|The Vistani and Strahd]]:
 		- They're happy to tell about how their understanding with [[Strahd Von Zarovich|Strahd]] came to pass ([[Vistani#The Vistani and Strahd Von Zarovich Strahd|The Vistani and Strahd]])
 	- [[Village of Barovia (E)#Vistani Owners|The Vistani from the Blood on the Vine Tavern]]:
 		- When mentioned, the Vistani at the fire spit on the ground and swear "Mortu!"
