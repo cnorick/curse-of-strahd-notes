@@ -78,6 +78,17 @@ alias: Tser Pool
 - Have her character wait for silence before reading the next card
 - After the reading, she shoos the party out of the ten to go have fun
 
+## Treasure
+
+For each Vistani tent or wagon that the characters search, roll once on the following table to determine what treasure is found:
+
+|d20|Treasure|
+|---|---|
+|1-10|None|
+|11-13|Sack of 100 ep (each coin stamped with Strahd's visage in profile)|
+|14-16|Pouch containing 4d6 gemstones worth 100 gp each|
+|17-19|Sack containing 3d6 pieces of cheap jewelry worth 25 gp total and 1d6 pieces of fine jewelry worth 250 gp each|
+|20|One magic item (roll once on [Magic Item Table B](http://longo.com.br/5e/tables.html#magic%20item%20table%20b_dmg) in the Dungeon Master's Guide)|
 
 ## Stat Blocks
 ```statblock
