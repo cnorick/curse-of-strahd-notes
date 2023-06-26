@@ -84,5 +84,5 @@ On initiative count 20 (losing initiative ties), Strahd can take one of the foll
 
 
 ```statblock
-monster: Vampire
+monster: Strahd von Zarovich
 ```
