@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/Situational Rules.md",
+                "file": "reference/creatures/Blink Dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/Situational Rules.md",
+                "file": "reference/creatures/Blink Dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/Situational Rules.md"
+                "file": "reference/creatures/Blink Dog.md"
               }
             }
           },
@@ -286,7 +286,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/Situational Rules.md",
+                    "file": "reference/creatures/Black Bear.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -307,32 +307,32 @@
   },
   "active": "b2f45bdbf706a745",
   "lastOpenFiles": [
-    "reference/Sorcerer.md",
-    "reference/Spell Attack Rolls.md",
-    "reference/Spell Saving Throws.md",
-    "reference/Spellcasting.md",
-    "reference/spells/Acid Arrow.md",
-    "reference/spells/Acid Splash.md",
-    "reference/spells/Aid.md",
-    "reference/spells/Alarm.md",
-    "reference/spells/Alter Self.md",
-    "reference/spells/Animal Friendship.md",
-    "reference/spells/Animal Messenger.md",
-    "reference/spells/Animal Shapes.md",
-    "reference/spells/Animate Dead.md",
-    "reference/spells/Animate Objects.md",
-    "reference/spells/Antilife Shell.md",
-    "reference/spells/Antimagic Field.md",
-    "reference/spells/Antipathy slash Sympathy.md",
-    "reference/spells/Arcane Eye.md",
-    "reference/spells/Arcane Hand.md",
-    "reference/spells/Arcane Lock.md",
-    "reference/spells/Arcane Sword.md",
-    "reference/spells/Arcanists Magic Aura.md",
-    "reference/spells/Astral Projection.md",
-    "reference/spells/Augury.md",
-    "reference/spells/Awaken.md",
-    "reference/spells/Bane.md",
+    "reference/creatures/Blood Hawk.md",
+    "reference/creatures/Boar.md",
+    "reference/creatures/Brown Bear.md",
+    "reference/creatures/Camel.md",
+    "reference/creatures/Cat.md",
+    "reference/creatures/Constrictor Snake.md",
+    "reference/creatures/Crab.md",
+    "reference/creatures/Crocodile.md",
+    "reference/creatures/Death Dog.md",
+    "reference/creatures/Deer.md",
+    "reference/creatures/Dire Wolf.md",
+    "reference/creatures/Draft Horse.md",
+    "reference/creatures/Eagle.md",
+    "reference/creatures/Elephant.md",
+    "reference/creatures/Elk.md",
+    "reference/creatures/Flying Snake.md",
+    "reference/creatures/Frog.md",
+    "reference/creatures/Giant Ape.md",
+    "reference/creatures/Giant Badger.md",
+    "reference/creatures/Giant Bat.md",
+    "reference/creatures/Giant Boar.md",
+    "reference/creatures/Giant Centipede.md",
+    "reference/creatures/Giant Constrictor Snake.md",
+    "reference/creatures/Giant Crab.md",
+    "reference/creatures/Giant Crocodile.md",
+    "reference/creatures/Giant Eagle.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
