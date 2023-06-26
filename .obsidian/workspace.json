@@ -166,9 +166,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cea08ce1fb91c3a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Bella Sunbane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Bella Sunbane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Characters/Bella Sunbane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Characters/Bella Sunbane.md"
               }
             }
           },
@@ -323,8 +335,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d1e3833cf7bcf032",
+  "active": "cea08ce1fb91c3a6",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Session Prep/Session 6.md",
     "Session Prep/Session 4.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
@@ -366,7 +379,6 @@
     "Session Prep/Session 1.md",
     "Session Prep/Session 2.md",
     "Session Prep/Session 3.md",
-    "Campaign Notes.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
