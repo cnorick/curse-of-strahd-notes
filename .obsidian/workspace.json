@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arrigal.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arrigal.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arrigal.md"
+                "file": "Index.md"
               }
             }
           },
@@ -299,71 +299,34 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5367b616ac8fc6e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4b48c88403e0a582",
-        "type": "window",
-        "children": [
-          {
-            "id": "10adf323f05331cd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a787eb1572060e69",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Arrigal.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a787eb1572060e69",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Characters/Bluto Krogarov.md",
-    "Characters/Bray Martikova.md",
-    "Characters/Henrik van der Voort.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Dhavit.md",
-    "Characters/Ernst Larnak.md",
-    "Characters/Father Lucian Petrovich.md",
-    "Characters/Fiona Wachter.md",
-    "Characters/Gunther Arasek.md",
-    "Characters/Haliq.md",
-    "Characters/Milivoj.md",
-    "Characters/Karl Wachter.md",
-    "Characters/Lord Nikolai Wachter.md",
-    "Characters/Luvash.md",
-    "Characters/Madalena.md",
-    "Characters/Tasha Petrovna.md",
-    "Characters/Nikolai Wachter.md",
-    "Characters/Stella Wachter.md",
-    "Characters/Szoldar Szoldarovich.md",
-    "Characters/Yevgeni Krushkin.md",
-    "Characters/Udo Lukovich.md",
-    "Characters/Urwin Martikov.md",
-    "Characters/Victor Vallakovich.md",
-    "Characters/Yelena Arasek.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Mirabel.md",
+    "Assets/Templates/Character.md",
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Portrait.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bella Sunbane.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Cyrus Belview.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Freek.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Izek Strazni.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/King Barov.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
+    "Characters/Lydia Petrovna.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/places/gates-of-barovia-image.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
