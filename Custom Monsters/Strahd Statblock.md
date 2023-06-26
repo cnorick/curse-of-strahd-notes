@@ -67,13 +67,13 @@ traits:
     desc: >-
       Strahd has the following flaws:
 
-      __Forbiddance__: He can't enter a residence without an invitation from one of the occupants.
+      - Forbiddance: He can't enter a residence without an invitation from one of the occupants.
 
-      __Harmed by Running Water__: He takes 20 acid damage if he ends his turn in running water.
+      - Harmed by Running Water: He takes 20 acid damage if he ends his turn in running water.
 
-      __Stake to the Heart__: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
+      - Stake to the Heart: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
 
-      __Sunlight Hypersensitivity__: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
+      - Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 actions:
   - name: Multiattack (Vampire Form Only)
     desc: Strahd makes two attacks, only one of which can be a bite attack.
