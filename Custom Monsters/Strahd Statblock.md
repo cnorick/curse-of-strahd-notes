@@ -135,12 +135,12 @@ spellsNotes: ""
 lair_actions:
   - name: ''
     desc: While Strahd is in Castle Ravenloft, he can take lair actions as long as he isn't incapacitated. On initiative count 20 (losing initiative ties), Strahd can take one of the following lair action options, or forgo using any of them in that round
-  - name: 1
-    desc: Strahd moves up to his speed without provoking opportunity attacks.
-  - name: Unarmed Strike
-    desc: Strahd makes one unarmed strike.
-  - name: Bite (Costs 2 Actions)
-    desc: Strahd makes one bite attack.
+  - name: '1'
+    desc: Until initiative count 20 of the next round, Strahd can pass through solid walls, doors, ceilings, and floors as if they weren't there.
+  - name: '2'
+    desc: Strahd targets any number of doors and windows that he can see, causing each one to either open or close as he wishes. Closed doors can be magically locked (needing a successful DC 20 Strength check to force open) until Strahd chooses to end the effect, or until Strahd uses this lair action again.
+  - name: '3'
+    desc: Strahd summons the angry spirit of one who has died in the castle. The apparition appears next to a hostile creature that Strahd can see, makes an attack against that creature, and then disappears. The apparition has the statistics of a [[specter]]
 monster: Strahd von Zarovich
 
 ---
