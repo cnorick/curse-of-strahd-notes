@@ -1,6 +1,6 @@
 ---
 public: true
-new_handout: false
+new_handout: true
 ---
 
-![[Arik the Barkeep V2.webp]]
+![[Gates of Barovia.webp]]
