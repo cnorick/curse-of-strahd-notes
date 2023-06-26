@@ -47,7 +47,6 @@ aliases: [Vallaki, The Town of Vallaki]
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
 
-
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
 

@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "reference/Situational Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "reference/Situational Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "reference/Situational Rules.md"
               }
             }
           },
@@ -268,49 +268,86 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "floating": {
+    "id": "5367b616ac8fc6e9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b60f1d890b614ee",
+        "type": "window",
+        "children": [
+          {
+            "id": "550bcba6cda598c4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b2f45bdbf706a745",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "reference/Situational Rules.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 606,
+        "y": 426,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b2f45bdbf706a745",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
-    "Custom Monsters/Strahd Statblock.md",
-    "Dark Powers.md",
-    "Sergei.md",
-    "Beucephalus.md",
-    "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+    "reference/Sorcerer.md",
+    "reference/Spell Attack Rolls.md",
+    "reference/Spell Saving Throws.md",
+    "reference/Spellcasting.md",
+    "reference/spells/Acid Arrow.md",
+    "reference/spells/Acid Splash.md",
+    "reference/spells/Aid.md",
+    "reference/spells/Alarm.md",
+    "reference/spells/Alter Self.md",
+    "reference/spells/Animal Friendship.md",
+    "reference/spells/Animal Messenger.md",
+    "reference/spells/Animal Shapes.md",
+    "reference/spells/Animate Dead.md",
+    "reference/spells/Animate Objects.md",
+    "reference/spells/Antilife Shell.md",
+    "reference/spells/Antimagic Field.md",
+    "reference/spells/Antipathy slash Sympathy.md",
+    "reference/spells/Arcane Eye.md",
+    "reference/spells/Arcane Hand.md",
+    "reference/spells/Arcane Lock.md",
+    "reference/spells/Arcane Sword.md",
+    "reference/spells/Arcanists Magic Aura.md",
+    "reference/spells/Astral Projection.md",
+    "reference/spells/Augury.md",
+    "reference/spells/Awaken.md",
+    "reference/spells/Bane.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg.crdownload",
-    "Locations/The Town of Vallaki (N).md",
-    "Misc/Shopping in Barovia.md",
     "Assets/Images/Maps/Vallaki Valley/krezk-shopping.jpg",
     "Assets/Images/Maps/Vallaki Valley/krezk-shopping.jpg.crdownload",
-    "Locations/Village of Krezk (S).md",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg_width=3000&format=pjpg&auto=webp&v=enabled&s=268f170a1e7cc97f473cb1ebf5c88cf25ee7880c",
     "Assets/Images/Maps/Vallaki Valley/Unconfirmed 95889.crdownload",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Fiona Wachter.md",
-    "Characters/Izek Strazni.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Gadof Blinsky.md",
     "Assets/Images/Maps/barovia_untagged.webp",
-    "Locations/Village of Barovia (E).md",
-    "Handouts/Maps/Barovia Map.md",
     "Assets/Images/Maps/Vallaki Valley/East Gate/01 - Vallaki East Gate Day (Ground).webp",
     "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp",
-    "Characters/Lydia Petrovna.md",
-    "Misc/Peoples and Lore/Vallaki Lore.md",
-    "Handouts/Images/Portraits/Portrait of Lydia.md",
-    "Assets/Templates/Character.md",
-    "Assets/Templates/Portrait.md",
-    "Assets/Templates/Handout.md",
     "Assets/Images/People/lydia.jpg",
     "Assets/Images/People/lydia.jpg.crdownload",
-    "Characters/Vargas Vallakovich.md",
-    "reference/creatures/Swarm of Ravens.md",
-    "Misc/Peoples and Lore/The Morninglord.md",
-    "Misc/If Players Die.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
