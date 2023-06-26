@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Minor Illusion.md",
+                "file": "reference/items/Censer of Controlling Air Elementals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Minor Illusion.md",
+                "file": "reference/items/Censer of Controlling Air Elementals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Minor Illusion.md"
+                "file": "reference/items/Censer of Controlling Air Elementals.md"
               }
             }
           },
@@ -317,7 +317,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Mind Blank.md",
+                    "file": "reference/items/Censer of Controlling Air Elementals.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -338,32 +338,32 @@
   },
   "active": "08399bbaa83f5fc6",
   "lastOpenFiles": [
-    "reference/spells/Mirage Arcane.md",
-    "reference/spells/Mirror Image.md",
-    "reference/spells/Mislead.md",
-    "reference/spells/Misty Step.md",
-    "reference/spells/Modify Memory.md",
-    "reference/spells/Moonbeam.md",
-    "reference/spells/Move Earth.md",
-    "reference/spells/Nondetection.md",
-    "reference/spells/Pass without Trace.md",
-    "reference/spells/Passwall.md",
-    "reference/spells/Phantasmal Killer.md",
-    "reference/spells/Phantom Steed.md",
-    "reference/spells/Planar Ally.md",
-    "reference/spells/Planar Binding.md",
-    "reference/spells/Plane Shift.md",
-    "reference/spells/Plant Growth.md",
-    "reference/spells/Poison Spray.md",
-    "reference/spells/Polymorph.md",
-    "reference/spells/Power Word Kill.md",
-    "reference/spells/Power Word Stun.md",
-    "reference/spells/Prayer of Healing.md",
-    "reference/spells/Prestidigitation.md",
-    "reference/spells/Prismatic Spray.md",
-    "reference/spells/Prismatic Wall.md",
-    "reference/spells/Private Sanctum.md",
-    "reference/spells/Produce Flame.md",
+    "reference/items/Chime of Opening.md",
+    "reference/items/Circlet of Blasting.md",
+    "reference/items/Cloak of Arachnida.md",
+    "reference/items/Cloak of Displacement.md",
+    "reference/items/Cloak of Elvenkind.md",
+    "reference/items/Cloak of Protection.md",
+    "reference/items/Cloak of the Bat.md",
+    "reference/items/Cloak of the Manta Ray.md",
+    "reference/items/Crystal Ball.md",
+    "reference/items/Cube of Force.md",
+    "reference/items/Cubic Gate.md",
+    "reference/items/Dagger of Venom.md",
+    "reference/items/Dancing Sword.md",
+    "reference/items/Decanter of Endless Water.md",
+    "reference/items/Deck of Illusions.md",
+    "reference/items/Deck of Many Things.md",
+    "reference/items/Defender.md",
+    "reference/items/Demon Armor.md",
+    "reference/items/Dimensional Shackles.md",
+    "reference/items/Dragon Scale Mail.md",
+    "reference/items/Dragon Slayer.md",
+    "reference/items/Dust of Disappearance.md",
+    "reference/items/Dust of Dryness.md",
+    "reference/items/Dust of Sneezing and Choking.md",
+    "reference/items/Dwarven Plate.md",
+    "reference/items/Dwarven Thrower.md",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp.crdownload",
     "Assets/Images/Maps/barovia_tagged.jpg",
