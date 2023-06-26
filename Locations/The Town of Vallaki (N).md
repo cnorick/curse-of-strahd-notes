@@ -110,7 +110,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- Then, at the [[#Festival of the Blazing Sun]], the public unrest boils over into full blown panic
 		- A mob erupts against [[Vargas Vallakovich|The Baron]] and his men (worse than [[Fiona Wachter|Fiona's]] revolution would have been
 		- [[Vargas Vallakovich|Vargas]] and [[Lydia Petrovna|Lydia]] are lynched in the middle of town, and the mansion burned down
-		-  fires spread, and there is city-wide looting
+		- fires spread, and there is city-wide looting
+		- roll to see which buildings are destroyed (and in turn which NPCs die) in the chaos
+	- When the dust settles, [[Fi
  
 
 
