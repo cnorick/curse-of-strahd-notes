@@ -112,7 +112,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 		- [[Vargas Vallakovich|Vargas]] and [[Lydia Petrovna|Lydia]] are lynched in the middle of town, and the mansion burned down
 		- fires spread, and there is city-wide looting
 		- roll to see which buildings are destroyed (and in turn which NPCs die) in the chaos
-	- When the dust settles, [[Fi
+	- When the dust settles, [[Fiona Wachter|Fiona]] takes over as Burgomaster if she's still alive
+		- If not, the town remains in state of unrest
+			- many will camp around the church, others will take advantage of lack of laws
  
 
 
