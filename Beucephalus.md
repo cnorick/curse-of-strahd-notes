@@ -1,7 +1,7 @@
 ---
 aliases: [nightmare, horse, Beucephalus the Wonder Horse]
 ---
-(NE human)
+(Large NE fiend)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Beucephalus
 
@@ -10,14 +10,14 @@ aliases: [nightmare, horse, Beucephalus the Wonder Horse]
 ## What They Want
 
 ## What They Know
-[[Barovian Lore]]
 
 ## Relations
+- Owner: [[Strahd Von Zarovich|Strahd]]
 
 ## Stat Block
 
 ```statblock
-monster:
+monster: Nightmare
 ```
 
 ```dataviewjs
