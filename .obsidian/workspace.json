@@ -142,9 +142,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f2b49643cf542c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Gates of Barovia (B).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Gates of Barovia (B).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Gates of Barovia (B).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 6.md"
+                "file": "Locations/Gates of Barovia (B).md"
               }
             }
           },
@@ -299,12 +311,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "8f2b49643cf542c7",
   "lastOpenFiles": [
+    "Session Prep/Session 6.md",
     "Locations/Tser Pool Encampment (G).md",
     "Characters/Rina.md",
     "Characters/Arahja.md",
-    "Session Prep/Session 6.md",
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Misc/Mechanics of Dream Pastries.md",
     "Campaign/Untitled.md",
