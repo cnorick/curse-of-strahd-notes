@@ -18,6 +18,7 @@ aliases: [nightmare, horse, Beucephalus the Wonder Horse]
 
 ```statblock
 monster: Nightmare
+name: Beucephalus
 hp: 104
 ```
 
