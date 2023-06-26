@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 6.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -335,12 +335,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "d1e3833cf7bcf032",
   "lastOpenFiles": [
+    "Session Prep/Session 6.md",
     "Locations/Old Bonegrinder (O).md",
     "Characters/Offalia Wormwiggle.md",
     "Characters/Bella Sunbane.md",
-    "Session Prep/Session 6.md",
     "Session Prep/Session 4.md",
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Handouts/Images/Portraits/Portrait of Rina.md",

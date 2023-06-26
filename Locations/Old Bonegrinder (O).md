@@ -45,6 +45,7 @@ Closer investigation:
 - Bella is delighted when the players admit that they met her mother and even more so when they admit they tried the pies
 	- Bella wants to know the PCs' critiques on the taste and what might possibly make them tastier
 	- Bella would love to hear some baking tips
+	- She knows they can be some
 - Bella doesn't talk about the actual content of the pies unless she's specifically asked
 	- She admits that it's a family secret passed down from her mother's mother
 - If the PCs bring up the witch thing, Bella gets sad and says her mother doesn't really talk about her mother or how she died
