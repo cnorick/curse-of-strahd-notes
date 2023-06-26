@@ -8,6 +8,7 @@
 
 - The party goes to bed
 - The party sets out
+	- They can go down the dirt path
 
 - [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
 - [ ] Pie saves at noon
