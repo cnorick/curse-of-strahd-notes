@@ -67,7 +67,7 @@ traits:
     desc: >-
       Strahd has the following flaws:
 
-      {@i Forbiddance.} He can't enter a residence without an invitation from one of the occupants.
+      **Forbiddance**  He can't enter a residence without an invitation from one of the occupants.
 
       {@i Harmed by Running Water.} He takes 20 acid damage if he ends his turn in running water.
 
