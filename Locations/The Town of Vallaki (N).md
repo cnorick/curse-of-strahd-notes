@@ -46,6 +46,8 @@ aliases: [Vallaki, The Town of Vallaki]
 		- (six stand watch at the gates, six patrol the walls)
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
+
+
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
 
@@ -113,7 +115,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 		- fires spread, and there is city-wide looting
 		- roll to see which buildings are destroyed (and in turn which NPCs die) in the chaos
 		- If the festival has already taken place: [[Vargas Vallakovich|Vargas]] calls a public meeting, and shit goes down there
-		- If [[Vargas Vallakovich|Vargas]] is no longer in charge, [[Fiona Wachter|Fiona]] calls a meeting an
+		- If [[Vargas Vallakovich|Vargas]] is no longer in charge, [[Fiona Wachter|Fiona]] calls a meeting and explains that "Strahd's coming was all part of her prophesied purge and that sunlight would come soon."
 	
 	- When the dust settles, [[Fiona Wachter|Fiona]] takes over as Burgomaster if she's still alive
 		- If not, the town remains in state of unrest
