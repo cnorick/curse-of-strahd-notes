@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 6.md"
+                "file": "Index.md"
               }
             }
           },
@@ -301,6 +301,7 @@
   },
   "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Session Prep/Session 6.md",
     "Locations/Tser Pool Encampment (G).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
@@ -337,7 +338,6 @@
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
     "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Website/site/assets/images/people/lydia.jpg",

@@ -6,6 +6,11 @@
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
 ```
+
+## Session Prep
+```dataviewjs
+dv.list(dv.pages('"Session Prep"').sort().file.link)
+```
 ## Locations
 ```dataviewjs
 dv.list(dv.pages('"Locations"').sort(k => k.file.name).file.link)
