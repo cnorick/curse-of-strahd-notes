@@ -113,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -269,10 +268,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d719d1d0c8ef2ea0",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Custom Monsters/Strahd Statblock.md",
     "Characters/Strahd Von Zarovich.md",
+    "Custom Monsters/Strahd Statblock.md",
     "Dark Powers.md",
     "Sergei.md",
     "Beucephalus.md",
