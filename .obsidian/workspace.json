@@ -113,7 +113,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -268,8 +269,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "d719d1d0c8ef2ea0",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -280,7 +282,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
     "Website/site/assets/images/people/lydia.jpg",
     "Website/site/assets/images/maps/vallaki-valley/krezk-shopping.jpg",
     "Website/site/assets/images/maps/vallaki-valley/vallaki-shopping.jpg",

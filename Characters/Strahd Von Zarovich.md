@@ -54,7 +54,8 @@ When you run an encounter with Strahd, keep the following facts in mind:
 
 ***The Vampire's Minions.*** Whenever Strahd appears in a location other than his tomb or the place indicated by the card reading, roll a d20 and consult the Strahd's Minions table to determine what creatures he brings with him, if any.
 
-***Strahd's Minions.*** 
+***Strahd's Minions.***
+
 | d20   | Creatures                                     |
 |-------|-----------------------------------------------|
 | 1–3   | 1d4 + 2 **dire wolves**                       |
