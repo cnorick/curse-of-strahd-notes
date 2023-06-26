@@ -113,6 +113,21 @@
               }
             }
           }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "e7770b9e6e65ca9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579edd48acfb6d55",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
         ]
       }
     ],
@@ -187,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign/Session 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,9 +239,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Campaign/Session 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -268,10 +279,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "579edd48acfb6d55",
   "lastOpenFiles": [
-    "Campaign/Session 4.md",
     "Campaign/Session 6.md",
+    "Campaign/Session 4.md",
     "Locations/Tser Pool Encampment (G).md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Strahd Von Zarovich.md",
