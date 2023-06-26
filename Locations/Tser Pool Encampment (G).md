@@ -52,6 +52,8 @@ alias: Tser Pool
 	- The Vistani don't know, but recommend talking to [[Madam Eva]]
 		- If there's any chance of escape, she'd know it
 
+#### A Vistana's Tale
+
 ### [[Madam Eva]]'s Tent
 - She calls for them to enter as approach the tent, and before they announce themselves
 - She addresses them all by name without introduction

@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 6.md",
+                "file": "Locations/Tser Pool Encampment (G).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 6.md"
+                "file": "Locations/Tser Pool Encampment (G).md"
               }
             }
           },
@@ -299,10 +299,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "364ffaa3d9b28209",
   "lastOpenFiles": [
-    "Assets/Images/Maps/barovia_tagged.jpg",
     "Session Prep/Session 6.md",
+    "Assets/Images/Maps/barovia_tagged.jpg",
     "Locations/Tser Pool Encampment (G).md",
     "Misc/Mechanics of Dream Pastries.md",
     "Campaign/Untitled.md",
@@ -346,7 +346,6 @@
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/krezk-shopping.jpg",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg",
-    "Assets/Images/Maps/barovia_untagged.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
