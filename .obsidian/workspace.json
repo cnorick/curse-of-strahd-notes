@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Offalia Wormwiggle.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -268,71 +268,45 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5367b616ac8fc6e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5b60f1d890b614ee",
-        "type": "window",
-        "children": [
-          {
-            "id": "550bcba6cda598c4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b2f45bdbf706a745",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Offalia Wormwiggle.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 606,
-        "y": 426,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b2f45bdbf706a745",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Characters/Parriwimple.md",
-    "Characters/Pelanil.md",
-    "Characters/Queen Ravenovia.md",
-    "Characters/Rictavio.md",
-    "Characters/Rina.md",
-    "Characters/Rosevalda.md",
-    "Characters/Shalooti.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Tatyana.md",
-    "Characters/The Abbott.md",
-    "Characters/Thornboldt.md",
-    "Characters/Walter.md",
-    "Characters/Vargas Vallakovich.md",
-    "Characters/Amalthia.md",
-    "Characters/Alexei.md",
-    "Characters/Brom Martikova.md",
-    "Characters/Arabelle.md",
-    "Characters/Arrigal.md",
-    "Characters/Bluto Krogarov.md",
-    "Characters/Bray Martikova.md",
-    "Characters/Henrik van der Voort.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Dhavit.md",
-    "Characters/Ernst Larnak.md",
-    "Characters/Father Lucian Petrovich.md",
-    "Characters/Fiona Wachter.md",
+    "Website/site/assets/templates/portrait.html",
+    "Website/site/assets/images/people/lydia.jpg",
+    "Website/site/handouts/images/portraits/portrait-of-lydia.html",
+    "Website/site/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
+    "Website/site/assets/images/maps/vallaki-valley/krezk-shopping.jpg",
+    "Website/site/assets/images/maps/vallaki-valley/vallaki-shopping.jpg",
+    "Website/site/misc/shopping-in-barovia.html",
+    "Assets/Templates/Character.md",
+    "Website/site/mirabel.html",
+    "Website/site/assets/images/people/strahd-and-beucephalus.jpg",
+    "Website/site/beucephalus.html",
+    "Website/site/sergei.html",
+    "Website/site/dark-powers.html",
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Portrait.md",
+    "Campaign/Session 0.md",
+    "Campaign/Session 1.md",
+    "Campaign/Session 2.md",
+    "Campaign/Session 3.md",
+    "Campaign/Session 4.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bella Sunbane.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Cyrus Belview.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Freek.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
@@ -341,18 +315,7 @@
     "Assets/Images/Maps/Vallaki Valley/krezk-shopping.jpg.crdownload",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg",
     "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg.crdownload",
-    "Assets/Images/Maps/Vallaki Valley/vallaki-shopping.jpg_width=3000&format=pjpg&auto=webp&v=enabled&s=268f170a1e7cc97f473cb1ebf5c88cf25ee7880c",
-    "Assets/Images/Maps/Vallaki Valley/Unconfirmed 95889.crdownload",
     "Assets/Images/Maps/barovia_untagged.webp",
-    "Assets/Images/Maps/Vallaki Valley/East Gate/01 - Vallaki East Gate Day (Ground).webp",
-    "Assets/Images/Maps/Vallaki Valley/East Gate/02 - Vallaki East Gate Day (Palisade Walkway).webp",
-    "Assets/Images/People/lydia.jpg",
-    "Assets/Images/People/lydia.jpg.crdownload",
-    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/site/assets/images/people/rictavio-token.png",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
