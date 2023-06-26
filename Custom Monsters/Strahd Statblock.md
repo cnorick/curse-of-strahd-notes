@@ -71,9 +71,9 @@ traits:
 
       __Harmed by Running Water__: He takes 20 acid damage if he ends his turn in running water.
 
-      {@i Stake to the Heart__: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
+      __Stake to the Heart__: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
 
-      {@i Sunlight Hypersensitivity.} While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
+      __Sunlight Hypersensitivity__: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 actions:
   - name: Multiattack (Vampire Form Only)
     desc: Strahd makes two attacks, only one of which can be a bite attack.
