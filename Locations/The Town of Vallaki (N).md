@@ -108,7 +108,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 	- If [[Ireena Kolyana|Ireena]] is safe, he's pissed
 	- If she's not safe, he tries to charm her into coming with him
 	- Then, at the [[#Festival of the Blazing Sun]], the public unrest boils over into full blown panic
-		- A mob erupts against [[Vargas Vallakovich|The Baron]] and his men (worse than [[Fiona Wachter|Fiona]]
+		- A mob erupts against [[Vargas Vallakovich|The Baron]] and his men (worse than [[Fiona Wachter|Fiona's]] revolution would have been
+		- [[Vargas Vallakovich|Vargas]] and [[Lydia Petrovna|Lydia]] are lynched in the middle of town, and the mansion burned down
+		-  fires spread, and there is city-wide looting
  
 
 
