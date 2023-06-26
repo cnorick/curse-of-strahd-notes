@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Blink Dog.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Blink Dog.md",
+                "file": "Characters/Offalia Wormwiggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Blink Dog.md"
+                "file": "Characters/Offalia Wormwiggle.md"
               }
             }
           },
@@ -286,7 +286,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Black Bear.md",
+                    "file": "Characters/Offalia Wormwiggle.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -307,32 +307,32 @@
   },
   "active": "b2f45bdbf706a745",
   "lastOpenFiles": [
-    "reference/creatures/Blood Hawk.md",
-    "reference/creatures/Boar.md",
-    "reference/creatures/Brown Bear.md",
-    "reference/creatures/Camel.md",
-    "reference/creatures/Cat.md",
-    "reference/creatures/Constrictor Snake.md",
-    "reference/creatures/Crab.md",
-    "reference/creatures/Crocodile.md",
-    "reference/creatures/Death Dog.md",
-    "reference/creatures/Deer.md",
-    "reference/creatures/Dire Wolf.md",
-    "reference/creatures/Draft Horse.md",
-    "reference/creatures/Eagle.md",
-    "reference/creatures/Elephant.md",
-    "reference/creatures/Elk.md",
-    "reference/creatures/Flying Snake.md",
-    "reference/creatures/Frog.md",
-    "reference/creatures/Giant Ape.md",
-    "reference/creatures/Giant Badger.md",
-    "reference/creatures/Giant Bat.md",
-    "reference/creatures/Giant Boar.md",
-    "reference/creatures/Giant Centipede.md",
-    "reference/creatures/Giant Constrictor Snake.md",
-    "reference/creatures/Giant Crab.md",
-    "reference/creatures/Giant Crocodile.md",
-    "reference/creatures/Giant Eagle.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rictavio.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Shalooti.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Tatyana.md",
+    "Characters/The Abbott.md",
+    "Characters/Thornboldt.md",
+    "Characters/Walter.md",
+    "Characters/Vargas Vallakovich.md",
+    "Characters/Amalthia.md",
+    "Characters/Alexei.md",
+    "Characters/Brom Martikova.md",
+    "Characters/Arabelle.md",
+    "Characters/Arrigal.md",
+    "Characters/Bluto Krogarov.md",
+    "Characters/Bray Martikova.md",
+    "Characters/Henrik van der Voort.md",
+    "Characters/Danika Dorakova.md",
+    "Characters/Dhavit.md",
+    "Characters/Ernst Larnak.md",
+    "Characters/Father Lucian Petrovich.md",
+    "Characters/Fiona Wachter.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
