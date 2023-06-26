@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -271,9 +271,10 @@
   },
   "active": "d719d1d0c8ef2ea0",
   "lastOpenFiles": [
+    "Sergei.md",
+    "Characters/Strahd Von Zarovich.md",
     "Beucephalus.md",
     "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
-    "Characters/Strahd Von Zarovich.md",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
     "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
@@ -315,7 +316,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Handouts/Letters/Strahd's Invitation.md",
     "Website/site/assets/images/people/rictavio-token.png",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
