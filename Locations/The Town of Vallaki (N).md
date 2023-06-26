@@ -106,7 +106,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - **The party goes to the [[#Coffin Maker's Shop (N6)|Coffin Shop]] looking for bones** -> [[Strahd Von Zarovich|Strahd]] is alerted, and shows up within a few hours on [[Beucephalus]]
 	- Makes a show of riding through town, and sets his vampire spawn loose on the town and the church (if not consecrated)
 	- If [[Ireena Kolyana|Ireena]] is safe, he's pissed
-	- If
+	- If she's not safe, he tries to charm her into coming with him
  
 
 
