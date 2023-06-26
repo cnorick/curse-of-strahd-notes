@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beucephalus.md",
+                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md"
               }
             }
           },
@@ -269,10 +269,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "02e31544b2beedd3",
+  "active": "d719d1d0c8ef2ea0",
   "lastOpenFiles": [
     "Beucephalus.md",
+    "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
     "Characters/Strahd Von Zarovich.md",
+    "Assets/Images/People/Strahd and Beucephalus.jpg",
+    "Assets/Images/Strahd and Beucephalus.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
+    "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg.crdownload",
     "Locations/The Town of Vallaki (N).md",
     "Misc/Shopping in Barovia.md",
     "Assets/Images/Maps/Vallaki Valley/krezk-shopping.jpg",
@@ -310,13 +315,8 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Handouts/Letters/Strahd's Invitation.md",
     "Website/site/assets/images/people/rictavio-token.png",
-    "Website/site/assets/images/people/baron_vargas_vallakovich.jpg",
-    "Website/site/assets/images/people/szoldar-szoldarovich.jpg",
-    "Website/site/assets/images/people/yevgeni-krushkin.jpg",
-    "Campaign/Session 0.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

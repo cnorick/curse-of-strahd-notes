@@ -2,7 +2,7 @@
 aliases: [nightmare, horse, Beucephalus the Wonder Horse]
 ---
 (Large NE fiend)
-![[Arik the Barkeep V2.webp|200]]
+![[Strahd and Beucephalus.jpg|200]]
 ## Playing Beucephalus
 
 ## History/Info
