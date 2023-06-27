@@ -21,7 +21,10 @@ The party set out early in the morning to make their way toward [[The Town of Va
 
 Along the road, the party is met with some wild looking people while [[Bardolf]] continues to sleep tied to [[Metarlos|Molly]]. Eventually, he's bucked awake by [[Metarlos|Molly]], and [[Ireena Kolyana|Ireena]] unties him. With the party at full strength, they're able to overpower the foes. Having taken damage, [[Pelanil]] spends the next hour healing and riding [[Metarlos|Molly]].
 
+![[berserker.jpg]]
+
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
+![[river ivlis
 
 ## The Windmill
 At around noon, after travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below and a walled town near the shores of a great lake. And just off to her left, a branch in the road that leads to a [[Old Bonegrinder (O)|Windmill]]. One that matches the description of the deed she picked up at [[Death House]]. After some discussion and input from a tired [[Ireena Kolyana|Ireena]], the party decides to investigate.
