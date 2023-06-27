@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Myrtle.md",
+                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,9 +155,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce98fbc6a95ab170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Myrtle.md",
+                "file": "Session Notes/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Myrtle.md",
+                "file": "Session Notes/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Myrtle.md"
+                "file": "Session Notes/Session 7.md"
               }
             }
           },
@@ -312,8 +324,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7008274cd42b0c14",
+  "active": "ce98fbc6a95ab170",
   "lastOpenFiles": [
+    "Session Prep/Session 7.md",
+    "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+    "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
+    "Handouts/Images/Portraits/Portrait of Rina.md",
+    "Handouts/Images/Portraits/Portrait of Rictavio.md",
+    "Handouts/Images/Portraits/Portrait of Parriwimple.md",
+    "Handouts/Images/Portraits/Portrait of Myrtle.md",
     "Handouts/Images/Portraits/Portrait of Milivoj.md",
     "Handouts/Images/Portraits/Portrait of Madam Eva.md",
     "Handouts/Images/Portraits/Portrait of Mad Mary.md",
@@ -333,12 +352,6 @@
     "Handouts/Images/Portraits/Portrait of Arahja.md",
     "Handouts/Images/Places/Gates of Barovia Image.md",
     "Handouts/Images/Places/The Windmill.md",
-    "Session Notes/Session 7.md",
-    "Metarlos.md",
-    "Locations/Tser Pool Encampment (G).md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
-    "Session Prep/Session 7.md",
-    "Index.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -349,7 +362,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
-    "Assets/Templates/Character.md",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",

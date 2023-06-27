@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: false
+public: true
 ---
 
 ![[Strahd and Beucephalus.jpg]]
