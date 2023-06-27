@@ -28,4 +28,6 @@ Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megal
 
 As he's walking back to join the party, he steps on a pile of teeth, that he brings back to the party for inspection. [[Pelanil]] recognizes that they're smaller than his teeth.
 
-Spooked at this point, the party considers turning tail and continuing their journey. And before anyone can act, [[Anakir]] is suddenly struck again with an inescapable craving for pies, and having smelled the scent of one o
+Spooked at this point, the party considers turning tail and continuing their journey. And before anyone can act, [[Anakir]] is suddenly struck again with an inescapable craving for pies, and having smelled the scent of one on the air, he bursts inside [[Old Bonegrinder (O)|The Windmill]], opens the oven, and shoves his face into a molten pie.
+
+The party barge in after him, [[Pelanil]] acting as if they're searching for a lost child
