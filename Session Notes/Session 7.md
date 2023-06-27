@@ -28,4 +28,4 @@ Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megal
 
 As he's walking back to join the party, he steps on a pile of teeth, that he brings back to the party for inspection. [[Pelanil]] recognizes that they're smaller than his teeth.
 
-Spooked at this point, the party considers turning tail and continuing their journey. And before anyone can act, [[Anakir]] is suddenly struck again with a 
+Spooked at this point, the party considers turning tail and continuing their journey. And before anyone can act, [[Anakir]] is suddenly struck again with an inescapable craving for pies, and having smelled the scent of one o
