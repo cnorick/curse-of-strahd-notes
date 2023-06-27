@@ -100,12 +100,8 @@
             "id": "579edd48acfb6d55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ]
@@ -182,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Session Prep/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md",
+                "file": "Session Prep/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Mechanics of Dream Pastries.md"
+                "file": "Session Prep/Session 7.md"
               }
             }
           },
@@ -256,6 +252,7 @@
   },
   "active": "579edd48acfb6d55",
   "lastOpenFiles": [
+    "Misc/Mechanics of Dream Pastries.md",
     "Session Prep/Session 7.md",
     "Metarlos.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
@@ -292,7 +289,6 @@
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
     "Characters/Izek Strazni.md",
-    "Characters/Jeny Greenteeth.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
