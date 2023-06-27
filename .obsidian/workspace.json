@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metarlos.md",
+                "file": "Session Notes/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metarlos.md",
+                "file": "Session Notes/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metarlos.md"
+                "file": "Session Notes/Session 7.md"
               }
             }
           },
@@ -312,10 +312,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "364ffaa3d9b28209",
+  "active": "7008274cd42b0c14",
   "lastOpenFiles": [
-    "Locations/Tser Pool Encampment (G).md",
     "Metarlos.md",
+    "Locations/Tser Pool Encampment (G).md",
     "Session Notes/Session 7.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Session Prep/Session 7.md",

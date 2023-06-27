@@ -11,4 +11,4 @@ After speaking with [[Madam Eva]], the party leaves her tent to sit around the f
 [[Shalooti]] plays Lizzo for the group, who applaud vigorously. And one of the [[Vistani]] recounts a story to the group about a mighty wizard who rallied a mob to take on [[Strahd Von Zarovich|Strahd]]. The wizard was overthrown by [[Strahd Von Zarovich|Strahd]] and fell a thousand feet to his death, and his body was washed away by the river.
 
 ## Back on the Road
-The party set out early in the morning to make their way toward [[The Town of Vallaki (N)|Vallaki]]. [[Bardolf]] doesn't stir, so with the help of [[Ireena Kolyana|Ireena]], [[Pelanil]] ties him to [[Molly]]
+The party set out early in the morning to make their way toward [[The Town of Vallaki (N)|Vallaki]]. [[Bardolf]] doesn't stir, so with the help of [[Ireena Kolyana|Ireena]], [[Pelanil]] ties him to [[Metarlos|Molly]] ([[Metarlos]] gained a new name)
