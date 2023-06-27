@@ -8,4 +8,4 @@ The party picks up in [[Madam Eva]]'s tent, where they ask her a bunch of questi
 
 After speaking with [[Madam Eva]], the party leaves her tent to sit around the fire with [[Arahja]], [[Rina]], and about a dozen other [[Vistani]]. [[Arahja]] asks the characters about their intentions in Barovia as well as for more information about their lives outside of Barovia. [[Bardolf]] shares this information freely, much to [[Pelanil]]'s disapproval.
 
-[[Shalooti]] plays Lizzo for the gro
+[[Shalooti]] plays Lizzo for the group, who applaud vigorously. And one of the [[Vistani]] recount
