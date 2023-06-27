@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Prep/Session 7.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,21 +87,6 @@
               "state": {
                 "file": "Assets/Images/Maps/barovia_untagged.webp"
               }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "e7770b9e6e65ca9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "579edd48acfb6d55",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           }
         ]
@@ -178,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 7.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 7.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 7.md"
+                "file": "Index.md"
               }
             }
           },
@@ -250,10 +235,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "579edd48acfb6d55",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
-    "Misc/Mechanics of Dream Pastries.md",
     "Session Prep/Session 7.md",
+    "Misc/Mechanics of Dream Pastries.md",
     "Metarlos.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Session Notes/Session 7.md",
