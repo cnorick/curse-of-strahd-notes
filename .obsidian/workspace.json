@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md"
+                "file": "Index.md"
               }
             }
           },
@@ -311,8 +311,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "f532799db561d5d8",
+  "active": "dfbfae95a824880a",
   "lastOpenFiles": [
+    "Misc/Peoples and Lore/Barovian Lore.md",
     "Locations/Tser Pool Encampment (G).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
@@ -348,7 +349,6 @@
     "Characters/Izek Strazni.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",

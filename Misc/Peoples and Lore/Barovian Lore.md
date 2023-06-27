@@ -1,7 +1,7 @@
 ### The Devil Strahd
 - [x] [[Strahd Von Zarovich]] is a vampire, and he dwells in [[Castle Ravenloft (K)]]. No one is welcome at the castle
 - [ ] The devil [[Strahd Von Zarovich|Strahd]] is a curse placed on the land because of a forgotten sin of the Barovians' ancestors. (This is untrue, but the Barovians believe it nonetheless)
-- [ ] A vampire must rest in its coffin during the day
+- [x] A vampire must rest in its coffin during the day
 	- At night, it can summon wolves and vermin to do its bidding
 	- A vampire can transform into a bat, a wolf, or a cloud of mist
 	- In its humanoid form, it can dominate you with its powerful gaze
@@ -19,8 +19,8 @@
 	 The village burgomaster is named [[Dmitri Krezkov]]
 - [ ] Wine is the lifeblood of Barovia
 	- For some it is the only reason to keep living
-	- Barovian taverns get their wine from the [[Wizard of the Wines]] winery near [[Village of Krezk (S)]]
-- [ ] A mad wizard of great power haunts the foothills of [[Mount Baratok]]
+	- Barovian taverns get their wine from the [[The Wizard of Wines (W)|Wizard of Wines]] winery near [[Village of Krezk (S)]]
+- [ ] A mad wizard of great power haunts the foothills of [[Mount Baratok (M)|Mount Baratok]]
 	- He is an outsider and no friend of the vampires
 
 ### Beliefs and Superstitions
