@@ -93,28 +93,12 @@
             "id": "936ae84130f39c87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ireena Kolyana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7008274cd42b0c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "e7770b9e6e65ca9a",
@@ -143,17 +127,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f532799db561d5d8",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Session Prep/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Session Prep/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,28 +243,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md"
+                "file": "Session Prep/Session 7.md"
               }
-            }
-          },
-          {
-            "id": "537e2a47f3a68d0f",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "255aa8d203e9c994",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -303,11 +263,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "537e2a47f3a68d0f",
+  "active": "087448670a0217d3",
   "lastOpenFiles": [
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Session Notes/Session 7.md",
