@@ -30,4 +30,4 @@ As he's walking back to join the party, he steps on a pile of teeth, that he bri
 
 Spooked at this point, the party considers turning tail and continuing their journey. And before anyone can act, [[Anakir]] is suddenly struck again with an inescapable craving for pies, and having smelled the scent of one on the air, he bursts inside [[Old Bonegrinder (O)|The Windmill]], opens the oven, and shoves his face into a molten pie.
 
-The party barge in after him, [[Pelanil]] acting as if they're searching for a lost child
+The party barge in after him, [[Pelanil]] acting as if they're searching for a lost child. Just as the party enters, they hear a shout from above, "Mother, is that you?" and the sound of footsteps descending the stairs...
