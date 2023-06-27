@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Session Notes/Session 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Session Notes/Session 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
+                "file": "Session Notes/Session 7.md"
               }
             }
           },
@@ -324,15 +324,23 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7008274cd42b0c14",
+  "active": "ce98fbc6a95ab170",
   "lastOpenFiles": [
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
+    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-luvash.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-henrik.html",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arrigal.html",
+    "Website/no-spoilers/campaign-notes/session-notes/session-7.html",
     "Session Notes/Session 7.md",
-    "Website/site/characters/beucephalus.html",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/berserker.jpg",
-    "Website/site/session-notes/session-7.html",
-    "Website/site/session-prep/session-7.html",
-    "Website/site/metarlos.html",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
     "Campaign Notes.md",
@@ -355,15 +363,7 @@
     "Characters/Izek Strazni.md",
     "Characters/Jeny Greenteeth.md",
     "Characters/King Barov.md",
-    "Characters/Kolyan Indirovich.md",
-    "Characters/Lancelot.md",
     "Assets/Images/berserker.jpg",
-    "Assets/Images/berserker.jpg.crdownload",
-    "Assets/Images/Monsters",
-    "Assets/Images/New folder",
-    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
