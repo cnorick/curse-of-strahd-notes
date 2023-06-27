@@ -20,4 +20,5 @@ The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]]
 ## The Windmill
 At around noon, after travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below and a walled town near the shores of a great lake. And just off to her left, a branch in the road that leads to a [[Old Bonegrinder (O)|Windmill]]. After some discussion and input from a tired [[Ireena Kolyana|Ireena]], the party decides to investigate.
 
-[[Elora]] climbs a rop
+[[Shalooti]] hears whistling coming from inside, and [[Elora]] climbs a rope provided by [[Bardolf]] to peek in the second floor window. She sees inside:
+- an old woman in an apron
