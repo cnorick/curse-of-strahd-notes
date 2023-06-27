@@ -148,24 +148,12 @@
             "id": "f532799db561d5d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce98fbc6a95ab170",
-            "type": "leaf",
-            "state": {
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Misc/Peoples and Lore/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "file": "Misc/Peoples and Lore/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
+                "file": "Misc/Peoples and Lore/Barovian Lore.md"
               }
             }
           },
@@ -319,10 +307,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ce98fbc6a95ab170",
+  "active": "537e2a47f3a68d0f",
   "lastOpenFiles": [
-    "Session Notes/Session 7.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Session Notes/Session 7.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-7.html",

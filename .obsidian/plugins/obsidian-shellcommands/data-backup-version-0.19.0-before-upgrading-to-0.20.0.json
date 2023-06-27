@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.20.0",
+  "settings_version": "0.19.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -11,15 +11,8 @@
   "notification_message_duration": 10,
   "execution_notification_mode": "disabled",
   "output_channel_clipboard_also_outputs_to_notification": true,
-  "output_channel_notification_decorates_output": true,
   "enable_events": true,
   "approve_modals_by_pressing_enter_key": true,
-  "command_palette": {
-    "re_execute_last_shell_command": {
-      "enabled": true,
-      "prefix": "Re-execute: "
-    }
-  },
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
@@ -35,6 +28,10 @@
       "input_contents": {
         "stdin": null
       },
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
       "output_wrappers": {
         "stdout": null,
         "stderr": null
@@ -44,17 +41,7 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {},
-      "output_handlers": {
-        "stdout": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        },
-        "stderr": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        }
-      }
+      "variable_default_values": {}
     },
     {
       "id": "ng0b67igc8",
@@ -69,6 +56,10 @@
       "input_contents": {
         "stdin": null
       },
+      "output_channels": {
+        "stdout": "notification",
+        "stderr": "notification"
+      },
       "output_wrappers": {
         "stdout": null,
         "stderr": null
@@ -78,17 +69,7 @@
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
-      "variable_default_values": {},
-      "output_handlers": {
-        "stdout": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        },
-        "stderr": {
-          "handler": "notification",
-          "convert_ansi_code": true
-        }
-      }
+      "variable_default_values": {}
     }
   ],
   "prompts": [],
