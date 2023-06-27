@@ -22,4 +22,6 @@ At around noon, after travelling along the ridgeline, [[Shalooti]] is the first 
 
 [[Shalooti]] hears whistling coming from inside, and [[Elora]] climbs a rope provided by [[Bardolf]] to peek in the second floor window. She sees inside a large millstone, and an old woman in an apron covered in flour and blood. She's whistling to herself as she sweeps up debris, stirring up a cloud of white dust.
 
-As she climbs back down, [[
+As she climbs back down, [[Elora]]'s foot gets stuck in the scaffolding, and she dangles there upside-down. The party come to her aid, and she's able to quietly make her way back down.
+
+Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megaliths|]]
