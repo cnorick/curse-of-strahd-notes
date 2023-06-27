@@ -24,4 +24,6 @@ At around noon, after travelling along the ridgeline, [[Shalooti]] is the first 
 
 As she climbs back down, [[Elora]]'s foot gets stuck in the scaffolding, and she dangles there upside-down. The party come to her aid, and she's able to quietly make her way back down.
 
-Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megaliths|Megaliths]] near the edge of the forest. He find that each of them are carved with images of cities, each one depicting a different season. He also notices that there are ravens circling and picking at something on the top of one of them.
+Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megaliths|Megaliths]] near the edge of the forest. He find that each of them are carved with images of cities, each one depicting a different season. He also notices that there are ravens circling and picking at something on the top of one of them. He climbs the megalith to find that they're picking a pie.
+
+As he's walking back to join the party, he steps on a pile of teeth, that he brings back to the party for inspection. [[Pelanil]] recognizes that they're smaller than his teeth
