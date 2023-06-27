@@ -18,4 +18,4 @@ Along the road, the party is met with some wild looking people while [[Bardolf]]
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
 
 ## The Windmill
-Travelling along the ridgeline, 
+Travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below
