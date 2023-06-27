@@ -24,10 +24,12 @@ Along the road, the party is met with some wild looking people while [[Bardolf]]
 ![[berserker.jpg]]
 
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
-![[river ivlis
+![[Tser Falls Day.webp]] ![[Gates of Barovia.webp]]
 
 ## The Windmill
 At around noon, after travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below and a walled town near the shores of a great lake. And just off to her left, a branch in the road that leads to a [[Old Bonegrinder (O)|Windmill]]. One that matches the description of the deed she picked up at [[Death House]]. After some discussion and input from a tired [[Ireena Kolyana|Ireena]], the party decides to investigate.
+
+![[Old Bonegrinder.webp]]
 
 [[Shalooti]] hears whistling coming from inside, and [[Elora]] climbs a rope provided by [[Bardolf]] to peek in the second floor window. She sees inside a large millstone, and an old woman in an apron covered in flour and blood. She's whistling to herself as she sweeps up debris, stirring up a cloud of white dust.
 
