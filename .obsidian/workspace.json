@@ -100,8 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7008274cd42b0c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       },
       {
         "id": "e7770b9e6e65ca9a",
@@ -142,21 +155,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7008274cd42b0c14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,10 +314,10 @@
   },
   "active": "7008274cd42b0c14",
   "lastOpenFiles": [
+    "Misc/Peoples and Lore/Barovian Lore.md",
     "Session Notes/Session 7.md",
     "Session Prep/Session 7.md",
     "Index.md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
     "Locations/Tser Pool Encampment (G).md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
