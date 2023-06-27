@@ -18,7 +18,7 @@ Along the road, the party is met with some wild looking people while [[Bardolf]]
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
 
 ## The Windmill
-At around noon, after travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below and a walled town near the shores of a great lake. And just off to her left, a branch in the road that leads to a [[Old Bonegrinder (O)|Windmill]]. After some discussion and input from a tired [[Ireena Kolyana|Ireena]], the party decides to investigate.
+At around noon, after travelling along the ridgeline, [[Shalooti]] is the first to see the mountains open up to a valley below and a walled town near the shores of a great lake. And just off to her left, a branch in the road that leads to a [[Old Bonegrinder (O)|Windmill]]. One that matches the description of the deed she picked up at [[Death House]]. After some discussion and input from a tired [[Ireena Kolyana|Ireena]], the party decides to investigate.
 
 [[Shalooti]] hears whistling coming from inside, and [[Elora]] climbs a rope provided by [[Bardolf]] to peek in the second floor window. She sees inside a large millstone, and an old woman in an apron covered in flour and blood. She's whistling to herself as she sweeps up debris, stirring up a cloud of white dust.
 
@@ -26,4 +26,6 @@ As she climbs back down, [[Elora]]'s foot gets stuck in the scaffolding, and she
 
 Meanwhile, [[Bardolf]] splits off to inspect the [[Old Bonegrinder (O)#The Megaliths|Megaliths]] near the edge of the forest. He find that each of them are carved with images of cities, each one depicting a different season. He also notices that there are ravens circling and picking at something on the top of one of them. He climbs the megalith to find that they're picking a pie.
 
-As he's walking back to join the party, he steps on a pile of teeth, that he brings back to the party for inspection. [[Pelanil]] recognizes that they're smaller than his teeth
+As he's walking back to join the party, he steps on a pile of teeth, that he brings back to the party for inspection. [[Pelanil]] recognizes that they're smaller than his teeth.
+
+Spooked at this point, the party considers turning tail and continuing their journey
