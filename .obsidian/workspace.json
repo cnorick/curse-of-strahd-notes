@@ -107,21 +107,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "364ffaa3d9b28209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metarlos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 7.md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 7.md",
+                "file": "Misc/Mechanics of Dream Pastries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,12 +222,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 7.md"
+                "file": "Misc/Mechanics of Dream Pastries.md"
               }
+            }
+          },
+          {
+            "id": "4f51d1a47cc3e3a0",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -255,11 +250,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "087448670a0217d3",
+  "active": "579edd48acfb6d55",
   "lastOpenFiles": [
+    "Session Prep/Session 7.md",
+    "Metarlos.md",
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Session Notes/Session 7.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
@@ -295,7 +293,6 @@
     "Characters/Ismark Kolyanovich.md",
     "Characters/Izek Strazni.md",
     "Characters/Jeny Greenteeth.md",
-    "Characters/King Barov.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
