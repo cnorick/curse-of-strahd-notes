@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7.md"
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
               }
             }
           },
@@ -324,8 +324,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ce98fbc6a95ab170",
+  "active": "7008274cd42b0c14",
   "lastOpenFiles": [
+    "Session Notes/Session 7.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -337,8 +338,6 @@
     "Handouts/Misc/Madam Eva's Card Reading.md",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arrigal.html",
-    "Website/no-spoilers/campaign-notes/session-notes/session-7.html",
-    "Session Notes/Session 7.md",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Templates/Handout.md",
