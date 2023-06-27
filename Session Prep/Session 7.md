@@ -12,12 +12,12 @@
 - 235minutes, ~4hr to get to [[Old Bonegrinder (O)|Old Bonegrinder]]
 - 340minutes, ~5.5hr to get all the way to [[The Town of Vallaki (N)|Vallaki]]
 
-- [ ] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
-- [ ] Pie saves at noon (maybe wait until old bone grinder when they smell the pies)
-	- [ ] [[Anakir]] makes con save (DC 12)
+- [x] [[Anakir]] has sweet dreams, everyone else has nightmares (except tea-totaler) [[Pelanil]]
+- [x] Pie saves at noon (maybe wait until old bone grinder when they smell the pies)
+	- [x] [[Anakir]] makes con save (DC 12)
 		- save: nothing
 		- fail: They find themselves eating pie again; if no pie, they have disadvantage on skill checks until they eat pie
-	- [ ] The other pie eaters: con save (DC 4)
+	- [x] The other pie eaters: con save (DC 4)
 		- save: they're cured
 		- fail: disadvantage on skill checks, they have nightmares, but wake up cured; they aren't *forced* to eat pie, but can voluntarily
 
