@@ -160,12 +160,8 @@
             "id": "ce98fbc6a95ab170",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
@@ -308,8 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -324,12 +319,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7008274cd42b0c14",
+  "active": "ce98fbc6a95ab170",
   "lastOpenFiles": [
+    "Session Notes/Session 7.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-7.html",
-    "Session Notes/Session 7.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -337,8 +333,6 @@
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-luvash.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-henrik.html",
-    "Handouts/Misc/Madam Eva's Card Reading.md",
     "Assets/Templates/Character.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Templates/Handout.md",
