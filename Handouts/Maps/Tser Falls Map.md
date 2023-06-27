@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 [[Tser Falls Day.webp]]
 ![[Tser Falls Day.webp]]

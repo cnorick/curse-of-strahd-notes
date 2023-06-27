@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+                "file": "Handouts/Maps/Tser Falls Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Handouts/Maps/Tser Falls Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Handouts/Maps/Tser Falls Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7.md"
+                "file": "Handouts/Maps/Tser Falls Map.md"
               }
             }
           },
@@ -324,14 +324,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ce98fbc6a95ab170",
+  "active": "7008274cd42b0c14",
   "lastOpenFiles": [
+    "Handouts/Maps/Tser Pool Map.md",
+    "Handouts/Maps/Village of Barovia Map.md",
+    "Handouts/Maps/Tser Falls Map.md",
+    "Handouts/Maps/The Windmill Map.md",
+    "Handouts/Maps/River Ivlis Crossroads Map.md",
+    "Handouts/Maps/Old Svalich Road Map.md",
+    "Handouts/Maps/Vallaki/Vallaki Map.md",
+    "Handouts/Items/The Tome of Strahd.md",
+    "Handouts/Items/Sunsword.md",
+    "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
+    "Session Notes/Session 7.md",
     "Assets/Images/berserker.jpg",
     "Assets/Images/berserker.jpg.crdownload",
     "Assets/Images/Monsters",
     "Assets/Images/New folder",
     "Session Prep/Session 7.md",
-    "Handouts/Images/Portraits/Portrait of Strahd and Beucephalus.md",
     "Handouts/Images/Portraits/Portrait of Rose and Thorne.md",
     "Handouts/Images/Portraits/Portrait of Rina.md",
     "Handouts/Images/Portraits/Portrait of Rictavio.md",
@@ -346,15 +356,6 @@
     "Handouts/Images/Portraits/Portrait of Ireena.md",
     "Handouts/Images/Portraits/Portrait of Henrik.md",
     "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Handouts/Images/Portraits/Portrait of Freek.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
-    "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
-    "Handouts/Images/Portraits/Portrait of Arrigal.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Places/Gates of Barovia Image.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
@@ -371,7 +372,6 @@
     "Website/site/assets/images/people/strahd-and-beucephalus.jpg",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
     "Assets/Images/Strahd and Beucephalus.jpg",
-    "Assets/Images/Maps/Vallaki Valley/Strahd and Beucephalus.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
