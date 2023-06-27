@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Death Ward.md",
+                "file": "reference/creatures/Rat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Death Ward.md",
+                "file": "reference/creatures/Rat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Death Ward.md"
+                "file": "reference/creatures/Rat.md"
               }
             }
           },
@@ -342,7 +342,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Death Ward.md",
+                    "file": "reference/creatures/Quipper.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -363,32 +363,32 @@
   },
   "active": "b5d16288920201b1",
   "lastOpenFiles": [
-    "reference/spells/Delayed Blast Fireball.md",
-    "reference/spells/Demiplane.md",
-    "reference/spells/Detect Evil and Good.md",
-    "reference/spells/Detect Magic.md",
-    "reference/spells/Detect Poison and Disease.md",
-    "reference/spells/Detect Thoughts.md",
-    "reference/spells/Dimension Door.md",
-    "reference/spells/Disguise Self.md",
-    "reference/spells/Disintegrate.md",
-    "reference/spells/Dispel Evil and Good.md",
-    "reference/spells/Dispel Magic.md",
-    "reference/spells/Divination.md",
-    "reference/spells/Divine Favor.md",
-    "reference/spells/Divine Word.md",
-    "reference/spells/Dominate Beast.md",
-    "reference/spells/Dominate Monster.md",
-    "reference/spells/Dominate Person.md",
-    "reference/spells/Dream.md",
-    "reference/spells/Druidcraft.md",
-    "reference/spells/Earthquake.md",
-    "reference/spells/Eldritch Blast.md",
-    "reference/spells/Enhance Ability.md",
-    "reference/spells/Entangle.md",
-    "reference/spells/Enlarge slash Reduce.md",
-    "reference/spells/Enthrall.md",
-    "reference/spells/Etherealness.md",
+    "reference/creatures/Raven.md",
+    "reference/creatures/Reef Shark.md",
+    "reference/creatures/Rhinoceros.md",
+    "reference/creatures/Riding Horse.md",
+    "reference/creatures/Saber-Toothed Tiger.md",
+    "reference/creatures/Scorpion.md",
+    "reference/creatures/Sea Horse.md",
+    "reference/creatures/Spider.md",
+    "reference/creatures/Swarm of Bats.md",
+    "reference/creatures/Swarm of Insects.md",
+    "reference/creatures/Swarm of Poisonous Snakes.md",
+    "reference/creatures/Swarm of Quippers.md",
+    "reference/creatures/Swarm of Rats.md",
+    "reference/creatures/Swarm of Ravens.md",
+    "reference/creatures/Tiger.md",
+    "reference/creatures/Warhorse.md",
+    "reference/creatures/Vulture.md",
+    "reference/creatures/Weasel.md",
+    "reference/creatures/Winter Wolf.md",
+    "reference/creatures/Wolf.md",
+    "reference/creatures/Worg.md",
+    "reference/Creatures.md",
+    "reference/Customizing NPCs.md",
+    "reference/Dragonborn.md",
+    "reference/Druid.md",
+    "reference/Dwarf.md",
     "Assets/Images/berserker.jpg",
     "Assets/Images/berserker.jpg.crdownload",
     "Assets/Images/Monsters",
