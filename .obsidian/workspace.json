@@ -138,7 +138,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tser Pool Encampment (G).md",
+                "file": "Metarlos.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Metarlos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "Metarlos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +271,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 7.md"
+                "file": "Metarlos.md"
               }
             }
           },
@@ -312,9 +312,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "7008274cd42b0c14",
+  "active": "364ffaa3d9b28209",
   "lastOpenFiles": [
     "Locations/Tser Pool Encampment (G).md",
+    "Metarlos.md",
     "Session Notes/Session 7.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Session Prep/Session 7.md",
@@ -349,7 +350,6 @@
     "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Izek Strazni.md",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
