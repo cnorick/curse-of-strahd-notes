@@ -18,4 +18,4 @@ Along the road, the party is met with some wild looking people while [[Bardolf]]
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
 
 ## The Windmill
-Travelling along
+Travelling along the ridgeline, 
