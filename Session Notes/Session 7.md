@@ -6,3 +6,4 @@ The party picks up in [[Madam Eva]]'s tent, where they ask her a bunch of questi
 	- In its humanoid form, it can dominate you with its powerful gaze
 - Many strangers have been drawn to Barovia over the years, but they all die or disappear before long
 
+After speaking with [[Madam Eva]], the party leaves her tent to sit around the fire with [[Arahja]], [[Rina]], and about a dozen other [[Vistani]]. [[Arahja]] asks the characters about the
