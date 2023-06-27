@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Arrigal.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Arrigal.md",
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Arrigal.md"
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md"
               }
             }
           },
@@ -324,71 +324,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "5367b616ac8fc6e9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "60036173c081f6c1",
-        "type": "window",
-        "children": [
-          {
-            "id": "98557b53bdd249d8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b5d16288920201b1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Arrigal.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b5d16288920201b1",
+  "active": "7008274cd42b0c14",
   "lastOpenFiles": [
-    "Characters/Bluto Krogarov.md",
-    "Characters/Bray Martikova.md",
-    "Characters/Henrik van der Voort.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Dhavit.md",
-    "Characters/Ernst Larnak.md",
-    "Characters/Father Lucian Petrovich.md",
-    "Characters/Fiona Wachter.md",
-    "Characters/Gunther Arasek.md",
-    "Characters/Haliq.md",
-    "Characters/Milivoj.md",
-    "Characters/Karl Wachter.md",
-    "Characters/Lord Nikolai Wachter.md",
-    "Characters/Luvash.md",
-    "Characters/Madalena.md",
-    "Characters/Tasha Petrovna.md",
-    "Characters/Nikolai Wachter.md",
-    "Characters/Stella Wachter.md",
-    "Characters/Szoldar Szoldarovich.md",
-    "Characters/Yevgeni Krushkin.md",
-    "Characters/Udo Lukovich.md",
-    "Characters/Urwin Martikov.md",
-    "Characters/Victor Vallakovich.md",
-    "Characters/Yelena Arasek.md",
-    "Characters/Gadof Blinsky.md",
-    "Characters/Mirabel.md",
+    "Session Notes/Session 7.md",
+    "Website/site/characters/beucephalus.html",
+    "Assets/Templates/Character.md",
+    "Website/site/assets/images/berserker.jpg",
+    "Website/site/session-notes/session-7.html",
+    "Website/site/session-prep/session-7.html",
+    "Website/site/metarlos.html",
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Portrait.md",
+    "Campaign Notes.md",
+    "Characters/Anakir.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Bardolf.md",
+    "Characters/Bella Sunbane.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Cyrus Belview.md",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Freek.md",
+    "Characters/Gertruda.md",
+    "Characters/Gustav Durst.md",
+    "Characters/Ireena Kolyana.md",
+    "Characters/Ismark Kolyanovich.md",
+    "Characters/Izek Strazni.md",
+    "Characters/Jeny Greenteeth.md",
+    "Characters/King Barov.md",
+    "Characters/Kolyan Indirovich.md",
+    "Characters/Lancelot.md",
     "Assets/Images/berserker.jpg",
     "Assets/Images/berserker.jpg.crdownload",
     "Assets/Images/Monsters",
@@ -396,10 +364,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/tser-pool-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/tser-falls-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/river-ivlis-crossroads-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
@@ -408,7 +372,6 @@
     "Website/site/assets/images/maps/vallaki-valley/vallaki-shopping.jpg",
     "Website/site/assets/images/people/strahd-and-beucephalus.jpg",
     "Assets/Images/People/Strahd and Beucephalus.jpg",
-    "Assets/Images/Strahd and Beucephalus.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
