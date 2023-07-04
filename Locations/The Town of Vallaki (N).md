@@ -92,7 +92,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - The players will probably head west through town from the eastern gate
 	- unless they fixate on a specific building, go ahead and skip [[#Arasek Stockyard (N5)]] and [[#Coffin Maker's Shop (N6)]]
 	- They'll probably be heading to the [[#Blue Water Inn (N2)]] from a townie's advice, or to [[#St Andral's Church (N1)]] on [[Ireena Kolyana|Ireena]]'s request
-	- 
+	- They land in [[#Town Square (N8)]]
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
@@ -127,6 +127,7 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 ### Blinsky Toys (N7)
 
 ### Town Square (N8)
+
 
 ### Vistani Camp (N9)
 
