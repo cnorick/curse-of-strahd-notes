@@ -135,9 +135,11 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 - Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is [[Boris Vallakovich]], his ancestor and the town's founder, but there's no noticeable family resemblance.
 - Other stages off to the side for festivals
 - The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and Izek Strazni carries the keys on an iron ring.
-- Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished. The five adults have the statistics of human [[commoners]](http://longo.com.br/5e/bestiary.html#commoner_mm), and the children are noncombatants. The plaster donkey heads they wear are meant to encourage ridicule.
-
-Freeing one or more prisoners without the baron's consent is a crime. If the characters are witnessed doing so, Izek rallies the town [guards](http://longo.com.br/5e/bestiary.html#guard_mm) (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
+- Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished
+	- The five adults have the statistics of human [[commoner]]
+	- the children are noncombatants
+	- The plaster donkey heads they wear are meant to encourage ridicule.
+- Freeing one or more prisoners without [[Vargas Vallakovich|The Baron]]'s consent is a crime. If the characters are witnessed doing so, Izek rallies the town [guards](http://longo.com.br/5e/bestiary.html#guard_mm) (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 
