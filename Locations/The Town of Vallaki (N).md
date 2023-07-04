@@ -143,9 +143,10 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 		- the children are noncombatants
 		- The plaster donkey heads they wear are meant to encourage ridicule.
 	- Freeing one or more prisoners without [[Vargas Vallakovich|The Baron]]'s consent is a crime
-		- If the characters are witnessed doing so:
-			- A townie may first try to stop them, saying they're acting
-			- Izek rallies the town [guards](http://longo.com.br/5e/bestiary.html#guard_mm) (twenty-four in all) and orders the characters to leave town at once or suffer the consequences. If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
+		- If the characters try:
+			- A townie may first try to stop them, saying they're acting like barbarians and warning of [[Izek Strazni|Izek]]
+			- [[Izek rallies the 24 town [[guard]]s (twenty-four in all) and orders the characters to leave town at once or suffer the consequences
+				- If the characters stand their ground, Izek orders the guards to beat them into submission, seize their weapons, and cast them out of Vallaki to be "food for the wolves."
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 
