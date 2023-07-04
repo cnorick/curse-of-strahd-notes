@@ -70,7 +70,9 @@ When approaching:
 >Failure to comply with any Vallakian law will mark you as criminals to our city and you will be punished as such in accordance to our justice system. If you have any questions, now is the time to ask them.
 
 - Reinforce these laws as much as necessary
-- If asked about the f
+- If asked about:
+	- **the festivals**: the guards explain them in the most positive light
+	- **punishment**: only the basics; anywhere between a fine, imprisonment, or in severe 
 
 
 ### House Occupants
