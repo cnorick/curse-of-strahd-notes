@@ -131,15 +131,10 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 >
 >Off to the side of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
 
->Come one, come all,
->to the greatest celebration of the year:
->THE WOLF'S HEAD JAMBOREE!
->Attendance and children required.
->Pikes will be provided.
->ALL WILL BE WELL!
->	- The Baron -
+- [[Old Vallaki Proclamation]]
 
 - Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is Boris Vallakovich, his ancestor and the town's founder, but there's no noticeable family resemblance.
+- Other stages off to the side for festivals
 
 ### Vistani Camp (N9)
 
