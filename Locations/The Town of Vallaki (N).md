@@ -30,7 +30,7 @@ aliases: [Vallaki, The Town of Vallaki]
 >The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.
 
 When approaching:
->The guard
+>One of the figures just inside the gate, yells out "Who goes there?"
 
 - A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there
 
@@ -48,7 +48,6 @@ When approaching:
 	- Vallaki has twenty-four human [[guard|guards]], half of whom are on duty at any given time
 		- (six stand watch at the gates, six patrol the walls)
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
-
 
 
 
