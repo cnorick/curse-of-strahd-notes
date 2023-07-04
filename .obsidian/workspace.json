@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a525b03a69676905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f05f985b5a698af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Misc/Peoples and Lore/Barovian Names.md",
                 "mode": "source",
                 "source": false
@@ -165,7 +183,7 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "6f05f985b5a698af",
   "lastOpenFiles": [
     "Locations/The Town of Vallaki (N).md",
     "Misc/Peoples and Lore/Barovian Names.md",
