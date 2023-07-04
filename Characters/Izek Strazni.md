@@ -22,8 +22,8 @@ alias: Izek
 	- He's had dreams of his sister for his entire life, and in the dreams watched her age
 	- He's had tons of [[Gadof Blinsky|Blinsky]] dolls made in her likeness
 - He will be elated if he meets her
-	- And will act way out of character
-- He'll do anything he can to pr
+	- And will act way out of character, surprising others
+- He'll do anything he can to protect her, including fleeing [[The Town of Vallaki (N)|Vallaki]] and leaving [[Vargas Vallakovich|The Burgomaster]]
 
 ## What They Want
 
