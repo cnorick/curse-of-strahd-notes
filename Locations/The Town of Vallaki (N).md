@@ -49,6 +49,10 @@ When approaching:
 		- (six stand watch at the gates, six patrol the walls)
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
+#### Interrogation
+- Before opening the gates:
+	- Who are you (Who goes there)
+	- 
 
 
 
