@@ -129,7 +129,7 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 ### Town Square (N8)
 >The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. In the middle of the square is a large wooden platform about four feet tall. This square stage features stocks lined up around the edges and facing outward towards the rest of the town square, locked in which are several men, women, and children wearing crude, plaster donkey heads on full display. In the center of this platform is an empty gallows, a trio of nooses hanging ready and waiting.
 >
->Off to the side of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
+>Off to the side of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. You also notice guards patrolling the area All around the square are posted proclamations:
 
 - [[Old Vallaki Proclamation]]
 - Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is [[Boris Vallakovich]], his ancestor and the town's founder, but there's no noticeable family resemblance.
@@ -145,7 +145,8 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 	- Freeing one or more prisoners without [[Vargas Vallakovich|The Baron]]'s consent is a crime
 		- If the characters try:
 			- A townie may first try to stop them, saying they're acting like barbarians and warning of [[Izek Strazni|Izek]]
-			- [[Izek Strazni|Izek]] arrives quickly with 24 town [[guard]]s (twenty-four in all) and orders the characters to leave town at once or suffer the consequences
+			- The patrolling guards notice
+				- [[Izek Strazni|Izek]] arrives quickly with 24 town [[guard]]s (twenty-four in all) and orders the characters to leave town at once or suffer the consequences
 				- 
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
