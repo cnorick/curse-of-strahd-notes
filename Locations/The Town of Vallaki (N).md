@@ -57,6 +57,8 @@ When approaching:
 		- If the PCs seem doubtful, have the guards latch onto that doubt and drill them
 	- (optional) What is your relation to [[Strahd Von Zarovich]]?
 		- They want to filter out [[Strahd Von Zarovich|Strahd]] supporters
+	- [[Ireena Kolyana|Ireena]]'s family name is well know, and she can help with any mistakes here
+		- She'll happily present herself to the guards
 
 
 
