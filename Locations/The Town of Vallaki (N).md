@@ -50,6 +50,7 @@ When approaching:
 		- The town can also muster a militia of fifty able-bodied human [[#Statblocks|Vallaki Commoners]]
 
 #### Interrogation
+- The point is to make [[The Town of Vallaki (N)|Vallaki]]
 - Before opening the gates:
 	- Who are you (Who goes there)
 	- What's your business in town?
@@ -59,6 +60,8 @@ When approaching:
 		- They want to filter out [[Strahd Von Zarovich|Strahd]] supporters
 	- [[Ireena Kolyana|Ireena]]'s family name is well know, and she can help with any mistakes here
 		- She'll happily present herself to the guards
+- After the gate opens:
+	- 
 
 
 
