@@ -85,7 +85,9 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - **Hide Weapon**: slight of hand against guard's passive perception
 - If caught, guard will just get annoyed and ask for the truth
 
+**Inside**
 - After all this, they let the party in
+>This town is absolutely bustling. The streets are teeming with people 
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
