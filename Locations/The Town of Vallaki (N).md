@@ -127,9 +127,9 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 ### Blinsky Toys (N7)
 
 ### Town Square (N8)
->The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
-
-In the center of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
+>The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. In the middle of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
+>
+>Around square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
 
 Come one, come all,
 
