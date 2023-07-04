@@ -180,6 +180,8 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 ### Festival of the Blazing Sun
 
 ## Maps
+N1: St Andral's Church
+N2: [[#
 ![[DM Map - Vallaki.jpg]]
 
 
