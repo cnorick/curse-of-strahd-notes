@@ -187,7 +187,8 @@ N4: [[#Wachterhaus (N4)]]
 N5: [[#Arasek Stockyard (N5)]]
 N6: [[#Coffin Maker's Shop (N6)]]
 N7: [[#Blinsky Toys (N7)]]
-NI
+N8: [[#Town Square (N8)]]
+N9: [[#Vistani Camp (N9)]]
 
 ![[DM Map - Vallaki.jpg]]
 
