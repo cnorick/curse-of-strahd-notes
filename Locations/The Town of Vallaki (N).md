@@ -156,6 +156,7 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 	- [[Yesper Taltos]] gestures them over as he puts up posters for the upcoming festival
 		- He tells of [[Vargas Vallakovich|The Baron]]'s strict rule in hushed, cautious tones
 		- warns the party about breaking the law, for the punishments are far from just
+			- Tells them he once saw [[Vargas Vallakovich|The Burgomaster]]'s henchman, [[Izek Strazni]] publicly chop off the finger of someone who refused to attend a f
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 
