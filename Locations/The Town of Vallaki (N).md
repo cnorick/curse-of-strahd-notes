@@ -162,7 +162,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
  
 ## Battles in Vallaki
 - If a guard is killed, it's grounds for execution
-	- Gi
+	- Give the guards backstories
+- The guards fight intelligently
+	- try their best to get PCs alon
 
 ## Events
 ### Festival of the Blazing Sun
