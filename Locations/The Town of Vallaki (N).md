@@ -78,7 +78,8 @@ When approaching:
 
 **Weapons Registry**
 - Before letting them into town, the guards ask the party to present their weapons for registry
-- For each character, the guards write a quick sheet with their description, and nw
+- For each character, a scribe will write a quick sheet with their description, and name as well as a description of all their gear
+- 
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
