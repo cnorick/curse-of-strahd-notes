@@ -170,7 +170,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - depending on severity, arrested PCs will
 	- be put in stocks
 	- taken to the [[Reformation Center]]
-	- or lined up for execution by hanging in pul
+	- or lined up for execution by hanging in public square
+- if PC evades capture, they become wanted
+	- bounty hunters may come looking on the road to [[Village of Krezk (S)|Krezk]]
 
 ## Events
 ### Festival of the Blazing Sun
