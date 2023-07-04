@@ -87,7 +87,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 
 **Inside**
 - After all this, they let the party in
->This town is absolutely bustling. The streets are teeming with people 
+>This town is absolutely bustling. The streets are teeming with people, far more than you remember seeing in the empty streets of [[Village of Barovia (E)|Barovia Village]]. This place almost strikes you as normal. At least compared to the places you've seen thus far in this go
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
