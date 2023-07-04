@@ -180,8 +180,15 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 ### Festival of the Blazing Sun
 
 ## Maps
-N1: St Andral's Church
-N2: [[#
+N1: [[#St Andral's Church (N1)]]
+N2: [[#Blue Water Inn (N2)]]
+N3: [[#Burgomaster's Mansion (N3)]]
+N4: [[#Wachterhaus (N4)]]
+N5: [[#Arasek Stockyard (N5)]]
+N6: [[#Coffin Maker's Shop (N6)]]
+N7: [[#Blinsky Toys (N7)]]
+NI
+
 ![[DM Map - Vallaki.jpg]]
 
 
