@@ -52,6 +52,9 @@ When approaching:
 #### Interrogation
 - Before opening the gates:
 	- Who are you (Who goes there)
+	- What's your business in town?
+		- Just looking for anything suspicious
+		- If the PCs seem doubtful, have the guards latch onto that doubt and drill them
 	- 
 
 
