@@ -4,88 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4abe1f73c861baa9",
+        "id": "a54befd0b0aaa896",
         "type": "tabs",
         "children": [
           {
-            "id": "dfbfae95a824880a",
+            "id": "fe777606e1889830",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "02e31544b2beedd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Monsters/Strahd Statblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81690adc59df6078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Gadof Blinsky.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10139a3ffff9b403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fb9fc6970bf16c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lydia Petrovna.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1108546b8745f736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Maps/Barovia Map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f44df3bc1cc30bb1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Maps/barovia_untagged.webp"
               }
             }
           }
@@ -163,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -235,8 +165,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "dfbfae95a824880a",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "Index.md",
     "Session Prep/Session 7.md",
     "Misc/Mechanics of Dream Pastries.md",
     "Metarlos.md",
@@ -273,7 +204,6 @@
     "Characters/Gustav Durst.md",
     "Characters/Ireena Kolyana.md",
     "Characters/Ismark Kolyanovich.md",
-    "Characters/Izek Strazni.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
