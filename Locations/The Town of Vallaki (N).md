@@ -166,7 +166,11 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - The guards fight intelligently
 	- try their best to separate get PCs alone
 	- retreat and come back when party isn't expecting them
-		- middle
+		- e.g. middle of night
+- depending on severity, arrested PCs will
+	- be put in stocks
+	- taken to the [[Reformation Center]]
+	- or lined up for execution by hanging in pul
 
 ## Events
 ### Festival of the Blazing Sun
