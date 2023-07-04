@@ -156,12 +156,7 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 	- [[Yesper Taltos]] gestures them over as he puts up posters for the upcoming festival
 		- He tells of [[Vargas Vallakovich|The Baron]]'s strict rule in hushed, cautious tones
 		- warns the party about breaking the law, for the punishments are far from just
-			- Tells them he once saw [[Vargas Vallakovich|The Burgomaster]]'s henchman, [[Izek Strazni]] publicly chop off the finger of someone who refused to attend a f
-
-If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
-
-If the guards fail to waylay the characters, Izek (if he's still around) flees to the burgomaster's mansion, giving the characters the run of the town. The townsfolk lock themselves in their homes, fearful that the characters aim to murder them.
-
+			- Tells them he once saw [[Vargas Vallakovich|The Burgomaster]]'s henchman, [[Izek Strazni]] publicly chop off the finger of someone who refused to attend a festival
 
 
 ### Vistani Camp (N9)
@@ -181,6 +176,7 @@ If the guards fail to waylay the characters, Izek (if he's still around) flees t
 	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the [[#Festival of the Blazing Sun]]
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
 - **PCs waylay the guards -> [[Izek Strazni|Izek]] retreats to [[#Burgomaster's Mansion (N3)|The Mansion]], and they get the run of the town**
+- **PCs lose their weapons -> The [[The Keepers of the Feather]] steal them back and eventually return them**
 - **PCs side with [[Fiona Wachter|Lady Wachter]] and revolution takes place** -> [[Vargas Vallakovich|The Baron]] won't be killed, but taken prisoner, tortured, and paraded around town
 	- Roll to see how many guards die in riot (describe them as being lynched by the mob)
 	- [[Lydia Petrovna|Lydia]] and [[Victor Vallakovich|Victor]] will be left alone, but will be public outcasts
