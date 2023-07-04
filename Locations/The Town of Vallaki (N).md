@@ -32,6 +32,8 @@ aliases: [Vallaki, The Town of Vallaki]
 When approaching:
 >One of the figures just inside the gate, yells out "Who goes there?"
 
+Guard names: [[Valentin 
+
 - A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there
 
 - Three tall gates made of iron bars lead into town:
@@ -82,6 +84,8 @@ When approaching:
 - **Fake Name**: DC12 deception
 - **Hide Weapon**: slight of hand against guard's passive perception
 - If caught, guard will just get annoyed and ask for the truth
+
+- After all this, they let the party in
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
