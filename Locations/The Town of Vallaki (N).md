@@ -51,17 +51,18 @@ When approaching:
 
 #### Interrogation
 - The point is to make it clear that [[The Town of Vallaki (N)|Vallaki]] takes itself seriously
-- **Before opening the gates**:
-	- Who are you (Who goes there)
-	- What's your business in town?
-		- Just looking for anything suspicious
-		- If the PCs seem doubtful, have the guards latch onto that doubt and drill them
-	- (optional) What is your relation to [[Strahd Von Zarovich]]?
-		- They want to filter out [[Strahd Von Zarovich|Strahd]] supporters
-	- [[Ireena Kolyana|Ireena]]'s family name is well know, and she can help with any mistakes here
-		- She'll happily present herself to the guards
-- **After the gate opens (The Laws of Vallaki)**:
-	- Have the guards give them a rundown of Vallaki law:
+**Before opening the gates**:
+- Who are you (Who goes there)
+- What's your business in town?
+	- Just looking for anything suspicious
+	- If the PCs seem doubtful, have the guards latch onto that doubt and drill them
+- (optional) What is your relation to [[Strahd Von Zarovich]]?
+	- They want to filter out [[Strahd Von Zarovich|Strahd]] supporters
+- [[Ireena Kolyana|Ireena]]'s family name is well know, and she can help with any mistakes here
+	- She'll happily present herself to the guards
+ 
+**The Laws of Vallaki**:
+- Have the guards give them a rundown of Vallaki law:
 
 >Once inside, the mention of the name "Strahd" is strictly illegal, even in written form. Know that even now as I say the name, it is the last time you will hear it within the gates. Instead, if you must refer to the aforementioned individual, you will refer to him simply as, "The Devil."
 >
@@ -72,8 +73,9 @@ When approaching:
 - Reinforce these laws as much as necessary
 - If asked about:
 	- **the festivals**: the guards explain them in the most positive light
-	- **punishment**: only the basics; anywhere between a fine, imprisonment, or in severe 
+	- **punishment**: only the basics; anywhere between a fine, imprisonment, or in severe cases, execution
 
+**
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
