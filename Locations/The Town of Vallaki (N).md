@@ -152,7 +152,8 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 - **Townies**:
 	- [[Danya Karushkin]] glares at them and tells them to get lost
 	- [[Isabella Radova]] wears a strained smile and tells the party only propaganda
-		- advocates the stocks and wonderous nature of [[Vargas Vallakovich|The Baron]] who keeps them safe fro
+		- advocates the stocks and wonderous nature of [[Vargas Vallakovich|The Baron]] who keeps them safe from [[Strahd Von Zarovich|The Devil]]
+	- [[Yesper Taltos]]
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 

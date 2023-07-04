@@ -1,5 +1,5 @@
 ---
-aliases: [Strahd, Count Strahd von Zarovich, Devil Strahd]
+aliases: [Strahd, Count Strahd von Zarovich, Devil Strahd, Devil, The Devil]
 ---
 ![[Assets/Images/People/strahd.jpeg|200]]
 ## Strahd's Goals
