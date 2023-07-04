@@ -149,7 +149,9 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 				- [[Izek Strazni|Izek]] arrives quickly with 24 town [[guard]]s (twenty-four in all) and orders the characters to stop what they're doing
 				- If [[Izek Strazni|Izek]]'s sibling is present, he notices and takes the party to come back to the [[#Burgomaster's Mansion (N3)]]
 				- The party may be punished for their crimes depending on the severity
-- Townies
+- **Townies**:
+	- [[Danya Karushkin]] glares at them and tells them to get lost
+	- [[Isabella 
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 
