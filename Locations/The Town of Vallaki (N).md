@@ -179,6 +179,7 @@ If the guards fail to waylay the characters, Izek (if he's still around) flees t
 - **[[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)**
 	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the [[#Festival of the Blazing Sun]]
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
+- **
 - **PCs side with [[Fiona Wachter|Lady Wachter]] and revolution takes place** -> [[Vargas Vallakovich|The Baron]] won't be killed, but taken prisoner, tortured, and paraded around town
 	- Roll to see how many guards die in riot (describe them as being lynched by the mob)
 	- [[Lydia Petrovna|Lydia]] and [[Victor Vallakovich|Victor]] will be left alone, but will be public outcasts
