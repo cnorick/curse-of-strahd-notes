@@ -62,6 +62,7 @@ When approaching:
 	- She'll happily present herself to the guards
  
 **The Laws of Vallaki**:
+- Open the gates
 - Have the guards give them a rundown of Vallaki law:
 
 >Once inside, the mention of the name "Strahd" is strictly illegal, even in written form. Know that even now as I say the name, it is the last time you will hear it within the gates. Instead, if you must refer to the aforementioned individual, you will refer to him simply as, "The Devil."
@@ -75,7 +76,8 @@ When approaching:
 	- **the festivals**: the guards explain them in the most positive light
 	- **punishment**: only the basics; anywhere between a fine, imprisonment, or in severe cases, execution
 
-**
+**Weapons Registry**
+- Before letting
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
