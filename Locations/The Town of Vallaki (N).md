@@ -139,6 +139,8 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 >ALL WILL BE WELL!
 >	- The Baron -
 
+- Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is Boris Vallakovich, his ancestor and the town's founder, but there's no noticeable family resemblance.
+
 ### Vistani Camp (N9)
 
 ## Scenario If-Thens

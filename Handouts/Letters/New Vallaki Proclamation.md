@@ -3,16 +3,16 @@ public: false
 new_handout: true
 ---
 
-Come one, come all,
+COME ONE, COME ALL,
 
 to the greatest celebration of the year:
 
-THE WOLF'S HEAD JAMBOREE!
+THE FESTIVAL OF THE BLAZING SUN!
 
 Attendance and children required.
 
-Pikes will be provided.
+Rain or shine.
 
 ALL WILL BE WELL!
 
-- The Baron -
+\- The Baron -
