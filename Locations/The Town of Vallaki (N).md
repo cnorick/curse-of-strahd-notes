@@ -129,7 +129,7 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 ### Town Square (N8)
 >The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. In the middle of the square is a large wooden platform about four feet tall. This square stage features stocks lined up around the edges and facing outward towards the rest of the town square, locked in which are several men, women, and children wearing crude, plaster donkey heads on full display. In the center of this platform is an empty gallows, a trio of nooses hanging ready and waiting.
 >
->Off to the side of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. You also notice guards patrolling the area All around the square are posted proclamations:
+>Off to the side of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. Throughout the square, you notice guards like those at the gate patrolling the area. All around the square are posted proclamations:
 
 - [[Old Vallaki Proclamation]]
 - Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is [[Boris Vallakovich]], his ancestor and the town's founder, but there's no noticeable family resemblance.
