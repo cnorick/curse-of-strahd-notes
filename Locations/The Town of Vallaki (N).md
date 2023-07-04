@@ -146,8 +146,8 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 		- If the characters try:
 			- A townie may first try to stop them, saying they're acting like barbarians and warning of [[Izek Strazni|Izek]]
 			- The patrolling guards notice
-				- [[Izek Strazni|Izek]] arrives quickly with 24 town [[guard]]s (twenty-four in all) and orders the characters to leave town at once or suffer the consequences
-				- 
+				- [[Izek Strazni|Izek]] arrives quickly with 24 town [[guard]]s (twenty-four in all) and orders the characters to stop what they're doing
+				- [[#
 
 If the characters are exiled from Vallaki without their weapons, the Keepers of the Feather (see [area N2](http://longo.com.br/5e/adventure.html#cos,5,n2.%20blue%20water%20inn)) snatch the party's belongings from under Izek's nose and see them safely returned to the characters.
 
