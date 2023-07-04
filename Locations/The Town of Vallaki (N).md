@@ -32,7 +32,7 @@ aliases: [Vallaki, The Town of Vallaki]
 When approaching:
 >One of the figures just inside the gate, yells out "Who goes there?"
 
-Guard names: [[Valentin 
+Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 
 - A 15-foot-high wall encloses the town, its vertical logs held together with thick ropes and mortar. The top of each log has been sharpened to a point. Wooden scaffolding hugs the inside of the palisade twelve feet off the ground, enabling guards to peer over the wall there
 
