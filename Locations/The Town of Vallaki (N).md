@@ -134,7 +134,10 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 - [[Old Vallaki Proclamation]]
 - Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is [[Boris Vallakovich]], his ancestor and the town's founder, but there's no noticeable family resemblance.
 - Other stages off to the side for festivals
-- The townsfolk in the stocks were arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival). An iron padlock secures each set of stocks, and Izek Strazni carries the keys on an iron ring.
+- **The townsfolk in the stocks**
+	- arrested for "malicious unhappiness" (spreading negative opinions about the upcoming festival)
+	- An iron padlock secures each set of stocks
+	- [[Izek Strazni]] carries the keys on an iron ring
 - Three men, two women, and two boys are trapped in the stocks—all of them tired, wet, and famished
 	- The five adults have the statistics of human [[commoner]]
 	- the children are noncombatants
