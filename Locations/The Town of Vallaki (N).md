@@ -77,7 +77,8 @@ When approaching:
 	- **punishment**: only the basics; anywhere between a fine, imprisonment, or in severe cases, execution
 
 **Weapons Registry**
-- Before letting
+- Before letting them into town, the guards ask the party to present their weapons for registry
+- For each character, the guards write a quick sheet with their description, and nw
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
