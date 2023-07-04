@@ -91,6 +91,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 
 - The players will probably head west through town from the eastern gate
 	- unless they fixate on a specific building, go ahead and skip [[#Arasek Stockyard (N5)]] and [[#Coffin Maker's Shop (N6)]]
+	- They'll probably be heading to the [[#Blue Water Inn (N2)]] from a townie's advice, or to [[#St Andral's Church (N1)]] on [[Ireena Kolyana|Ireena]]'s request
 	- 
 
 ### House Occupants
