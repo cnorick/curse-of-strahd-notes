@@ -160,7 +160,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 		- If not, the town remains in state of unrest
 			- many will camp around the church, others will take advantage of lack of laws
  
-
+## Battles in Vallaki
+- If a guard is killed, it's grounds for execution
+	- Gi
 
 ## Events
 ### Festival of the Blazing Sun
