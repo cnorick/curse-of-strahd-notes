@@ -164,7 +164,9 @@ in izek's room: "You open the door to a rather Spartan bedroom. There's the bed 
 - If a guard is killed, it's grounds for execution
 	- Give the guards backstories
 - The guards fight intelligently
-	- try their best to get PCs alon
+	- try their best to separate get PCs alone
+	- retreat and come back when party isn't expecting them
+		- middle
 
 ## Events
 ### Festival of the Blazing Sun
@@ -195,4 +197,10 @@ actions:
     attack_bonus: 2
     damage_dice: 1d4
   - name: Torch
+```
+
+```statblock
+monster: Guard
+```
+```dataviewjs
 ```
