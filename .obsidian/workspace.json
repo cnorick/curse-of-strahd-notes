@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Peoples and Lore/Barovian Names.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Peoples and Lore/Barovian Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Peoples and Lore/Barovian Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Misc/Peoples and Lore/Barovian Names.md"
               }
             }
           },
@@ -167,6 +167,8 @@
   },
   "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
+    "Misc/Peoples and Lore/Barovian Names.md",
     "Index.md",
     "Session Prep/Session 7.md",
     "Misc/Mechanics of Dream Pastries.md",
@@ -202,8 +204,6 @@
     "Characters/Freek.md",
     "Characters/Gertruda.md",
     "Characters/Gustav Durst.md",
-    "Characters/Ireena Kolyana.md",
-    "Characters/Ismark Kolyanovich.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
