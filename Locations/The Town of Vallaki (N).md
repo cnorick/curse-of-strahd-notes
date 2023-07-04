@@ -127,7 +127,9 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 ### Blinsky Toys (N7)
 
 ### Town Square (N8)
->The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. In the middle of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
+>The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. In the middle of the square is a large wooden platform up in the center of the square about four feet tall. This square stage features the stocks lined up around the edges and facing outward towards the rest of the town square. locked in which are several men, women, and children wearing crude, plaster donkey heads.
+>
+>large wooden platform up in the center of the square about four feet tall. This square stage features the stocks lined up around the edges and facing outward towards the rest of the town square. The donkey headed prisoners are on full display that way. In the center of this platform is an empty gallows, a trio of nooses hanging ready and waiting.
 >
 >Around square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
 
