@@ -90,7 +90,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 >This town is absolutely bustling. The streets are teeming with people, far more than you remember seeing in the empty streets of [[Village of Barovia (E)|Barovia Village]]. And some of them even seem to be... smiling. This place almost strikes you as normal. At least compared to the places you've seen thus far in this godforsaken realm.
 
 - The players will probably head west through town from the eastern gate
-	- unless they fixate on a specific building, 
+	- unless they fixate on a specific building, go ahead and skip [[#Arasek Stockyard (N5)]] and [[#Coffin Maker's Shop (N6)]]
+	- 
 
 ### House Occupants
 - If the characters explore a residence other than the burgomaster's mansion, roll a d20 and consult the following table to determine the house's occupant:
