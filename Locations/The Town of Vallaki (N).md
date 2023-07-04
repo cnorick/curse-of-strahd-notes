@@ -61,7 +61,12 @@ When approaching:
 	- [[Ireena Kolyana|Ireena]]'s family name is well know, and she can help with any mistakes here
 		- She'll happily present herself to the guards
 - **After the gate opens (The Laws of Vallaki)**:
-	- Have the 
+	- Have the guards give them a rundown of Vallaki law:
+
+>Once inside, the mention of the name "Strahd" is strictly illegal, even in written form. Know that even now as I say the name, it is the last time you will hear it within the gates. Instead, if you must refer to the aforementioned individual, you will refer to him simply as, "The Devil."
+>
+>This noble town holds a festival each week in honor of the resident's general merriment and continued support of the Burgomaster, Baron Vargas Vallakovich. As guests of Vallaki, you will not be required to aid in the preparation for our festivals. However, your attendance and participation in each and every festival is absolutely mandatory for the length of your stay. Failure to attend will be in strict opposition to Vallakian law. The next great Vallakian festival, the Festival of the Blazing Sun, will be held in three days time in the town square."
+- "Failure to comply with any Vallakian law will mark you as criminals to our city and you will be punished as such in accordance to our justice system. If you have any questions, now is the time to ask them."
 
 
 
