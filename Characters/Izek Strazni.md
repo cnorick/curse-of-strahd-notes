@@ -15,11 +15,15 @@ alias: Izek
 	- Eventually, someone caught sight of the arm, and the family fled for safety from the strict [[The Town of Vallaki (N)|Vallaki]] laws
 	- In the woods outside of town, the family encountered wolves, and the mother and father perished
 - He was taken in by [[Vargas Vallakovich]] who had just taken on role as Burgomaster, and didn't think it was right he should suffer because of his arm
+
+### Izek's Sibling
 - His younger sibling is [[Elora]]
 	- She was also left alone in the woods, but he couldn't find her
 	- He's had dreams of his sister for his entire life, and in the dreams watched her age
 	- He's had tons of [[Gadof Blinsky|Blinsky]] dolls made in her likeness
-	- He will be elated if he meets her
+- He will be elated if he meets her
+	- And will act way out of character
+- He'll do anything he can to pr
 
 ## What They Want
 
