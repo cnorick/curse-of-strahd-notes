@@ -177,7 +177,7 @@ in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom.
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
 - **PCs waylay the guards -> [[Izek Strazni|Izek]] retreats to [[#Burgomaster's Mansion (N3)|The Mansion]], and they get the run of the town**
 - **PCs lose their weapons -> The [[The Keepers of the Feather]] steal them back and eventually return them**
-- **PCs are wanted and running -> The Martikovs will hide them in the attic/hayloft of [[I
+- **PCs are wanted and running -> The Martikovs will hide them in the attic/hayloft of [[#Blue Water Inn (N2)]]**
 - **PCs side with [[Fiona Wachter|Lady Wachter]] and revolution takes place** -> [[Vargas Vallakovich|The Baron]] won't be killed, but taken prisoner, tortured, and paraded around town
 	- Roll to see how many guards die in riot (describe them as being lynched by the mob)
 	- [[Lydia Petrovna|Lydia]] and [[Victor Vallakovich|Victor]] will be left alone, but will be public outcasts
