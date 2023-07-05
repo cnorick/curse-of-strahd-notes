@@ -116,7 +116,13 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 ### Blue Water Inn (N2)
 >Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-- A bed costs
+- A bed for the night costs 1 ep
+	- Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge
+	- A cooked wolf steak costs 1 ep
+- The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp
+	- [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them
+- The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue
+	- If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
