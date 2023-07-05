@@ -129,7 +129,10 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 #### Well (N2A)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
 
-#### N2b. Outside Staircase
+#### Taproom (N2C)
+>Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+
+#### Outside Staircase (N2B)
 A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
 
 
