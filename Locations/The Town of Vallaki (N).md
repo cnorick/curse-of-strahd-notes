@@ -122,7 +122,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp
 	- [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them
 - The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue
-	- If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
+	- If the characters claim to be adventurers, [[Urwin Martikov|Urwin]] asks them if they would be so kind as to find out what's holding up the latest shipment
+- At any given time, another 1d4 [[wereravens]] (members of the [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form. These wereravens are loyal friends of the Martikovs and help protect the inn
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
