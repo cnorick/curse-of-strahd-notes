@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -196,8 +196,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3fb134c8d087f6fa",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
+    "Characters/Rictavio.md",
     "Locations/The Town of Vallaki (N).md",
     "Handouts/Maps/The Blue Water Inn Map.md",
     "Characters/Izek Strazni.md",
@@ -233,8 +235,6 @@
     "Characters/Bella Sunbane.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Cyrus Belview.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",

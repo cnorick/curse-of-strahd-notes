@@ -126,6 +126,14 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 
+#### Well (N2A)
+A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+
+#### N2b. Outside Staircase
+A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
+
+
+
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
 
