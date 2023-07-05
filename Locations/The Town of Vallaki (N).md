@@ -145,7 +145,12 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 			- Both men are grim and have haunted looks in their eyes
 		- **Wachter Brothers**: [[Nikolai Wachter|Nikolai]] and [[Karl Wachter]] are brothers of noble birth
 			- They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers
-		- **Rictavio**: The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [[Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos)—a false identity adopted by the legendary vampire hunter Rudolph van Richten. He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed. [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) claims to be a carnival ringmaster from a distant land. He's been staying at the inn for almost a month, taking advantage of Urwin Martikov's generosity and good nature. When he arrived, he was accompanied by a monkey named Piccolo. The monkey wasn't welcome at the inn, so [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) gave it to the local toymaker (see [area N7](http://longo.com.br/5e/adventure.html#cos,5,n7.%20blinsky%20toys)).
+		- **Rictavio**: The lone guest of the Blue Water Inn at present is a colorfully dressed half-elf bard who goes by the name [[Rictavio]]
+			- He regales tavern patrons with stories so outrageous as to be hardly believable, yet he asserts they are true indeed
+			- He claims to be a carnival ringmaster from a distant land
+			- He's been staying at the inn for almost a month, taking advantage of [[Urwin Martikov]]'s generosity and good nature
+			- When he arrived, he was accompanied by a monkey named Piccolo
+				- The monkey wasn't welcome at the inn, so [[Rictavio]](http://longo.com.br/5e/bestiary.html#rictavio_cos) gave it to the local toymaker (see [area N7](http://longo.com.br/5e/adventure.html#cos,5,n7.%20blinsky%20toys)).
 
 
 ### Burgomaster's Mansion (N3)
