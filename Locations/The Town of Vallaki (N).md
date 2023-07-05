@@ -126,19 +126,21 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 
-#### Well (N2A)
+#### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
 
-#### Taproom (N2C)
+#### Outside Staircase (N2b)
+A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
+
+#### Taproom (N2c)
 >Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
 
 - [[Danika Dorakova]] usually tends bar while [[Urwin Martikov]] busies himself in the kitchen
 	- [[Brom Martikova|Brom]] and [[Bray Martikova|Bray]] scamper about
-- Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic area N2q).
-
-#### Outside Staircase (N2B)
-A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
-
+- Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
+	- From noon to dusk, the taproom holds 2d4 local patrons
+	- Between dusk and midnight, 2d8 Vallakians are here
+	- In addition, one or more of the following people might be present during this time.
 
 
 ### Burgomaster's Mansion (N3)
