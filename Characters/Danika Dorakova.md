@@ -1,5 +1,5 @@
 ---
-aliases: [Danika]
+aliases: [Danika, Danika Martikov]
 ---
 (LG female human)
 ![[Arik the Barkeep V2.webp|200]]
