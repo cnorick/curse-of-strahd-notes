@@ -114,6 +114,9 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 ### St Andral's Church (N1)
 
 ### Blue Water Inn (N2)
+>Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
+
+- A bed costs
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
