@@ -140,7 +140,9 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
 	- From noon to dusk, the taproom holds 2d4 local patrons
 	- Between dusk and midnight, 2d8 Vallakians are here
-	- In addition, one or more of the following people might be present during this time.
+	- In addition, one or more of the following people might be present during this time:
+		- **Wolf Hunters**:  [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody
+			- Both men are grim and have haunted looks in their eyes.
 
 
 ### Burgomaster's Mansion (N3)
