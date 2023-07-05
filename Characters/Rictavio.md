@@ -4,7 +4,8 @@ aliases: ['Rudolf van Richten', 'van Richten']
 (NE human)
 ![[Rictavio-Token.png|200]]
 ## Playing Rictavio
-- He wears a [[hat of disguise](http://longo.com.br/5e/items.html#hat%20of%20disguise_dmg) and a [ring of mind shielding](http://longo.com.br/5e/items.html#ring%20of%20mind%20shielding_dmg) to conceal his identity. He carries an iron key that unlocks the door to his carnival wagon ([area N5](http://longo.com.br/5e/adventure.html#cos,5,n5.%20arasek%20stockyard)).
+- He wears a [[hat of disguise]] and a [[ring of mind shielding]] to conceal his identity
+- He carries an iron key that unlocks the door to his carnival wagon ([[The Town of Vallaki (N)#Arasek Stockyard (N5)]])
 
 ## History/Info
 
