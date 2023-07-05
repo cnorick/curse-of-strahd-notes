@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "29dfef91169833dd",
+            "id": "66bad1f1128feb6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Peoples and Lore/The Keepers of the Feather.md",
+                "file": "Characters/Rictavio.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/The Keepers of the Feather.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/The Keepers of the Feather.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/The Keepers of the Feather.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -209,10 +209,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "29dfef91169833dd",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
-    "Characters/Rictavio.md",
+    "Misc/Peoples and Lore/The Keepers of the Feather.md",
     "Locations/The Town of Vallaki (N).md",
+    "Characters/Rictavio.md",
     "Characters/Szoldar Szoldarovich.md",
     "Characters/Danika Dorakova.md",
     "Misc/Card Reading.md",
@@ -247,7 +248,6 @@
     "Characters/Arahja.md",
     "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
-    "Characters/Bella Sunbane.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
