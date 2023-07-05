@@ -3,4 +3,4 @@ public: false
 new_handout: true
 ---
 
-![[The Bl]]
+![[Map - Blue Water Inn.jpg]]

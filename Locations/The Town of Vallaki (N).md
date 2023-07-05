@@ -230,7 +230,7 @@ N8: [[#Town Square (N8)]]
 N9: [[#Vistani Camp (N9)]]
 
 ![[DM Map - Vallaki.jpg]]
-
+![[DM Map - Blue Water Inn.jpg]]
 
 ## Statblocks
 ```statblock
