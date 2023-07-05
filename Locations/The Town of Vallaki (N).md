@@ -155,6 +155,15 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Wine Storage (N2d)
 >This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
 
+- The Martikovs store their wine here
+- Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace
+	- Twelve empty wine barrels are piled two high near the door to the kitchen (area N2e)
+	- All the barrels have the [[The Wizard of Wines (W)|Wizard of Wines]] name burned into them.
+
+Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery's name: Purple Grapemash No. 3. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
+
+The double doors that lead outside can be barred shut from within.
+
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
