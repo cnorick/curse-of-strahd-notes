@@ -152,6 +152,9 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 			- When he arrived, he was accompanied by a monkey named Piccolo
 				- The monkey wasn't welcome at the inn, so [[Rictavio]] gave it to the local toymaker (see [[#Blinsky Toys (N7)]]).
 
+#### Wine Storage (N2d)
+>This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
+
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
