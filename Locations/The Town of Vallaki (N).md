@@ -142,7 +142,8 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 	- Between dusk and midnight, 2d8 Vallakians are here
 	- In addition, one or more of the following people might be present during this time:
 		- **Wolf Hunters**:  [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] are local hunters who frequent the Blue Water Inn. They kill wolves and sell the meat for a living, and their work is dangerous and bloody
-			- Both men are grim and have haunted looks in their eyes.
+			- Both men are grim and have haunted looks in their eyes
+		- **Wachter Brothers**: [[Nikolai Wachter|Nikolai]] and Karl Wachter (N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see [area N4](http://longo.com.br/5e/adventure.html#cos,5,n4.%20wachterhaus)), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
 
 
 ### Burgomaster's Mansion (N3)
