@@ -116,9 +116,10 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 ### Blue Water Inn (N2)
 >Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 
-- A bed for the night costs 1 ep
+- A bed for the night costs 5sp
+	- They can get one of the two private rooms for 2gp (20sp)
 	- Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge
-	- A cooked wolf steak costs 1 ep
+	- A cooked wolf steak costs 1 sp
 - The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp
 	- [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them
 - The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue
