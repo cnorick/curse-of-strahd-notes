@@ -135,6 +135,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 		- Maybe get [[Anakir]] to talk about what they've been through
 		- "You there look like you've had your fair share of adventures. Tell me what you've done"
 	- Has tons of [[Vallaki Lore|info on Vallaki]]
+	- She doesn't talk openly of the political tensions in town
+		- but phrases her wor
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
