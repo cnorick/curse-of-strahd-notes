@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference/items/Potion of Healing.md",
+                "file": "reference/items/Elixir of Health.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/items/Potion of Healing.md",
+                "file": "reference/items/Elixir of Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/items/Potion of Healing.md",
+                "file": "reference/items/Elixir of Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/items/Potion of Healing.md"
+                "file": "reference/items/Elixir of Health.md"
               }
             }
           },
@@ -210,6 +210,8 @@
   },
   "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "reference/items/Potion of Healing.md",
+    "reference/items/Elixir of Health.md",
     "Locations/The Town of Vallaki (N).md",
     "Misc/Card Reading.md",
     "Characters/Rictavio.md",
@@ -245,8 +247,6 @@
     "Campaign Notes.md",
     "Characters/Anakir.md",
     "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
