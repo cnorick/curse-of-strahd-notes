@@ -208,11 +208,14 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 >A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
 
 - Guests aren't told about the inn's secret hallway
-	- [[Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room ([area N2n](http://longo.com.br/5e/adventure.html#cos,5,n2n.%20private%20guest%20room)).
+	- [[Rictavio]] knows of its existence because he has heard the Martikov boys opening and closing the secret door closest to his room ([[#Private Guest Room (N2n)]])
 
-At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required). The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen ([area N2e](http://longo.com.br/5e/adventure.html#cos,5,n2e.%20kitchen)) beyond. The eastern secret door can be pulled open to reveal a balcony ([area N2j](http://longo.com.br/5e/adventure.html#cos,5,n2j.%20great%20balcony)) that overlooks the taproom.
+- At each end of this area is a secret door, each of which is easy to spot from inside the hallway (no ability check required)
+	- The northern secret door, at the bottom of the staircase, can be pulled open to reveal the kitchen ([[#Kitchen (N2e)]]) beyond
+	- The eastern secret door can be pulled open to reveal a balcony ([[#Great Balcony (N2j)]]) that overlooks the taproom
 
 #### Great Balcony (N2j)
+>
 #### Guest Balcony (N2k)
 #### Guest Rooms (N2l)
 #### Guest Room (N2m)
