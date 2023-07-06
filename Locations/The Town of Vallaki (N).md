@@ -194,9 +194,11 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door
 - If the characters tamper with the chest, the ravens gather into four [[Swarm of Ravens]] and attack
 	- If two swarms are killed, the others flee
-	- Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+	- Otherwise, they cease their attacks if the characters leave the chest alone
+	- If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other [[Wereraven]]s hear the ruckus and investigate (in human form)
 
-A secret door in the back of the loft can be pushed open to reveal a bedchamber ([area N2p](http://longo.com.br/5e/adventure.html#cos,5,n2p.%20master%20bedroom)) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
+- A secret door in the back of the loft can be pushed open to reveal a bedchamber ([[#Master Bedroom (N2p)]]) beyond
+	- No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks
 
 Treasure. 
 
