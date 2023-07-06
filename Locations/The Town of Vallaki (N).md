@@ -186,9 +186,22 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Storage (N2g)
 - This small room lies under a wooden staircase ([[#Secret Stairs and Hall (N2i)]])
 - Hanging from wooden pegs are saddles and barding to equip two horses
-- In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+- In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails
 
 #### Raven's Loft (N2h)
+>Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
+
+- Characters who search the loft thoroughly find three pitchforks and a locked wooden chest buried under a pile of hay (see "Treasure" below), next to a secret door
+- If the characters tamper with the chest, the ravens gather into four [[Swarm of Ravens]] and attack
+	- If two swarms are killed, the others flee
+	- Otherwise, they cease their attacks if the characters leave the chest alone. If the fighting continues for more than 3 rounds, Urwin Martikov and two other wereravens hear the ruckus and investigate (in human form).
+
+A secret door in the back of the loft can be pushed open to reveal a bedchamber ([area N2p](http://longo.com.br/5e/adventure.html#cos,5,n2p.%20master%20bedroom)) beyond. No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks.
+
+Treasure. 
+
+Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](http://longo.com.br/5e/items.html#elixir%20of%20health_dmg), three [potions of healing](http://longo.com.br/5e/items.html#potion%20of%20healing_dmg), and a [gray bag of tricks](http://longo.com.br/5e/items.html#bag%20of%20tricks%2c%20gray_dmg). The coins are embossed with the profiled likeness of Strahd von Zarovich.
+
 #### Secret Stairs and Hall (N2i)
 #### Great Balcony (N2j)
 #### Guest Balcony (N2k)
