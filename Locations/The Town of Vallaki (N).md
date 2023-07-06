@@ -277,6 +277,13 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([[#Secret Attic (N2q)]]).
 
 #### Master Bedroom (N2p)
+>Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
+
+- [[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] retire to this room every night before heading to the attic ([[#Secret Attic (N2q)]]) to sleep
+	- This room is for appearances only and contains no valuables
+- A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([area N2h](http://longo.com.br/5e/adventure.html#cos,5,n2h.%20ravens'%20loft)).
+
+A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([[#Secret Attic (N2q)]]).
 #### Secret Attic (N2q)
 
 
