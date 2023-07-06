@@ -249,7 +249,11 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 >This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
 
 - [[Rictavio]] sleeps here between midnight and dawn
-	- At dawn, he leaves to check on his horse ([[#Stable (N2f)]]) and his wagon ([area N5](http://longo.com.br/5e/adventure.html#cos,5,n5.%20arasek%20stockyard)), returning to the inn around noon. Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom ([area N2c](http://longo.com.br/5e/adventure.html#cos,5,n2c.%20taproom)). At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night.
+	- At dawn, he leaves to check on his horse ([[#Stable (N2f)]]) and his wagon ([[#Arasek Stockyard (N5)]]), returning to the inn around noon
+	- Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom ([[#Taproom (N2c)]])
+	- At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night
+- [[Rictavio]] is too clever to leave anything valuable or incriminating in his room
+- he footlocker and the wardrobe contain nothing but common clothes and travel wear
 #### Boys' Bedroom (N2o)
 #### Master Bedroom (N2p)
 #### Secret Attic (N2q)
