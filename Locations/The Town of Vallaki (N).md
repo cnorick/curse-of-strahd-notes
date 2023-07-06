@@ -178,9 +178,9 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
  
 >You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 
-- Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[draft horse](http://longo.com.br/5e/bestiary.html#draft%20horse_mm) named Drusilla, and she likes apples. The horse belongs to [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) (see [area N2c](http://longo.com.br/5e/adventure.html#cos,5,n2c.%20taproom)).
-
-The small door in the east wall can be pulled open to reveal [area N2g](http://longo.com.br/5e/adventure.html#cos,5,n2g.%20storage). The loft is described in [area N2h](http://longo.com.br/5e/adventure.html#cos,5,n2h.%20ravens'%20loft).
+- Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[draft horse]] named Drusilla, and she likes apples
+	- The horse belongs to [[Rictavio]]
+- The small door in the east wall can be pulled open to reveal [[#n The loft is described in [area N2h](http://longo.com.br/5e/adventure.html#cos,5,n2h.%20ravens'%20loft).
 
 #### Storage (N2g)
 #### Raven's Loft (N2h)
