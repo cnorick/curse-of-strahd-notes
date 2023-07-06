@@ -132,7 +132,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - [[Danika Dorakova|Danika]] is at the bar
 	- She is excited over the arrival of new people
 	- Let the party converse and recount their deeds of heroism
-		- Maybe get [[Anakir]] to talk about 
+		- Maybe get [[Anakir]] to talk about what they've been through
+		- "You there look like you've made it through some
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
