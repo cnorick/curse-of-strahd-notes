@@ -168,6 +168,10 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Storage (N2g)
 #### Raven's Loft (N2h)
 #### Secret Stairs and Hall (N2i)
+#### Great Balcony (N2j)
+#### Guest Balcony (N2k)
+#### Guest Rooms (N2k)
+
 
 
 ### Burgomaster's Mansion (N3)
