@@ -253,7 +253,16 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 	- Between noon and dusk, there's a 40 percent chance he is here; otherwise, he's in the taproom ([[#Taproom (N2c)]])
 	- At dusk, he leaves the inn to tend to his horse and his wagon again, then returns to his room to retire for the night
 - [[Rictavio]] is too clever to leave anything valuable or incriminating in his room
-- he footlocker and the wardrobe contain nothing but common clothes and travel wear
+	- The footlocker and the wardrobe contain nothing but common clothes and travel wear
+
+**[[Rictavio]]'s Journal**
+The journal on the desk is a bit of artifice that [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos)'s horse) and recounts many long and tedious journeys by wagon. [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) has also written about various "oddities" he has seen in his travels, including the following:
+
+- A "werehare" child (a boy who transforms into a rabbit on nights of the full moon)
+- A half-orc woman named Gorabacha who could chew through iron chains
+- A giant, man-eating plant that had the most remarkable singing voice
+- A pair of conjoined goblins
+- A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
 #### Boys' Bedroom (N2o)
 #### Master Bedroom (N2p)
 #### Secret Attic (N2q)
