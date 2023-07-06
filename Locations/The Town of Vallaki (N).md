@@ -126,6 +126,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 
+### 
+
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
 
@@ -294,11 +296,7 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers (areas N2o and N2p) that lie directly beneath them.
 
 **Treasure**
-[[Urwin Martikov|Urwin]] carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [potions of healing](http://longo.com.br/5e/items.html#potion%20of%20healing_dmg).
-
-Fortunes of Ravenloft. 
-
-If your card reading reveals that a treasure is here, it is in the iron strongbox.
+[[Urwin Martikov|Urwin]] carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [[reference/items/Potion of Healing|Potion of Healing]].
 
 
 ### Burgomaster's Mansion (N3)
