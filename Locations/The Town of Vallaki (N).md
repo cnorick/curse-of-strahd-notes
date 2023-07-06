@@ -130,7 +130,9 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - On first entering, read [[#Taproom (N2c)]] description
 - Try to keep the wereravens a secret for as long as possible
 - [[Danika Dorakova|Danika]] is at the bar
-	- She is excited over the arrival of new people 
+	- She is excited over the arrival of new people
+	- Let the party converse and recount their deeds of heroism
+		- Maybe get [[Anakir]] to talk about 
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
