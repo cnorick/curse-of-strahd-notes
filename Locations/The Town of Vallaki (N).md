@@ -167,6 +167,9 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 >This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 
 - [[Urwin Martikov]] is found here during the day
+- A cupboard against the east wall holds most of the inn's supply of cutlery and dishware, none of it valuable
+- A door in the west wall leads outside and is usually barred from the inside
+- {A secret door at the west end of the south wall can be pushed open to reveal a wooden staircase that leads up to [[#Secret Stairs and Hall (N2i)]]}
 
 #### Stable (N2f)
 #### Storage (N2g)
