@@ -180,9 +180,14 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 
 - Any character who has a horse can keep it here for 1 sp per night. The gray mare is a [[draft horse]] named Drusilla, and she likes apples
 	- The horse belongs to [[Rictavio]]
-- The small door in the east wall can be pulled open to reveal [[#n The loft is described in [area N2h](http://longo.com.br/5e/adventure.html#cos,5,n2h.%20ravens'%20loft).
+- The small door in the east wall can be pulled open to reveal [[#Storage (N2g)]]
+	- The loft is described in [[#Raven's Loft (N2h)]]
 
 #### Storage (N2g)
+- This small room lies under a wooden staircase ([[#Secret Stairs and Hall (N2i)]])
+- Hanging from wooden pegs are saddles and barding to equip two horses
+- In an unlocked wooden chest are a dozen horseshoes, a wooden mallet, and a mound of horseshoe nails.
+
 #### Raven's Loft (N2h)
 #### Secret Stairs and Hall (N2i)
 #### Great Balcony (N2j)
