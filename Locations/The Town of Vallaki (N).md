@@ -256,14 +256,15 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 	- The footlocker and the wardrobe contain nothing but common clothes and travel wear
 
 **[[Rictavio]]'s Journal**
-The journal on the desk is a bit of artifice that [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos)'s horse) and recounts many long and tedious journeys by wagon. [Rictavio](http://longo.com.br/5e/bestiary.html#rictavio_cos) has also written about various "oddities" he has seen in his travels, including the following:
-
+	The journal on the desk is a bit of artifice that [[Rictavio]] created to perpetuate the illusion that he is an entertainer in search of new acts for his traveling carnival. His writing makes frequent mention of conversations with Drusilla (which the journal fails to mention is the name of his horse) and recounts many long and tedious journeys by wagon. He has also written about various "oddities" he has seen in his travels, including the following:
 - A "werehare" child (a boy who transforms into a rabbit on nights of the full moon)
 - A half-orc woman named Gorabacha who could chew through iron chains
 - A giant, man-eating plant that had the most remarkable singing voice
 - A pair of conjoined goblins
 - A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
+
 #### Boys' Bedroom (N2o)
+
 #### Master Bedroom (N2p)
 #### Secret Attic (N2q)
 
