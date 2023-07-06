@@ -200,9 +200,8 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - A secret door in the back of the loft can be pushed open to reveal a bedchamber ([[#Master Bedroom (N2p)]]) beyond
 	- No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks
 
-Treasure. 
-
-Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](http://longo.com.br/5e/items.html#elixir%20of%20health_dmg), three [potions of healing](http://longo.com.br/5e/items.html#potion%20of%20healing_dmg), and a [gray bag of tricks](http://longo.com.br/5e/items.html#bag%20of%20tricks%2c%20gray_dmg). The coins are embossed with the profiled likeness of Strahd von Zarovich.
+**Treasure**
+- Inside the locked chest are 140 ep, 70 pp, two [elixirs of health](http://longo.com.br/5e/items.html#elixir%20of%20health_dmg), three [potions of healing](http://longo.com.br/5e/items.html#potion%20of%20healing_dmg), and a [gray bag of tricks](http://longo.com.br/5e/items.html#bag%20of%20tricks%2c%20gray_dmg). The coins are embossed with the profiled likeness of Strahd von Zarovich.
 
 #### Secret Stairs and Hall (N2i)
 #### Great Balcony (N2j)
