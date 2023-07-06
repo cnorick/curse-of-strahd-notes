@@ -281,11 +281,24 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 
 - [[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] retire to this room every night before heading to the attic ([[#Secret Attic (N2q)]]) to sleep
 	- This room is for appearances only and contains no valuables
-- A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([area N2h](http://longo.com.br/5e/adventure.html#cos,5,n2h.%20ravens'%20loft)).
+- A secret door at the west end of the south wall can be pulled open to reveal the loft beyond ([[#Raven's Loft (N2h)]]).
+- A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([[#Secret Attic (N2q)]]).
 
-A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([[#Secret Attic (N2q)]]).
 #### Secret Attic (N2q)
+>This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nests cover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
 
+- The Martikovs sleep here at night in hybrid form
+	- The opening in the south wall is just big enough for a raven or other Tiny creature to pass through
+	- The wereravens can use this opening as an escape route
+- The strongbox is described in "Treasure" below
+- Two trapdoors, clearly visible on the floor, can be pulled open to reveal the bedchambers (areas N2o and N2p) that lie directly beneath them.
+
+**Treasure**
+[[Urwin Martikov|Urwin]] carries the key to the locked iron strongbox. The lock can be picked with thieves' tools and a successful DC 20 Dexterity check. The box contains a sack of 150 ep (each coin bearing the profiled visage of Strahd von Zarovich), six pieces of jewelry (worth 250 gp each), and three [potions of healing](http://longo.com.br/5e/items.html#potion%20of%20healing_dmg).
+
+Fortunes of Ravenloft. 
+
+If your card reading reveals that a treasure is here, it is in the iron strongbox.
 
 
 ### Burgomaster's Mansion (N3)
