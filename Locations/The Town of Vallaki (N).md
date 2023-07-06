@@ -126,7 +126,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 
-### 
+#### Interactions
+
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
