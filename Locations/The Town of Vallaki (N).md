@@ -139,7 +139,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - She doesn't talk openly of the political tensions in town
 	- but phrases her words to imply the true oppression going on in town
 
-##### The 
+##### The Wachter Brothers
+- They're just as jovial as the [[Vistani]] at [[Tser Pool Encampment (G)|Tser Pool]]
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
