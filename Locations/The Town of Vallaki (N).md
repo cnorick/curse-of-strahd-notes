@@ -163,6 +163,9 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.
 - The double doors that lead outside can be barred shut from within.
 
+#### Kitchen (N2e)
+#### Stable (N2
+
 
 ### Burgomaster's Mansion (N3)
 in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
