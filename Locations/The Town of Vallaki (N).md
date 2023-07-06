@@ -223,10 +223,21 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Guest Balcony (N2k)
 >This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
 
-**Navigation Shortcuts**:  The balcony floor is 15 feet above the taproom floor.
+- **Navigation Shortcuts**:  The balcony floor is 15 feet above the taproom floor.
 
 #### Guest Rooms (N2l)
+- These two rooms have identical furnishings
+
+>Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
+
+- The door to this room can be locked from the inside, and each guest gets a key
+	- Urwin and Danika carry spare keys
+	- The footlockers and wardrobes are empty and are for the use of guests
+
 #### Guest Room (N2m)
+>Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
+
+The door to this room can be locked from the inside, and each guest receives a key. Urwin and Danika carry spare keys. The footlockers are empty and are for the use of guests.
 #### Private Guest Room (N2n)
 #### Boys' Bedroom (N2o)
 #### Master Bedroom (N2p)
