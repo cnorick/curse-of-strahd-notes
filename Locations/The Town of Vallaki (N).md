@@ -164,6 +164,10 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - The double doors that lead outside can be barred shut from within.
 
 #### Kitchen (N2e)
+>This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
+
+- [[Urwin Martikov]] is found here during the day
+
 #### Stable (N2f)
 #### Storage (N2g)
 #### Raven's Loft (N2h)
@@ -174,7 +178,8 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Guest Room (N2m)
 #### Private Guest Room (N2n)
 #### Boys' Bedroom (N2o)
-#### Master Bedro
+#### Master Bedroom (N2p)
+#### Secret Attic (N2q)
 
 
 
