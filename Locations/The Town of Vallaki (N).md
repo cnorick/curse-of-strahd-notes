@@ -137,6 +137,8 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 
 #### Taproom (N2c)
 >Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
+>
+>	The place is lively and homey, filled with the smells of homemade meals and cheery laughter
 
 - [[Danika Dorakova]] usually tends bar while [[Urwin Martikov]] busies himself in the kitchen
 	- [[Brom Martikova|Brom]] and [[Bray Martikova|Bray]] scamper about
