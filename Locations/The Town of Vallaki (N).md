@@ -215,8 +215,16 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 	- The eastern secret door can be pulled open to reveal a balcony ([[#Great Balcony (N2j)]]) that overlooks the taproom
 
 #### Great Balcony (N2j)
->
+>A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+- The balcony floor is 15 feet above the taproom floor
+- A secret door at the south end of the western wall can be pushed open to reveal a wood-paneled hallway ([[#Secret Stairs and Hall (N2i)]]) beyond
+
 #### Guest Balcony (N2k)
+>This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
+
+**Navigation Shortcuts**:  The balcony floor is 15 feet above the taproom floor.
+
 #### Guest Rooms (N2l)
 #### Guest Room (N2m)
 #### Private Guest Room (N2n)
