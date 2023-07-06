@@ -127,7 +127,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 
 #### Interactions
-
+	
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
