@@ -264,6 +264,17 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - A small man with no legs named Filmore Stunk, who could drink whole casks of wine without getting drunk
 
 #### Boys' Bedroom (N2o)
+>A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
+
+- [[Brom Martikova|Brom]] and [[Bray Martikova]] don't spend much time in this room
+- The toy box contains a pile of neglected toys, many of them etched with the slogan "Is No Fun, Is No Blinsky!" The toys include the following:
+	- A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
+	- A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
+	- A pair of painted wooden clown masks, one displaying a mean scowl and the other a frightened expression
+	- A wooden top painted with images of scarecrows chasing children through the forest
+	- A stuffed (real) bat on puppet strings
+
+- A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic ([[#Secret Attic (N2q)]]).
 
 #### Master Bedroom (N2p)
 #### Secret Attic (N2q)
