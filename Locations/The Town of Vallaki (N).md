@@ -145,7 +145,10 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 	- players shouldn't suspect anything bad about them
 - They don't know about their mother's cult
 - They have strong opinions about [[Vargas Vallakovich|The Burgomaster]]'s family
-	- 
+	- because of their sister, [[Stella Wachter|Stella]]'s condition
+
+##### Staying the Night
+- [[Danika Dorakova|Danika]] has [[Brom Martikova|Brom]] and [[Bray Martikova|Bray]] lead the party to their room
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
