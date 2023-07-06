@@ -164,7 +164,10 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - The double doors that lead outside can be barred shut from within.
 
 #### Kitchen (N2e)
-#### Stable (N2
+#### Stable (N2f)
+#### Storage (N2g)
+#### Raven's Loft (N2h)
+#### Secret Stairs and Hall (N2i)
 
 
 ### Burgomaster's Mansion (N3)
