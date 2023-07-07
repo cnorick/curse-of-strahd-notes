@@ -37,3 +37,6 @@
 - [ ] The [[Vistani]] serve the devil [[Strahd Von Zarovich|Strahd]]
 	- They alone are allowed to leave Barovia
 - [ ] Never harm a raven, lest ill fortune befall you
+
+## [[Rictavio|Van Richten]]
+
