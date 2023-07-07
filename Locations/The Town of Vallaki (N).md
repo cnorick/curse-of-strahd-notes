@@ -131,6 +131,10 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - On first entering, read [[#Taproom (N2c)]] description
 - Try to keep the wereravens a secret for as long as possible
 
+##### Rumors
+- One of the Inn's best patrons and the town drunk, Bluto, hasn't been seen for a couple days. He's often found uselessly fishing on Lake Zarovich, north of town.
+- There's a shortage of wine. Danika and Urwin have family at the Winery, but due to a past falling out, they haven't spoken in years. Urwin is worried about the Winery but has yet to set aside his pride to send a word as of yet. The last shipment was due a week ago.
+
 ##### [[Danika Dorakova|Danika]] is at the bar
 - She is excited over the arrival of new people
 - Let the party converse and recount their deeds of heroism
