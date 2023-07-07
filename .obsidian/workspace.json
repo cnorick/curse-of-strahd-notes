@@ -73,21 +73,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "166fe3b81056f1a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Monsters/Rictavio Statblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
