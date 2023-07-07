@@ -19,6 +19,7 @@ aliases: ['Rudolf van Richten', 'van Richten']
 ## What They Know
 [[Barovian Lore]]
 [[Vallaki Lore]]
+- Everything about monsters: no check necessary
 
 ## Relations
 
