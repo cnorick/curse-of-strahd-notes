@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d8441324b1f9b4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a525b03a69676905",
@@ -149,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +173,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,9 +194,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Characters/Rictavio.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,10 +225,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "66bad1f1128feb6e",
+  "active": "4d8441324b1f9b4e",
   "lastOpenFiles": [
-    "Custom Monsters/Rictavio Statblock.md",
     "Characters/Rictavio.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Custom Monsters/Rictavio Statblock.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
@@ -236,7 +241,6 @@
     "Characters/Danika Dorakova.md",
     "Handouts/Maps/The Blue Water Inn Map.md",
     "Characters/Izek Strazni.md",
-    "Characters/Strahd Von Zarovich.md",
     "Handouts/Letters/Old Vallaki Proclamation.md",
     "Handouts/Letters/New Vallaki Proclamation.md",
     "Misc/Peoples and Lore/Barovian Names.md",

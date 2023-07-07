@@ -20,6 +20,7 @@ aliases: ['Rudolf van Richten', 'van Richten']
 [[Barovian Lore]]
 [[Vallaki Lore]]
 - Everything about monsters: no check necessary
+	- He's carrying everything monsters may be vulnerable to
 
 ## Relations
 
