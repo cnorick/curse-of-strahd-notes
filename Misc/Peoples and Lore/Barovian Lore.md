@@ -39,4 +39,6 @@
 - [ ] Never harm a raven, lest ill fortune befall you
 
 ## [[Rictavio|Van Richten]]
-
+- Van Richten wrote a series of books, detailing all he knew about monsters of all sorts. The 'Van Richten's Guide to the \[monster]' series
+	- Perhaps your players find a copy of one...perhaps when they succeed on a monster-knowledge check, you tell them that they remember reading \[fact] in the book Van Richten's Guide to \[monster].
+    - If the players do something impressive involving slaying monsters, have NPCs compare them to the legends they have heard of Van Richten.
