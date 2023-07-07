@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -220,8 +221,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3fb134c8d087f6fa",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
+    "Misc/Peoples and Lore/Barovian Lore.md",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
@@ -258,7 +260,6 @@
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
     "Campaign Notes.md",
-    "Characters/Anakir.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
