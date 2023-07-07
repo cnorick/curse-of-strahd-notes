@@ -23,7 +23,7 @@ aliases: ['Rudolf van Richten', 'van Richten']
 ## Relations
 
 ## Stat Block
-
+[[Healer Feat]]
 ```statblock
 monster: Rictavio
 ```
