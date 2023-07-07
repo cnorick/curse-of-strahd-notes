@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom Monsters/Strahd Statblock.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom Monsters/Strahd Statblock.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom Monsters/Strahd Statblock.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -245,8 +245,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "72ec8473e65121c8",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
+    "Custom Monsters/Strahd Statblock.md",
     "Characters/Rictavio.md",
     "Characters/Strahd Von Zarovich.md",
     "Custom Monsters/Rictavio Statblock.md",
@@ -283,7 +284,6 @@
     "Assets/Templates/Character.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Templates/Handout.md",
-    "Assets/Templates/Portrait.md",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
