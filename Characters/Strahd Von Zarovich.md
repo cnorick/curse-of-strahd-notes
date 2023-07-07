@@ -13,7 +13,7 @@ aliases: [Strahd, Count Strahd von Zarovich, Devil Strahd, Devil, The Devil]
 - He intends to kill her at their next meeting
 	- and turn her into his vampire spawn consort
 
-### Find [[Rudolph Van Richten]]
+### Find [[Rictavio|Rudolf van Richten]]
 #todo 
 ### Search for a Successor or Consort
 #todo 

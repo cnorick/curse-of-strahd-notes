@@ -42,17 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4d8441324b1f9b4e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -81,9 +73,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d8441324b1f9b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Characters/Strahd Von Zarovich.md"
+              }
             }
           },
           {

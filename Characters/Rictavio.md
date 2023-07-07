@@ -1,5 +1,5 @@
 ---
-aliases: ['Rudolf van Richten', 'van Richten']
+aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richten']
 ---
 (NE human)
 ![[Rictavio-Token.png|200]]
