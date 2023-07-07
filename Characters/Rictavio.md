@@ -26,8 +26,6 @@ aliases: ['Rudolf van Richten', 'van Richten']
 [[Healer Feat]]
 ```statblock
 monster: Rictavio
-traits+:
-  - n
 ```
 
 ```dataviewjs
