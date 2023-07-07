@@ -126,7 +126,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 	- If the characters claim to be adventurers, [[Urwin Martikov|Urwin]] asks them if they would be so kind as to find out what's holding up the latest shipment
 - At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
-- If things happen to go south, the Martikovs wi
+- If things happen to go south, the Martikovs will give the players sanctuary in the attic/hayloft
 
 #### Interactions
 - On first entering, read [[#Taproom (N2c)]] description
