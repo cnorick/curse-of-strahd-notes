@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md",
+                "file": "Misc/Campaign Items/The Tome of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md",
+                "file": "Misc/Campaign Items/The Tome of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md"
+                "file": "Misc/Campaign Items/The Tome of Strahd.md"
               }
             }
           },
@@ -268,11 +268,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "73d646538002d60e",
+  "active": "a612f7ea3581735f",
   "lastOpenFiles": [
+    "Handouts/Items/Tome of Strahd Handout.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Characters/Rictavio.md",
-    "Handouts/Items/Tome of Strahd Handout.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
     "Handouts/Items/Potion of Healing.md",
