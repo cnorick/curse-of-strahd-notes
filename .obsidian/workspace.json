@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Templates/Character.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Templates/Character.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           },
@@ -166,45 +166,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "floating": {
-    "id": "756f20ca611062a4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c061894a7d377641",
-        "type": "window",
-        "children": [
-          {
-            "id": "2cc770fb15717c5f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "94ec7d5f2f3acbb2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Assets/Templates/Character.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 600,
-        "height": 300,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "94ec7d5f2f3acbb2",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "Assets/Templates/Character.md",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait.md",
     "Campaign Notes.md",
@@ -230,7 +194,6 @@
     "Characters/Elizabeth Durst.md",
     "Characters/Elora.md",
     "Characters/Ernst Larnak.md",
-    "Characters/Father Lucian Petrovich.md",
     "Website/site/Guest as Granny.pdf",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
