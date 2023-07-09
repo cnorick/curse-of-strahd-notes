@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Handouts/Items/The Tome of Strahd.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Handouts/Items/The Tome of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Handouts/Items/The Tome of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Card Reading.md"
+                "file": "Handouts/Items/The Tome of Strahd.md"
               }
             }
           },
@@ -258,8 +258,8 @@
   },
   "active": "73d646538002d60e",
   "lastOpenFiles": [
-    "Handouts/Items/The Tome of Strahd.md",
     "Misc/Card Reading.md",
+    "Handouts/Items/The Tome of Strahd.md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Rictavio.md",
     "Characters/Strahd Von Zarovich.md",
