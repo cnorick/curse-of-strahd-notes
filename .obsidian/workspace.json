@@ -268,38 +268,76 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
+  "floating": {
+    "id": "8bc819be908f6dc8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b64b56a4f41f9a4c",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6c42c71e4d84872",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "01df775b904528be",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "reference/spells/Wall of Ice.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1355,
+        "y": 106,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "6f05f985b5a698af",
   "lastOpenFiles": [
-    "Locations/The Town of Vallaki (N).md",
-    "Characters/Freek.md",
-    "Characters/Lucien.md",
+    "reference/Tiefling.md",
+    "reference/Time.md",
+    "reference/Trade Goods.md",
+    "reference/Treasure.md",
+    "reference/Underwater Combat.md",
+    "reference/Weapons.md",
+    "reference/Tools.md",
+    "reference/Warlock.md",
+    "reference/Wizard.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 6.md",
+    "New Handouts.md",
+    "Session Prep/Session 0.md",
+    "Session Prep/Session 1.md",
+    "Session Prep/Session 3.md",
+    "Session Prep/Session 2.md",
+    "Session Prep/Session 4.md",
+    "Session Prep/Session 7.md",
+    "TODO.md",
+    "Ezmerelda d'Avenir.md",
+    "Misc/Guest as Granny.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
-    "Custom Monsters/Night Hag (Spells Inlined).md",
-    "Misc/Peoples and Lore/Vallaki Lore.md",
-    "Handouts/Items/Tome of Strahd Handout.md",
-    "Misc/Campaign Items/The Tome of Strahd.md",
-    "Locations/Old Bonegrinder (O).md",
-    "Characters/Myrtle.md",
-    "Misc/Guest as Granny.md",
-    "Characters/Morgantha.md",
-    "Misc/Peoples and Lore/Barovian Names.md",
-    "Characters/Rictavio.md",
-    "Characters/Strahd Von Zarovich.md",
     "Assets/Images/People/Morgantha_Unmasked.webp",
     "Assets/Images/People/Morgantha_Unmasked.webp.crdownload",
-    "Ezmerelda d'Avenir.md",
-    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
-    "Misc/Card Reading.md",
-    "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
-    "Characters/Vladimir Horngaard.md",
     "Pasted image 20230709133603.jpg",
-    "Handouts/Letters/Tome of Strahd.md",
-    "Misc/Campaign Items/Sunsword.md",
-    "Handouts/Items/Potion of Healing.md",
-    "Handouts/Items/Orb of the Warmage.md",
-    "Handouts/Items/Cultist Logbook.md",
-    "Handouts/Items/Cloak of Protection.md",
     "Misc/Campaign Items",
     "Assets/Images/Items/Tome_of_Strahd.webp",
     "Assets/Images/Items/tome2.jpg",
