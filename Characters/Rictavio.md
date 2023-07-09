@@ -12,6 +12,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 - If he gives the players [[The Tome of Strahd]], he warns them that they should keep it secret
 	- else [[Strahd Von Zarovich|Strahd]]'s spies will inform him, and he'll try to get it back
 - Thinks things through before rushing in
+- He's cursed by [[Vistani]]: "Live you always among monsters, and see everyone you love die beneath their claws."
 
 ## History/Info
 - Originally a doctor
