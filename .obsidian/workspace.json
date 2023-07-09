@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/The Tome of Strahd.md",
+                "file": "Handouts/Items/Sunsword.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/The Tome of Strahd.md",
+                "file": "Handouts/Items/Sunsword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/The Tome of Strahd.md",
+                "file": "Handouts/Items/Sunsword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/The Tome of Strahd.md"
+                "file": "Handouts/Items/Sunsword.md"
               }
             }
           },
@@ -258,11 +258,16 @@
   },
   "active": "73d646538002d60e",
   "lastOpenFiles": [
-    "Tome_of_Strahd.webp",
+    "Handouts/Items/Potion of Healing.md",
+    "Handouts/Items/Orb of the Warmage.md",
+    "Handouts/Items/Cultist Logbook.md",
+    "Handouts/Items/Cloak of Protection.md",
+    "Misc/Campaign Items/The Tome of Strahd.md",
+    "Misc/Campaign Items",
+    "Assets/Images/Items/Tome_of_Strahd.webp",
     "Assets/Images/Items/tome2.jpg",
     "Assets/Images/Monsters/berserker.jpg",
     "Assets/Images/Items",
-    "Handouts/Items/The Tome of Strahd.md",
     "Assets/Images/Items/tome1.jpg",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
@@ -277,7 +282,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/map-blue-water-inn.jpg",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/dm-map-blue-water-inn.jpg",
     "Assets/Templates/Portrait.md",
@@ -296,14 +300,10 @@
     "Characters/Beucephalus.md",
     "Characters/Bray Martikova.md",
     "Characters/Bella Sunbane.md",
-    "Characters/Brom Martikova.md",
-    "Characters/Bluto Krogarov.md",
-    "Characters/Cyrus Belview.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
-    "Website/site/assets/images/people/lydia.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
