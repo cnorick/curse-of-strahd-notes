@@ -3,6 +3,7 @@ alias: Granny
 ---
 (Medium fiend neutral evil)
 ![[Assets/Images/People/granny.jpeg|200]]
+![[Morgantha_Unmasked.webp|200]]
 ## History/Info
 - Morgantha gave her coven's [[Hag Eye]] to [[Cyrus Belview]]
 	- so she can keep an eye on [[Strahd Von Zarovich|Strahd]]
