@@ -42,6 +42,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 	- Necromancer with an army? Infect the army with Corpseblight (see my [Ezmerelda writeup](https://redd.it/8wct9k)) then put a crossbow bolt through the necromancer's throat while he struggles to figure out why his undead army is falling apart.
 
 ## Relations
+- protege: [[Ezmerelda d'Avenir]] (doesn't know she's looking for him)
 
 ## Stat Block
 [[Healer Feat]]
