@@ -55,4 +55,4 @@ At some point while the characters are at the windmill, Granny will make another
 
 But there is a really good chance, given their experience already with the pies, that they'll get into a fight.
 
-Either way, when Morgantha comes in, she'll still be disguised as granny. 
+Either way, when Morgantha comes in, she'll still be disguised as Granny, and pushing her ol

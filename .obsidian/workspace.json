@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Old Bonegrinder (O).md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           },
@@ -293,8 +293,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "cf38569fbb917bca",
+  "active": "6f05f985b5a698af",
   "lastOpenFiles": [
+    "Locations/Old Bonegrinder (O).md",
     "Characters/Morgantha.md",
     "Misc/Guest as Granny.md",
     "Misc/Peoples and Lore/Barovian Names.md",
@@ -338,7 +339,6 @@
     "Assets/Templates/Handout.md",
     "Assets/Templates/Character.md",
     "Campaign Notes.md",
-    "Characters/Amalthia.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Misc/Templates/Untitled.canvas",
