@@ -160,7 +160,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 
 ##### Rictavio
 - If staying at the inn, he will approach them in the late evening to warn them of one thing or another
-	- Make it be 
+	- Make it be whatever the players have been talking the most about that could get them in trouble:
+		- the stocks -> he explains Vallaki Law, [[Fiona Wachter|Lady Wachter]] -> she's a d
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
