@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/items/Staff of Charming.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/items/Staff of Charming.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/items/Staff of Charming.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/items/Staff of Charming.md",
+                    "file": "reference/items/Potion of Clairvoyance.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -203,8 +203,23 @@
       }
     ]
   },
-  "active": "01df775b904528be",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "reference/items/Rod of Rulership.md",
+    "reference/items/Rod of Security.md",
+    "reference/items/Rope of Climbing.md",
+    "reference/items/Rope of Entanglement.md",
+    "reference/items/Rod of Absorption.md",
+    "reference/items/Shield of Missile Attraction.md",
+    "reference/items/Rod of Alertness.md",
+    "reference/items/Shield, +1, +2, or +3.md",
+    "reference/items/Slippers of Spider Climbing.md",
+    "reference/items/Sovereign Glue.md",
+    "reference/items/Scimitar of Speed.md",
+    "reference/items/Scarab of Protection.md",
+    "reference/items/Spell Scroll.md",
+    "reference/items/Spellguard Shield.md",
+    "reference/items/Staff of Charming.md",
     "reference/items/Staff of Fire.md",
     "reference/items/Staff of Frost.md",
     "reference/items/Staff of Healing.md",
@@ -216,21 +231,6 @@
     "reference/items/Staff of Swarming Insects.md",
     "reference/items/Staff of Thunder and Lightning.md",
     "reference/items/Staff of the Magi.md",
-    "reference/items/Staff of Withering.md",
-    "reference/items/Stone of Controlling Earth Elementals.md",
-    "reference/items/Stone of Good Luck (Luckstone).md",
-    "reference/items/Sun Blade.md",
-    "reference/items/Sword of Life Stealing.md",
-    "reference/items/Sword of Sharpness.md",
-    "Locations/The Town of Vallaki (N).md",
-    "reference/items/Wand of Enemy Detection.md",
-    "reference/items/Wand of Fear.md",
-    "reference/items/Wand of Fireballs.md",
-    "reference/items/Wand of Magic Missiles.md",
-    "reference/items/Wand of the War Mage, +1, +2, or +3.md",
-    "reference/items/Wand of Lightning Bolts.md",
-    "reference/items/Wand of Web.md",
-    "reference/items/Wand of Wonder.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
