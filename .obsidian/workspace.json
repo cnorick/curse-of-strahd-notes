@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -245,8 +245,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3fb134c8d087f6fa",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
+    "Misc/Peoples and Lore/Barovian Lore.md",
     "Characters/Rictavio.md",
     "Locations/The Town of Vallaki (N).md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
@@ -284,7 +285,6 @@
     "Characters/Dhavit.md",
     "Characters/Donavich.md",
     "Characters/Doru.md",
-    "Characters/Elizabeth Durst.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
