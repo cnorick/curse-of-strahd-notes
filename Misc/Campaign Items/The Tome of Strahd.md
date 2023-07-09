@@ -4,7 +4,7 @@
 >The book is bound in a thick leather cover with steel hinges and fastenings. The pages are of parchment and very brittle.
 
 If opened:
->Most of the book is written in the curious shorthand, presumably one of Strahd's own creation, leaving it unparsable. Stains and age have made most of the work illegible, but several paragraphs remain intact and readable. If the characters acquire the Tome of Strahd and want to read these paragraphs, show the players the "From the Tome of Strahd" section in appendix F.
+>Most of the book is written in the curious shorthand, presumably one of Strahd's own creation. That together with stains and age have made most of the work illegible, but several paragraphs remain intact and readable.
 
 - In [[Rictavio]]'s [[The Town of Vallaki (N)#Arasek Stockyard (N5)|Carnival Wagon]]
 - If Strahd sees, or learns from a minion, that the tome has fallen into the party's possession, all of his other objectives (see chapter 1, "Into the Mists") are put on hold until the book is recovered. When Strahd attacks, his preferred target is whoever has the tome.
