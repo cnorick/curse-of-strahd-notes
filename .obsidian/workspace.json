@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -244,12 +243,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
-    "Characters/Rictavio.md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
     "Locations/The Town of Vallaki (N).md",
+    "Characters/Rictavio.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Misc/Peoples and Lore/Barovian Lore.md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
