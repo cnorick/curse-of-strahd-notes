@@ -69,3 +69,6 @@ Also, once she's threatened, she'll drop the disguise and take on her true form:
 
 
 ![[Morgantha#Stat Block]]
+
+```dataviewjs
+```
