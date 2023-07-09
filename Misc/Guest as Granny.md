@@ -54,7 +54,7 @@ At some point while the characters are at the windmill, Granny will make another
 
 But there is a really good chance, given their experience already with the pies, that they'll get into a fight.
 
-Either way, when Morgantha comes in, she'll still be disguised as Granny, and pushing her cart of pies. Most of the pies have been sold, but in their place is a large wiggling sack (containing a little boy named Lucien).
+Either way, when Morgantha comes in, she'll still be disguised as Granny, and pushing her cart of pies. Most of the pies have been sold, but in their place is a large wiggling sack (containing a little boy named Lucien). She'll maybe call to her daughters, "I'm home sweeties" or something. And she'll be surprised there's 
 
 ### Combat
-If the players are fighting before she arrives, I'll probably give it a few turns before she shows up (this is a really hard fight). Then when she comes in
+If the players are fighting before she arrives, I'll probably give it a few turns before she shows up (this is a really hard fight). Then when she comes in, she may not immediately know what's going on. She'll maybe
