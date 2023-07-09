@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "bbd55897bff0fa5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Lucien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9579ca0a38ca85ec",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Lucien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Lucien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "Characters/Lucien.md"
               }
             }
           },
@@ -293,11 +305,11 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6f05f985b5a698af",
+  "active": "bbd55897bff0fa5e",
   "lastOpenFiles": [
     "Locations/Old Bonegrinder (O).md",
-    "Characters/Morgantha.md",
     "Misc/Guest as Granny.md",
+    "Characters/Morgantha.md",
     "Misc/Peoples and Lore/Barovian Names.md",
     "Characters/Rictavio.md",
     "Characters/Strahd Von Zarovich.md",

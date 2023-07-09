@@ -49,7 +49,6 @@ Here's the kicker (in 2 parts):
 1. There's a secret ingredient to these magic pies: children bones. The hags actually have some kids in cages in the windmill whose bones they hope to harvest soon. And when they do get the bones, they actually use the old mill upstairs to grind them into a powder before putting them into the pies.
 2. Once people get addicted to the pies and really need them, some with no remaining money are actually desperate enough to trade their own children to Morgantha in exchange for more pies.
 
-
 ### Playing Morgantha at the Windmill
 At some point while the characters are at the windmill, Granny will make another appearance. They'll probably start off the sessions talking with the daughters at the windmill. Initially, the sisters are accommodating and respectful. They're just tying to sell more pies. And if the party doesn't end up fighting, Morgantha will come in, talk with them really sweetly just like she did before, offer them more pies, and send them on their way.
 
