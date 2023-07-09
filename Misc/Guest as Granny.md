@@ -68,7 +68,8 @@ Also, once she's threatened, she'll drop the disguise and take on her true form:
 ![[Morgantha_Unmasked.webp]]
 
 
-![[Morgantha#Stat Block]]
+![[
+]]
 
 ```dataviewjs
 ```
