@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Card Reading.md",
+                "file": "Characters/Rictavio.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md",
+                "file": "Characters/Rictavio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md",
+                "file": "Characters/Rictavio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md"
+                "file": "Characters/Rictavio.md"
               }
             }
           },
@@ -268,14 +268,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a612f7ea3581735f",
+  "active": "66bad1f1128feb6e",
   "lastOpenFiles": [
-    "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
+    "Misc/Card Reading.md",
     "Handouts/Items/Tome of Strahd Handout.md",
+    "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
     "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Characters/Vladimir Horngaard.md",
-    "Misc/Card Reading.md",
     "Characters/Rictavio.md",
     "Pasted image 20230709133603.jpg",
     "Handouts/Letters/Tome of Strahd.md",
