@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Images/Places/Barovia Church.md",
+                "file": "Characters/Milivoj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Images/Places/Barovia Church.md",
+                "file": "Characters/Milivoj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Images/Places/Barovia Church.md"
+                "file": "Characters/Milivoj.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Handouts/Images/Places/Death House Front.md",
+                    "file": "Characters/Myrtle.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -205,32 +205,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "Handouts/Images/Places/Gates of Barovia Image.md",
-    "Handouts/Images/Places/Ravenloft.md",
-    "Handouts/Images/Places/The Windmill.md",
-    "Handouts/Images/Portraits/Portrait of Arik.md",
-    "Handouts/Images/Portraits/Portrait of Cypress Belview.md",
-    "Handouts/Images/Portraits/Portrait of Arahja.md",
-    "Handouts/Images/Portraits/Portrait of Arrigal.md",
-    "Handouts/Images/Portraits/Portrait of Bildrath.md",
-    "Handouts/Images/Portraits/Portrait of Gertruda.md",
-    "Handouts/Images/Portraits/Portrait of Donavich.md",
-    "Handouts/Images/Portraits/Portrait of Granny.md",
-    "Handouts/Images/Portraits/Portrait of Henrik.md",
-    "Handouts/Images/Portraits/Portrait of Doru.md",
-    "Handouts/Images/Portraits/Portrait of Ismark.md",
-    "Handouts/Images/Portraits/Portrait of Luvash.md",
-    "Handouts/Images/Portraits/Portrait of Freek.md",
-    "Handouts/Images/Portraits/Portrait of Lydia.md",
-    "Handouts/Images/Portraits/Portrait of Mad Mary.md",
-    "Handouts/Images/Portraits/Portrait of Milivoj.md",
-    "Handouts/Images/Portraits/Portrait of Ireena.md",
-    "Handouts/Images/Portraits/Portrait of Myrtle.md",
-    "Handouts/Images/Portraits/Portrait of Rictavio.md",
-    "Handouts/Images/Portraits/Portrait of Rina.md",
-    "Handouts/Images/Portraits/Portrait of Madam Eva.md",
-    "Locations/The Town of Vallaki (N).md",
-    "Index.md",
+    "Characters/Nikolai Wachter.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Offalia Wormwiggle.md",
+    "Characters/Sergei.md",
+    "Characters/Shalooti.md",
+    "Characters/Stella Wachter.md",
+    "Characters/Szoldar Szoldarovich.md",
+    "Characters/Rictavio.md",
+    "Characters/Tasha Petrovna.md",
+    "Characters/Tatyana.md",
+    "Characters/The Abbott.md",
+    "Characters/Udo Lukovich.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Vargas Vallakovich.md",
+    "Characters/Thornboldt.md",
+    "Characters/Urwin Martikov.md",
+    "Characters/Victor Vallakovich.md",
+    "Characters/Yevgeni Krushkin.md",
+    "Characters/Walter.md",
+    "Characters/Yelena Arasek.md",
+    "Characters/Vladimir Horngaard.md",
+    "Custom Monsters/Child Wereraven.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
