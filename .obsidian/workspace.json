@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign Items/Untitled.md",
+                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Campaign Items/Untitled.md",
+                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Campaign Items/Untitled.md",
+                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Campaign Items/Untitled.md"
+                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md"
               }
             }
           },
@@ -270,8 +270,9 @@
   },
   "active": "a612f7ea3581735f",
   "lastOpenFiles": [
+    "Pasted image 20230709133603.jpg",
     "Misc/Campaign Items/The Tome of Strahd.md",
-    "Misc/Campaign Items/Untitled.md",
+    "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
     "Handouts/Items/Tome of Strahd Handout.md",
     "Characters/Rictavio.md",
     "Handouts/Letters/Tome of Strahd.md",
@@ -311,7 +312,6 @@
     "Characters/Anakir.md",
     "Characters/Arahja.md",
     "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
