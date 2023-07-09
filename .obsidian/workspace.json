@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rictavio.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -267,10 +267,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "66bad1f1128feb6e",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
-    "Ezmerelda d'Avenir.md",
     "Characters/Rictavio.md",
+    "Ezmerelda d'Avenir.md",
     "Locations/The Town of Vallaki (N).md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
