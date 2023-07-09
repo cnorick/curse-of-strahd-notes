@@ -164,7 +164,9 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 		- the stocks -> he explains Vallaki Law, [[Fiona Wachter|Lady Wachter]] -> she's a dangerous woman
 - He invites them back to [[#Private Guest Room (N2n)|his room]] in the inn for a private conversation
 - He reveals his role as a carnival man is only a front for his spying ([[The Keepers of the Feather|Keepers of the Feather]], and the [[Vistani]])
-- He tells them they should leave town as soon
+- He tells them Vallaki isn't safe and that they should leave town quickly
+- He asks why they're in Vallaki anyway
+	- If they mention [[Madam Eva]], he's intrigued, and will
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
