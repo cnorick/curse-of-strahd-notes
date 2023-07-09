@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "9579ca0a38ca85ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom Monsters/Night Hag (Spells Inlined).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73d646538002d60e",
             "type": "leaf",
             "state": {
@@ -282,6 +294,8 @@
   },
   "active": "cf38569fbb917bca",
   "lastOpenFiles": [
+    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Characters/Morgantha.md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/People/Morgantha_Unmasked.webp",
     "Assets/Images/People/Morgantha_Unmasked.webp.crdownload",
@@ -324,7 +338,6 @@
     "Characters/Amalthia.md",
     "Characters/Arabelle.md",
     "Characters/Arik Lorensk.md",
-    "Characters/Alexei.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Misc/Templates/Untitled.canvas",
