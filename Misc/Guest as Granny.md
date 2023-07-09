@@ -37,3 +37,8 @@ Don’t try to read the following verbatim, they are just talking points if thin
 - Granny might ask male PCs why on earth they haven't settled down yet and asks the female PCs why they're so skinny. They should get some meat on their bones, for goodness sake!
 
 No matter what, Morgantha will gift the party with a pie to share for dinner. Yes, they normally cost 1gp, but she is confident that they’ll be back for more and she wouldn’t want such lovely people to have to choke down the gruel and shoe leather they serve at the tavern.
+
+## Granny at the Windmill
+At some point while the characters are at the windmill, Granny will make another appearance.
+
+Basically, here's the tru
