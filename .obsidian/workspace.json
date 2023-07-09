@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Giant Toad.md",
+                "file": "reference/creatures/Death Dog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Giant Toad.md",
+                "file": "reference/creatures/Death Dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Giant Toad.md"
+                "file": "reference/creatures/Death Dog.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Giant Scorpion.md",
+                    "file": "reference/creatures/Deer.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -205,32 +205,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/creatures/Giant Vulture.md",
-    "Locations/The Town of Vallaki (N).md",
-    "reference/items/Rod of Rulership.md",
-    "reference/items/Rod of Security.md",
-    "reference/items/Rope of Climbing.md",
-    "reference/items/Rope of Entanglement.md",
-    "reference/items/Rod of Absorption.md",
-    "reference/items/Shield of Missile Attraction.md",
-    "reference/items/Rod of Alertness.md",
-    "reference/items/Shield, +1, +2, or +3.md",
-    "reference/items/Slippers of Spider Climbing.md",
-    "reference/items/Sovereign Glue.md",
-    "reference/items/Scimitar of Speed.md",
-    "reference/items/Scarab of Protection.md",
-    "reference/items/Spell Scroll.md",
-    "reference/items/Spellguard Shield.md",
-    "reference/items/Staff of Charming.md",
-    "reference/items/Staff of Fire.md",
-    "reference/items/Staff of Frost.md",
-    "reference/items/Staff of Healing.md",
-    "reference/items/Sphere of Annihilation.md",
-    "reference/items/Staff of Power.md",
-    "reference/items/Staff of the Python.md",
-    "reference/items/Staff of Striking.md",
-    "reference/items/Staff of the Woodlands.md",
-    "reference/items/Staff of Swarming Insects.md",
+    "reference/creatures/Crocodile.md",
+    "reference/creatures/Dire Wolf.md",
+    "reference/creatures/Draft Horse.md",
+    "reference/creatures/Elephant.md",
+    "reference/creatures/Eagle.md",
+    "reference/creatures/Giant Ape.md",
+    "reference/creatures/Elk.md",
+    "reference/creatures/Flying Snake.md",
+    "reference/creatures/Frog.md",
+    "reference/creatures/Giant Boar.md",
+    "reference/creatures/Giant Badger.md",
+    "reference/creatures/Giant Bat.md",
+    "reference/creatures/Giant Constrictor Snake.md",
+    "reference/creatures/Giant Centipede.md",
+    "reference/creatures/Giant Crab.md",
+    "reference/creatures/Giant Crocodile.md",
+    "reference/creatures/Giant Eagle.md",
+    "reference/creatures/Giant Goat.md",
+    "reference/creatures/Giant Elk.md",
+    "reference/creatures/Giant Fire Beetle.md",
+    "reference/creatures/Giant Hyena.md",
+    "reference/creatures/Giant Frog.md",
+    "reference/creatures/Giant Poisonous Snake.md",
+    "reference/creatures/Giant Rat.md",
+    "reference/creatures/Giant Lizard.md",
+    "reference/creatures/Giant Octopus.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
