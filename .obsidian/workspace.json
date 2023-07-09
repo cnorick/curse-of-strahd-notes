@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "cf38569fbb917bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Freek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9579ca0a38ca85ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Lucien.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73d646538002d60e",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a525b03a69676905",
@@ -221,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Lucien.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Lucien.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Lucien.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           },
@@ -293,19 +268,19 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "9579ca0a38ca85ec",
+  "active": "6f05f985b5a698af",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
+    "Characters/Freek.md",
+    "Characters/Lucien.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Custom Monsters/Night Hag (Spells Inlined).md",
     "Misc/Peoples and Lore/Vallaki Lore.md",
     "Handouts/Items/Tome of Strahd Handout.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
-    "Locations/The Town of Vallaki (N).md",
-    "Characters/Freek.md",
     "Locations/Old Bonegrinder (O).md",
     "Characters/Myrtle.md",
-    "Characters/Lucien.md",
     "Misc/Guest as Granny.md",
     "Characters/Morgantha.md",
     "Misc/Peoples and Lore/Barovian Names.md",
@@ -340,7 +315,6 @@
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/map-blue-water-inn.jpg",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/dm-map-blue-water-inn.jpg",
     "Website/site/assets/images/berserker.jpg",
-    "Website/site/assets/images/places/gates-of-barovia.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
