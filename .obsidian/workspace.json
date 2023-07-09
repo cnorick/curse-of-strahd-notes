@@ -23,9 +23,11 @@
             "id": "73d646538002d60e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "tome2.jpg"
+                "file": "Handouts/Items/The Tome of Strahd.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -182,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tome2.jpg",
+                "file": "Handouts/Items/The Tome of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tome2.jpg",
+                "file": "Handouts/Items/The Tome of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tome2.jpg"
+                "file": "Handouts/Items/The Tome of Strahd.md"
               }
             }
           },
@@ -254,13 +256,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "73d646538002d60e",
   "lastOpenFiles": [
+    "Assets/Images/Items/tome2.jpg",
     "Assets/Images/Monsters/berserker.jpg",
-    "tome2.jpg",
     "Assets/Images/Items",
     "Handouts/Items/The Tome of Strahd.md",
-    "tome1.jpg",
+    "Assets/Images/Items/tome1.jpg",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Rictavio.md",
