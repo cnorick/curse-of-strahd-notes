@@ -14,7 +14,8 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 
 ## History/Info
 - Originally a doctor
-- 
+- His son Erasmus was taken from him and turned into a vampire
+	- he found him eventually, and put a stake through his heart to spare his suff
 
 ## What They Want
 - During his stay at [[The Town of Vallaki (N)#Blue Water Inn (N2)|The Blue Water Inn]], he is quietly gathering information on [[The Keepers of the Feather]]
