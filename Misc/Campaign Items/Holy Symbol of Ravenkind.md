@@ -8,14 +8,11 @@ The holy symbol is a platinum amulet shaped like the sun, with a large crystal e
 
 The holy symbol has 10 charges for the following properties. It regains 1d6+4 charges daily at dawn.
 
-Hold Vampires. 
-
+**Hold Vampires**
 As an action, you can expend 1 charge and present the holy symbol to make it flare with holy power. Vampires and vampire spawn within 30 feet of the holy symbol when it flares must make a DC 15 Wisdom saving throw. On a failed save, a target is paralyzed for 1 minute. It can repeat the saving throw at the end of each of its turns to end the effect on itself.
 
-Turn Undead. 
-
+**Turn Undead**
 If you have the Turn Undead or the Turn the Unholy feature, you can expend 3 charges when you present the holy symbol while using that feature. When you do so, undead have disadvantage on their saving throws against the effect.
 
-Sunlight. 
-
+**Sunlight**
 As an action, you can expend 5 charges while presenting the holy symbol to make it shed bright light in a 30-foot radius and dim light for an additional 30 feet. The light is sunlight and lasts for 10 minutes or until you end the effect (no action required).
