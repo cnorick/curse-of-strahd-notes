@@ -43,7 +43,7 @@ No matter what, Morgantha will gift the party with a pie to share for dinner. Ye
 
 Basically, here's the truth about Morgantha (Granny). She's part of a witch coven with her two daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]]. As a coven, they get extra powers. They all three specialize in making Dream Pies (the ones she sold the party back in Barovia Village), and their whole operation is run from this windmill.
 
-As we already know about the pies, they have addictive qualities, but they also actually do make their eater feel a little better for a short time. And many people in Baro
+As we already know about the pies, they have addictive qualities, but they also actually do make their eater feel a little better for a short time. And there are many people in Barovia that keep Granny in business
 
 
 
