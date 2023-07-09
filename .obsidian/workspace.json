@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Sanctuary.md",
+                "file": "reference/items/Eyes of the Eagle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Sanctuary.md",
+                "file": "reference/items/Eyes of the Eagle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Sanctuary.md"
+                "file": "reference/items/Eyes of the Eagle.md"
               }
             }
           },
@@ -263,7 +263,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Reverse Gravity.md",
+                    "file": "reference/items/Eyes of the Eagle.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -284,32 +284,32 @@
   },
   "active": "78389d5d2d29abc6",
   "lastOpenFiles": [
-    "reference/spells/Resilient Sphere.md",
-    "reference/spells/Scorching Ray.md",
-    "reference/spells/Rope Trick.md",
-    "reference/spells/Scrying.md",
-    "reference/spells/See Invisibility.md",
-    "reference/spells/Sequester.md",
-    "reference/spells/Secret Chest.md",
-    "reference/spells/Sending.md",
-    "reference/spells/Seeming.md",
-    "reference/spells/Shapechange.md",
-    "reference/spells/Shatter.md",
-    "reference/spells/Shield of Faith.md",
-    "reference/spells/Shield.md",
-    "reference/spells/Shillelagh.md",
-    "reference/spells/Shocking Grasp.md",
-    "reference/spells/Silence.md",
-    "reference/spells/Sleet Storm.md",
-    "reference/spells/Silent Image.md",
-    "reference/spells/Simulacrum.md",
-    "reference/spells/Sleep.md",
-    "reference/spells/Slow.md",
-    "reference/spells/Spare the Dying.md",
-    "reference/spells/Speak with Animals.md",
-    "reference/spells/Spider Climb.md",
-    "reference/spells/Speak with Dead.md",
-    "reference/spells/Spike Growth.md",
+    "reference/items/Gem of Seeing.md",
+    "reference/items/Gem of Brightness.md",
+    "reference/items/Gloves of Missile Snaring.md",
+    "reference/items/Glamoured Studded Leather.md",
+    "reference/items/Gloves of Swimming and Climbing.md",
+    "reference/items/Hammer of Thunderbolts.md",
+    "reference/items/Goggles of Night.md",
+    "reference/items/Handy Haversack.md",
+    "reference/items/Helm of Comprehending Languages.md",
+    "reference/items/Hat of Disguise.md",
+    "reference/items/Headband of Intellect.md",
+    "reference/items/Helm of Teleportation.md",
+    "reference/items/Helm of Brilliance.md",
+    "reference/items/Horn of Valhalla.md",
+    "reference/items/Helm of Telepathy.md",
+    "reference/items/Horseshoes of a Zephyr.md",
+    "reference/items/Horseshoes of Speed.md",
+    "reference/items/Holy Avenger.md",
+    "reference/items/Horn of Blasting.md",
+    "reference/items/Instant Fortress.md",
+    "reference/items/Immovable Rod.md",
+    "reference/items/Ioun Stone.md",
+    "reference/items/Iron Flask.md",
+    "reference/items/Iron Bands of Binding.md",
+    "reference/items/Lantern of Revealing.md",
+    "reference/items/Luck Blade.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-7.html",
