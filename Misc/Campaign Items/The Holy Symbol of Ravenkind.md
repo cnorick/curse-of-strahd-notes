@@ -2,8 +2,7 @@
 aliases: ['Holy Symbol of Ravenkind', 'Symbol of Ravenkind']
 ---
 ## Info
-
-- 
+- **Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt (Q)|Argynvostholt]]
 
 ## Handout
 _Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)_

@@ -10,7 +10,7 @@
 >This card tells of a powerful force for good and protection, a holy symbol of great hope.
 
 **Card**: 1 of Swords -- Avenger
-**Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt]] (Q36)
+**Location**: In the possession of [[Vladimir Horngaard]] in [[Argynvostholt (Q)|Argynvostholt]] (Q36)
 
 >The treasure lies in a dragon's house, in hands once clean and now corrupted.
 
