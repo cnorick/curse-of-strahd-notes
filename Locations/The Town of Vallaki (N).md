@@ -159,7 +159,8 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - [[Danika Dorakova|Danika]] will charge for the stay, but if they see [[Urwin Martikov|Urwin]] first, he'll offer them a room for free
 
 ##### Rictavio
-- 
+- If staying at the inn, he will approach them in the late evening to warn them of one thing or another
+	- Make it be 
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
