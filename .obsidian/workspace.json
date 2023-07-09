@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a525b03a69676905",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Handouts/Items/Tome of Strahd Handout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Handouts/Items/Tome of Strahd Handout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rictavio.md"
+                "file": "Handouts/Items/Tome of Strahd Handout.md"
               }
             }
           },
@@ -268,9 +268,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "66bad1f1128feb6e",
+  "active": "73d646538002d60e",
   "lastOpenFiles": [
     "Misc/Campaign Items/The Tome of Strahd.md",
+    "Characters/Rictavio.md",
     "Handouts/Items/Tome of Strahd Handout.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
@@ -286,7 +287,6 @@
     "Assets/Images/Items/tome1.jpg",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
-    "Characters/Rictavio.md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
