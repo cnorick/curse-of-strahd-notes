@@ -30,6 +30,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 [[Vallaki Lore]]
 - Everything about monsters: no check necessary
 	- He's carrying everything monsters may be vulnerable to
+	- in battle, knows what they're going to do next
 
 ## Relations
 
