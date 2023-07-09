@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -98,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Peoples and Lore/Barovian Lore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Peoples and Lore/Barovian Lore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Misc/Peoples and Lore/Barovian Lore.md"
               }
             }
           },
@@ -244,9 +245,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "3fb134c8d087f6fa",
   "lastOpenFiles": [
     "Characters/Rictavio.md",
+    "Locations/The Town of Vallaki (N).md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
@@ -283,7 +285,6 @@
     "Characters/Donavich.md",
     "Characters/Doru.md",
     "Characters/Elizabeth Durst.md",
-    "Characters/Ernst Larnak.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",

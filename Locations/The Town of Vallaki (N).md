@@ -158,6 +158,9 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 	- Role play them to be really sweet and show the kind nature of the family
 - [[Danika Dorakova|Danika]] will charge for the stay, but if they see [[Urwin Martikov|Urwin]] first, he'll offer them a room for free
 
+##### Rictavio
+- 
+
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
 
