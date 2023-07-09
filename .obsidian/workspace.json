@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Etherealness.md",
+                "file": "reference/spells/Augury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Etherealness.md",
+                "file": "reference/spells/Augury.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Etherealness.md"
+                "file": "reference/spells/Augury.md"
               }
             }
           },
@@ -274,7 +274,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Etherealness.md",
+                    "file": "reference/spells/Beacon of Hope.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -295,32 +295,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/spells/Expeditious Retreat.md",
-    "reference/spells/Eyebite.md",
-    "reference/spells/False Life.md",
-    "reference/spells/Faerie Fire.md",
-    "reference/spells/Feather Fall.md",
-    "reference/spells/Faithful Hound.md",
-    "reference/spells/Fear.md",
-    "reference/spells/Find the Path.md",
-    "reference/spells/Find Traps.md",
-    "reference/spells/Feeblemind.md",
-    "reference/spells/Find Steed.md",
-    "reference/spells/Finger of Death.md",
-    "reference/spells/Find Familiar.md",
-    "reference/spells/Fire Bolt.md",
-    "reference/spells/Flame Blade.md",
-    "reference/spells/Fire Storm.md",
-    "reference/spells/Fire Shield.md",
-    "reference/spells/Fireball.md",
-    "reference/spells/Flame Strike.md",
-    "reference/spells/Flaming Sphere.md",
-    "reference/spells/Flesh to Stone.md",
-    "reference/spells/Fly.md",
-    "reference/spells/Fog Cloud.md",
-    "reference/spells/Floating Disk.md",
-    "reference/spells/Foresight.md",
-    "reference/spells/Freedom of Movement.md",
+    "reference/spells/Bestow Curse.md",
+    "reference/spells/Banishment.md",
+    "reference/spells/Blade Barrier.md",
+    "reference/spells/Bless.md",
+    "reference/spells/Blindness slash Deafness.md",
+    "reference/spells/Blight.md",
+    "reference/spells/Black Tentacles.md",
+    "reference/spells/Burning Hands.md",
+    "reference/spells/Blink.md",
+    "reference/spells/Calm Emotions.md",
+    "reference/spells/Blur.md",
+    "reference/spells/Chain Lightning.md",
+    "reference/spells/Charm Person.md",
+    "reference/spells/Branding Smite.md",
+    "reference/spells/Call Lightning.md",
+    "reference/spells/Chill Touch.md",
+    "reference/spells/Clone.md",
+    "reference/spells/Circle of Death.md",
+    "reference/spells/Cloudkill.md",
+    "reference/spells/Color Spray.md",
+    "reference/spells/Clairvoyance.md",
+    "reference/spells/Command.md",
+    "reference/spells/Commune with Nature.md",
+    "reference/spells/Comprehend Languages.md",
+    "reference/spells/Cone of Cold.md",
+    "reference/spells/Conjure Animals.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
