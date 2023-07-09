@@ -51,4 +51,6 @@ Here's the kicker (in 2 parts):
 
 
 ### Playing Morgantha at the Windmill
-At some point while the characters are at the windmill, Granny will make another appearance. They'll proba
+At some point while the characters are at the windmill, Granny will make another appearance. They'll probably start off the sessions talking with the daughters at the windmill. But there is a really good chance, given their experience already with the pies, that they'll get into a fight.
+
+Initial
