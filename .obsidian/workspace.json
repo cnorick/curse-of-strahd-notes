@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Augury.md",
+                "file": "reference/npcs/Acolyte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Augury.md",
+                "file": "reference/npcs/Acolyte.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Augury.md"
+                "file": "reference/npcs/Acolyte.md"
               }
             }
           },
@@ -274,7 +274,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Beacon of Hope.md",
+                    "file": "reference/npcs/Acolyte.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -284,8 +284,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1369,
-        "y": 151,
+        "x": 1229,
+        "y": 159,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -295,32 +295,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/spells/Bestow Curse.md",
-    "reference/spells/Banishment.md",
-    "reference/spells/Blade Barrier.md",
-    "reference/spells/Bless.md",
-    "reference/spells/Blindness slash Deafness.md",
-    "reference/spells/Blight.md",
-    "reference/spells/Black Tentacles.md",
-    "reference/spells/Burning Hands.md",
-    "reference/spells/Blink.md",
-    "reference/spells/Calm Emotions.md",
-    "reference/spells/Blur.md",
-    "reference/spells/Chain Lightning.md",
-    "reference/spells/Charm Person.md",
-    "reference/spells/Branding Smite.md",
-    "reference/spells/Call Lightning.md",
-    "reference/spells/Chill Touch.md",
-    "reference/spells/Clone.md",
-    "reference/spells/Circle of Death.md",
-    "reference/spells/Cloudkill.md",
-    "reference/spells/Color Spray.md",
-    "reference/spells/Clairvoyance.md",
-    "reference/spells/Command.md",
-    "reference/spells/Commune with Nature.md",
-    "reference/spells/Comprehend Languages.md",
-    "reference/spells/Cone of Cold.md",
-    "reference/spells/Conjure Animals.md",
+    "reference/npcs/Archmage.md",
+    "reference/npcs/Assassin.md",
+    "reference/npcs/Bandit Captain.md",
+    "reference/npcs/Bandit.md",
+    "reference/npcs/Commoner.md",
+    "reference/npcs/Berserker.md",
+    "reference/npcs/Cultist.md",
+    "reference/npcs/Cult Fanatic.md",
+    "reference/npcs/Druid (NPC).md",
+    "reference/npcs/Mage.md",
+    "reference/npcs/Gladiator.md",
+    "reference/npcs/Knight.md",
+    "reference/npcs/Guard.md",
+    "reference/npcs/Noble.md",
+    "reference/npcs/Priest.md",
+    "reference/npcs/Scout.md",
+    "reference/npcs/Spy.md",
+    "reference/npcs/Veteran.md",
+    "reference/npcs/Thug.md",
+    "reference/npcs/Tribal Warrior.md",
+    "reference/NPCs.md",
+    "reference/Movement.md",
+    "reference/Multiclassing.md",
+    "reference/Paladin.md",
+    "reference/Pantheons.md",
+    "reference/Races.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
