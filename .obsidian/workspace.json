@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "73d646538002d60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Card Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "121873e8ee7551ae",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a525b03a69676905",
@@ -171,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Card Reading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Misc/Card Reading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Misc/Card Reading.md"
               }
             }
           },
@@ -243,10 +256,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "73d646538002d60e",
   "lastOpenFiles": [
-    "Characters/Rictavio.md",
+    "Handouts/Items/The Tome of Strahd.md",
+    "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
+    "Characters/Rictavio.md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
@@ -281,8 +296,6 @@
     "Characters/Bluto Krogarov.md",
     "Characters/Cyrus Belview.md",
     "Characters/Danika Dorakova.md",
-    "Characters/Dhavit.md",
-    "Characters/Donavich.md",
     "Website/site/assets/images/berserker.jpg",
     "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
