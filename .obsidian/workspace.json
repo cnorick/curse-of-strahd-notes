@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "mode": "source",
                 "source": false
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Locations/Old Bonegrinder (O).md"
               }
             }
           },
@@ -295,10 +295,10 @@
   },
   "active": "cf38569fbb917bca",
   "lastOpenFiles": [
+    "Characters/Morgantha.md",
     "Misc/Guest as Granny.md",
     "Misc/Peoples and Lore/Barovian Names.md",
     "Characters/Rictavio.md",
-    "Characters/Morgantha.md",
     "Characters/Strahd Von Zarovich.md",
     "Custom Monsters/Night Hag (Spells Inlined).md",
     "Locations/The Town of Vallaki (N).md",
