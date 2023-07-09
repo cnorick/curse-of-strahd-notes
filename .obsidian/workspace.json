@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Assets/Templates/Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Assets/Templates/Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "Assets/Templates/Character.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Characters/Yevgeni Krushkin.md",
+                    "file": "Assets/Templates/Character.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -203,34 +203,35 @@
       }
     ]
   },
-  "active": "fe777606e1889830",
+  "active": "94ec7d5f2f3acbb2",
   "lastOpenFiles": [
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Portrait.md",
+    "Campaign Notes.md",
+    "Characters/Alexei.md",
+    "Characters/Amalthia.md",
+    "Characters/Anakir.md",
+    "Characters/Arabelle.md",
+    "Characters/Arahja.md",
+    "Characters/Arik Lorensk.md",
+    "Characters/Arrigal.md",
+    "Characters/Bardolf.md",
+    "Characters/Bella Sunbane.md",
+    "Characters/Beucephalus.md",
+    "Characters/Bildrath Cantemir.md",
+    "Characters/Bluto Krogarov.md",
+    "Characters/Bray Martikova.md",
+    "Characters/Brom Martikova.md",
+    "Characters/Cyrus Belview.md",
+    "Characters/Danika Dorakova.md",
+    "Characters/Donavich.md",
+    "Characters/Dhavit.md",
+    "Characters/Doru.md",
+    "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Characters/Ernst Larnak.md",
+    "Characters/Father Lucian Petrovich.md",
     "Website/site/Guest as Granny.pdf",
-    "reference/items/Oil of Etherealness.md",
-    "reference/items/Oil of Sharpness.md",
-    "reference/items/Oil of Slipperiness.md",
-    "reference/items/Pearl of Power.md",
-    "reference/items/Periapt of Health.md",
-    "reference/items/Periapt of Proof against Poison.md",
-    "reference/items/Periapt of Wound Closure.md",
-    "reference/items/Philter of Love.md",
-    "reference/items/Pipes of Haunting.md",
-    "reference/items/Pipes of the Sewers.md",
-    "reference/items/Plate Armor of Etherealness.md",
-    "reference/items/Portable Hole.md",
-    "reference/items/Potion of Animal Friendship.md",
-    "reference/items/Potion of Clairvoyance.md",
-    "reference/items/Potion of Climbing.md",
-    "reference/items/Potion of Diminution.md",
-    "reference/items/Potion of Flying.md",
-    "reference/items/Potion of Gaseous Form.md",
-    "reference/items/Potion of Giant Strength.md",
-    "reference/items/Potion of Growth.md",
-    "reference/items/Potion of Healing.md",
-    "reference/items/Potion of Heroism.md",
-    "reference/items/Potion of Invisibility.md",
-    "reference/items/Potion of Mind Reading.md",
-    "reference/items/Potion of Poison.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -240,7 +241,6 @@
     "Website/no-spoilers/campaign-notes/handouts/items/tome-of-strahd-handout.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
     "Website/site/assets/images/people/lucien.webp",
     "Website/site/assets/images/people/morgantha_unmasked.webp",
     "Website/site/assets/images/items/tome_of_strahd.webp",
