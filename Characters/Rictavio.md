@@ -13,6 +13,8 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 	- else [[Strahd Von Zarovich|Strahd]]'s spies will inform him, and he'll try to get it back
 
 ## History/Info
+- Originally a doctor
+- 
 
 ## What They Want
 - During his stay at [[The Town of Vallaki (N)#Blue Water Inn (N2)|The Blue Water Inn]], he is quietly gathering information on [[The Keepers of the Feather]]
