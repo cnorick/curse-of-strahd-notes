@@ -41,6 +41,10 @@ No matter what, Morgantha will gift the party with a pie to share for dinner. Ye
 ## Granny at the Windmill
 **All of this is secret so** 🤫🤫🤫🤫🤫🤫
 
-Basically, here's the truth about Morgantha (Granny). She's part of a witch coven with her two daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]]. As a coven, they get extra powers. They all three specialize in making Dream Pies (the ones she sold the party back in Barovia Village). As we already know about the pies, they have addictive qualities, but they also actually do make their eater feel a little better for a short time.
+Basically, here's the truth about Morgantha (Granny). She's part of a witch coven with her two daughters [[Bella Sunbane]] and [[Offalia Wormwiggle]]. As a coven, they get extra powers. They all three specialize in making Dream Pies (the ones she sold the party back in Barovia Village), and their whole operation is run from this windmill.
+
+As we already know about the pies, they have addictive qualities, but they also actually do make their eater feel a little better for a short time. And many people in Baro
+
+
 
 At some point while the characters are at the windmill, Granny will make another appearance.
