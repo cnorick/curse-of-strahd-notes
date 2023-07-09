@@ -1,3 +1,11 @@
+---
+aliases: ['Holy Symbol of Ravenkind', 'Symbol of Ravenkind']
+---
+## Info
+
+- 
+
+## Handout
 _Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)_
 
 ![[Pasted image 20230709133603.jpg]]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
+                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Misc/Card Reading.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
+                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
+                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Campaign Items/Holy Symbol of Ravenkind.md"
+                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md"
               }
             }
           },
@@ -270,12 +270,13 @@
   },
   "active": "a612f7ea3581735f",
   "lastOpenFiles": [
+    "Misc/Card Reading.md",
+    "Characters/Rictavio.md",
+    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
     "Handouts/Items/Tome of Strahd Handout.md",
-    "Misc/Campaign Items/Holy Symbol of Ravenkind.md",
     "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
     "Pasted image 20230709133603.jpg",
     "Misc/Campaign Items/The Tome of Strahd.md",
-    "Characters/Rictavio.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
     "Handouts/Items/Potion of Healing.md",
@@ -288,7 +289,6 @@
     "Assets/Images/Monsters/berserker.jpg",
     "Assets/Images/Items",
     "Assets/Images/Items/tome1.jpg",
-    "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Strahd Von Zarovich.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
