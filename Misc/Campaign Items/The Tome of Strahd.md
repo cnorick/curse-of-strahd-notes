@@ -1,3 +1,5 @@
+## Info
+- In [[Rictavio]]'s [[The Town of Vallaki (N)#Arasek Stockyard (N5)|Carnival Wagon]]
 
 ## Handout
 ![[Tome_of_Strahd.webp]]
