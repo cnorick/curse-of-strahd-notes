@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "reference/items/Staff of Striking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "reference/items/Staff of Striking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "reference/items/Staff of Striking.md"
               }
             }
           },
@@ -166,9 +166,71 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "floating": {
+    "id": "756f20ca611062a4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c061894a7d377641",
+        "type": "window",
+        "children": [
+          {
+            "id": "2cc770fb15717c5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "94ec7d5f2f3acbb2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "reference/items/Staff of Power.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 600,
+        "height": 300,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "94ec7d5f2f3acbb2",
   "lastOpenFiles": [
-    "Locations/The Town of Vallaki (N).md",
+    "reference/items/Staff of Swarming Insects.md",
+    "reference/items/Staff of the Magi.md",
+    "reference/items/Staff of the Python.md",
+    "reference/items/Staff of the Woodlands.md",
+    "reference/items/Staff of Thunder and Lightning.md",
+    "reference/items/Staff of Withering.md",
+    "reference/items/Stone of Good Luck (Luckstone).md",
+    "reference/items/Stone of Controlling Earth Elementals.md",
+    "reference/items/Sun Blade.md",
+    "reference/items/Sword of Life Stealing.md",
+    "reference/items/Sword of Sharpness.md",
+    "reference/items/Sword of Wounding.md",
+    "reference/items/Talisman of Pure Good.md",
+    "reference/items/Talisman of the Sphere.md",
+    "reference/items/Talisman of Ultimate Evil.md",
+    "reference/items/Tome of Clear Thought.md",
+    "reference/items/Tome of Leadership and Influence.md",
+    "reference/items/Trident of Fish Command.md",
+    "reference/items/Tome of Understanding.md",
+    "reference/items/Universal Solvent.md",
+    "reference/items/Vicious Weapon.md",
+    "reference/items/Wand of Binding.md",
+    "reference/items/Vorpal Sword.md",
+    "reference/items/Wand of Fear.md",
+    "reference/items/Wand of Enemy Detection.md",
+    "reference/items/Wand of Lightning Bolts.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -186,32 +248,7 @@
     "Website/site/assets/images/items/tome1.jpg",
     "Website/site/assets/images/items/strahd's-invitation.jpg",
     "Website/site/pasted-image-20230709133603.jpg",
-    "Assets/Templates/Portrait.md",
     "Website/site/assets/images/monsters/berserker.jpg",
-    "Assets/Templates/Handout.md",
-    "Assets/Templates/Character.md",
-    "Campaign Notes.md",
-    "Characters/Amalthia.md",
-    "Characters/Arabelle.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Alexei.md",
-    "Characters/Anakir.md",
-    "Characters/Arahja.md",
-    "Characters/Bardolf.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Arrigal.md",
-    "Characters/Beucephalus.md",
-    "Characters/Bray Martikova.md",
-    "Characters/Bella Sunbane.md",
-    "Characters/Brom Martikova.md",
-    "Characters/Bluto Krogarov.md",
-    "Characters/Cyrus Belview.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Dhavit.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Ernst Larnak.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Morgantha_Unmasked.webp",
     "Misc/Templates/Untitled.canvas",
