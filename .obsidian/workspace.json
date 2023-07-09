@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cf38569fbb917bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Morgantha.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73d646538002d60e",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a525b03a69676905",
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -267,11 +280,13 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "cf38569fbb917bca",
   "lastOpenFiles": [
+    "Locations/The Town of Vallaki (N).md",
+    "Assets/Images/People/Morgantha_Unmasked.webp",
+    "Assets/Images/People/Morgantha_Unmasked.webp.crdownload",
     "Characters/Rictavio.md",
     "Ezmerelda d'Avenir.md",
-    "Locations/The Town of Vallaki (N).md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
     "Handouts/Items/Tome of Strahd Handout.md",
@@ -300,7 +315,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/map-blue-water-inn.jpg",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/dm-map-blue-water-inn.jpg",
     "Assets/Templates/Portrait.md",
@@ -311,10 +325,8 @@
     "Characters/Arabelle.md",
     "Characters/Arik Lorensk.md",
     "Characters/Alexei.md",
-    "Characters/Anakir.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
-    "Assets/Images/Places/Gates of Barovia.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
