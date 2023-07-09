@@ -167,6 +167,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 - He tells them Vallaki isn't safe and that they should leave town quickly
 - He asks why they're in Vallaki anyway
 	- If they mention [[Madam Eva]], he's intrigued and willing to interpret the [[Card Reading]]
+		- and will offer the 
 
 #### Well (N2a)
 A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
