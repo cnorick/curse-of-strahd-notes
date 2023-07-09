@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/npcs/Acolyte.md",
+                "file": "reference/monsters/Hobgoblin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/npcs/Acolyte.md",
+                "file": "reference/monsters/Hobgoblin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/npcs/Acolyte.md"
+                "file": "reference/monsters/Hobgoblin.md"
               }
             }
           },
@@ -274,7 +274,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/npcs/Acolyte.md",
+                    "file": "reference/monsters/Hobgoblin.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -284,8 +284,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1229,
-        "y": 159,
+        "x": 376,
+        "y": 110,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -295,32 +295,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/npcs/Archmage.md",
-    "reference/npcs/Assassin.md",
-    "reference/npcs/Bandit Captain.md",
-    "reference/npcs/Bandit.md",
-    "reference/npcs/Commoner.md",
-    "reference/npcs/Berserker.md",
-    "reference/npcs/Cultist.md",
-    "reference/npcs/Cult Fanatic.md",
-    "reference/npcs/Druid (NPC).md",
-    "reference/npcs/Mage.md",
-    "reference/npcs/Gladiator.md",
-    "reference/npcs/Knight.md",
-    "reference/npcs/Guard.md",
-    "reference/npcs/Noble.md",
-    "reference/npcs/Priest.md",
-    "reference/npcs/Scout.md",
-    "reference/npcs/Spy.md",
-    "reference/npcs/Veteran.md",
-    "reference/npcs/Thug.md",
-    "reference/npcs/Tribal Warrior.md",
-    "reference/NPCs.md",
-    "reference/Movement.md",
-    "reference/Multiclassing.md",
-    "reference/Paladin.md",
-    "reference/Pantheons.md",
-    "reference/Races.md",
+    "Locations/Old Bonegrinder (O).md",
+    "reference/monsters/Medusa.md",
+    "reference/monsters/Manticore.md",
+    "reference/monsters/Mephits.md",
+    "reference/monsters/Merrow.md",
+    "reference/monsters/Minotaur.md",
+    "reference/monsters/Nagas.md",
+    "reference/monsters/Mummies.md",
+    "reference/monsters/Nightmare.md",
+    "reference/monsters/Ogre.md",
+    "reference/monsters/Oozes.md",
+    "reference/monsters/Mimic.md",
+    "reference/monsters/Merfolk.md",
+    "reference/monsters/Otyugh.md",
+    "reference/monsters/Pegasus.md",
+    "reference/monsters/Owlbear.md",
+    "reference/monsters/Oni.md",
+    "reference/monsters/Orc.md",
+    "reference/monsters/Pseudodragon.md",
+    "reference/monsters/Purple Worm.md",
+    "reference/monsters/Remorhaz.md",
+    "reference/monsters/Roc.md",
+    "reference/monsters/Rust Monster.md",
+    "reference/monsters/Sahuagin.md",
+    "reference/monsters/Rakshasa.md",
+    "reference/monsters/Roper.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",

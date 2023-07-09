@@ -57,6 +57,23 @@ Closer investigation:
 	- She asks them where they're off to and how they're handling Barovia
 	- Better to talk about the PCs than them, after all
 
+### Ask for Help
+- During the conversations, Bella suddenly becomes more reserved. She hates having to ask for anything, especially of random passerbys, but they don't get many visitors and Bella's mother would never ask for help on her own. Recently, a letter that Mother sent out to a friend in Vallaki was returned to the windmill unanswered. Bella hasn't told her mother about the returned letter yet, but she very much doesn't want her Mother to worry. Bella takes out the letter and hands it to the players. It Reads:
+    
+    > Vasili, My Dear Friend,
+    > 
+    > Yes, of course I would be more than willing to help you with such a horrible problem! I can only imagine what those poor dears in Vallaki are going through. You know very well that I've had my own bad encounters with witches... encounters that have left their marks on my very soul. Children, orphaned or not, should never have to face such evil.
+    > 
+    > If you find a way to get the little ones at Andral's Orphanage safely out of Vallaki, I'll be happy to house them in my windmill. There's not much room, here, true. But we have beds and pies to go around.
+    > 
+    > Sincerely,
+    > 
+    > Morgantha
+    
+- Bella worries that something may have happened to Vasili... that perhaps the witch mentioned in the letter got to him. She also worries that if Morgantha sees the unanswered letter, she may go to Vallaki herself. And Vallaki is no place for a old woman like her.
+- Bella humbly requests that the PCs look into the matter.
+
+
 ## Fighting
 - Don't bring [[Morgantha]] in until later, because the party will have hard time beating a complete coven
 	- Wait 10-15 turns
