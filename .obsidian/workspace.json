@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Sunsword.md",
+                "file": "Handouts/Items/Tome of Strahd Handout.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "092e42a91abcd4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Letters/Tome of Strahd.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "a525b03a69676905",
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Items/Sunsword.md",
+                "file": "Handouts/Letters/Tome of Strahd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Items/Sunsword.md",
+                "file": "Handouts/Letters/Tome of Strahd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Items/Sunsword.md"
+                "file": "Handouts/Letters/Tome of Strahd.md"
               }
             }
           },
@@ -256,13 +268,15 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "73d646538002d60e",
+  "active": "092e42a91abcd4c5",
   "lastOpenFiles": [
+    "Handouts/Items/Tome of Strahd Handout.md",
+    "Misc/Campaign Items/The Tome of Strahd.md",
+    "Misc/Campaign Items/Sunsword.md",
     "Handouts/Items/Potion of Healing.md",
     "Handouts/Items/Orb of the Warmage.md",
     "Handouts/Items/Cultist Logbook.md",
     "Handouts/Items/Cloak of Protection.md",
-    "Misc/Campaign Items/The Tome of Strahd.md",
     "Misc/Campaign Items",
     "Assets/Images/Items/Tome_of_Strahd.webp",
     "Assets/Images/Items/tome2.jpg",
@@ -298,8 +312,6 @@
     "Characters/Bildrath Cantemir.md",
     "Characters/Arrigal.md",
     "Characters/Beucephalus.md",
-    "Characters/Bray Martikova.md",
-    "Characters/Bella Sunbane.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
