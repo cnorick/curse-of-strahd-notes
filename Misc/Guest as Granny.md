@@ -46,7 +46,8 @@ Basically, here's the truth about Morgantha (Granny). She's part of a witch cove
 As we already know about the pies, they have addictive qualities, but they also actually do make their eater feel a little better for a short time. And there are many people in Barovia that keep the hags in business.
 
 Here's the kicker (in 2 parts):
-1. There's a secret ingredient to these magic pies: children bones. The hags actually have some kids in cages in the windmill whose bones they hope to harvest soon. And when they do get the bones, they actually use the old mill upstairs to grind them into a p
+1. There's a secret ingredient to these magic pies: children bones. The hags actually have some kids in cages in the windmill whose bones they hope to harvest soon. And when they do get the bones, they actually use the old mill upstairs to grind them into a powder before putting them into the pies.
+2. Once people get addicted to the pies and really need them, some with no money, are a
 
 
 
