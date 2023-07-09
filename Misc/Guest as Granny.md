@@ -57,4 +57,6 @@ But there is a really good chance, given their experience already with the pies,
 Either way, when Morgantha comes in, she'll still be disguised as Granny, and pushing her cart of pies. Most of the pies have been sold, but in their place is a large wiggling sack (containing a little boy named Lucien). She'll maybe call to her daughters, "I'm home sweeties" or something. And she'll be surprised there's company: "Oh, I didn't expect to see all of you again. Are you back for more pies?"
 
 ### Combat
-If the players are fighting before she arrives, I'll probably give it a few turns before she shows up (this is a really hard fight, and the witch). Then when she comes in, she may not immediately know what's going on. After a round or two though, I can put you into battle, and let you take her turn in combat if you'd like
+If the players are fighting before she arrives, I'll probably give it a few turns before she shows up (this is a really hard fight, and the witches are stronger when the coven is complete).
+
+Then when she comes in, she may not immediately know what's going on. After a round or two, though, I can put you into battle and let you take her turn in combat if you'd like. Her character sheet is below, and I can help you out with it. The sisters have the same sheet.
