@@ -60,3 +60,7 @@ Either way, when Morgantha comes in, she'll still be disguised as Granny, and pu
 If the players are fighting before she arrives, I'll probably give it a few turns before she shows up (this is a really hard fight, and the witches are stronger when the coven is complete).
 
 Then when she comes in, she may not immediately know what's going on. After a round or two, though, I can put you into battle and let you take her turn in combat if you'd like. Her character sheet is below, and I can help you out with it. The sisters have the same sheet.
+
+Also, once she
+
+![[Morgantha#Stat Block]]
