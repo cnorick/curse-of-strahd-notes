@@ -28,9 +28,18 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 ## What They Know
 [[Barovian Lore]]
 [[Vallaki Lore]]
-- Everything about monsters: no check necessary
+
+### Monster Expert
+- He knows everything about monsters: no check necessary
 	- He's carrying everything monsters may be vulnerable to
 	- in battle, knows what they're going to do next
+- Examples of underhanded tricks:
+	- Necromancer and his undead holed up in an old mansion? Bar the doors and set it on fire.
+	- Vampire built his lair on low ground? Divert a river to flood the whole thing with Running Water.
+	- Vampire didn't make sure his coffin was under enough layers of solid material? Blow/tear the top off and bathe the coffin in daylight.
+	- Found the vampire's coffin before you go to kill it? Anyone know the spell Leomund's Tiny Hut? That'll prevent the vampire's mist form from getting back to its coffin.
+	- Cave full of werewolves? Set large fires in the entrances, then cave the entrance in beyond the fire...then just wait for the fire to eat all the air out of the cave.
+	- Necromancer with an army? Infect the army with Corpseblight (see my [Ezmerelda writeup](https://redd.it/8wct9k)) then put a crossbow bolt through the necromancer's throat while he struggles to figure out why his undead army is falling apart.
 
 ## Relations
 
