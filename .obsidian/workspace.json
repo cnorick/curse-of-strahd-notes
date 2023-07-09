@@ -146,7 +146,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -294,12 +295,13 @@
   },
   "active": "cf38569fbb917bca",
   "lastOpenFiles": [
-    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Rictavio.md",
     "Characters/Morgantha.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/People/Morgantha_Unmasked.webp",
     "Assets/Images/People/Morgantha_Unmasked.webp.crdownload",
-    "Characters/Rictavio.md",
     "Ezmerelda d'Avenir.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
@@ -320,7 +322,6 @@
     "Assets/Images/Monsters/berserker.jpg",
     "Assets/Images/Items",
     "Assets/Images/Items/tome1.jpg",
-    "Characters/Strahd Von Zarovich.md",
     "Misc/Peoples and Lore/Barovian Lore.md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
