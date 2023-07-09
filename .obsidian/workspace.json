@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "reference/creatures/Giant Toad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
+                "file": "reference/creatures/Giant Toad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/The Town of Vallaki (N).md"
+                "file": "reference/creatures/Giant Toad.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Spider.md",
+                    "file": "reference/creatures/Giant Scorpion.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -203,8 +203,10 @@
       }
     ]
   },
-  "active": "fe777606e1889830",
+  "active": "01df775b904528be",
   "lastOpenFiles": [
+    "reference/creatures/Giant Vulture.md",
+    "Locations/The Town of Vallaki (N).md",
     "reference/items/Rod of Rulership.md",
     "reference/items/Rod of Security.md",
     "reference/items/Rope of Climbing.md",
@@ -229,8 +231,6 @@
     "reference/items/Staff of Striking.md",
     "reference/items/Staff of the Woodlands.md",
     "reference/items/Staff of Swarming Insects.md",
-    "reference/items/Staff of Thunder and Lightning.md",
-    "reference/items/Staff of the Magi.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
