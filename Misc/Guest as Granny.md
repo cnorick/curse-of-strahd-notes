@@ -39,6 +39,8 @@ Don’t try to read the following verbatim, they are just talking points if thin
 No matter what, Morgantha will gift the party with a pie to share for dinner. Yes, they normally cost 1gp, but she is confident that they’ll be back for more and she wouldn’t want such lovely people to have to choke down the gruel and shoe leather they serve at the tavern.
 
 ## Granny at the Windmill
+**All of this is secret** 🤫qui
+
 At some point while the characters are at the windmill, Granny will make another appearance.
 
-Basically, here's the tru
+Basically, here's the truth about Morgantha (Granny). She's 
