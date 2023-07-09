@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a525b03a69676905",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Rictavio.md",
+                "file": "Locations/The Town of Vallaki (N).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Rictavio.md"
+                "file": "Locations/The Town of Vallaki (N).md"
               }
             }
           },
@@ -245,8 +244,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "66bad1f1128feb6e",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
+    "Characters/Rictavio.md",
     "Website/site/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/site/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
@@ -257,7 +257,6 @@
     "Website/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
     "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/map-blue-water-inn.jpg",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/dm-map-blue-water-inn.jpg",
     "Assets/Templates/Portrait.md",
