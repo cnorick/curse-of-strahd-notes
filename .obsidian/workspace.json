@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/items/Eyes of the Eagle.md",
+                "file": "Characters/Myrtle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/items/Eyes of the Eagle.md",
+                "file": "Characters/Myrtle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/items/Eyes of the Eagle.md"
+                "file": "Characters/Myrtle.md"
               }
             }
           },
@@ -263,7 +263,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/items/Eyes of the Eagle.md",
+                    "file": "Characters/Myrtle.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -284,32 +284,32 @@
   },
   "active": "78389d5d2d29abc6",
   "lastOpenFiles": [
-    "reference/items/Gem of Seeing.md",
-    "reference/items/Gem of Brightness.md",
-    "reference/items/Gloves of Missile Snaring.md",
-    "reference/items/Glamoured Studded Leather.md",
-    "reference/items/Gloves of Swimming and Climbing.md",
-    "reference/items/Hammer of Thunderbolts.md",
-    "reference/items/Goggles of Night.md",
-    "reference/items/Handy Haversack.md",
-    "reference/items/Helm of Comprehending Languages.md",
-    "reference/items/Hat of Disguise.md",
-    "reference/items/Headband of Intellect.md",
-    "reference/items/Helm of Teleportation.md",
-    "reference/items/Helm of Brilliance.md",
-    "reference/items/Horn of Valhalla.md",
-    "reference/items/Helm of Telepathy.md",
-    "reference/items/Horseshoes of a Zephyr.md",
-    "reference/items/Horseshoes of Speed.md",
-    "reference/items/Holy Avenger.md",
-    "reference/items/Horn of Blasting.md",
-    "reference/items/Instant Fortress.md",
-    "reference/items/Immovable Rod.md",
-    "reference/items/Ioun Stone.md",
-    "reference/items/Iron Flask.md",
-    "reference/items/Iron Bands of Binding.md",
-    "reference/items/Lantern of Revealing.md",
-    "reference/items/Luck Blade.md",
+    "Characters/Milivoj.md",
+    "Characters/Nikolai Wachter.md",
+    "Characters/Parriwimple.md",
+    "Characters/Pelanil.md",
+    "Characters/Queen Ravenovia.md",
+    "Characters/Rina.md",
+    "Characters/Rosevalda.md",
+    "Characters/Offalia Wormwiggle.md",
+    "Characters/Sergei.md",
+    "Characters/Shalooti.md",
+    "Characters/Stella Wachter.md",
+    "Characters/Szoldar Szoldarovich.md",
+    "Characters/Rictavio.md",
+    "Characters/Tasha Petrovna.md",
+    "Characters/Tatyana.md",
+    "Characters/The Abbott.md",
+    "Characters/Udo Lukovich.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Characters/Vargas Vallakovich.md",
+    "Characters/Thornboldt.md",
+    "Characters/Urwin Martikov.md",
+    "Characters/Victor Vallakovich.md",
+    "Characters/Yevgeni Krushkin.md",
+    "Characters/Walter.md",
+    "Characters/Yelena Arasek.md",
+    "Custom Monsters/Child Wereraven.md",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
     "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
     "Website/site/no-spoilers/campaign-notes/session-notes/session-7.html",
