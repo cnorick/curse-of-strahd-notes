@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/monsters/Animated Objects.md",
+                "file": "reference/items/Staff of Charming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/monsters/Animated Objects.md",
+                "file": "reference/items/Staff of Charming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/monsters/Animated Objects.md"
+                "file": "reference/items/Staff of Charming.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/monsters/Animated Objects.md",
+                    "file": "reference/items/Staff of Charming.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -194,8 +194,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 563,
-        "y": 291,
+        "x": 1321,
+        "y": 325,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -205,32 +205,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/monsters/Behir.md",
-    "reference/monsters/Azer.md",
-    "reference/monsters/Basilisk.md",
-    "reference/monsters/Bugbear.md",
-    "reference/monsters/Bulette.md",
-    "reference/monsters/Centaur.md",
-    "reference/monsters/Ankheg.md",
-    "reference/monsters/Chimera.md",
-    "reference/monsters/Chuul.md",
-    "reference/monsters/Cloaker.md",
-    "reference/monsters/Cockatrice.md",
-    "reference/monsters/Dragons, Chromatic.md",
-    "reference/monsters/Duergar.md",
-    "reference/monsters/Elf, Drow.md",
-    "reference/monsters/Ettercap.md",
-    "reference/monsters/Ettin.md",
-    "reference/monsters/Dragons, Metallic.md",
-    "reference/monsters/Elementals.md",
-    "reference/monsters/Fungi.md",
-    "reference/monsters/Gargoyle.md",
-    "reference/monsters/Genies.md",
-    "reference/monsters/Giants.md",
-    "reference/monsters/Gnoll.md",
-    "reference/monsters/Ghost.md",
-    "reference/monsters/Goblin.md",
-    "reference/monsters/Ghouls.md",
+    "reference/items/Staff of Fire.md",
+    "reference/items/Staff of Frost.md",
+    "reference/items/Staff of Healing.md",
+    "reference/items/Sphere of Annihilation.md",
+    "reference/items/Staff of Power.md",
+    "reference/items/Staff of the Python.md",
+    "reference/items/Staff of Striking.md",
+    "reference/items/Staff of the Woodlands.md",
+    "reference/items/Staff of Swarming Insects.md",
+    "reference/items/Staff of Thunder and Lightning.md",
+    "reference/items/Staff of the Magi.md",
+    "reference/items/Staff of Withering.md",
+    "reference/items/Stone of Controlling Earth Elementals.md",
+    "reference/items/Stone of Good Luck (Luckstone).md",
+    "reference/items/Sun Blade.md",
+    "reference/items/Sword of Life Stealing.md",
+    "reference/items/Sword of Sharpness.md",
+    "Locations/The Town of Vallaki (N).md",
+    "reference/items/Wand of Enemy Detection.md",
+    "reference/items/Wand of Fear.md",
+    "reference/items/Wand of Fireballs.md",
+    "reference/items/Wand of Magic Missiles.md",
+    "reference/items/Wand of the War Mage, +1, +2, or +3.md",
+    "reference/items/Wand of Lightning Bolts.md",
+    "reference/items/Wand of Web.md",
+    "reference/items/Wand of Wonder.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
