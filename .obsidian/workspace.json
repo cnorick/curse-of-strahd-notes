@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "092e42a91abcd4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Letters/Tome of Strahd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "121873e8ee7551ae",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a525b03a69676905",
@@ -196,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Handouts/Letters/Tome of Strahd.md",
+                "file": "Handouts/Items/Tome of Strahd Handout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Handouts/Letters/Tome of Strahd.md",
+                "file": "Handouts/Items/Tome of Strahd Handout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Handouts/Letters/Tome of Strahd.md"
+                "file": "Handouts/Items/Tome of Strahd Handout.md"
               }
             }
           },
@@ -268,8 +256,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "092e42a91abcd4c5",
+  "active": "73d646538002d60e",
   "lastOpenFiles": [
+    "Handouts/Letters/Tome of Strahd.md",
     "Handouts/Items/Tome of Strahd Handout.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
@@ -311,7 +300,6 @@
     "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Arrigal.md",
-    "Characters/Beucephalus.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
