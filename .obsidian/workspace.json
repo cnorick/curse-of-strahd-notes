@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign Items/The Tome of Strahd.md",
+                "file": "Misc/Campaign Items/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Campaign Items/The Tome of Strahd.md",
+                "file": "Misc/Campaign Items/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Campaign Items/The Tome of Strahd.md",
+                "file": "Misc/Campaign Items/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Campaign Items/The Tome of Strahd.md"
+                "file": "Misc/Campaign Items/Untitled.md"
               }
             }
           },
@@ -270,8 +270,9 @@
   },
   "active": "a612f7ea3581735f",
   "lastOpenFiles": [
-    "Handouts/Items/Tome of Strahd Handout.md",
     "Misc/Campaign Items/The Tome of Strahd.md",
+    "Misc/Campaign Items/Untitled.md",
+    "Handouts/Items/Tome of Strahd Handout.md",
     "Characters/Rictavio.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
@@ -311,7 +312,6 @@
     "Characters/Arahja.md",
     "Characters/Bardolf.md",
     "Characters/Bildrath Cantemir.md",
-    "Characters/Arrigal.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
