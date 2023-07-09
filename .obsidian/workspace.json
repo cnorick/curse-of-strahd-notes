@@ -18,97 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "73d646538002d60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Items/Tome of Strahd Handout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a612f7ea3581735f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Campaign Items/The Tome of Strahd.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "121873e8ee7551ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Old Bonegrinder (O).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "a525b03a69676905",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66bad1f1128feb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Rictavio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fb134c8d087f6fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d8441324b1f9b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ec8473e65121c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Monsters/Strahd Statblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -184,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/monsters/Hobgoblin.md",
+                "file": "reference/monsters/Animated Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/monsters/Hobgoblin.md",
+                "file": "reference/monsters/Animated Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/monsters/Hobgoblin.md"
+                "file": "reference/monsters/Animated Objects.md"
               }
             }
           },
@@ -241,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 313.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/monsters/Hobgoblin.md",
+                    "file": "reference/monsters/Animated Objects.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -284,8 +194,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 376,
-        "y": 110,
+        "x": 563,
+        "y": 291,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -295,32 +205,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "Locations/Old Bonegrinder (O).md",
-    "reference/monsters/Medusa.md",
-    "reference/monsters/Manticore.md",
-    "reference/monsters/Mephits.md",
-    "reference/monsters/Merrow.md",
-    "reference/monsters/Minotaur.md",
-    "reference/monsters/Nagas.md",
-    "reference/monsters/Mummies.md",
-    "reference/monsters/Nightmare.md",
-    "reference/monsters/Ogre.md",
-    "reference/monsters/Oozes.md",
-    "reference/monsters/Mimic.md",
-    "reference/monsters/Merfolk.md",
-    "reference/monsters/Otyugh.md",
-    "reference/monsters/Pegasus.md",
-    "reference/monsters/Owlbear.md",
-    "reference/monsters/Oni.md",
-    "reference/monsters/Orc.md",
-    "reference/monsters/Pseudodragon.md",
-    "reference/monsters/Purple Worm.md",
-    "reference/monsters/Remorhaz.md",
-    "reference/monsters/Roc.md",
-    "reference/monsters/Rust Monster.md",
-    "reference/monsters/Sahuagin.md",
-    "reference/monsters/Rakshasa.md",
-    "reference/monsters/Roper.md",
+    "reference/monsters/Behir.md",
+    "reference/monsters/Azer.md",
+    "reference/monsters/Basilisk.md",
+    "reference/monsters/Bugbear.md",
+    "reference/monsters/Bulette.md",
+    "reference/monsters/Centaur.md",
+    "reference/monsters/Ankheg.md",
+    "reference/monsters/Chimera.md",
+    "reference/monsters/Chuul.md",
+    "reference/monsters/Cloaker.md",
+    "reference/monsters/Cockatrice.md",
+    "reference/monsters/Dragons, Chromatic.md",
+    "reference/monsters/Duergar.md",
+    "reference/monsters/Elf, Drow.md",
+    "reference/monsters/Ettercap.md",
+    "reference/monsters/Ettin.md",
+    "reference/monsters/Dragons, Metallic.md",
+    "reference/monsters/Elementals.md",
+    "reference/monsters/Fungi.md",
+    "reference/monsters/Gargoyle.md",
+    "reference/monsters/Genies.md",
+    "reference/monsters/Giants.md",
+    "reference/monsters/Gnoll.md",
+    "reference/monsters/Ghost.md",
+    "reference/monsters/Goblin.md",
+    "reference/monsters/Ghouls.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
