@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/items/Staff of Striking.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/items/Staff of Striking.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/items/Staff of Striking.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/items/Staff of Power.md",
+                    "file": "Characters/Yevgeni Krushkin.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -203,34 +203,34 @@
       }
     ]
   },
-  "active": "94ec7d5f2f3acbb2",
+  "active": "fe777606e1889830",
   "lastOpenFiles": [
-    "reference/items/Staff of Swarming Insects.md",
-    "reference/items/Staff of the Magi.md",
-    "reference/items/Staff of the Python.md",
-    "reference/items/Staff of the Woodlands.md",
-    "reference/items/Staff of Thunder and Lightning.md",
-    "reference/items/Staff of Withering.md",
-    "reference/items/Stone of Good Luck (Luckstone).md",
-    "reference/items/Stone of Controlling Earth Elementals.md",
-    "reference/items/Sun Blade.md",
-    "reference/items/Sword of Life Stealing.md",
-    "reference/items/Sword of Sharpness.md",
-    "reference/items/Sword of Wounding.md",
-    "reference/items/Talisman of Pure Good.md",
-    "reference/items/Talisman of the Sphere.md",
-    "reference/items/Talisman of Ultimate Evil.md",
-    "reference/items/Tome of Clear Thought.md",
-    "reference/items/Tome of Leadership and Influence.md",
-    "reference/items/Trident of Fish Command.md",
-    "reference/items/Tome of Understanding.md",
-    "reference/items/Universal Solvent.md",
-    "reference/items/Vicious Weapon.md",
-    "reference/items/Wand of Binding.md",
-    "reference/items/Vorpal Sword.md",
-    "reference/items/Wand of Fear.md",
-    "reference/items/Wand of Enemy Detection.md",
-    "reference/items/Wand of Lightning Bolts.md",
+    "Website/site/Guest as Granny.pdf",
+    "reference/items/Oil of Etherealness.md",
+    "reference/items/Oil of Sharpness.md",
+    "reference/items/Oil of Slipperiness.md",
+    "reference/items/Pearl of Power.md",
+    "reference/items/Periapt of Health.md",
+    "reference/items/Periapt of Proof against Poison.md",
+    "reference/items/Periapt of Wound Closure.md",
+    "reference/items/Philter of Love.md",
+    "reference/items/Pipes of Haunting.md",
+    "reference/items/Pipes of the Sewers.md",
+    "reference/items/Plate Armor of Etherealness.md",
+    "reference/items/Portable Hole.md",
+    "reference/items/Potion of Animal Friendship.md",
+    "reference/items/Potion of Clairvoyance.md",
+    "reference/items/Potion of Climbing.md",
+    "reference/items/Potion of Diminution.md",
+    "reference/items/Potion of Flying.md",
+    "reference/items/Potion of Gaseous Form.md",
+    "reference/items/Potion of Giant Strength.md",
+    "reference/items/Potion of Growth.md",
+    "reference/items/Potion of Healing.md",
+    "reference/items/Potion of Heroism.md",
+    "reference/items/Potion of Invisibility.md",
+    "reference/items/Potion of Mind Reading.md",
+    "reference/items/Potion of Poison.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
