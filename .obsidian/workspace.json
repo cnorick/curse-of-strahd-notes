@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Morgantha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Morgantha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "Characters/Morgantha.md"
               }
             }
           },
@@ -293,8 +293,9 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "6f05f985b5a698af",
+  "active": "cf38569fbb917bca",
   "lastOpenFiles": [
+    "Misc/Guest as Granny.md",
     "Misc/Peoples and Lore/Barovian Names.md",
     "Characters/Rictavio.md",
     "Characters/Morgantha.md",
@@ -338,7 +339,6 @@
     "Assets/Templates/Character.md",
     "Campaign Notes.md",
     "Characters/Amalthia.md",
-    "Characters/Arabelle.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Misc/Templates/Untitled.canvas",
