@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/spells/Move Earth.md",
+                "file": "reference/spells/Etherealness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/spells/Move Earth.md",
+                "file": "reference/spells/Etherealness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/spells/Move Earth.md"
+                "file": "reference/spells/Etherealness.md"
               }
             }
           },
@@ -274,7 +274,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Modify Memory.md",
+                    "file": "reference/spells/Etherealness.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -295,32 +295,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/spells/Nondetection.md",
-    "reference/spells/Moonbeam.md",
-    "reference/spells/Pass without Trace.md",
-    "reference/spells/Passwall.md",
-    "reference/spells/Planar Ally.md",
-    "reference/spells/Phantasmal Killer.md",
-    "reference/spells/Phantom Steed.md",
-    "reference/spells/Planar Binding.md",
-    "reference/spells/Plane Shift.md",
-    "reference/spells/Poison Spray.md",
-    "reference/spells/Plant Growth.md",
-    "reference/spells/Polymorph.md",
-    "reference/spells/Power Word Kill.md",
-    "reference/spells/Prayer of Healing.md",
-    "reference/spells/Prismatic Spray.md",
-    "reference/spells/Power Word Stun.md",
-    "reference/spells/Prestidigitation.md",
-    "reference/spells/Private Sanctum.md",
-    "reference/spells/Prismatic Wall.md",
-    "reference/spells/Produce Flame.md",
-    "reference/spells/Project Image.md",
-    "reference/spells/Protection from Poison.md",
-    "Locations/Old Bonegrinder (O).md",
-    "Misc/Peoples and Lore/Vallaki Lore.md",
-    "Locations/The Town of Vallaki (N).md",
-    "Characters/Rictavio.md",
+    "reference/spells/Expeditious Retreat.md",
+    "reference/spells/Eyebite.md",
+    "reference/spells/False Life.md",
+    "reference/spells/Faerie Fire.md",
+    "reference/spells/Feather Fall.md",
+    "reference/spells/Faithful Hound.md",
+    "reference/spells/Fear.md",
+    "reference/spells/Find the Path.md",
+    "reference/spells/Find Traps.md",
+    "reference/spells/Feeblemind.md",
+    "reference/spells/Find Steed.md",
+    "reference/spells/Finger of Death.md",
+    "reference/spells/Find Familiar.md",
+    "reference/spells/Fire Bolt.md",
+    "reference/spells/Flame Blade.md",
+    "reference/spells/Fire Storm.md",
+    "reference/spells/Fire Shield.md",
+    "reference/spells/Fireball.md",
+    "reference/spells/Flame Strike.md",
+    "reference/spells/Flaming Sphere.md",
+    "reference/spells/Flesh to Stone.md",
+    "reference/spells/Fly.md",
+    "reference/spells/Fog Cloud.md",
+    "reference/spells/Floating Disk.md",
+    "reference/spells/Foresight.md",
+    "reference/spells/Freedom of Movement.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
