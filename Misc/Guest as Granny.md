@@ -1,5 +1,6 @@
 ![[Assets/Images/People/granny.jpeg|200]]
 
+## Granny in Barovia
 Firstly, try to play Morgantha as the most loving, grandmotherly person in the whole wide world. She's kind to a fault and a shameless gossip (as many elder women can be as a stereotype).
 
 Morgantha introduces herself as Granny, If asked for her name, Morgantha replies honestly, but shows distaste for it. She says:
@@ -20,7 +21,7 @@ Don’t try to read the following verbatim, they are just talking points if thin
 
 *definitely share info about the tavern*.
 
-## Things Granny might share:
+### Things Granny might share:
 
 - __The Blood of The Vine Tavern__, in the center of town, is a good place to get a room and some wine, but the food is tasteless, their chef is a soulless hack who couldn’t boil a turnip if Mother Night herself were in the dining room.
 - If the players ask “where are we?” or something like that
@@ -37,6 +38,8 @@ Don’t try to read the following verbatim, they are just talking points if thin
 - Granny might ask male PCs why on earth they haven't settled down yet and asks the female PCs why they're so skinny. They should get some meat on their bones, for goodness sake!
 
 No matter what, Morgantha will gift the party with a pie to share for dinner. Yes, they normally cost 1gp, but she is confident that they’ll be back for more and she wouldn’t want such lovely people to have to choke down the gruel and shoe leather they serve at the tavern.
+
+----
 
 ## Granny at the Windmill
 **All of this is secret so** 🤫🤫🤫🤫🤫🤫
@@ -61,6 +64,8 @@ If the players are fighting before she arrives, I'll probably give it a few turn
 
 Then when she comes in, she may not immediately know what's going on. After a round or two, though, I can put you into battle and let you take her turn in combat if you'd like. Her character sheet is below, and I can help you out with it. The sisters have the same sheet.
 
-Also, once she
+Also, once she's threatened, she'll drop the disguise and take on her true form:
+![[Morgantha_Unmasked.webp]]
+
 
 ![[Morgantha#Stat Block]]
