@@ -11,6 +11,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 - He's a little racist against the [[Vistani]] as he assumes they're all in league with [[Strahd Von Zarovich|Strahd]]
 - If he gives the players [[The Tome of Strahd]], he warns them that they should keep it secret
 	- else [[Strahd Von Zarovich|Strahd]]'s spies will inform him, and he'll try to get it back
+- Thinks things through before rushing in
 
 ## History/Info
 - Originally a doctor
@@ -22,7 +23,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 	- trying to figure out the identities of all the wereravens in town
 - He's also trying to learn as much as he can about the [[Vistani]], particularly the ones living in the camp just outside town ([[The Town of Vallaki (N)#Vistani Camp (N9)]])
 	- Once he concludes that they are in league with [[Strahd Von Zarovich|Strahd]], plans to unleash his trained saber-toothed tiger upon them, with or without the support of the wereravens.
-
+- He came to Barovia to kill [[Strahd Von Zarovich]]
 
 ## What They Know
 [[Barovian Lore]]
