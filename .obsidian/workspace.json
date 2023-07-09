@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230709131814.jpg"
+                "file": "tome2.jpg"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230709131814.jpg",
+                "file": "tome2.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230709131814.jpg",
+                "file": "tome2.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230709131814.jpg"
+                "file": "tome2.jpg"
               }
             }
           },
@@ -256,8 +256,11 @@
   },
   "active": "3936199f6a861148",
   "lastOpenFiles": [
+    "Assets/Images/Monsters/berserker.jpg",
+    "tome2.jpg",
+    "Assets/Images/Items",
     "Handouts/Items/The Tome of Strahd.md",
-    "Pasted image 20230709131814.jpg",
+    "tome1.jpg",
     "Misc/Card Reading.md",
     "Locations/The Town of Vallaki (N).md",
     "Characters/Rictavio.md",
@@ -272,7 +275,6 @@
     "Website/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
     "Website/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
     "Website/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/map-blue-water-inn.jpg",
     "Website/site/assets/images/maps/vallaki-valley/blue-water-inn/dm-map-blue-water-inn.jpg",
     "Assets/Templates/Portrait.md",
@@ -295,12 +297,10 @@
     "Characters/Bluto Krogarov.md",
     "Characters/Cyrus Belview.md",
     "Website/site/assets/images/berserker.jpg",
-    "Assets/Images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Assets/Images/Places/Gates of Barovia.webp",
     "Assets/Images/Maps/barovia_tagged.jpg",
     "Website/site/assets/images/people/lydia.jpg",
-    "Website/site/assets/images/maps/vallaki-valley/krezk-shopping.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

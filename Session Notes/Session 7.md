@@ -21,7 +21,7 @@ The party set out early in the morning to make their way toward [[The Town of Va
 
 Along the road, the party is met with some wild looking people while [[Bardolf]] continues to sleep tied to [[Metarlos|Molly]]. Eventually, he's bucked awake by [[Metarlos|Molly]], and [[Ireena Kolyana|Ireena]] unties him. With the party at full strength, they're able to overpower the foes. Having taken damage, [[Pelanil]] spends the next hour healing and riding [[Metarlos|Molly]].
 
-![[berserker.jpg]]
+![[Assets/Images/Monsters/berserker.jpg]]
 
 The party pass through the [[River Ivlis Crossroads (F)|River Ivlis Crossroads]] again, make their way across the bridge spanning the river at [[Tser Falls (H)|Tser Falls]], travel through the western [[Gates of Barovia (B)|Gates of Barovia]],
 ![[Tser Falls Day.webp]] ![[Gates of Barovia.webp]]
