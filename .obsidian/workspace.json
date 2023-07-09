@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Peoples and Lore/Barovian Names.md",
+                "file": "Misc/Guest as Granny.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Misc/Guest as Granny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Morgantha.md",
+                "file": "Misc/Guest as Granny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Morgantha.md"
+                "file": "Misc/Guest as Granny.md"
               }
             }
           },
@@ -293,11 +293,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "cf38569fbb917bca",
+  "active": "6f05f985b5a698af",
   "lastOpenFiles": [
-    "Characters/Strahd Von Zarovich.md",
+    "Misc/Peoples and Lore/Barovian Names.md",
     "Characters/Rictavio.md",
     "Characters/Morgantha.md",
+    "Characters/Strahd Von Zarovich.md",
     "Custom Monsters/Night Hag (Spells Inlined).md",
     "Locations/The Town of Vallaki (N).md",
     "Assets/Images/People/Morgantha_Unmasked.webp",
@@ -338,7 +339,6 @@
     "Campaign Notes.md",
     "Characters/Amalthia.md",
     "Characters/Arabelle.md",
-    "Characters/Arik Lorensk.md",
     "Website/site/assets/images/berserker.jpg",
     "Website/site/assets/images/places/gates-of-barovia.webp",
     "Misc/Templates/Untitled.canvas",
