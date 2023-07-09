@@ -47,6 +47,7 @@ alias: Granny
 ```statblock
 extends: Night Hag with Inline Spells
 name: Night Hag
+actions:
 ```
 
 ```statblock
