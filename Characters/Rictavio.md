@@ -9,6 +9,7 @@ aliases: ['Rudolf van Richten', 'van Richten', 'Van Richten', 'Rudolf Van Richte
 - He is using multiple layers of fake identities:
 	- He's playing a spy who's playing a carnival ringmaster
 - He's a little racist against the [[Vistani]] as he assumes they're all in league with [[Strahd Von Zarovich|Strahd]]
+- If he gives the players [[The Tome of Strahd]],
 
 ## History/Info
 
