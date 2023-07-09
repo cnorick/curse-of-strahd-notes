@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Peoples and Lore/Vallaki Lore.md",
+                "file": "Locations/Old Bonegrinder (O).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "a525b03a69676905",
@@ -68,18 +69,6 @@
               "type": "markdown",
               "state": {
                 "file": "Characters/Rictavio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f05f985b5a698af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Guest as Granny.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +110,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "reference/spells/Move Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "reference/spells/Move Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "reference/spells/Move Earth.md"
               }
             }
           },
@@ -286,7 +274,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/spells/Wall of Ice.md",
+                    "file": "reference/spells/Modify Memory.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -296,8 +284,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1355,
-        "y": 106,
+        "x": 1369,
+        "y": 151,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -305,34 +293,34 @@
       }
     ]
   },
-  "active": "6f05f985b5a698af",
+  "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/Tiefling.md",
-    "reference/Time.md",
-    "reference/Trade Goods.md",
-    "reference/Treasure.md",
-    "reference/Underwater Combat.md",
-    "reference/Weapons.md",
-    "reference/Tools.md",
-    "reference/Warlock.md",
-    "reference/Wizard.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 5.md",
-    "Session Notes/Session 6.md",
-    "New Handouts.md",
-    "Session Prep/Session 0.md",
-    "Session Prep/Session 1.md",
-    "Session Prep/Session 3.md",
-    "Session Prep/Session 2.md",
-    "Session Prep/Session 4.md",
-    "Session Prep/Session 7.md",
-    "TODO.md",
-    "Ezmerelda d'Avenir.md",
-    "Misc/Guest as Granny.md",
+    "reference/spells/Nondetection.md",
+    "reference/spells/Moonbeam.md",
+    "reference/spells/Pass without Trace.md",
+    "reference/spells/Passwall.md",
+    "reference/spells/Planar Ally.md",
+    "reference/spells/Phantasmal Killer.md",
+    "reference/spells/Phantom Steed.md",
+    "reference/spells/Planar Binding.md",
+    "reference/spells/Plane Shift.md",
+    "reference/spells/Poison Spray.md",
+    "reference/spells/Plant Growth.md",
+    "reference/spells/Polymorph.md",
+    "reference/spells/Power Word Kill.md",
+    "reference/spells/Prayer of Healing.md",
+    "reference/spells/Prismatic Spray.md",
+    "reference/spells/Power Word Stun.md",
+    "reference/spells/Prestidigitation.md",
+    "reference/spells/Private Sanctum.md",
+    "reference/spells/Prismatic Wall.md",
+    "reference/spells/Produce Flame.md",
+    "reference/spells/Project Image.md",
+    "reference/spells/Protection from Poison.md",
+    "Locations/Old Bonegrinder (O).md",
+    "Misc/Peoples and Lore/Vallaki Lore.md",
+    "Locations/The Town of Vallaki (N).md",
+    "Characters/Rictavio.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
