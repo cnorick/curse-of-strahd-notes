@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reference/creatures/Death Dog.md",
+                "file": "reference/Armor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reference/creatures/Death Dog.md",
+                "file": "reference/Armor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reference/creatures/Death Dog.md"
+                "file": "reference/Armor.md"
               }
             }
           },
@@ -184,7 +184,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "reference/creatures/Deer.md",
+                    "file": "reference/Ability Checks.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -194,8 +194,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1321,
-        "y": 325,
+        "x": 1344,
+        "y": 266,
         "width": 600,
         "height": 300,
         "maximize": false,
@@ -205,32 +205,32 @@
   },
   "active": "01df775b904528be",
   "lastOpenFiles": [
-    "reference/creatures/Crocodile.md",
-    "reference/creatures/Dire Wolf.md",
-    "reference/creatures/Draft Horse.md",
-    "reference/creatures/Elephant.md",
-    "reference/creatures/Eagle.md",
-    "reference/creatures/Giant Ape.md",
-    "reference/creatures/Elk.md",
-    "reference/creatures/Flying Snake.md",
-    "reference/creatures/Frog.md",
-    "reference/creatures/Giant Boar.md",
-    "reference/creatures/Giant Badger.md",
-    "reference/creatures/Giant Bat.md",
-    "reference/creatures/Giant Constrictor Snake.md",
-    "reference/creatures/Giant Centipede.md",
-    "reference/creatures/Giant Crab.md",
-    "reference/creatures/Giant Crocodile.md",
-    "reference/creatures/Giant Eagle.md",
-    "reference/creatures/Giant Goat.md",
-    "reference/creatures/Giant Elk.md",
-    "reference/creatures/Giant Fire Beetle.md",
-    "reference/creatures/Giant Hyena.md",
-    "reference/creatures/Giant Frog.md",
-    "reference/creatures/Giant Poisonous Snake.md",
-    "reference/creatures/Giant Rat.md",
-    "reference/creatures/Giant Lizard.md",
-    "reference/creatures/Giant Octopus.md",
+    "reference/Actions in Combat.md",
+    "reference/Alignment.md",
+    "reference/Adventuring Gear.md",
+    "reference/Artifacts.md",
+    "reference/Backgrounds.md",
+    "reference/Bard.md",
+    "reference/Cantrips.md",
+    "reference/Barbarian.md",
+    "reference/Between Adventures.md",
+    "reference/Combat.md",
+    "reference/Casting a Spell.md",
+    "reference/Class Features.md",
+    "reference/creatures/Ape.md",
+    "reference/creatures/Awakened Shrub.md",
+    "reference/creatures/Baboon.md",
+    "reference/creatures/Awakened Tree.md",
+    "reference/creatures/Axe Beak.md",
+    "reference/creatures/Badger.md",
+    "reference/creatures/Bat.md",
+    "reference/creatures/Black Bear.md",
+    "reference/creatures/Blink Dog.md",
+    "reference/creatures/Blood Hawk.md",
+    "reference/creatures/Boar.md",
+    "reference/creatures/Brown Bear.md",
+    "reference/creatures/Camel.md",
+    "reference/creatures/Cat.md",
     "Assets/Images/People/Lucien.webp",
     "Assets/Images/People/Lucien.webp.crdownload",
     "Assets/Images/People/Morgantha_Unmasked.webp",
