@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
+                "file": "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
+                "file": "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
+                "file": "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md"
+                "file": "Handouts/Items/Holy Symbol of Ravenkind Handout.md"
               }
             }
           },
@@ -270,14 +270,14 @@
   },
   "active": "a612f7ea3581735f",
   "lastOpenFiles": [
+    "Handouts/Items/Tome of Strahd Handout.md",
+    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
+    "Misc/Campaign Items/The Tome of Strahd.md",
     "Characters/Vladimir Horngaard.md",
     "Misc/Card Reading.md",
-    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
     "Characters/Rictavio.md",
-    "Handouts/Items/Tome of Strahd Handout.md",
     "Handouts/Items/Holy Symbol of Ravenkind Handout.md",
     "Pasted image 20230709133603.jpg",
-    "Misc/Campaign Items/The Tome of Strahd.md",
     "Handouts/Letters/Tome of Strahd.md",
     "Misc/Campaign Items/Sunsword.md",
     "Handouts/Items/Potion of Healing.md",
