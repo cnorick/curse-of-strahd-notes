@@ -8,9 +8,9 @@ s3Path="s3://tater-cos-site"
 
 cloudFrontId="EO6PCDBX74WRI"
 
-# ./scripts/clean-notes.sh
+./scripts/clean-notes.sh
 
-# cp -r no-spoilers site/
+cp -r no-spoilers site/
 
 aws s3 sync site $s3Path $flags
 
