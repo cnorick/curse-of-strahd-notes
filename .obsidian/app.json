@@ -1,10 +1,10 @@
 {
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
-    "downscalePercent": 80
+    "margin": "1",
+    "downscalePercent": 75
   },
   "vimMode": true,
   "spellcheck": true,
