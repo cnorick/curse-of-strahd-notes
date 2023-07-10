@@ -14,7 +14,13 @@
 .statblock {
     margin: 0 auto;
     position: relative;
-    max-width: 80vw;
+}
+
+@media (max-width:724px) {
+    .statblock-plugin-parent 
+    .statblock {
+        max-width: 80vw;
+    }
 }
 
 .statblock-plugin-parent 
