@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Characters/Morgantha.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Custom Monsters/Morgantha Stat Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Guest as Granny.md",
+                "file": "Custom Monsters/Morgantha Stat Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Guest as Granny.md"
+                "file": "Custom Monsters/Morgantha Stat Block.md"
               }
             }
           },
@@ -178,11 +179,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "fe777606e1889830",
+  "active": "53b01e6027c753c9",
   "lastOpenFiles": [
-    "Custom Monsters/Morgantha Stat Block.md",
-    "Misc/Guest as Granny.md",
+    "Website/site/Morgantha Stat Block.pdf",
     "Characters/Morgantha.md",
+    "Misc/Guest as Granny.md",
+    "Custom Monsters/Morgantha Stat Block.md",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
@@ -215,7 +217,6 @@
     "Characters/Danika Dorakova.md",
     "Characters/Donavich.md",
     "Characters/Dhavit.md",
-    "Characters/Doru.md",
     "Website/site/assets/images/people/lucien.webp",
     "Website/site/assets/images/people/morgantha_unmasked.webp",
     "Website/site/assets/images/items/tome_of_strahd.webp",
