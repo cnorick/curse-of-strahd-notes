@@ -13,7 +13,8 @@
 .statblock-plugin-parent 
 .statblock {
     margin: 0 auto;
-    position: relative
+    position: relative;
+    max-width: 80vw;
 }
 
 .statblock-plugin-parent 
