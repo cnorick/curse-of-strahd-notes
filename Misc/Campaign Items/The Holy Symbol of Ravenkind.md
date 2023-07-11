@@ -7,7 +7,7 @@ aliases: ['Holy Symbol of Ravenkind', 'Symbol of Ravenkind']
 ## Handout
 _Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)_
 
-![[Pasted image 20230709133603.jpg]]
+![[holy symbol of ravenkind.jpg]]
 
 The Holy Symbol of Ravenkind is a unique holy symbol sacred to the good-hearted faithful of Barovia. It predates the establishment of any church in Barovia. According to legend, it was delivered to a paladin named Lugdana by a giant raven—or an angel in the form of a giant raven. Lugdana used the holy symbol to root out and destroy nests of vampires until her death. The high priests of Ravenloft kept and wore the holy symbol after Lugdana's passing.
 

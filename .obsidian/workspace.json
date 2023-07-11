@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230709133603.jpg"
+                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230709133603.jpg",
+                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20230709133603.jpg",
+                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230709133603.jpg"
+                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg"
               }
             }
           },
