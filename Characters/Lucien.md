@@ -1,7 +1,7 @@
 (NE human boy)
 ![[Lucien.webp|200]]
 ## Playing Lucien
-- A 10-year-old boy
+- A 12-year-old boy
 
 ## History/Info
 - kidnapped by [[Morgantha]] and her daughters

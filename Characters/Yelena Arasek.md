@@ -2,7 +2,7 @@
 aliases: [Yelena]
 ---
 (LG male human commoner)
-![[Arik the Barkeep V2.webp|200]]
+![[yelena-arasek.jpg|200]]
 ## Playing Yelena Arasek
 
 ## History/Info

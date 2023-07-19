@@ -2,7 +2,7 @@
 aliases: [Gunther]
 ---
 (LG male human commoner)
-![[Arik the Barkeep V2.webp|200]]
+![[gunther-arasek.jpg|200]]
 ## Playing Gunther Arasek
 
 ## History/Info

@@ -74,3 +74,12 @@ Death House Dungeon
 
 He is Ancient Chant
 ![he is ancient](https://www.youtube.com/watch?v=hrkvtDeH5sk)
+
+Mission Impossible
+![[Mission Impossible Theme (Full Theme) [XAYhNHhxN0A].m4a#loop]]
+
+Pink Panther
+![[The Pink Panther Theme [VyZiIuMufTA].m4a#loop]]
+
+Investigation Music
+![Dnd Investigation Music](https://www.youtube.com/watch?v=7wBzL62Va1k&t)

@@ -2,7 +2,7 @@
 aliases: [Ernst]
 ---
 (LE male human)
-![[Arik the Barkeep V2.webp|200]]
+![[ernst.jpg|200]]
 ## Playing Ernst Larnak
 
 ## History/Info

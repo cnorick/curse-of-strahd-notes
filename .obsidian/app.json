@@ -3,7 +3,7 @@
     "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "1",
+    "margin": "0",
     "downscalePercent": 73
   },
   "vimMode": true,

@@ -2,7 +2,7 @@
 aliases: []
 ---
 (N female human girl)
-![[Arik the Barkeep V2.webp|200]]
+![[arabelle.png|200]]
 ## Playing Arabelle
 
 ## History/Info

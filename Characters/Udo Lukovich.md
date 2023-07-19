@@ -2,10 +2,12 @@
 aliases: [Udo]
 ---
 (LN male human commoner)
-![[Arik the Barkeep V2.webp|200]]
+![[udo.jpg|200]]
 ## Playing Udo Lukovich
 
 ## History/Info
+- The local shoemaker
+- He's been imprisoned for speaking out against [[Vargas Vallakovich|The Baron]]
 
 ## What They Want
 
@@ -14,6 +16,7 @@ aliases: [Udo]
 [[Vallaki Lore]]
 
 ## Relations
+- Mother: [[Willemina Rikalova]]
 
 ## Stat Block
 

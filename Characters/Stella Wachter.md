@@ -2,7 +2,7 @@
 aliases: [Stella]
 ---
 (CG female human commoner)
-![[Arik the Barkeep V2.webp|200]]
+![[stella.jpg|200]]
 ## Playing Stella Wachter
 
 ## History/Info

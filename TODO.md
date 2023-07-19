@@ -1,0 +1,1 @@
+- When we get to [[The Town of Vallaki (N)|Vallaki]], [[Ireena Kolyana|Ireena]] goes to the [[Shopping in Barovia#Apothecary|Apothecary]] to pick up healer kits and and practice using them (since she already knows how to sew)

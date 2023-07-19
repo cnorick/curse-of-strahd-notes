@@ -2,8 +2,9 @@
 aliases: [Karl]
 ---
 (N male human noble)
-![[Arik the Barkeep V2.webp|200]]
+![[nikolai and karl.jpg|200]]
 ## Playing Karl Wachter
+- Goofball frat boy, always drunk and causing trouble with his brother
 
 ## History/Info
 

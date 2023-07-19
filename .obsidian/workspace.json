@@ -4,20 +4,87 @@
     "type": "split",
     "children": [
       {
-        "id": "a54befd0b0aaa896",
+        "id": "42b0348f8110649d",
         "type": "tabs",
         "children": [
           {
-            "id": "fe777606e1889830",
+            "id": "129db03be5ad7c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Prep/Session 10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9302d7de797054fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Town of Vallaki (N).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8d6de0a69e3ab8d",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg"
+                "file": "Assets/Images/Maps/Vallaki Valley/DM Map - Vallaki.jpg"
+              }
+            }
+          },
+          {
+            "id": "362d7c7b1de4af67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Shopping in Barovia.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "a3d405669512b969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d301e463b88d6bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Stella Wachter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01f095ff7f26a07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Gadof Blinsky.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg",
+                "file": "Session Prep/Session 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg",
+                "file": "Session Prep/Session 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Items/holy symbol of ravenkind.jpg"
+                "file": "Session Prep/Session 10.md"
               }
             }
           },
@@ -164,28 +231,26 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "3936199f6a861148",
+  "active": "129db03be5ad7c61",
   "lastOpenFiles": [
-    "Locations/Old Bonegrinder (O).md",
-    "Characters/Morgantha.md",
-    "Custom Monsters/Morgantha Stat Block.md",
-    "Website/site/Morgantha Stat Block.pdf",
-    "Misc/Guest as Granny.md",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-blinsky.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/wachterhaus-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vistani-camp-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/vallaki-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki",
-    "Website/no-spoilers/campaign-notes/handouts/maps/the-windmill-map.html",
     "Website/no-spoilers/campaign-notes/handouts/maps/the-blue-water-inn-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/old-vallaki-proclamation.html",
-    "Website/no-spoilers/campaign-notes/handouts/letters/new-vallaki-proclamation.html",
-    "Website/no-spoilers/campaign-notes/handouts/items/tome-of-strahd-handout.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
-    "Assets/Templates/Character.md",
-    "Assets/Templates/Handout.md",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/st-andral's-church.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/reformation-center-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/orphanage-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/coffin-maker's-shop-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/burgomaster's-mansion-map.html",
+    "Website/no-spoilers/campaign-notes/handouts/maps/vallaki/blue-water-inn-map.html",
+    "Website/site/assets/images/people/blinsky.webp",
     "Assets/Templates/Portrait.md",
-    "Campaign Notes.md",
-    "Characters/Alexei.md",
+    "Assets/Templates/Handout.md",
+    "Assets/Templates/Portrait from Character.md",
+    "Assets/Templates/Character.md",
     "Characters/Amalthia.md",
+    "Characters/Alexei.md",
     "Characters/Anakir.md",
     "Characters/Arabelle.md",
     "Characters/Arahja.md",
@@ -196,22 +261,24 @@
     "Characters/Beucephalus.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Bluto Krogarov.md",
-    "Characters/Bray Martikova.md",
     "Characters/Brom Martikova.md",
+    "Characters/Bray Martikova.md",
     "Characters/Cyrus Belview.md",
     "Characters/Danika Dorakova.md",
-    "Characters/Donavich.md",
     "Characters/Dhavit.md",
-    "Website/site/assets/images/people/lucien.webp",
-    "Website/site/assets/images/people/morgantha_unmasked.webp",
-    "Website/site/assets/images/items/tome_of_strahd.webp",
-    "Website/site/assets/images/items/tome2.jpg",
-    "Website/site/assets/images/items/tome1.jpg",
-    "Website/site/assets/images/items/strahd's-invitation.jpg",
-    "Website/site/pasted-image-20230709133603.jpg",
-    "Website/site/assets/images/monsters/berserker.jpg",
-    "Assets/Images/People/Lucien.webp",
-    "Assets/Images/People/Morgantha_Unmasked.webp",
+    "Characters/Donavich.md",
+    "Characters/Doru.md",
+    "Characters/Ezmerelda d'Avenir.md",
+    "Characters/Elizabeth Durst.md",
+    "Assets/Images/Maps/Vallaki Valley/DM Map - Vallaki.jpg",
+    "Assets/Images/People/Blinsky.webp",
+    "Website/site/assets/images/people/stella.jpg",
+    "Website/site/assets/images/people/ernst.jpg",
+    "Website/site/assets/images/people/gunther-arasek.jpg",
+    "Website/site/assets/images/people/fiona_wachter_29.webp",
+    "Website/site/assets/images/people/nikolai-and-karl.jpg",
+    "Website/site/assets/images/people/yelena-arasek.jpg",
+    "Website/site/assets/images/maps/vallaki-valley/reformation-center/reformation-center.jpeg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
