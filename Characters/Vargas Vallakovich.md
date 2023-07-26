@@ -11,6 +11,11 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 	- walks around with a constant, almost comically strained smile
 - He has a very brittle ego
 	- he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully
+- Keeps his two mastiffs with him everywhere he goes
+- The baron believes that everyone else is beneath him, and those who question his word or challenge his authority must be humbled
+
+- He won't pick a fight with well-armed strangers
+	- If he can't make the characters yield to his authority, he swallows his pride until he can circle around with [[Izek Strazni]] and assemble his guards.
 
 ## History/Info
 ### Origin Story

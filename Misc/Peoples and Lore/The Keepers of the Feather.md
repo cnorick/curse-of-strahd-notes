@@ -1,3 +1,3 @@
 ---
-alias: Keepers of the Feather
+aliases: [Keepers of the Feather, Keepers, The Order, Order]
 ---

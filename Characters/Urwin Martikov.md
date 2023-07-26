@@ -2,9 +2,13 @@
 aliases: [Urwin]
 ---
 (LG male wereraven)
-![[Arik the Barkeep V2.webp|200]]
+![[urwin.png|200]]
 
 ## Playing Urwin Martikov
+- Truly one of the only genuinely nice people in Barovia
+- He's quick to forgive literally anything
+	- He would stand up for [[Fiona Wachter|Lady Wachter]], [[Vargas Vallakovich|The Baron]], or even [[Strahd Von Zarovich|Strahd]]
+- He's quick to aid those in need
 
 ## History/Info
 
@@ -16,7 +20,7 @@ aliases: [Urwin]
 
 ## Relations
 - wife: [[Danika Dorakova]]
-- sons: [[Brom Martikova]], [[Bray Martikova]]
+- sons: [[Brom Martikova]], [[Bray Martikov]]
 - member of: [[The Keepers of the Feather]]
 
 ## Stat Block

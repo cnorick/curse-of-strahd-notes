@@ -1,8 +1,8 @@
 - [ ] The Blue Water Inn [[area N2]] offers food, wine, and shelter to visitors
 	- [ ] A stranger with pointed ears is staying there
 	- [ ] He came to Barovia from a distant land, riding into town on a carnival wagon
-- [ ] The burgomaster, [[Vargas Vallakovich|Baron Vargas Vallakovich]], has decreed that the [[Festival of the Blazing Sun]] will be held in the town square ([[area N8]]) in three days
-	- [ ] The previous festival, which he called the [[Wolf's Head Jamboree]], was less than a week ago
+- [x] The burgomaster, [[Vargas Vallakovich|Baron Vargas Vallakovich]], has decreed that the [[Festival of the Blazing Sun]] will be held in the town square ([[area N8]]) in three days
+	- [x] The previous festival, which he called the [[Wolf's Head Jamboree]], was less than a week ago
 - [ ] [[Vallaki]] has endured at least one festival every week for the past several years
 	- [ ] Some Vallakians believe that the festivals keep the devil [[Strahd]] at bay
 	- [ ] Others think they provide no protection or benefit whatsoever
@@ -35,3 +35,5 @@
 	- [ ] Legend has it that a dragon died there long, long ago
 - [ ] South of town is a village that has been abandoned for decades
 	- [ ] Its burgomaster committed some terrible offense and incurred the wrath of [[Strahd Von Zarovich|Strahd]]
+- [ ] It is rumored that [[Vargas Vallakovich|The Baron]] will occasionally personally punish certain prisoners in his own home
+	- [ ] Most believe these to be untrue stories spread by evil dissenters

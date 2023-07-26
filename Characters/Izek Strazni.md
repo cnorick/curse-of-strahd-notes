@@ -2,7 +2,7 @@
 alias: Izek
 ---
 (NE human)
-![[Arik the Barkeep V2.webp|200]]
+![[izek.webp|200]]
 ## Playing Izek Strazni
 - murderous and deformed
 

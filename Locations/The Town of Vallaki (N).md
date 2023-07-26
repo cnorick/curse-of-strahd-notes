@@ -184,7 +184,7 @@ The theft of the bones has left the church vulnerable to attack by [[Strahd Von 
 	- because of their sister, [[Stella Wachter|Stella]]'s condition
 
 ##### Staying the Night
-- [[Danika Dorakova|Danika]] has [[Brom Martikova|Brom]] and [[Bray Martikova|Bray]] lead the party to their room
+- [[Danika Dorakova|Danika]] has [[Brom Martikova|Brom]] and [[Bray Martikov|Bray]] lead the party to their room
 	- Role play them to be really sweet and show the kind nature of the family
 - [[Danika Dorakova|Danika]] will charge for the stay, but if they see [[Urwin Martikov|Urwin]] first, he'll offer them a room for free
 
@@ -201,7 +201,7 @@ The theft of the bones has left the church vulnerable to attack by [[Strahd Von 
 - He knows basically everything going on in town (spy), and he'll tell the party most of it (but not all)
 
 #### Well (N2a)
-A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
+>A 3-foot-high stone rim surrounds the mouth of this 40-foot-deep, moss-lined well. The inn draws fresh water from this well.
 
 #### Outside Staircase (N2b)
 A wooden staircase hugs the outer wall of the inn and leads up to guest quarters on the upper floor (areas N2l and N2m). The sturdy wooden door at the top of the stairs can be barred from the inside.
@@ -212,7 +212,7 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 >	The place is lively and homey, filled with the smells of homemade meals and cheery laughter
 
 - [[Danika Dorakova]] usually tends bar while [[Urwin Martikov]] busies himself in the kitchen
-	- [[Brom Martikova|Brom]] and [[Bray Martikova|Bray]] scamper about
+	- [[Brom Martikova|Brom]] and [[Bray Martikov|Bray]] scamper about
 - Between dawn and noon, there are no patrons here, and the Martikovs are upstairs in their bedrooms (areas N2o and N2p) or in the attic (area N2q).
 	- From noon to dusk, the taproom holds 2d4 local patrons
 	- Between dusk and midnight, 2d8 Vallakians are here
@@ -342,7 +342,7 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 #### Boys' Bedroom (N2o)
 >A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
 
-- [[Brom Martikova|Brom]] and [[Bray Martikova]] don't spend much time in this room
+- [[Brom Martikova|Brom]] and [[Bray Martikov]] don't spend much time in this room
 - The toy box contains a pile of neglected toys, many of them etched with the slogan "Is No Fun, Is No Blinsky!" The toys include the following:
 	- A miniature puppet theater with appropriately sized marionettes of a king, a queen, a prince, a princess, an executioner, a tax collector, a dunce, a vampire, and a vampire hunter
 	- A garish toy Vistani wagon hitched to a wooden horse and filled with tiny wooden Vistani figures
@@ -374,7 +374,200 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 
 
 ### Burgomaster's Mansion (N3)
-in [[Izek Strazni|Izek]]'s room: "You open the door to a rather Spartan bedroom. There's the bed a chest of drawers and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
+>This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors.
+
+- People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area N3a) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
+- If the characters knock on the front doors, a maid ([[Kresimira]]) (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
+
+#### N3a. Entrance Hall and Vestibule
+>Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
+
+- The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun).
+- The stairs climb to the upstairs gallery (area N3i).
+- The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike.
+- Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+
+#### N3b. Parlor
+- This parlor contains a fine array of furnishings and draperies, with an overall feminine touch.
+- The baroness sometimes entertains guests here.
+
+#### N3c. Dining Room
+- Characters can hear the chatter of female voices as they approach this room. The first time they peer inside, read:
+
+>A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
+
+- The women seated at the table are eight Vallakian peasants (LG female commoners) invited to spend time with the baroness, Lydia Petrovna, who is bribing them with tea and cake. Lydia has assigned these women the task of stitching children's costumes and weaving together a wicker sun for the Festival of the Blazing Sun.
+- Lydia assumes that the characters are here at the invitation of her husband, the burgomaster. She calls for the maid to take them to the den (area N3e) and then to inform Baron Vallakovich (see area N2l) that his guests have arrived.
+- A serving table stands in one corner of the dining hall.
+
+#### N3d. Preparation Room
+>White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
+
+- The beets and turnips are for the Festival of the Blazing Sun
+- **Treasure.** The silverware set is worth 150 gp.
+
+#### N3e. Den
+- Characters who ask to see the burgomaster are brought here.
+>Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
+
+- The mounted bear's head is meant to unnerve visitors.
+	- It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library (area N3l).
+	- Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich (area N2).
+
+#### N3f. Servants' Quarters
+>This room contains four simple beds and an equal number of plain wooden trunks.
+
+- The household staff consists of a maid (LG female human commoner) and a cook (LG male human commoner): [[Velimir]] (cook), [[Kresimira]] (maid)
+- The other two beds belonged to the butler ([[Bratomil]]) and the baroness's lady-in-waiting ([[Faina Janek]], both of whom have gone missing (see area N3t).
+- The trunks contain the staff's clothing and uniforms.
+
+#### N3g. Kitchen
+>A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
+
+- [[Velimir]]
+- The staircase leads to the upstairs gallery (area N3i).
+- A door in the west wall leads to a garden outside.
+	- The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
+
+#### N3h. Pantry
+>This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
+
+- The pantry has not been fully stocked for as long as anyone can remember
+- The two barrels contain a fine wine called Red Dragon Crush, created by the Wizard of Wines winery—facts burned into the side of each barrel.
+
+#### N3i. Upstairs Gallery
+If the characters arrive here from the entrance hall (area N3a), read:
+
+>The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
+
+If the characters arrive here from the kitchen (area N3g), read:
+
+>The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
+
+#### N3j. Izek's Bedroom
+- The door to this room is unlocked
+
+- Have [[Elora]] enter first if possible
+>You open the door to a rather Spartan bedroom. There's the bed, a chest of drawers, and some shelves. Or rather, it would be sparse if it weren't filled with hundreds of handmade dolls. And they all... look... just like... YOU."
+
+>Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest.
+
+- [[Izek Strazni]], sleeps here at night. During the day, he is in town taking care of his master's business. 
+- Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.
+- A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, Purple Grapemash No. 3.
+
+- **Izek's Doll Collection.** Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is No Blinsky!"
+	- Izek had the local toymaker, Gadof Blinsky (area N7), craft the dolls in [[Elora]]'s likeness.
+
+#### N3k. Victor's Bedroom
+>This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
+
+- Nothing about his bedroom betrays Victor's deviant nature or magical proclivities.
+- The books include collections of Barovian fables and tomes about mythology, heraldry, and other innocuous subjects.
+
+#### N3l. Library
+>Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.
+
+>A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
+
+- If the burgomaster has not been drawn elsewhere, he is here. Add:
+
+>Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
+
+- A paranoid man, he wears his breastplate and rapier even while relaxing in his library.
+- Two of his servants, the butler ([[Bratomil]] and his wife's [[Faina Janek|lady-in-waiting]], have vanished without a trace in the past week, so he has good cause to be worried.
+
+- The baron's desk contains three drawers stuffed with blank sheets of parchment, jars of ink, and writing quills.
+	- It also holds thick books of tax records dating back to the times of the baron's father, grandfather, and great-grandfather.
+
+- The baron wears a signet ring and carries three keys: one that unlocks the outside door in area N3g, and two keys for the door and the manacles in area N3m.
+
+- **Treasure.** The Vallakovich book collection contains old, leather-bound tomes on virtually every subject. 
+	- Use the [[Random Book Table]] (see chapter 4, area K37) to determine the subject matter of a particular book.
+
+#### N3m. Locked Closet
+- The door to this room is locked. The baron carries the key.
+>This door is locked with deadbolt and a large iron padlock that attaches the door soundly to the wall from the outside.
+
+>Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
+
+- The man is a Vallakian shoemaker named [[Udo Lukovich]] (LN male human commoner). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
+- [[Baron Vallakovich]] has the key to Udo's manacles. The manacles break if they take 10 damage or more from a single weapon attack.
+- If the characters release [[Udo Lukovich|Udo]], his first desire is to return to his home.
+	- Later, he plans to tell [[Father Lucian Petrovich|Father Lucian]] (see area N1) of his ill treatment in the burgomaster's estate.
+	- If the baron discovers that Udo has escaped or been set free, he sends [[Izek Strazni|Izek]] to find the shoemaker and bring him back for further questioning
+	- Under great duress, Udo provides the names or descriptions of those who liberated him, turning the burgomaster against the characters.
+
+#### N3n. Master Bedroom Closet
+>Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
+
+#### N3o. Master Bedroom
+>Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
+
+- The baron and the baroness sleep in one bed at night. Nothing of value is kept here.
+- The trapdoor in the ceiling can be pulled down to reveal an attic room (area N3r)
+	- An unfolding wooden ladder allows easy access.
+
+#### N3p. Bridal Gown and Spirit Mirror
+>This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
+
+- [[Lydia Petrovna|The Baroness]] used to while away long hours in this room, fondling her perfume collection and searching for solace in her own reflection
+- Since her [[Faina Janek|lady-in-waiting]] went missing several days ago, the baroness has spent almost no time here.
+
+- **Bridal Gown.** The white gown stored here belongs to the baroness. It reminds the her of happier times.
+
+#### N3q. Bathroom
+>An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
+
+#### N3r. Attic Room
+- Characters are most likely to enter this room via a trapdoor in the ceiling of the master bedroom (area N3o).
+
+>This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
+
+- A door in the south wall can be pulled open to area N3s.
+
+#### N3s. Attic Storage
+>This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
+
+- Characters can follow a single set of human footprints in the dust that lead to area N3t.
+- Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
+
+#### N3t. Victor's Workroom
+- [[Victor Vallakovich|Victor]] spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:
+
+>Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
+
+- Anyone who inspects the carving and succeeds on a DC 14 Intelligence (Investigation) check notices a small, nearly invisible glyph etched into the skull's forehead.
+- This is a glyph of warding (5d8 lightning damage) that triggers if anyone other than Victor opens the door.
+
+- The voice belongs to [[Victor Vallakovich|Victor]]. He is reading aloud from his spellbook.
+	- Anyone who listens at the door and succeeds on a DC 14 Intelligence (Arcana) check can tell he's badly pronouncing some kind of teleportation spell.
+
+- If the characters open the door, read:
+>Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
+
+- If the characters trigger the glyph of warding or otherwise announce their arrival, [[Victor Vallakovich|Victor]] casts a greater invisibility spell on himself and hides in a corner
+	- Otherwise, he's visible
+
+- If the characters can see Victor, read:
+>In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
+
+- For practice and for fun, Victor dug up some old cat bones behind the Wachter estate (see area N4) and animated them, creating six [[Cat]] skeletons (use the cat stat block, but give them darkvision out to a range of 60 feet and immunity to poison damage, exhaustion, and the poisoned condition). The skeletons attack only when Victor commands them to.
+- The "children" standing in the corner are painted wooden dolls dressed in clothing that Victor wore as a child. He pretends they are his disobedient pupils.
+- The sheets of parchment are covered with elaborate diagrams of teleportation circles. Victor drew them in an effort to learn the teleportation circle spell, which he's still trying to master (see "Teleportation Circle" below).
+- The trunk contains several bolts of silk cloth, needles and thread, and a half-finished wizard's robe. Victor started to make the robe for himself but found the work tedious and stopped.
+
+- **Teleportation Circle.** Victor's spellbook contains incomplete text for a [[Teleportation Circle]] spell, along with the sigil sequences of three permanent teleportation circles, the locations of which aren't described. There's not enough text to prepare the spell properly, but that hasn't stopped Victor from trying to learn to cast it.
+- Victor recently inscribed his own version of a teleportation circle on the floor
+	- It's hidden under the rug so that his parents don't find it.
+	- In the past couple of weeks, Victor has managed to imbue the circle with magic, but he failed to account for several factors. His circle doesn't fade after use, nor does it function like the teleportation circle spell.
+	- If the circle is used in the casting of a teleportation circle spell, whether the actual spell or Victor's version of it, any creature standing on the circle when the spell is cast takes 3d10 force damage and isn't teleported anywhere.
+		- If this damage reduces the creature to 0 hit points, the creature is disintegrated.
+	- Any character who studies the circle and succeeds on a DC 15 Intelligence (Arcana) check realizes that Victor's circle is horribly flawed and potentially deadly when used.
+- Victor has tested his circle on two reluctant servants ([[Bratomil]] and [[Faina Janek|Faina]]) (compelled by his suggestion spell), in both cases linking his circle to one of the other circles whose sigils are in his spellbook.
+	- Each servant was torn apart before Victor's eyes before vanishing in a flash of purple light. Victor doesn't know how to fix the circle but plans to make more modifications to it before testing it again.
+
+- **Treasure.** Victor's spellbook contains all the spells Victor has prepared (see the mage stat block in the Monster Manual) as well as the following spells: acid splash, animate dead, blight, cloudkill, darkvision, glyph of warding, levitate, mending, remove curse, and thunderwave.
 
 ### Wachterhaus (N4)
 >This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.
@@ -598,6 +791,77 @@ If the tiger is released, it begins stalking through the streets until its keen 
 **Fortunes of Ravenloft** If your card reading reveals that a treasure is here, it is hidden with the other items under the front seat of the wagon, in a lead-lined box.
 
 ### Coffin Maker's Shop (N6)
+>This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.
+
+-  [[Strahd Von Zarovich|Vasili]] ([[Strahd Von Zarovich|Strahd]]) visited here several months ago and left vampire spawn upstairs
+- Every window of [[Henrik van der Voort|Henrik]]'s shop is a latticework of iron fitted with squares of frosted glass and locked from the inside.
+- The outside doors of the shop are barred shut from within.
+	- If the characters knock on one of them, Henrik shouts, "We're closed! Go away!" without opening the door.
+	- If the characters accuse Henrik of stealing the bones of St. Andral, he shouts again, "Go away! Leave me alone!"
+
+- If the characters break into the store, Henrik offers no resistance
+	- he tells them to get out, but doesn't threaten guards (he doesn't want them to see the vamps)
+- denies any knowledge of the bones
+	- "I don't know what you're talking about" is said a lot
+	- Decent Insight would tell the players he's lying, but he doesn't relent
+- He reveals the bones are upstairs if threatened with violence or tattling
+	- He doesn't say where, and he **doesn't mention the vampire spawn**
+	- He also doesn't give any motives
+- He digs his heels in and refuses to go upstairs
+	- He never says why
+
+
+#### N6a. Coffin Storage
+>Arranged haphazardly about the floor of this musty, L-shaped room are thirteen wooden coffins.
+
+- Henrik stores and displays the coffins he has made in this room
+	- All of them are empty.
+- The door to this staircase has a [[Glyph of Warding]] with a [[Clairvoyance]] spell attached
+	- if anyone besides [[Henrik van der Voort|Henrik]] or [[Strahd Von Zarovich|Strahd]] open the door, [[Strahd Von Zarovich|Strahd]] can see what's going on
+	- DC 18 Investigation can find the glyph (Strahd's Spell save is 18)
+	- When this door is open, [[Strahd Von Zarovich|Strahd]] is on his way!!
+- When the characters open the door:
+
+>As you open the door, a sudden draft chills your spines, and it leaves you with a very uncomfortable feeling. You feel that you're being watched.
+
+#### N6b. Junk Room
+>A table with four chairs is in one corner of this room, with a lantern hanging from a chain directly above. Two well-made cabinets stand against the east wall. Up against the wall, you see a bedroll.
+
+- The cabinets are packed with worthless items that Henrik has collected over the years.
+- [[Henrik van der Voort|Henrik]] has been using the bedroll because he's afraid to go upstairs for the last several months because of the vampire spawn
+
+#### N6c. Workshop
+>This workshop contains everything a carpenter needs to make coffins and furniture. Three sturdy worktables stretch the length of the west wall.
+
+- Henrik builds coffins and keeps his carpenter's tools in this room.
+
+#### N6d. Kitchen
+>This kitchen contains a square table surrounded by chairs and shelves of provisions.
+
+- Henrik prepares his meals here.
+
+#### N6e. Henrik's Bedroom
+>This modest bedchamber holds a cot and several well-made pieces of furniture, including a table, a padded chair, a bookshelf, and a wardrobe.
+
+- Henrik used to sleep here, at night and well into the morning
+	- Investigation reveals this bed hasn't been used in months
+- The bookshelf contains a handful of storybooks and carpenters' manuals that have been handed down from previous generations.
+
+- **Treasure.** The wardrobe in the southeast corner has a secret compartment in its base, requiring a successful DC 15 Wisdom (Perception) check to find.
+	- Inside the compartment are two sacks—a large one containing the bones of St. Andral and a small one containing 30 sp and 12 ep. All of the coins bear the profiled visage of Strahd von Zarovich.
+
+- if the bones are taken, the Vampire spawn next door wake up, and start making their way into the town to raise hell
+	- at least one of them will try to take the bones
+		- this may be a strength vs str or dex contest
+
+#### N6f. Vampire Nest
+>This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked "JUNK."
+
+- The two southernmost crates contain old junk that Henrik has accumulated over the years
+- The six crates in the northern part of the room are packed with earth and serve as resting places for the six vampire spawn that lair here
+	- If the characters open one of the occupied crates, all of the vampire spawn burst forth and attack
+
+- **Teleport Destination.** Characters who teleport to this location from area K78 in [[Castle Ravenloft (K)|Castle Ravenloft]] arrive at the point marked T on the map.
 
 ### Blinsky Toys (N7)
 >This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
@@ -720,6 +984,8 @@ When he meets new customers, Blinsky recites a well-rehearsed greeting:
 
 ## Events
 ### Festival of the Blazing Sun
+### The Feast of St Andral
+- After either getting the bones back, or [[Strahd Von Zarovich|Strahd]] destroying them, then play the Vallaki is Burning mini game
 
 ## Maps
 N1: [[#St Andral's Church (N1)]]
@@ -734,7 +1000,10 @@ N9: [[#Vistani Camp (N9)]]
 
 ![[DM Map - Vallaki.jpg]]
 ![[DM Map - Blue Water Inn.jpg]]
-
+![[DM Map - Burgomaster's Mansion.jpg]]
+![[DM Map - Coffin Maker's Shop.jpg]]
+![[DM Map - Vistani Camp.jpg]]
+![[DM Map - Wachterhaus.jpg]]
 ## Statblocks
 ```statblock
 extends: Guard
@@ -777,6 +1046,9 @@ traits:
   - name: Vistani Hunter
     desc: Ithas been trained to hunt evil Vistani. The tiger recognizes Vistani by smell and, to a lesser extent, by the fancy garb they wear.
 cr: 3
+```
+```statblock
+monster: Vampire Spawn
 ```
 
 ```dataviewjs
