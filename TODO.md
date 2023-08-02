@@ -1,1 +1,1 @@
-- When we get to [[The Town of Vallaki (N)|Vallaki]], [[Ireena Kolyana|Ireena]] goes to the [[Shopping in Barovia#Apothecary|Apothecary]] to pick up healer kits and and practice using them (since she already knows how to sew)
+- After finishing the orphanage, have one of the children ask the party to replace a doll that the demon destroyed. That will give the party a reason to go to the toymaker's shop, and Blinsky will realize that he's been making dolls that look like Elora.

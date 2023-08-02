@@ -116,7 +116,7 @@ Guard names: [[Valentin Ulrich]] and [[Alana Ivanova]]
 ### St Andral's Church (N1)
 >This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
 
-#### Book
+#### From Book
 This church is dedicated to the [[The Morninglord|Morninglord]] and named after [[St. Andral]], whose bones once rested under the altar (see the "Bones of St. Andral" section).
 
 [[Father Lucian Petrovich]] oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named [[Yeska]]. A brawny lad with a perpetually furrowed brow named [[Milivoj]] (see below) tends the grounds and digs graves.
@@ -163,8 +163,8 @@ The theft of the bones has left the church vulnerable to attack by [[Strahd Von 
 - Try to keep the wereravens a secret for as long as possible
 
 ##### Rumors
-- [ ] One of the Inn's best patrons and the town drunk, Bluto, hasn't been seen for a couple days. He's often found uselessly fishing on Lake Zarovich, north of town.
-- [ ] There's a shortage of wine. Danika and Urwin have family at the Winery, but due to a past falling out, they haven't spoken in years. Urwin is worried about the Winery but has yet to set aside his pride to send a word as of yet. The last shipment was due a week ago.
+- [x] One of the Inn's best patrons and the town drunk, Bluto, hasn't been seen for a couple days. He's often found uselessly fishing on Lake Zarovich, north of town.
+- [x] There's a shortage of wine. Danika and Urwin have family at the Winery, but due to a past falling out, they haven't spoken in years. Urwin is worried about the Winery but has yet to set aside his pride to send a word as of yet. The last shipment was due a week ago.
 
 ##### [[Danika Dorakova|Danika]] is at the bar
 - She is excited over the arrival of new people
