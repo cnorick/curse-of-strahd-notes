@@ -2,6 +2,7 @@
 ![[Lucien.webp|200]]
 ## Playing Lucien
 - A 12-year-old boy
+- Died at the orphanage at [[Felix]]'s hand
 
 ## History/Info
 - kidnapped by [[Morgantha]] and her daughters

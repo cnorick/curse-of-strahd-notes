@@ -26,6 +26,8 @@ alias: Izek
 - He'll do anything he can to protect her, including fleeing [[The Town of Vallaki (N)|Vallaki]] and leaving [[Vargas Vallakovich|The Burgomaster]]
 
 ## What They Want
+- to protect [[Elora]]
+- He will invite her back to the burgomaster's mansion to meet [[Vargas Vallakovich|The Baron]]
 
 ## What They Know
 [[Barovian Lore]]
@@ -36,7 +38,7 @@ alias: Izek
 ## Stat Block
 
 ```statblock
-monster:
+monster: Izek Strazni
 ```
 
 ```dataviewjs

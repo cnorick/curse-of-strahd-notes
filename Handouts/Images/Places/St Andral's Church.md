@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 
 ![[St Andral's Church.webp]]

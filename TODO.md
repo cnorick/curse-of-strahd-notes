@@ -1,1 +1,1 @@
-- After finishing the orphanage, have one of the children ask the party to replace a doll that the demon destroyed. That will give the party a reason to go to the toymaker's shop, and Blinsky will realize that he's been making dolls that look like Elora.
+- Fill out the interactions for the Burgomaster's mansion

@@ -14,8 +14,13 @@ aliases: []
 	- not educated and not many other prospects
 		- nobody else wants this job
 	- hardly ever seen without his shovel
+- Bones:
+	- [[Yeska]] told him about them
+	- He offered to steal them for the coffin shop owner, [[Henrik van der Voort]]
+		- in exchange for money to feed his younger siblings
 
 ## What They Want
+- Works to support his "younger siblings" at the orphanage
 - Milivoj rejects the burgomaster's proclamation that "All will be well!" and is frustrated that he can't protect his younger siblings/fellow orphans
 	- He wants to be free of Barovia's curse but sees no hope of escape
 

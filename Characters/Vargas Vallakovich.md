@@ -4,6 +4,9 @@ aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, 
 (NE male human noble)
 ![[Baron_Vargas_Vallakovich.jpg|200]]
 ## Playing Vargas Vallakovich
+- speech ticks
+	- "With it and everything, all will be well"
+- He's the obvious evil in town
 - ruthless heel
 	- prides himself on his good breeding and finely honed leadership skills
 - catchphrase: "All will be well!"

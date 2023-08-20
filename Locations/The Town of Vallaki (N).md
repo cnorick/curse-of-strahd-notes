@@ -379,6 +379,32 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area N3a) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way.
 - If the characters knock on the front doors, a maid ([[Kresimira]]) (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
 
+#### Interactions
+- When the party gets to the mansion, they should meet [[Lydia Petrovna|Lydia]] first to get an idea of the extent of [[Vargas Vallakovich|The Burgomaster]]'s brainwashing
+- The party is led to the parlor (N3b) to wait for [[Vargas Vallakovich|Vargas]]
+	- [[Lydia Petrovna|Lydia]] joins to entertain them
+		- She's should be disturbing to the party
+		- When [[Vargas Vallakovich|Vargas]] arrives, she only speaks when spoken to
+		- [[Vargas Vallakovich|Vargas]] does her talking; what she says is scripted
+- [[Vargas Vallakovich|Vargas]] eventually joins
+	- he's full of nervous ticks and weird speech patterns
+	- meets the PCs only out of necessity
+		- If [[Izek Strazni|Izek]] brings them, he pays closer attention
+	- be careful not to get on his bad side (he made the strict laws)
+		- if things go bad: first stocks, but if there is a scuffle, the consequences go up
+		- he will keep sending the guards after them if they somehow run: evil can't go unpunished
+
+- **Appealing to [[Vargas Vallakovich|Vargas]]**
+	- he elates in sharing his belief that his measures work as protection from the [[Strahd Von Zarovich|The Devil]]
+	- he gloats about the effectiveness of his festivals and his efforts to punish the unhappy
+	- he believes [[Fiona Wachter|Lady Wachter]] is a source of great evil
+		- she's brazenly stopped attending his festivals, claiming thin but acceptable excuses (caring for [[Stella Wachter|Stella]]
+		- he thinks she's not only a devil worshipper ([[Strahd Von Zarovich|Strahd]]), but a practitioner of dark magic
+			- and the cause behind the disappearance of his house staff
+		- he hasn't raided her home because of her upper class status
+		- so he's desperate for proof of her treachery
+			- the players would earn his complete trust if they aid him in taking her down
+
 #### N3a. Entrance Hall and Vestibule
 >Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
 
@@ -489,6 +515,7 @@ If the characters arrive here from the kitchen (area N3g), read:
 - The door to this room is locked. The baron carries the key.
 >This door is locked with deadbolt and a large iron padlock that attaches the door soundly to the wall from the outside.
 
+inside:
 >Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
 
 - The man is a Vallakian shoemaker named [[Udo Lukovich]] (LN male human commoner). He was arrested during the Wolf's Head Jamboree for carrying a sign that suggested that Vallakians should feed the baron to the wolves.
@@ -572,6 +599,29 @@ If the characters arrive here from the kitchen (area N3g), read:
 ### Wachterhaus (N4)
 >This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.
 
+#### Interactions
+- [[Fiona Wachter|Lady Wachter]] invites them to sit down for dinner, and her servants serve a decadent roast with all the fixings as well as plenty of wine
+- She'll ask what they're doing in town and try to get to know them first, but will eventually share the following:
+	- She's not happy with the rule of [[Vargas Vallakovich|The Baron]]:
+		- Vargas isn't the first terrible Burgomaster of the Vallakovich family. Each Burgomaster has been just as terrible, if not worse, in their rules. Don't the PCs feel such leadership should end with Vargas?
+		- Vargas and his captain, Izek Strazni, are brutes. Many believe only Izek is responsible for torturing prisoners, but Fiona knows that Vargas has his own mean streak. Perhaps that is why his wife, Lydia, is so delicate in nature...
+		- Fiona tried to do the diplomatic thing and consolidate an understanding with the Burgomaster by arranging the marriage between their children. However, she was unaware that Victor Vallakovich could be as cruel as his father at so young an age. Though Fiona doesn't know what exactly Victor did to make her daughter lose her mind, she knows it must have been horrible. It obviously and truthfully pains Fiona to relate Stella's condition to the party, but she'll do so to impress the corruption of the Burgomaster's family line.
+	- [[Strahd Von Zarovich|Strahd]] (if he comes up in conversation):
+		- Fiona is the only person in Vallaki who will call Strahd by name, directly against Vallaki's laws. She does this because she has no fear of him.
+		- Fiona sees no monster in the land but Vargas himself. Fiona believes that Vargas' fear of Strahd is only an excuse to get away with mistreating the people of Vallaki. She believes Vargas actively sows that fear to get the people to follow to him in a great conspiracy. This is false, however. Vargas actively believes the delusions he preaches and is in no way as manipulative as Fiona thinks.
+		- As in the raw text, Fiona refers to Strahd as simply a "negligent landlord."
+		- If the flow of conversation allows, Fiona will happily relate her meeting with Strahd when she was a teenager (detailed in [[Fiona Wachter|Fiona]]) She uses the story to prove how benign she believes Strahd to be.
+
+- At the end:
+	- if hostile: she'll thank them and send the party on their way
+	- if sympathetic: she'll tell them about the prophesy and that she believes their arrival means the start of a new age she'll ask for the following:
+		- She plans to overthrow [[Vargas Vallakovich|Vargas]] during the coming festival
+			- she would like the party's assistance
+		- She needs additional intel on Vargas and his foul practices
+			- She asks the party to go to the mansion to collect information (also maybe the reformation center) to use for the revolt
+			- She wants to know how [[Victor Vallakovich|Victor]] caused [[Stella Wachter|Stella]]'s condition
+			- She offers a place to stay
+	
 #### Book
 The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house's reigning governess, [[Fiona Wachter]], is a loyal servant of [[Strahd Von Zarovich|Strahd]]. She seeks to supplant [[Vargas Vallakovich|Baron Vargas Vallakovich]] as the town burgomaster.
 
