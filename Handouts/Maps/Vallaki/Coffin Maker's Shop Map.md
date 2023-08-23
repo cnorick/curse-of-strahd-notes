@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 
 ![[Map - Coffin Maker's Shop.jpg]]

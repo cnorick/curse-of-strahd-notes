@@ -5,6 +5,8 @@ alias: Izek
 ![[izek.webp|200]]
 ## Playing Izek Strazni
 - murderous and deformed
+- he has a reputation of being violent, but isn't actually
+	- he's scary looking, and only fights when he has to
 
 ## History/Info
 - In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square [[Area N8]]
@@ -34,6 +36,8 @@ alias: Izek
 [[Vallaki Lore]]
 
 ## Relations
+- sister: [[Elora]]
+- father figure: [[Vargas Vallakovich|Vargas]]
 
 ## Stat Block
 

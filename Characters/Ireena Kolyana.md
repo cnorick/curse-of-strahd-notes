@@ -98,7 +98,6 @@ alias: Ireena
 - Seeing the dining room (and rotted cake) in Ravenloft may trigger a flashbulb of herself in a wedding dress, with the room richly decorated, and the cake fresh.
 
 ## Secrets
-- She is the blood sister of [[Izek Strazni]], but neither of them know it
 
 ## Notes
 - [[If Players Die]], an option would be to let them play Ireena since she will follow the group most of the game

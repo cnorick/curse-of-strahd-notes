@@ -1,5 +1,5 @@
 ---
-aliases: [Ernst]
+aliases: [Ernst, Little Finger, 'Ernst "Little Finger" Larnak']
 ---
 (LE male human)
 ![[ernst.jpg|200]]

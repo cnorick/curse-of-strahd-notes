@@ -1,5 +1,15 @@
 ## Handouts
 
+## Session Notes
+```dataviewjs
+dv.list(dv.pages('"Session Notes"').sort().file.link)
+//dv.pages('"Session Notes"').forEach(p => {
+//	dv.header(2, p.file.name);
+//	const fullText = dv.fileLink(p.file.path, true);
+//	dv.paragraph(fullText);
+//})
+```
+
 ### People
 ```dataviewjs
 dv.list(dv.pages('"Handouts/Images/Portraits"').sort(k => k.file.name).filter(k => k.public).file.link)
@@ -27,13 +37,4 @@ dv.list(dv.pages('"Handouts/Misc"').sort(k => k.file.name).filter(k => k.public)
 ### Stat Blocks
 ```dataviewjs
 dv.list(dv.pages('"Handouts/Stat Blocks"').sort(k => k.file.name).filter(k => k.public).file.link)
-```
-## Session Notes
-```dataviewjs
-dv.list(dv.pages('"Session Notes"').sort().file.link)
-//dv.pages('"Session Notes"').forEach(p => {
-//	dv.header(2, p.file.name);
-//	const fullText = dv.fileLink(p.file.path, true);
-//	dv.paragraph(fullText);
-//})
 ```

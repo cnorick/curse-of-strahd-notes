@@ -1035,7 +1035,43 @@ When he meets new customers, Blinsky recites a well-rehearsed greeting:
 ## Events
 ### Festival of the Blazing Sun
 ### The Feast of St Andral
+- The vampires run across town toward the church with the bones, or will chase the party if they have them:
+	- say there are like 2 dozen of them
+- Leaving the coffin shop, [[Henrik van der Voort|Henrik]] is huddled in the corner (they may want to question him)
+- When running through town, screams of people can be heard all around
+	- as the vampires suck their blood
+	- the party may be drawn to help
 - After either getting the bones back, or [[Strahd Von Zarovich|Strahd]] destroying them, then play the Vallaki is Burning mini game
+
+#### Vampire NPCs
+- Eren - was once a young farm girl. Once she recovers from her bloodlust and is freed from the event, she flees Vallaki into the woods.
+- Vadu - was once a an uneducated peasant with abusive parents. He revels in his vampiric power and will do anything Strahd says.
+- Tereska - An honestly cruel individual who lives for the kill.
+- Ulrich - was a middle class young man who happened to catch Strahd's eye several decades ago. Once he recovers from his bloodlust and is freed of the event, he recognizes the monster he's become and looks for a way to die.
+- Nimira - Desperately seeks Strahd's approval and follows his orders and wishes religiously.
+- Rivia - Insane. She has no mind of her own and follows her most beastial instincts.
+- Liliana - Delusional and vain. She tries to murder any girl she thinks is prettier than she seduce/bite any man she finds exceptionally handsome. Ugly people are below her regard.
+
+
+#### Encounter with Strahd
+- **Location**:
+	- The church if the characters take the bones there, or chase the vampire spawn
+		- the characters enter alone: [[Strahd Von Zarovich|Strahd]] is there waiting at the altar
+		- the characters follow in behind the spawn and see them hand the bones to [[Strahd Von Zarovich|Strahd]]
+	- The streets if they spend too much time saving people
+		- he descends on [[Beucephalus]] where they are
+			- the spawn run up and hand him the bones
+- **Strahd is OP**
+	- if attacked, he bats them away like flies
+		- he has no intentions of killing, atm
+	- if he doesn't have the bones, he uses the most efficient way of getting them
+		- Vampire Charm, [[Suggestion]], or maybe one of the spawn retrieves them
+	- he monologues about [[St Andral]]
+	- he uses magical fire ([[Fireball]]) to incinerate the bones after he monologues
+	- The light fades and Strahd has closed the gap between him and (Ireena | the door)
+	- He gets to [[Ireena Kolyana|Ireena]] wherever she is, scoops her up on [[Beucephalus]] and is off
+
+
 
 ## Maps
 N1: [[#St Andral's Church (N1)]]

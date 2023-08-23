@@ -23,7 +23,7 @@ aliases: [Lady Fiona Wachter, Fiona, Lady Wachter]
 
 ## History/Info
 - **Disillusioned to the Vallakoviches' Rule**
-	- Grew up under [[Boris Vallakovich]]'s harsh rule, then saw [[Victor Vallakovich]] come to power to be just as bad
+	- Grew up under [[Boris Vallakovich]]'s harsh rule, then saw [[Vargas Vallakovich]] come to power to be just as bad
 		- They did their evil deeds and abused their power in the name of protection against [[Strahd Von Zarovich|Strahd]], but he was a distant non-threat in her eyes
 - **Made a pact with Strahd**
 	- At 15, her parents let her make a trip to [[Village of Barovia (E)|Barovia Village]] for political connections, but she took a detour to [[Castle Ravenloft (K)|Ravenloft]] to see what the big deal was
@@ -43,7 +43,7 @@ aliases: [Lady Fiona Wachter, Fiona, Lady Wachter]
 	- She does NOT consider it a cult
  
 ## What They Want
-- Once she meets the players, she'll be convinced they are the once mentioned in the prophecy
+- Once she meets the players, she'll be convinced they are the ones mentioned in the prophecy
 - To supplant [[Vargas Vallakovich|The Baron]] as Burgomaster
 
 ## What They Know
