@@ -2,6 +2,9 @@
 aliases: [Keepers of the Feather, Keepers, The Order, Order]
 ---
 
+- Secret society of wereravens that opposes [[Strahd Von Zarovich|Strahd]]
+- They have an extensive spy network and are able to keep tabs on [[Strahd Von Zarovich|Strahd]]'s minions
+
 ## When to Reveal the Secret
 - Try to save the secret of the wereravens for as long as possible in the campaign
 	- The Keepers of the Feather are a very secretive group and they won't trust someone willy nilly.
