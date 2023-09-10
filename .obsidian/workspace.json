@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c46423de92595bb",
+        "id": "82fde608d9c16073",
         "type": "tabs",
         "children": [
           {
-            "id": "d41336b3f835ba5a",
+            "id": "c7b4d4c9fbc86655",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "1e84fd6dfce1d0b9",
+            "id": "b6ae9cc3ae585f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42a1b56cb60a79e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Izek Strazni.md",
+                "file": "Session Prep/Session 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,73 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d4ca8984ab4a3d96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5ce5bd8c053974e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Town of Vallaki (N).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "612130892dc28443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Fiona Wachter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db9ab23801596edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Izek Strazni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c982ee48cffe3565",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Ireena Kolyana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b783277ff97442b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 14.md",
+                "file": "Session Prep/Session 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 14.md",
+                "file": "Session Prep/Session 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 14.md"
+                "file": "Session Prep/Session 16.md"
               }
             }
           },
@@ -257,54 +178,54 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "1e84fd6dfce1d0b9",
+  "active": "b6ae9cc3ae585f3a",
   "lastOpenFiles": [
-    "Website/no-spoilers/campaign-notes/handouts/images/places/blue-water-inn.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/barovia-church.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portraits-of-granny.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-yeska.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-urwin-martikov.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rose-and-thorne.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-parriwimple.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-gunther-arasek.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-father-lucian.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ernst-larnak.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-donavich.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-danika-martikov.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-blinsky.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-bildrath.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arik.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits",
+    "Website/site/assets/images/people/rahadin.webp",
+    "Website/site/assets/images/people/abbot.webp",
+    "Website/site/assets/images/people/mad-mage.png",
+    "Website/site/assets/images/people/bluto.webp",
+    "Assets/Templates/Portrait.md",
     "Assets/Templates/Character.md",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait from Character.md",
-    "Assets/Templates/Portrait.md",
-    "Campaign Notes.md",
-    "Characters/Alexei.md",
     "Characters/Amalthia.md",
     "Characters/Anakir.md",
-    "Characters/Arabelle.md",
+    "Characters/Alexei.md",
     "Characters/Arahja.md",
-    "Characters/Arik Lorensk.md",
     "Characters/Arrigal.md",
+    "Characters/Arabelle.md",
+    "Characters/Arik Lorensk.md",
     "Characters/Bardolf.md",
-    "Characters/Bella Sunbane.md",
     "Characters/Beucephalus.md",
+    "Characters/Bella Sunbane.md",
     "Characters/Bildrath Cantemir.md",
     "Characters/Bluto Krogarov.md",
     "Characters/Brom Martikova.md",
     "Characters/Bray Martikov.md",
-    "Characters/Danika Dorakova.md",
     "Characters/Dhavit.md",
+    "Characters/Danika Dorakova.md",
     "Characters/Cyrus Belview.md",
     "Characters/Donavich.md",
     "Characters/Doru.md",
     "Characters/Elizabeth Durst.md",
+    "Characters/Elora.md",
+    "Assets/Images/People/bluto.webp",
+    "Assets/Images/People/mad mage.png",
+    "Assets/Images/People/Rahadin.webp",
+    "Assets/Images/People/Abbot.webp",
     "Website/site/assets/images/people/vampire-spawn.png",
     "Assets/Images/People/vampire spawn.png",
-    "Website/site/website/site/assets/images/people/lucian_petrovich.webp",
-    "Assets/Images/Maps/Vallaki Valley/DM Map - Vallaki.jpg",
-    "Website/site/assets/images/maps/vallaki-valley/wachterhaus/dm-map-wachterhaus.jpg",
-    "Website/site/assets/images/maps/vallaki-valley/vistani-camp/dm-map-vistani-camp.jpg",
-    "Website/site/assets/images/maps/vallaki-valley/coffin-maker's-shop/dm-map-coffin-maker's-shop.jpg",
-    "Website/site/assets/images/maps/vallaki-valley/burgomaster's-mansion/dm-map-burgomaster's-mansion.jpg",
-    "Website/site/assets/images/people/izek.webp",
-    "Website/site/assets/images/people/victor_vallakovich.jpg",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

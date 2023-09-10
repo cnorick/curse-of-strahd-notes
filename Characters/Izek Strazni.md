@@ -10,7 +10,7 @@ alias: Izek
 
 ## History/Info
 - In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square [[Area N8]]
-- His family is descendent from some of the [[Death House]] cultists
+- His family is descendent from some of the [[Death House]] Dursts
 	- Because of the evil from death house, his family had a history of evil deformities
 - He was born as a partial [[Tiefling]] and has a demon arm
 	- His parents tried to hide it, but it was so bulky, the other kids bullied him

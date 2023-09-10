@@ -989,7 +989,7 @@ When he meets new customers, Blinsky recites a well-rehearsed greeting:
 	- If not minor: he will do what he must to follow the law and keep his sibling safe
 		- he's ok executing another party member that isn't his sibling
 	- If the sibling commits terrible crimes: he actively betrays Vallaki
-- **[[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light)**
+- **[[Fiona Wachter|Fiona]] gets wind of PCs from spies -> she believes one of them is her messiah ([[Pelanil]] since he is a Cleric who believes in the power of light) (actually [[Anakir]] since he was the first to find her)**
 	- She will go ahead and initiate her plan to overthrow [[Vargas Vallakovich|Burgomaster Vallakovich]] at the [[#Festival of the Blazing Sun]]
 	- She'll try to convince the party to join her side also by lamenting what a horrible leader [[Vargas Vallakovich|Vargas]] is
 - **PCs waylay the guards -> [[Izek Strazni|Izek]] retreats to [[#Burgomaster's Mansion (N3)|The Mansion]], and they get the run of the town**

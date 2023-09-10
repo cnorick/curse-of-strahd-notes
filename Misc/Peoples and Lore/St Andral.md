@@ -1,3 +1,7 @@
+---
+alias: Andral
+---
+
 ## Strahd's Monologue
 
 You fools. You poor witless sorry things. Andral? I knew Andral. These people call him protector, ‘saint’?  Laughable. Andral was neither of these things. Traitor, that is his legacy.

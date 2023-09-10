@@ -14,9 +14,15 @@ aliases: [Strahd, Count Strahd von Zarovich, Devil Strahd, Devil, The Devil, Vas
 	- and turn her into his vampire spawn consort
 
 ### Find [[Rictavio|Rudolf van Richten]]
-#todo 
+- Although he is usually focused on making [[Ireena Kolyana]] his bride, Strahd has been distracted by reports that a legendary vampire hunter named [[Rictavio|Rudolph van Richten]] has come to Barovia
+- It takes more than one old man with a death wish to frighten Strahd
+	- nevertheless, the vampire has his spies searching Barovia for [[Rictavio|van Richten]]
+- Strahd would like very much to meet the old vampire hunter, lock him in the dungeons of [[Castle Ravenloft (K)|Castle Ravenloft]], and slowly break his spirit
+
 ### Search for a Successor or Consort
-#todo 
+Strahd can sense the arrival of new blood in his domain. When newcomers enter Barovia, he shifts his attention from Ireena Kolyana and van Richten to his new guests so that he can determine whether any of them is worthy to be his successor or consort. (Eventually, he decides that none of them can replace him as master of Barovia, but he doesn't arrive at this conclusion immediately.)
+
+Strahd pays close attention to adventurers who are charismatic and arrogant, like himself. He focuses his attacks on them, to see how much they can withstand. If they crumble easily, he loses interest in them. If they exhibit great fortitude and defiance, his interest is piqued—even more so if the character displays uncommon knowledge or beauty. Such a person might not be worthy to succeed him, but the man or woman might provide amusement to Strahd as a new possession.
 
 ## History
 - Born in 306
