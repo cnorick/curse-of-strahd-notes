@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: false
+public: true
 ---
 
 ![[arabelle.png]]

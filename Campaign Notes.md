@@ -1,4 +1,5 @@
-## Handouts
+## Quests
+- [[Quests|List of Ongoing Quests]]
 
 ## Session Notes
 ```dataviewjs
@@ -9,6 +10,7 @@ dv.list(dv.pages('"Session Notes"').sort().file.link)
 //	dv.paragraph(fullText);
 //})
 ```
+## Handouts
 
 ### People
 ```dataviewjs

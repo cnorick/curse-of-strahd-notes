@@ -6,6 +6,7 @@
       {
         "id": "82fde608d9c16073",
         "type": "tabs",
+        "dimension": 41.628334866605336,
         "children": [
           {
             "id": "c7b4d4c9fbc86655",
@@ -20,7 +21,29 @@
             }
           },
           {
-            "id": "b6ae9cc3ae585f3a",
+            "id": "2edc3d3eb0b6f378",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/Maps/barovia_tagged.jpg"
+              }
+            }
+          },
+          {
+            "id": "09c5970a990c8f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Misc/Madam Eva's Card Reading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28637bb2ffa1371b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +56,50 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7310db20497c4ecf",
+        "type": "tabs",
+        "dimension": 58.37166513339467,
+        "children": [
+          {
+            "id": "85f5a0dc69699649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Argynvostholt (Q).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "548423fe091ecc68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Misc/Quests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e61af32fc316d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Prep/Session 17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "slavic ro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 342.5
   },
   "right": {
     "id": "4299b84c9233f17f",
@@ -106,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 16.md",
+                "file": "Assets/Images/Maps/barovia_tagged.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 16.md",
+                "file": "Assets/Images/Maps/barovia_tagged.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 16.md"
+                "file": "Assets/Images/Maps/barovia_tagged.jpg"
               }
             }
           },
@@ -178,54 +245,53 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "b6ae9cc3ae585f3a",
+  "active": "2edc3d3eb0b6f378",
   "lastOpenFiles": [
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-gunther-arasek.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-freek.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-father-lucian.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ernst-larnak.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-donavich.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-danika-martikov.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-blinsky.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-bildrath.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arik.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-arahja.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits",
-    "Website/site/assets/images/people/rahadin.webp",
-    "Website/site/assets/images/people/abbot.webp",
-    "Website/site/assets/images/people/mad-mage.png",
-    "Website/site/assets/images/people/bluto.webp",
-    "Assets/Templates/Portrait.md",
-    "Assets/Templates/Character.md",
-    "Assets/Templates/Handout.md",
-    "Assets/Templates/Portrait from Character.md",
-    "Characters/Amalthia.md",
-    "Characters/Anakir.md",
-    "Characters/Alexei.md",
-    "Characters/Arahja.md",
+    "Locations/The Town of Vallaki (N).md",
+    "Assets/Images/Maps/barovia_tagged.jpg",
+    "Handouts/Maps/Barovia Map.md",
+    "Session Prep/Session 17.md",
+    "Locations/Argynvostholt (Q).md",
+    "Handouts/Misc/Quests.md",
+    "Characters/Pidlwick II.md",
+    "Custom Monsters/Pidlwick Statblock.md",
+    "Custom Monsters/Child Wereraven.md",
+    "Characters/Kasimir Velikov.md",
+    "Custom Monsters/Dusk Elf Statblock.md",
     "Characters/Arrigal.md",
-    "Characters/Arabelle.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Bardolf.md",
-    "Characters/Beucephalus.md",
-    "Characters/Bella Sunbane.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bluto Krogarov.md",
-    "Characters/Brom Martikova.md",
-    "Characters/Bray Martikov.md",
-    "Characters/Dhavit.md",
-    "Characters/Danika Dorakova.md",
-    "Characters/Cyrus Belview.md",
-    "Characters/Donavich.md",
-    "Characters/Doru.md",
-    "Characters/Elizabeth Durst.md",
-    "Characters/Elora.md",
-    "Assets/Images/People/bluto.webp",
-    "Assets/Images/People/mad mage.png",
-    "Assets/Images/People/Rahadin.webp",
-    "Assets/Images/People/Abbot.webp",
-    "Website/site/assets/images/people/vampire-spawn.png",
-    "Assets/Images/People/vampire spawn.png",
+    "Handouts/Images/Portraits/Portrait of Kasimir.md",
+    "Handouts/Images/Portraits/Portrait of Pidlwick II.md",
+    "Assets/Images/People/kasimir.jpg",
+    "Assets/Images/People/kasimir.jpg.crdownload",
+    "Patrina Velikovna.md",
+    "Session Prep/Session 16.md",
+    "TODO.md",
+    "Assets/Images/People/Pidlwick_II.webp",
+    "Assets/Images/People/Pidlwick_II.webp.crdownload",
+    "Characters/Luvash.md",
+    "New Handouts.md",
+    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 2.jpg",
+    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 2.jpg.crdownload",
+    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 1.jpg",
+    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 1.jpg.crdownload",
+    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 2.jpg",
+    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 2.jpg.crdownload",
+    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 1.jpg",
+    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 1.jpg.crdownload",
+    "Assets/Images/Maps/Argynvostholt",
+    "Assets/Images/Maps/New folder",
+    "Handouts/Images/Portraits/Portrait of Arrigal.md",
+    "Session Notes/Session 1.md",
+    "Custom Monsters/Vladimir Horngaard Statblock.md",
+    "Characters/Ezmerelda d'Avenir.md",
+    "Handouts/Images/Portraits/Portrait of Ezmerelda.md",
+    "Handouts/Images/Places/Argynvostholt Image.md",
+    "Assets/Images/People/Ezmerelda_dAvenir.webp",
+    "Assets/Images/People/Ezmerelda_dAvenir.webp.crdownload",
+    "Assets/Images/Places/argyvostholt.jpg",
+    "Assets/Images/Places/argyvostholt.jpg.crdownload",
+    "Custom Monsters/Wereraven.md",
+    "Website/site/assets/images/people/rahadin.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

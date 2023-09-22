@@ -13,8 +13,9 @@ def overwriteFile(file, soup):
 
 def removeUrls(soup):
   for a in soup.find_all('a', class_='internal-link'):
-    a.wrap(soup.new_tag('b'))
-    a.unwrap()
+    if (not a['href'].startswith('handouts')):
+      a.wrap(soup.new_tag('b'))
+      a.unwrap()
 
 def fixUrls(soup):
   for a in soup.find_all('a', class_='internal-link'):
@@ -113,7 +114,9 @@ def importAndCleanLinkedFiles(soup, spoilersFolder, rootSiteFolder):
     print('copying {} -> {}'.format(origPath, newPath))
     os.makedirs(os.path.dirname(newPath), exist_ok=True)
     shutil.copyfile(origPath, newPath)
+
     removeLinksInFile(newPath)
+
     fixAssetsInFile(newPath)
 
 

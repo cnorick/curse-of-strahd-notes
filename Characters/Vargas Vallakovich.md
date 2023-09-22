@@ -1,5 +1,5 @@
 ---
-aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, The Burgomaster]
+aliases: [Vargas, Burgomaster Vallakovich, Baron Vargas Vallakovich, The Baron, The Burgomaster, Baron Vallakovich]
 ---
 (NE male human noble)
 ![[Baron_Vargas_Vallakovich.jpg|200]]

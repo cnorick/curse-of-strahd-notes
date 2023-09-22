@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 
 ![[The Tome of Strahd#Handout]]

@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 
 >My dearest sister, life has become more difficult these days since your leaving. With father's death now publicly known, I've stepped up to fill the role of Burgomaster. But the villagers reject me. They refuse to be led by "The Lesser".

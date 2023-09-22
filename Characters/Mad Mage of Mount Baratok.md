@@ -24,7 +24,7 @@ alias: Mad Mage, Mordenkainen
 ## Stat Block
 
 ```statblock
-monster: Archmage
+monster: The Mad Mage of Mount Baratok
 ```
 
 ```dataviewjs

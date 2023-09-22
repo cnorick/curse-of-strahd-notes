@@ -974,6 +974,25 @@ When he meets new customers, Blinsky recites a well-rehearsed greeting:
 
 
 ### Vistani Camp (N9)
+#### The Treasure Wagon
+
+##### Reward
+- For rescuing [[Arabelle]], [[Luvash]] will offer the party *one* treasure from the treasure wagon of their choosing. However, they aren't allowed to touch any of the items before they choose. Therefore, they can't open the chests or unfurl the rug. In fact, the only thing the players can see totally will be the throne. This is actually a really fun bit to play with players.
+- If you have a particularly charismatic player or two who try to talk Luvash into giving them more treasure, go ahead and have them roll a DC 14 persuasion check. On a success, Luvash will allow the players to take two items from the wagon under the same rules.
+
+- A wooden chest containing 1,200 ep (each coin stamped with the profiled visage of Strahd)
+- An iron chest containing 650 gp
+- An onyx jewelry box with gold filigree (worth 250 gp) containing six pieces of cheap jewelry (worth 50 gp each) and a potion of poison in an unlabeled crystal vial (worth 100 gp)
+- A wooden throne with gold inlay and decorative stones (worth 750 gp)
+- A rolled-up 10-foot-square rug with an exquisite unicorn motif with a sizable bulge in the middle (worth 750 gp)
+	- if checked: gives off conjuration magic
+- A small wooden box containing twelve fake potions in stoppered gourds (the Vistani sell these nonmagical elixirs to naive strangers, claiming that they protect against the deadly fog surrounding Barovia)
+
+- If [[Pidlwick II|Pidlwick]] in the rug is chosen, [[Luvash]] says "It's your problem now!"
+
+#### Dusk Elves
+- [[Strahd Von Zarovich|Strahd]] had all the women killed, so they can't procreate
+- [[Kasimir Velikov]]
 
 ### Reformation Center (N10)
 
