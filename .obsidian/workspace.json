@@ -55,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7310db20497c4ecf",
@@ -69,6 +69,54 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Argynvostholt (Q).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54aa3e2795b7cdfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sir Godfrey Gwilym.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42dbb162f50ba379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Vladimir Horngaard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c928ac4c71ca5c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sir Godfrey Gwilym.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ec0f3f500eae264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Argynvost.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,9 +145,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e233d8b87c87b899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Areas By Level.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Images/Maps/barovia_tagged.jpg",
+                "file": "Locations/Argynvostholt (Q).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Images/Maps/barovia_tagged.jpg",
+                "file": "Locations/Argynvostholt (Q).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +272,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Images/Maps/barovia_tagged.jpg"
+                "file": "Locations/Argynvostholt (Q).md"
               }
             }
           },
@@ -241,57 +300,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2edc3d3eb0b6f378",
+  "active": "85f5a0dc69699649",
   "lastOpenFiles": [
-    "Locations/The Town of Vallaki (N).md",
-    "Assets/Images/Maps/barovia_tagged.jpg",
-    "Handouts/Maps/Barovia Map.md",
-    "Session Prep/Session 17.md",
+    "Sir Godfrey Gwilym.md",
     "Locations/Argynvostholt (Q).md",
-    "Handouts/Misc/Quests.md",
-    "Characters/Pidlwick II.md",
-    "Custom Monsters/Pidlwick Statblock.md",
-    "Custom Monsters/Child Wereraven.md",
-    "Characters/Kasimir Velikov.md",
-    "Custom Monsters/Dusk Elf Statblock.md",
-    "Characters/Arrigal.md",
-    "Handouts/Images/Portraits/Portrait of Kasimir.md",
-    "Handouts/Images/Portraits/Portrait of Pidlwick II.md",
-    "Assets/Images/People/kasimir.jpg",
-    "Assets/Images/People/kasimir.jpg.crdownload",
-    "Patrina Velikovna.md",
-    "Session Prep/Session 16.md",
-    "TODO.md",
-    "Assets/Images/People/Pidlwick_II.webp",
-    "Assets/Images/People/Pidlwick_II.webp.crdownload",
-    "Characters/Luvash.md",
-    "New Handouts.md",
-    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 2.jpg",
-    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 2.jpg.crdownload",
-    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 1.jpg",
-    "Assets/Images/Maps/Argynvostholt/DM Map - Argynvostholt 1.jpg.crdownload",
-    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 2.jpg",
-    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 2.jpg.crdownload",
-    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 1.jpg",
-    "Assets/Images/Maps/Argynvostholt/Map - Argynvostholt 1.jpg.crdownload",
-    "Assets/Images/Maps/Argynvostholt",
-    "Assets/Images/Maps/New folder",
-    "Handouts/Images/Portraits/Portrait of Arrigal.md",
-    "Session Notes/Session 1.md",
-    "Custom Monsters/Vladimir Horngaard Statblock.md",
-    "Characters/Ezmerelda d'Avenir.md",
-    "Handouts/Images/Portraits/Portrait of Ezmerelda.md",
-    "Handouts/Images/Places/Argynvostholt Image.md",
-    "Assets/Images/People/Ezmerelda_dAvenir.webp",
-    "Assets/Images/People/Ezmerelda_dAvenir.webp.crdownload",
-    "Assets/Images/Places/argyvostholt.jpg",
-    "Assets/Images/Places/argyvostholt.jpg.crdownload",
-    "Custom Monsters/Wereraven.md",
-    "Website/site/assets/images/people/rahadin.webp",
+    "Session Prep/Session 17.md",
+    "Characters/Argynvost.md",
+    "Handouts/Misc/Madam Eva's Card Reading.md",
+    "Misc/Areas By Level.md",
+    "Characters/Vladimir Horngaard.md",
+    "Characters/Baba Lysaga.md",
+    "Website/site/assets/images/people/vladimir.webp",
+    "Website/site/handouts/images/portraits/portrait-of-vladimir-horngaard.html",
+    "Website/site/assets/images/people/godfrey.jpg",
+    "Website/site/handouts/images/portraits/portrait-of-sir-godfrey-gwilym.html",
+    "Website/site/assets/images/people/argynvost.jpg",
+    "Website/site/handouts/images/portraits/portrait-of-argynvost.html",
+    "Website/site/misc/peoples-and-lore/rictavio's-tale.html",
+    "Website/site/misc/areas-by-level.html",
+    "Handouts/Images/Portraits/Portrait of Vladimir Horngaard.md",
+    "Handouts/Images/Portraits/Portrait of Sir Godfrey Gwilym.md",
+    "Handouts/Images/Portraits/Portrait of Argynvost.md",
+    "reference/spells/Commune with Nature.md",
+    "reference/spells/Commune.md",
+    "reference/spells/Compulsion.md",
+    "reference/spells/Cone of Cold.md",
+    "reference/spells/Confusion.md",
+    "reference/spells/Conjure Animals.md",
+    "reference/spells/Conjure Celestial.md",
+    "reference/spells/Conjure Elemental.md",
+    "reference/spells/Conjure Fey.md",
+    "reference/spells/Conjure Minor Elementals.md",
+    "reference/spells/Conjure Woodland Beings.md",
+    "reference/spells/Contagion.md",
+    "reference/spells/Contingency.md",
+    "reference/spells/Contact Other Plane.md",
+    "reference/spells/Continual Flame.md",
+    "Assets/Images/People/vladimir.webp",
+    "Assets/Images/People/vladimir.webp.crdownload",
+    "Assets/Images/People/argynvost.jpg",
+    "Assets/Images/People/argynvost.jpg.crdownload",
+    "Assets/Images/People/godfrey.jpg",
+    "Assets/Images/People/godfrey.jpg.crdownload",
+    "Assets/Images/Maps/barovia_tagged.jpg",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/places/argynvostholt-image.html",
+    "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-pidlwick-ii.html",
+    "Website/site/assets/images/places/argyvostholt.jpg",
+    "Website/site/assets/images/people/ezmerelda_davenir.webp",
+    "Website/site/assets/images/people/pidlwick_ii.webp",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]
