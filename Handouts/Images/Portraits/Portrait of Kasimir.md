@@ -1,6 +1,6 @@
 ---
 public: false
-new_handout: true
+new_handout: false
 ---
 
 ![[kasimir.jpg]]

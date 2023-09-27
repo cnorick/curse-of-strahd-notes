@@ -10,6 +10,7 @@ dv.list(dv.pages('"Handouts/Images/Places"').sort(k => k.file.name).filter(k => 
 
 ## Items
 ```dataviewjs
+dv.list(dv.pages('"Handouts/Images/Things"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
 dv.list(dv.pages('"Handouts/Items"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
 ```
 

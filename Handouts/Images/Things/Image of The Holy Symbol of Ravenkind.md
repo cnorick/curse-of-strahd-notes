@@ -3,4 +3,4 @@ public: false
 new_handout: true
 ---
 
-![[The Holy Symbol of Ravenkind#Handout]]
+![[holy symbol of ravenkind.jpg]]
