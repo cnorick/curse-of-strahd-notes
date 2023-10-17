@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Vladimir, Vlad]
 ---
 (LE medium undead)
 ![[Assets/Images/People/vladimir.webp|200]]

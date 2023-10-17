@@ -72,7 +72,7 @@ alias: Argynvostholt
 		- "It matters little. The years will pass and you will see the truth as I have seen it."
 	- if the players sound genuine about and capable of killing [[Strahd Von Zarovich|Strahd]], he'll fight them
 	- don't hold back in a fight with him and the phantoms
-		- if the whole party dies, [[Sir Godfrey Gwilym]] can nurse them back
+		- if the whole party dies, [[Sir Godfrey Gwilym]] can nurse them back in the barracks 
 	- he won't purse too far if they run
 
 ### Godfrey
@@ -80,6 +80,18 @@ alias: Argynvostholt
 - May revive the players when they get downed
 - has a ton of info
 - must meet him after the others
+- he can show them around the castle without provoking fights
+- If asked about the beacon, he says "let me show you something" and takes them to the tower
+- the bones were taken to [[Castle Ravenloft (K)|Ravenloft]] initially
+	- [[Sir Godfrey Gwilym|Godfrey]] and [[Vladimir Horngaard|Vlad]] brought them back one by one every day for nearly a year
+	- The witches at [[Ruins of Berez (U)|Berez]] stole the skull after an attack on the castle
+- The revenants went mad after the skull was taken
+	- [[Sir Godfrey Gwilym|Godfrey]] is sure that the evil affected them after the tomb was desecrated
+
+### The Beacon (Q53)
+>Laid around this landing are bones. You estimate at least 500 bones forming an enormous skeleton. They seem to have been laid here deliberately, painstakingly, and with utmost reverence. Notably missing from this huge dragon skeleton is the skull.
+
+- This skeleton is even bigger than the spectral form of [[Argynvost]] they we already encountered
 
 ## Stat Blocks
 ```statblock

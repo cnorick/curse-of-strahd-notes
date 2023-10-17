@@ -1,2 +1,2 @@
-- With no windmill, there is a pie shortage in Barovia, so there may be reports of mass withdrawals
+- [x] With no windmill, there is a pie shortage in Barovia, so there may be reports of mass withdrawals
 - [[Offalia Wormwiggle|Offalia]] escaped when [[Morgantha|Granny]] and [[Bella Sunbane|Bella]] died, so she may show back up at some point
