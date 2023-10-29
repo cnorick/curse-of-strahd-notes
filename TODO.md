@@ -21,9 +21,9 @@ Decision for Ireena:
 - After [[Strahd Von Zarovich|Strahd]] left, [[The Abbott]] dug her up and cut off her scalp and hair to add to [[Vasilka]]
 	- he hopes that he can re-incarnate [[Tatyana]] into this body to present to [[Strahd Von Zarovich|Strahd]] for a wedding
 
-
 ### Offalia shows up in Berez
 [[Offalia Wormwiggle|Offalia]] fled to [[Ruins of Berez (U)|Berez]] after the windmill burned
+- she is a hag, not a witch tho. so :shrug:
 
 
 ## Story Outline

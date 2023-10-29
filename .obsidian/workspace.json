@@ -4,124 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "51580353c2ec0d5f",
+        "id": "a5ec2d0f8919e512",
         "type": "tabs",
         "children": [
           {
-            "id": "5b93db03469d8b98",
+            "id": "3e37d8cec0054322",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Session Prep/Session 20.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "954d085b9be71d5f",
+            "id": "78d20ce48e618cb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Vladimir Horngaard.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0065c63108ca76a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Peoples and Lore/Dark Powers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e17c1b8bd7f7099c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Argynvostholt (Q).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d009a6754e2846fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ruins of Berez (U).md",
+                "file": "Locations/Village of Krezk (S).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "72b8a17f3937eca3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1ee12c454a370aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Sir Godfrey Gwilym.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106783076921e190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c36154a5907e45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6651ea5b1cd94cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Peoples and Lore/Barovian Lore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Village of Krezk (S).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Village of Krezk (S).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Village of Krezk (S).md"
               }
             }
           },
@@ -327,6 +238,20 @@
             }
           }
         ]
+      },
+      {
+        "id": "db70a9531e6c9b27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "457d4fbe49aded63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -347,54 +272,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5b93db03469d8b98",
+  "active": "78d20ce48e618cb8",
   "lastOpenFiles": [
-    "Characters/Sir Godfrey Gwilym.md",
-    "Session Notes/Session 18.md",
-    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
-    "Index.md",
-    "Misc/Peoples and Lore/Barovian Lore.md",
-    "Locations/Ruins of Berez (U).md",
-    "TODO.md",
-    "Misc/Eventual Callbacks.md",
-    "Misc/Shopping in Barovia.md",
-    "Locations/Argynvostholt (Q).md",
-    "Characters/Vladimir Horngaard.md",
-    "Characters/Argynvost.md",
-    "Handouts/Misc/Argynvostholt's History.md",
-    "Session Prep/Session 18.md",
-    "Website/site/no-spoilers/campaign-notes/session-notes/session-18.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/misc/argynvostholt's-history.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-sir-godfrey-gwilym.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ezmerelda.html",
-    "Website/no-spoilers/campaign-notes/handouts/stat-blocks/lancelot-stat-block.html",
-    "Website/no-spoilers/campaign-notes/handouts/stat-blocks",
-    "Website/no-spoilers/campaign-notes/handouts/misc/rictavio's-tale-at-the-blue-water-inn.html",
-    "Website/no-spoilers/campaign-notes/handouts/misc/pelanil's-nde.html",
-    "Website/no-spoilers/campaign-notes/handouts/misc/madam-eva's-card-reading.html",
-    "Website/no-spoilers/campaign-notes/handouts/misc/argynvostholt's-history.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-vladimir-horngaard.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-urwin-martikov.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-the-mad-mage.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-strahd-and-beucephalus.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rose-and-thorne.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rina.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-rictavio.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-parriwimple.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-nikolai-and-karl-wachter.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-myrtle.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-milivoj.html",
+    "Website/site/assets/images/maps/druidic-groves/wizard-of-wines-winery/wizard-of-wines.jpg",
+    "Website/site/assets/images/people/dmitri-krezkov.jpg",
+    "Website/site/assets/images/people/davian.jpg",
+    "Website/site/assets/images/monsters/needlblight.png",
+    "Website/site/assets/images/monsters/twigblight.png",
+    "Website/site/assets/images/monsters/vineblight.png",
+    "Website/site/assets/images/maps/wolfrun/krezk/krezk.jpg",
+    "Website/site/assets/images/maps/wolfrun/krezk/krezk-dm.jpg",
     "Campaign Notes.md",
-    "Website/site/assets/images/people/ember-argynvost.jpg",
-    "Website/site/assets/images/monsters/giant-spider.jpg",
+    "Website/site/assets/images/people/adrian.webp",
+    "Website/site/assets/images/people/elvir.webp",
+    "Dmitri Krezkov.md",
     "Assets/Templates/Character.md",
-    "Assets/Templates/Handout.md",
-    "Assets/Templates/Portrait.md",
     "Assets/Templates/Portrait from Character.md",
-    "Characters/Alexei.md",
-    "Characters/Amalthia.md",
-    "Characters/Anakir.md",
-    "Characters/Arabelle.md",
-    "Characters/Arahja.md",
-    "Characters/Arrigal.md",
-    "Characters/Arik Lorensk.md",
-    "Assets/Images/People/ember-argynvost.jpg",
-    "Assets/Images/Monsters/giant-spider.jpg",
-    "Website/site/assets/images/places/dragon-statue.jpg",
-    "Assets/Images/Places/Dragon Statue.jpg",
-    "Website/site/assets/images/people/vladimir.webp",
-    "Website/site/assets/images/people/godfrey.jpg",
-    "Website/site/assets/images/people/argynvost.jpg",
-    "Assets/Images/People/vladimir.webp",
+    "Assets/Templates/Portrait.md",
+    "Assets/Templates/Handout.md",
+    "Custom Monsters/Child Wereraven.md",
+    "Custom Monsters/Dog.md",
+    "Custom Monsters/Elite Guard Statblock.md",
+    "Custom Monsters/Mad Mage Statblock.md",
+    "Custom Monsters/Ezmerelda Statblock.md",
+    "Custom Monsters/Izek Stat Block.md",
+    "Custom Monsters/Madam Eva Statblock.md",
+    "Custom Monsters/Morgantha Stat Block.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Custom Monsters/Phantom Warrior Stat Block.md",
+    "Custom Monsters/Pidlwick Statblock.md",
+    "Custom Monsters/Rictavio Statblock.md",
+    "Custom Monsters/Sir Godfrey Gwilym Statblock.md",
+    "Custom Monsters/Strahd Statblock.md",
+    "Custom Monsters/Revenant Statblock.md",
+    "Custom Monsters/Vladimir Horngaard Statblock.md",
+    "Custom Monsters/Wereraven.md",
+    "Custom Monsters/Twig Blight Statblock.md",
+    "Custom Monsters/Needle Blight Statblock.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

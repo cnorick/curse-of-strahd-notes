@@ -11,12 +11,12 @@ public: true
 
 ## The Card Reading
 - [x] [[Tome of Strahd Handout|Tome of Strahd]]
-- [ ] Holy Symbol
+- [x] Holy Symbol
 	- This card tells of a powerful force for good and protection, a holy symbol of great hope. The treasure lies in a dragon's house, in hands once clean and now corrupted.
-	- [ ] Go look for it at [[Argynvostholt (Q)|Argynvostholt]]
-
+	- [x] Go look for it at [[Argynvostholt (Q)|Argynvostholt]]
 - [ ] Sword of Sunlight
 	- This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight. What you seek lies in a pile of treasure, beyond a set of amber doors
+	- We've heard this is in the [[The Amber Temple (X)|Amber Temple]], but everyone has warned against going just yet
 - [x] Your Ally, [[Mad Mage of Mount Baratok|Mordenkainen]]
 - [ ] Enemy Location
 	- Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him! He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
@@ -29,6 +29,8 @@ public: true
 
 ## Other
 - [ ] Strahd invited the party to dinner
-- [ ] [[Ismark Kolyanovich|Ismark]] asked the party to deliver [[Ireena Kolyana|Ireena]] to safety in [[The Town of Vallaki (N)|Vallaki]]
+- [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbott]] in [[Village of Krezk (S)|Krezk]]
+- [x] [[Ismark Kolyanovich|Ismark]] asked the party to deliver [[Ireena Kolyana|Ireena]] to safety in [[The Town of Vallaki (N)|Vallaki]]
 	- You technically succeeded, but [[Ireena Kolyana|Ireena]] is in greater danger than ever lol
+	- [[Ireena Kolyana|Ireena]] is dead. Poor [[Ismark Kolyanovich|Ismark]]
 - [ ] [[Mad Mage of Mount Baratok|Mordenkainen]] said to come back when they're ready to fight [[Strahd Von Zarovich|Strahd]]
