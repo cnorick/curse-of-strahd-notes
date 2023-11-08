@@ -46,7 +46,6 @@ reactions: []
 legendary_actions: []
 mythic_actions: []
 spells: []
-spellsNotes: ""
 
 ---
 

@@ -1557,86 +1557,6 @@
       }
     ],
     [
-      "Twig Blight",
-      {
-        "statblock": true,
-        "image": [
-          [
-            "twigblight.png"
-          ]
-        ],
-        "name": "Twig Blight",
-        "source": [
-          "Monster Manual",
-          "Curse of Strahd",
-          "Lost Mine of Phandelver",
-          "Tales from the Yawning Portal",
-          "Ghosts of Saltmarsh"
-        ],
-        "type": "plant",
-        "subtype": "",
-        "size": "Small",
-        "alignment": "neutral or evil",
-        "hp": 4,
-        "hit_dice": "1d6 + 1",
-        "ac": 13,
-        "speed": "20 ft.",
-        "stats": [
-          6,
-          13,
-          12,
-          4,
-          8,
-          3
-        ],
-        "damage_immunities": "",
-        "damage_resistances": "",
-        "damage_vulnerabilities": "fire",
-        "condition_immunities": "blinded, deafened",
-        "saves": [],
-        "skillsaves": [
-          {
-            "stealth": "3"
-          }
-        ],
-        "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9",
-        "languages": "understands Common but can't speak",
-        "cr": "1/8",
-        "traits": [
-          {
-            "name": "False Appearance",
-            "desc": "While the blight remains motionless, it is indistinguishable from a dead shrub."
-          }
-        ],
-        "actions": [
-          {
-            "name": "Claws",
-            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage."
-          }
-        ],
-        "bonus_actions": [],
-        "reactions": [],
-        "legendary_actions": [],
-        "mythic_actions": [],
-        "spells": [],
-        "spellsNotes": "",
-        "position": {
-          "start": {
-            "line": 0,
-            "col": 0,
-            "offset": 0
-          },
-          "end": {
-            "line": 50,
-            "col": 3,
-            "offset": 993
-          }
-        },
-        "note": "Custom Monsters/Twig Blight Statblock.md",
-        "mtime": 1698607890420
-      }
-    ],
-    [
       "Vine Blight",
       {
         "statblock": true,
@@ -1716,6 +1636,275 @@
         },
         "note": "Custom Monsters/Vine Blight Statblock.md",
         "mtime": 1698608041831
+      }
+    ],
+    [
+      "Needle Blight",
+      {
+        "statblock": true,
+        "image": [
+          [
+            "needlblight.png"
+          ]
+        ],
+        "name": "Needle Blight",
+        "source": [
+          "Monster Manual",
+          "Curse of Strahd",
+          "Ghosts of Saltmarsh"
+        ],
+        "type": "plant",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "neutral or evil",
+        "hp": 11,
+        "hit_dice": "2d8 + 2",
+        "ac": 12,
+        "speed": "30 ft.",
+        "stats": [
+          12,
+          12,
+          13,
+          4,
+          8,
+          3
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "blinded, deafened",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9",
+        "languages": "understands Common but can't speak",
+        "cr": "1/4",
+        "traits": [],
+        "actions": [
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 6 (2d4 + 1) piercing damage."
+          },
+          {
+            "name": "Needles",
+            "desc": "Ranged Weapon Attack +3 to hit, range 30/60 ft., one target. 8 (2d6 + 1) piercing damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": "",
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 44,
+            "col": 3,
+            "offset": 912
+          }
+        },
+        "note": "Custom Monsters/Needle Blight Statblock.md",
+        "mtime": 1698608142425
+      }
+    ],
+    [
+      "Swarm of Twig Blights",
+      {
+        "statblock": true,
+        "image": [
+          [
+            "twigblight.png"
+          ]
+        ],
+        "name": "Swarm of Twig Blights",
+        "source": [
+          {
+            "Curse of Strahd": "Reloaded"
+          }
+        ],
+        "type": "plant",
+        "subtype": "",
+        "size": "Medium",
+        "alignment": "neutral evil",
+        "hp": 22,
+        "hit_dice": "4d6 + 8",
+        "ac": 14,
+        "speed": "20 ft.",
+        "stats": [
+          10,
+          13,
+          14,
+          4,
+          8,
+          3
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "charmed, frightened, paralyzed, prone, petrified, restrained, stunned",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "passive Perception 9",
+        "languages": "understands Common but can't speak",
+        "cr": 1,
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the blight remains motionless, it is indistinguishable from a dead shrub."
+          },
+          {
+            "name": "Swarm",
+            "desc": "The swarm can occupy another creature's space and vice-versa, and the swarm can move through any opening large enough for a small twig blight. The swarm cannot regrain hit points or temporary hit points."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 16 (4d6 + 2) piercing damage. The attack instead deals 2d6+1 piercing damage if the swarm has half of its hit points or fewer."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": "",
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 47,
+            "col": 3,
+            "offset": 1226
+          }
+        },
+        "note": "Custom Monsters/Twig Blight Swarm Statblock.md",
+        "mtime": 1699228918150
+      }
+    ],
+    [
+      "Twig Blight",
+      {
+        "statblock": true,
+        "image": [
+          [
+            "twigblight.png"
+          ]
+        ],
+        "name": "Twig Blight",
+        "source": [
+          "Monster Manual",
+          "Curse of Strahd",
+          "Lost Mine of Phandelver",
+          "Tales from the Yawning Portal",
+          "Ghosts of Saltmarsh"
+        ],
+        "type": "plant",
+        "subtype": "",
+        "size": "Small",
+        "alignment": "neutral or evil",
+        "hp": 4,
+        "hit_dice": "1d6 + 1",
+        "ac": 13,
+        "speed": "20 ft.",
+        "stats": [
+          6,
+          13,
+          12,
+          4,
+          8,
+          3
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "fire",
+        "condition_immunities": "blinded, deafened",
+        "saves": [],
+        "skillsaves": [
+          {
+            "stealth": "3"
+          }
+        ],
+        "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 9",
+        "languages": "understands Common but can't speak",
+        "cr": "1/8",
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the blight remains motionless, it is indistinguishable from a dead shrub."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Claws",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 49,
+            "col": 3,
+            "offset": 977
+          }
+        },
+        "note": "Custom Monsters/Twig Blight Statblock.md",
+        "mtime": 1699229257094
+      }
+    ],
+    [
+      "Druid Assailant",
+      {
+        "statblock": true,
+        "image": null,
+        "name": "Druid Assailant",
+        "extends": "Druid",
+        "source": [
+          {
+            "Curse of Strahd": "Reloaded"
+          }
+        ],
+        "spells": [
+          {
+            "Cantrips": "Druidcraft, Thorn Whip, Shillelagh"
+          },
+          {
+            "1st Level": "Earth Tremor, Longstrider, Healing Word, Thunderwave"
+          },
+          {
+            "2nd Level": "Darkvision, Barkskin"
+          }
+        ],
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 11,
+            "col": 3,
+            "offset": 271
+          }
+        },
+        "note": "Custom Monsters/Druid Assailant Statblock.md",
+        "mtime": 1699231541065
       }
     ]
   ],

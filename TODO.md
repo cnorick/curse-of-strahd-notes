@@ -1,3 +1,11 @@
+- The killed revenant will show back up somewhere else unless the beacon is lit
+	- grave in [[Village of Krezk (S)|Krezk]]
+	- grave in [[Ruins of Berez (U)|Berez]]
+	- random encounter
+	- corpse of deceased player
+
+- Tell the group that the second gem is in [[Ruins of Berez (U)|Berez]]
+
 Ireena options:
 - The party comes across a grave somewhere meaningful. Strahd has buried her
 	- [[The Abbott]] refused to revive her, so [[Strahd Von Zarovich|Strahd]] buried her

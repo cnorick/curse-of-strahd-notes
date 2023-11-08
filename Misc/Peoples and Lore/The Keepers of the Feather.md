@@ -1,5 +1,5 @@
 ---
-aliases: [Keepers of the Feather, Keepers, The Order, Order, Martikovs, The Martikovs]
+aliases: [Keepers of the Feather, Keepers, Martikovs, The Martikovs, The Keepers]
 ---
 
 - Secret society of wereravens that opposes [[Strahd Von Zarovich|Strahd]]

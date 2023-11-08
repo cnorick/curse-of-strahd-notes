@@ -2,7 +2,7 @@
 aliases: [Wizard of Wines, The Wizard of Wines, Wizard of the Wines, The Winery, Winary, WoW]
 ---
 
-- Druids = Forest Folk
+- Druids = Forest Folk, Mud Eaters
 
 ## The Timeline
 - **10 Years Ago**
@@ -31,6 +31,18 @@ aliases: [Wizard of Wines, The Wizard of Wines, Wizard of the Wines, The Winery,
 		 - [[Yolanda Martikov]]
 - [[Elvir Martikov]]
 
+## Forest Folk
+- Some of [[Forest Folk]] were actually once friendly with [[The Keepers of the Feather|The Martikovs]]
+- The then Krezkov, now ([[The Keepers of the Feather|Martikov]]), family gave them shelter from [[Strahd Von Zarovich|Strahd]] 
+	- It was these friendly [[Forest Folk]] who gave [[The Keepers of the Feather|The Martikovs]] the gift of [[Lycanthropy]] before they were wiped out
+
+
+## Areas
+### W9
+- use 3 [[Twig Blight Swarm Statblock]], each containing about 8 twig blights
+- use [[Druid Assailant Statblock]]
+
+
 ## Statblocks
 
 ```statblock
@@ -41,13 +53,25 @@ monster: Vine Blight
 ```
 
 ```statblock
-monster: Twig Blight
+monster: Needle Blight
 ```
 
 ```statblock
 monster: Twig Blight
 ```
 
+```statblock
+monster: Swarm of Twig Blights
+```
+
+```statblock
+monster: Druid Assailant
+```
+
+
+```statblock
+monster: Druid Naturalist
+```
 
 ```dataviewjs
 ```

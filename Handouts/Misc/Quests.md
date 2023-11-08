@@ -27,9 +27,22 @@ public: true
 - [ ] [[Izek Strazni|Izek]] asked [[Elora]] to meet [[Vargas Vallakovich|Vargas]]
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]
 
+## Argynvostholt
+- [ ] Find [[Argynvost]]'s skull so that the beacon can be re-lit
+	- [[Sir Godfrey Gwilym|Godfrey]] says it was [[Session Notes/Session 20#Sir Godfrey Gwilym|stolen by witches]]
+
+## The Wizard of Wines
+- [ ] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard
+- [ ] Recover the gems so that grapes can be grown again
+	- [ ] gem 1 ([[Purple Grapemash No. 3]])
+	- [ ] gem 2 ([[Red Dragon Crush]])
+	- [ ] gem 3 ([[Champagne du le Stomp]])
+
+## Krezk
+- [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbott]] in [[Village of Krezk (S)|Krezk]]
+
 ## Other
 - [ ] Strahd invited the party to dinner
-- [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbott]] in [[Village of Krezk (S)|Krezk]]
 - [x] [[Ismark Kolyanovich|Ismark]] asked the party to deliver [[Ireena Kolyana|Ireena]] to safety in [[The Town of Vallaki (N)|Vallaki]]
 	- You technically succeeded, but [[Ireena Kolyana|Ireena]] is in greater danger than ever lol
 	- [[Ireena Kolyana|Ireena]] is dead. Poor [[Ismark Kolyanovich|Ismark]]

@@ -13,7 +13,7 @@ def overwriteFile(file, soup):
 
 def removeUrls(soup):
   for a in soup.find_all('a', class_='internal-link'):
-    if (not a['href'].startswith('handouts')):
+    if (not a['href'].startswith('handouts') and not a['href'].startswith('session-notes')):
       a.wrap(soup.new_tag('b'))
       a.unwrap()
 
