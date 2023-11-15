@@ -1881,14 +1881,15 @@
           }
         ],
         "spells": [
+          "The druid assailant is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared",
           {
-            "Cantrips": "Druidcraft, Thorn Whip, Shillelagh"
+            "Cantrips (at will)": "Druidcraft, Thorn Whip, Shillelagh"
           },
           {
-            "1st Level": "Earth Tremor, Longstrider, Healing Word, Thunderwave"
+            "1st Level (4 slots)": "Earth Tremor, Longstrider, Healing Word, Thunderwave"
           },
           {
-            "2nd Level": "Darkvision, Barkskin"
+            "2nd Level (3 slots)": "Darkvision, Barkskin"
           }
         ],
         "position": {
@@ -1898,13 +1899,170 @@
             "offset": 0
           },
           "end": {
-            "line": 11,
+            "line": 12,
             "col": 3,
-            "offset": 271
+            "offset": 481
           }
         },
         "note": "Custom Monsters/Druid Assailant Statblock.md",
-        "mtime": 1699231541065
+        "mtime": 1699555490730
+      }
+    ],
+    [
+      "Druid Naturalist",
+      {
+        "statblock": true,
+        "image": null,
+        "name": "Druid Naturalist",
+        "extends": "Druid",
+        "source": [
+          {
+            "Curse of Strahd": "Reloaded"
+          }
+        ],
+        "spells": [
+          "The druid naturalist is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared",
+          {
+            "Cantrips (at will)": "Druidcraft, Produce Flame, Infestation"
+          },
+          {
+            "1st Level (4 slots)": "Faerie Fire, Entangle, Speak With Animals, Fog Cloud"
+          },
+          {
+            "2nd Level (3 slots)": "Spike Growth, Moonbeam"
+          }
+        ],
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 12,
+            "col": 3,
+            "offset": 489
+          }
+        },
+        "note": "Custom Monsters/Druid Naturalist Statblock.md",
+        "mtime": 1699555527130
+      }
+    ],
+    [
+      "Tree Blight",
+      {
+        "statblock": true,
+        "image": [
+          [
+            "Tree Blight.png"
+          ]
+        ],
+        "name": "Tree Blight",
+        "source": [
+          "Curse of Strahd",
+          "The Wild Beyond the Witchlight"
+        ],
+        "type": "plant",
+        "subtype": "",
+        "size": "Huge",
+        "alignment": "neutral or evil",
+        "hp": 92,
+        "hit_dice": "8d12 + 40",
+        "ac": 15,
+        "speed": "30 ft.",
+        "stats": [
+          23,
+          10,
+          20,
+          6,
+          10,
+          3
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "blinded, deafened",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10",
+        "languages": "understands Common and Druidic but doesn't speak",
+        "cr": "7",
+        "traits": [
+          {
+            "name": "False Appearance",
+            "desc": "While the blight remains motionless, it is indistinguishable from a dead tree."
+          },
+          {
+            "name": "Siege Monster",
+            "desc": "The blight deals double damage to objects and structures."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The blight makes one Branch attack and one Grasping Root attack."
+          },
+          {
+            "name": "Branch",
+            "desc": "Melee Weapon Attack +9 to hit, reach 15 ft., one target. 16 (3d6 + 6) bludgeoning damage."
+          },
+          {
+            "name": "Grasping Root",
+            "desc": "Melee Weapon Attack +9 to hit, reach 15 ft., one creature not grappled by the blight. The target is grappled (escape 15). Until the grapple ends, the target takes 9 (1d6 + 6) bludgeoning damage at the start of each of its turns. The root has AC 15 and can be severed by dealing 6 slashing damage or more to it at once. Cutting the root doesn't hurt the blight, but ends the grapple."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +9 to hit, reach 5 ft., one creature grappled by the blight. 19 (3d8 + 6) piercing damage."
+          }
+        ],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": "",
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 58,
+            "col": 3,
+            "offset": 1701
+          }
+        },
+        "note": "Custom Monsters/Tree Blight Statblock.md",
+        "mtime": 1699560538862
+      }
+    ],
+    [
+      "Wintersplinter",
+      {
+        "statblock": true,
+        "image": [
+          [
+            "Wintersplinter.webp"
+          ]
+        ],
+        "extends": "Tree Blight",
+        "name": "Wintersplinter",
+        "position": {
+          "start": {
+            "line": 0,
+            "col": 0,
+            "offset": 0
+          },
+          "end": {
+            "line": 5,
+            "col": 3,
+            "offset": 97
+          }
+        },
+        "note": "Custom Monsters/Wintersplinter.md",
+        "mtime": 1699560628186
       }
     ]
   ],
@@ -1913,13 +2071,13 @@
       "blocks": [
         {
           "type": "inline",
-          "id": "08a9eb1b4b9b",
+          "id": "88498938889a",
           "properties": [],
           "hasRule": true,
           "nested": [
             {
               "type": "group",
-              "id": "da08599b9a3b",
+              "id": "49cb5adbf8d9",
               "properties": [
                 "name",
                 "size",
@@ -1930,7 +2088,7 @@
               "nested": [
                 {
                   "type": "heading",
-                  "id": "5b88395bb8fa",
+                  "id": "8b1a5be8ea39",
                   "properties": [
                     "name"
                   ],
@@ -1939,7 +2097,7 @@
                 },
                 {
                   "type": "subheading",
-                  "id": "5b7829994bda",
+                  "id": "6ae958083b4a",
                   "properties": [
                     "size",
                     "type",
@@ -1953,7 +2111,7 @@
             },
             {
               "type": "image",
-              "id": "bb98fad8490a",
+              "id": "ca6a3a2a8a18",
               "properties": [
                 "image"
               ]
@@ -1962,7 +2120,7 @@
         },
         {
           "type": "group",
-          "id": "1a490acacbd8",
+          "id": "980afbb8eaba",
           "properties": [
             "ac",
             "hp",
@@ -1971,7 +2129,7 @@
           "nested": [
             {
               "type": "property",
-              "id": "392999f9da3a",
+              "id": "e98b7ad95a08",
               "properties": [
                 "ac"
               ],
@@ -1980,7 +2138,7 @@
             },
             {
               "type": "property",
-              "id": "ab082ab85a9a",
+              "id": "d91ad959e879",
               "properties": [
                 "hp"
               ],
@@ -1993,7 +2151,7 @@
             },
             {
               "type": "property",
-              "id": "792aca6b5ac9",
+              "id": "9b6b59db4acb",
               "display": "Speed",
               "properties": [
                 "speed"
@@ -2006,7 +2164,7 @@
         },
         {
           "type": "table",
-          "id": "bbe8a8cb6bfb",
+          "id": "3978186ba96b",
           "properties": [
             "stats"
           ],
@@ -2024,7 +2182,7 @@
         },
         {
           "type": "table",
-          "id": "8b9be9996b8b",
+          "id": "e899293bdbaa",
           "properties": [
             "fage_stats"
           ],
@@ -2045,7 +2203,7 @@
         },
         {
           "type": "group",
-          "id": "d909a9bbda2b",
+          "id": "da5b6a4b59fa",
           "properties": [
             "saves",
             "skillsaves",
@@ -2060,7 +2218,7 @@
           "nested": [
             {
               "type": "saves",
-              "id": "eb481b1b5acb",
+              "id": "a89a08b9d809",
               "display": "Saves",
               "properties": [
                 "saves"
@@ -2069,7 +2227,7 @@
             },
             {
               "type": "saves",
-              "id": "4b4b681aa988",
+              "id": "19b9fb0bfae9",
               "display": "Skills",
               "properties": [
                 "skillsaves"
@@ -2078,7 +2236,7 @@
             },
             {
               "type": "property",
-              "id": "cbb978d9094a",
+              "id": "0be9499a4ab8",
               "display": "Damage Resistances",
               "properties": [
                 "damage_resistances"
@@ -2087,7 +2245,7 @@
             },
             {
               "type": "property",
-              "id": "eb4a9b69499a",
+              "id": "eb8a28bb3b09",
               "display": "Damage Immunities",
               "properties": [
                 "damage_immunities"
@@ -2096,7 +2254,7 @@
             },
             {
               "type": "property",
-              "id": "8a3b9bbb2869",
+              "id": "8bea1aca4929",
               "display": "Condition Immunities",
               "properties": [
                 "condition_immunities"
@@ -2105,7 +2263,7 @@
             },
             {
               "type": "property",
-              "id": "4a8ad8ba5b3a",
+              "id": "fac828bb7a78",
               "display": "Damage Vulnerabilities",
               "properties": [
                 "damage_vulnerabilities"
@@ -2114,7 +2272,7 @@
             },
             {
               "type": "property",
-              "id": "6ab81a29e979",
+              "id": "e8cabb39d9ab",
               "display": "Senses",
               "properties": [
                 "senses"
@@ -2123,7 +2281,7 @@
             },
             {
               "type": "property",
-              "id": "784919996869",
+              "id": "3808f8582a28",
               "display": "Languages",
               "properties": [
                 "languages"
@@ -2132,13 +2290,13 @@
             },
             {
               "type": "inline",
-              "id": "b8ea88bbc888",
+              "id": "7aaaa93b19fb",
               "properties": [],
               "conditioned": true,
               "nested": [
                 {
                   "type": "property",
-                  "id": "9b99ea8a7829",
+                  "id": "89cb592b1a79",
                   "display": "Challenge",
                   "properties": [
                     "cr"
@@ -2147,7 +2305,7 @@
                 },
                 {
                   "type": "property",
-                  "id": "8bebaaa98a09",
+                  "id": "887b89183a4a",
                   "display": "Proficiency Bonus",
                   "properties": [
                     "cr"
@@ -2162,7 +2320,7 @@
         },
         {
           "type": "traits",
-          "id": "6b9a698939da",
+          "id": "e868e8793bea",
           "properties": [
             "traits"
           ],
@@ -2171,7 +2329,7 @@
         },
         {
           "type": "spells",
-          "id": "88ba18ebd939",
+          "id": "7b8ad8d82929",
           "properties": [
             "spells"
           ],
@@ -2180,7 +2338,7 @@
         },
         {
           "type": "text",
-          "id": "3a9babcbc8d9",
+          "id": "4a8958b8c9cb",
           "properties": [
             "spellsNotes"
           ],
@@ -2189,7 +2347,7 @@
         },
         {
           "type": "traits",
-          "id": "09a828db48d9",
+          "id": "9a7868d8c9bb",
           "properties": [
             "actions"
           ],
@@ -2199,7 +2357,7 @@
         },
         {
           "type": "traits",
-          "id": "caeb9a8879f9",
+          "id": "c8b9bb696a4a",
           "properties": [
             "bonus_actions"
           ],
@@ -2209,7 +2367,7 @@
         },
         {
           "type": "group",
-          "id": "da19e9d9a8da",
+          "id": "b9ab8a3b0a19",
           "properties": [
             "legendary_description",
             "legendary_actions"
@@ -2218,7 +2376,7 @@
           "nested": [
             {
               "type": "text",
-              "id": "eba80a798819",
+              "id": "0b1b59aaa969",
               "properties": [
                 "legendary_description"
               ],
@@ -2227,7 +2385,7 @@
             },
             {
               "type": "traits",
-              "id": "48fadbb87a18",
+              "id": "88aba8ab689a",
               "properties": [
                 "legendary_actions"
               ],
@@ -2239,7 +2397,7 @@
         },
         {
           "type": "traits",
-          "id": "9aea992828ab",
+          "id": "7b6829a9483a",
           "properties": [
             "mythic_actions"
           ],
@@ -2249,7 +2407,7 @@
         },
         {
           "type": "traits",
-          "id": "282a7b387ab9",
+          "id": "9919587a29c9",
           "properties": [
             "reactions"
           ],
@@ -2259,7 +2417,7 @@
         },
         {
           "type": "traits",
-          "id": "09b81bea4989",
+          "id": "4a094b2a2a69",
           "properties": [
             "lair_actions"
           ],
