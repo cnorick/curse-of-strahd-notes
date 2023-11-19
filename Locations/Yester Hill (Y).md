@@ -21,6 +21,12 @@ These burial mounds predate the arrival of [[Strahd Von Zarovich|Strahd]] and th
 
 >Atop the hill is a wide ring of black boulders and smaller rocks that collectively form a makeshift wall enclosing a field of dead grass. Lightning strikes the edge of the ring from time to time, illuminating a ghastly, fifty-foot-tall statue made of tightly woven twigs and packed with black earth. The statue resembles a towering, cloaked man with fangs.
 
+- Strahd's arrival prompts the [[Forest Folk]] in [[#Y3. Druids' Circle]] to rise from their "graves" and begin their ritual.
+	- When the ritual begins, the [[Forest Folk]] use their actions to chant and dance about
+	- To complete the ritual, the [[Forest Folk]] must chant for 10 consecutive rounds, with at least one of them chanting each round
+	- If a round goes by and none of the [[Forest Folk]] are able to chant on their turn, the ritual is ruined and must be started anew
+	- If the Gulthias tree ([[#Y4. Gulthias Tree]]) has been reduced to 0 hit points, the ritual won't work
+		- Druids who realize that the tree has been destroyed know enough not to attempt the ritual.
 The ring of boulders that surrounds the field is 250 feet in diameter and ranges from 5 to 10 feet high. Any creature that climbs over the black boulders has a 10 percent chance of being struck by lightning, taking 44 (8d10) lightning damage. Characters can avoid the damage by sticking to the two trails that pass through the ring.
 
 #### Wooden Statue
@@ -67,7 +73,7 @@ The giant statue bears an eerie resemblance to [[Strahd von Zarovich]]
 >At the south end of the hilltop is a sickly copse, a grove of dead trees and shrubs with a huge, misshapen tree at its core. Blood oozes like sap from its twisted trunk. Skulking around the tree are six gangly humanoid creatures covered with needles. Embedded in the tree is a shiny battleaxe, beneath which lies a humanoid skeleton.
 
 - The tree is a Gulthias tree, the roots of which extend deep beneath the hill
-- Lurking among the dead trees and shrubs are three [[Vine Blight Statblock|Vine Blights]] six , [[Needle Blight Statblock|Needle Blights]] and twelve [[Twig Blight Statblock|Twig Blights]]
+- Lurking among the dead trees and shrubs are three [[Vine Blight Statblock|Vine Blights]] six [[Needle Blight Statblock|Needle Blights]] and twelve [[Twig Blight Statblock|Twig Blights]]
 	- The needle blights are plainly visible, but the False Appearance feature of the vine blights and the twig blights allows them to hide in plain sight
 	- The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own
 

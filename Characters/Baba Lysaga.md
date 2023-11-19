@@ -1,8 +1,8 @@
 ---
-aliases: []
+aliases: [Baba]
 ---
 (NE human)
-![[Arik the Barkeep V2.webp|200]]
+![[Baba.webp|200]]
 ## Playing Baba Lysaga
 
 ## History/Info

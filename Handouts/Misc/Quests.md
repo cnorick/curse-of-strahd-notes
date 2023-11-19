@@ -21,8 +21,12 @@ public: true
 - [ ] Enemy Location
 	- Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him! He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
 
+## The Village of Barovia
+- [ ] Rescue [[Mad Mary]]'s daughter, [[Gertruda]]
+
 ## Vallaki
 - [ ] Urwin asked for help with wine shipments from his father at the [[The Wizard of Wines (W)|Wizard of the Wines]]
+- [ ] [[Rictavio]] said, "If you find yourself in trouble, you can find refuge in the small lake"
 - [ ] [[Arabelle]] asked to be returned to her family
 - [ ] [[Izek Strazni|Izek]] asked [[Elora]] to meet [[Vargas Vallakovich|Vargas]]
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]

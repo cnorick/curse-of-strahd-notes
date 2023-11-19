@@ -4,6 +4,8 @@
 	- random encounter
 	- corpse of deceased player
 
+- place the third missing gem somewhere
+
 - Tell the group that the second gem is in [[Ruins of Berez (U)|Berez]]
 - [[Ezmerelda d'Avenir|Ezmerelda]] and [[Rictavio|van Richten]]
 	- maybe run the [[Ezmerelda d'Avenir|Ezmerelda]] event when they take the skull back to [[Argynvostholt (Q)|Argynvostholt]]

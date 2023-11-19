@@ -37,4 +37,6 @@ A half-formed [[Twig Blight Statblock|Twig Blight]] falls from the end of the ma
 ## Exploring the House
 [[Anakir]] notices the house sounds empty, and all that he can still hear are the blights outside in the vineyard. The party splits up to explore the house. [[Izek Strazni|Izek]] busts open a chest to find a ton of "Strahd Bucks". [[Bardolf]] finds some fine velvet drapes. The party reminisces their time with [[Gadof Blinsky|Blinsky]] when they find a rocking horse made by him to resemble [[Strahd Von Zarovich|Strahd]]'s Nightmare, [[Beucephalus]].
 
+The party settles in for a break upstairs.
+
 [[Pelanil]] finds some stairs and makes his way into the basement.

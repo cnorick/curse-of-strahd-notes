@@ -42,6 +42,36 @@ aliases: [Wizard of Wines, The Wizard of Wines, Wizard of the Wines, The Winery,
 - use 3 [[Twig Blight Swarm Statblock]], each containing about 8 twig blights
 - use [[Druid Assailant Statblock]]
 
+### W14. Wine Cellar
+- In the winery's heyday, the wine cellar was packed with barrels awaiting shipment, but those days are long gone.
+
+>Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
+
+- Unless they have been drawn outside, five needle blights and one druid (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
+
+>Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
+
+- On his first turn, from behind the wine rack, the druid casts a thunderwave spell, which shatters 1d20+10 of the wine bottles as it resounds throughout the cellar. The druid then orders the needle blights to attack.
+
+- The cellar gets markedly colder the closer one gets to the north wall. Against that wall in the eastern portion of the cellar rest three frosty barrels containing Purple Grapemash No. 3, a fact that is emblazoned on each barrel's side. A single bottle of Purple Grapemash No. 3 lies on the flagstone floor in the western half of the cellar.
+
+- The wine rack in the eastern half of the cellar holds forty bottles, the labels of which show that the wine is the winery's Red Dragon Crush.
+
+- A secret door between the two halves of the wine cellar can be pushed open to reveal a freezing cold passageway (area W15).
+
+>You notice that the nearer you are to the back of the cellar, the colder it feels
+
+- DC 15 perception to find the secret door
+
+#### Blinsky
+- [[Piccolo]] jumps out at whoever enters and attacks their face
+- When [[Gadof Blinsky|Blinsky]] realizes who it is, he calls off [[Piccolo]]
+	- his story:
+		- he was being attacked by vampires in [[The Town of Vallaki (N)|Vallaki]], but [[Piccolo]] distracted them by jumping on their faces
+		- That gave [[Gadof Blinsky|Blinsky]] enough time to run and hide
+		- He snuck from alley to alley until he was able to make a break for the woods
+		- [[Piccolo]] found him in the woods and they camped there for a night
+		- but they woke up to find themselves surrounded by
 
 ## Statblocks
 
