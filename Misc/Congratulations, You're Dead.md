@@ -1,4 +1,4 @@
-![[dead-pc.jpg]]
+![[Assets/Images/Misc/dead-pc.jpg]]
 
 While you're character in-game is actually 100% dead, that doesn't mean you're out of the game. This is actually very much expected for Curse of Strahd, and will likely happen a few more times. Right now, the game is going to carry on while you're dead, but I'll get you back in a soon as possible.
 

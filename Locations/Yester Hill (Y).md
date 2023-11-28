@@ -151,7 +151,7 @@ The character feels drawn to one of the cairns on the hillside (see [area Y2](h
 
 Treasure. 
 
-The rocks of the cairn are heavy but can be rolled aside, revealing a [blood spear](https://longo.com.br/5e/items.html#blood%20spear_cos) lying amid Kavan's moldy bones. Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
+The rocks of the cairn are heavy but can be rolled aside, revealing a [[Blood Spear of Kavan]] lying amid Kavan's moldy bones. Any creature can wield the spear, but only the character chosen by Kavan to wield it gains a +2 bonus to attack and damage rolls made with this magic weapon.
 
 ## Maps
 

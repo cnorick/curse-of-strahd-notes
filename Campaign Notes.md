@@ -40,3 +40,5 @@ dv.list(dv.pages('"Handouts/Misc"').sort(k => k.file.name).filter(k => k.public)
 ```dataviewjs
 dv.list(dv.pages('"Handouts/Stat Blocks"').sort(k => k.file.name).filter(k => k.public).file.link)
 ```
+
+[[Unlisted Handouts|.]]

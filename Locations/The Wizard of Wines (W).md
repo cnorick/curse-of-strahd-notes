@@ -71,7 +71,7 @@ aliases: [Wizard of Wines, The Wizard of Wines, Wizard of the Wines, The Winery,
 		- That gave [[Gadof Blinsky|Blinsky]] enough time to run and hide
 		- He snuck from alley to alley until he was able to make a break for the woods
 		- [[Piccolo]] found him in the woods and they camped there for a night
-		- but they woke up to find themselves surrounded by
+		- but they woke up to find themselves surrounded by [[Forest Folk]]
 
 ## Statblocks
 

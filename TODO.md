@@ -1,3 +1,26 @@
+- Pick a dark power for [[Pelanil]]
+	- The dark power is trying to replace [[Vampyr]]'s champion, [[Strahd Von Zarovich|Strahd]], with [[Pelanil]]
+	- [[Pelanil]] already had the conversation with the dark power, but forgot it
+		- write a note to send only to Christian that says his new goal is to replace [[Strahd Von Zarovich|Strahd]]
+		- he agreed to this in return for his life
+		- the dark power is his new deity
+		- he's giving him boons so that he looks like he is a servant of [[Vampyr]] to [[Strahd Von Zarovich|Strahd]]
+			- but that's just a trick for [[Strahd Von Zarovich|Strahd]]
+		- [[Strahd Von Zarovich|Strahd]] thought he asked [[Vampyr]] for help at the [[The Amber Temple (X)|Amber Temple]], but he actually ended up talking to this dark power
+		- [[Vampyr]] feeds off the souls who died of extreme blood loss
+			- the new dark power needs to feed off the souls of something pelanil did
+				- betrayed him
+				- or fear
+- Write the original conversation between [[Pelanil]] and the dark power
+- Give [[Pelanil]] a new boon for killing [[Gadof Blinsky|Blinsky]]
+	- the dark power can tell him he earned it
+
+
+- Get a description of the dark power that [[Pelanil]] sees in the mist
+	- he couldn't remember it the last time, but with his truesight, he can see it clearly this time while it's pulling him into the mist
+
+
+- decide what [[Shalooti]]'s 15 strength save does when pulling on [[Elora]]
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
 	- grave in [[Ruins of Berez (U)|Berez]]
@@ -14,7 +37,7 @@ Ireena options:
 - The party comes across a grave somewhere meaningful. Strahd has buried her
 	- [[The Abbott]] refused to revive her, so [[Strahd Von Zarovich|Strahd]] buried her
 - Strahd is able to bring her back via [[The Abbott]]
-	- [[The Abbott]] convinced [[Strahd Von Zarovich|Strahd]] to leave her corpse so that he could (unbeknowst to [[Strahd Von Zarovich|Strahd]]) sew her into [[Vasilka]]
+	- [[The Abbott]] convinced [[Strahd Von Zarovich|Strahd]] to leave her corpse so that he could (unbeknownst to [[Strahd Von Zarovich|Strahd]]) sew her into [[Vasilka]]
 - Can [[The Abbott]] actually bring people back to life?!
 	- yes he can
 	- So, maybe [[Strahd Von Zarovich|Strahd]] takes [[Ireena Kolyana|Ireena]] there to be revived [[The Abbott]] asks [[Strahd Von Zarovich|Strahd]] to leave her so that he can "give [[Strahd Von Zarovich|Strahd]] his heart's desire"

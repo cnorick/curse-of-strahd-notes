@@ -6,82 +6,70 @@
       {
         "id": "a5ec2d0f8919e512",
         "type": "tabs",
-        "dimension": 49.632014719411224,
+        "dimension": 52.20791168353266,
         "children": [
-          {
-            "id": "3e37d8cec0054322",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom Monsters/Gulthias Tree Statblock.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be3a332ded4b4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/The Wizard of Wines (W).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "753be1aa91cead44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 21.md",
+                "file": "Session Prep/Session 23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b079c2deeacb0351",
+            "id": "31258bc19cd49671",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc/Campaign Items/Gulthias Staff.md",
+                "file": "Misc/Peoples and Lore/Dark Powers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "25fc2fc31195d072",
+            "id": "771d961ed7dc4dec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Items/Gulthias Staff Handout.md",
+                "file": "Campaign Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "093e8ad67ea447fb",
+            "id": "53b3b8a140998a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Yester Hill (Y).md",
+                "file": "Handouts/Stat Blocks/Piccolo Statblock Handout.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9cb5bb7ec789798f",
+            "id": "e8ee947105fbd1cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Rictavio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16156ae6d71be0d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,23 +80,58 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "32506480d0e5e3f1",
         "type": "tabs",
-        "dimension": 50.367985280588776,
+        "dimension": 47.79208831646734,
         "children": [
+          {
+            "id": "0df6b41713410df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Menigal, the Departed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "047c06792da17fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Peoples and Lore/Dark Powers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "e94ceffe4d3dac8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Yester Hill (Y).md",
+                "file": "Handouts/Misc/Quests.md",
                 "mode": "source",
                 "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6722cc872cb34e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Handouts/Misc/Pelanil's Conversation with Menigal.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -131,37 +154,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48159bc528677826",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Handouts/Misc/Quests.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "def9b3e41e7a8ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Prep/Session 22.md",
+                "file": "New Handouts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Session Prep/Session 23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Handouts.md",
+                "file": "Session Prep/Session 23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Handouts.md"
+                "file": "Session Prep/Session 23.md"
               }
             }
           },
@@ -407,54 +407,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "9cb5bb7ec789798f",
+  "active": "753be1aa91cead44",
   "lastOpenFiles": [
-    "Locations/The Wizard of Wines (W).md",
-    "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-baba-lysaga.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/images/things/image-of-wintersplinter.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/items/adventurer's-battleaxe.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/yester-hill-map.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/krezk/krezk-map.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/berez-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/yester-hill-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/krezk/krezk-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/krezk",
-    "Website/no-spoilers/campaign-notes/handouts/maps/berez-map.html",
-    "Website/site/assets/images/monsters/tree-blight.png",
-    "Website/site/assets/images/people/baba.webp",
-    "Website/site/assets/images/maps/druidic-groves/yester-hill.jpg",
-    "Website/site/assets/images/maps/bogs-of-berez/berez-map.jpg",
-    "Website/site/assets/images/maps/bogs-of-berez/dm-berez-map.jpg",
-    "Website/site/assets/images/monsters/wintersplinter.webp",
-    "Website/site/assets/images/maps/druidic-groves/yesterhill-dm.jpg",
+    "Handouts/Stat Blocks/Piccolo Statblock Handout.md",
+    "Website/site/no-spoilers/campaign-notes/handouts/items/blood-spear-of-kavan.html",
+    "Locations/Yester Hill (Y).md",
+    "Website/no-spoilers/campaign-notes/handouts/images/things/image-of-wintersplinter.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/things",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-menigal.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ezmerelda.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-baba-lysaga.html",
+    "New Handouts.md",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/yester-hill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/st-andral's-church.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/gates-of-barovia-image.html",
+    "TODO.md",
+    "Website/site/assets/images/items/bloodspear.webp",
     "Assets/Templates/Character.md",
     "Assets/Templates/Handout.md",
     "Assets/Templates/Portrait from Character.md",
     "Assets/Templates/Portrait.md",
     "Campaign Notes.md",
-    "Characters/Adrian Martikov.md",
-    "Characters/Alexei.md",
-    "Characters/Amalthia.md",
-    "Characters/Anakir.md",
-    "Characters/Arabelle.md",
-    "Characters/Arahja.md",
-    "Characters/Argynvost.md",
-    "Characters/Arik Lorensk.md",
-    "Characters/Arrigal.md",
-    "Characters/Baba Lysaga.md",
-    "Characters/Bardolf.md",
-    "Characters/Bella Sunbane.md",
-    "Characters/Beucephalus.md",
-    "Characters/Bildrath Cantemir.md",
-    "Characters/Bluto Krogarov.md",
-    "Characters/Bluto.md",
-    "Characters/Bray Martikov.md",
-    "Characters/Brom Martikova.md",
-    "Characters/Claudiu Martikov.md",
-    "Characters/Cyrus Belview.md",
-    "Assets/Images/People/Baba.webp",
-    "Assets/Images/Maps/Bogs of Berez/Berez Map.jpg",
-    "Assets/Images/Maps/Bogs of Berez/DM Berez Map.jpg",
+    "Custom Monsters/Child Wereraven.md",
+    "Custom Monsters/Druid Assailant Statblock.md",
+    "Custom Monsters/Dog.md",
+    "Custom Monsters/Ezmerelda Statblock.md",
+    "Custom Monsters/Druid Naturalist Statblock.md",
+    "Custom Monsters/Elite Guard Statblock.md",
+    "Custom Monsters/Mad Mage Statblock.md",
+    "Custom Monsters/Gulthias Tree Statblock.md",
+    "Custom Monsters/Madam Eva Statblock.md",
+    "Custom Monsters/Izek Stat Block.md",
+    "Custom Monsters/Morgantha Stat Block.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Custom Monsters/Phantom Warrior Stat Block.md",
+    "Custom Monsters/Needle Blight Statblock.md",
+    "Custom Monsters/Revenant Statblock.md",
+    "Custom Monsters/Pidlwick Statblock.md",
+    "Custom Monsters/Rictavio Statblock.md",
+    "Assets/Images/Items/bloodspear.webp",
+    "Website/site/assets/images/people/menigal.jpg",
+    "Assets/Images/People/menigal.jpg",
+    "Assets/Images/People/vampyr.jpg",
+    "Website/site/assets/images/people/piccolo.webp",
+    "Website/site/assets/images/misc/dead-pc.jpg",
+    "Website/site/assets/images/places/yesterhilltop.png",
+    "Website/site/assets/images/misc/travis-scott-fire.gif",
+    "Assets/Images/Places/Yesterhilltop.png",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

@@ -3,7 +3,7 @@ public: false
 new_handout: true
 ---
 
-Martial Weapon (battleaxe), Melee Weapon
+*Martial Weapon (battleaxe), Melee Weapon*
 2 lbs.	1d8 slashing - versatile (1d10)
 
 ---

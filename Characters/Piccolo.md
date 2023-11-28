@@ -1,7 +1,7 @@
 ---
 aliases: []
 ---
-(NE human)
+(N small beast)
 ![[Blinsky.webp|200]]
 ## Playing Piccolo
 
@@ -12,12 +12,12 @@ aliases: []
 ## What They Know
 
 ## Relations
-- owner: [[Gadof Blinsky|Blinsky]]
+- owner: ~~[[Rictavio]]~~ ~~[[Gadof Blinsky|Blinsky]]~~, [[Pelanil]]
 
 ## Stat Block
 
 ```statblock
-monster: Baboon
+monster: Piccolo
 ```
 
 ```dataviewjs

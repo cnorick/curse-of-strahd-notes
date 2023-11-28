@@ -36,7 +36,7 @@ public: true
 	- [[Sir Godfrey Gwilym|Godfrey]] says it was [[Session Notes/Session 20#Sir Godfrey Gwilym|stolen by witches]]
 
 ## The Wizard of Wines
-- [ ] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard
+- [x] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard ^e97701
 - [ ] Recover the gems so that grapes can be grown again
 	- [ ] gem 1 ([[Purple Grapemash No. 3]])
 	- [ ] gem 2 ([[Red Dragon Crush]])
