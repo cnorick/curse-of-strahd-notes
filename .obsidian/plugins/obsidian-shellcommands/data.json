@@ -47,7 +47,7 @@
       "variable_default_values": {},
       "output_handlers": {
         "stdout": {
-          "handler": "notification",
+          "handler": "modal",
           "convert_ansi_code": true
         },
         "stderr": {

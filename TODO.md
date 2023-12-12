@@ -1,26 +1,6 @@
-- Pick a dark power for [[Pelanil]]
-	- The dark power is trying to replace [[Vampyr]]'s champion, [[Strahd Von Zarovich|Strahd]], with [[Pelanil]]
-	- [[Pelanil]] already had the conversation with the dark power, but forgot it
-		- write a note to send only to Christian that says his new goal is to replace [[Strahd Von Zarovich|Strahd]]
-		- he agreed to this in return for his life
-		- the dark power is his new deity
-		- he's giving him boons so that he looks like he is a servant of [[Vampyr]] to [[Strahd Von Zarovich|Strahd]]
-			- but that's just a trick for [[Strahd Von Zarovich|Strahd]]
-		- [[Strahd Von Zarovich|Strahd]] thought he asked [[Vampyr]] for help at the [[The Amber Temple (X)|Amber Temple]], but he actually ended up talking to this dark power
-		- [[Vampyr]] feeds off the souls who died of extreme blood loss
-			- the new dark power needs to feed off the souls of something pelanil did
-				- betrayed him
-				- or fear
-- Write the original conversation between [[Pelanil]] and the dark power
-- Give [[Pelanil]] a new boon for killing [[Gadof Blinsky|Blinsky]]
-	- the dark power can tell him he earned it
+- [[Bardolf]] gets bitten by a werewolf on the road somewhere
+	- he really wants to be a lycanthrope
 
-
-- Get a description of the dark power that [[Pelanil]] sees in the mist
-	- he couldn't remember it the last time, but with his truesight, he can see it clearly this time while it's pulling him into the mist
-
-
-- decide what [[Shalooti]]'s 15 strength save does when pulling on [[Elora]]
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
 	- grave in [[Ruins of Berez (U)|Berez]]
@@ -45,9 +25,7 @@ Ireena options:
 		- and this will piss strahd off when he finds out
 	- Or [[The Abbott]] reincarnated [[Ireena Kolyana|Ireena]] into [[Vasilka]]'s shell
 
-- Read up on the dark powers; that will probably play into what [[Pelanil]] experiences after dying
 - Give [[Pelanil]] a dream from the [Dark Power](https://www.reddit.com/r/CurseofStrahd/comments/9zswmf/fleshing_out_curse_of_strahd_running_the_dark/) that gives him extra strength to help with damage
-	- and let him know that he has a connection with a new powerful being (this can be his new deity)
 
 Decision for Ireena:
 - [[Strahd Von Zarovich|Strahd]] took her to [[The Abbott]] to be revived
