@@ -25,4 +25,5 @@ monster: Noble
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

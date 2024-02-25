@@ -52,4 +52,5 @@ monster: Swarm of Twig Blights
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

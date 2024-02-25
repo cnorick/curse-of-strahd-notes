@@ -154,7 +154,7 @@ The theft of the bones has left the church vulnerable to attack by [[Strahd Von 
 	- [[Urwin Martikov|Urwin]] is hurt if the characters complain about the wines, for his family makes them
 - The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue
 	- If the characters claim to be adventurers, [[Urwin Martikov|Urwin]] asks them if they would be so kind as to find out what's holding up the latest shipment
-- At any given time, another 1d4 [[wereraven]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
+- At any given time, another 1d4 [[Wereraven Statblock]]s (members of [[The Keepers of the Feather]]) are present at the inn, either perched on the rooftop in raven form or huddled inside in human form
 	- These wereravens are loyal friends of the Martikovs and help protect the inn
 - If things happen to go south, the Martikovs will give the players sanctuary in the attic/hayloft
 
@@ -271,7 +271,7 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 - If the characters tamper with the chest, the ravens gather into four [[Swarm of Ravens]] and attack
 	- If two swarms are killed, the others flee
 	- Otherwise, they cease their attacks if the characters leave the chest alone
-	- If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other [[Wereraven]]s hear the ruckus and investigate (in human form)
+	- If the fighting continues for more than 3 rounds, [[Urwin Martikov]] and two other [[Wereraven Statblock]]s hear the ruckus and investigate (in human form)
 
 - A secret door in the back of the loft can be pushed open to reveal a bedchamber ([[#Master Bedroom (N2p)]]) beyond
 	- No ability check is required to spot the secret door, because light in the room beyond slips through the door's cracks
@@ -1157,4 +1157,5 @@ monster: Vampire Spawn
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

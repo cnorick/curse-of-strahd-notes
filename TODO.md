@@ -1,5 +1,9 @@
-- [[Bardolf]] gets bitten by a werewolf on the road somewhere
-	- he really wants to be a lycanthrope
+- [[Bardolf]] gets bitten by a werewolf on the road out of [[Yester Hill (Y)|Yester Hill]]
+	- he really wants to be a lycanthrope [[Lycanthropy]]
+	- the werewolves have kids with them?
+		- maybe one that ran from the orphanage in [[The Town of Vallaki (N)|Vallaki]]
+			- [[Lazlo]], [[Hans]], and [[Franz]]
+		- Or maybe they've already been infected and are pup werewolves
 
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
@@ -12,6 +16,7 @@
 - Tell the group that the second gem is in [[Ruins of Berez (U)|Berez]]
 - [[Ezmerelda d'Avenir|Ezmerelda]] and [[Rictavio|van Richten]]
 	- maybe run the [[Ezmerelda d'Avenir|Ezmerelda]] event when they take the skull back to [[Argynvostholt (Q)|Argynvostholt]]
+	- or [[Rictavio|van Richten]] when [[Bardolf]] goes werewolf at night
 
 Ireena options:
 - The party comes across a grave somewhere meaningful. Strahd has buried her
@@ -40,20 +45,20 @@ Decision for Ireena:
 
 
 ## Story Outline
-- Learn about the missing skull at [[Argynvostholt (Q)|Argynvostholt]]
-	- also learn about the dark powers
-	- don't know where the skull is
-- They go to [[Village of Krezk (S)|Krezk]] looking for answers
-	- they probably get turned away at the gates
-- They go to the Winery
-	- they learn about the gems
-	- if they're not interested in other stuff, they maybe learn about [[Ruins of Berez (U)|Berez]]
-- They maybe go to Yester Hill to get the gem
-- Bring the gem back, get some wine
-- Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbott]]
-- Learn about [[Ruins of Berez (U)|Berez]] for sure
-- Go to [[Ruins of Berez (U)|Berez]] and get the skull
-- Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
-- Learn where [[The Amber Temple (X)|The Amber Temple]] is
-- Go there and get the sword
-- Fight [[Strahd Von Zarovich|Strahd]]
+- [x] Learn about the missing skull at [[Argynvostholt (Q)|Argynvostholt]]
+	- [x] also learn about the dark powers
+	- [x] don't know where the skull is
+- [ ] They go to [[Village of Krezk (S)|Krezk]] looking for answers
+	- [ ] they probably get turned away at the gates
+- [x] They go to the Winery
+	- [x] they learn about the gems
+	- [x] if they're not interested in other stuff, they maybe learn about [[Ruins of Berez (U)|Berez]]
+- [x] They maybe go to Yester Hill to get the gem
+- [ ] Bring the gem back, get some wine
+- [ ] Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbott]]
+- [ ] Learn about [[Ruins of Berez (U)|Berez]] for sure
+- [ ] Go to [[Ruins of Berez (U)|Berez]] and get the skull
+- [ ] Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
+- [ ] Learn where [[The Amber Temple (X)|The Amber Temple]] is
+- [ ] Go there and get the sword
+- [ ] Fight [[Strahd Von Zarovich|Strahd]]

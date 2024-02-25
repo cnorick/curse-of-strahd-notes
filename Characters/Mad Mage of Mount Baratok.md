@@ -28,4 +28,5 @@ monster: The Mad Mage of Mount Baratok
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

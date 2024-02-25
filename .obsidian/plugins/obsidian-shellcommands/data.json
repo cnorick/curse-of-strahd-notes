@@ -25,7 +25,7 @@
     {
       "id": "z40cg5s567",
       "platform_specific_commands": {
-        "default": "cd \"Website\" && start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && START /WAIT timeout /nobreak /t 900 > nul < nul && echo \"Starting publish script\" && bash scripts/publish.sh"
+        "default": "cd \"Website\" && start \"\" \"obsidian://advanced-uri?vault=obsidian&commandid=webpage-html-export%253Aexport-html-vault\" && START /WAIT timeout /nobreak /t 300 > nul < nul && echo \"Starting publish script\" && bash scripts/publish.sh"
       },
       "shells": {},
       "alias": "Publish Website",
@@ -40,14 +40,14 @@
         "stderr": null
       },
       "output_channel_order": "stdout-first",
-      "output_handling_mode": "buffered",
+      "output_handling_mode": "realtime",
       "events": {},
       "command_palette_availability": "enabled",
       "preactions": [],
       "variable_default_values": {},
       "output_handlers": {
         "stdout": {
-          "handler": "modal",
+          "handler": "status-bar",
           "convert_ansi_code": true
         },
         "stderr": {

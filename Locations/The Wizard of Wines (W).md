@@ -104,4 +104,5 @@ monster: Druid Naturalist
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

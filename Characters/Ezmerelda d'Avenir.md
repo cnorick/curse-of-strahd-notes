@@ -51,4 +51,5 @@ monster: Ezmerelda d'Avenir
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

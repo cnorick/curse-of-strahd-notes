@@ -1,3 +1,4 @@
+## Pelanil
 Boons:
 - those early hit points that quickly disappeared
 - resistance to necrotic, nonmagical weapon damage
@@ -10,6 +11,7 @@ Banes:
 
 Neutral:
 - eye color and hair color changed
+- has [[Piccolo]]
 
 
 Upcoming ([[Menigal, the Departed|Menigal]])
@@ -31,3 +33,16 @@ Upcoming ([[Menigal, the Departed|Menigal]])
     - The DM may choose that 1 attempt that day to attack an enemy is instead redirected to another target, including a party member, if the damage from that attack will result in that alternative target being brought to 0 or less hit points.
         
     - The DM may cause the character to force fail a Suggestion spell from Menigal, ordering the character to spare a humanoids life.
+	
+## Bardolf
+[[Lycanthropy]]
+![[Lycanthropy#TLDR;]]
+
+## Anakir
+- recovering from [[Mechanics of Dream Pastries|Pies]] addiction
+
+## Shalooti
+- has [[Lancelot Stat Block]]
+
+## Elora
+- her brother, [[Izek Strazni|Izek]] protects her over all else

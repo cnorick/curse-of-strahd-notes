@@ -64,4 +64,5 @@ monster: Phantom Warrior
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

@@ -46,4 +46,5 @@ monster: Pidlwick II
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

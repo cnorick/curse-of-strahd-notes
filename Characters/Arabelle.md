@@ -23,4 +23,5 @@ monster:
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

@@ -57,4 +57,5 @@ monster: Rictavio
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

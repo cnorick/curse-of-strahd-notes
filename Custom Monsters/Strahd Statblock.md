@@ -152,4 +152,5 @@ monster: Strahd von Zarovich
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

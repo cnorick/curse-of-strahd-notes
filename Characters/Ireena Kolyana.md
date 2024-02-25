@@ -121,4 +121,5 @@ hp: 14
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

@@ -24,4 +24,5 @@ name: Night Hag
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

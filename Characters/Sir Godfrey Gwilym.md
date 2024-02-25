@@ -39,4 +39,5 @@ monster: Sir Godfrey Gwilym
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

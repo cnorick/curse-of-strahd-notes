@@ -40,4 +40,5 @@ monster: Priest
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

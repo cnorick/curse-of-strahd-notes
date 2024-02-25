@@ -17,4 +17,5 @@ monster: Druid Assailant
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

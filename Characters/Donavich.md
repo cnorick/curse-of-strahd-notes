@@ -43,4 +43,5 @@ monster: Acolyte
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

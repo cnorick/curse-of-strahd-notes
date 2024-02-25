@@ -9,4 +9,5 @@ extends: Baboon
 monster: Piccolo
 ```
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

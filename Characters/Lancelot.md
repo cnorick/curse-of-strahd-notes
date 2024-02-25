@@ -16,4 +16,5 @@
 monster: Dog
 ```
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

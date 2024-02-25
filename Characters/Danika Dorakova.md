@@ -32,4 +32,5 @@ monster: Wereraven
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

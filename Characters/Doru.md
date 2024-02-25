@@ -39,4 +39,5 @@ monster: Vampire Spawn
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

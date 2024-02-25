@@ -76,4 +76,5 @@ monster: Morgantha
 monster: Dretch
 ```
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

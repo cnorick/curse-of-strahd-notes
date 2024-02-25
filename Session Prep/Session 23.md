@@ -43,6 +43,6 @@ After he has a chance to read:
 - [[Yester Hill (Y)]]
 - They can explore, see the fog, climb the mountain
 - at the right time (maybe after they've seen the [[Strahd Von Zarovich|Strahd]] statue), the bois start coming out of the rock towers and doing the ritual
-- When [[Wintersplinter]] comes to life, the druids and berserkers flee for the tree line, taking opportunity attacks
+- When [[Wintersplinter Statblock]] comes to life, the druids and berserkers flee for the tree line, taking opportunity attacks
 - After the battle, the remaining forest folk flee for the woods
 	- their effigy dying is a bad omen, and they kinda start to doubt [[Strahd Von Zarovich|Strahd]]'s power

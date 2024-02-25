@@ -11,4 +11,5 @@ monster: Wintersplinter
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

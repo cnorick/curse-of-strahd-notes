@@ -38,4 +38,5 @@ monster: Ghast
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

@@ -132,11 +132,11 @@ You can use one or both of the following special events while the characters exp
 
 >A thirty-foot-tall plant creature bursts out of the statue, sending twigs and earth flying. The creature resembles a dead treant with green light seeping out of it.
 
-- The creature that erupts from the wooden statue is a that the [[Forest Folk]] call [[Wintersplinter]]. The green light comes from the magic gem embedded in its "heart." The gem can be removed only when ,[[Wintersplinter]] is dead.
+- The creature that erupts from the wooden statue is a that the [[Forest Folk]] call [[Wintersplinter Statblock]]. The green light comes from the magic gem embedded in its "heart." The gem can be removed only when ,[[Wintersplinter Statblock]] is dead.
 
-- The druids command [[Wintersplinter]] to travel north and lay waste to the [[The Wizard of Wines (W)|Wizard of Wines]] vineyard (chapter 12)
+- The druids command [[Wintersplinter Statblock]] to travel north and lay waste to the [[The Wizard of Wines (W)|Wizard of Wines]] vineyard (chapter 12)
 	- Although the characters might not understand what the druids are up to, they will no doubt wonder where the druids are sending the tree blight
-	- As [[Wintersplinter]] travels north, its destination should become clear to characters who have previously visited the winery and the vineyard
+	- As [[Wintersplinter Statblock]] travels north, its destination should become clear to characters who have previously visited the winery and the vineyard
 	- Whether they try to halt its advance is up to them
 
 - Once the tree blight departs, Strahd commands the druids and berserkers to leave the hill so that he can be alone. As they flee into the woods, he gazes longingly at the image of his ancestral homeland to the west (see [[#Y5. Wall of Fog]])
@@ -176,4 +176,5 @@ monster: Gulthias Tree
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

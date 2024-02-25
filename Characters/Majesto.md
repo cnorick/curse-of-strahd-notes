@@ -23,4 +23,5 @@ image: ![[Majesto.png]]
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

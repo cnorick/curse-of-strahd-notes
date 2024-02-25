@@ -1,3 +1,35 @@
+## TLDR;
+- bitten -> DC 15 CON save; infected on fail
+- benefits:
+	- immune to nonmagical/non-silvered damage (wounds heal instantaneously)
+	- advantage on smell/hearing (werewolf) skill checks
+	- STR (werewolf) => 18
+	- other beasts of same class regard with cautious friendship
+- cons:
+	- lose control of character at night
+	- cannot benefit from short rest
+		- after 3 days => exhaustion
+		- regain half total HP when transforming to were
+- at night:
+	- feel horrific pain shoot through their limbs and their memory goes dark
+	- in the morning, they wake up naked somewhere
+		- maybe covered in blood
+		- maybe [[Rictavio|van Richten]] is trying to kill them
+		- maybe lost important campaign item
+- in battle:
+	- can go hulk if about to die or for good narrative reason
+	- transform, get half HP, must attack nearest creature (even friendly)
+- removal:
+	- [[Greater Restoration]]
+		- [[Madam Eva]], [[Strahd Von Zarovich|Strahd]], or [[The Abbott]] (Healing Touch)
+	- Killing root Lycanthrope
+		- [[Emil Toranescu]]
+		- passed down from one elder to next
+		- if he dies, all werewolves in Barovia disappear
+	- [[#Belladonna Root Treatment]]
+		- very dangerous poison that may kill PC instead of healing
+		- [[Rictavio|van Richten]], [[Kasimir Velikov]], [[Baba Lysaga]], [[Strahd Von Zarovich|Strahd]]/[[Rahadin]], [[Mad Mage of Mount Baratok|Mad Mage]]
+
 ## Overall Clarifications and Reminders
 
 ### Damage Immunities

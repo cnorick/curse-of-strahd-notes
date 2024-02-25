@@ -62,4 +62,5 @@ monster: Vine Blight
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

@@ -31,4 +31,5 @@ monster: Bandit Captain
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

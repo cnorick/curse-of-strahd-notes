@@ -86,4 +86,5 @@ monster: Vladimir Horngaard
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

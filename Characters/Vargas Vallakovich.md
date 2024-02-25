@@ -67,4 +67,5 @@ monster: Noble
 monster: Mastiff
 ```
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```

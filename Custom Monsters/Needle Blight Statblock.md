@@ -49,4 +49,5 @@ monster: Needle Blight
 ```
 
 ```dataviewjs
+dv.span(dv.current().file.name)
 ```
