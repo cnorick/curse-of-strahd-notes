@@ -7,10 +7,13 @@
 - They're leaving [[Yester Hill (Y)|Yester Hill]] with the gem
 - [[Random Encounters#Werewolves]]
 - 3 werewolves and 2 direwolves: 2500xp => less than medium difficulty
+- 3 pups [[Hans]], [[Franz]], [[Lazlo]]
+- The 
 - [[Bardolf]] gets bitten
 	- [[Lycanthropy]]
 
 ## Wizard of Wines
+- don't forget [[Gadof Blinsky|Blinsky]]'s body is in the basement
 - they'll probably take the gem back
 - It's an hour to [[The Wizard of Wines (W)|Wizard of Wines]] from [[Yester Hill (Y)|Yester Hill]]
 - They can offer info about how to fix [[Lycanthropy]] if asked
@@ -26,7 +29,10 @@
 	- that the people pissed [[Strahd Von Zarovich|Strahd]] off and he flooded it
 	- it is DANGEROUS; they tell the party to stay around and rest before tackling it
 
+- [[Bardolf]] wakes up naked in the vineyard with blood on him
+
 ## Berez
+- ~3hr walk
 
 ## Statblocks
  
