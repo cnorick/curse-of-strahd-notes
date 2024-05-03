@@ -15,5 +15,6 @@
   "userIgnoreFilters": [
     "Website/",
     "Website/site/assets/images/"
-  ]
+  ],
+  "propertiesInDocument": "source"
 }

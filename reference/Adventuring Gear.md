@@ -24,7 +24,7 @@ This section describes items that have special rules or require further explanat
 
 ***Case, Map or Scroll***. This cylindrical leather case can hold up to ten rolled-up sheets of paper or five rolled-up sheets of parchment.
 
-***Chain***. A chain has 10 hit points. It can be burst with a successful DC 20 Strength check.
+***Chain***. A chain has 10 hit points. It can be burst with a successful DC 20 Strength check. ^b8e9c5
 
 ***Climber's Kit***. A climber's kit includes special pitons, boot tips, gloves, and a harness. You can use the climber's kit as an action to anchor yourself; when you do, you can't fall more than 25 feet from the point where you anchored yourself, and you can't climb more than 25 feet away from that point without undoing the anchor.
 

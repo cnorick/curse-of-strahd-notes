@@ -144,6 +144,8 @@ creature: Twig Blight
 
 ### False Trail
 
+^ea5845
+
 This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
 
 >You discover a foot trail that cuts through the wilderness.

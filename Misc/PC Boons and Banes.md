@@ -4,6 +4,8 @@ Boons:
 - resistance to necrotic, nonmagical weapon damage
 - extra 10 movement
 - truesight
+- If he doesn't kill during the day, he can't benefit from a long rest
+- [[Among the Dead]]
 
 Banes:
 - weakness to sunlight, radiant damage, running water, stake to the heart, forbiddance
@@ -17,7 +19,7 @@ Neutral:
 Upcoming ([[Menigal, the Departed|Menigal]])
 **BOON:**
 
-- Character gains Among the Dead from the Undying Warlock class
+- [x] Character gains Among the Dead from the Undying Warlock class
     
 - Character automatically succeeds death rolls
     

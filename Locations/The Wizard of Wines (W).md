@@ -1,5 +1,12 @@
 ---
-aliases: [Wizard of Wines, The Wizard of Wines, Wizard of the Wines, The Winery, Winary, WoW]
+aliases:
+  - Wizard of Wines
+  - The Wizard of Wines
+  - Wizard of the Wines
+  - The Winery
+  - Winary
+  - WoW
+  - Winery
 ---
 
 - Druids = Forest Folk, Mud Eaters

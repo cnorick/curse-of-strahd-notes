@@ -20,8 +20,8 @@ Baba Lysaga recently stole a magic gemstone from the [[The Wizard of Wines (W)|W
 The following boxed text assumes that the characters approach Berez from the north, along the trail leading from the Old Svalich Road. If they approach from a different direction, don't read the first sentence.
 
 >The trail hugs the river for several miles. The dirt and grass soon turn to marsh as the trail dissolves into spongy earth pockmarked with stands of tall reeds and pools of stagnant water. A thick shroud of fog covers all. Scattered throughout the marsh are old peasant cottages, their walls covered with black mildew, their roofs mostly caved in. These decrepit dwellings seem to hunker down in the mire, as though they have long since given up on escaping the thick mud. Everywhere you look, black clouds of flies dart about, hungry for blood.
-
-The fog is much thinner on the far side of the river, where a light flashes amid a dark ring of standing stones.
+>
+>The fog is much thinner on the far side of the river, where a light flashes amid a dark ring of standing stones.
 
 The river ranges in depth but is never more than 10 feet deep. [[Muriel Vinshaw]], a wereraven in human form, lurks amid the circle of standing stones (area U6) and is using a lantern to signal the heroes. In the village proper, fog prevents a creature from seeing any other creature or object more than 120 feet away.
 
@@ -228,7 +228,14 @@ creature: Baba Lysaga's Creeping Hut
 ```
 
 ## Maps
+On an average sized humanoid (about 5'6" height I'd say), the waters in Areas A and D get up to about ribcage height. The waters in Areas B and C get up to about waist height. And the waters in Area E get up to about shoulder height. The rest of Berez is filled with either ankle-deep to knee-deep water.
+
+![[berez_water.jpg]]
 
 ![[DM Berez Map.jpg]]
 
+
 ![[creeping-hut-dm.webp]]
+
+```dataviewjs
+```

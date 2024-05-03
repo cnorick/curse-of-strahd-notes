@@ -32,14 +32,14 @@ public: true
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]
 
 ## Argynvostholt
-- [ ] Find [[Argynvost]]'s skull so that the beacon can be re-lit
+- [ ] Find [[Argynvost]]'s skull so that the beacon can be re-lit ^cd99e4
 	- [[Sir Godfrey Gwilym|Godfrey]] says it was [[Session Notes/Session 20#Sir Godfrey Gwilym|stolen by witches]]
 
 ## The Wizard of Wines
 - [x] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard ^e97701
 - [ ] Recover the gems so that grapes can be grown again
-	- [ ] gem 1 ([[Purple Grapemash No. 3]])
-	- [ ] gem 2 ([[Red Dragon Crush]])
+	- [x] gem 1 ([[Purple Grapemash No. 3]]) ^c1016a
+	- [ ] gem 2 ([[Red Dragon Crush]]) ^4a4e62
 	- [ ] gem 3 ([[Champagne du le Stomp]])
 
 ## Krezk
@@ -51,3 +51,7 @@ public: true
 	- You technically succeeded, but [[Ireena Kolyana|Ireena]] is in greater danger than ever lol
 	- [[Ireena Kolyana|Ireena]] is dead. Poor [[Ismark Kolyanovich|Ismark]]
 - [ ] [[Mad Mage of Mount Baratok|Mordenkainen]] said to come back when they're ready to fight [[Strahd Von Zarovich|Strahd]]
+- [ ] Find a cure for [[Bardolf]]'s [[Lycanthropy]] ^56b12b
+	- [ ] See if the [[Mad Mage of Mount Baratok|Mad Mage]], [[Baba Lysaga]], or someone else has Belladonna root
+	- [ ] Find someone to cast [[Greater Restoration]]
+	- [ ] Find and kill the root werewolf

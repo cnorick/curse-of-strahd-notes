@@ -6,6 +6,7 @@
       {
         "id": "25143c4a27e9bcd9",
         "type": "tabs",
+        "dimension": 45.262189512419496,
         "children": [
           {
             "id": "ade21f05dc32d874",
@@ -13,9 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Ruins of Berez (U).md",
+                "file": "Session Prep/Session 26.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6e051920c06c3668",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Images/Maps/barovia_tagged.jpg"
               }
             }
           },
@@ -25,7 +36,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Baba Lysaga.md",
+                "file": "Session Notes/Session 25.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32506480d0e5e3f1",
+        "type": "tabs",
+        "dimension": 54.737810487580504,
+        "children": [
+          {
+            "id": "426a79f4046eb497",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ruins of Berez (U).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,31 +74,24 @@
             }
           },
           {
-            "id": "c223607d16fd75e4",
+            "id": "c8f0bf65d3883e05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Wizard of Wines (W).md",
+                "file": "Misc/Lycanthropy.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "32506480d0e5e3f1",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e94ceffe4d3dac8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Handouts/Misc/Quests.md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,18 +111,6 @@
             }
           },
           {
-            "id": "10add2686a411b1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ruins of Berez (U).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "022f322fed0e6ae8",
             "type": "leaf",
             "state": {
@@ -110,9 +121,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "885bebbd7faa76a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/The Wizard of Wines (W).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"among the dead\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,7 +201,7 @@
       {
         "id": "fe5c714fb79ea826",
         "type": "tabs",
-        "dimension": 43.44957587181904,
+        "dimension": 26.47058823529412,
         "children": [
           {
             "id": "5dd923c79aeee55a",
@@ -187,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Baba Lysaga.md",
+                "file": "Session Prep/Session 26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Baba Lysaga.md",
+                "file": "Session Prep/Session 26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Baba Lysaga.md"
+                "file": "Session Prep/Session 26.md"
               }
             }
           },
@@ -252,7 +274,7 @@
       {
         "id": "a87c5c2b485e8f12",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "7850a6261726de54",
@@ -267,7 +289,7 @@
       {
         "id": "5c47d50373c74177",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "05e1ffc9ab04372b",
@@ -282,7 +304,7 @@
       {
         "id": "a558fc647c8521f9",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "260997e11f4e9e80",
@@ -297,7 +319,7 @@
       {
         "id": "a419b8400a321ed2",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "b4e80770f2227f8e",
@@ -312,7 +334,7 @@
       {
         "id": "35d035085c396c70",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "510e7fa8551580e1",
@@ -327,13 +349,28 @@
       {
         "id": "db70a9531e6c9b27",
         "type": "tabs",
-        "dimension": 9.42507068803016,
+        "dimension": 10.504201680672269,
         "children": [
           {
             "id": "457d4fbe49aded63",
             "type": "leaf",
             "state": {
               "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9adfa36e5838292",
+        "type": "tabs",
+        "dimension": 10.504201680672269,
+        "children": [
+          {
+            "id": "0a0419274665dc68",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -352,60 +389,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "media-extended:Open media": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1bc8bd673889c04f",
+  "active": "ade21f05dc32d874",
   "lastOpenFiles": [
-    "Session Prep/Session 25.md",
-    "Locations/The Wizard of Wines (W).md",
+    "reference/creatures/Giant Poisonous Snake.md",
+    "Session Prep/Session 26.md",
     "Locations/Ruins of Berez (U).md",
-    "Characters/Baba Lysaga.md",
+    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/berez_water.jpg",
+    "Custom Monsters/Crawling Claw Statblock.md",
+    "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
     "Characters/Strahd Von Zarovich.md",
-    "Misc/Peoples and Lore/Mother Night.md",
-    "Misc/Peoples and Lore/The Morninglord.md",
+    "Custom Monsters/Strahd Statblock.md",
+    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/berez_water.jpg_width=2500&format=pjpg&auto=webp&v=enabled&s=502ca4acced8a57c566cfbdf8df7ffbf69403b10",
+    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/Unconfirmed 484724.crdownload",
     "Misc/Random Encounters.md",
-    "Misc/RAW/Lycanthropy.md",
-    "Session Notes/Session 24.md",
+    "reference/Situational Rules.md",
+    "Locations/Raven River Crossroads (R).md",
+    "Assets/Images/Maps/barovia_tagged.jpg",
+    "Misc/Map of Barovia.md",
+    "reference/Adventuring Gear.md",
+    "Session Notes/Session 25.md",
+    "Session Prep/Session 25.md",
+    "Characters/Baba Lysaga.md",
     "TODO.md",
-    "Website/site/no-spoilers/campaign-notes/handouts/images/things/hut.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-muriel.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/berez/creeping-hut-map.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/berez/berez-map.html",
-    "Website/site/no-spoilers/campaign-notes/handouts/maps/berez",
-    "Website/no-spoilers/campaign-notes/handouts/misc/pelanil's-conversation-with-menigal.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/krezk/krezk-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/krezk",
-    "Website/no-spoilers/campaign-notes/handouts/maps/berez/creeping-hut-map.html",
-    "Website/no-spoilers/campaign-notes/handouts/maps/berez/berez-map.html",
+    "Session Notes/Session 24.md",
+    "Handouts/Misc/Pelanil's Conversation with Menigal.md",
+    "Misc/PC Boons and Banes.md",
+    "Session Prep/Session 23.md",
+    "Characters/Menigal, the Departed.md",
+    "Misc/Lycanthropy.md",
+    "Locations/The Wizard of Wines (W).md",
+    "Misc/RAW/Adventuring Gear.md",
+    "Handouts/Images/Places/Berez.md",
+    "New Handouts.md",
+    "Assets/Images/Places/berez.jpg",
+    "Assets/Images/Places/berez.jpg.crdownload",
+    "Website/site/no-spoilers/campaign-notes/session-notes/session-25.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-muriel.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ezmerelda.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-baba-lysaga.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/yester-hill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
+    "Website/no-spoilers/campaign-notes/handouts/images/places/st-andral's-church.html",
+    "Website/site/assets/images/monsters/werewolf-kids.webp",
+    "Assets/Images/Monsters/werewolf-kids.webp",
+    "Website/no-spoilers/campaign-notes/lib/media/map-old-bonegrinder.jpg",
+    "Website/no-spoilers/campaign-notes/lib/media/map-vistani-camp.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/argyvostholt.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/berez-map.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/barovia_untagged.webp",
-    "Website/no-spoilers/campaign-notes/lib/media/berserker.jpg",
-    "Website/no-spoilers/campaign-notes/lib/media/baba.webp",
-    "Website/no-spoilers/campaign-notes/lib/media/cypress_belview.jpeg",
-    "Website/no-spoilers/campaign-notes/lib/media/blue_water_inn.webp",
-    "Website/no-spoilers/campaign-notes/lib/media/arik-the-barkeep-v2.webp",
-    "Website/no-spoilers/campaign-notes/lib/media/argynvost.jpg",
-    "Website/no-spoilers/campaign-notes/lib/media/barvia-church.jpg",
-    "Campaign Notes.md",
-    "Custom Monsters/Dog.md",
-    "Custom Monsters/Druid Naturalist Statblock.md",
-    "Custom Monsters/Child Wereraven Statblock.md",
-    "Custom Monsters/Druid Assailant Statblock.md",
-    "Custom Monsters/Ezmerelda Statblock.md",
-    "Custom Monsters/Elite Guard Statblock.md",
-    "Custom Monsters/Gulthias Tree Statblock.md",
-    "Custom Monsters/Izek Stat Block.md",
-    "Custom Monsters/Mad Mage Statblock.md",
-    "Custom Monsters/Madam Eva Statblock.md",
-    "Custom Monsters/Night Hag (Spells Inlined).md",
-    "Custom Monsters/Phantom Warrior Stat Block.md",
-    "Custom Monsters/Morgantha Stat Block.md",
-    "Custom Monsters/Needle Blight Statblock.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

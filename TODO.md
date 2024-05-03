@@ -1,10 +1,8 @@
-- [[Bardolf]] gets bitten by a werewolf on the road out of [[Yester Hill (Y)|Yester Hill]]
-	- he really wants to be a lycanthrope [[Lycanthropy]]
-	- the werewolves have kids with them?
-		- maybe one that ran from the orphanage in [[The Town of Vallaki (N)|Vallaki]]
-			- [[Lazlo]], [[Hans]], and [[Franz]]
-		- Or maybe they've already been infected and are pup werewolves
-
+- Figure out what to do with the kids long term
+	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
+	- maybe they return to the den to capitalize on the political schism
+	- or go off to start their own pack
+- put some belladonna root at [[Ruins of Berez (U)|Berez]]
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
 	- grave in [[Ruins of Berez (U)|Berez]]

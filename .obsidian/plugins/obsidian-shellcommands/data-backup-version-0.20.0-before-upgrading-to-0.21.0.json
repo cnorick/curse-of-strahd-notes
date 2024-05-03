@@ -1,5 +1,5 @@
 {
-  "settings_version": "0.21.0",
+  "settings_version": "0.20.0",
   "debug": false,
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
@@ -7,7 +7,6 @@
   "working_directory": "",
   "default_shells": {},
   "environment_variable_path_augmentations": {},
-  "show_installation_warnings": true,
   "error_message_duration": 20,
   "notification_message_duration": 10,
   "execution_notification_mode": "disabled",

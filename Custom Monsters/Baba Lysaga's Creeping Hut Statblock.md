@@ -1,4 +1,5 @@
 ---
+statblock: true
 image: [[Assets/Images/Monsters/creeping-hut.webp]]
 name: Baba Lysaga's Creeping Hut
 source:

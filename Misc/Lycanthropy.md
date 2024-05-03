@@ -3,7 +3,7 @@
 - benefits:
 	- immune to nonmagical/non-silvered damage (wounds heal instantaneously)
 	- advantage on smell/hearing (werewolf) skill checks
-	- STR (werewolf) => 18
+	- STR (werewolf) => 18 (+4)
 	- other beasts of same class regard with cautious friendship
 - cons:
 	- lose control of character at night

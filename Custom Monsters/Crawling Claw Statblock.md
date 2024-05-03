@@ -1,4 +1,5 @@
 ---
+statblock: true
 image: [[Crawling Claw.webp]] 
 name: Crawling Claw
 source:
