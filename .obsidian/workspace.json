@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Prep/Session 26.md",
+                "file": "Locations/Ruins of Berez (U).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Prep/Session 26.md",
+                "file": "Locations/Ruins of Berez (U).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Prep/Session 26.md"
+                "file": "Locations/Ruins of Berez (U).md"
               }
             }
           },
@@ -396,10 +396,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ade21f05dc32d874",
+  "active": "426a79f4046eb497",
   "lastOpenFiles": [
-    "reference/creatures/Giant Poisonous Snake.md",
     "Session Prep/Session 26.md",
+    "TODO.md",
+    "Session Prep/Session 25.md",
+    "reference/creatures/Giant Poisonous Snake.md",
     "Locations/Ruins of Berez (U).md",
     "Assets/Images/Maps/Bogs of Berez/Swamps Edge/berez_water.jpg",
     "Custom Monsters/Crawling Claw Statblock.md",
@@ -415,9 +417,7 @@
     "Misc/Map of Barovia.md",
     "reference/Adventuring Gear.md",
     "Session Notes/Session 25.md",
-    "Session Prep/Session 25.md",
     "Characters/Baba Lysaga.md",
-    "TODO.md",
     "Session Notes/Session 24.md",
     "Handouts/Misc/Pelanil's Conversation with Menigal.md",
     "Misc/PC Boons and Banes.md",

@@ -78,7 +78,7 @@ There is no gate in the fence, and [[Baba Lysaga]] uses her flying skull (see 
 
 >Someone has built a ramshackle wooden hut on the stump of what was once an enormous tree. The rotting roots of the stump thrust up from the mire like the legs of a gigantic spider.
 >
->An open doorway is visible on one side of the hut, beneath which floats the upside-down, hollowed-out skull of a giant. Flanking the hut's doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of ravens are trapped in each one. They squawk and flutter their wings excitedly as you approach.
+>An open doorway is visible on one side of the hut, beneath which is an upside-down giant skull partially sunken into the mud. Flanking the hut's doorway are two iron cages that dangle like hideous ornaments from the eaves. Scores of ravens are trapped in each one. They squawk and flutter their wings excitedly as you approach.
 
 
 [[Baba Lysaga]] (see [appendix D](https://5e.tools/adventure.html#cos,21,baba%20lysaga,0)) is inside her hut unless she has been drawn forth by activity elsewhere. The squawks of the birds are music to her ears, but the noise makes it impossible for her to hear anyone approaching. Only the howling of the skulls in [[#U2. Ulrich Mansion]] or sounds of combat nearby are loud enough to be heard over the squawking.
@@ -110,6 +110,7 @@ The wooden chest in the hut is protected by a [[Glyph of Warding]] that requir
 - A pouch containing ten [+1 sling bullets](https://5e.tools/items.html#%2b1%20sling%20bullet_dmg)
 - A set of [[Pipes of Haunting]]
 - A [[Stone of Good Luck (Luckstone)]]
+- A glass vial with some sort of plant inside. The label says "Belladonna root"
 
 ### Fortunes of Ravenloft
 

@@ -1,3 +1,9 @@
+- Stay the night while Bardolf turns into a werewolf: [[Lycanthropy]]
+- Go to [[Ruins of Berez (U)|Berez]]
+	- There is Belladonna root in the hut
+- Someone will probably die
+	- go to [[Village of Krezk (S)|Krezk]] to revive them
+
 ## Bedtime with Bardolf
 - There is a strange stench in the basement
 - [[The Wizard of Wines (W)#W14. Wine Cellar|Cellar]]
