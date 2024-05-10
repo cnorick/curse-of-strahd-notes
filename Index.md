@@ -1,7 +1,8 @@
-# Danger! Big Spoilers! Do Not Read
+# Danger! Big Spoilers! Do Not Read!
 [Go here for no-spoiler session notes](https://cos.nathanorick.com/no-spoilers/campaign-notes/index.html)
 [Handouts for this Session](https://cos.nathanorick.com/no-spoilers/campaign-notes/new-handouts.html)
 
+Are you a DM running Curse of Strahd. Check out the [[README]] to download a copy of these notes for [Obsidian](https://obsidian.md/)
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
