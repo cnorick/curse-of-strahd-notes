@@ -1,0 +1,8 @@
+- The group is planning on:
+	- delivering the gem
+	- freeing the ravens on the hut
+	- delivering the skull
+	- maybe visiting [[Village of Krezk (S)|Krezk]]
+- Maybe talk them into visiting the cemetery or mansion in Berez
+	- Marina's shrine is in the cemetery
+	- The ghost is in the mansion who explains what happened to Baba/Marina

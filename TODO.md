@@ -1,8 +1,9 @@
-- Figure out what to do with the kids long term
+- Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
 	- or go off to start their own pack
-- put some belladonna root at [[Ruins of Berez (U)|Berez]]
+	- decision: [[Lazlo]], [[Hans]], and [[Franz]] decide to go back to the werewolf den to attempt to take advantage of the political schism and free the other children
+
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
 	- grave in [[Ruins of Berez (U)|Berez]]
@@ -11,7 +12,6 @@
 
 - place the third missing gem somewhere
 
-- Tell the group that the second gem is in [[Ruins of Berez (U)|Berez]]
 - [[Ezmerelda d'Avenir|Ezmerelda]] and [[Rictavio|van Richten]]
 	- maybe run the [[Ezmerelda d'Avenir|Ezmerelda]] event when they take the skull back to [[Argynvostholt (Q)|Argynvostholt]]
 	- or [[Rictavio|van Richten]] when [[Bardolf]] goes werewolf at night
@@ -52,10 +52,10 @@ Decision for Ireena:
 	- [x] they learn about the gems
 	- [x] if they're not interested in other stuff, they maybe learn about [[Ruins of Berez (U)|Berez]]
 - [x] They maybe go to Yester Hill to get the gem
-- [ ] Bring the gem back, get some wine
+- [x] Bring the gem back, get some wine
 - [ ] Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbott]]
 - [ ] Learn about [[Ruins of Berez (U)|Berez]] for sure
-- [ ] Go to [[Ruins of Berez (U)|Berez]] and get the skull
+- [x] Go to [[Ruins of Berez (U)|Berez]] and get the skull
 - [ ] Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
 - [ ] Learn where [[The Amber Temple (X)|The Amber Temple]] is
 - [ ] Go there and get the sword

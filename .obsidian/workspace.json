@@ -4,131 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25143c4a27e9bcd9",
-        "type": "tabs",
-        "dimension": 45.262189512419496,
-        "children": [
-          {
-            "id": "ade21f05dc32d874",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Prep/Session 26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e051920c06c3668",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Images/Maps/barovia_tagged.jpg"
-              }
-            }
-          },
-          {
-            "id": "1bc8bd673889c04f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "32506480d0e5e3f1",
         "type": "tabs",
-        "dimension": 54.737810487580504,
         "children": [
-          {
-            "id": "426a79f4046eb497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ruins of Berez (U).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a86b7bd2110af0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Prep/Session 25.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8f0bf65d3883e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Lycanthropy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e94ceffe4d3dac8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6722cc872cb34e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "022f322fed0e6ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/PC Boons and Banes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "885bebbd7faa76a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/The Wizard of Wines (W).md",
+                "file": "Characters/Madam Eva.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +86,7 @@
       {
         "id": "fe5c714fb79ea826",
         "type": "tabs",
-        "dimension": 26.47058823529412,
+        "dimension": 29.577464788732396,
         "children": [
           {
             "id": "5dd923c79aeee55a",
@@ -209,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ruins of Berez (U).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ruins of Berez (U).md",
+                "file": "Characters/Strahd Von Zarovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ruins of Berez (U).md"
+                "file": "Characters/Strahd Von Zarovich.md"
               }
             }
           },
@@ -274,7 +159,7 @@
       {
         "id": "a87c5c2b485e8f12",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "7850a6261726de54",
@@ -289,7 +174,7 @@
       {
         "id": "5c47d50373c74177",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "05e1ffc9ab04372b",
@@ -304,7 +189,7 @@
       {
         "id": "a558fc647c8521f9",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "260997e11f4e9e80",
@@ -319,7 +204,7 @@
       {
         "id": "a419b8400a321ed2",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "b4e80770f2227f8e",
@@ -334,7 +219,7 @@
       {
         "id": "35d035085c396c70",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "510e7fa8551580e1",
@@ -349,28 +234,13 @@
       {
         "id": "db70a9531e6c9b27",
         "type": "tabs",
-        "dimension": 10.504201680672269,
+        "dimension": 11.737089201877934,
         "children": [
           {
             "id": "457d4fbe49aded63",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "d9adfa36e5838292",
-        "type": "tabs",
-        "dimension": 10.504201680672269,
-        "children": [
-          {
-            "id": "0a0419274665dc68",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
               "state": {}
             }
           }
@@ -392,58 +262,96 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "media-extended:Open media": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "426a79f4046eb497",
+  "floating": {
+    "id": "6b12cf7cb83a982e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e062714cabdef9ed",
+        "type": "window",
+        "children": [
+          {
+            "id": "82f50dc0670c752b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ccfcc385523eb749",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Characters/Strahd Von Zarovich.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 830,
+        "y": 555,
+        "width": 800,
+        "height": 400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ccfcc385523eb749",
   "lastOpenFiles": [
-    "Session Prep/Session 26.md",
-    "TODO.md",
-    "Session Prep/Session 25.md",
-    "reference/creatures/Giant Poisonous Snake.md",
-    "Locations/Ruins of Berez (U).md",
-    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/berez_water.jpg",
-    "Custom Monsters/Crawling Claw Statblock.md",
-    "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Custom Monsters/Strahd Statblock.md",
-    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/berez_water.jpg_width=2500&format=pjpg&auto=webp&v=enabled&s=502ca4acced8a57c566cfbdf8df7ffbf69403b10",
-    "Assets/Images/Maps/Bogs of Berez/Swamps Edge/Unconfirmed 484724.crdownload",
-    "Misc/Random Encounters.md",
-    "reference/Situational Rules.md",
-    "Locations/Raven River Crossroads (R).md",
-    "Assets/Images/Maps/barovia_tagged.jpg",
-    "Misc/Map of Barovia.md",
-    "reference/Adventuring Gear.md",
-    "Session Notes/Session 25.md",
-    "Characters/Baba Lysaga.md",
-    "Session Notes/Session 24.md",
-    "Handouts/Misc/Pelanil's Conversation with Menigal.md",
-    "Misc/PC Boons and Banes.md",
-    "Session Prep/Session 23.md",
-    "Characters/Menigal, the Departed.md",
-    "Misc/Lycanthropy.md",
-    "Locations/The Wizard of Wines (W).md",
-    "Misc/RAW/Adventuring Gear.md",
-    "Handouts/Images/Places/Berez.md",
-    "New Handouts.md",
-    "Assets/Images/Places/berez.jpg",
-    "Assets/Images/Places/berez.jpg.crdownload",
-    "Website/site/no-spoilers/campaign-notes/session-notes/session-25.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-muriel.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-ezmerelda.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/portraits/portrait-of-baba-lysaga.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/yester-hill.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/the-windmill.html",
-    "Website/no-spoilers/campaign-notes/handouts/images/places/st-andral's-church.html",
-    "Website/site/assets/images/monsters/werewolf-kids.webp",
-    "Assets/Images/Monsters/werewolf-kids.webp",
+    "Characters/Madam Eva.md",
+    "Website/site/no-spoilers/campaign-notes/lib/media/favicon.png",
+    "Website/site/no-spoilers/campaign-notes/lib/media/874d8b8e340f75575caa.svg",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/94f2f163d4b698242fef.otf",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/05b618077343fbbd92b7.ttf",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/2d5198822ab091ce4305.woff2",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/454577c22304619db035.ttf",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/72505e6a122c6acd5471.woff2",
+    "Website/site/no-spoilers/campaign-notes/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "Website/no-spoilers/campaign-notes/lib/media/morgantha_unmasked.webp",
+    "Website/no-spoilers/campaign-notes/lib/media/yester-hill.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/map-old-bonegrinder.jpg",
-    "Website/no-spoilers/campaign-notes/lib/media/map-vistani-camp.jpg",
+    "Website/no-spoilers/campaign-notes/lib/media/dm-map-coffin-maker's-shop.jpg",
+    "Website/no-spoilers/campaign-notes/lib/media/rahadin.webp",
     "Website/no-spoilers/campaign-notes/lib/media/argyvostholt.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/berez-map.jpg",
-    "Website/no-spoilers/campaign-notes/lib/media/barovia_untagged.webp",
+    "Website/no-spoilers/campaign-notes/lib/media/ember-argynvost.jpg",
+    "Characters/Haliq.md",
+    "Characters/Dag Tomescu.md",
+    "Characters/Cyrus Belview.md",
+    "Characters/Strahd Von Zarovich.md",
+    "Index.md",
+    "Strahd.md",
+    "Misc/Random Encounters.md",
+    "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+    "Session Prep/Session 26.md",
+    "Locations/Ruins of Berez (U).md",
+    "Handouts/Images/Places/Berez.md",
+    "Handouts/Images/Things/Hut.md",
+    "Handouts/Images/Portraits/Portrait of Baba Lysaga.md",
+    "Handouts/Maps/Berez/Creeping Hut Map.md",
+    "Handouts/Images/Portraits/Portrait of Muriel.md",
+    "Handouts/Maps/Berez/Berez Map.md",
+    "Session Notes/Session 26.md",
+    "New Handouts.md",
+    "Characters/Tatyana.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 8-9.md",
     "Misc/Templates/Untitled.canvas",
     "Untitled.canvas"
   ]

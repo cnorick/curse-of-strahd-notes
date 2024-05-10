@@ -29,6 +29,16 @@
 	align-items: center;
 }
 
+.flow-item:has(input:checked) {
+    background-color: hsla(var(--color-accent-hsl), 0.3);
+}
+
+.flow-item input[type="checkbox"] {
+    padding: 0;
+    margin: 0.1em;
+    margin-right: 0.5em;
+}
+
 /* Progressbar used in the render progress */
 
 .html-render-progressbar::-webkit-progress-bar {
@@ -42,4 +52,94 @@
 }
 
 
+.file-picker .tree-icon {
+    border: 1px solid transparent;
+    margin: 0px 4px 0px 0px;
+    display: flex;
+    align-self: center;
+}
 
+.file-picker .tree-icon :is(svg, img)
+{
+	width: 16px !important;
+	height: 16px !important;
+}
+
+.file-picker .tree-icon *:has(svg, img) {
+    display: contents !important;
+}
+
+.file-picker a.tree-item-self.is-clickable
+{
+	text-decoration: none !important;
+	text-decoration-line: none !important;
+	outline: none !important;
+	border: none !important;
+}
+
+.file-picker .tree-item-inner > p
+{
+	display: contents !important;
+}
+
+.file-picker .nav-folder.mod-root>.nav-folder-title 
+{
+    display: flex!important;
+    align-items: center!important;
+    font-size: 1em;
+    padding-left: 0;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+}
+
+.file-picker .nav-folder.mod-root > .nav-folder-title > .tree-item-inner
+{
+	flex-grow: 0 !important;
+	margin-right: 0.5em;
+}
+
+.file-picker *:before
+{
+	display: none !important;
+}
+
+.file-picker .tree-item-self
+{
+	padding-left: 5px !important;
+	display: flex !important;
+}
+
+.file-picker .tree-item-self > *:not(.nav-file-tag, .file-checkbox)
+{
+	position: relative !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	translate: none !important;
+}
+
+.file-picker .tree-item-self > .file-checkbox
+{
+	margin-right: 1em;
+}
+
+.file-picker .tree-item-self > .tree-item-inner
+{
+	padding: 0 0.3em !important;
+}
+
+.file-picker .tree-item-children > *
+{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+
+.file-picker .collapse-icon,
+.file-picker .collapse-icon *
+{
+	display: block !important;
+}
+
+.file-picker > .mod-root > .nav-folder-title > .tree-item-inner
+{
+	font-size: 16px !important;
+}
