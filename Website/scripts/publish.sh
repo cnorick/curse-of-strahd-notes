@@ -4,9 +4,9 @@
 
 flags="--delete"
 
-s3Path="s3://tater-cos-site"
+script_full_path=$(dirname "$0")
 
-cloudFrontId="EO6PCDBX74WRI"
+source "${script_full_path}/.env"
 
 echo cleaning notes
 ./scripts/clean-notes.sh
@@ -15,7 +15,7 @@ echo copying no-spoilers to main folder
 cp -r no-spoilers site/
 
 echo syncing to aws
-aws s3 sync site $s3Path $flags
+aws s3 sync site "$S3_PATH" $flags
 
 echo invalidating cloudfront
-aws cloudfront create-invalidation --distribution-id $cloudFrontId --paths '/*'
+aws cloudfront create-invalidation --distribution-id $CF_ID --paths '/*'
