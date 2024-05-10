@@ -22,9 +22,14 @@ def fixUrls(soup):
     a['rel'] = ''
     a['data-href'] = ''
 
-def removeSidebar(soup):
-  treeContainer = soup.find(class_='tree-container')
-  treeContainer.decompose()
+def removeSidebars(soup):
+  leftSidebar = soup.find(class_='sidebar-left')
+  if leftSidebar:
+    leftSidebar.decompose()
+
+  rightSidebar = soup.find(class_='sidebar-right')
+  if rightSidebar:
+    rightSidebar.decompose()
 
 def updateRootPath(soup, rootPath):
   pass
@@ -35,11 +40,16 @@ def fixImages(soup):
   images = soup.select('.image-embed>img')
   for image in images:
     image['src'] = '/' + image['src']
+    imageLink = soup.new_tag('a')
+    imageLink['href'] = image['src']
+    image.wrap(imageLink)
 
 def updateFavicon(soup):
-  icon = soup.find("link", rel="icon")
-  icon['href'] = '/favicon.ico'
-  icon['sizes'] = ''
+  # supported natively
+  pass
+  # icon = soup.find("link", rel="icon")
+  # icon['href'] = '/favicon.ico'
+  # icon['sizes'] = ''
 
 def removeLinksInFile(fname):
   with open(fname, 'r+') as handle:
@@ -90,7 +100,7 @@ def updateAllSpoilerFiles(folder):
         with open(fname, 'r+') as handle:
           soup = BeautifulSoup(handle.read(), 'html.parser')
           print('Removing Sidebar for: {}'.format(fname))
-          removeSidebar(soup)
+          removeSidebars(soup)
           # print('Updating Root Path for: {}'.format(fname))
           # updateRootPath(soup, folder)
           print('Removing dynamic links for: {}'.format(fname))
@@ -139,14 +149,15 @@ def updateAllFiles(rootSiteFolder):
       if filename.endswith('.html'):
         fname = os.path.join(root, filename)
         with open(fname, 'r+') as handle:
-          soup = BeautifulSoup(handle.read(), 'html.parser')
-          print('Updating favicon for: {}'.format(fname))
-          updateFavicon(soup)
+          pass
+          # soup = BeautifulSoup(handle.read(), 'html.parser')
+          # print('Updating favicon for: {}'.format(fname))
+          # updateFavicon(soup)
           # print('Wrapping images for: {}'.format(fname))
           # wrapImagesInLink(soup)
-          print('Adding styles link for: {}'.format(fname))
-          addStylesLink(soup)
-          overwriteFile(handle, soup)
+          # print('Adding styles link for: {}'.format(fname))
+          # addStylesLink(soup)
+          # overwriteFile(handle, soup)
 
 
 
@@ -154,4 +165,4 @@ rootSpoilersFolder = sys.argv[1]
 rootMainSiteFolder = sys.argv[2]
 importLinkedFilesForFolder(rootSpoilersFolder, rootMainSiteFolder)
 updateAllSpoilerFiles(rootSpoilersFolder)
-updateAllFiles(rootMainSiteFolder)
+# updateAllFiles(rootMainSiteFolder)
