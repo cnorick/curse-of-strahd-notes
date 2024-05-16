@@ -168,14 +168,29 @@
               "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
+          },
+          {
+            "id": "287593886f2db5f7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a68bac79524155e5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 833.5,
-    "collapsed": true
+    "width": 833.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +206,14 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4a27a591b674b655",
+  "active": "a68bac79524155e5",
   "lastOpenFiles": [
+    "smart-chats",
     "Session Notes/Session 26.md",
     "Locations/Argynvostholt (Q).md",
     "Session Notes/Session 25.md",
@@ -223,7 +241,6 @@
     "Custom Monsters/Pidlwick Statblock.md",
     "Custom Monsters/Revenant Statblock.md",
     "Custom Monsters/Rictavio Statblock.md",
-    "Custom Monsters/Scarecrow Statblock.md",
     "Website/site/no-spoilers/campaign-notes/lib/media/favicon.png",
     "Website/site/no-spoilers/campaign-notes/lib/media/874d8b8e340f75575caa.svg",
     "Website/site/no-spoilers/campaign-notes/lib/fonts/94f2f163d4b698242fef.otf",

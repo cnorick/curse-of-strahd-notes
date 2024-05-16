@@ -7,7 +7,6 @@
 	- Marina's shrine is in the cemetery
 	- The ghost is in the mansion who explains what happened to Baba/Marina
 
-
 - At argyvostholt, Esmerelda shows up, or Strahd's wagon appears out front
-	- Do the wagon of [[Strahd Von Zarovich|Strahd]]'s
+	- Do the wagon of [[Strahd Von Zarovich|Strahd]]'s; it's been a while since he's shown up
 

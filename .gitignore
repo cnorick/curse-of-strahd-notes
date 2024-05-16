@@ -1,3 +1,9 @@
 Website/site
 Website/no-spoilers
 Website/scripts/.env
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections
