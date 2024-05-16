@@ -148,6 +148,9 @@
 - I'm borrowing this idea straight from guildsbounty. In their post, they suggest that Belladonna (a highly poisonous real world herb) can be used as a preemptive measure to stop lycanthropy before a victim's first change. I've modified this slightly so that it can be used to sort of "kill off" the curse within any individual.
 
 #### The Mechanics of consuming Belladonna Root
+
+^fe5926
+
 - Takes 10 minutes to show effects
 - Has a bitter taste and a peculiar musky smell, making it hard to mask in foods and such.
 - After consumption, the target must succeed on a DC 13 Constitution saving throw or their strength score is reduced by 1d4.

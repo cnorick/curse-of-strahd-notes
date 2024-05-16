@@ -3,6 +3,13 @@
 	- freeing the ravens on the hut
 	- delivering the skull
 	- maybe visiting [[Village of Krezk (S)|Krezk]]
+
+- Deal with [[Bardolf]]
+![[Lycanthropy#The Mechanics of consuming Belladonna Root]]
+
+
+- [[The Keepers of the Feather|The Martikovs]] have made 250 gold since they left
+	- the party's share is 25% or 63gp
 - Maybe talk them into visiting the cemetery or mansion in [[Ruins of Berez (U)|Berez]]
 	- Marina's shrine is in the cemetery
 	- The ghost is in the mansion who explains what happened to Baba/Marina
@@ -24,3 +31,6 @@
 
 - As they leave, they see that the revenants have all turned to ash
 	- if Godfrey is with them, they see that he is finally free to die
+
+- As they leave:
+	- Parked outside the castle, is a large black carriage drawn by two black horses. The horses snort puffs of steamy breath into the chill mountain air. The side door of the carriage swings open silently.

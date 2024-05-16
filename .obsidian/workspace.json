@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40bacb24db8961a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Misc/Lycanthropy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -188,13 +200,14 @@
   },
   "active": "4a27a591b674b655",
   "lastOpenFiles": [
-    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
+    "Misc/Lycanthropy.md",
     "Session Prep/Session 27.md",
+    "Session Notes/Session 25.md",
+    "Misc/Campaign Items/The Holy Symbol of Ravenkind.md",
     "smart-chats/UNTITLED CHAT 2024-05-16 01 51 39.md",
     "smart-chats",
     "Session Notes/Session 26.md",
     "Locations/Argynvostholt (Q).md",
-    "Session Notes/Session 25.md",
     "Session Notes/Session 22.md",
     "Session Notes/Session 24.md",
     "Session Notes/Session 23.md",
@@ -216,7 +229,6 @@
     "Custom Monsters/Phantom Warrior Stat Block.md",
     "Custom Monsters/Piccolo Statblock.md",
     "Custom Monsters/Pidlwick Statblock.md",
-    "Custom Monsters/Revenant Statblock.md",
     "Website/site/no-spoilers/campaign-notes/lib/media/favicon.png",
     "Website/site/no-spoilers/campaign-notes/lib/media/874d8b8e340f75575caa.svg",
     "Website/site/no-spoilers/campaign-notes/lib/fonts/94f2f163d4b698242fef.otf",
