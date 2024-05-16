@@ -10,6 +10,9 @@ aliases: [Dmitri, Krezkov]
 ## History/Info
 
 ## What They Want
+- doesn't care if the group is for or against [[Strahd Von Zarovich|Strahd]]
+	- will only give his favor if they help [[Village of Krezk (S)|Krezk]] in some way
+	- Asks for a wagonload of wine
 
 ## What They Know
 [[Barovian Lore]]

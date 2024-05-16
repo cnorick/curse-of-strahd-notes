@@ -11,40 +11,39 @@ Dmitri is a lord and expects to be treated like one. He places the safety of his
 
 If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.
 
-A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see [area S3](https://longo.com.br/5e/adventure.html#cos,8,s3.%20village%20of%20krezk)).
+A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see S3).
 
 ## Areas
 ### S1. Road Junction
 
 >The road branches north and climbs a rocky escarpment, ending at a gatehouse built into a twenty-foot-high wall of stone reinforced with buttresses every fifty feet or so. The wall encloses a settlement on the side of a snow-dusted mountain spur. Beyond the wall you see the tops of snow-covered pines and thin, white wisps of smoke. The somber toll of a bell comes from a stone abbey that clings to the mountainside high above the settlement. The steady chime is inviting—a welcome change from the deathly silence and oppressive fog to which you have grown accustomed. It's hard to tell at this distance, but there seems to be a switchback road clinging to the cliffs that lead up from the walled settlement to the abbey.
 
-The Old Svalich Road continues west from this location for a little more than a mile before it plunges into the foggy curtain that surrounds Barovia (see chapter 2, "Mists of Ravenloft"). Characters who follow the road north arrive at the gatehouse ([area S2]).
+The Old Svalich Road continues west from this location for a little more than a mile before it plunges into the foggy curtain that surrounds Barovia (see chapter 2, "Mists of Ravenloft"). Characters who follow the road north arrive at the gatehouse (S2).
 
 ### S2. Gatehouse
 
 The map of Krezk includes a diagram of the gatehouse.
 
-The air grows colder as you approach the walled settlement. Two square towers with peaked roofs flank a stone archway into which is set a pair of twelve-foot-tall, ironbound wooden doors. Carved into the arch above the doors is a name: Krezk.
-
-The walls that extend from the gatehouse are twenty feet high. Atop the parapet you see four figures wearing fur hats and clutching spears. They watch you nervously.
+>The air grows colder as you approach the walled settlement. Two square towers with peaked roofs flank a stone archway into which is set a pair of twelve-foot-tall, ironbound wooden doors. Carved into the arch above the doors is a name: Krezk.
+>The walls that extend from the gatehouse are twenty feet high. Atop the parapet you see four figures wearing fur hats and clutching spears. They watch you nervously.
 
 Cut into the upper floor of each tower is an arrow slit 6 inches wide, 4 feet tall, and 1 foot deep. An open doorway leads from the archer's post in each tower to the adjacent parapet. Behind the walls, wooden ladders lead from the parapets to the ground 20 feet below.
 
-Two archers (LG male and female human [scouts](https://longo.com.br/5e/bestiary.html#scout_mm)) are stationed inside the gatehouse, one in each tower. Four [guards](https://longo.com.br/5e/bestiary.html#guard_mm) (LG male and female humans) man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [commoners](https://longo.com.br/5e/bestiary.html#commoner_mm) (LG male and female humans) armed with handaxes.
+Two archers (LG male and female human [[Scout]]s) are stationed inside the gatehouse, one in each tower. Four [[Guard]]s (LG male and female humans) man the adjacent walls. If the characters are seen flying or climbing over the walls, the guards assume that the village is under attack and cry out in alarm. Five rounds after the alarm sounds, every able-bodied adult in the village arrives at the gatehouse, ready for battle. Krezk's militia consists of four more guards plus forty [[Commoner]]s (LG male and female humans) armed with handaxes.
 
 The double doors are made of thick wood planks bound with iron bands and sealed shut with a heavy wooden bar held in iron brackets. The bar can be lifted with a successful DC 15 Strength check. The doors require a siege engine to break them open.
 
-There aren't enough people in Krezk to adequately defend its outer wall. Every 300-foot stretch of wall is watched over by a lone [guard](https://longo.com.br/5e/bestiary.html#guard_mm) (LG male or female human). The guards are trained to crouch behind the wall and sound the alarm at any sign of danger.
+There aren't enough people in Krezk to adequately defend its outer wall. Every 300-foot stretch of wall is watched over by a lone [[Guard]] (LG male or female human). The guards are trained to crouch behind the wall and sound the alarm at any sign of danger.
 
-Burgomaster Dmitri Krezkov
+#### Burgomaster Dmitri Krezkov
 
-If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, Dmitri Krezkov (LG male human [noble](https://longo.com.br/5e/bestiary.html#noble_mm)). His ancestors built Krezk at the foot of the abbey after Strahd's armies conquered the valley.
+If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, [[Dmitri Krezkov]]. His ancestors built Krezk at the foot of the abbey after [[Strahd Von Zarovich|Strahd]]'s armies conquered the valley.
 
-Dmitri is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd's allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn't prepared to shelter Strahd's enemies any more than he is willing to humor Strahd's allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Wizard of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.
+[[Dmitri Krezkov|Dmitri]] is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd's allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn't prepared to shelter Strahd's enemies any more than he is willing to humor Strahd's allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Wizard of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.
 
 If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.
 
-A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya—the last of his children (see [area S3](https://longo.com.br/5e/adventure.html#CoS,8,s3.%20village%20of%20krezk)).
+A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, [[Ilya Krezkov|Ilya]]—the last of his children (see S3).
 
 ### S3. Village of Krezk
 
@@ -311,7 +310,7 @@ Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it is hidden in the niche along with the potion.
 
-S14. Foyer
+### S14. Foyer
 
 This room used to be an office, as evidenced by the remains of a desk and a chair, both of which have been smashed to pieces. A hallway to the south leads to a staircase going up. A dark passage to the east is full of unnatural whispers, mad laughter, and bestial odors.
 
@@ -319,7 +318,7 @@ The stairs lead up to [area S20](https://longo.com.br/5e/adventure.html#CoS,8,s
 
 If the characters enter this area making noise or carrying light sources, the golem in [area S15](https://longo.com.br/5e/adventure.html#CoS,8,s15.%20madhouse) is drawn to them (unless they have already defeated it).
 
-S15. Madhouse
+### S15. Madhouse
 
 This lightless corridor has multiple doors behind which lie creatures that shatter the quiet with their mad cackles and whispered curses. The stench is overpowering.
 
@@ -333,13 +332,13 @@ None of the doors leading from the hall are locked. If the characters open any a
 
 The sixty [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) confined here are fed at irregular intervals by Clovin Belview. Dinner is foretold by the ringing of the abbey bell ([area S17](https://longo.com.br/5e/adventure.html#CoS,8,s17.%20loft%20and%20belfry)). These mongrelfolk aren't restrained, but they refuse to leave their rooms for fear of being killed by the golem or cast out of the abbey and forced to fend for themselves. In addition to a dagger, each mongrelfolk has its own wooden soup bowl.
 
-S15a. Fearful Mongrelfolk
+#### S15a. Fearful Mongrelfolk
 
 This room was once a shared bedchamber, but its furnishings have been destroyed. Three shrieking mongrels cower in the shadowy northwest corner. One of them cradles something shiny.
 
 Three [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) are confined here. One of them cradles a polished brass candlestick as if it was a doll. Any attempt to take it causes the mongrelfolk to attack.
 
-S15b. Quarreling Mongrelfolk
+#### S15b. Quarreling Mongrelfolk
 
 Four mongrel creatures brawl amid the wreckage of this bedchamber while a fifth watches and cackles behind a life-sized, painted wooden statue of a saintly woman in robes.
 
@@ -347,25 +346,25 @@ Five [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) are 
 
 The statue is a little over 5 feet tall and carved from a single piece of wood. It depicts Saint Markovia. Close inspection reveals that it is covered with bite marks.
 
-S15c. Incanting Mongrelfolk
+#### S15c. Incanting Mongrelfolk
 
 Seven mongrels are seated in the middle of this room, forming a ring. They appear to be chanting a spell.
 
 These seven [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) are trying to cast a spell that will cause the abbey's bell to ring, so that dinner will be served. They are speaking nonmagical gibberish.
 
-S15d. Hungry Mongrelfolk
+#### S15d. Hungry Mongrelfolk
 
 Nine mongrel creatures stand in the middle of this room, starting at the doorway in silence with hungry looks in their eyes.
 
 These nine [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) haven't been fed in days because Clovin doesn't like them. They try to kill and devour any character who sets foot in the room.
 
-S15e. Mongrelfolk Horde
+#### S15e. Mongrelfolk Horde
 
 This room is packed wall to wall with mongrels wallowing in their own filth. The floor is strewn with gnawed bones.
 
 Sixteen screaming [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) are confined here. The bones are all that remain of mongrelfolk who perished and were eaten. The survivors beg for food.
 
-S15f. Singing and Dancing Mongrelfolk
+#### S15f. Singing and Dancing Mongrelfolk
 
 Eight mongrels caper about the wreckage of this bedchamber while singing a rhyme. One of them holds up a glittering gold statuette as it leads this mad parade.
 
@@ -382,19 +381,19 @@ Treasure. 
 
 The [golden statuette](https://longo.com.br/5e/items.html#statuette%20of%20saint%20markovia_cos) depicts Saint Markovia and is worth 250 gp. It grants any good-aligned creature that carries it a +1 bonus to saving throws.
 
-S15g. Mongrelfolk Babies
+#### S15g. Mongrelfolk Babies
 
 Filthy mongrels cradle screaming young in the debris-strewn corners of this room while several more hoot, holler, roll on the floor, and whack each other with sticks.
 
 This room contains ten [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos), three of which are tending to noncombatant mongrelfolk babies.
 
-S15h. Mongrelfolk Fort
+#### S15h. Mongrelfolk Fort
 
 This room contains a fort made out of piled bits of shattered furniture and torn draperies. From within the fort, you hear a mischievous cackle.
 
 Two [mongrelfolk](https://longo.com.br/5e/bestiary.html#mongrelfolk_cos) live in the "fort" but refuse to come out unless baited with food. While hidden under the wreckage, they have three-quarters cover.
 
-S16. Wine Cellar
+### S16. Wine Cellar
 
 The stone steps descend twenty feet to a cellar that contains ten barrels of wine and an L-shaped wooden rack packed with wine bottles.
 
@@ -406,7 +405,7 @@ Treasure
 
 Among the wine bottles on the rack is one with no stopper and a label that reads "Champagne du le Stomp." It contains a rolled-up [spell scroll](https://longo.com.br/5e/items.html#spell%20scroll%20(6th%20level)_dmg) of [heroes' feast](https://longo.com.br/5e/spells.html#heroes'%20feast_phb).
 
-S17. Loft and Belfry
+### S17. Loft and Belfry
 
 Anyone on the curtain wall ([area S18](https://longo.com.br/5e/adventure.html#CoS,8,s18.%20curtain%20wall)) who listens at this room's door hear the soft tones of a stringed instrument.
 
@@ -452,7 +451,7 @@ Your eyes play tricks, for what truly lies atop the table are chopped-up body pa
 
 The body parts were plundered from graves in Krezk. They are leftovers—pieces the Abbot didn't use in the creation of Strahd's bride (see [area S13](https://longo.com.br/5e/adventure.html#CoS,8,s13.%20main%20hall)).
 
-S18. Curtain Wall
+### S18. Curtain Wall
 
 Scarecrows line the abbey walls, looking outward. They wear tattered chain shirts and carry spears with rusty heads. The courtyard below is blanketed with fog.
 
@@ -460,7 +459,7 @@ The scarecrows are lashed to wooden stands. Though fearsome from a distance, the
 
 It's a 15-foot drop from the top of the wall to the courtyard. Any creature that falls over the southwest wall tumbles 400 feet down the cliffside.
 
-S19. Barracks
+### S19. Barracks
 
 Bunk beds that have disintegrated with age lie in heaps along the walls of this moldy, thirty-foot-square room.
 
@@ -478,13 +477,13 @@ Ezmerelda crept into Krezk unseen under cover of darkness and made her way to th
 
 As the Abbot's guest, Ezmerelda is free to come and go as she pleases. If the characters seem committed to fighting Strahd, she abandons her plan and offers to join forces with them.
 
-S20. Upstairs Office
+### S20. Upstairs Office
 
 A wooden counter shaped like an L stands at the front of this spacious office. All the other furniture has rotted away, leaving heaps of moldy wood and faded cloth.
 
 The wood of the counter is old, soft, and easily broken. Nothing of value remains here. If the characters haven't already cleared out the madhouse ([area S15](https://longo.com.br/5e/adventure.html#CoS,8,s15.%20madhouse)), they can hear the whoops, laughter, and screams of the mongrelfolk below. The clamor continues as they explore areas S21-S24 to the east.
 
-S21. Haunted Hospital
+### S21. Haunted Hospital
 
 This spacious chamber contains bed frames of wrought iron arranged in two neat rows. Cobwebs and bits of rotten mattress cling to each frame.
 
@@ -492,7 +491,7 @@ Three doors are spaced along the south wall, each with a plaque mounted on it. F
 
 Six [shadows](https://longo.com.br/5e/bestiary.html#shadow_mm) haunt this room. They are the remnants of dark souls that perished here long ago. The creatures wait until one or more characters are at least 10 feet inside the room before moving out from within the normal shadows to attack. The shadows can't leave this room.
 
-S22. Operating Room
+### S22. Operating Room
 
 A bloodstained table stands in the middle of this otherwise empty room.
 
@@ -502,7 +501,7 @@ A scream fills the room—a scream that echoes through time. It is followed by o
 
 There is nothing of value here.
 
-S23. Nursery
+### S23. Nursery
 
 This room contains the wreckage of old wooden cribs.
 
@@ -512,7 +511,7 @@ Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it is under the wreckage of one of the cribs.
 
-S24. Morgue
+### S24. Morgue
 
 A raven perches on the windowsill of this otherwise empty room.
 
@@ -520,7 +519,7 @@ If the characters approach the [raven](https://longo.com.br/5e/bestiary.html#ra
 
 A character who kills the raven is cursed. While cursed, the character has disadvantage on all attack rolls and ability checks. A [greater restoration](https://longo.com.br/5e/spells.html#greater%20restoration_phb) spell, a [remove curse](https://longo.com.br/5e/spells.html#remove%20curse_phb) spell, or a similar effect ends the curse.
 
-Special Events
+## Special Events
 
 You can use one or more of the following special events while the characters explore Krezk and the abbey.
 
