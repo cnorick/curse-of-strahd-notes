@@ -2,7 +2,15 @@
 [Go here for no-spoiler session notes](https://cos.nathanorick.com/no-spoilers/campaign-notes/index.html)
 [Handouts for this Session](https://cos.nathanorick.com/no-spoilers/campaign-notes/new-handouts.html)
 
-Are you a DM running Curse of Strahd. Check out the [[README]] to download a copy of these notes for [Obsidian](https://obsidian.md/)
+Are you a DM running Curse of Strahd? Check out the [[README]] to download a copy of these notes for [Obsidian](https://obsidian.md/)
+
+## Players
+```dataviewjs
+const table = dv.markdownTable(["PC", "Played By", "Website"], dv.pages('"Characters"').filter(c => c.pc).sort(c => c.name).map(c => [c.file.link, c.player, c.site]));
+
+dv.paragraph(table);
+```
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)

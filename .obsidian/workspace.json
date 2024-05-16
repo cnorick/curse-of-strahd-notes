@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "32506480d0e5e3f1",
+        "id": "cf9be573125bff80",
         "type": "tabs",
         "children": [
           {
-            "id": "885bebbd7faa76a5",
+            "id": "4a27a591b674b655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Madam Eva.md",
+                "file": "Session Prep/Session 27.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,6 @@
       {
         "id": "fe5c714fb79ea826",
         "type": "tabs",
-        "dimension": 29.577464788732396,
         "children": [
           {
             "id": "5dd923c79aeee55a",
@@ -94,8 +93,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
-                "collapseAll": false,
+                "file": "Session Prep/Session 27.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md",
+                "file": "Session Prep/Session 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Strahd Von Zarovich.md"
+                "file": "Session Prep/Session 27.md"
               }
             }
           },
@@ -153,102 +152,29 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "a87c5c2b485e8f12",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
+          },
           {
-            "id": "7850a6261726de54",
+            "id": "9c52b95aed7e9ad7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ba045556a44708b",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "5c47d50373c74177",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
-          {
-            "id": "05e1ffc9ab04372b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "a558fc647c8521f9",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
-          {
-            "id": "260997e11f4e9e80",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "a419b8400a321ed2",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
-          {
-            "id": "b4e80770f2227f8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "35d035085c396c70",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
-          {
-            "id": "510e7fa8551580e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "db70a9531e6c9b27",
-        "type": "tabs",
-        "dimension": 11.737089201877934,
-        "children": [
-          {
-            "id": "457d4fbe49aded63",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
+    "width": 833.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -264,49 +190,40 @@
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "templater-obsidian:Templater": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "floating": {
-    "id": "6b12cf7cb83a982e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e062714cabdef9ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "82f50dc0670c752b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ccfcc385523eb749",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/Strahd Von Zarovich.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 830,
-        "y": 555,
-        "width": 800,
-        "height": 400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "ccfcc385523eb749",
+  "active": "4a27a591b674b655",
   "lastOpenFiles": [
-    "Characters/Madam Eva.md",
+    "Session Notes/Session 26.md",
+    "Locations/Argynvostholt (Q).md",
+    "Session Notes/Session 25.md",
+    "Session Notes/Session 22.md",
+    "Session Notes/Session 24.md",
+    "Session Notes/Session 23.md",
+    "Session Prep/Session 27.md",
+    "Battles/1715738690623 - Encounter.md",
+    "Untitled.md",
+    "TODO.md",
+    "reference/spells/Acid Splash.md",
+    "Battles",
+    "Session Notes/2024-05-14.md",
+    "Untitled.canvas",
+    "Custom Monsters/Ezmerelda Statblock.md",
+    "Custom Monsters/Gulthias Tree Statblock.md",
+    "Custom Monsters/Morgantha Stat Block.md",
+    "Custom Monsters/Izek Stat Block.md",
+    "Custom Monsters/Mad Mage Statblock.md",
+    "Custom Monsters/Madam Eva Statblock.md",
+    "Custom Monsters/Needle Blight Statblock.md",
+    "Custom Monsters/Night Hag (Spells Inlined).md",
+    "Custom Monsters/Phantom Warrior Stat Block.md",
+    "Custom Monsters/Piccolo Statblock.md",
+    "Custom Monsters/Pidlwick Statblock.md",
+    "Custom Monsters/Revenant Statblock.md",
+    "Custom Monsters/Rictavio Statblock.md",
+    "Custom Monsters/Scarecrow Statblock.md",
     "Website/site/no-spoilers/campaign-notes/lib/media/favicon.png",
     "Website/site/no-spoilers/campaign-notes/lib/media/874d8b8e340f75575caa.svg",
     "Website/site/no-spoilers/campaign-notes/lib/fonts/94f2f163d4b698242fef.otf",
@@ -318,7 +235,6 @@
     "Website/site/no-spoilers/campaign-notes/lib/fonts/2d5198822ab091ce4305.woff2",
     "Website/site/no-spoilers/campaign-notes/lib/fonts/454577c22304619db035.ttf",
     "Website/site/no-spoilers/campaign-notes/lib/fonts/72505e6a122c6acd5471.woff2",
-    "Website/site/no-spoilers/campaign-notes/lib/fonts/70cc7ff27245e82ad414.ttf",
     "Website/no-spoilers/campaign-notes/lib/media/morgantha_unmasked.webp",
     "Website/no-spoilers/campaign-notes/lib/media/yester-hill.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/map-old-bonegrinder.jpg",
@@ -327,32 +243,6 @@
     "Website/no-spoilers/campaign-notes/lib/media/argyvostholt.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/berez-map.jpg",
     "Website/no-spoilers/campaign-notes/lib/media/ember-argynvost.jpg",
-    "Characters/Haliq.md",
-    "Characters/Dag Tomescu.md",
-    "Characters/Cyrus Belview.md",
-    "Characters/Strahd Von Zarovich.md",
-    "Index.md",
-    "Strahd.md",
-    "Misc/Random Encounters.md",
-    "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
-    "Session Prep/Session 26.md",
-    "Locations/Ruins of Berez (U).md",
-    "Handouts/Images/Places/Berez.md",
-    "Handouts/Images/Things/Hut.md",
-    "Handouts/Images/Portraits/Portrait of Baba Lysaga.md",
-    "Handouts/Maps/Berez/Creeping Hut Map.md",
-    "Handouts/Images/Portraits/Portrait of Muriel.md",
-    "Handouts/Maps/Berez/Berez Map.md",
-    "Session Notes/Session 26.md",
-    "New Handouts.md",
-    "Characters/Tatyana.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 5.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 8-9.md",
-    "Misc/Templates/Untitled.canvas",
-    "Untitled.canvas"
+    "Misc/Templates/Untitled.canvas"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: ![[Wintersplinter.webp]]
+image: [[Wintersplinter.webp]]
 extends: Tree Blight
 name: Wintersplinter
 damage_vulnerabilities: fire

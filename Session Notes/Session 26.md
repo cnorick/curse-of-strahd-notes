@@ -25,11 +25,18 @@ The group crosses the river, and heads the direction that [[Muriel Vinshaw|Murie
 ## Baba Lysaga
 Finally, they come across what must be [[Baba Lysaga]]'s hut built atop an old tree stump. Attached to the hut are cages full ravens, squawking and fluttering, across the way is a castle, in front of which is a pen full of goats, and right in front of the door to the hut is what the party presumes must be [[Argynvost]]'s skull upside-down and sunken into the mud.
 
+[[Quests]]
+![[Quests#^cd99e4]]
+
 [[Pelanil]], rushes into the hut, giving [[Baba Lysaga]] no time to react to their approach. Inside, he sees and old woman leaning over a crib with a baby inside, and below the crib, he sees a green light emanating from beneath the floorboards. [[Pelanil]] immediately casts [[Silence]] so that the presumed witch will have no chance of using the required verbal components for her spells. He then slices into her with her with his greatsword. [[Anakir]] then uses [[Banishment]] to send her to another plane. The party has one minute to act before she returns!
 
 ![[Assets/Images/People/Baba.webp]]
 
 [[Shalooti]] frantically looks through the herbs stored in the cupboard. She finds something that looks like a root, and notices it's labeled with "Belladonna Root". [[Anakir]] checks on the baby to find out that it's an illusion when his hands move right through it. [[Pelanil]] begins pulling on the floorboards beneath the crib.
+
+[[Quests]]
+![[Quests#^c3404a]]
+![[Quests#^2cdffd]]
 
 Just as [[Pelanil]] begins to move the floorboards, the house shutters and jerks. Its roots lurch and groan as the pull from the ground. [[Anakir]] is unable to hold his feet, and is flung from the hut, falling 10 feet. [[Shalooti]] and [[Pelanil]] hold strong and continue to work at the floorboards. Seeing this from outside, [[Bardolf]] grabs onto the stump with a pickaxe, but is batted away by the root-legs of the monster-hut.
 

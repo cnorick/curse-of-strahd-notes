@@ -1,4 +1,5 @@
 ---
+statblock: true
 image: null
 name: Vladimir Horngaard
 source:

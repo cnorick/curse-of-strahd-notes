@@ -1,7 +1,7 @@
 ---
 statblock: true
 name: Piccolo
-image: ![[piccolo.webp]]
+image: [[piccolo.webp]]
 extends: Baboon
 ---
 

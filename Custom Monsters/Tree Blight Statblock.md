@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: ![[Tree Blight.png]]
+image: [[Tree Blight.png]]
 name: Tree Blight
 source:
   - Curse of Strahd

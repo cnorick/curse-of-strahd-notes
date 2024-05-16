@@ -1,5 +1,6 @@
 ---
-image: null
+statblock: true
+image: [[Assets/Images/People/Ezmerelda_dAvenir.webp]]
 name: Ezmerelda d'Avenir
 source:
   - Curse of Strahd

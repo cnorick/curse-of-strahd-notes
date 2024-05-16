@@ -1,0 +1,778 @@
+{
+  "players": [
+    {
+      "note": "Bardolf",
+      "path": "Characters/Bardolf.md",
+      "name": "Bardolf",
+      "level": 8,
+      "player": true
+    },
+    {
+      "note": "Shalooti",
+      "path": "Characters/Shalooti.md",
+      "name": "Shalooti",
+      "level": 8,
+      "player": true
+    },
+    {
+      "note": "Anakir",
+      "path": "Characters/Anakir.md",
+      "name": "Anakir",
+      "level": 8,
+      "player": true
+    },
+    {
+      "note": "Elora",
+      "path": "Characters/Elora.md",
+      "name": "Elora",
+      "level": 8,
+      "player": true
+    },
+    {
+      "note": "Pelanil",
+      "path": "Characters/Pelanil.md",
+      "name": "Pelanil",
+      "level": 8,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "MD&D",
+      "players": [
+        "Bardolf",
+        "Shalooti",
+        "Anakir",
+        "Elora",
+        "Pelanil"
+      ]
+    }
+  ],
+  "defaultParty": "MD&D",
+  "statuses": [
+    {
+      "name": "Blinded",
+      "id": "Blinded",
+      "description": "A blinded creature can’t see and automatically fails any ability check that requires sight.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage."
+    },
+    {
+      "name": "Charmed",
+      "id": "Charmed",
+      "description": "A charmed creature can’t Attack the charmer or target the charmer with harmful Abilities or magical Effects.\nThe charmer has advantage on any ability check to interact socially with the creature."
+    },
+    {
+      "name": "Concentrating",
+      "id": "Concentrating",
+      "description": "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends.\nA creature loses concentration when: it casts another spell that requires concentration, is incapacitated, or dies.\nWhen a creature takes damage, it must make a constitution saving throw with a DC of 10 or half the damage it took, whichever is higher. On a failure, concentration is lost."
+    },
+    {
+      "name": "Deafened",
+      "id": "Deafened",
+      "description": "A deafened creature can’t hear and automatically fails any ability check that requires hearing."
+    },
+    {
+      "name": "Frightened",
+      "id": "Frightened",
+      "description": "A frightened creature has disadvantage on Ability Checks and Attack rolls while the source of its fear is within Line of Sight.\nThe creature can’t willingly move closer to the source of its fear."
+    },
+    {
+      "name": "Grappled",
+      "id": "Grappled",
+      "description": "A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nThe condition ends if the Grappler is incapacitated.\nThe condition also ends if an Effect removes the grappled creature from the reach of the Grappler or Grappling Effect, such as when a creature is hurled away by the Thunderwave spell."
+    },
+    {
+      "name": "Incapacitated",
+      "id": "Incapacitated",
+      "description": "An incapacitated creature can’t take Actions or Reactions."
+    },
+    {
+      "name": "Invisible",
+      "id": "Invisible",
+      "description": "An invisible creature is impossible to see without the aid of magic or a Special sense. For the Purpose of Hiding, the creature is heavily obscured. The creature’s Location can be detected by any noise it makes or any tracks it leaves.\nAttack rolls against the creature have disadvantage, and the creature’s Attack rolls have advantage."
+    },
+    {
+      "name": "Paralyzed",
+      "id": "Paralyzed",
+      "description": "A paralyzed creature is incapacitated and can’t move or speak.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+    },
+    {
+      "name": "Petrified",
+      "id": "Petrified",
+      "description": "A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.\nThe creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nAttack rolls against the creature have advantage.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nThe creature has Resistance to all damage.\nThe creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized."
+    },
+    {
+      "name": "Poisoned",
+      "id": "Poisoned",
+      "description": "A poisoned creature has disadvantage on Attack rolls and Ability Checks."
+    },
+    {
+      "name": "Prone",
+      "id": "Prone",
+      "description": "A prone creature’s only Movement option is to crawl, unless it stands up and thereby ends the condition.\nThe creature has disadvantage on Attack rolls.\nAn Attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the Attack roll has disadvantage."
+    },
+    {
+      "name": "Reacted",
+      "id": "Reacted",
+      "description": "A creature, unless otherwise specified, gets one reaction per round of combat.\nA reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.\nA reaction can be spent to make an opportunity attack, do a readied action, or use an ability that requires a reaction.\nA creature that has already reacted cannot use a reaction until the start of its turn."
+    },
+    {
+      "name": "Restrained",
+      "id": "Restrained",
+      "description": "A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.\nAttack rolls against the creature have advantage, and the creature’s Attack rolls have disadvantage.\nThe creature has disadvantage on Dexterity Saving Throws."
+    },
+    {
+      "name": "Stunned",
+      "id": "Stunned",
+      "description": "A stunned creature is incapacitated, can’t move, and can speak only falteringly.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage."
+    },
+    {
+      "name": "Unconscious",
+      "id": "Unconscious",
+      "description": "An unconscious creature is incapacitated, can’t move or speak, and is unaware of its surroundings.\nThe creature drops whatever it’s holding and falls prone.\nThe creature automatically fails Strength and Dexterity Saving Throws.\nAttack rolls against the creature have advantage.\nAny Attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature."
+    }
+  ],
+  "unconsciousId": "Unconscious",
+  "version": [
+    13,
+    0,
+    11
+  ],
+  "canUseDiceRoll": false,
+  "preferStatblockLink": true,
+  "initiative": "1d20 + %mod%",
+  "modifier": null,
+  "sync": true,
+  "playerMarker": "default",
+  "monsterMarker": "default",
+  "state": {
+    "creatures": [
+      {
+        "name": "Pelanil",
+        "initiative": 17,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Pelanil",
+        "path": "Characters/Pelanil.md",
+        "id": "ID_39e9bbdad81b",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Baba Lysaga's Creeping Hut",
+        "initiative": 16,
+        "static": false,
+        "modifier": -2,
+        "hp": 263,
+        "currentMaxHP": 263,
+        "cr": "11",
+        "ac": 16,
+        "currentAC": 16,
+        "path": "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+        "id": "ID_285bfa18a9ab",
+        "currentHP": 263,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "17d20 + 85",
+        "rollHP": false
+      },
+      {
+        "name": "Sir Godfrey Gwilym",
+        "initiative": 15,
+        "static": false,
+        "modifier": 2,
+        "hp": 136,
+        "currentMaxHP": 136,
+        "cr": "6",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Custom Monsters/Sir Godfrey Gwilym Statblock.md",
+        "id": "ID_fa8b3baa1948",
+        "currentHP": 136,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "16d8 + 64",
+        "rollHP": false
+      },
+      {
+        "name": "Baba Lysaga's Creeping Hut",
+        "initiative": 14,
+        "static": false,
+        "modifier": -2,
+        "hp": 263,
+        "currentMaxHP": 263,
+        "cr": "11",
+        "ac": 16,
+        "currentAC": 16,
+        "path": "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+        "id": "ID_0b5a4be93bc8",
+        "currentHP": 263,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "17d20 + 85",
+        "rollHP": false
+      },
+      {
+        "name": "Sir Godfrey Gwilym",
+        "initiative": 13,
+        "static": false,
+        "modifier": 2,
+        "hp": 136,
+        "currentMaxHP": 136,
+        "cr": "6",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Custom Monsters/Sir Godfrey Gwilym Statblock.md",
+        "id": "ID_9b0b0b1b4af9",
+        "currentHP": 136,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "16d8 + 64",
+        "rollHP": false
+      },
+      {
+        "name": "Baba Lysaga",
+        "initiative": 12,
+        "static": false,
+        "modifier": 0,
+        "hp": 120,
+        "currentMaxHP": 120,
+        "cr": "11",
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Custom Monsters/Baba Lysaga Statblock.md",
+        "id": "ID_ab09c8e99b4a",
+        "currentHP": 120,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": true,
+        "friendly": false,
+        "hit_dice": "16d8 + 48",
+        "rollHP": false
+      },
+      {
+        "name": "Baba Lysaga",
+        "initiative": 11,
+        "static": false,
+        "modifier": 0,
+        "hp": 120,
+        "currentMaxHP": 120,
+        "cr": "11",
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Custom Monsters/Baba Lysaga Statblock.md",
+        "id": "ID_b80a58193bf8",
+        "currentHP": 120,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": true,
+        "friendly": false,
+        "hit_dice": "16d8 + 48",
+        "rollHP": false
+      },
+      {
+        "name": "Shalooti",
+        "initiative": 8,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Shalooti",
+        "path": "Characters/Shalooti.md",
+        "id": "ID_f88868f99b08",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Baba Lysaga",
+        "initiative": 6,
+        "static": false,
+        "modifier": 0,
+        "hp": 110,
+        "currentMaxHP": 110,
+        "cr": "11",
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Custom Monsters/Baba Lysaga Statblock.md",
+        "id": "ID_6bca489b9bbb",
+        "currentHP": 95,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "16d8 + 48"
+      },
+      {
+        "name": "Anakir",
+        "initiative": 6,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Anakir",
+        "path": "Characters/Anakir.md",
+        "id": "ID_5888aa5bbb3a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Elora",
+        "initiative": 3,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Elora",
+        "path": "Characters/Elora.md",
+        "id": "ID_a8081909faea",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Blinded"
+        ],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Sir Godfrey Gwilym",
+        "initiative": 3,
+        "static": false,
+        "modifier": 2,
+        "hp": 136,
+        "currentMaxHP": 136,
+        "cr": "6",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Custom Monsters/Sir Godfrey Gwilym Statblock.md",
+        "id": "ID_f869388998da",
+        "currentHP": 126,
+        "tempHP": 0,
+        "status": [
+          "Blinded"
+        ],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "16d8 + 64"
+      },
+      {
+        "name": "Bardolf",
+        "initiative": 2,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "note": "Bardolf",
+        "path": "Characters/Bardolf.md",
+        "id": "ID_999a8bd86b99",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [
+          "Blinded"
+        ],
+        "enabled": true,
+        "level": 8,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Baba Lysaga's Creeping Hut",
+        "initiative": 2,
+        "static": false,
+        "modifier": -2,
+        "hp": 263,
+        "currentMaxHP": 263,
+        "cr": "11",
+        "ac": 16,
+        "currentAC": 16,
+        "path": "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+        "id": "ID_bb699b6b297a",
+        "currentHP": 263,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": true,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "17d20 + 85"
+      }
+    ],
+    "state": false,
+    "name": "Encounter",
+    "round": 3,
+    "logFile": "Battles/1715738690623 - Encounter.md",
+    "rollHP": false
+  },
+  "condense": false,
+  "clamp": true,
+  "autoStatus": true,
+  "beginnerTips": true,
+  "displayDifficulty": true,
+  "encounters": {
+    "Baba Lysaga": {
+      "creatures": [
+        {
+          "name": "Bardolf",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 0,
+          "currentMaxHP": 0,
+          "note": "Bardolf",
+          "path": "Characters/Bardolf.md",
+          "id": "ID_999a8bd86b99",
+          "currentHP": 0,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "level": 8,
+          "player": true,
+          "hidden": false,
+          "friendly": false
+        },
+        {
+          "name": "Shalooti",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 0,
+          "currentMaxHP": 0,
+          "note": "Shalooti",
+          "path": "Characters/Shalooti.md",
+          "id": "ID_f88868f99b08",
+          "currentHP": 0,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "level": 8,
+          "player": true,
+          "hidden": false,
+          "friendly": false
+        },
+        {
+          "name": "Anakir",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 0,
+          "currentMaxHP": 0,
+          "note": "Anakir",
+          "path": "Characters/Anakir.md",
+          "id": "ID_5888aa5bbb3a",
+          "currentHP": 0,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "level": 8,
+          "player": true,
+          "hidden": false,
+          "friendly": false
+        },
+        {
+          "name": "Elora",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 0,
+          "currentMaxHP": 0,
+          "note": "Elora",
+          "path": "Characters/Elora.md",
+          "id": "ID_a8081909faea",
+          "currentHP": 0,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "level": 8,
+          "player": true,
+          "hidden": false,
+          "friendly": false
+        },
+        {
+          "name": "Pelanil",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 0,
+          "currentMaxHP": 0,
+          "note": "Pelanil",
+          "path": "Characters/Pelanil.md",
+          "id": "ID_39e9bbdad81b",
+          "currentHP": 0,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "level": 8,
+          "player": true,
+          "hidden": false,
+          "friendly": false
+        },
+        {
+          "name": "Baba Lysaga",
+          "initiative": 0,
+          "static": false,
+          "modifier": 0,
+          "hp": 120,
+          "currentMaxHP": 120,
+          "cr": "11",
+          "ac": 15,
+          "currentAC": 15,
+          "path": "Custom Monsters/Baba Lysaga Statblock.md",
+          "id": "ID_f8fb186a0b0a",
+          "currentHP": 120,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "hidden": false,
+          "friendly": false,
+          "hit_dice": "16d8 + 48"
+        },
+        {
+          "name": "Baba Lysaga's Creeping Hut",
+          "initiative": 0,
+          "static": false,
+          "modifier": -2,
+          "hp": 263,
+          "currentMaxHP": 263,
+          "cr": "11",
+          "ac": 16,
+          "currentAC": 16,
+          "path": "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+          "id": "ID_4acb6948e95b",
+          "currentHP": 263,
+          "tempHP": 0,
+          "status": [],
+          "enabled": true,
+          "hidden": false,
+          "friendly": false,
+          "hit_dice": "17d20 + 85"
+        }
+      ],
+      "state": false,
+      "name": "Baba Lysaga",
+      "round": 1,
+      "roll": true,
+      "rollHP": false,
+      "logFile": null,
+      "timestamp": 1715737082006
+    }
+  },
+  "warnedAboutImports": false,
+  "openState": {
+    "battle": true,
+    "party": false,
+    "status": true,
+    "plugin": true,
+    "player": false,
+    "builder": true
+  },
+  "hpOverflow": "ignore",
+  "additiveTemp": false,
+  "rpgSystem": "dnd5e",
+  "logging": true,
+  "logFolder": "Battles",
+  "useLegacy": false,
+  "diplayPlayerHPValues": true,
+  "rollHP": false,
+  "descending": true,
+  "builder": {
+    "showParty": true,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment",
+            "chaotic or neutral",
+            "neutral or evil",
+            "lawful or good",
+            "lawful or evil",
+            "chaotic or good"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "rollPlayerInitiatives": 1
+}

@@ -1,6 +1,6 @@
 ---
 statblock: true
-image: ![[Assets/Images/People/izek.webp]]
+image: [[Assets/Images/People/izek.webp]]
 name: Izek Strazni
 source:
   - Curse of Strahd

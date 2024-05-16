@@ -1,5 +1,7 @@
 ---
 pc: true
+player: Sarah
+site: ""
 ---
 
 ```dataview

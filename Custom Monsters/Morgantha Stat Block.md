@@ -2,6 +2,7 @@
 statblock: true
 extends: Night Hag with Inline Spells
 name: Morgantha
+image: [[Assets/Images/People/morgantha.webp]]
 
 lair_actions:
     - name: Summon Dretch

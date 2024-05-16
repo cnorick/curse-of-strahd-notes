@@ -2,7 +2,7 @@
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
 	- or go off to start their own pack
-	- decision: [[Lazlo]], [[Hans]], and [[Franz]] decide to go back to the werewolf den to attempt to take advantage of the political schism and free the other children
+	- **decision**: [[Lazlo]], [[Hans]], and [[Franz]] decide to go back to the werewolf den to attempt to take advantage of the political schism and free the other children
 
 - The killed revenant will show back up somewhere else unless the beacon is lit
 	- grave in [[Village of Krezk (S)|Krezk]]
@@ -30,7 +30,7 @@ Ireena options:
 
 - Give [[Pelanil]] a dream from the [Dark Power](https://www.reddit.com/r/CurseofStrahd/comments/9zswmf/fleshing_out_curse_of_strahd_running_the_dark/) that gives him extra strength to help with damage
 
-Decision for Ireena:
+**Decision for Ireena**:
 - [[Strahd Von Zarovich|Strahd]] took her to [[The Abbott]] to be revived
 - [[The Abbott]] tried, but the spell wouldn't work correctly ([[Strahd Von Zarovich|Strahd]]'s curse of never being with [[Tatyana]] stopped it from working)
 - They buried her outside the church
@@ -60,3 +60,17 @@ Decision for Ireena:
 - [ ] Learn where [[The Amber Temple (X)|The Amber Temple]] is
 - [ ] Go there and get the sword
 - [ ] Fight [[Strahd Von Zarovich|Strahd]]
+
+```encounter
+name: Encounter
+players:
+  - Bardolf
+  - Shalooti
+  - Anakir
+  - Elora
+  - Pelanil
+creatures:
+  - "1": Baba Lysaga, hidden
+  - "1": Baba Lysaga's Creeping Hut
+  - "1": Sir Godfrey Gwilym
+```

@@ -1,5 +1,6 @@
 ---
-image: null
+statblock: true
+image: [[Assets/Images/People/godfrey.jpg]]
 name: Sir Godfrey Gwilym
 source:
   - Curse of Strahd
