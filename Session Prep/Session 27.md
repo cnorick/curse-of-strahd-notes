@@ -9,4 +9,5 @@
 
 
 - At argyvostholt, Esmerelda shows up, or Strahd's wagon appears out front
+	- D
 

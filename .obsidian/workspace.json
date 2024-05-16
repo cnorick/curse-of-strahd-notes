@@ -185,11 +185,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "media-extended:Open media": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "templater-obsidian:Templater": false,
+      "media-extended:Open media": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "webpage-html-export:Export Vault to HTML": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
