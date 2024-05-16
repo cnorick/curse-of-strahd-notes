@@ -45,7 +45,7 @@ public: true
 	- [ ] gem 3 ([[Champagne du le Stomp]])
 
 ## Krezk
-- [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbott]] in [[Village of Krezk (S)|Krezk]]
+- [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbot]] in [[Village of Krezk (S)|Krezk]]
 
 ## Other
 - [ ] Strahd invited the party to dinner

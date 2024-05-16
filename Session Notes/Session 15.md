@@ -36,7 +36,7 @@ Back at the [[The Town of Vallaki (N)#Blue Water Inn (N2)|Blue Water Inn]], [[Da
 	- It's a detailed portrait of [[Elora]], tail included, and even prominent. And in this depiction, the tail is very ornate and quite beautiful.
 	- And embroidered below the image the words, "Never be ashamed of who you are"
 
-[[Father Lucian Petrovich|Father Lucian]] mentions that there is a rumor that [[The Abbott]] at the [[Abbey of Saint Markovia]] in [[Village of Krezk (S)|Krezk]] has been able to bring someone back to life. At this news, [[Danika Dorakova|Danika]] asks the party to come upstairs to talk with her and her husband, [[Urwin Martikov|Urwin]]. The group follows and leaves [[Pelanil]]'s body with the priest for him to tend to.
+[[Father Lucian Petrovich|Father Lucian]] mentions that there is a rumor that [[The Abbot]] at the [[Abbey of Saint Markovia]] in [[Village of Krezk (S)|Krezk]] has been able to bring someone back to life. At this news, [[Danika Dorakova|Danika]] asks the party to come upstairs to talk with her and her husband, [[Urwin Martikov|Urwin]]. The group follows and leaves [[Pelanil]]'s body with the priest for him to tend to.
 
 Upstairs, [[Danika Dorakova|Danika]] leads the groups into a secret room where [[Urwin Martikov|Urwin]] and a couple other people wait. Inside she tells the party that what she's about to tell them may sound incredulous, but that she would like to provide them proof that they can trust her.
 

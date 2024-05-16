@@ -15,7 +15,7 @@ The group decides to quickly dispatch 3 of the four, leaving one alive to questi
 	- He was once an uneducated peasant with abusive parents
 	- He revels in his vampiric power, and does anything [[Strahd Von Zarovich|Strahd]] tells him
 - He and his fellow spawn have been spying on the party since they arrived in Barovia
-- [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbott]]  at the [[Abbey of Saint Markovia]] in [[Village of Krezk (S)|Krezk]] and didn't return to [[Castle Ravenloft (K)|Castle Ravenloft]] with her
+- [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbot]]  at the [[Abbey of Saint Markovia]] in [[Village of Krezk (S)|Krezk]] and didn't return to [[Castle Ravenloft (K)|Castle Ravenloft]] with her
 
 After telling the party what he knows, his body goes limp in [[Izek Strazni|Izek]]'s arms.
 

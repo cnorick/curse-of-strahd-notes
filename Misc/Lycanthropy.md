@@ -21,7 +21,7 @@
 	- transform, get half HP, must attack nearest creature (even friendly)
 - removal:
 	- [[Greater Restoration]]
-		- [[Madam Eva]], [[Strahd Von Zarovich|Strahd]], or [[The Abbott]] (Healing Touch)
+		- [[Madam Eva]], [[Strahd Von Zarovich|Strahd]], or [[The Abbot]] (Healing Touch)
 	- Killing root Lycanthrope
 		- [[Emil Toranescu]]
 		- passed down from one elder to next

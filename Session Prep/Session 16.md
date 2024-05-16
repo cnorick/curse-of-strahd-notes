@@ -29,7 +29,7 @@
 	- She'll tell them about [[The Keepers of the Feather]]
 - She'll admit to having helped them at [[Old Bonegrinder (O)|Old Bonegrinder]]
 - She'll tell them about the spy network and their work against [[Strahd Von Zarovich|Strahd]]
-- She'll tell the party that the rumor [[Father Lucian Petrovich]] heard is true; [[Pelanil]] can be brought back to life by [[The Abbott]] in [[Village of Krezk (S)|Krezk]]
+- She'll tell the party that the rumor [[Father Lucian Petrovich]] heard is true; [[Pelanil]] can be brought back to life by [[The Abbot]] in [[Village of Krezk (S)|Krezk]]
 	- but that "He has a penchant for the grotesque"
 	- more than likely, that is where [[Strahd Von Zarovich|Strahd]] will take [[Ireena Kolyana|Ireena]]'s body
 - She also has to tell them that the [[Mad Mage of Mount Baratok|Mad Mage]] comes down to the lake on occasion

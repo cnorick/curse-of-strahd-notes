@@ -1,6 +1,6 @@
 ## The Keepers of the Feather
 [[Danika Dorakova|Danika]] and [[Urwin Martikov|Urwin]] Martikov revealed themselves to be members of [[The Keepers of the Feather|Keepers of the Feather]]. They and their comrades are all wereravens and run a spy network to collect intelligence on [[Strahd Von Zarovich|Strahd]] and his minions. They told the party:
-- [[The Abbott]] is able to bring [[Pelanil]] back to life
+- [[The Abbot]] is able to bring [[Pelanil]] back to life
 	- but he "has a penchant for the grotesque"
 	- Most likely, this is where [[Strahd Von Zarovich|Strahd]] is currently taking [[Ireena Kolyana|Ireena]]
 - The party doesn't stand a chance against [[Strahd Von Zarovich|Strahd]] at the moment

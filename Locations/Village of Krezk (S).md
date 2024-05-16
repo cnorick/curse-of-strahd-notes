@@ -47,44 +47,29 @@ A character who succeeds on a DC 12 Wisdom (Insight) check can discern that Dmit
 
 ### S3. Village of Krezk
 
-[![](https://longo.com.br/5e/img/adventure/CoS/The%20Village%20of%20Krezk.jpg?ver=1.77.1)](https://longo.com.br/5e/img/adventure/CoS/The%20Village%20of%20Krezk.jpg?ver=1.77.1 "The Village of Krezk")
-
-The Village of Krezk
+#### The Village of Krezk
 
 When the characters get past the outer wall, read:
 
-The mist-shrouded village beyond the wall is nothing more than a scattering of humble wooden cottages along dirt roads that stretch between stands of snow-dusted pine trees—so many trees, in fact, as to constitute a forest. To the northeast, gray cliffs rise sharply, and the road winding up to the abbey is easy to see from this vantage.
+>The mist-shrouded village beyond the wall is nothing more than a scattering of humble wooden cottages along dirt roads that stretch between stands of snow-dusted pine trees—so many trees, in fact, as to constitute a forest. To the northeast, gray cliffs rise sharply, and the road winding up to the abbey is easy to see from this vantage.
 
 The village operates as a commune, with no exports or moneymaking businesses. Villagers grow trees and vegetables, cut wood to heat their homes, raise chickens and pigs, and share their food. A few villagers have cows and mules, but there are no horses in Krezk. The village has no inns or taverns. Characters who are willing to chop wood, milk cows, or perform other chores can spend the night in the burgomaster's cottage or some other residence.
 
-Cottages
+#### Cottages
 
 Krezk's residences are single-story pine cottages with stone chimneys and thatch roofs. Pigs and chickens are kept in indoor pens and coops so that they don't freeze.
 
-Burgomaster's Cottage. 
+#### Burgomaster's Cottage. 
 
-The building closest to the outer gate is the burgomaster's cottage—the largest building in town but still a modest dwelling. Dmitri Krezkov and his fearless wife Anna (LG female human [noble](https://longo.com.br/5e/bestiary.html#noble_mm)) have no living children. The last of their four children, Ilya, died of an illness seven days ago at the age of fourteen. Given their age, the Krezkovs are unlikely to have more children—a source of great consternation to everyone in the village, since that means the end of the Krezkov bloodline.
+The building closest to the outer gate is the burgomaster's cottage—the largest building in town but still a modest dwelling. Dmitri Krezkov and his fearless wife [[Anna Krezkova]] have no living children. The last of their four children, [[Ilya Krezkov|Ilya]], died of an illness seven days ago at the age of fourteen. Given their age, the Krezkovs are unlikely to have more children—a source of great consternation to everyone in the village, since that means the end of the Krezkov bloodline.
 
-The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by the Abbot's mongrelfolk gravediggers (see [area S6](https://longo.com.br/5e/adventure.html#CoS,8,s6.%20north%20gate)). Ilya's plot is fresh and undisturbed, since he was interred only four days ago.
+The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by the [[The Abbot|Abbot]]'s mongrelfolk gravediggers (S6). [[Ilya Krezkov|Ilya]]'s plot is fresh and undisturbed, since he was interred only four days ago.
 
-Commoner Cottages. 
+#### Commoner Cottages. 
 
-A typical cottage is only 200 square feet yet contains 1d4 adults (LG male and female human [commoners](https://longo.com.br/5e/bestiary.html#commoner_mm)), 1d4-1 children (LG male and female human noncombatants), plus the family's pigs, hares, and chickens.
+A typical cottage is only 200 square feet yet contains 1d4 adults (LG male and female human [[Commoner]]s), 1d4-1 children (LG male and female human noncombatants), plus the family's pigs, hares, and chickens.
 
-Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to the Abbot's sneaky mongrelfolk gravediggers (see [area S6](https://longo.com.br/5e/adventure.html#CoS,8,s6.%20north%20gate)).
-
-Krezk Lore
-
-In addition to the information known to all Barovians (see "Barovian Lore" in chapter 2), the villagers of Krezk (called Krezkites) know the following bits of local lore:
-
-- Residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves.
-- About once a month, a wagonload of wine arrives from the Wizard of Wines (chapter 12), the winery and vineyard to the south. The business is owned and operated by the Martikov family.
-- Burgomaster Krezkov recently lost his fourteen-year-old son, Ilya, to illness. Ilya was the last of the four Krezkov children.
-- A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo. It's known as the Shrine of the White Sun.
-- The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.
-- The abbey was once a hospital and a convent, but it fell on hard times after the land was swallowed up by the mists. Some of the clergy fell prey to Strahd, while others went mad and either starved themselves to death or turned to cannibalism.
-- The head of the abbey, called simply the Abbot, arrived over a century ago and hasn't aged a day since. He occasionally visits the Shrine of the White Sun but doesn't talk much, and he demands tribute in the form of wine. No one knows his true name or where he came from, and many believe he's Strahd's servant or the vampire himself in disguise.
-- No one from the village visits the abbey anymore. The abbey's bell rings at odd times, day and night, and the place is filled with baleful screams and horrible, inhuman laughter that can be heard throughout the village.
+Every cottage has its own graveyard where family members are interred. All the caskets planted in the past decade are now empty, thanks to the Abbot's sneaky mongrelfolk gravediggers (S6).
 
 ### S4. Pool and Shrine
 
