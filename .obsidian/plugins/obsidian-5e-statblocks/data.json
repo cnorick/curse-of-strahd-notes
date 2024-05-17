@@ -1,5 +1,187 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Mongrelfolk",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Mongrelfolk",
+        "source": [
+          "Curse of Strahd"
+        ],
+        "type": "humanoid",
+        "subtype": "mongrelfolk",
+        "size": "Medium",
+        "alignment": "any alignment",
+        "hp": 26,
+        "hit_dice": "4d8 + 8",
+        "ac": "11 (natural armor)",
+        "speed": "20 ft.",
+        "stats": [
+          12,
+          9,
+          15,
+          9,
+          10,
+          6
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [
+          {
+            "deception": "2"
+          },
+          {
+            "perception": "2"
+          },
+          {
+            "stealth": "3"
+          }
+        ],
+        "senses": "passive Perception 12",
+        "languages": "Common",
+        "cr": "1/4",
+        "traits": [
+          {
+            "name": "Extraordinary Feature",
+            "desc": "The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:\n1–3: Amphibious. The mongrelfolk can breathe air and water.\n4–9: Darkvision. The mongrelfolk has darkvision out to a range of 60 feet.\n10: Flight. The mongrelfolk has leathery wings and a flying speed of 40 feet.\n11–15: Keen Hearing and Smell. The mongrelfolk has advantage on Wisdom (Perception) checks that rely on hearing or smell.\n16–17: Spider Climb. The mongrelfolk can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\n18–19: Standing Leap. The mongrelfolk's long jump is up to 20 feet and its high jump up to 10 feet, with or without a running start.\n20: Two-Headed. The mongrelfolk has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious."
+          },
+          {
+            "name": "Mimicry",
+            "desc": "The mongrelfolk can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful 12 Wisdom (Insight) check."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger."
+          },
+          {
+            "name": "Bite",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) piercing damage."
+          },
+          {
+            "name": "Claw",
+            "desc": "Melee Weapon Attack +3 to hit, reach 5 ft., one target. 3 (1d4 + 1) slashing damage."
+          },
+          {
+            "name": "Dagger",
+            "desc": "Melee / Ranged Weapon Attack +3 to hit, reach 5 ft. or range 20/60 ft., one target. 3 (1d4 + 1) piercing damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "Rahadin",
+      {
+        "image": null,
+        "bestiary": true,
+        "name": "Rahadin",
+        "source": [
+          "Curse of Strahd"
+        ],
+        "type": "humanoid",
+        "subtype": "elf",
+        "size": "Medium",
+        "alignment": "lawful evil",
+        "hp": 135,
+        "hit_dice": "18d8 + 54",
+        "ac": "18 (studded leather armor)",
+        "speed": "35 ft.",
+        "stats": [
+          14,
+          22,
+          17,
+          15,
+          16,
+          18
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "constitution": "7"
+          },
+          {
+            "wisdom": "7"
+          }
+        ],
+        "skillsaves": [
+          {
+            "deception": "8"
+          },
+          {
+            "insight": "7"
+          },
+          {
+            "intimidation": "12"
+          },
+          {
+            "perception": "11"
+          },
+          {
+            "stealth": "14"
+          }
+        ],
+        "senses": "darkvision 60 ft., passive Perception 21",
+        "languages": "Common, Elvish",
+        "cr": "10",
+        "traits": [
+          {
+            "name": "Deathly Choir",
+            "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one."
+          },
+          {
+            "name": "Fey Ancestry",
+            "desc": "Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep."
+          },
+          {
+            "name": "Mask of the Wild",
+            "desc": "Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+          }
+        ],
+        "actions": [
+          {
+            "name": "Multiattack",
+            "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned darts."
+          },
+          {
+            "name": "Scimitar",
+            "desc": "Melee Weapon Attack +10 to hit, reach 5 ft., one target. 9 (1d6 + 6) slashing damage."
+          },
+          {
+            "name": "Poisoned Dart",
+            "desc": "Ranged Weapon Attack +10 to hit, range 20/60 ft., one target. 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "mythic_actions": [],
+        "spells": [
+          "Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:",
+          {
+            "3/day each": "misty step, phantom steed"
+          },
+          {
+            "1/day each": "magic weapon, nondetection"
+          }
+        ],
+        "spellsNotes": ""
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",

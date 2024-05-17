@@ -1,3 +1,7 @@
+---
+aliases: [Barov]
+---
+
 (NE human)
 ![[Arik the Barkeep V2.webp|200]]
 ## Playing Session 3
