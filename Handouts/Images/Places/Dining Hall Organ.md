@@ -2,4 +2,5 @@
 public: false
 new_handout: true
 ---
-![[Assets/Images/People/gertruda.jpeg]]
+
+![[The Dining Hall Organ.jpg]]
