@@ -29,6 +29,7 @@
 ### Flow of Dinner
 #### Starter
 - a bowl of lobster bisque is set in front of each player
+- [[Strahd
 
 
 
