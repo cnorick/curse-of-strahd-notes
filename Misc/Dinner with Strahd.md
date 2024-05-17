@@ -16,7 +16,11 @@
 		- doesn't make eye contact or say a word
 	- Strahd's consorts also come to dinner
 		- [[Escher]]
-		- 
+		- [[Ludmilla Villisevic]]
+		- [[Anastrasya Karelova]]
+		- [[Volenta Popofsky]]
+		- maybe [[Gertruda]]
+	- 
 
 
 - Sow distrust
