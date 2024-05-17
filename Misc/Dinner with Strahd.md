@@ -29,8 +29,48 @@
 ### Flow of Dinner
 #### Starter
 - a bowl of lobster bisque is set in front of each player
-- [[Strahd
+- [[Strahd Von Zarovich|Strahd]] makes a formal introduction, introduces the consorts, talks about how he came to live in this land, and asks each player about their backstory in turn
 
+>Welcome, my friends. I fear that we have yet to have formal introductions. I am Count Strahd von Zarovich, Lord of Barovia, Master of Castle Ravenloft. Tonight, you are my guests, and no harm shall befall you while you remain in my home. I am a man of my word, and you have it.
+>These are my three brides, Ludmilla Villisevic, Anastrasya Karelova, Volenta Popofsky, and I believe you have already met my consort Escher.
+>
+>As you eat, let me share with you a brief history of these lands and of this Castle.
+>
+>After the death of my father, King Barov, I waged a long war, finally killing the last of my family's enemies, liberating the people in this very valley. I decided to settle here, and thus named the land Barovia after my late father.
+>
+>I scoured my newly conquered lands for wizards and artisans, brought them to the valley of Barovia, and commanded them to raise a castle to rival the magnificent fortresses of my ancestral homeland.
+>
+>Once Castle Ravenloft was completed, I invited its namesake, my mother, Queen Ravenovia, to join me here. Alas, mother did not survive the journey, but her spirit lives on in this castle.
+>
+>Now, please tell me more about each of yourselves. Your homelands, your story, your lives.
+
+- Ask each player to explain their backstories
+
+#### Main Course
+- the bowl of lobster bisque is cleared away and replaced by a plate of sliced tender beef framed by vibrant greens
+	- for [[Shalooti]] and [[Bardolf]] salmon an a cedar plank
+- In between each character is placed a bowl of freshly baked bread and a pad of freshly churned butter
+
+- Strahd discusses his goals (TODO:)
+- At this point, there can be a bunch of side conversations
+>
+
+#### Dessert
+- Saucers of fresh fruit are brought forth
+	- the vibrant colors of the fruit contrast with the dark shadows of the castle
+
+- If tensions are high, [[Strahd Von Zarovich|Strahd]] tries to smooth things over with a joke:
+>Castle Ravenloft has an extensive library. Just the other day, I was reading a book about an immortal dog. It was impossible to put down.
+
+- Strahd has prepared a [[Wall of Force]] spell to deal with attacks from players and block himself and his consorts
+- He tries to get things back on track
+	- worst case, he and the consorts disappear for the hall in mist form
+		- all lights go out
+		- Strahd's guarantee of protection goes away
+
+>I assure you this wall is for your protection. You're trying to skip to the end of the story, but there are so many pages to go.
+
+- Strahd invites them to stay the night
 
 
 - Sow distrust
