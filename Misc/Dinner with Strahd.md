@@ -8,6 +8,7 @@
 	- [[Escher]] and [[Gertruda]] are there laying out suitable outfits for the players
 	- they're somehow appropriately sized; how did [[Strahd Von Zarovich|Strahd]] get those measurements?
 
+## Dinner
 - [[Strahd Von Zarovich|Strahd]] is not an illusion, he can either be playing the organ when they enter or sitting at the table
 - There are others at the dinner either as guests or as wait staff:
 	- [[Cyrus Belview|Cyrus]] is actually an accomplished cook and head chef
@@ -20,7 +21,15 @@
 		- [[Anastrasya Karelova]]
 		- [[Volenta Popofsky]]
 		- maybe [[Gertruda]]
-	- 
+- Make dinner a nice fancy multi-course dinner; maybe even cook for the players
+	- [[Strahd Von Zarovich|Strahd]] sends the [[Vistani]] in search of rare foods
+- [[Strahd Von Zarovich|Strahd]] and the vampire spawns do not eat
+	- they just sit there drinking goblets of what is probably blood
+
+### Flow of Dinner
+#### Starter
+- a bowl of lobster bisque is set in front of each player
+
 
 
 - Sow distrust
