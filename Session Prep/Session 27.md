@@ -4,6 +4,8 @@
 	- delivering the skull
 	- maybe visiting [[Village of Krezk (S)|Krezk]]
 
+- [[Anakir]] accidentally polymorphs into a baby (**tootie**)
+
 - Maybe talk them into visiting the cemetery or mansion in [[Ruins of Berez (U)|Berez]]
 	- Marina's shrine is in the cemetery
 	- The ghost is in the mansion who explains what happened to Baba/Marina
