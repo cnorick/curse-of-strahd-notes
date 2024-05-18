@@ -5,6 +5,8 @@
 	- maybe visiting [[Village of Krezk (S)|Krezk]]
 
 - [[Anakir]] accidentally polymorphs into a baby (**tootie**)
+- They all get treasure from the hut
+- Shalooti gets a deck of many things
 
 - Maybe talk them into visiting the cemetery or mansion in [[Ruins of Berez (U)|Berez]]
 	- Marina's shrine is in the cemetery
