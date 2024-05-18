@@ -4,6 +4,7 @@
 	- delivering the skull
 	- maybe visiting [[Village of Krezk (S)|Krezk]]
 
+
 - [[Anakir]] accidentally polymorphs into a baby (**tootie**)
 - They all get treasure from the hut
 - Shalooti gets a deck of many things
@@ -11,6 +12,8 @@
 - Maybe talk them into visiting the cemetery or mansion in [[Ruins of Berez (U)|Berez]]
 	- Marina's shrine is in the cemetery
 	- The ghost is in the mansion who explains what happened to Baba/Marina
+
+- Make it to argynvostholt at 1 PM
 	
 - Deal with [[Bardolf]]
 ![[Lycanthropy#The Mechanics of consuming Belladonna Root]]
