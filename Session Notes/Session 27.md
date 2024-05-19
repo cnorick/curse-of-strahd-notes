@@ -19,7 +19,7 @@ Before leaving [[Ruins of Berez (U)|Berez]], the group decided to explore the ce
 
 Upon closer inspection, the statue depicted what looked exactly like [[Ireena Kolyana]], but the inscription read, "Marina, Taken by the Mists".
 
-[[Shalooti]] noticed that the there seemed to be a crack at the bottom of the statue. They toppled it revealing a small box in a cavity beneath. Inside the box, [[Shalooti]] removed what appeared to her to be a [[Deck of Many Things]], but before she could inspect it further, she was distracted by a group of reanimated corpses ambling in her direction. The group took off in the direction of the mansion to the south.
+[[Shalooti]] noticed that the there seemed to be a crack at the bottom of the statue. They toppled it revealing a small box in a cavity beneath. Inside the box, [[Shalooti]] removed what appeared to her to be a Deck of Many Things, but before she could inspect it further, she was distracted by a group of reanimated corpses ambling in her direction. The group took off in the direction of the mansion to the south.
 
 ## The Mansion
 At the mansion, [[Elora]] inspected the gate-less goat pen surrounded by human skulls mounted on the tops of the fence posts. [[Pelanil]] knocked down one of the sections to allow the goats their freedom. At that, the skulls start howling. [[Bardolf]] tosses them one by one in the water to silence them. He then ties the oldest and wisest looking goat to [[Metarlos]].

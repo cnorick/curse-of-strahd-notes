@@ -37,8 +37,7 @@ Upcoming ([[Menigal, the Departed|Menigal]])
     - The DM may cause the character to force fail a Suggestion spell from Menigal, ordering the character to spare a humanoids life.
 	
 ## Bardolf
-[[Lycanthropy]]
-![[Lycanthropy#TLDR;]]
+- ~~[[Lycanthropy]]~~
 
 ## Anakir
 - recovering from [[Mechanics of Dream Pastries|Pies]] addiction
