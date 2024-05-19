@@ -52,10 +52,7 @@
   "exportPath": "C:\\Users\\Nathan\\Desktop\\Strahd\\obsidian\\Website\\site",
   "filesToExport": [
     [
-      "Locations",
-      "Misc",
-      "reference",
-      "Session Notes"
+      "reference"
     ]
   ],
   "filePickerBlacklist": [
