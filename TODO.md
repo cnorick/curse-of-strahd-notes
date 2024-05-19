@@ -1,14 +1,11 @@
+- Figure out [[Shalooti]]'s deck of cards
+- Figure out what [[Strahd Von Zarovich|Strahd]] asks of the party at dinner
+
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
 	- or go off to start their own pack
 	- **decision**: [[Lazlo]], [[Hans]], and [[Franz]] decide to go back to the werewolf den to attempt to take advantage of the political schism and free the other children
-
-- The killed revenant will show back up somewhere else unless the beacon is lit
-	- grave in [[Village of Krezk (S)|Krezk]]
-	- grave in [[Ruins of Berez (U)|Berez]]
-	- random encounter
-	- corpse of deceased player
 
 - place the third missing gem somewhere
 
@@ -54,9 +51,9 @@ Ireena options:
 - [x] They maybe go to Yester Hill to get the gem
 - [x] Bring the gem back, get some wine
 - [ ] Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbot]]
-- [ ] Learn about [[Ruins of Berez (U)|Berez]] for sure
+- [x] Learn about [[Ruins of Berez (U)|Berez]] for sure
 - [x] Go to [[Ruins of Berez (U)|Berez]] and get the skull
-- [ ] Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
+- [x] Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
 - [ ] Learn where [[The Amber Temple (X)|The Amber Temple]] is
 - [ ] Go there and get the sword
 - [ ] Fight [[Strahd Von Zarovich|Strahd]]

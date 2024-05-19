@@ -32,10 +32,10 @@ public: true
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]
 
 ## Argynvostholt
-- [ ] Find [[Argynvost]]'s skull so that the beacon can be re-lit ^cd99e4
+- [x] Find [[Argynvost]]'s skull so that the beacon can be re-lit ^cd99e4
 	- [[Sir Godfrey Gwilym|Godfrey]] says it was [[Session Notes/Session 20#Sir Godfrey Gwilym|stolen by witches]]
 	- [x] Find the skull
-	- [ ] Return the skull
+	- [x] Return the skull
 
 ## The Wizard of Wines
 - [x] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard ^e97701
@@ -53,8 +53,8 @@ public: true
 	- You technically succeeded, but [[Ireena Kolyana|Ireena]] is in greater danger than ever lol
 	- [[Ireena Kolyana|Ireena]] is dead. Poor [[Ismark Kolyanovich|Ismark]]
 - [ ] [[Mad Mage of Mount Baratok|Mordenkainen]] said to come back when they're ready to fight [[Strahd Von Zarovich|Strahd]]
-- [ ] Find a cure for [[Bardolf]]'s [[Lycanthropy]] ^56b12b
+- [x] Find a cure for [[Bardolf]]'s [[Lycanthropy]] ^56b12b
 	- [x] See if the [[Mad Mage of Mount Baratok|Mad Mage]], [[Baba Lysaga]], or someone else has Belladonna root ^c3404a
-	- [ ] Give [[Bardolf]] the root ^2cdffd
-	- [ ] ~~Find someone to cast [[Greater Restoration]]~~
-	- [ ] ~~Find and kill the root werewolf~~
+	- [x] Give [[Bardolf]] the root ^2cdffd
+	- [x] ~~Find someone to cast [[Greater Restoration]]~~
+	- [x] ~~Find and kill the root werewolf~~
