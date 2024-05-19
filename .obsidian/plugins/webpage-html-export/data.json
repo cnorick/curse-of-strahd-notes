@@ -22,8 +22,8 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": true,
-  "onlyExportModified": true,
-  "deleteOldFiles": true,
+  "onlyExportModified": false,
+  "deleteOldFiles": false,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
@@ -52,6 +52,7 @@
   "filesToExport": [
     [
       "Assets",
+      "Battles",
       "Characters",
       "Custom Monsters",
       "Handouts",
@@ -61,6 +62,8 @@
       "Session Notes",
       "Session Prep",
       "Campaign Notes.md",
+      "Escher.md",
+      "Helga.md",
       "Index.md",
       "New Handouts.md",
       "README.md",
