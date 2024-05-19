@@ -5,7 +5,8 @@
   "includePluginCSS": [
     "dataview",
     "fantasy-calendar",
-    "obsidian-5e-statblocks"
+    "obsidian-5e-statblocks",
+    "initiative-tracker"
   ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -58,12 +59,9 @@
       "Handouts",
       "Locations",
       "Misc",
-      "reference",
       "Session Notes",
       "Session Prep",
       "Campaign Notes.md",
-      "Escher.md",
-      "Helga.md",
       "Index.md",
       "New Handouts.md",
       "README.md",
