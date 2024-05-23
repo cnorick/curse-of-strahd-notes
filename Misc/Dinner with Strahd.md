@@ -48,7 +48,7 @@
 
 #### Main Course
 - the bowl of lobster bisque is cleared away and replaced by a plate of sliced tender beef framed by vibrant greens
-	- for [[Shalooti]] and [[Bardolf]] salmon an a cedar plank
+	- for [[Shalooti]] and [[Bardolf]] salmon on a cedar plank
 - In between each character is placed a bowl of freshly baked bread and a pad of freshly churned butter
 
 - Strahd discusses his goals (TODO:)
@@ -57,10 +57,14 @@
 
 #### Dessert
 - Saucers of fresh fruit are brought forth
-	- the vibrant colors of the fruit contrast with the dark shadows of the castle
+	- the vibrant colors of the fruit, picked at the height of their season contrast with the dark shadows of the castle
+
+>Surely now, you must have some questions for me. Please, I'm all ears
+
+[[Strahd's Answers to Questions]]
 
 - If tensions are high, [[Strahd Von Zarovich|Strahd]] tries to smooth things over with a joke:
->Castle Ravenloft has an extensive library. Just the other day, I was reading a book about an immortal dog. It was impossible to put down.
+>Castle Ravenloft has an extensive library. Just the other day, I was reading a book about an immortal dog. It was impossible to put down
 
 - Strahd has prepared a [[Wall of Force]] spell to deal with attacks from players and block himself and his consorts
 - He tries to get things back on track
@@ -70,9 +74,23 @@
 
 >I assure you this wall is for your protection. You're trying to skip to the end of the story, but there are so many pages to go.
 
-- Strahd invites them to stay the night
-
-
 - Sow distrust
 
 >One of you will betray the others. Which one will it be?
+
+
+## After Dinner
+- [[Strahd Von Zarovich|Strahd]] invites them to stay the night
+	- says they should feel free to explore the castle, but only the upper levels
+- They're escorted back to their rooms by [[Cyrus Belview|Cyrus]]
+- They have protection unless they get into shit
+	- Going downstairs makes [[Strahd Von Zarovich|Strahd]] mad
+		- especially into [[Sergei]]'s crypt
+	- None of the traps upstairs are set
+		- but if they try to unlock locked doors, there may be trouble
+
+## Morning
+- In the morning, [[Cyrus Belview|Cyrus]] escorts them back to the carriage and says that it will take them to anywhere in Barovia
+	- once they arrive there, the doors slam shut, and it bolts back towards [[Castle Ravenloft (K)|Castle Ravenloft]]
+	- Consider throwing a bunch of vampire spawn and dire wolves at them once they arrive
+		- [[Strahd Von Zarovich|Strahd]] still wants them dead
