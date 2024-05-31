@@ -1,5 +1,5 @@
 ---
-public: true
+public: false
 ---
 
 This deck has 13 cards. You may use an action and take a random card or several cards from above the deck.

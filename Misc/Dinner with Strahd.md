@@ -6,7 +6,8 @@
 
 - If the players are not dressed for a fancy dinner, [[Rahadin]] chastises them and leads them upstairs to the guest quarters (K50) to change
 	- [[Escher]] and [[Gertruda]] are there laying out suitable outfits for the players
-	- they're somehow appropriately sized; how did [[Strahd Von Zarovich|Strahd]] get those measurements?
+	- they're somehow appropriately sized and exactly their tastes; how did [[Strahd Von Zarovich|Strahd]] get those measurements?
+		- ask them what are each of your characters going to be wearing?
 
 ## Dinner
 - [[Strahd Von Zarovich|Strahd]] is not an illusion, he can either be playing the organ when they enter or sitting at the table
@@ -52,8 +53,24 @@
 - In between each character is placed a bowl of freshly baked bread and a pad of freshly churned butter
 
 - Strahd discusses his goals (TODO:)
+	- You must wonder why I invited you here
+	- Your exploits are quickly becoming the talk of the valley
+		- you destroyed the Durst manor, freeing it of its curse
+		- you burned down the windmill (it was a bit of an eyesore, so I'm appreciative)
+		- in Vallaki:
+			- you rid the orphanage of their curse
+			- you set a tiger loose on the town (yes I know it was you Bardolf)
+			- and of course, you brought me those cursed bones that had been a pain for centuries
+			- not to mention (he turns to Pelanil), you killed my future bride
+		- you rescued those damn Martikovs over and over again
+			- first from the blights
+			- then from the tree
+			- and then you revived their vineyard with the gem from Baba Lysaga
+		- but what has most shocked me is that you have relit that bothersome beacon at Argynvostholt
+	- What is your end goal? Why are you doing all these things?
+
 - At this point, there can be a bunch of side conversations
->
+>Please, eat, be merry. Conversate with one another
 
 #### Dessert
 - Saucers of fresh fruit are brought forth

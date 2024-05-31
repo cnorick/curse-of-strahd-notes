@@ -1,4 +1,4 @@
-**On Ireena**
+**On Ireena:**
 
 Ah, Ireena, She reminded me of someone dear from my past—a fleeting chance at reclaiming a lost love. A cruel jest by fate, perhaps.
 
@@ -59,3 +59,12 @@ I am told that until recently the people of Vallaki believed that I could not pa
 **On Andral:**
 
 Unlike everyone else at this table, I knew Andral. He was a fool, a pale imitation of a man, who harboured assassins and rogues from justice. His deification would anger me if it were not so pathetic.
+
+---
+
+**On Spies:**
+
+Yes, as ruler of this valley, I must ensure the safety and security of its residents. As such, I of course, employ a number of agents as would any gracious ruler.
+
+---
+

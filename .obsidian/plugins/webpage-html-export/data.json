@@ -5,8 +5,7 @@
   "includePluginCSS": [
     "dataview",
     "fantasy-calendar",
-    "obsidian-5e-statblocks",
-    "initiative-tracker"
+    "obsidian-5e-statblocks"
   ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -24,7 +23,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": true,
   "onlyExportModified": true,
-  "deleteOldFiles": false,
+  "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
