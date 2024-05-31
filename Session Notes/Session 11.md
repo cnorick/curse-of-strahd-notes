@@ -40,8 +40,8 @@ There, he reveals he wasn't 100% honest with [[Pelanil]]. He's actually a spy un
 	- The "holy symbol" must be at [[Argynvostholt (Q)|Argynvostholt]]
 	- The "sword of sunlight" is probably at the [[The Amber Temple (X)|Amber Temple]]
 		- The place where [[Strahd Von Zarovich|Strahd]] became immortal
-	- [[Rictavio]] was sure about who a crazy wizard would be
-		- And the last card refers to [[Strahd Von Zarovich|Strahd]]'s brother, [[Sergei]] who has been long dead
+	- [[Rictavio]] was not sure about who a crazy wizard would be
+	- And the last card refers to [[Strahd Von Zarovich|Strahd]]'s brother, [[Sergei]] who has been long dead
 - [[The Tome of Strahd]]
 	- [[Strahd Von Zarovich|Strahd]] conquered Barovia, then brought his family here
 	- He was jealous of his brother, [[Sergei]]'s looks and youth
