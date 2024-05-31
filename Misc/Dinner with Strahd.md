@@ -52,22 +52,22 @@
 	- for [[Shalooti]] and [[Bardolf]] salmon on a cedar plank
 - In between each character is placed a bowl of freshly baked bread and a pad of freshly churned butter
 
+
+- Strahd discusses the party's accomplishments:
+
+>"You must wonder why I invited you here tonight. Your exploits are becoming the talk of the valley, and I find myself both amused and intrigued by your progress.
+>
+>You destroyed the Durst manor, lifting its ancient curse. A commendable act, even if that house of horrors had a certain charm. Then, you burned down the old windmill. It was rather an eyesore, so for that, I am surprisingly grateful.
+>
+>In Vallaki, you cleansed the orphanage of its malevolent spirits, bringing peace to those tormented souls. You unleashed a tiger upon the town—yes, Bardolf, I know it was you. You even brought me those cursed bones that had vexed me for centuries. And, of course," he turns his gaze to Pelanil, "you killed my future bride. A bold and reckless move.
+>
+>You’ve played the saviors for the Martikovs—rescuing them from blights, defeating the monstrous tree, and reviving their vineyard with a gem stolen from Baba Lysaga. Your heroics are almost tedious in their predictability.
+>
+>But what astonishes me most is that you have rekindled the beacon at Argynvostholt. That ancient light, shining defiantly in the darkness, was a feat I did not expect.
+>
+>So, tell me, what is your end goal? Why do you pursue these actions? Is it glory you seek? Redemption? Or do you harbor the foolish hope of my defeat? What drives you to such lengths in this land of shadows and despair?"
+
 - Strahd discusses his goals (TODO:)
-	- You must wonder why I invited you here
-	- Your exploits are quickly becoming the talk of the valley
-		- you destroyed the Durst manor, freeing it of its curse
-		- you burned down the windmill (it was a bit of an eyesore, so I'm appreciative)
-		- in Vallaki:
-			- you rid the orphanage of their curse
-			- you set a tiger loose on the town (yes I know it was you Bardolf)
-			- and of course, you brought me those cursed bones that had been a pain for centuries
-			- not to mention (he turns to Pelanil), you killed my future bride
-		- you rescued those damn Martikovs over and over again
-			- first from the blights
-			- then from the tree
-			- and then you revived their vineyard with the gem from Baba Lysaga
-		- but what has most shocked me is that you have relit that bothersome beacon at Argynvostholt
-	- What is your end goal? Why are you doing all these things?
 
 - At this point, there can be a bunch of side conversations
 >Please, eat, be merry. Conversate with one another
