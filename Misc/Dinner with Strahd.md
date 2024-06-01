@@ -8,9 +8,20 @@
 	- [[Escher]] and [[Gertruda]] are there laying out suitable outfits for the players
 	- they're somehow appropriately sized and exactly their tastes; how did [[Strahd Von Zarovich|Strahd]] get those measurements?
 		- ask them what are each of your characters going to be wearing?
+	- [[Escher]] and [[Gertruda]] offer to comb out the PCs' matted hair
+		- they carefully clean the comb in between brushes (for scrying)
 
 ## Dinner
-- [[Strahd Von Zarovich|Strahd]] is not an illusion, he can either be playing the organ when they enter or sitting at the table
+- [[Strahd Von Zarovich|Strahd]] is not an illusion, but is playing the organ when they enter (as described in the book)
+-  When the song concludes, he turns and greets them warmly, by name
+	- Strahd welcomes the PCs to Ravenloft
+	- inquires after their health
+	- their enjoyment of their journey to Ravenloft
+	- and their time in the valley of Barovia
+	- He asks how they have enjoyed their time in his land, and asks their opinion on Castle Ravenloft
+
+- Then invites all to be seated
+
 - There are others at the dinner either as guests or as wait staff:
 	- [[Cyrus Belview|Cyrus]] is actually an accomplished cook and head chef
 		- he cooks every meal
