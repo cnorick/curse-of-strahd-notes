@@ -80,6 +80,8 @@
 
 - Strahd discusses his goals (TODO:)
 
+>I must admit, there is one other point of business for which I brought you here. There an infamous assassin named Rudolph van Richten with a genocidal hatred for the Vistani who has come to Barovia. This van Richten seeks to slay me for acting as protector for the Vistani’s. Van Richten may appear to be an old man, but he is a dangerous, wiley, paranoid individual with a lifetime’s experience in death and a vast collection of lies and cover stories at his disposal. If you are able to apprehend him—alive—and return him to Castle Ravenloft, I promise you each a treasure from my vault.
+
 - At this point, there can be a bunch of side conversations
 >Please, eat, be merry. Conversate with one another
 
