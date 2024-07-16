@@ -70,4 +70,6 @@ Yes, as ruler of this valley, I must ensure the safety and security of its resid
 
 **On Pelanil**
 
+Ah, Pelanil. Such a valiant soul, yet so easily swayed by darkness. You see, the mists of Barovia have a way of corrupting even the most steadfast. Pelanil, in his misguided efforts, has been touched by powers beyond his comprehension.
 
+You must understand, I do not pursue Ireena for mere amusement. She was to be my bride, my companion in this eternal night. But now, her fate is sealed, and Pelanil bears the weight of that outcome. Perhaps he believes he can atone for his sins, but in Barovia, redemption is a rare and precious thing.

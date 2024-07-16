@@ -119,6 +119,8 @@
 		- especially into [[Sergei]]'s crypt
 	- None of the traps upstairs are set
 		- but if they try to unlock locked doors, there may be trouble
+- [[Strahd Von Zarovich|Strahd]] visits [[Elora]] in the middle of the night
+	- He admires her fearlessness around him and wants her to ally herself with him
 
 ## Morning
 - In the morning, [[Cyrus Belview|Cyrus]] escorts them back to the carriage and says that it will take them to anywhere in Barovia
