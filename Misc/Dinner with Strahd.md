@@ -10,6 +10,7 @@
 		- ask them what are each of your characters going to be wearing?
 	- [[Escher]] and [[Gertruda]] offer to comb out the PCs' matted hair
 		- they carefully clean the comb in between brushes (for scrying)
+		- [[Escher]] flirts with [[Anakir]]
 
 ## Dinner
 - [[Strahd Von Zarovich|Strahd]] is not an illusion, but is playing the organ when they enter (as described in the book)

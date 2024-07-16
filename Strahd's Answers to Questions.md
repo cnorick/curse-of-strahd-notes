@@ -68,3 +68,6 @@ Yes, as ruler of this valley, I must ensure the safety and security of its resid
 
 ---
 
+**On Pelanil**
+
+
