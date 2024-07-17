@@ -6,6 +6,10 @@ You see, in Barovia, echoes of the past have a way of intruding on the present. 
 
 But as with all things in this land, the past has a habit of slipping through one's fingers. Ireena may be gone, but the memory lingers—forever a reminder of what was and what could have been.
 
+...
+
+Of course
+
 ---
 
 **On the city beyond the mists at Yester Hill:**
