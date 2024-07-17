@@ -8,7 +8,9 @@ But as with all things in this land, the past has a habit of slipping through on
 
 ...
 
-Of course
+**Her Body**
+
+Ireena's fate weighed heavily upon me. After her untimely death, I took her to the Abbot in Krezk, hoping to reincarnate her and break this cycle of sorrow. Alas, the curse that binds me thwarted this attempt. The Abbot and I then laid her to rest in Krezk, where she now remains. Her grave is a place of solitude and reflection, where I have since oft gone to ponder the cruelties of fate and the unyielding grip of this land's curse.
 
 ---
 
@@ -72,7 +74,7 @@ Yes, as ruler of this valley, I must ensure the safety and security of its resid
 
 ---
 
-**On Pelanil**
+**On Pelanil**:
 
 Ah, Pelanil. Such a valiant soul, yet so easily swayed by darkness. You see, the mists of Barovia have a way of corrupting even the most steadfast. Pelanil, in his misguided efforts, has been touched by powers beyond his comprehension.
 
