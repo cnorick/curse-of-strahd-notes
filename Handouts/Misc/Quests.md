@@ -2,9 +2,10 @@
 public: true
 ---
 
-- [ ] Get out of Barovia?
-	- [ ] Figure out how
-- [ ] Destroy [[Strahd Von Zarovich|Strahd]]?
+- [ ] Get out of Barovia
+	- [x] Figure out how
+	- [ ] Deliver [[Rictavio|Rudolph van Richten]] to [[Strahd Von Zarovich|Strahd]] and [[Strahd Von Zarovich|Strahd]] will allow the group to leave ^7475a6
+- [ ] Destroy [[Strahd Von Zarovich|Strahd]]
 	- [ ] Get stronger
 	- [ ] Get allies
 	- [ ] Get weapons/artifacts/knowledge
@@ -22,7 +23,9 @@ public: true
 	- Your enemy is a creature of darkness, whose powers are beyond mortality. This card will lead you to him! He dwells with the one whose blood sealed his doom, a brother of light snuffed out too soon.
 
 ## The Village of Barovia
-- [ ] Rescue [[Mad Mary]]'s daughter, [[Gertruda]]
+- [ ] Rescue [[Mad Mary]]'s daughter, [[Gertruda]] ^432910
+	- [x] Locate [[Gertruda]]
+	- [ ] Talk to her about her mother
 
 ## Vallaki
 - [ ] Urwin asked for help with wine shipments from his father at the [[The Wizard of Wines (W)|Wizard of the Wines]]
@@ -41,14 +44,14 @@ public: true
 - [x] Help drive away the [[Forest Folk]] from [[The Keepers of the Feather|The Martikovs]]' home and vineyard ^e97701
 - [ ] Recover the gems so that grapes can be grown again
 	- [x] gem 1 ([[Purple Grapemash No. 3]]) ^c1016a
-	- [ ] gem 2 ([[Red Dragon Crush]]) ^4a4e62
+	- [x] gem 2 ([[Red Dragon Crush]]) ^4a4e62
 	- [ ] gem 3 ([[Champagne du le Stomp]])
 
 ## Krezk
 - [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbot]] in [[Village of Krezk (S)|Krezk]]
 
 ## Other
-- [ ] Strahd invited the party to dinner
+- [x] Strahd invited the party to dinner
 - [x] [[Ismark Kolyanovich|Ismark]] asked the party to deliver [[Ireena Kolyana|Ireena]] to safety in [[The Town of Vallaki (N)|Vallaki]]
 	- You technically succeeded, but [[Ireena Kolyana|Ireena]] is in greater danger than ever lol
 	- [[Ireena Kolyana|Ireena]] is dead. Poor [[Ismark Kolyanovich|Ismark]]
@@ -58,3 +61,4 @@ public: true
 	- [x] Give [[Bardolf]] the root ^2cdffd
 	- [x] ~~Find someone to cast [[Greater Restoration]]~~
 	- [x] ~~Find and kill the root werewolf~~
+

@@ -1,5 +1,4 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 ![[Assets/Images/People/gertruda.jpeg]]
