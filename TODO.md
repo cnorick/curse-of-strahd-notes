@@ -1,6 +1,4 @@
-- Figure out [[Shalooti]]'s deck of cards
-- Figure out what [[Strahd Von Zarovich|Strahd]] asks of the party at dinner
-
+- [[Strahd Von Zarovich|Strahd]] visits [[Elora]] at night with a proposition
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
