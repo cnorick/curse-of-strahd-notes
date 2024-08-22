@@ -1,0 +1,3 @@
+- [x] With no windmill, there is a pie shortage in Barovia, so there may be reports of mass withdrawals
+- [[Offalia Wormwiggle|Offalia]] escaped when [[Morgantha|Granny]] and [[Bella Sunbane|Bella]] died, so she may show back up at some point
+- The party killed one revenant, so their soul will take on a new corpse when it can

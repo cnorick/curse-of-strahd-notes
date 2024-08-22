@@ -1,0 +1,5 @@
+---
+public: true
+---
+
+![[menigal.jpg]]

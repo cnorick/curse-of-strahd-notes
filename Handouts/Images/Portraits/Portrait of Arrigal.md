@@ -1,0 +1,5 @@
+---
+public: true
+---
+
+![[Arrigal.jpg]]

@@ -1,0 +1,1 @@
+The night-time deity opposite the [[The Morninglord|Morninglord]]. Evil people like [[Baba Lysaga]] worship her

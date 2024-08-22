@@ -24,7 +24,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": true,
   "onlyExportModified": true,
-  "deleteOldFiles": true,
+  "deleteOldFiles": false,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
@@ -53,7 +53,22 @@
   "filesToExport": [
     [
       "Assets",
-      "reference"
+      "Battles",
+      "Characters",
+      "Custom Monsters",
+      "Handouts",
+      "Locations",
+      "Misc",
+      "reference",
+      "Session Notes",
+      "Session Prep",
+      "Campaign Notes.md",
+      "Index.md",
+      "New Handouts.md",
+      "README.md",
+      "Strahd's Answers to Questions.md",
+      "TODO.md",
+      "Unlisted Handouts.md"
     ]
   ],
   "filePickerBlacklist": [

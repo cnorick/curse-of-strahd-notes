@@ -1,0 +1,3 @@
+---
+alias: Mount Baratok
+---

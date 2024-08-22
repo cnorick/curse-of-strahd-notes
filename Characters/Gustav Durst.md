@@ -1,0 +1,3 @@
+---
+aliases: ['Gustav', 'Mr. Durst']
+---
