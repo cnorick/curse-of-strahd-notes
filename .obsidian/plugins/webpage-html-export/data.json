@@ -53,20 +53,7 @@
   "filesToExport": [
     [
       "Assets",
-      "Characters",
-      "Custom Monsters",
-      "Handouts",
-      "Locations",
-      "Misc",
-      "reference",
-      "Session Notes",
-      "Session Prep",
-      "Campaign Notes.md",
-      "Index.md",
-      "New Handouts.md",
-      "README.md",
-      "TODO.md",
-      "Unlisted Handouts.md"
+      "reference"
     ]
   ],
   "filePickerBlacklist": [
