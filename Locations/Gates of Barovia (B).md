@@ -1,1 +1,0 @@
-![[Gates of Barovia.webp]]

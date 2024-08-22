@@ -1,5 +1,0 @@
----
-public: true
----
-
-![[argynvost.jpg]]

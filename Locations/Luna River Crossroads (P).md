@@ -1,3 +1,0 @@
----
-alias: Luna River Crossroads
----

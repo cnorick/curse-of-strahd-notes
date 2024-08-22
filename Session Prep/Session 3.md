@@ -1,8 +1,0 @@
-- Listen to the Nurse Maid's tale
-- Get the following handouts:
-	- [[Gustav Durst's Suicide Note]]
-	- [[Elisabeth Durst's Unsent Letter]]
-	- [[Cultist Logbook]]
-- Meet the kids
-- Death house part 2:
-	- go to basement, explore it, see cult/and mound, escape

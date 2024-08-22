@@ -1,3 +1,0 @@
----
-alias: Werewolf Den
----

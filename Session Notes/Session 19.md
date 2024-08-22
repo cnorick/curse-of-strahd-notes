@@ -1,8 +1,0 @@
-## Vladimir Horngaard
-[[Vladimir Horngaard|Vlad]] reaches out and grabs [[Bardolf]]'s arm, but ultimately lets go. He asks why he was disturbed. [[Elora]] explains that they are stuck in Barovia and they intend to kill [[Strahd Von Zarovich|Strahd]]. At this news, [[Vladimir Horngaard|Vladimir]] becomes angry. He says that [[Strahd Von Zarovich|Strahd]] deserves to suffer in this hell of his own creation. He thinks that the others that suffer in the Barovia are but unfortunate sacrifices for [[Strahd Von Zarovich|Strahd]]'s damnation.
-
-He continues to insist that the party leave [[Strahd Von Zarovich|Strahd]] alone and make no changes in Barovia. The party realizes he's clearly lost many of his memories and has become somewhat mad. When asked for his help and for the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]] he wears around his neck, he refuses. Even after an impressive butt-flute performance by [[Shalooti]], he doesn't give in.
-
-Frustrated, the party pretend to leave, then surprise attack [[Vladimir Horngaard|Vlad]] while he has his back turned. When they enter into combat, 6 [[Phantom Warrior Stat Block|Phantom Warriors]] blink in and out to help [[Vladimir Horngaard|Vlad]]. The party sees [[Vladimir Horngaard|Vlad]] regenerate multiple times.
-
-[[Shalooti]] is able to take the [[Holy Symbol of Ravenkind Handout |Holy Symbol of Ravenkind]] off of his neck and give it to [[Elora]] who already knew quite a bit about the talisman. After just a few rounds, the group is able to take down [[Vladimir Horngaard|Vladimir]], but his body remains, and the [[Phantom Warrior Stat Block|Warriors]] don't disappear as expected....
