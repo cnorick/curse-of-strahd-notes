@@ -1,6 +1,6 @@
 ---
-public: false
-new_handout: true
+public: true
+new_handout: false
 ---
 
 ![[The Dining Hall Organ.jpg]]
