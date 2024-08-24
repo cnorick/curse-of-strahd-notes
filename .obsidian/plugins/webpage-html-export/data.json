@@ -5,8 +5,7 @@
   "includePluginCSS": [
     "dataview",
     "fantasy-calendar",
-    "obsidian-5e-statblocks",
-    "initiative-tracker"
+    "obsidian-5e-statblocks"
   ],
   "includeSvelteCSS": true,
   "titleProperty": "title",
@@ -24,7 +23,7 @@
   "minifyHTML": true,
   "makeNamesWebStyle": true,
   "onlyExportModified": true,
-  "deleteOldFiles": false,
+  "deleteOldFiles": true,
   "addThemeToggle": true,
   "addOutline": true,
   "addFileNav": true,
@@ -53,7 +52,6 @@
   "filesToExport": [
     [
       "Assets",
-      "Battles",
       "Characters",
       "Custom Monsters",
       "Handouts",
@@ -64,9 +62,8 @@
       "Session Prep",
       "Campaign Notes.md",
       "Index.md",
-      "New Handouts.md",
+      "New Handoutsr.md",
       "README.md",
-      "Strahd's Answers to Questions.md",
       "TODO.md",
       "Unlisted Handouts.md"
     ]
