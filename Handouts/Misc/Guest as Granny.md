@@ -1,3 +1,8 @@
+---
+public: false
+unlisted: true
+---
+
 ![[Assets/Images/People/granny.jpeg|200]]
 
 ## Granny in Barovia
