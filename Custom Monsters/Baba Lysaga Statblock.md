@@ -48,7 +48,8 @@ actions:
       bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded with two
       hands.
   - name: Summon Swarms of Insects (Recharges after a Short or Long Rest)
-    desc: Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an
+    desc: >-
+      Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in an
       unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It
       remains until it dies or until Baba Lysaga dismisses it as an action.
 bonus_actions: []
