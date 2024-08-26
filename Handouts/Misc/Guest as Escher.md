@@ -57,3 +57,6 @@ Escher's deepest fears are being unwanted and unloved, both of which are coming 
 	    - He's already flirted with [[Anakir]], but wouldn't be ashamed of flirting with others too
     - If the players continue to converse with Escher, his true personality should come through
 
+```statblock
+creature: Escher, Vampire Consort
+```
