@@ -103,7 +103,7 @@ actions:
       control.
   - name: Charm
     desc: >-
-      Strahd targets one humanoid he can see within 30 feet of him. If the
+      Strahd targets one humanoid he can see within 30 feet of him. If thet
       target can see Strahd, the target must succeed on a 17 Wisdom saving throw
       against this magic or be charmed. The charmed target regards Strahd as a
       trusted friend to be heeded and protected. The target isn't under Strahd's

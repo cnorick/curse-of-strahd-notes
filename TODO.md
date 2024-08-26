@@ -1,3 +1,5 @@
+- [[Pelanil]] wants to be good again
+	- One option is for the party to take him the [[The Abbot|Abbot]]
 - [[Strahd Von Zarovich|Strahd]] visits [[Elora]] at night with a proposition
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves

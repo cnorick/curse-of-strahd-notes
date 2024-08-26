@@ -1,1 +1,3 @@
 - Mention [[Shalooti]]'s [[Deck of Some Things]]
+- [[Pelanil]]'s exploration
+	- If he reaches for the [[Icon of Ravenloft]]

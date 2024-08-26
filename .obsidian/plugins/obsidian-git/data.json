@@ -14,7 +14,7 @@
   "updateSubmodules": false,
   "syncMethod": "rebase",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
