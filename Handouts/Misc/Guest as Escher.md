@@ -60,3 +60,7 @@ Escher's deepest fears are being unwanted and unloved, both of which are coming 
 ```statblock
 creature: Escher, Vampire Consort
 ```
+
+```dataviewjs
+dv.span(dv.current().file.name)
+```

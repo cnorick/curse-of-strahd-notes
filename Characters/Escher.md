@@ -45,7 +45,7 @@ aliases: []
 
 ## Relations
 
-	## Stat Block
+## Stat Block
 
 ```statblock
 monster: Vampire Spawn
