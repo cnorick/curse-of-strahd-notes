@@ -4,7 +4,7 @@ aliases: []
 (NE vampire spawn)
 ![[escher.jpeg|200]]
 ## Playing Escher
-- **Would abosolutely flirt with [[Anakir]]**
+- **Would absolutely flirt with [[Anakir]]**
 - In conversation, Escher displays wit with a hint of melancholy
 - Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs ([area K84](https://longo.com.br/5e/adventure.html#CoS,4,k84.%20catacombs)) with Strahd's other castoff consorts
 - The Posh Socialite
@@ -45,7 +45,7 @@ aliases: []
 
 ## Relations
 
-## Stat Block
+	## Stat Block
 
 ```statblock
 monster: Vampire Spawn
