@@ -139,7 +139,7 @@ spells:
   - 2nd level (3 slots): detect thoughts, gust of wind, mirror image
   - 3rd level (3 slots): animate dead, fireball, nondetection
   - 4th level (3 slots): blight, greater invisibility, polymorph
-  - 5th level (1 slots): animate objects, scrying
+  - 5th level (1 slots): animate objects, scrying, wall of force
 spellsNotes: ""
 lair_actions:
   - name: ''

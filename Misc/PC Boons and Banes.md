@@ -47,3 +47,4 @@ Upcoming ([[Menigal, the Departed|Menigal]])
 
 ## Elora
 - her brother, [[Izek Strazni|Izek]] protects her over all else
+- has a tail

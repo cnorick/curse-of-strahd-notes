@@ -19,8 +19,6 @@ What shadow in the mist said when [[Pelanil]] died ([[Pelanil's NDE]]):
 - [[Menigal, the Departed|Menigal]] can't offer truly vampiric boons
 	- but he's doing what he can to make [[Pelanil]] look and act like a vampire so that [[Strahd Von Zarovich|Strahd]] doesn't get wise
 
-
-
 **Extra loose ends**
 - I'll probably explain this for the group in the session, but the [[Dark Powers]] each feed on specific types of souls
 	- [[Vampyr]] collects souls who die from exsanguination (extreme blood loss)
