@@ -1,6 +1,10 @@
 - [[Pelanil]] wants to be good again
 	- One option is for the party to take him the [[The Abbot|Abbot]]
 - [[Strahd Von Zarovich|Strahd]] visits [[Elora]] at night with a proposition
+	- [[Strahd Von Zarovich|Strahd]] will ask her to be a consort
+		- He's considering her as a successor (he would never actually allow it, but he's considering)
+			- He may tell her this
+		- If she's
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
