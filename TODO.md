@@ -12,6 +12,7 @@
 	- **decision**: [[Lazlo]], [[Hans]], and [[Franz]] decide to go back to the werewolf den to attempt to take advantage of the political schism and free the other children
 
 - place the third missing gem somewhere
+	- inside the [[Heart of Sorrow Statblock]]
 
 - [[Ezmerelda d'Avenir|Ezmerelda]] and [[Rictavio|van Richten]]
 	- maybe run the [[Ezmerelda d'Avenir|Ezmerelda]] event when they take the skull back to [[Argynvostholt (Q)|Argynvostholt]]

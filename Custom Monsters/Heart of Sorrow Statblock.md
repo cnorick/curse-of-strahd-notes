@@ -33,6 +33,8 @@ traits:
     desc: Strahd and the Heart of Sorrow are connected, such that any damage Strahd takes is transferred to the heart. If the heart absorbs damage that drops it to 0 hit points, it is destroyed, and Strahd takes any leftover damage.
   - name: Regeneration
     desc: The Heart of Sorrow regains all its hit points at dawn if it has at least 1 hit point remaining.
+  - name: Winery Gem
+    desc: The third missing winery gem is inside the Heart. When the Heart breaks and rains blood on the tower, a single, palm-sized, red gemstone rolls out too. As the players pick it up, the red corruption leaks away and it turns green.
 actions:
   - name: Shake
     desc: The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a **DC 10 Dexterity** saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie prone on the stairs succeed automatically.
