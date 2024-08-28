@@ -20,7 +20,7 @@ In the guest quarters, the party meets [[Escher]] and [[Gertruda]], who they rem
 
 - [[Elora]]: dress pants with little cargo-ish pockets for her psychic blades on either leg, a suit jacket with tails (*wink*) and a more feminine dress top with a flowy neck link.
 - [[Anakir]]: cropped suit jacket and a cropped top with dress shorts/panatloons
-- [[Pelanil]] A vest with a cape. He kept his weapons on his back. [[Piccolo]] had a matching outfit
+- [[Pelanil]]: A vest with a cape. He kept his weapons on his back. [[Piccolo]] had a matching outfit
 - [[Shalooti]]: Dripping with jewels, a slinky dress with a deep V and an open back with a butt flap for access for the flute and storage
 - [[Bardolf]]: Riding boots, pirate flowy top, accessorized with stone in the same design as [[Shalooti]] and an eyepatch
 
