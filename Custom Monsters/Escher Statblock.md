@@ -11,13 +11,7 @@ alignment: neutral evil
 hp: 82
 ac: 15
 speed: 30 ft., fly 30 ft. (bat form)
-stats:
-  strength: 16
-  dexterity: 16
-  constitution: 16
-  intelligence: 11
-  wisdom: 10
-  charisma: 16
+stats: [16, 16, 16, 11, 10, 16]
 damage_resistances: necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 damage_immunities: poison
 condition_immunities: charmed, exhaustion, frightened, poisoned
