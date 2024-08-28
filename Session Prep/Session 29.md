@@ -9,9 +9,8 @@
 	- "My son, I have gone to great lengths to protect you from [[Menigal, the Departed|Menigal]]'s reach. He yet tries to snag your soul. I will protect you in this realm while I can. Go forth and kick ass"
 	- If he doesn't touch the thing and die, have [[Jesus]] come to him in spirit:
 		- [[Pelanil]] may feel led to sit for a while in the chapel
-		- Remember 
+		- Remember
 		- "My son, I have gone to great lengths to come to you in this realm. There is yet hope for your soul. Travel to [[Village of Krezk (S)|Krezk]] and speak with [[The Abbot]]."
-
 ## Main group
 - The group finishes dinner
 	- will be escorted to their rooms by [[Cyrus Belview|Cyrus]] if they decide to stay
