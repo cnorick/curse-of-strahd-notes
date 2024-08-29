@@ -5,7 +5,7 @@ As the rest of the party is having dinner, [[Pelanil]] finds his way to the cast
 ![[Icon of Ravenloft.png|100]]
 [[Handouts/Items/Icon of Ravenloft Handout|Icon of Ravenloft Handout]]
 
-Nearly dead, [[Pelanil]] collapses onto the closes pew, his body tingling from the radiant blast. He hears a voice:
+Nearly dead, [[Pelanil]] collapses onto the closest pew, his body tingling from the radiant blast. He hears a voice:
 
 >My son, I have gone to great lengths to come to you in this realm. There is yet hope for your soul. Travel to [[Village of Krezk (S)|Krezk]] and speak with [[The Abbot]].
 
@@ -19,19 +19,19 @@ After a flashback to [[Pelanil's Conversation with Menigal]], [[Pelanil]] feels 
 
 As the others argue over the group's next move, [[Shalooti]] sits in the corner messing around with her new deck of cards. Finally, her curiosity gets the best of her, and she pulls a single card from the deck. She feels her bag get immediately lighter, and she notices she's lost nearly all of her GP.
 
-The rest of the group follow [[Cyrus Belview|Cyrus]] back upstairs to bed.
+The group follow [[Cyrus Belview|Cyrus]] back upstairs to bed.
 
 ## Bed Time Shenanigans 
 
-[[Shalooti]] rejects [[Bardolf]]'s offer to share a room, but [[Bardolf]], unperturbed, sets out chiseling a peephole in the wall between their rooms that uses to watch her sleep. He patches it before she wakes in the morning.
+[[Shalooti]] rejects [[Bardolf]]'s offer to share a room, but [[Bardolf]], unperturbed, sets out chiseling a peephole in the wall between their rooms that he uses to watch her sleep. He patches it before she wakes in the morning.
 
-At first, he mistakenly chisels a hole in the wrong wall into the room where [[Pelanil]] is staying. There, he sees [[Pelanil]] awakened by someone at his door. He punches a hole through it and seems to just go back to bed. [[Pelanil]] casts [[Magic Circle]] to protect himself during the night.
+At first, he mistakenly chisels a hole in the wrong wall into the room where [[Pelanil]] is staying. There, he sees [[Pelanil]] awakened by someone at his door. [[Pelanil]] punches a hole through it and seems to just go back to bed. [[Pelanil]] casts [[Magic Circle]] to protect himself during the night.
 
-[[Anakir]] and [[Escher]] engage in some pillow talk. [[Anakir]] asks [[Escher]] to leave [[Castle Ravenloft (K)|Castle Ravenloft]] and join him and the rest of the party. [[Escher]] explains that it's not that easy. It's true that [[Strahd Von Zarovich|Strahd]] has lost interest in him recently, but as a vampire spawn, [[Escher]] has no choice but to follow [[Strahd Von Zarovich|Strahd]]'s orders. If [[Escher]] were to leave to be with [[Anakir]], he couldn't guarantee that he wouldn't hurt him.
+[[Anakir]] and [[Escher]] engage in some pillow talk. [[Anakir]] asks [[Escher]] to leave [[Castle Ravenloft (K)|Castle Ravenloft]] and join him and the rest of the party. [[Escher]] explains that it's not that easy. It's true that [[Strahd Von Zarovich|Strahd]] has lost interest in him recently, but as a vampire spawn, [[Escher]] has no choice but to follow [[Strahd Von Zarovich|Strahd]]'s orders. If [[Escher]] were to leave to be with [[Anakir]], he couldn't guarantee that he wouldn't hurt him. Their bed suddenly pushed up against the wall by [[Pelanil]]'s spell.
 
 ## Strahd's Proposition
 
-[[Elora]], feeling mischievous, snuck down the hall to make noise outside of [[Pelanil]]'s room. Already on edge, [[Pelanil]] leaped from his bed and punched a hole through the door, striking [[Elora]]. With her pride damaged, she made her way back to her room.
+[[Elora]], feeling mischievous, had snuck down the hall to make noise outside of [[Pelanil]]'s room. Already on edge, [[Pelanil]] leaped from his bed and punched a hole through the door, striking [[Elora]]. With her pride damaged, she made her way back to her room.
 
 There, she found [[Strahd Von Zarovich|Strahd]] sitting on her bed. He asked her to come inside and close the door. Worried what [[Pelanil]] would do if he saw, she obliged.
 
@@ -51,7 +51,7 @@ The group loaded into the carriage, [[Anakir]] disappointed that [[Escher]] chos
 
 ## Elora's Puppets
 
-Before leaving her room, [[Elora]] pulled out the [[Strahd Von Zarovich|Strahd]] and [[Elora]] dolls that she'd been carrying with her. She placed them on the dresser in her room, both sitting side-by-side with crowns on their heads, with a dagger through the chest of [[Strahd Von Zarovich|Strahd]]'s doll.
+Before leaving her room, [[Elora]] pulled out the [[Strahd Von Zarovich|Strahd]] and [[Elora]] dolls that she'd been carrying with her. She placed them on the dresser in her room, both sitting side-by-side with crowns on their heads, with a dagger through the chest of [[Strahd Von Zarovich|Strahd]]'s doll. It seems she had made her decision.
 
 ## More Cards
 
