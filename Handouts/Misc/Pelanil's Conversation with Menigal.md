@@ -1,6 +1,6 @@
 ---
-public: false
-unlisted: true
+public: true
+unlisted: false
 ---
 
 What shadow in the mist said when [[Pelanil]] died ([[Pelanil's NDE]]):

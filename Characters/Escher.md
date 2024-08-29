@@ -48,7 +48,7 @@ aliases: []
 ## Stat Block
 
 ```statblock
-monster: Vampire Spawn
+monster: Escher, Vampire Consort
 ```
 
 ```dataviewjs
