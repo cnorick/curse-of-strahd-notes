@@ -1,0 +1,1 @@
+- [[Ezmerelda d'Avenir|Ezmerelda]] appears at the end of [[Village of Krezk (S)|Krezk]] as the group leaves
