@@ -23,6 +23,12 @@ aliases: [Cyrus]
 [[Barovian Lore]]
 
 ## Relations
+- [[Cyrus Belview]]
+- [[Otto Belview]]
+- [[Clovin Belview]]
+- [[Zygfrek Belview]]
+- [[Marzena Belview]]
+- [[Mishka Belview]]
 
 ## Stat Block
 

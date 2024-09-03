@@ -273,7 +273,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 96-100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 |        |                                                                                                                                                                                                                                      |
 
-**Table- Madness Indefinite Flaws**
+**Table- Madness Indefinite Flaws** ^50aad3
 
 | d100   | Flaw (lasts until cured)                                                                                                                 |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------|

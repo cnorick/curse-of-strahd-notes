@@ -1,4 +1,5 @@
 ---
+aliases: [Mongrelfolk]
 statblock: true
 image: 
 bestiary: true

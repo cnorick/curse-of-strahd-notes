@@ -8,6 +8,15 @@ aliases: [Abbott, Abbot]
 **Bond**. "I love the creatures I create, including my beautiful golems and mongrelfolk."
 **Flaw**. "I can't be corrupted. My heart is pure, my intentions noble and good."
 
+- Sheds disguise if the players threaten [[Vasilka]]
+- Believes he is righteous.
+- Regrets transforming the Belviews into horrid mongrelfolk
+	- considers their imprisonment to be necessary, to contain their madness
+- **Strahd's bride**, he believes that she is the key to freeing the land from its curse
+	- The insane Abbot can't be convinced otherwise.
+
+The Abbot shares his beliefs openly, claiming that his decisions are based on the Morninglord's guidance. He will give visitors a tour of the abbey if they seem friendly, but he turns hostile if they threaten him or his charges.
+
 ## History/Info
 No creature in Barovia is older than the master of the Abbey of Saint Markovia in Krezk. This nameless holy figure, whom others call the Abbot, was drawn to the abbey after Saint Markovia died by Strahd's hand. He sought to restore the abbey after it fell to corruption, but was himself corrupted.
 
@@ -26,11 +35,16 @@ Strahd confided in the Abbot, lamenting his curse and telling the deva that he w
 Strahd has no interest in a flesh golem bride, but he enjoys corrupting this once angelic being and driving the Abbot to commit further acts of depravity.
 
 ## What They Want
+- Knows that [[Strahd Von Zarovich|Strahd]] can't be killed/replaced
+	- Wants to make [[Strahd Von Zarovich|Strahd]] happy with a new bride in order to make Strahd treat his subjects better
+- He intends to resurrect [[Tatyana]] into [[Vasilka]]
+	- That's why he's using [[Ireena Kolyana|Ireena]]'s hair
 
 ## What They Know
 [[Barovian Lore]]
 
 ## Relations
+- Created: [[Vasilka]]
 
 ## Stat Block
 
