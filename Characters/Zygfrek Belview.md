@@ -8,7 +8,7 @@ aliases: [Zygfrek]
 
 ## History/Info
 - Appearance
-	-  Zygfrek stands 4 feet, 7 inches tall
+	- Zygfrek stands 4 feet, 7 inches tall
 	- The left side of her face and body is covered with lizard scales, the right with tufts of gray wolf fur
 	- Between these tufts is pale human skin
 	- One of her eyes is that of a feline, and her fingers and hands resemble cat's paws with opposable thumbs
