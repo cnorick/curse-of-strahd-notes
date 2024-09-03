@@ -8,8 +8,8 @@
 ## Entrance
 - The guards are in the gatehouse and ask for wine
 	- They get the [[Dmitri Krezkov|Krezkov]] if they have to
-- Joanna
-- 
+- Joanna was the guard at the gate that knew Shalooti
+- Escher twerked
 
 ## Krezk
 - Livestock have been missing
