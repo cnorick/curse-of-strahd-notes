@@ -65,7 +65,7 @@ The building closest to the outer gate is the burgomaster's cottage—the larges
 
 The burgomaster's cottage has a wine cellar (currently empty) and lots of space for pigpens and chicken coops. Behind the cottage is a graveyard where deceased members of the Krezkov family are interred. Dmitri and Anna's four children, all of whom died of illness, are buried here. Several of the family caskets are empty, their contents stolen in the night by the [[The Abbot|Abbot]]'s mongrelfolk gravediggers (S6). [[Ilya Krezkov|Ilya]]'s plot is fresh and undisturbed, since he was interred only four days ago.
 
-#### Commoner Cottages. 
+#### Commoner Cottages
 
 A typical cottage is only 200 square feet yet contains 1d4 adults (LG male and female human [[Commoner]]s), 1d4-1 children (LG male and female human noncombatants), plus the family's pigs, hares, and chickens.
 

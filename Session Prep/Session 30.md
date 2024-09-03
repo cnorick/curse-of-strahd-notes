@@ -9,11 +9,13 @@
 - The guards are in the gatehouse and ask for wine
 	- They get the [[Dmitri Krezkov|Krezkov]] if they have to
 - Joanna
+- 
 
 ## Krezk
 - Livestock have been missing
 - [[Dmitri Krezkov|Krezkov]] will let the party stay the night at his mansion
 - [[Dmitri Krezkov|Dmitri]] and [[Anna Krezkova|Anna]] talk about the miracle of their son [[Ilya Krezkov|Ilya]] being brought back to live by the [[The Abbot|Abbot]]
+- 
 
 ## The Abbey
 - The bell tolls for dinner as they walk up
