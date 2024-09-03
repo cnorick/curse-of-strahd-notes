@@ -20,4 +20,4 @@
 - [[The Abbot]] doesn't mind to help [[Pelanil]] at all
 	- his hair changes back
 
-- [[Ezmerelda d'Avenir|Ezmerelda]] appears at the end of [[Village of Krezk (S)|Krezk]] as the group leaves (she's also in the barraks)
+- [[Ezmerelda d'Avenir|Ezmerelda]] appears at the end of [[Village of Krezk (S)|Krezk]] as the group leaves (she's also in the barracks)
