@@ -49,6 +49,9 @@ public: true
 
 ## Krezk
 - [ ] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbot]] in [[Village of Krezk (S)|Krezk]]
+- [ ] Retrieve wine for the uncomfortably sober residents of [[Village of Krezk (S)|Krezk]] ^e0b68e
+- [ ] Look into the missing livestock issue ^ab0530
+	- [ ] Talk to [[Luka]]
 
 ## Other
 - [x] Strahd invited the party to dinner
