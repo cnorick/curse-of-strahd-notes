@@ -12,7 +12,7 @@ aliases: []
 - If driven berserk, fights until [[The Abbot]] reasserts control
 
 ## History/Info
-- Characters within 5 feet of her can see the seams in her powedered skin where disparate body parts have been stitched together
+- Characters within 5 feet of her can see the seams in her powdered skin where disparate body parts have been stitched together
 - [[The Abbot]] is teaching her the finer points of etiquette
 	- He wants to teach her how to dance
 

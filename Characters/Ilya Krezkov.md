@@ -22,7 +22,7 @@ aliases: [Ilya]
 ## Stat Block
 
 ```statblock
-monster:
+monster: Commoner
 ```
 
 ```dataviewjs
