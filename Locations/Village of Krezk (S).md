@@ -1,4 +1,4 @@
----
+****---
 aliases: [Krezk, Village of Krezk]
 ---
 
@@ -435,6 +435,11 @@ A character who kills the raven is cursed. While cursed, the character has disad
 ## Special Events
 
 You can use one or more of the following special events while the characters explore Krezk and the abbey.
+
+### Missing Livestock
+
+- Winter is fast approaching this year and Kresk is getting ready to hunker down. The cold kills what few crops they have (mostly root vegtables) and their farm animals must be carefully tended too and distributed evenly so that everyone survives the coming months. This happens every year and the locals are used to preparing for Winter.
+- [[Ilya Krezkov|Ilya]]
 
 ### Something Old
 

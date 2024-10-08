@@ -2,8 +2,6 @@
 - [[Krezk Lore]]
 - [[Village of Krezk (S)|Krezk]]
 - Unnamed mongrelfolk have an [[Situational Rules#^50aad3|indefinite madness]]
-- 
-
 
 ## Entrance
 - The guards are in the gatehouse and ask for wine

@@ -6,6 +6,9 @@ aliases: [Ilya]
 ## Playing Ilya Krezkov
 
 ## History/Info
+- 14 year old boy
+- Recently back from the dead
+- Was dead for like a month
 
 ## What They Want
 
@@ -13,6 +16,8 @@ aliases: [Ilya]
 [[Barovian Lore]]
 
 ## Relations
+- Father: [[Dmitri Krezkov]]
+- Mother: [[Anna Krezkova]]
 
 ## Stat Block
 
