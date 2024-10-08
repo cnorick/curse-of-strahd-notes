@@ -41,7 +41,6 @@ dv.list(dv.pages('"Handouts/Misc"').sort(k => k.file.name).filter(k => k.public)
 dv.list(dv.pages('"Handouts/Stat Blocks"').sort(k => k.file.name).filter(k => k.public).file.link)
 ```
 
-
-
+[[Combined Campaign Notes]]
 
 [[Unlisted Handouts|.]]
