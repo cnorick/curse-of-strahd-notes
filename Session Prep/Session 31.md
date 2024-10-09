@@ -1,6 +1,6 @@
 ## The Abbot
 
-- [[The Abbot]] will meet [[Pelanil]] at the gates
+- [[The Abbot]] will be waiting inside the main hall for [[Pelanil]]
 - He def knows about [[Tatyana]]'s history
 	- and knows that [[Ireena Kolyana|Ireena]] was her reincarnation
 	- [[Strahd Von Zarovich|Strahd]] brought her there to try to have him reincarnate her
@@ -14,6 +14,5 @@
 
 
 - [[Ezmerelda d'Avenir|Ezmerelda]] appears at the end of [[Village of Krezk (S)|Krezk]] as the group leaves (she's also in the barracks)
-
 
 ### 
