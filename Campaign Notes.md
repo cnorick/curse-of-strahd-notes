@@ -29,33 +29,31 @@ The party faces the chanting cultists at the altar and is forced to make a grim 
 
 ---
 
-### **Session 5 - Escape from Durst Manor**
+### **Session 5 - Blood on the Vine Tavern
 
 [[Session Notes/Session 5|Session 5]]
-
-<>
+The party meets Ismark Kolyanovich in the Blood on the Vine Tavern and learns about his sister Ireena's connection to Strahd. They agree to help transport Ireena to safety but must first lay their father to rest at the village cemetery, setting the stage for a deeper confrontation with Barovia's dangers.
 
 ---
 
-### **Session 6 - Ghostly Warnings**
+### **Session 6 - A Funeral and a Shadow**
 
 [[Session Notes/Session 6|Session 6]]
-
-<>
+The party assists Ismark in burying his father in Barovia, where Elora has a brief but chilling encounter with Strahd at the cemetery gates. Afterward, the group rushes back to protect Ireena, only to discover strange happenings at the mansion.
 
 ---
 
-### **Session 7 - The Secret Basement**
+### **Session 7 - Visions and Whispers**
 
 [[Session Notes/Session 7|Session 7]]
-
-<>
+The party visits Madam Eva at Tser Pool and receives a cryptic reading about their future. Later, they reach the Old Bonegrinder windmill, where they encounter strange happenings, leading to a tense exploration as they uncover dark secrets within.
 
 ---
 
 ### **Session 8 - Meeting Bella Sunbane**
 
 [[Session 8-9|Session 8]]
+<>
 At the Old Bonegrinder, the party encounters the hags Bella Sunbane and Offalia Wormwiggle. The encounter turns hostile, leading to a dangerous fight within the windmill.
 
 ---
@@ -63,12 +61,14 @@ At the Old Bonegrinder, the party encounters the hags Bella Sunbane and Offalia 
 ### **Session 9 - The Windmill Burns**
 
 [[Session 8-9|Session 9]]
+<>
 The battle at the windmill intensifies, with the building catching fire. The party rescues children from captivity while fighting the hags amidst the chaos of a collapsing windmill.
 
 ---
 ### **Session 10 - Wrapping Up the Windmill**
 
 [[Session Notes/Session 10|Session 10]]
+<>
 After defeating the hags at the windmill, the party makes their way to Vallaki, beginning their encounters with the troubled townsfolk.
 
 ---
