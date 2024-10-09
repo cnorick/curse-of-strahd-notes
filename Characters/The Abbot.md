@@ -1,6 +1,7 @@
 ---
 aliases: [Abbott, Abbot]
 ---
+
 (LG deva in disguise)
 ![[Abbot.webp|200]]
 ## Playing The Abbott
