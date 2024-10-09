@@ -4,31 +4,36 @@
       "note": "Bardolf",
       "path": "Characters/Bardolf.md",
       "name": "Bardolf",
-      "player": true
+      "player": true,
+      "level": 9
     },
     {
       "note": "Shalooti",
       "path": "Characters/Shalooti.md",
       "name": "Shalooti",
-      "player": true
+      "player": true,
+      "level": 9
     },
     {
       "note": "Anakir",
       "path": "Characters/Anakir.md",
       "name": "Anakir",
-      "player": true
+      "player": true,
+      "level": 9
     },
     {
       "note": "Elora",
       "path": "Characters/Elora.md",
       "name": "Elora",
-      "player": true
+      "player": true,
+      "level": 9
     },
     {
       "note": "Pelanil",
       "path": "Characters/Pelanil.md",
       "name": "Pelanil",
-      "player": true
+      "player": true,
+      "level": 9
     }
   ],
   "parties": [
@@ -142,35 +147,15 @@
   "state": {
     "creatures": [
       {
-        "name": "Escher, Vampire Consort",
-        "initiative": 12,
-        "static": false,
-        "modifier": 3,
-        "hp": 82,
-        "currentMaxHP": 82,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "path": "Custom Monsters/Escher Statblock.md",
-        "id": "ID_081a6b88e878",
-        "currentHP": 82,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Pelanil",
-        "initiative": 17,
+        "name": "Bardolf",
+        "initiative": 2,
         "static": false,
         "modifier": 0,
         "hp": 0,
         "currentMaxHP": 0,
-        "note": "Pelanil",
-        "path": "Characters/Pelanil.md",
-        "id": "ID_1959397b096b",
+        "note": "Bardolf",
+        "path": "Characters/Bardolf.md",
+        "id": "ID_985a0909aa3a",
         "currentHP": 0,
         "tempHP": 0,
         "status": [],
@@ -230,30 +215,26 @@
         "id": "ID_d9b80b9b5b9a",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "Blinded"
-        ],
+        "status": [],
         "enabled": true,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
-        "name": "Bardolf",
-        "initiative": 2,
+        "name": "Pelanil",
+        "initiative": 17,
         "static": false,
         "modifier": 0,
         "hp": 0,
         "currentMaxHP": 0,
-        "note": "Bardolf",
-        "path": "Characters/Bardolf.md",
-        "id": "ID_985a0909aa3a",
+        "note": "Pelanil",
+        "path": "Characters/Pelanil.md",
+        "id": "ID_1959397b096b",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "Blinded"
-        ],
+        "status": [],
         "enabled": true,
         "player": true,
         "active": false,
@@ -261,28 +242,74 @@
         "friendly": false
       },
       {
-        "name": "Escher, Vampire Consort",
+        "name": "Baba Lysaga",
         "initiative": 5,
         "static": false,
-        "modifier": 3,
-        "hp": 82,
-        "currentMaxHP": 82,
-        "cr": "5",
+        "modifier": 0,
+        "hp": 120,
+        "currentMaxHP": 120,
+        "cr": "11",
         "ac": 15,
         "currentAC": 15,
-        "path": "Custom Monsters/Escher Statblock.md",
-        "id": "ID_085b9aab4a18",
-        "currentHP": 82,
+        "path": "Custom Monsters/Baba Lysaga Statblock.md",
+        "id": "ID_199a8baba988",
+        "currentHP": 100,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": true,
+        "friendly": false,
+        "hit_dice": "16d8 + 48",
+        "rollHP": false
+      },
+      {
+        "name": "Baba Lysaga's Creeping Hut",
+        "initiative": 13,
+        "static": false,
+        "modifier": -2,
+        "hp": 263,
+        "currentMaxHP": 263,
+        "cr": "11",
+        "ac": 16,
+        "currentAC": 16,
+        "path": "Custom Monsters/Baba Lysaga's Creeping Hut Statblock.md",
+        "id": "ID_8879b97b0879",
+        "currentHP": 253,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
-        "friendly": false
+        "friendly": false,
+        "hit_dice": "17d20 + 85",
+        "rollHP": false
+      },
+      {
+        "name": "Sir Godfrey Gwilym",
+        "initiative": 8,
+        "static": false,
+        "modifier": 2,
+        "hp": 136,
+        "currentMaxHP": 136,
+        "cr": "6",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Custom Monsters/Sir Godfrey Gwilym Statblock.md",
+        "id": "ID_2b79ca8a0848",
+        "currentHP": 126,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "16d8 + 64",
+        "rollHP": false
       }
     ],
-    "state": false,
-    "name": null,
+    "state": true,
+    "name": "Encounter",
     "round": 1,
     "logFile": "Battles/1715738690623 - Encounter.md",
     "rollHP": false
@@ -443,7 +470,7 @@
   "warnedAboutImports": false,
   "openState": {
     "battle": true,
-    "party": false,
+    "party": true,
     "status": true,
     "plugin": true,
     "player": false,
@@ -459,8 +486,8 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": false,
+    "showParty": false,
+    "showXP": true,
     "sidebarIcon": true,
     "headers": [
       {
@@ -565,11 +592,11 @@
             "chaotic neutral",
             "neutral good (50%) or neutral evil (50%)",
             "any evil alignment",
+            "chaotic or good",
             "chaotic or neutral",
             "neutral or evil",
             "lawful or good",
-            "lawful or evil",
-            "chaotic or good"
+            "lawful or evil"
           ],
           "id": "ID_DEFAULT_ALIGNMENT_FILTER",
           "derive": true
