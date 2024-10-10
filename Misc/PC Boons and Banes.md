@@ -1,4 +1,11 @@
 ## Pelanil
+
+- long term madness, "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time"
+- Gave his belly button to [[The Abbot]]
+	- healed it, but it's probably wonky now
+- [[Menigal, the Departed|Menigal]] is mad at him now that [[The Abbot]] severed the connection between them
+
+### Bad Pelanil's Old Stuff
 Boons:
 - those early hit points that quickly disappeared
 - resistance to necrotic, nonmagical weapon damage
@@ -35,7 +42,7 @@ Upcoming ([[Menigal, the Departed|Menigal]])
     - The DM may choose that 1 attempt that day to attack an enemy is instead redirected to another target, including a party member, if the damage from that attack will result in that alternative target being brought to 0 or less hit points.
         
     - The DM may cause the character to force fail a Suggestion spell from Menigal, ordering the character to spare a humanoids life.
-	
+
 ## Bardolf
 - ~~[[Lycanthropy]]~~
 
@@ -44,7 +51,9 @@ Upcoming ([[Menigal, the Departed|Menigal]])
 
 ## Shalooti
 - has [[Lancelot Stat Block]]
+- has the [[Deck of Some Things]]
 
 ## Elora
 - her brother, [[Izek Strazni|Izek]] protects her over all else
 - has a tail
+- [[Strahd Von Zarovich|Strahd]] asked her to betray her friends to become his consort

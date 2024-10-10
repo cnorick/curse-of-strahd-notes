@@ -64,4 +64,5 @@ public: true
 	- [x] Give [[Bardolf]] the root ^2cdffd
 	- [x] ~~Find someone to cast [[Greater Restoration]]~~
 	- [x] ~~Find and kill the root werewolf~~
+- [ ] Find the magic [[The Abbot]] needs to attract [[Tatyana]]'s soul into [[Vasilka]]'s body at [[The Amber Temple (X)|The Amber Temple]]
 
