@@ -1,3 +1,4 @@
+- polar bear attacks at the end of its hour
 - [[Pelanil]] wants to be good again
 	- One option is for the party to take him the [[The Abbot|Abbot]]
 - [[Strahd Von Zarovich|Strahd]] visits [[Elora]] at night with a proposition
