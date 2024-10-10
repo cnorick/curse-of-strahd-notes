@@ -1,3 +1,6 @@
+- Next time: they said that they want to leave krezk immediately
+	- And are going to deliver the gem to the winery
+	- put [[Ezmerelda d'Avenir|Ezmerelda]] maybe when they leave the winery
 - polar bear attacks at the end of its hour
 - [[Pelanil]] wants to be good again
 	- One option is for the party to take him the [[The Abbot|Abbot]]
