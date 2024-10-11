@@ -64,7 +64,7 @@ We learn the following:
 	- He did, but they also asked to be made more perfect
 	- He gave them the strange features they requested
 
-[[Elora]] is disgusted by his answers, and says that the mongrelfolk, "May have been better left alone" as she turns to leave.
+[[Elora]] is disgusted by his answers, and says that the mongrelfolk, "may have been better left alone" as she turns to leave.
 
 - Bardolf asks for a tail
 	- The abbot said he would look for one
