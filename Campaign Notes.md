@@ -178,35 +178,31 @@ As the party travels from Yester Hill, they encounter a man and wolf pups, only 
 The party secures Bardolf in the cellar for the night, but chaos ensues when Pelanil finds him missing and a gruesome scene in the cellar. After encountering a mysterious woman named Muriel, they set out to confront Baba Lysaga, facing dangerous challenges as they navigate the swamps toward her hut.
 
 ---
-### **Session 27 - Baba Lysaga’s Defeat**
+### **Session 27 - The Beacon Relit**
 
 [[Session Notes/Session 27|Session 27]]
-
-<>
+The party sneaks into Argynvostholt to return the skull of Argynvost, narrowly avoiding the revenants. After hoisting the skull into place, the beacon is lit, granting the party a +1 bonus to AC and saving throws in Barovia. The spirits of the Order of the Silver Dragon find peace, and Godfrey Gwilym turns to ash, finally reunited with his love, Vladimir. As they exit, the party encounters a mysterious black carriage waiting for them.
 
 ---
 
-### **Session 28 - Return to Krezk**
+### **Session 28 - Dinner at Castle Ravenloft**
 
 [[Session Notes/Session 28|Session 28]]
-
-<>
+The party arrives at Castle Ravenloft for dinner, where they are greeted by Cyrus and Rahadin. Strahd hosts an extravagant meal, revealing his motivations for pursuing Ireena and his regrets about killing Pelanil. He offers a proposition to the party, inviting them to hunt down Rudolph van Richten in exchange for their freedom from Barovia. Afterward, Strahd encourages them to explore the castle, while cautioning against venturing into the lower floors.
 
 ---
 
-### **Session 29 - Confronting the Abbot**
+### **Session 29 - A Divine Encounter**
 
 [[Session Notes/Session 29|Session 29]]
-
-<>
+While the party dines, Pelanil discovers a mysterious statuette in the chapel, triggering a powerful surge of radiant energy. Following a vision from his deity, he feels renewed faith and a call to travel to Krezk. Meanwhile, Strahd visits Elora, offering her a tempting proposition that could change the course of their quest, while tensions rise among the party as they debate their next moves.
 
 ---
 
-### **Session 30 - The Abbey’s Secrets**
+### **Session 30 - Krezk's Cold Welcome**
 
 [[Session Notes/Session 30|Session 30]]
-
-<>
+The party arrives in Krezk, where they meet the Burgomaster Krezkov, who shares concerns about disappearing livestock and introduces them to the village's challenges. As Pelanil heads to the Abbey, the rest of the party prepares to assist in solving the town's problems, while they plan a performance for the Krezkovs to lift the town's spirits amidst the chilling atmosphere of Barovia.
 
 ---
 
