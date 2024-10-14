@@ -1,0 +1,6 @@
+- Wine shipment has arrived in [[Village of Krezk (S)|Krezk]] when they leave the abbey
+	- They may need an escort back
+	- Or maybe need help distributing the wine in [[Village of Krezk (S)|Krezk]]
+		- A fun minigame could be to have them roll charisma while bargaining
+			- the people of [[Village of Krezk (S)|Krezk]] are starving and poor
+- [[Ezmerelda d'Avenir|Ezmerelda]] is waiting at the winery

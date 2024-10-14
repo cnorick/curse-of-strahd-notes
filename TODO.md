@@ -1,3 +1,7 @@
+- Ismark:
+	- would probably have gotten worried after a few days of not hearing back
+	- would have sent someone to [[Village of Krezk (S)|Krezk]] to check on [[Ireena Kolyana|Ireena]]
+	- would have heard from 
 - Next time: they said that they want to leave krezk immediately
 	- And are going to deliver the gem to the winery
 	- put [[Ezmerelda d'Avenir|Ezmerelda]] maybe when they leave the winery
