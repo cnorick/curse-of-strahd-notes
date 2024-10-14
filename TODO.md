@@ -1,18 +1,19 @@
 - Ismark:
 	- would probably have gotten worried after a few days of not hearing back
 	- would have sent someone to [[Village of Krezk (S)|Krezk]] to check on [[Ireena Kolyana|Ireena]]
-	- would have heard from 
+	- would have heard from [[Father Lucian Petrovich|Father Lucian]] that [[Pelanil]] mercy-killed her
+	- most likely, he would mourn, but wouldn't blame the party when even he couldn't keep his sister safe
+	- for an interesting filler to a session:
+		- [[Ismark Kolyanovich|Ismark]] bursts into the room guns a blazing, fighting [[Pelanil]]
+		- Obviously, he doesn't stand a chance
+		- but you should make him seem really sad and pitiful
+		- then have the emotional conversation of how he feels about losing his sister
+
 - Next time: they said that they want to leave krezk immediately
 	- And are going to deliver the gem to the winery
 	- put [[Ezmerelda d'Avenir|Ezmerelda]] maybe when they leave the winery
 - polar bear attacks at the end of its hour
-- [[Pelanil]] wants to be good again
-	- One option is for the party to take him the [[The Abbot|Abbot]]
-- [[Strahd Von Zarovich|Strahd]] visits [[Elora]] at night with a proposition
-	- [[Strahd Von Zarovich|Strahd]] will ask her to be a consort
-		- He's considering her as a successor (he would never actually allow it, but he's considering)
-			- He may tell her this
-		- If she's
+
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism

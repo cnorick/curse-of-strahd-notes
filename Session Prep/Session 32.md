@@ -4,3 +4,11 @@
 		- A fun minigame could be to have them roll charisma while bargaining
 			- the people of [[Village of Krezk (S)|Krezk]] are starving and poor
 - [[Ezmerelda d'Avenir|Ezmerelda]] is waiting at the winery
+	- She had gone to [[The Tower]] thinking it was somewhere her old mentor would have hid out
+	- She found some of his stuff there, but not him
+	- She went to [[The Town of Vallaki (N)|Vallaki]], but it was burning (she has info about what's been going on there. Maybe the [[The Keepers of the Feather|Martikovs]] too)
+		- maybe this is how you get the conversation going
+		- maybe she's even in the wagon and can tell her story
+		- They were coming from [[The Town of Vallaki (N)|Vallaki]] and stopped by [[Village of Krezk (S)|Krezk]]
+		- she's friendly with the [[The Keepers of the Feather|Martikovs]] because they have similar goals
+	- She's going back to [[The Tower]], but took the [[The Keepers of the Feather|Martikovs]] up on their offer to travel with them back to the winery
