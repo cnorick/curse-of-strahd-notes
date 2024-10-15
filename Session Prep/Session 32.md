@@ -1,4 +1,7 @@
+- Session starts at like 3PM
+- Don't forget the polar bear will attack after an hour
 - Do some [[Shopping in Barovia#Krezk|shopping]]
+- The party hears the cheer of a crowd when the wine arrives
 - Wine shipment has arrived in [[Village of Krezk (S)|Krezk]] when they leave the abbey
 	- [[Stefania Martikov|Stefania]] and [[Dag Tomescu|Dag]] have delivered it along with someone the group doesn't recognize
 	- They just came from [[The Town of Vallaki (N)|Vallaki]], delivering wine to [[Urwin Martikov|Urwin]]

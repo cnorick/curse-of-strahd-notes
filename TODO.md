@@ -9,11 +9,6 @@
 		- but you should make him seem really sad and pitiful
 		- then have the emotional conversation of how he feels about losing his sister
 
-- Next time: they said that they want to leave krezk immediately
-	- And are going to deliver the gem to the winery
-	- put [[Ezmerelda d'Avenir|Ezmerelda]] maybe when they leave the winery
-- polar bear attacks at the end of its hour
-
 - What happened in [[Village of Krezk (S)|Krezk]]
 	- At the [[Festival of the Blazing Sun]], a guard laughed and [[Vargas Vallakovich|Burgomaster Vallakovich]] had him tied to his horse and dragged behind
 	- An angry mob broke out

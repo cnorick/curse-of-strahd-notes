@@ -95,3 +95,94 @@ Joke's on you, there is no Inn. Remember, Kresk doesn't like outsiders and keeps
 - Owner: Old Woman Katerina
     - Old Woman Katerina is a super quirky old gal with a heavy cockney accent. She's a hard core hoarder and rates things on how interesting they are rather than worth. Her shop has an assortment of random items and trinkets, a few of which may be magical (at your discretion).
     - Katerina _only_ trades. She will not accept money because she finds coins boring. If you want to buy an item from her shop, you must leave something interesting behind. Sometimes the trades favor the players. Sometimes they favor Katerina. She doesn't care, though, because it's fun.
+
+### Thrift Shop Items
+
+What things the party notices in the shop. Descriptions below for when they inspect further:
+- Old tarnished mirror
+- Weathered music box
+- Deck of cards
+- Silver locket
+- Rusted lantern
+- Jar with full of liquid and a couple solid objects
+- Dice made from bone
+- Taxidermied raven
+- Moth-eaten cloak
+- Crude wooden mask in the form of a wolf's face
+- A flask that seems to be leaking
+- A mummified hand
+- A flashing orb
+- A whole collection of what you immediately recognize as [[Gadof Blinsky|Blinsky]] toys
+#### **Mysterious Items**
+
+- **Mirror of Half-Truths**: An old, tarnished mirror that shows reflections slightly distorted. When a player asks it a question, the reflection offers a cryptic answer that’s part truth and part lie.
+    
+- **Weathered Music Box**: A small, delicate music box that plays a hauntingly beautiful tune. When opened, those within 10 feet feel a wave of nostalgia or longing for home. Occasionally, the song changes to a different melody for no apparent reason.
+    
+- **Vistani Tarot Deck**: A set of worn, incomplete tarot cards, much like Madam Eva’s deck, but with a few unique cards. These may provide cryptic visions or act as a magical focus when consulting for guidance.
+    
+
+#### **Curious Trinkets**
+
+- **Silver Locket with Faded Portrait**: This silver locket holds a tiny, faded portrait of a young woman. If opened, a faint whisper of "Come back to me..." can be heard, but only by the person who opened it.
+    
+- **Rusted Lantern with Blue Flame**: A lantern whose flame is an unnatural blue color. The flame never extinguishes, but it only lights up when the wielder is afraid.
+    
+- **Grimoire of Forgotten Pages**: An ancient, tattered spellbook. Its pages seem to have been torn out or scribbled over, but occasionally new, unfamiliar spells appear for a short time before vanishing again.
+    
+
+#### **Unsettling Items**
+
+- **Jar of Preserved Eyes**: A jar filled with what appear to be preserved humanoid eyes floating in brine. Occasionally, one of the eyes will blink or seem to follow someone in the room.
+    
+- **Phantom Dice**: A set of bone dice that feel unnaturally cold to the touch. When rolled, the players hear faint voices whispering the results before they are revealed.
+    
+- **Taxidermied Raven**: A stuffed raven perched on a wooden base. Once a day, the raven can deliver a cryptic one-word message in a raspy voice.
+    
+
+#### **Potentially Useful Items**
+
+- **Cloak of Hidden Paths**: A moth-eaten cloak that, once per day, allows the wearer to teleport up to 30 feet to a location they’ve seen before within the last 24 hours.
+    
+- **Wooden Mask of the Wolf**: A crude wooden mask in the shape of a wolf’s face. When worn, the wearer gains the ability to understand wolves and dire wolves for one hour.
+    
+- **Ever-Dripping Flask**: A flask that constantly drips water. The liquid never runs out, and though it’s just water, it can be used for any basic survival need.
+    
+
+#### **Other Peculiarities**
+
+- **Mummified Hand**: A severed hand, mummified and perfectly preserved. It’s rumored to once have belonged to a thief, and the shopkeeper claims it can lead its owner to hidden treasure—if it’s placed on the ground and left alone at midnight.
+    
+- **Glass Orb with Storm Inside**: A small glass orb filled with miniature lightning storms. When held during a storm, the orb glows, and the person holding it gains a +1 to their next Survival check for navigating bad weather.
+
+#### Blinksy Toys
+
+- **Wailing Doll**  
+    This porcelain doll wears a tattered dress and has lifeless eyes. When wound up, it lets out a soft, eerie wail, like a child lost in the fog. It stops abruptly after 10 seconds, leaving a tense silence.
+    
+- **The Strahd Action Figure**  
+    A small figure resembling Strahd von Zarovich, complete with a removable cape and tiny fangs. When its head is tilted back, it says, _“Welcome to my castle…”_ The voice is distorted and unsettling, almost as if the toy carries a bit of Strahd’s presence with it.
+    
+- **Wolf-Stuffed Animal with Snapping Jaws**  
+    A cute, yet creepy stuffed wolf. Its mouth is sewn shut, but when pressed, the stitches break, revealing sharp, mechanical jaws that snap open and closed. It makes a growling noise as it snaps.
+    
+- **Jack-in-the-Coffin**  
+    A dark twist on the classic jack-in-the-box. This small black coffin opens when wound, releasing a skeleton with a jester’s hat and red-painted cheeks. Instead of cheerful music, the box plays a somber tune until the skeleton springs out with a sharp _"Ha-ha!"_
+    
+- **Bat Kite**  
+    A black kite shaped like a giant bat. On windy nights, if it’s flown, it howls like a wolf, unsettling those around it. Despite the simple design, its eerie presence makes it stand out.
+    
+- **Headless Horseman Toy**  
+    A small horse and rider figure, where the rider has no head. If shaken or tapped, a rubbery head pops out of a hidden compartment in the saddle, only to fall back into the body when left still. The head always seems to land in a different place.
+    
+- **Spinning Zombie Top**  
+    A wooden top carved to look like a zombie crawling out of the ground. When spun, it makes a faint, raspy groaning sound as if it's dragging itself along.
+    
+- **Mourning Bride Doll**  
+    A ragged doll dressed in a bride's gown, with a veil obscuring her face. If the veil is lifted, her stitched face reveals a sad expression. When you pull her string, she whispers, _“He never came for me…”_
+    
+- **Clockwork Raven**  
+    A mechanical raven that hops around when wound up. It occasionally says in a mechanical voice, _“Nevermore…Nevermore…”_ This Blinsky toy is particularly popular for lovers of macabre decor.
+    
+- **Haunted Music Box**  
+    A small music box shaped like a tombstone. When opened, it plays an eerie lullaby. If closed while the music is playing, the tune continues, even though the box is shut.
