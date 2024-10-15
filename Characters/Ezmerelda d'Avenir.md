@@ -8,6 +8,13 @@ _Ideal._ "Evil that feeds on the innocent is the worst of all evils and must be 
 *Bond.*  "My mentor and teacher, Dr. Rudolph van Richten, is like a father to me."
 *Flaw.*  "I go where angels fear to tread."
 
+- She knows the monsters of Barovia and how to hunt and kill them
+	- confident in her monster knowledge/abilities
+- Always overstocked with weapons
+- Brash/reckless
+	- throws herself into danger
+- Not a team player
+
 ## History/Info
 ### Witness to Tragedy
 

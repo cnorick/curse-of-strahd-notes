@@ -2,7 +2,8 @@
 	- They may need an escort back
 	- Or maybe need help distributing the wine in [[Village of Krezk (S)|Krezk]]
 		- A fun minigame could be to have them roll charisma while bargaining
-			- the people of [[Village of Krezk (S)|Krezk]] are starving and poor
+			- the people of [[Village of Krezk (S)|Krezk]] are starving and poor after all
+			- they can basically get the amount of gold equal to their cha roll x5
 - [[Ezmerelda d'Avenir|Ezmerelda]] is waiting at the winery
 	- She had gone to [[The Tower]] thinking it was somewhere her old mentor would have hid out
 	- She found some of his stuff there, but not him

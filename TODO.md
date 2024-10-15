@@ -14,6 +14,15 @@
 	- put [[Ezmerelda d'Avenir|Ezmerelda]] maybe when they leave the winery
 - polar bear attacks at the end of its hour
 
+- What happened in [[Village of Krezk (S)|Krezk]]
+	- At the [[Festival of the Blazing Sun]], a guard laughed and [[Vargas Vallakovich|Burgomaster Vallakovich]] had him tied to his horse and dragged behind
+	- An angry mob broke out
+		- everyone was on edge since the vampires attacked; the festivals didn't seem to work
+	- They hung [[Vargas Vallakovich|Baron Vargas Vallakovich]] and [[Lydia Petrovna|Lydia]]
+	- Taking advantage of the chaos, [[Fiona Wachter]] took power
+	- Half the town is burned, half the town and half the guards are dead
+	- Most people are staying inside
+
 - Figure out what to do with the werewolf kids long term
 	- The kids already told [[Pelanil]] they're kinda cool with being werewolves
 	- maybe they return to the den to capitalize on the political schism
