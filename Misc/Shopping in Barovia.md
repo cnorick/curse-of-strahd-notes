@@ -104,7 +104,7 @@ What things the party notices in the shop. Descriptions below for when they insp
 - Deck of cards
 - Silver locket
 - Rusted lantern
-- Jar with full of liquid and a couple solid objects
+- Jar full of liquid and a couple solid objects
 - Dice made from bone
 - Taxidermied raven
 - Moth-eaten cloak
