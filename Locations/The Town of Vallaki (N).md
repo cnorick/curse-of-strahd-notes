@@ -818,7 +818,7 @@ The colorful half-elf bard [[Rictavio]] (see area N2 and appendix D) paid [[
 
 >The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"
 
-[[Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a ][poison needle trap] trap.
+[[Rictavio]] carries the key to the wagon door. The lock can be picked but is rigged with a [poison needle trap] trap.
 
 Inside the wagon is a saber-toothed tiger (see statblock below).
 

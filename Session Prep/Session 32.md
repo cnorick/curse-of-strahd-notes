@@ -1,15 +1,20 @@
+- Do some [[Shopping in Barovia#Krezk|shopping]]
 - Wine shipment has arrived in [[Village of Krezk (S)|Krezk]] when they leave the abbey
-	- They may need an escort back
-	- Or maybe need help distributing the wine in [[Village of Krezk (S)|Krezk]]
+	- [[Stefania Martikov|Stefania]] and [[Dag Tomescu|Dag]] have delivered it along with someone the group doesn't recognize
+	- They just came from [[The Town of Vallaki (N)|Vallaki]], delivering wine to [[Urwin Martikov|Urwin]]
+	- They need help distributing the wine in [[Village of Krezk (S)|Krezk]]
 		- A fun minigame could be to have them roll charisma while bargaining
 			- the people of [[Village of Krezk (S)|Krezk]] are starving and poor after all
 			- they can basically get the amount of gold equal to their cha roll x5
-- [[Ezmerelda d'Avenir|Ezmerelda]] is waiting at the winery
-	- She had gone to [[The Tower]] thinking it was somewhere her old mentor would have hid out
+			
+- [[Ezmerelda d'Avenir|Ezmerelda]] is with the crew delivering the wine
+	- She had gone to [[The Tower]] thinking it was somewhere her old mentor would have hidden out
 	- She found some of his stuff there, but not him
-	- She went to [[The Town of Vallaki (N)|Vallaki]], but it was burning (she has info about what's been going on there. Maybe the [[The Keepers of the Feather|Martikovs]] too)
-		- maybe this is how you get the conversation going
-		- maybe she's even in the wagon and can tell her story
-		- They were coming from [[The Town of Vallaki (N)|Vallaki]] and stopped by [[Village of Krezk (S)|Krezk]]
+	- She went to [[The Town of Vallaki (N)|Vallaki]], but it was burning
+		- There, the guards under [[Fiona Wachter|Burgomistress Wachter]] were harassing her because of her [[Vistani]] heritage
+		- [[Urwin Martikov|Urwin]] and [[Danika Dorakova|Danika]] took offered her protection
+	- She decided to travel back west with the [[The Keepers of the Feather|Martikovs]] after they delivered the wine in [[The Town of Vallaki (N)|Vallaki]]
 		- she's friendly with the [[The Keepers of the Feather|Martikovs]] because they have similar goals
-	- She's going back to [[The Tower]], but took the [[The Keepers of the Feather|Martikovs]] up on their offer to travel with them back to the winery
+- She rides back in the wagon with the party to [[The Wizard of Wines (W)|The Winery]]
+	- maybe she's even in the wagon and can tell her story
+	- She's eventually going back to [[The Tower]], but took the [[The Keepers of the Feather|Martikovs]] up on their offer to travel with them back to the winery to rest

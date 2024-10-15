@@ -1,5 +1,5 @@
 ---
-aliases: [Lady Fiona Wachter, Fiona, Lady Wachter]
+aliases: [Lady Fiona Wachter, Fiona, Lady Wachter, Burgomistress Wachter]
 ---
 (LE female human priest)
 ![[Fiona_Wachter_29.webp|200]]

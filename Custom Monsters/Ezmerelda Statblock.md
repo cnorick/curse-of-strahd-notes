@@ -41,9 +41,7 @@ languages: Common, Elvish
 cr: "8"
 traits:
   - name: Special Equipment
-    desc: In addition to her magic armor and weapons, Ezmerelda has two potion of
-      greater healing||potions of greater healing, six holy water
-      (flask)|phb|vials of holy water, and three wooden stakes.
+    desc: In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.
 actions:
   - name: Multiattack
     desc: "Ezmerelda makes three attacks: two with her +1 rapier and one with her +1
