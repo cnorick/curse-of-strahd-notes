@@ -29,7 +29,7 @@ The party faces the chanting cultists at the altar and is forced to make a grim 
 
 ---
 
-### **Session 5 - Blood on the Vine Tavern
+### **Session 5 - Blood on the Vine Tavern**
 
 [[Session Notes/Session 5|Session 5]]
 The party meets Ismark Kolyanovich in the Blood on the Vine Tavern and learns about his sister Ireena's connection to Strahd. They agree to help transport Ireena to safety but must first lay their father to rest at the village cemetery, setting the stage for a deeper confrontation with Barovia's dangers.
@@ -203,6 +203,11 @@ Pelanil receives a divine vision, while Elora meets with Strahd, who tempts her 
 
 [[Session Notes/Session 30|Session 30]]
 The party arrives in Krezk, meets the Burgomaster, and uncovers the town’s troubles, including mysterious livestock disappearances. Meanwhile, Pelanil ventures to the Abbey to confront the enigmatic Abbot, setting the stage for future challenges.
+
+### **Session 31 - Healing and Horrors**
+
+[[Session Notes/Session 31|Session 31]]
+Pelanil receives healing from the Abbot, severing his connection with Menigal. The party learns unsettling truths about the Abbot’s creation of Vasilka and his gruesome plans for Ireena's body.
 
 ---
 
