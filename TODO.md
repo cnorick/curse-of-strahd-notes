@@ -1,3 +1,5 @@
+- Ezmerelda says she needs a moment before seeing her mentor again
+	- and sneaks away as the group enters
 - Ismark:
 	- would probably have gotten worried after a few days of not hearing back
 	- would have sent someone to [[Village of Krezk (S)|Krezk]] to check on [[Ireena Kolyana|Ireena]]
