@@ -98,7 +98,7 @@ Chaos erupts in Vallaki as Elora and Shalooti battle vampire spawn to recover St
 ### **Session 15 - A Dark Bargain**
 
 [[Session Notes/Session 15|Session 15]]
-The party confronts Strahd in the aftermath of Ireena's death, leading to a devastating encounter where Pelanil is killed after mercy-killing Ireena. As chaos unfolds, Strahd escapes with Ireena's body, while the party struggles to save the remaining parishioners from the burning church, receiving a mysterious package from Ireena before learning about the Abbot's rumored resurrection powers.
+Strahd kills Pelanil after he mercy-kills Ireena, leaving the church in chaos as the vampire spawn rampage through Vallaki. The party fights to save as many lives as they can, with Father Lucian offering a valuable gift in gratitude for their heroism.
 
 ---
 
@@ -154,7 +154,7 @@ The party enjoys a brief rest at the Martikovs' winery, where they share a meal 
 ### **Session 23 - Into the Mists**
 
 [[Session Notes/Session 23|Session 23]]
-As the party navigates the mists, Pelanil encounters Menigal, a Dark Power, who reminds him of their pact. Meanwhile, the rest of the group grapples with twig blights and hears ominous chanting atop a hill, leading them to discover a Gulthias Tree and a sinister gathering of forest folk, setting the stage for an intense confrontation.
+Pelanil recalls a pact with the dark power Menigal, receiving an ominous offer. Meanwhile, the party explores Yester Hill, discovering the Blood Spear of Kavan and facing off against a ritual to summon Wintersplinter.
 
 ---
 
@@ -165,10 +165,10 @@ The party engages in a fierce battle against the Forest Folk while attempting to
 
 ---
 
-### **Session 25 - Pups and Hairy Men**
+### **Session 25 - Pups and Peril**
 
 [[Session Notes/Session 25|Session 25]]
-As the party travels from Yester Hill, they encounter a man and wolf pups, only to be ambushed by dire wolves and werewolves. After a tense battle, they realize the pups are kidnapped children, and upon returning to the Wizard of Wines, they confront the Martikovs about the ramifications of their choices. The session concludes with discussions on how to handle Bardolf's new lycanthropy and their quest for the missing gems.
+The party encounters a man with wolf pups on their way to the winery, leading to a deadly battle with werewolves and dire wolves. Afterward, they return to the Martikovs, uncovering dark truths about lycanthropy, and set plans to find a cure for Bardolf's newfound curse.
 
 ---
 
@@ -204,10 +204,19 @@ Pelanil receives a divine vision, while Elora meets with Strahd, who tempts her 
 [[Session Notes/Session 30|Session 30]]
 The party arrives in Krezk, meets the Burgomaster, and uncovers the town’s troubles, including mysterious livestock disappearances. Meanwhile, Pelanil ventures to the Abbey to confront the enigmatic Abbot, setting the stage for future challenges.
 
+---
+
 ### **Session 31 - Healing and Horrors**
 
 [[Session Notes/Session 31|Session 31]]
 Pelanil receives healing from the Abbot, severing his connection with Menigal. The party learns unsettling truths about the Abbot’s creation of Vasilka and his gruesome plans for Ireena's body.
+
+---
+
+### **Session 32 - Blinsky's Birthday**
+
+[[Session Notes/Session 32|Session 32]]
+The party shops at a quirky thrift store in Krezk before delivering wine for the Wizard of Wines. They meet Ezmerelda, who reveals her connection to van Richten, while Pelanil resurrects Blinsky, leading to an unexpected birthday celebration.
 
 ---
 
