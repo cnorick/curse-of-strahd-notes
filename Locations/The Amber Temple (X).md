@@ -30,7 +30,7 @@ A snow-swept gravel road climbs the mountainside as it travels north from [[Tsol
 
 The amber statues are impervious to damage. Looking at one for long fills a viewer with unease.
 
-X1a. Narrow Fissure
+### X1a. Narrow Fissure
 
 A natural fissure has opened in the mountainside west of the temple's facade, creating a gap two feet wide, ten feet tall, and fifteen feet deep. You see light coming from a room beyond, and you hear human voices there as well.
 
