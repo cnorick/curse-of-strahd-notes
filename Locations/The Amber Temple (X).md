@@ -30,55 +30,57 @@ A snow-swept gravel road climbs the mountainside as it travels north from [[Tsol
 
 The amber statues are impervious to damage. Looking at one for long fills a viewer with unease.
 
+![[Amber Temple Front.png|500]]
+
 ### X1a. Narrow Fissure
 
-A natural fissure has opened in the mountainside west of the temple's facade, creating a gap two feet wide, ten feet tall, and fifteen feet deep. You see light coming from a room beyond, and you hear human voices there as well.
+> A natural fissure has opened in the mountainside west of the temple's facade, creating a gap two feet wide, ten feet tall, and fifteen feet deep. You see light coming from a room beyond, and you hear human voices there as well.
 
-The fissure leads to [area X15](https://longo.com.br/5e/adventure.html#cos,13,x15.%20southwest%20annex). If the characters make a lot of noise outside, one of the creatures in that area investigates the disturbance.
+The fissure leads to [[#X15. Southwest Annex]]. If the characters make a lot of noise outside, one of the creatures in that area investigates the disturbance.
 
-X2. Entrance
+### X2. Entrance
 
 If the characters pass through the archway between the statues, read:
 
-Icy steps descend ten feet to a time-ravaged hallway with arrow slits in the walls. Beyond the hall lies a vast, sepulchral darkness.
+> Icy steps descend ten feet to a time-ravaged hallway with arrow slits in the walls. Beyond the hall lies a vast, sepulchral darkness.
 
-The hall connects areas X1 and X4. There are no guards in the rooms behind the arrow slits (areas X2a and X2b).
+The hall connects areas [[#X1. Temple Facade]] and [[#X4. Overlook]]. There are no guards in the rooms behind the arrow slits (areas [[#X2a. Guard Room]] and [[#X2b. Guard Room]]).
 
-X2a. Guard Room
+### X2a. Guard Room
 
 This empty room lies behind a secret door. The ceiling is 10 feet high. Two arrow slits are carved into the east wall.
 
-X2b. Guard Room
+### X2b. Guard Room
 
 This room lies behind a secret door.
 
-Two arrow slits are carved into the west wall of this 10-foot-high, twenty-foot-square room. Slumped in the northeast corner is a skeleton wearing a blue wizard's robe and clutching a wand to its chest.
+> Two arrow slits are carved into the west wall of this 10-foot-high, twenty-foot-square room. Slumped in the northeast corner is a skeleton wearing a blue wizard's robe and clutching a wand to its chest.
 
 The skeleton is all that remains of a wizard who froze to death. It poses no threat.
 
-Treasure. 
+**Treasure.** 
 
-The skeleton clutches a [wand of secrets](https://longo.com.br/5e/items.html#wand%20of%20secrets_dmg).
+The skeleton clutches a [[Wand of Secrets]].
 
-X3. Empty Barracks
+### X3. Empty Barracks
 
-Shattered bits of wood cover the floor of this frigid, twenty-foot-square room.
+> Shattered bits of wood cover the floor of this frigid, twenty-foot-square room.
 
 The ceiling in each of these rooms is 10 feet high. The wood is all that remains of guards' bunks.
 
-A secret door set in one wall of each room can be pulled open to reveal [area X2a](https://longo.com.br/5e/adventure.html#cos,13,x2a.%20guard%20room) or X2b beyond.
+A secret door set in one wall of each room can be pulled open to reveal [[#X2a. Guard Room]] or [[#X2b. Guard Room]] beyond.
 
-X4. Overlook
+### X4. Overlook
 
-A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the balcony. A similar pair stands open to the east.
+> A twenty-foot-wide balcony of black marble with a shattered railing overlooks a vast temple. Black marble staircases at each end of the balcony descend thirty feet to the temple floor. The vaulted ceiling is thirty feet above the balcony. The walls and ceiling are covered in an amber glaze, lending the gloom a golden sheen. A set of amber doors stands closed at the west end of the balcony. A similar pair stands open to the east.
 
-Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas X8 and X17 for more information on these arrow slits). If the characters' light source or vision extends 90 feet or more, they can see a large, faceless statue at the far end of the temple ([area X5a](https://longo.com.br/5e/adventure.html#cos,13,x5a.%20god%20of%20secrets)).
+Anyone with a passive Wisdom (Perception) score of 12 or higher notice arrow slits in the walls overlooking the temple (see areas [[#X8. Upper East Hall]] and [[#X17. Upper West Hall]] for more information on these arrow slits). If the characters' light source or vision extends 90 feet or more, they can see a large, faceless statue at the far end of the temple ([[#X5a. God of Secrets]]).
 
-The open doorway to the east leads to [area X6](https://longo.com.br/5e/adventure.html#cos,13,x6.%20southeast%20annex). The double doors to the west open into [area X15](https://longo.com.br/5e/adventure.html#cos,13,x15.%20southwest%20annex). Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
+The open doorway to the east leads to [[#X6. Southeast Annex]]. The double doors to the west open into [[#X15. Southwest Annex]]. Characters who listen at the western doors hear gruff humanoid voices beyond, but can't discern what's being said.
 
-X5. Temple of Lost Secrets
+### X5. Temple of Lost Secrets
 
-Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness.
+> Four black marble columns support the vaulted ceiling of the temple, at the north end of which stands a forty-foot-tall statue of a cowled figure in flowing robes. The statue's stony hands are outstretched as if in the midst of casting a spell. Its face is a void of utter blackness.
 
 The ominous statue stands between two black marble balconies, one of which has partially collapsed and fallen on the temple's black marble floor, in front of an open doorway. The walls of the temple are sheathed in amber, and the doors leading from it are made of amber as well. Arched hallways coated with amber lead away from the temple to the west and east. Flanking these exits are alcoves that hold white marble statues of robed human wizards with pointed hats and golden staffs. One of them has toppled over and lies shattered on the floor.
 
@@ -92,7 +94,7 @@ Arrow slits cut into the walls of the upper galleries (areas X8 and X17) and arc
 
 The marble wizard statues stand 8 feet tall. Their 9-foot-tall golden staffs are made of wrought iron coated in peeling gold paint. The northeast statue fell over when an earth tremor collapsed the wall of its alcove.
 
-X5a. God of Secrets
+### X5a. God of Secrets
 
 This 40-foot-tall statue, carved out of granite, depicts a faceless god of secrets. At the base of the statue, in the back, is a secret door that can be found with a successful DC 20 Wisdom (Perception) check. It can be pulled open to reveal a spiral staircase that climbs to a stone trapdoor set into the floor of the statue's hollow head.
 
@@ -123,15 +125,15 @@ Fortunes of Ravenloft. 
 
 If your card reading reveals that a treasure is here, it's lying on the floor inside the statue's head.
 
-X5b. Secret Door
+### X5b. Secret Door
 
 Set into the middle of the temple's north wall is a secret door. A character who searches the wall for secret doors and succeeds on a DC 20 Wisdom (Perception) check detects seams in the amber glaze that covers the wall, hinting at the presence of the door. It is warded by an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell that prevents it from being opened, but knocking on the door three times causes it to swing open for 1 minute, revealing a dusty stone staircase. The stairs climb 30 feet to another secret door that swings open automatically when a creature moves within 5 feet of it. The stairs lead to [area X30](https://longo.com.br/5e/adventure.html#cos,13,x30.%20preserved%20library).
 
-X5c. Locked Doors
+### X5c. Locked Doors
 
 These amber doors are sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes 22 (4d10) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs ([area X31](https://longo.com.br/5e/adventure.html#cos,13,x31.%20central%20catacombs)).
 
-X5d. Amber Reflections
+### X5d. Amber Reflections
 
 This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you.
 
@@ -139,7 +141,7 @@ The characters' bizarre reflections are illusions meant to discourage them from 
 
 The east hall leads to [area X32](https://longo.com.br/5e/adventure.html#cos,13,x32.%20lower%20east%20hall), the west hall to [area X36](https://longo.com.br/5e/adventure.html#cos,13,x36.%20lower%20west%20hall).
 
-X6. Southeast Annex
+### X6. Southeast Annex
 
 This room is featureless except for a rough-edged, 10-foot-diameter circular hole in the floor to the east and empty torch sconces along the walls. Double doors of amber stand open to the north and west. A single closed door lies just south of the western set of double doors.
 
@@ -149,19 +151,19 @@ The hole in the floor forms a roughly hewn shaft that descends 20 feet, then bre
 
 A secret door in the south wall opens into [area X7](https://longo.com.br/5e/adventure.html#cos,13,x7.%20secret%20scroll%20repository).
 
-X7. Secret Scroll Repository
+### X7. Secret Scroll Repository
 
 Carved into the south wall of this dusty space are cylindrical holes fit for scrolls or maps.
 
 The wizards kept magic scrolls here in case the temple came under attack. The scrolls have crumbled to dust.
 
-X8. Upper East Hall
+### X8. Upper East Hall
 
 Glazed amber covers the walls of this twenty-foot-wide, seventy-foot-long arched corridor. The amber doors at both ends of the hall stand open. A closed door is in the middle of the east wall, and three arrow slits are cut into the wall across from it. Cracks in the black marble floor run the length of the hall.
 
 The cracks in the floor were made by the golem in [area X10](https://longo.com.br/5e/adventure.html#cos,13,x10.%20northeast%20annex). The arrow slits are 5 inches wide, 2 feet tall, and 1 foot thick. They look down on the temple ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)).
 
-X9. Lecture Hall
+### X9. Lecture Hall
 
 This chamber is brightly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches.
 
@@ -187,7 +189,7 @@ Vilnius carries his spellbook, which contains all the spells he has prepared. He
 
 Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If Vilnius realizes what the amulet does, he won't part with it.
 
-X10. Northeast Annex
+### X10. Northeast Annex
 
 The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists.
 
@@ -195,13 +197,13 @@ The ceiling here is 20 feet high, and the walls are lined with empty torch sconc
 
 An earthquake collapsed the eastern part of the room long ago.
 
-X11. Northeast Balcony
+### X11. Northeast Balcony
 
 This black marble balcony, thirty feet above the floor, overhangs the northeast corner of the temple. The two amber doors leading from this balcony stand open.
 
 Characters can see an arrow slit west of the northern set of doors (see [area X13](https://longo.com.br/5e/adventure.html#cos,13,x13.%20east%20archer%20post)).
 
-X12. East Shrine
+### X12. East Shrine
 
 This bare stone room consists of a foyer to the west and a shrine to the east. Four candlesticks lie on the dusty floor of the foyer. In the shrine, fragments of a shattered obsidian statue are scattered in a raised alcove at the eastern end of the chamber. Two pairs of empty alcoves line the north and south walls of the shrine.
 
@@ -209,13 +211,13 @@ The [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in 
 
 A secret door is set into the back of one of the alcoves on the north wall. It can be pulled open to [area X14](https://longo.com.br/5e/adventure.html#cos,13,x14.%20north%20staircase).
 
-X13. East Archer Post
+### X13. East Archer Post
 
 This narrow room has an arrow slit in the center of the south wall.
 
 The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)), beneath the raised left arm of the great statue ([area X5a](https://longo.com.br/5e/adventure.html#cos,13,x5a.%20god%20of%20secrets)).
 
-X14. North Staircase
+### X14. North Staircase
 
 When the characters open the secret door at the top of the stairs, read:
 
@@ -223,7 +225,7 @@ A dusty corridor heads north, then bends to the east, descending a dark staircas
 
 Three 10-foot-long staircases with landings between them descend a total of 30 feet to [area X14a](https://longo.com.br/5e/adventure.html#cos,13,x14a.%20collapsed%20lower%20hall). The stench grows stronger down the stairs.
 
-X14a. Collapsed Lower Hall
+### X14a. Collapsed Lower Hall
 
 The stairs descend to a collapsed hall with a high ceiling and amber-glazed walls glazed. Rubble covers most of the floor, and a path through the rubble leads to an open doorway. A deathly stench seems to come from there.
 
@@ -231,7 +233,7 @@ This ruined area once connected to [area X32](https://longo.com.br/5e/adventure
 
 Unless the characters douse their light sources and move quietly, the creatures in [area X33c](https://longo.com.br/5e/adventure.html#cos,13,x33c.%20ghastly%20vault) hear them approaching and prepare to attack.
 
-X15. Southwest Annex
+### X15. Southwest Annex
 
 This room contains a [gladiator](https://longo.com.br/5e/bestiary.html#gladiator_mm) (CE female human), five [berserkers](https://longo.com.br/5e/bestiary.html#berserker_mm) (CE male and female humans), and one [dire wolf](https://longo.com.br/5e/bestiary.html#dire%20wolf_mm). The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be charmed or frightened.
 
@@ -249,11 +251,11 @@ Development
 
 The gladiator, Helwa, uses this room as a shelter while hunting in the mountains. She and her berserkers know nothing about the temple's history or purpose.
 
-X16. West Scroll Repository
+### X16. West Scroll Repository
 
 Apart from its location, this room is identical to [area X7](https://longo.com.br/5e/adventure.html#cos,13,x7.%20secret%20scroll%20repository).
 
-X17. Upper West Hall
+### X17. Upper West Hall
 
 The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.
 
@@ -267,7 +269,7 @@ Treasure
 
 Although the dead wizard's spellbook didn't survive, his staff did. It is a [staff of frost](https://longo.com.br/5e/items.html#staff%20of%20frost_dmg). Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
-X18. Hallway
+### X18. Hallway
 
 This twenty-foot-long, ten-foot-high hallway of bare stone has an amber door at each end.
 
@@ -281,7 +283,7 @@ The ceiling here is 15 feet high. The bottles contain the dried-up remains of po
 
 A secret door is set in the north wall. It can be pulled open to reveal a staircase landing ([area X21](https://longo.com.br/5e/adventure.html#cos,13,x21.%20west%20staircase)).
 
-X20. Architect's Room
+### X20. Architect's Room
 
 Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest.
 
@@ -297,13 +299,13 @@ Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's hidden in the miniature castle. The characters must smash their way into the castle to reach it.
 
-X21. West Staircase
+### X21. West Staircase
 
 Three 10-foot-long staircases separated by 10-foot-square landings connect areas X18 and X36. Thick dust covering the stairs has not been disturbed in ages.
 
 The uppermost landing has secret doors set into its north and south walls. The south door opens into [area X19](https://longo.com.br/5e/adventure.html#cos,13,x19.%20potion%20storage), and the north door opens into [area X20](https://longo.com.br/5e/adventure.html#cos,13,x20.%20architect's%20room).
 
-X22. Northwest Annex
+### X22. Northwest Annex
 
 When one of the doors to this room is opened, read:
 
@@ -321,7 +323,7 @@ Any poisonous liquid poured into the ewer is instantly transformed into an equal
 
 Many unscrupulous Barovians and Vistani would kill to obtain this ewer. Others would gladly pay for it or accept it as a gift.
 
-X23. Northwest Balcony
+### X23. Northwest Balcony
 
 This black marble balcony overhangs the northwest corner of the temple, the floor of which lies thirty feet below. Nearly half of the balcony has fallen away, and obvious cracks have formed near its ragged edge.
 
@@ -329,7 +331,7 @@ This balcony is unsafe. Weight in excess of 250 pounds causes it to collapse. An
 
 Characters can see an arrow slit east of the northern set of doors (see [area X25](https://longo.com.br/5e/adventure.html#cos,13,x25.%20west%20archer%20post)).
 
-X24. West Shrine
+### X24. West Shrine
 
 This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine.
 
@@ -337,13 +339,13 @@ The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same name
 
 A pair of amber doors in the east wall open into [area X25](https://longo.com.br/5e/adventure.html#cos,13,x25.%20west%20archer%20post). A secret door is set in the back of one of the northern alcoves. Pulling it open releases hundreds of skulls (see [area X26](https://longo.com.br/5e/adventure.html#cos,13,x26.%20secret%20alcove)).
 
-X25. West Archer Post
+### X25. West Archer Post
 
 This narrow room has an arrow slit in the center of the south wall.
 
 The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)), beneath the raised right arm of the great statue ([area X5a](https://longo.com.br/5e/adventure.html#cos,13,x5a.%20god%20of%20secrets)).
 
-X26. Secret Alcove
+### X26. Secret Alcove
 
 Two secret doors lead to this room. When either door is pulled open, read:
 
@@ -359,7 +361,7 @@ If the chest's lid is opened, the floor of this room disappears (as if affected 
 
 The iron chest is empty.
 
-X27. Lich's Lair
+### X27. Lich's Lair
 
 This fifteen-foot-high room contains the trappings of royalty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candelabras atop small tables. The beauty of the decor is undone by thick dust and cobwebs. Standing in the center of the room is a decrepit skeleton clad in tattered robes.
 
@@ -383,7 +385,7 @@ Treasure
 
 The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: _The Incants of Exethanter_. The spellbook contains all the spells on the lich's list of prepared spells (see the lich stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). The lich attacks anyone who tries to take its spellbook.
 
-X28. Hidden Phylactery
+### X28. Hidden Phylactery
 
 The secret door to this room has an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell cast on it (see [area X27](https://longo.com.br/5e/adventure.html#cos,13,x27.%20lich's%20lair) for details).
 
@@ -391,13 +393,13 @@ Behind the secret door is a small, dusty room. Rising from the floor in the east
 
 The scaly arm is merely a carved pedestal. The bone box is Exethanter's phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
 
-X29. Secret Room
+### X29. Secret Room
 
 Dust and cobwebs fill this otherwise empty room.
 
 The ceiling here is 10 feet high.
 
-X30. Preserved Library
+### X30. Preserved Library
 
 This stone library has twenty-foot-high walls and a thirty-foot-high vaulted ceiling. Covering the ceiling is a fresco that depicts angels being set ablaze in a hell. A black marble railing encloses a gold marble staircase that spirals gently down a thirty-foot-wide, thirty-foot-deep shaft to the north. Against the gray walls stand six ten-foot-tall, black marble bookcases. On their shelves are hundreds of well-preserved tomes. Embroidered rugs, chairs, and lit candelabras fill the southern half of the room.
 
@@ -409,7 +411,7 @@ A book that is taken from the library disintegrates as the magic that preserves 
 
 The secret door in the center of the west wall can be pulled open to reveal an empty room ([area X29](https://longo.com.br/5e/adventure.html#cos,13,x29.%20secret%20room)). The one in the center of the south wall can be pulled open to reveal a staircase that descends 30 feet to another secret door leading to [area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets).
 
-X31. Central Catacombs
+### X31. Central Catacombs
 
 These catacombs contain the moldy remains of the wizards who once defended the Amber Temple. Later generations of wizards who were corrupted by the evil of the temple smashed the amber sheaths covering the dead wizards' bodies and stole everything of value, leaving the formerly preserved corpses to rot.
 
@@ -421,7 +423,7 @@ Tall, iron candlesticks stand in alcoves. Their candles ignite as you enter, cas
 
 The magic candles ignite when a living creature enters the catacombs and melt away if taken from the area.
 
-X31a. West Catacombs
+### X31a. West Catacombs
 
 More skeletal remains fill niches in the walls of this smaller annex, the amber husks that once preserved them smashed beyond repair.
 
@@ -431,7 +433,7 @@ The niches set into the wall of this annex lie empty, except for a thick coat of
 
 No wizards were entombed here. This annex is empty.
 
-X32. Lower East Hall
+### X32. Lower East Hall
 
 The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble.
 
@@ -443,7 +445,7 @@ Development
 
 If two of the witches are killed or incapacitated, the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
 
-X33. Amber Vaults
+### X33. Amber Vaults
 
 Several of these amber-glazed rooms are located along the periphery of the complex. Each room contains two or more amber sarcophagi (see the "Amber Sarcophagi" sidebar).
 
@@ -461,7 +463,7 @@ The instant a dark gift is bestowed, the creature receiving it undergoes a trans
 
 Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma saving throw. If the saving throw fails, the creature's alignment changes to evil. A character who turns evil becomes an NPC under the Dungeon Master's control, although the DM can allow the player to continue playing the evil character.
 
-X33a. Vault of Shalx
+### X33a. Vault of Shalx
 
 The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes 22 (4d10) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
@@ -493,7 +495,7 @@ The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hun
 
 As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
 
-X33b. Vault of Maverus
+### X33b. Vault of Maverus
 
 The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
 
@@ -519,7 +521,7 @@ The vestige within this sarcophagus offers the dark gift of Shami-Amourae, the L
 
 The beneficiary of this dark gift gains an extra finger on each hand, as well as the following flaw: "I can't get enough pleasure. I desire others to create beauty for me at all times."
 
-X33c. Ghastly Vault
+### X33c. Ghastly Vault
 
 The amber door to this room hangs open, and the chamber reeks of death.
 
@@ -551,7 +553,7 @@ The vestige within this sarcophagus offers the dark gift of Zantras, the Kingmak
 
 The beneficiary of this dark gift gains the following flaw: "I won't take no for an answer."
 
-X33d. Breached Vault
+### X33d. Breached Vault
 
 The amber door to this room hangs open.
 
@@ -577,7 +579,7 @@ The vestige within this sarcophagus offers the dark gift of Khirad, the Star of 
 
 The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
 
-X33e. Vault of Harkotha
+### X33e. Vault of Harkotha
 
 The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
 
@@ -605,7 +607,7 @@ The vestige within this sarcophagus offers the dark gift of Yog the Invincible. 
 
 Oily black fur covers the beneficiary's face and body.
 
-X33f. Vault of Thangob
+### X33f. Vault of Thangob
 
 The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
 
@@ -631,7 +633,7 @@ The vestige within this sarcophagus offers the dark gift of Seriach, the Hell Ho
 
 The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.)Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal.
 
-X34. Wizard's Bedchamber
+### X34. Wizard's Bedchamber
 
 A white marble bed stands in the center of this bare stone room, its mattress long since rotted away. Golden hawks perch atop the bed's corner posts. The room's remaining furnishings have been reduced to dust-covered heaps. Cobwebs cover arcane sigils carved into the walls.
 
@@ -641,13 +643,13 @@ Treasure
 
 The four golden hawks are worth 250 gp each.
 
-X35. Sleeping Guardian
+### X35. Sleeping Guardian
 
 The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
 
 This room was once a wizard's bedchamber. The construct is an incapacitated [shield guardian](https://longo.com.br/5e/bestiary.html#shield%20guardian_mm). Its control amulet can be found in [area X9](https://longo.com.br/5e/adventure.html#cos,13,x9.%20lecture%20hall).
 
-X36. Lower West Hall
+### X36. Lower West Hall
 
 Glistening amber coats the walls and ceiling of this enormous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor.
 
@@ -655,11 +657,11 @@ An amber door in the north wall stands open. Four other amber doors to the west 
 
 The animal statues represent different kinds of familiars, and they are harmless.
 
-X37. Wizard's Bedchamber
+### X37. Wizard's Bedchamber
 
 Furnishings made of ancient, colorless wood have collapsed under their own weight and now lie covered with cobwebs and dust.
 
-X38. Haunted Room
+### X38. Haunted Room
 
 This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about.
 
@@ -669,7 +671,7 @@ Treasure
 
 A search of the room yields a wooden scroll tube containing an intact [spell scroll](https://longo.com.br/5e/items.html#spell%20scroll%20(4th%20level)_dmg) of [wall of fire](https://longo.com.br/5e/spells.html#wall%20of%20fire_phb).
 
-X39. Plundered Treasury
+### X39. Plundered Treasury
 
 The amber doors that once sealed this great stone room have been smashed, their pieces lying amid crushed bones, armor, and weapons.
 
@@ -679,7 +681,7 @@ An [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) once 
 
 Not all of the thieves escaped, and the pulverized re mains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [poltergeists](https://longo.com.br/5e/bestiary.html#poltergeist_mm) (see the [specter](https://longo.com.br/5e/bestiary.html#specter_mm) entry in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). The poltergeists can't leave the room and fight until destroyed.
 
-X40. Sealed Treasury
+### X40. Sealed Treasury
 
 The amber doors to the south are sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [greater invisibility](https://longo.com.br/5e/spells.html#greater%20invisibility_phb) spell is cast on the [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in this room. The spell lasts for 1 minute.
 
@@ -749,11 +751,11 @@ Fortunes of Ravenloft
 
 If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a d6).
 
-X41. Fissure
+### X41. Fissure
 
 An earth tremor split the rock between areas X40 and X42, creating two natural openings that are virtually side by side. The openings are 3 feet wide, 8 feet high, and 10 feet deep.
 
-X42. Amber Vault
+### X42. Amber Vault
 
 A golden marble staircase with a black marble railing hugs the north wall as it spirals gently up a thirty-foot-wide shaft. Lying in the middle of the room are six rotting wooden crates.
 
@@ -801,11 +803,11 @@ The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse S
 
 The beneficiary of this dark gift takes on a corpse-like appearance and is easily mistaken for an undead.
 
-Special Events
+## Special Events
 
 Two dusk elves are drawn to the Amber Temple for different reasons. You can use one or both of the following special events while the characters explore the temple.
 
-Rahadin's Prayer
+### Rahadin's Prayer
 
 Strahd's loyal chamberlain, [Rahadin](https://longo.com.br/5e/bestiary.html#rahadin_cos), believes that his master forged a pact with the nameless god of secrets to whom the Amber Temple is dedicated. The dusk elf comes to the temple on occasion to petition the dark god into releasing his master from his torment.
 
@@ -819,7 +821,7 @@ Development. 
 
 Rahadin knows that Strahd will deal with the characters when he sees fit. If the characters confront the dusk elf, he defends himself but won't cause them any permanent harm. Strahd's chamberlain would sooner die than allow himself to be captured. Rahadin doesn't divulge his reason for visiting the temple, or even who he is or what role he serves. Left to his own devices, he rides back to Castle Ravenloft.
 
-Kasimir's Dark Gift
+### Kasimir's Dark Gift
 
 If **Kasimir Velikov** (see appendix D and chapter 5, [area N9a](https://longo.com.br/5e/adventure.html#cos,5,n9a.%20kasimir's%20hovel)) finds his way to [area X42](https://longo.com.br/5e/adventure.html#cos,13,x42.%20amber%20vault) and accepts the dark gift of Zhudun, he then asks the characters to accompany him to the catacombs of Castle Ravenloft so that he can restore the life of his centuries-dead sister, Patrina Velikovna (see chapter 4, [area K84](https://longo.com.br/5e/adventure.html#cos,4,k84.%20catacombs), crypt 21).
 
