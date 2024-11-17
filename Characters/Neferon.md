@@ -10,7 +10,15 @@ aliases: [Heinrich Stolt, Heinrich]
 - Hangs out inside the head of the statue in the [[The Amber Temple (X)|Amber Temple]]
 - Attacks characters on sight with the longer-ranged spells
 - Because of truesight, he can see the invisible and can see through the magical darkness around the statue head
-
+- It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a [[Robe of Useful Items]] with the following eight patches remaining:
+	- Bag of 100 gp
+	- Iron door
+	- Wooden ladder
+	- Riding horse
+	- Pit
+	- Rowboat
+	- [[Spell Scroll]] ([[Moonbeam]])
+	- Mastiffs
 
 - Neferon wears gold spectacles and a magic robe
 - It uses its [[Alter Self]] spell and Deception skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt

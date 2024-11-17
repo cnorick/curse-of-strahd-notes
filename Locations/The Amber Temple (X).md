@@ -108,64 +108,64 @@ Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses i
 
 **Treasure.** 
 
-The arcanaloth carries a spellbook containing the wizard spells it has prepared (see its stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a [robe of useful items](https://longo.com.br/5e/items.html#robe%20of%20useful%20items_dmg) with the following eight patches remaining:
-
-- Bag of 100 gp
-- Iron door
-- Wooden ladder
-- Riding horse
-- Pit
-- Rowboat
-- [Spell scroll](https://longo.com.br/5e/items.html#spell%20scroll%20(2nd%20level)_dmg) ([moonbeam](https://longo.com.br/5e/spells.html#moonbeam_phb))
-- Mastiffs
+The arcanaloth carries a spellbook containing the wizard spells it has prepared (see its stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). 
+- It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a [[Robe of Useful Items]] with the following eight patches remaining:
+	- Bag of 100 gp
+	- Iron door
+	- Wooden ladder
+	- Riding horse
+	- Pit
+	- Rowboat
+	- [[Spell Scroll]] ([[Moonbeam]])
+	- Mastiffs
 
 See the robe's description in the [Dungeon Master's Guide](https://longo.com.br/5e/book.html#dmg) for more information on each patch.
 
-Fortunes of Ravenloft. 
+**Fortunes of Ravenloft.** 
 
 If your card reading reveals that a treasure is here, it's lying on the floor inside the statue's head.
 
 ### X5b. Secret Door
 
-Set into the middle of the temple's north wall is a secret door. A character who searches the wall for secret doors and succeeds on a DC 20 Wisdom (Perception) check detects seams in the amber glaze that covers the wall, hinting at the presence of the door. It is warded by an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell that prevents it from being opened, but knocking on the door three times causes it to swing open for 1 minute, revealing a dusty stone staircase. The stairs climb 30 feet to another secret door that swings open automatically when a creature moves within 5 feet of it. The stairs lead to [area X30](https://longo.com.br/5e/adventure.html#cos,13,x30.%20preserved%20library).
+Set into the middle of the temple's north wall is a secret door. A character who searches the wall for secret doors and succeeds on a DC 20 Wisdom (Perception) check detects seams in the amber glaze that covers the wall, hinting at the presence of the door. It is warded by an [[Arcane Lock]] spell that prevents it from being opened, but knocking on the door three times causes it to swing open for 1 minute, revealing a dusty stone staircase. The stairs climb 30 feet to another secret door that swings open automatically when a creature moves within 5 feet of it. The stairs lead to [[#X30. Preserved Library]].
 
 ### X5c. Locked Doors
 
-These amber doors are sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes 22 (4d10) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs ([area X31](https://longo.com.br/5e/adventure.html#cos,13,x31.%20central%20catacombs)).
+These amber doors are sealed with an [[Arcane Lock]] spell. The password to suppress it is "Etherna." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If they are reduced to 0 hit points, necrotic energy fills the 30-foot cube directly north of the them. A creature in that area takes 22 (4d10) necrotic damage, turning to dust if reduced to 0 hit points. Beyond the doors lie the temple catacombs ([[#X31. Central Catacombs]]).
 
 ### X5d. Amber Reflections
 
-This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you.
+> This arched hall rises to a height of twenty feet. You can see your reflections in the amber glaze. But the images don't mirror your movements. Instead, they wave their arms and scream silent warnings to you.
 
 The characters' bizarre reflections are illusions meant to discourage them from exploring the temple. The illusions can be dispelled (DC 15).
 
-The east hall leads to [area X32](https://longo.com.br/5e/adventure.html#cos,13,x32.%20lower%20east%20hall), the west hall to [area X36](https://longo.com.br/5e/adventure.html#cos,13,x36.%20lower%20west%20hall).
+The east hall leads to [[#X32. Lower East Hall]], the west hall to [[#X36. Lower West Hall]].
 
 ### X6. Southeast Annex
 
-This room is featureless except for a rough-edged, 10-foot-diameter circular hole in the floor to the east and empty torch sconces along the walls. Double doors of amber stand open to the north and west. A single closed door lies just south of the western set of double doors.
+> This room is featureless except for a rough-edged, 10-foot-diameter circular hole in the floor to the east and empty torch sconces along the walls. Double doors of amber stand open to the north and west. A single closed door lies just south of the western set of double doors.
 
-The ceiling here is 20 feet high. Beyond the open doors to the north, the characters can see a long, wide hallway with amber-covered walls ([area X8](https://longo.com.br/5e/adventure.html#cos,13,x8.%20upper%20east%20hall)).
+The ceiling here is 20 feet high. Beyond the open doors to the north, the characters can see a long, wide hallway with amber-covered walls ([[#X8. Upper East Hall]]).
 
-The hole in the floor forms a roughly hewn shaft that descends 20 feet, then breaks through the ceiling of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx). From the bottom of the shaft, it's another 10-foot drop to the floor of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx). The shaft has abundant handholds and can be climbed without an ability check, but characters must still drop the last 10 feet to reach the floor below. If the characters make a lot of noise, the three [flameskulls](https://longo.com.br/5e/bestiary.html#flameskull_mm) in [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx) float up the shaft and attack them. The flameskulls also attack anyone they can hear attempting to descend the shaft.
+The hole in the floor forms a roughly hewn shaft that descends 20 feet, then breaks through the ceiling of [[#X33a. Vault of Shalx]]. From the bottom of the shaft, it's another 10-foot drop to the floor of [[#X33a. Vault of Shalx]]. The shaft has abundant handholds and can be climbed without an ability check, but characters must still drop the last 10 feet to reach the floor below. If the characters make a lot of noise, the three [[Flameskull]]s in [[#X33a. Vault of Shalx]] float up the shaft and attack them. The flameskulls also attack anyone they can hear attempting to descend the shaft.
 
-A secret door in the south wall opens into [area X7](https://longo.com.br/5e/adventure.html#cos,13,x7.%20secret%20scroll%20repository).
+A secret door in the south wall opens into [[#X7. Secret Scroll Repository]].
 
 ### X7. Secret Scroll Repository
 
-Carved into the south wall of this dusty space are cylindrical holes fit for scrolls or maps.
+> Carved into the south wall of this dusty space are cylindrical holes fit for scrolls or maps.
 
 The wizards kept magic scrolls here in case the temple came under attack. The scrolls have crumbled to dust.
 
 ### X8. Upper East Hall
 
-Glazed amber covers the walls of this twenty-foot-wide, seventy-foot-long arched corridor. The amber doors at both ends of the hall stand open. A closed door is in the middle of the east wall, and three arrow slits are cut into the wall across from it. Cracks in the black marble floor run the length of the hall.
+> Glazed amber covers the walls of this twenty-foot-wide, seventy-foot-long arched corridor. The amber doors at both ends of the hall stand open. A closed door is in the middle of the east wall, and three arrow slits are cut into the wall across from it. Cracks in the black marble floor run the length of the hall.
 
-The cracks in the floor were made by the golem in [area X10](https://longo.com.br/5e/adventure.html#cos,13,x10.%20northeast%20annex). The arrow slits are 5 inches wide, 2 feet tall, and 1 foot thick. They look down on the temple ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)).
+The cracks in the floor were made by the golem in [[#X10. Northeast Annex]]. The arrow slits are 5 inches wide, 2 feet tall, and 1 foot thick. They look down on the temple ([[#X5. Temple of Lost Secrets]]).
 
 ### X9. Lecture Hall
 
-This chamber is brightly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches.
+> This chamber is brightly lit by red copper lanthorns that hang from the ceiling. The walls are sheathed in amber that has been shaped into bas-reliefs of wizards with spellbooks. Stairs to the north and south descend twenty feet to an obsidian lectern, behind which a slab of black slate hangs from chains. Between the stairs are descending rows of red marble benches.
 
 The hanging lanthorns have _continual light_ spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
