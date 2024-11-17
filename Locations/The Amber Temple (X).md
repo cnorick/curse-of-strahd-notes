@@ -86,11 +86,11 @@ The open doorway to the east leads to [[#X6. Southeast Annex]]. The double door
 
 An [arcanaloth](https://longo.com.br/5e/bestiary.html#arcanaloth_mm) named [[Neferon]] guards this temple from within the hollow head of the great statue ([[#X5a. God of Secrets]]) and attacks characters on sight with its longer-ranged spells. Thanks to its truesight, the arcanaloth can see the invisible and can see through magical darkness. Characters can't see Neferon unless they can penetrate the magical darkness that envelops the statue's face and head.
 
-Once the arcanaloth begins casting spells, the three [flameskulls](https://longo.com.br/5e/bestiary.html#flameskull_mm) in [area X17](https://longo.com.br/5e/adventure.html#cos,13,x17.%20upper%20west%20hall) take up positions behind the arrow slits that overlook the temple and cast [magic missile](https://longo.com.br/5e/spells.html#magic%20missile_phb) and [fireball](https://longo.com.br/5e/spells.html#fireball_phb) spells at characters they can see.
+Once the arcanaloth begins casting spells, the three [[Flameskull]]s in [[#X17. Upper West Hall]] take up positions behind the arrow slits that overlook the temple and cast [[Magic Missile]] and [[Fireball]] spells at characters they can see.
 
-The temple ceiling is 60 feet high. Wide, black marble staircases ascend 30 feet to the southern balcony ([area X4](https://longo.com.br/5e/adventure.html#cos,13,x4.%20overlook)). The balconies that flank the statue (areas X11 and X23) are 30 feet high as well.
+The temple ceiling is 60 feet high. Wide, black marble staircases ascend 30 feet to the southern balcony ([[#X4. Overlook]]). The balconies that flank the statue (areas [[#X11. Northeast Balcony]] and [[#X23. Northwest Balcony]]) are 30 feet high as well.
 
-Arrow slits cut into the walls of the upper galleries (areas X8 and X17) and archer posts (areas X13 and X25) look down on the temple. The amber glaze that covers the temple walls makes these arrow slits difficult to spot. Characters who have a passive Wisdom (Perception) score of 12 or higher notice them. Creatures behind the arrow slits gain three-quarters cover.
+Arrow slits cut into the walls of the upper galleries (areas [[#X8. Upper East Hall]] and [[#X17. Upper West Hall]]) and archer posts (areas [[#X13. East Archer Post]] and [[#X25. West Archer Post]]) look down on the temple. The amber glaze that covers the temple walls makes these arrow slits difficult to spot. Characters who have a passive Wisdom (Perception) score of 12 or higher notice them. Creatures behind the arrow slits gain three-quarters cover.
 
 The marble wizard statues stand 8 feet tall. Their 9-foot-tall golden staffs are made of wrought iron coated in peeling gold paint. The northeast statue fell over when an earth tremor collapsed the wall of its alcove.
 
@@ -98,15 +98,15 @@ The marble wizard statues stand 8 feet tall. Their 9-foot-tall golden staffs are
 
 This 40-foot-tall statue, carved out of granite, depicts a faceless god of secrets. At the base of the statue, in the back, is a secret door that can be found with a successful DC 20 Wisdom (Perception) check. It can be pulled open to reveal a spiral staircase that climbs to a stone trapdoor set into the floor of the statue's hollow head.
 
-Statue's Head. 
+**Statue's Head.** 
 
-Neferon the [arcanaloth](https://longo.com.br/5e/bestiary.html#arcanaloth_mm) lairs inside the statue's hollow head, within a field of magical darkness that fills the interior of the head and hides the statue's humanlike face. The darkness can be dispelled (DC 17).
+[[Neferon]] the [[Arcanaloth]] lairs inside the statue's hollow head, within a field of magical darkness that fills the interior of the head and hides the statue's humanlike face. The darkness can be dispelled (DC 17).
 
-A pair of 2-foot-wide eyeholes provides an unobstructed view of the temple floor south of the statue, as well as the southern balcony ([area X4](https://longo.com.br/5e/adventure.html#cos,13,x4.%20overlook)). Looking through the eyes, one can't see the northern balconies (areas X11 and X23), the areas beneath them, or anywhere behind or directly above the statue. The eyeholes grant the arcanaloth three-quarters cover against attacks that originate outside the head.
+A pair of 2-foot-wide eyeholes provides an unobstructed view of the temple floor south of the statue, as well as the southern balcony ([[#X4. Overlook]]). Looking through the eyes, one can't see the northern balconies (areas [[#X11. Northeast Balcony]] and [[#X23. Northwest Balcony]]), the areas beneath them, or anywhere behind or directly above the statue. The eyeholes grant the [[Neferon]] three-quarters cover against attacks that originate outside the head.
 
-Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its [alter self](https://longo.com.br/5e/spells.html#alter%20self_phb) spell and Deception skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns invisible, and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
+Neferon wears gold spectacles and a magic robe (see "Treasure" below). It uses its [[Alter Self]] spell and Deception skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt. "Heinrich" feigns confusion. If the characters ask him why he attacked, he claims that he was guarding the temple. If the arcanaloth loses more than half of its hit points, it teleports to the temple floor, turns invisible, and flees by the safest route, attacking the characters again when it's safe to do so. The arcanaloth will not, under any circumstances, leave the Amber Temple.
 
-Treasure. 
+**Treasure.** 
 
 The arcanaloth carries a spellbook containing the wizard spells it has prepared (see its stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). It wears small gold spectacles with pink crystal lenses (worth 250 gp) and a [robe of useful items](https://longo.com.br/5e/items.html#robe%20of%20useful%20items_dmg) with the following eight patches remaining:
 

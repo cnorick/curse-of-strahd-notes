@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Heinrich Stolt, Heinrich]
 ---
 (NE Arcanaloth)
 ![[neferon.webp|400]]
@@ -11,6 +11,14 @@ aliases: []
 - Attacks characters on sight with the longer-ranged spells
 - Because of truesight, he can see the invisible and can see through the magical darkness around the statue head
 
+
+- Neferon wears gold spectacles and a magic robe
+- It uses its [[Alter Self]] spell and Deception skill to pass itself off as an old human wizard with a long white beard named Heinrich Stolt
+- "Heinrich" feigns confusion
+- If the characters ask him why he attacked, he claims that he was guarding the temple
+- If the Neferon loses more than half of its hit points, it teleports to the temple floor, turns invisible, and flees by the safest route, attacking the characters again when it's safe to do so
+- The arcanaloth will not, under any circumstances, leave the Amber Temple
+
 ## What They Want
 
 ## What They Know
@@ -21,7 +29,7 @@ aliases: []
 ## Stat Block
 
 ```statblock
-monster: Arcan
+monster: Arcanaloth
 ```
 
 ```dataviewjs
