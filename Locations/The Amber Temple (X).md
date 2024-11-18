@@ -169,66 +169,58 @@ The cracks in the floor were made by the golem in [[#X10. Northeast Annex]]. Th
 
 The hanging lanthorns have _continual light_ spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
-Hiding behind the lectern is [[Vilnius]] (NE male human [mage](https://longo.com.br/5e/bestiary.html#mage_mm)) and his invisible [quasit](https://longo.com.br/5e/bestiary.html#quasit_mm) familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots Vilnius with a successful DC 12 Wisdom (Perception) check.
+Hiding behind the lectern is [[Vilnius]] (NE male human [mage](https://longo.com.br/5e/bestiary.html#mage_mm)) and his invisible quasit familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots [[Vilnius]] with a successful DC 12 Wisdom (Perception) check.
 
 
-Vilnius wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in [area X17](https://longo.com.br/5e/adventure.html#cos,13,x17.%20upper%20west%20hall). After the flameskulls there incinerated his master, the wounded Vilnius retreated here. He eats vermin to survive. The amber golem has been patrolling the hallway outside ([area X8](https://longo.com.br/5e/adventure.html#cos,13,x8.%20upper%20east%20hall)), and Vilnius won't leave this room until he knows the golem has been destroyed.
+**Treasure**
 
-Vilnius is a greedy, treacherous coward. He curses his dead master for leading them to this wretched land. If the characters try to befriend him, he is suspicious of their intentions. He would like to retrieve his dead master's staff and spellbook, but otherwise he has no interest in exploring more of the Amber Temple. He knows the following information about the place:
-
-- The temple is a haven for forbidden knowledge.
-- Flameskulls—constructs made from the remains of dead wizards—guard the temple.
-- Barbaric mountain folk use the temple for shelter.
-
-Treasure
-
-Vilnius carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the control amulet for the shield guardian in [area X35](https://longo.com.br/5e/adventure.html#cos,13,x35.%20sleeping%20guardian).
+Vilnius carries his spellbook, which contains all the spells he has prepared. He also has a gold amulet shaped like an upside-down V hidden under his robes. Of exquisite design, the amulet is worth 1,000 gp. It is the control amulet for the shield guardian in [[#X35. Sleeping Guardian]].
 
 Although he can tell that the amulet is magical, he doesn't know its purpose. The amulet thrums when it comes within 10 feet of the shield guardian. If Vilnius realizes what the amulet does, he won't part with it.
 
 ### X10. Northeast Annex
 
-The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists.
+> The walls and ceiling in the eastern portion of this bare stone room have collapsed. To the west and south are open amber doors. In the center of the room is a ten-foot-tall statue of a jackal-headed warrior made of cracked amber. It turns to face you and clenches its fists.
 
-The ceiling here is 20 feet high, and the walls are lined with empty torch sconces. The statue is a damaged [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) (use the stat block for the [stone golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). It has 145 hit points and attacks any creature it sees, stopping only when it can't see any.
+The ceiling here is 20 feet high, and the walls are lined with empty torch sconces. The statue is a damaged [[Amber Golem]]. It has 145 hit points and attacks any creature it sees, stopping only when it can't see any.
 
 An earthquake collapsed the eastern part of the room long ago.
 
 ### X11. Northeast Balcony
 
-This black marble balcony, thirty feet above the floor, overhangs the northeast corner of the temple. The two amber doors leading from this balcony stand open.
+> This black marble balcony, thirty feet above the floor, overhangs the northeast corner of the temple. The two amber doors leading from this balcony stand open.
 
-Characters can see an arrow slit west of the northern set of doors (see [area X13](https://longo.com.br/5e/adventure.html#cos,13,x13.%20east%20archer%20post)).
+Characters can see an arrow slit west of the northern set of doors (see [[#X13. East Archer Post]]).
 
 ### X12. East Shrine
 
-This bare stone room consists of a foyer to the west and a shrine to the east. Four candlesticks lie on the dusty floor of the foyer. In the shrine, fragments of a shattered obsidian statue are scattered in a raised alcove at the eastern end of the chamber. Two pairs of empty alcoves line the north and south walls of the shrine.
+> This bare stone room consists of a foyer to the west and a shrine to the east. Four candlesticks lie on the dusty floor of the foyer. In the shrine, fragments of a shattered obsidian statue are scattered in a raised alcove at the eastern end of the chamber. Two pairs of empty alcoves line the north and south walls of the shrine.
 
-The [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in [area X10](https://longo.com.br/5e/adventure.html#cos,13,x10.%20northeast%20annex) knocked over the candlesticks and pulverized the obsidian statue, which depicted the same nameless god that stands in [area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets). Amber doors in the west wall open into [area X13](https://longo.com.br/5e/adventure.html#cos,13,x13.%20east%20archer%20post).
+The [[Amber Golem]] in [[#X10. Northeast Annex]] knocked over the candlesticks and pulverized the obsidian statue, which depicted the same nameless god that stands in [[#X5. Temple of Lost Secrets]]. Amber doors in the west wall open into [[#X13. East Archer Post]].
 
-A secret door is set into the back of one of the alcoves on the north wall. It can be pulled open to [area X14](https://longo.com.br/5e/adventure.html#cos,13,x14.%20north%20staircase).
+A secret door is set into the back of one of the alcoves on the north wall. It can be pulled open to [[#X14. North Staircase]].
 
 ### X13. East Archer Post
 
-This narrow room has an arrow slit in the center of the south wall.
+> This narrow room has an arrow slit in the center of the south wall.
 
-The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)), beneath the raised left arm of the great statue ([area X5a](https://longo.com.br/5e/adventure.html#cos,13,x5a.%20god%20of%20secrets)).
+The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([[#X5d. Amber Reflections]]), beneath the raised left arm of the great statue ([[#X5a. God of Secrets]]).
 
 ### X14. North Staircase
 
 When the characters open the secret door at the top of the stairs, read:
 
-A dusty corridor heads north, then bends to the east, descending a dark staircase. The air is thin, but heavy with the stench of death.
+> A dusty corridor heads north, then bends to the east, descending a dark staircase. The air is thin, but heavy with the stench of death.
 
-Three 10-foot-long staircases with landings between them descend a total of 30 feet to [area X14a](https://longo.com.br/5e/adventure.html#cos,13,x14a.%20collapsed%20lower%20hall). The stench grows stronger down the stairs.
+Three 10-foot-long staircases with landings between them descend a total of 30 feet to [[#X14a. Collapsed Lower Hall]]. The stench grows stronger down the stairs.
 
 ### X14a. Collapsed Lower Hall
 
-The stairs descend to a collapsed hall with a high ceiling and amber-glazed walls glazed. Rubble covers most of the floor, and a path through the rubble leads to an open doorway. A deathly stench seems to come from there.
+> The stairs descend to a collapsed hall with a high ceiling and amber-glazed walls. Rubble covers most of the floor, and a path through the rubble leads to an open doorway. A deathly stench seems to come from there.
 
-This ruined area once connected to [area X32](https://longo.com.br/5e/adventure.html#cos,13,x32.%20lower%20east%20hall), but an earth tremor caused the ceiling and walls to collapse. The ceiling here is 25 feet high.
+This ruined area once connected to [[#X32. Lower East Hall]], but an earth tremor caused the ceiling and walls to collapse. The ceiling here is 25 feet high.
 
-Unless the characters douse their light sources and move quietly, the creatures in [area X33c](https://longo.com.br/5e/adventure.html#cos,13,x33c.%20ghastly%20vault) hear them approaching and prepare to attack.
+Unless the characters douse their light sources and move quietly, the creatures in [[#X33c. Ghastly Vault]] hear them approaching and prepare to attack.
 
 ### X15. Southwest Annex
 
@@ -520,11 +512,11 @@ The beneficiary of this dark gift gains an extra finger on each hand, as well as
 
 ### X33c. Ghastly Vault
 
-The amber door to this room hangs open, and the chamber reeks of death.
+> The amber door to this room hangs open, and the chamber reeks of death.
 
-This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
+> This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 
-The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The [ghasts](https://longo.com.br/5e/bestiary.html#ghast_mm) have the following additional feature:
+The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The [[Ghast]]s have the following additional feature:
 
 Spider Climb. 
 
