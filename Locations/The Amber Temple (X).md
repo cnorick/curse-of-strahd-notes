@@ -169,11 +169,8 @@ The cracks in the floor were made by the golem in [[#X10. Northeast Annex]]. Th
 
 The hanging lanthorns have _continual light_ spells cast on them. The black slate slab once served as a chalkboard and has a few chalk marks on it.
 
-Hiding behind the lectern is Vilnius (NE male human [mage](https://longo.com.br/5e/bestiary.html#mage_mm)) and his invisible [quasit](https://longo.com.br/5e/bestiary.html#quasit_mm) familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots Vilnius with a successful DC 12 Wisdom (Perception) check.
+Hiding behind the lectern is [[Vilnius]] (NE male human [mage](https://longo.com.br/5e/bestiary.html#mage_mm)) and his invisible [quasit](https://longo.com.br/5e/bestiary.html#quasit_mm) familiar. Characters who have a passive Wisdom (Perception) score of 17 or higher notice him. A character who actively searches the room for hidden occupants spots Vilnius with a successful DC 12 Wisdom (Perception) check.
 
-[![](https://longo.com.br/5e/img/adventure/CoS/Vilnius%20and%20Quasit.jpg?ver=1.77.1)](https://longo.com.br/5e/img/adventure/CoS/Vilnius%20and%20Quasit.jpg?ver=1.77.1 "Vilnius and Quasit")
-
-Vilnius and Quasit
 
 Vilnius wears scorched robes, his unkempt hair is half burned away, and his face and arms are covered with blisters from magic fire. He is the apprentice of Jakarion, the dead wizard in [area X17](https://longo.com.br/5e/adventure.html#cos,13,x17.%20upper%20west%20hall). After the flameskulls there incinerated his master, the wounded Vilnius retreated here. He eats vermin to survive. The amber golem has been patrolling the hallway outside ([area X8](https://longo.com.br/5e/adventure.html#cos,13,x8.%20upper%20east%20hall)), and Vilnius won't leave this room until he knows the golem has been destroyed.
 
