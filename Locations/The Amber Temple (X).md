@@ -224,89 +224,89 @@ Unless the characters douse their light sources and move quietly, the creatures 
 
 ### X15. Southwest Annex
 
-This room contains a [gladiator](https://longo.com.br/5e/bestiary.html#gladiator_mm) (CE female human), five [berserkers](https://longo.com.br/5e/bestiary.html#berserker_mm) (CE male and female humans), and one [dire wolf](https://longo.com.br/5e/bestiary.html#dire%20wolf_mm). The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of Strahd. The dire wolf can't be charmed or frightened.
+This room contains a [[Gladiator]] (CE female human), five [[Berserker]]s (CE male and female humans), and one [[Dire Wolf]]. The gladiator and the berserkers are bloodthirsty mountain folk, the dire wolf a servant of [[Strahd Von Zarovich|Strahd]]. The dire wolf can't be charmed or frightened.
 
-When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas X4 and X2) if reduced to fewer than half its hit points.
+When they aren't expecting trouble, the gladiator and the berserkers sit on the floor, sharpening their weapons, while the dire wolf sleeps in the middle of the room. The gladiator and the berserkers fight to the death. The dire wolf flees the temple (heading east, through areas [[#X4. Overlook]] and [[#X2. Entrance]]) if reduced to fewer than half its hit points.
 
-Torches in sconces light this bare stone room. Six bedrolls made of stitched animal furs cover the floor. Cold air enters through a fissure in the southwest wall.
+> Torches in sconces light this bare stone room. Six bedrolls made of stitched animal furs cover the floor. Cold air enters through a fissure in the southwest wall.
 
-Other than the berserkers' armor and weapons, there is nothing of value here. The berserkers are aware of the flameskulls ("fiery spirits") to the north and keep the doors to [area X17](https://longo.com.br/5e/adventure.html#cos,13,x17.%20upper%20west%20hall) closed.
+Other than the berserkers' armor and weapons, there is nothing of value here. The berserkers are aware of the flameskulls ("fiery spirits") to the north and keep the doors to [[#X17. Upper West Hall]] closed.
 
-A fissure has formed in the southwest wall. The gap is 2 feet wide, 10 feet tall, and 15 feet deep. It leads outside ([area X1a](https://longo.com.br/5e/adventure.html#cos,13,x1a.%20narrow%20fissure)).
+A fissure has formed in the southwest wall. The gap is 2 feet wide, 10 feet tall, and 15 feet deep. It leads outside ([[#X1a. Narrow Fissure]]).
 
-A secret door in the south wall opens into [area X16](https://longo.com.br/5e/adventure.html#cos,13,x16.%20west%20scroll%20repository). Neither the mountain folk nor the dire wolf knows of it.
+A secret door in the south wall opens into [[#X16. West Scroll Repository]]. Neither the mountain folk nor the dire wolf knows of it.
 
-Development
+**Development**
 
-The gladiator, Helwa, uses this room as a shelter while hunting in the mountains. She and her berserkers know nothing about the temple's history or purpose.
+The gladiator, [[Helwa]], uses this room as a shelter while hunting in the mountains. She and her berserkers know nothing about the temple's history or purpose.
 
 ### X16. West Scroll Repository
 
-Apart from its location, this room is identical to [area X7](https://longo.com.br/5e/adventure.html#cos,13,x7.%20secret%20scroll%20repository).
+Apart from its location, this room is identical to [[#X7. Secret Scroll Repository]].
 
 ### X17. Upper West Hall
 
-The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.
+> The walls of this twenty-foot-wide, seventy-foot-long arched corridor are sheathed in amber. The southern half of the hall is scorched by fire, and a charred corpse lies on the floor here, under a burned fur cloak. Several amber doors lead from this hall, and three arrow slits are cut into the east wall. Floating in the middle of the hall are three skulls wreathed in green flame.
 
-Three [flameskulls](https://longo.com.br/5e/bestiary.html#flameskull_mm) guard this hall, attacking creatures that enter. The flameskulls will not leave the hall.
+Three [[Flameskull]]s guard this hall, attacking creatures that enter. The flameskulls will not leave the hall.
 
-The charred corpse is all that remains of a wizard named Jakarion, who came to the Amber Temple seeking power. The flameskulls incinerated the wizard.
+The charred corpse is all that remains of a wizard named [[Jakarion]], who came to the Amber Temple seeking power. The flameskulls incinerated the wizard.
 
-The arrow slits look down on the temple ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)).
+The arrow slits look down on the temple ([[#X5. Temple of Lost Secrets]]).
 
-Treasure
+**Treasure**
 
-Although the dead wizard's spellbook didn't survive, his staff did. It is a [staff of frost](https://longo.com.br/5e/items.html#staff%20of%20frost_dmg). Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
+Although the dead wizard's spellbook didn't survive, his staff did. It is a [[Staff of Frost]]. Imprinted on it is a fragment of the wizard's personality. The first character who touches the staff gains the following flaw: "I crave power above all else, and will do anything to obtain more of it." This flaw trumps any conflicting personality trait.
 
 ### X18. Hallway
 
-This twenty-foot-long, ten-foot-high hallway of bare stone has an amber door at each end.
+> This twenty-foot-long, ten-foot-high hallway of bare stone has an amber door at each end.
 
-[Area X17](https://longo.com.br/5e/adventure.html#cos,13,x17.%20upper%20west%20hall) lies beyond the door to the east, [area X21](https://longo.com.br/5e/adventure.html#cos,13,x21.%20west%20staircase) beyond the door to the west.
+[[#X17. Upper West Hall]] lies beyond the door to the east, [[#X21. West Staircase]] beyond the door to the west.
 
-X19. Potion Storage
+### X19. Potion Storage
 
-Stone blocks resembling tables stand in the center of this room covered in dust. Carved into the stone walls are niches filled with hundreds of dusty bottles. Cobwebs hang from wooden ladders that lean against the walls.
+> Stone blocks resembling tables stand in the center of this room covered in dust. Carved into the stone walls are niches filled with hundreds of dusty bottles. Cobwebs hang from wooden ladders that lean against the walls.
 
 The ceiling here is 15 feet high. The bottles contain the dried-up remains of potions that lost their efficacy long ago. The ladders were once used to reach the higher niches, but they can no longer support any weight.
 
-A secret door is set in the north wall. It can be pulled open to reveal a staircase landing ([area X21](https://longo.com.br/5e/adventure.html#cos,13,x21.%20west%20staircase)).
+A secret door is set in the north wall. It can be pulled open to reveal a staircase landing ([[#X21. West Staircase]]).
 
 ### X20. Architect's Room
 
-Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest.
+> Dominating this room is a twelve-foot-tall model of a dark castle with high walls and tall spires. Behind it, tucked in a corner, are some ruined furnishings and a wooden chest.
 
-In the months leading up to the construction of Castle Ravenloft, this room was occupied by the castle's architect, a wizard named Artimus. He built a scale model of the castle out of magically sculpted rock. Anyone who has seen the castle recognizes this replica for what it is.
+In the months leading up to the construction of [[Castle Ravenloft (K)|Castle Ravenloft]], this room was occupied by the castle's architect, a wizard named [[Artimus]]. He built a scale model of the castle out of magically sculpted rock. Anyone who has seen the castle recognizes this replica for what it is.
 
-The ceiling here is 15 feet high. A secret door in the south wall can be pulled open to a staircase landing ([area X21](https://longo.com.br/5e/adventure.html#cos,13,x21.%20west%20staircase)).
+The ceiling here is 15 feet high. A secret door in the south wall can be pulled open to a staircase landing ([[#X21. West Staircase]]).
 
-Treasure
+**Treasure**
 
-The wooden chest contains an old map case in which Artimus kept floor plans of Castle Ravenloft, but the maps were lost long ago. The chest has a false bottom that can be found with a successful DC 10 Wisdom (Perception) check. Inside the hidden compartment is a [tome of understanding](https://longo.com.br/5e/items.html#tome%20of%20understanding_dmg).
+The wooden chest contains an old map case in which [[Artimus]] kept floor plans of [[Castle Ravenloft (K)|Castle Ravenloft]], but the maps were lost long ago. The chest has a false bottom that can be found with a successful DC 10 Wisdom (Perception) check. Inside the hidden compartment is a [[Tome of Understanding]].
 
-Fortunes of Ravenloft
+**Fortunes of Ravenloft**
 
 If your card reading reveals that a treasure is here, it's hidden in the miniature castle. The characters must smash their way into the castle to reach it.
 
 ### X21. West Staircase
 
-Three 10-foot-long staircases separated by 10-foot-square landings connect areas X18 and X36. Thick dust covering the stairs has not been disturbed in ages.
+Three 10-foot-long staircases separated by 10-foot-square landings connect areas [[#X18. Hallway]] and [[#X36. Lower West Hall]]. Thick dust covering the stairs has not been disturbed in ages.
 
-The uppermost landing has secret doors set into its north and south walls. The south door opens into [area X19](https://longo.com.br/5e/adventure.html#cos,13,x19.%20potion%20storage), and the north door opens into [area X20](https://longo.com.br/5e/adventure.html#cos,13,x20.%20architect's%20room).
+The uppermost landing has secret doors set into its north and south walls. The south door opens into [[#X19. Potion Storage]], and the north door opens into [[#X20. Architect's Room]].
 
 ### X22. Northwest Annex
 
 When one of the doors to this room is opened, read:
 
-Torches in sconces illuminate a dining table in the center of the room. Covering the table is a magnificent feast that fills the hall with the rich smells of cooked meat, sweet vegetables, piping hot gravy, and wine.
+> Torches in sconces illuminate a dining table in the center of the room. Covering the table is a magnificent feast that fills the hall with the rich smells of cooked meat, sweet vegetables, piping hot gravy, and wine.
 
-The ceiling here is 20 feet high. Amber doors lead south to a hallway ([area X18](https://longo.com.br/5e/adventure.html#cos,13,x18.%20hallway)) and east to a shattered balcony ([area X23](https://longo.com.br/5e/adventure.html#cos,13,x23.%20northwest%20balcony)).
+The ceiling here is 20 feet high. Amber doors lead south to a hallway ([[#X18. Hallway]]) and east to a shattered balcony ([[#X23. Northwest Balcony]]).
 
-The table is real, but the torches, the feast, and the chairs are illusions created by a [programmed illusion](https://longo.com.br/5e/spells.html#programmed%20illusion_phb) spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17).
+The table is real, but the torches, the feast, and the chairs are illusions created by a [[Programmed Illusion]] spell that triggers when a door to the room is opened. The illusion can be dispelled (DC 17).
 
-Hidden in plain sight amid the feast on the table is a [green copper ewer](https://longo.com.br/5e/items.html#green%20copper%20ewer_cos) embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A [detect magic](https://longo.com.br/5e/spells.html#detect%20magic_phb) spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven [specters](https://longo.com.br/5e/bestiary.html#specter_mm) materialize and attack whoever has the ewer.
+Hidden in plain sight amid the feast on the table is a [[Green Copper Ewer]] embossed with images of dancing bears, elks, and wolves. The ewer, like the table, isn't illusory. A [[Detect Magic]] spell reveals an aura of transmutation magic around the ewer. If a character picks up the ewer, the illusions fade away (including the torches and their light), and seven [[Specter]]s materialize and attack whoever has the ewer.
 
-Treasure
+**Treasure**
 
 Any poisonous liquid poured into the ewer is instantly transformed into an equal amount of sweet wine. Furthermore, a creature that grasps the ewer's handle can command the ewer to fill with 1 gallon of wine, and it can't produce more wine until the next dawn.
 
@@ -314,39 +314,39 @@ Many unscrupulous Barovians and Vistani would kill to obtain this ewer. Others w
 
 ### X23. Northwest Balcony
 
-This black marble balcony overhangs the northwest corner of the temple, the floor of which lies thirty feet below. Nearly half of the balcony has fallen away, and obvious cracks have formed near its ragged edge.
+> This black marble balcony overhangs the northwest corner of the temple, the floor of which lies thirty feet below. Nearly half of the balcony has fallen away, and obvious cracks have formed near its ragged edge.
 
 This balcony is unsafe. Weight in excess of 250 pounds causes it to collapse. Any creature on the balcony when it collapses falls 30 feet to the temple floor below.
 
-Characters can see an arrow slit east of the northern set of doors (see [area X25](https://longo.com.br/5e/adventure.html#cos,13,x25.%20west%20archer%20post)).
+Characters can see an arrow slit east of the northern set of doors (see [[#X25. West Archer Post]]).
 
 ### X24. West Shrine
 
-This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine.
+> This bare stone room consists of a foyer to the east and a shrine to the west. Candlesticks draped in cobwebs stand in the four corners of the foyer. In the shrine, a faceless obsidian statue stands in a raised alcove at the western end of the chamber. Slumped before the statue are two desiccated corpses in tattered garments. Two pairs of alcoves line the north and south walls of the shrine.
 
-The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an [antipathy/sympathy](https://longo.com.br/5e/spells.html#antipathy%2fsympathy_phb) spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in [area X27](https://longo.com.br/5e/adventure.html#cos,13,x27.%20lich's%20lair) destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
+The obsidian statue is 4 feet tall, weighs 250 pounds, and depicts the same nameless god that stands watch in the main temple ([[#X5. Temple of Lost Secrets]]). Any living creature that enters this room must succeed on a DC 16 Wisdom saving throw or be drawn to the statue as though affected by the sympathy effect of an [[Antipathy slash Sympathy|Anitpathy/Sympathy]] spell. The corpses lying in front of the statue are the remains of two human wizards who came here separately, failed their saving throws, and starved to death while under the spell's effect. The lich in [[#X27. Lich's Lair]] destroyed the wizards' spellbooks and other possessions. Covering the statue or removing it from this shrine suppresses its magic and ends its sympathy effect on anyone.
 
-A pair of amber doors in the east wall open into [area X25](https://longo.com.br/5e/adventure.html#cos,13,x25.%20west%20archer%20post). A secret door is set in the back of one of the northern alcoves. Pulling it open releases hundreds of skulls (see [area X26](https://longo.com.br/5e/adventure.html#cos,13,x26.%20secret%20alcove)).
+A pair of amber doors in the east wall open into [[#X25. West Archer Post]]. A secret door is set in the back of one of the northern alcoves. Pulling it open releases hundreds of skulls (see [[#X26. Secret Alcove]]).
 
 ### X25. West Archer Post
 
-This narrow room has an arrow slit in the center of the south wall.
+> This narrow room has an arrow slit in the center of the south wall.
 
-The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets)), beneath the raised right arm of the great statue ([area X5a](https://longo.com.br/5e/adventure.html#cos,13,x5a.%20god%20of%20secrets)).
+The ceiling here is 10 feet high. The arrow slit looks down toward the temple floor ([[#X5. Temple of Lost Secrets]]), beneath the raised right arm of the great statue ([[#X5a. God of Secrets]]).
 
 ### X26. Secret Alcove
 
 Two secret doors lead to this room. When either door is pulled open, read:
 
-Hundreds of skulls fall out of a cavity behind the door.
+> Hundreds of skulls fall out of a cavity behind the door.
 
 This room has a 30-foot-high ceiling and is packed floor to ceiling with human skulls. It takes 5 minutes for a single character to clear a path into the room. Multiple characters can work together to clear a path more quickly. Once the skulls are cleared away, characters can search the room.
 
 Attached to the thirty-foot-high ceiling of this dark sepulcher is an upside-down iron chest with a barrel-shaped lid.
 
-The iron chest on the ceiling is held in place with [sovereign glue](https://longo.com.br/5e/items.html#sovereign%20glue_dmg), and its lid is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The chest is impervious to weapon damage. Prying it open requires a successful DC 25 Strength check, assuming the characters can reach it. The inside of the chest is lined with lead.
+The iron chest on the ceiling is held in place with [[Sovereign Glue]], and its lid is sealed with an [[Arcane Lock]] spell. The chest is impervious to weapon damage. Prying it open requires a successful DC 25 Strength check, assuming the characters can reach it. The inside of the chest is lined with lead.
 
-If the chest's lid is opened, the floor of this room disappears (as if affected by a [disintegrate](https://longo.com.br/5e/spells.html#disintegrate_phb) spell), creating a 10-foot-square hole above [area X39](https://longo.com.br/5e/adventure.html#cos,13,x39.%20plundered%20treasury). Creatures standing on the floor when it disappears fall 30 feet, landing in the northwest corner of [area X39](https://longo.com.br/5e/adventure.html#cos,13,x39.%20plundered%20treasury).
+If the chest's lid is opened, the floor of this room disappears (as if affected by a [[Disintegrate]] spell), creating a 10-foot-square hole above [[#X39. Plundered Treasury]]. Creatures standing on the floor when it disappears fall 30 feet, landing in the northwest corner of [[#X39. Plundered Treasury]].
 
 The iron chest is empty.
 
@@ -438,19 +438,19 @@ If two of the witches are killed or incapacitated, the surviving witch attempts 
 
 Several of these amber-glazed rooms are located along the periphery of the complex. Each room contains two or more amber sarcophagi (see the "Amber Sarcophagi" sidebar).
 
-Amber Sarcophagi
+**Amber Sarcophagi**
 
 An amber sarcophagus looks like a rough block of solid amber 8 feet tall, 5 feet wide, and 5 feet thick. Trapped inside the block is a sliver or wisp of utter darkness no more than a few inches long. The darkness is the vestige of a dead and hateful god—a shard of pure evil with shreds of sentience and awareness. The vestige can't be harmed or controlled, and it is immune to all conditions.
 
 An amber sarcophagus has AC 16, 80 hit points, and immunity to poison and psychic damage. Destroying one causes the vestige trapped within it to disappear, leaving no trace. You choose whether it is banished or destroyed.
 
-A creature that touches the amber sarcophagus forms a telepathic link with the vestige inside. The vestige offers the creature a dark gift. The creature must willingly accept the gift to gain its benefits. A dark gift is described to the creature in general terms; its precise game effect isn't revealed until the creature accepts the gift. For example, a creature that touches Fekre's sarcophagus in [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx) is offered the power to spread disease. That the gift grants the ability to cast the [contagion](https://longo.com.br/5e/spells.html#contagion_phb) spell is not articulated.
+A creature that touches the amber sarcophagus forms a telepathic link with the vestige inside. The vestige offers the creature a dark gift. The creature must willingly accept the gift to gain its benefits. A dark gift is described to the creature in general terms; its precise game effect isn't revealed until the creature accepts the gift. For example, a creature that touches Fekre's sarcophagus in [[#X33a. Vault of Shalx]] is offered the power to spread disease. That the gift grants the ability to cast the [[Contagion]] spell is not articulated.
 
-A dark gift functions like a charm (see "Supernatural Gifts" in chapter 7, "Treasure," of the [Dungeon Master's Guide](https://longo.com.br/5e/book.html#dmg)). A creature doesn't receive a dark gift if it is being manipulated or coerced, or if it declines the gift. Once it receives a dark gift, a creature can never receive that same dark gift again.
+A dark gift functions like a [[Treasure#Charms|Charm]] (see "Supernatural Gifts" in chapter 7, "Treasure," of the [Dungeon Master's Guide](https://longo.com.br/5e/book.html#dmg)). A creature doesn't receive a dark gift if it is being manipulated or coerced, or if it declines the gift. Once it receives a dark gift, a creature can never receive that same dark gift again.
 
-The instant a dark gift is bestowed, the creature receiving it undergoes a transformation, gaining a sinister physical trait or flaw, or one of each. Unless the text states otherwise, a trait or a flaw that accompanies this gift can't be removed by anything short of a [wish](https://longo.com.br/5e/spells.html#wish_phb) spell or divine intervention.
+The instant a dark gift is bestowed, the creature receiving it undergoes a transformation, gaining a sinister physical trait or flaw, or one of each. Unless the text states otherwise, a trait or a flaw that accompanies this gift can't be removed by anything short of a [[Wish]] spell or divine intervention.
 
-Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma saving throw. If the saving throw fails, the creature's alignment changes to evil. A character who turns evil becomes an NPC under the Dungeon Master's control, although the DM can allow the player to continue playing the evil character.
+Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma saving throw. If the saving throw fails, the creature's alignment changes to evil. A character who **turns** evil becomes an NPC under the Dungeon Master's control, although the DM can allow the player to continue playing the evil character.
 
 ### X33a. Vault of Shalx
 
@@ -516,27 +516,21 @@ The beneficiary of this dark gift gains an extra finger on each hand, as well as
 
 > This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 
-The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The [[Ghast]]s have the following additional feature:
+The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The [[Amber Ghast]]s have the following additional feature:
 
-Spider Climb. 
-
-The ghast can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-
-Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
-
-North Sarcophagus. 
+**North Sarcophagus.** 
 
 The vestige within this sarcophagus offers the dark gift of Drizlash, the Nine-Eyed Spider. Drizlash's gift is the power to walk on walls and ceilings. This dark gift allows its beneficiary to climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open.
 
-East Sarcophagus. 
+**East Sarcophagus.** 
 
-The vestige within this sarcophagus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [reincarnate](https://longo.com.br/5e/spells.html#reincarnate_phb) spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [[Reincarnate]] spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time.
 
-South Sarcophagus. 
+**South Sarcophagus.** 
 
 The vestige within this sarcophagus offers the dark gift of Zantras, the Kingmaker. Zantras's gift is power that comes from great presence and force of personality. This dark gift increases the beneficiary's Charisma by 4, up to a maximum of 22.
 
@@ -671,6 +665,8 @@ An [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) once 
 Not all of the thieves escaped, and the pulverized re mains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [poltergeists](https://longo.com.br/5e/bestiary.html#poltergeist_mm) (see the [specter](https://longo.com.br/5e/bestiary.html#specter_mm) entry in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). The poltergeists can't leave the room and fight until destroyed.
 
 ### X40. Sealed Treasury
+
+**THE SUNSWORD IS HERE!**
 
 The amber doors to the south are sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [greater invisibility](https://longo.com.br/5e/spells.html#greater%20invisibility_phb) spell is cast on the [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in this room. The spell lasts for 1 minute.
 
