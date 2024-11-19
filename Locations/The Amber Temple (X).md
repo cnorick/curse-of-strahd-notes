@@ -675,100 +675,120 @@ Oily black fur covers the beneficiary's face and body.
 - Gift: physical resilience
 - Pro: increases the beneficiary's hit point maximum by 30
 	- This benefit lasts for 10 days, after which the dark gift vanishes
-- Con: Oily black fur covers the beneficiary's face and body.
-
+- Con: Oily black fur covers the beneficiary's face and body
 
 ### X33f. Vault of Thangob
 
-The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
+The amber door to this room is sealed with an [[Arcane Lock]] spell. The password to suppress the spell is "Thangob." The door is otherwise identical to the door of [[#X33a. Vault of Shalx]].
 
-This room has amber-glazed walls, a floor of grayish marble with black veins, and three amber sarcophagi standing in alcoves.
+> This room has amber-glazed walls, a floor of grayish marble with black veins, and three amber sarcophagi standing in alcoves.
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
-West Sarcophagus. 
+#### West Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Norganas, the Finger of Oblivion. Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the [finger of death](https://longo.com.br/5e/spells.html#finger%20of%20death_phb) spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
+The vestige within this sarcophagus offers the dark gift of Norganas, the Finger of Oblivion. Norganas's gift is the power to turn life into undeath. This dark gift allows its beneficiary to cast the [[Finger of Death]] spell as an action. After it has been used three times, the dark gift vanishes. When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
 
 This dark gift turns the beneficiary's blood pitch black and viscid, like tar.
 
-South Sarcophagus. 
+- Vestige:  Norganas, the Finger of Oblivion
+- Gift: the power to turn life into undeath
+- Pro: cast the [[Finger of Death]] spell as an action
+	- After it has been used three times, the dark gift vanishes
+	- When it vanishes, the beneficiary must succeed on a DC 15 Constitution saving throw or drop to 0 hit points.
+- Con: This dark gift turns the beneficiary's blood pitch black and viscid, like tar.
 
-The vestige within this sarcophagus offers the dark gift of Vaund the Evasive. Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [amulet of proof against detection and location](https://longo.com.br/5e/items.html#amulet%20of%20proof%20against%20detection%20and%20location_dmg) and a [ring of evasion](https://longo.com.br/5e/items.html#ring%20of%20evasion_dmg). These benefits last for 10 days, after which the dark gift vanishes.
+#### South Sarcophagus. 
+
+The vestige within this sarcophagus offers the dark gift of Vaund the Evasive. Vaund's gift is the power of evasion. This dark gift grants its beneficiary the benefits of an [[Amulet of Proof against Detection and Location]] and a [[Ring of Evasion]]. These benefits last for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me."
 
-East Sarcophagus. 
+- Vestige: Vaund the Evasive
+- Gift: the power of evasion
+- Pro: the benefits of an [[Amulet of Proof against Detection and Location]] and a [[Ring of Evasion]]
+	- These benefits last for 10 days, after which the dark gift vanishes
+- Con: The beneficiary of this dark gift becomes twitchy and nervous, and also gains the following flaw: "I can't give a straight answer to any question put to me."
 
-The vestige within this sarcophagus offers the dark gift of Seriach, the Hell Hound Whisperer. Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two [hell hounds](https://longo.com.br/5e/bestiary.html#hell%20hound_mm). Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.
+#### East Sarcophagus. 
+
+The vestige within this sarcophagus offers the dark gift of Seriach, the Hell Hound Whisperer. Seriach's gift is the power to summon and control hell hounds. As an action, the beneficiary of this dark gift can summon and control two [[Hell Hound]]s. Both hounds appear at the same time. The beneficiary can summon hounds only once, and the dark gift vanishes when they die.
 
 The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.)Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal.
 
+- Vestige: eriach, the Hell Hound Whisperer
+- Gift: the power to summon and control hell hounds
+- Pro: As an action, summon and control two [[Hell Hound]]s
+	- Both hounds appear at the same time
+	- The beneficiary can summon hounds only once, and the dark gift vanishes when they die
+	- The beneficiary gains the ability to speak and understand Infernal, if he or she doesn't already know the language. (The hell hounds understand no other language.)
+- Con: Sulfurous smoke issues from the beneficiary's pores whenever he or she speaks Infernal
+
 ### X34. Wizard's Bedchamber
 
-A white marble bed stands in the center of this bare stone room, its mattress long since rotted away. Golden hawks perch atop the bed's corner posts. The room's remaining furnishings have been reduced to dust-covered heaps. Cobwebs cover arcane sigils carved into the walls.
+> A white marble bed stands in the center of this bare stone room, its mattress long since rotted away. Golden hawks perch atop the bed's corner posts. The room's remaining furnishings have been reduced to dust-covered heaps. Cobwebs cover arcane sigils carved into the walls.
 
 The ceiling here is 10 feet high. The sigils that cover the walls were once wards designed to protect the room's contents from theft, but they have been bled of their magic and can no longer harm anyone.
 
-Treasure
+**Treasure**
 
 The four golden hawks are worth 250 gp each.
 
 ### X35. Sleeping Guardian
 
-The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
+> The furnishings of this bare stone room have succumbed to decrepitude. Standing in the center of the room, its head scraping the ten-foot-high ceiling, is a vaguely man-shaped construct made of dark wood and riveted iron. Its helmed head stares blindly in your direction. Cobwebs stretch from this terrible artifice to the wrecked furniture that surrounds it.
 
-This room was once a wizard's bedchamber. The construct is an incapacitated [shield guardian](https://longo.com.br/5e/bestiary.html#shield%20guardian_mm). Its control amulet can be found in [area X9](https://longo.com.br/5e/adventure.html#cos,13,x9.%20lecture%20hall).
+This room was once a wizard's bedchamber. The construct is an incapacitated [[Shield Guardian]]. Its control amulet can be found in [[#X9. Lecture Hall]].
 
 ### X36. Lower West Hall
 
-Glistening amber coats the walls and ceiling of this enormous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor.
+> Glistening amber coats the walls and ceiling of this enormous hall like sculpted honey, and dust covers the black marble floor. The vaulted ceiling is twenty-five feet high. Set into the walls at a height of five feet are amber ledges lined with life-sized alabaster statues of cats, frogs, hawks, owls, rats, ravens, snakes, toads, and weasels. Many of the statues have fallen off their perches and lie shattered on the floor.
 
-An amber door in the north wall stands open. Four other amber doors to the west and south stand closed.
+> An amber door in the north wall stands open. Four other amber doors to the west and south stand closed.
 
 The animal statues represent different kinds of familiars, and they are harmless.
 
 ### X37. Wizard's Bedchamber
 
-Furnishings made of ancient, colorless wood have collapsed under their own weight and now lie covered with cobwebs and dust.
+> Furnishings made of ancient, colorless wood have collapsed under their own weight and now lie covered with cobwebs and dust.
 
 ### X38. Haunted Room
 
-This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about.
+> This room, once a bedchamber, is littered with broken furnishings. Scattered about the room are the remains of a bed, a wardrobe, two trunks, three tall candlesticks, a desk, a bookshelf, and several chairs. Torn-up books, old quill pens, and tattered clothes are also strewn about.
 
-The ceiling here is 10 feet high. A [poltergeist](https://longo.com.br/5e/bestiary.html#poltergeist_mm) (see the specter entry in the [Monster Manual](https://longo.com.br/5e/book.html#mm)) haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.
+The ceiling here is 10 feet high. A [[Poltergeist Statblock|Poltergeist]] haunts this room and telekinetically hurls broken furnishings at intruders so as not to give away its location.
 
-Treasure
+**Treasure**
 
-A search of the room yields a wooden scroll tube containing an intact [spell scroll](https://longo.com.br/5e/items.html#spell%20scroll%20(4th%20level)_dmg) of [wall of fire](https://longo.com.br/5e/spells.html#wall%20of%20fire_phb).
+A search of the room yields a wooden scroll tube containing an intact [[Spell Scroll]] of [[Wall of Fire]].
 
 ### X39. Plundered Treasury
 
-The amber doors that once sealed this great stone room have been smashed, their pieces lying amid crushed bones, armor, and weapons.
+> The amber doors that once sealed this great stone room have been smashed, their pieces lying amid crushed bones, armor, and weapons.
 
-The ceiling here is 30 feet high and flat. A 10-foot-square hole in the northwest corner of the ceiling magically forms if the iron chest in [area X26](https://longo.com.br/5e/adventure.html#cos,13,x26.%20secret%20alcove) is opened.
+The ceiling here is 30 feet high and flat. A 10-foot-square hole in the northwest corner of the ceiling magically forms if the iron chest in [[#X26. Secret Alcove]] is opened.
 
-An [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see [area X10](https://longo.com.br/5e/adventure.html#cos,13,x10.%20northeast%20annex)).
+An [[Amber Golem]] once stood guard here, but it escaped after thieves broke into the treasury and looted it. The golem has since made its way upstairs (see [[#X10. Northeast Annex]]).
 
-Not all of the thieves escaped, and the pulverized re mains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [poltergeists](https://longo.com.br/5e/bestiary.html#poltergeist_mm) (see the [specter](https://longo.com.br/5e/bestiary.html#specter_mm) entry in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). The poltergeists can't leave the room and fight until destroyed.
+Not all of the thieves escaped, and the pulverized re mains of those who died here lie strewn upon the floor. Their restless spirits survive here as four [[Poltergeist Statblock|Poltergeists]]. The poltergeists can't leave the room and fight until destroyed.
 
 ### X40. Sealed Treasury
 
 **THE SUNSWORD IS HERE!**
 
-The amber doors to the south are sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [greater invisibility](https://longo.com.br/5e/spells.html#greater%20invisibility_phb) spell is cast on the [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in this room. The spell lasts for 1 minute.
+The amber doors to the south are sealed with an [[Arcane Lock]] spell. The password to suppress the spell is "Dhaviton." A character can push open the doors with a successful DC 25 Strength check. The doors (AC 15, 60 hit points) can also be smashed. If the doors are reduced to 0 hit points, a [[Greater Invisibility]] spell is cast on the [[Amber Golem]] in this room. The spell lasts for 1 minute.
 
-Piles of treasure are heaped against the west and east walls of this stone room.
+> Piles of treasure are heaped against the west and east walls of this stone room.
 
 If the golem is visible, add:
 
-A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall.
+> A ten-foot-tall statue carved from amber in the likeness of a hawk-headed humanoid stands in a wide alcove to the north. Behind it, a crack has formed in the wall.
 
-The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [amber golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) (use the stat block for the [stone golem](https://longo.com.br/5e/bestiary.html#stone%20golem_mm) in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
+The ceiling here is 30 feet high and flat. The statue in the northern alcove is an [[Amber Golem]]. It attacks any creature that disturbs the treasure. The golem can leave the room but can't leave the Amber Temple.
 
-See [area X41](https://longo.com.br/5e/adventure.html#cos,13,x41.%20fissure) for a description of the cracks in the south wall.
+See [[#X41. Fissure]] for a description of the cracks in the south wall.
 
-Treasure
+**Treasure**
 
 Six piles of treasure are numbered on the map.
 
@@ -820,19 +840,19 @@ Six piles of treasure are numbered on the map.
 - Eleven rusted helms (worthless)
 - Fifteen thin, leather-bound tomes, all of them signed copies of a storybook called _Snow Dwarf and the Seven Wights_, by Nitch Rackmay.
 
-Fortunes of Ravenloft
+**Fortunes of Ravenloft**
 
 If your card reading reveals that a treasure is here, it's buried in a random pile of treasure (roll a d6).
 
 ### X41. Fissure
 
-An earth tremor split the rock between areas X40 and X42, creating two natural openings that are virtually side by side. The openings are 3 feet wide, 8 feet high, and 10 feet deep.
+An earth tremor split the rock between areas [[#X40. Sealed Treasury]] and [[#X42. Amber Vault]], creating two natural openings that are virtually side by side. The openings are 3 feet wide, 8 feet high, and 10 feet deep.
 
 ### X42. Amber Vault
 
-A golden marble staircase with a black marble railing hugs the north wall as it spirals gently up a thirty-foot-wide shaft. Lying in the middle of the room are six rotting wooden crates.
+> A golden marble staircase with a black marble railing hugs the north wall as it spirals gently up a thirty-foot-wide shaft. Lying in the middle of the room are six rotting wooden crates.
 
-The amber-covered walls are sculpted to look like tentacles that entwine around marble bas-reliefs of kings, queens, pharaohs, and sultans attended by myriad slaves.
+> The amber-covered walls are sculpted to look like tentacles that entwine around marble bas-reliefs of kings, queens, pharaohs, and sultans attended by myriad slaves.
 
 The west, south, and east walls contain alcoves, and standing in each alcove is a tall, rough block of amber. Two wide cracks have opened up in the south wall, spilling rubble and shattered pieces of amber onto the floor in the southeast corner of the room.
 
