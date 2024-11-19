@@ -427,7 +427,7 @@ No wizards were entombed here. This annex is empty.
 > The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble.
 
 - Put [[Offalia Wormwiggle|Offalia]] here?
-- She's looking for a way to bring back her mother and sisters
+- She's looking for a way to bring back her mother and sisters, or maybe she already has and they party has to fight them all again.
 
 > Many amber doors lead from this hall. Standing in front of the south door are three ugly women in tattered black gowns with brooms and black, pointed hats.
 
@@ -479,41 +479,72 @@ Characters who touch the amber sarcophagi are offered dark gifts by the evil ves
 
 #### South Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the [lightning bolt](https://longo.com.br/5e/spells.html#lightning%20bolt_phb) spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the [[Lightning Bolt]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling.
 
+- Vestige: Zrin-Hala, the Howling Storm
+- Gift: power to create lightning
+- Pro: to cast the [[Lightning Bolt]] spell as an action.
+	- After it has been used three times, the dark gift vanishes
+- Con: As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling.
+
 #### East Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [raise dead](https://longo.com.br/5e/spells.html#raise%20dead_phb) spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [[Raise Dead]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
 
+- Vestige: Sykane, the Soul Hungerer
+- Gift: power to raise the recently deceased
+- Pro: cast the [[Raise Dead]] spell as an action
+	- After it has been used three times, the dark gift vanishes
+- Con:  As soon as this dark gift is received, the beneficiary's eyes glow a sickly yellow until the dark gift vanishes. The beneficiary also gains the following flaw: "If I help someone, I expect payment in return."
+
 ### X33b. Vault of Maverus
 
-The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
+The amber door to this room is sealed with an [[Arcane Lock]] spell. The password to suppress the spell is "Maverus." The door is otherwise identical to the door of [[#X33a. Vault of Shalx]].
 
-This room has amber-glazed walls, a blue marble floor, and three amber sarcophagi standing in alcoves.
+> This room has amber-glazed walls, a blue marble floor, and three amber sarcophagi standing in alcoves.
 
 The ceiling here is 10 feet high. Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
-North Sarcophagus. 
+#### North Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Savnok the Inscrutible. Savnok's gift is the power to shield the mind. This dark gift takes the form of a [mind blank](https://longo.com.br/5e/spells.html#mind%20blank_phb) spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Savnok the Inscrutible. Savnok's gift is the power to shield the mind. This dark gift takes the form of a [[Mind Blank]] spell cast on the beneficiary. The spell has an extended duration of 1 year, after which the dark gift vanishes.
 
 The beneficiary's eyes melt away upon receiving this dark gift, leaving empty sockets that can still see.
 
-East Sarcophagus. 
+- Vestige: Savnok the Inscrutible
+- Gift: the power to shield the mind
+- Pro: a [[Mind Blank]] spell is cast on the beneficiary
+	- The spell has an extended duration of 1 year, after which the dark gift vanishes
+- Con:  he beneficiary's eyes melt away upon receiving this dark gift, leaving empty sockets that can still see
+
+#### East Sarcophagus. 
 
 The vestige within this sarcophagus offers the dark gift of Tarakamedes, the Grave Wyrm. Tarakamedes's gift is the power of flight. The beneficiary of this dark gift grows skeletal wings and gains a flying speed of 50 feet.
 
 The beneficiary of this dark gift must eat bones or grave dirt to survive. At dawn, if the creature has not eaten at least 1 pound of bones or grave dirt in the past 24 hours, it dies.
 
-South Sarcophagus. 
+- Vestige: Tarakamedes, the Grave Wyrm
+- Gift: the power of flight
+- Pro: grows skeletal wings and gains a flying speed of 50 feet
+- Con:  The beneficiary of this dark gift must eat bones or grave dirt to survive. At dawn, if the creature has not eaten at least 1 pound of bones or grave dirt in the past 24 hours, it dies
 
-The vestige within this sarcophagus offers the dark gift of Shami-Amourae, the Lady of Delights. Shami-Amourae's gift is the power of persuasion. This dark gift allows its beneficiary to cast the [suggestion](https://longo.com.br/5e/spells.html#suggestion_phb) spell as an action, and saving throws against the spell have disadvantage. After it has been used three times, the dark gift vanishes.
+#### South Sarcophagus. 
+
+The vestige within this sarcophagus offers the dark gift of Shami-Amourae, the Lady of Delights. Shami-Amourae's gift is the power of persuasion. This dark gift allows its beneficiary to cast the [[Suggestion]] spell as an action, and saving throws against the spell have disadvantage. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift gains an extra finger on each hand, as well as the following flaw: "I can't get enough pleasure. I desire others to create beauty for me at all times."
+
+- Vestige: Shami-Amourae, the Lady of Delights
+- Gift: the power of persuasion
+- Pro: can cast the [[Suggestion]] spell as an action
+	- saving throws against the spell have disadvantage
+	- After it has been used three times, the dark gift vanishes
+- Con: The beneficiary of this dark gift gains an extra finger on each hand, as well as the following flaw: "I can't get enough pleasure. I desire others to create beauty for me at all times."
+
 
 ### X33c. Ghastly Vault
 
@@ -521,80 +552,131 @@ The beneficiary of this dark gift gains an extra finger on each hand, as well as
 
 > This room has amber-glazed walls and a floor of dark green marble. Three amber sarcophagi stand in alcoves. Two feral humanoids with ghastly gray skin stare at you hungrily with three eyes—two normal eyes and a third lidless eye blinded by cataracts. Five more cling to the walls and ceiling.
 
-The ceiling here is 10 feet high. The seven hungry ghasts that lair here fight to the death. The [[Amber Ghast]]s have the following additional feature:
+The ceiling here is 10 feet high. The seven hungry [[Amber Ghast]]s that lair here fight to the death.
 
-**North Sarcophagus.** 
+#### **North Sarcophagus.** 
 
 The vestige within this sarcophagus offers the dark gift of Drizlash, the Nine-Eyed Spider. Drizlash's gift is the power to walk on walls and ceilings. This dark gift allows its beneficiary to climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open.
 
-**East Sarcophagus.** 
+- Vestige: Drizlash, the Nine-Eyed Spider
+- Gift: power to walk on walls and ceilings
+- Pro: can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+- Con: The beneficiary of this dark gift grows an extra eye somewhere on its body. The eye is blind and ever open.
+
+#### **East Sarcophagus.** 
 
 The vestige within this sarcophagus offers the dark gift of Dahlver-Nar, He of the Many Teeth. Dahlver-Nar's gift is the power to live many lives. Upon receiving this dark gift, the beneficiary instantly reincarnates when it dies, as though it was the target of a [[Reincarnate]] spell. The new body appears within 10 feet of the old one. After it has been used three times, the dark gift vanishes.
 
 The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time.
 
-**South Sarcophagus.** 
+- Vestige: Dahlver-Nar, He of the Many Teeth
+- Gift: the power to live many lives
+- Pro: beneficiary instantly reincarnates when it dies, as though it was the target of a [[Reincarnate]] spell
+	- The new body appears within 10 feet of the old one
+	- After it has been used three times, the dark gift vanishes
+- Con: The beneficiary of this dark gift loses all of its teeth until it reincarnates for the third and final time.
+
+#### **South Sarcophagus.** 
 
 The vestige within this sarcophagus offers the dark gift of Zantras, the Kingmaker. Zantras's gift is power that comes from great presence and force of personality. This dark gift increases the beneficiary's Charisma by 4, up to a maximum of 22.
 
 The beneficiary of this dark gift gains the following flaw: "I won't take no for an answer."
 
+- Vestige: Zantras, the Kingmaker
+- Gift: power that comes from great presence and force of personality
+- Pro: increases the beneficiary's Charisma by 4, up to a maximum of 22
+- Con: The beneficiary of this dark gift gains the following flaw: "I won't take no for an answer."
+
 ### X33d. Breached Vault
 
 The amber door to this room hangs open.
 
-This room has amber-glazed walls and a floor of purplish-black marble. Two amber sarcophagi stand in alcoves to the west and east. A third sarcophagus that once stood in the north alcove lies shattered on the floor. Clustered in the middle of the room are four loathsome, hunched creatures. Each one has a single large, baleful eye.
+> This room has amber-glazed walls and a floor of purplish-black marble. Two amber sarcophagi stand in alcoves to the west and east. A third sarcophagus that once stood in the north alcove lies shattered on the floor. Clustered in the middle of the room are four loathsome, hunched creatures. Each one has a single large, baleful eye.
 
-The creatures huddled in this room are four [nothics](https://longo.com.br/5e/bestiary.html#nothic_mm)—former wizards reduced to this evil state by their mad quest for forbidden lore. The nothics use their Weird Insight feature to pry secrets from the characters. Although this power is wickedly invasive, the nothics don't consider their prying to be offensive, and so they are taken aback if the characters retaliate. The nothics fight only if one of them is accosted, or if the characters try to destroy the amber sarcophagi.
+The creatures huddled in this room are four [[Nothic Statblock|Nothics]]—former wizards reduced to this evil state by their mad quest for forbidden lore. The nothics use their Weird Insight feature to pry secrets from the characters. Although this power is wickedly invasive, the nothics don't consider their prying to be offensive, and so they are taken aback if the characters retaliate. The nothics fight only if one of them is accosted, or if the characters try to destroy the amber sarcophagi.
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
-West Sarcophagus. 
+#### West Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Delban, the Star of Ice and Hate. Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the [cone of cold](https://longo.com.br/5e/spells.html#cone%20of%20cold_phb) spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a [ring of warmth](https://longo.com.br/5e/items.html#ring%20of%20warmth_dmg).
+The vestige within this sarcophagus offers the dark gift of Delban, the Star of Ice and Hate. Delban's gift is the power to unleash deadly cold. This dark gift allows its beneficiary to cast the [[Cone of Cold]] spell as an action. After it has been used seven times, the dark gift vanishes. Until it vanishes, the beneficiary also gains the benefits of a [[Ring of Warmth]].
 
 The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 
-North Sarcophagus. 
+- Vestige: Delban, the Star of Ice and Hate
+- Gift: the power to unleash deadly cold
+- Pro: can cast the [[Cone of Cold]] spell as an action
+	- After it has been used seven times, the dark gift vanishes
+	- Until it vanishes, the beneficiary also gains the benefits of a [[Ring of Warmth]].
+- Con:  The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
+
+#### North Sarcophagus. 
 
 This sarcophagus has been shattered in a way that suggests the vestige inside it somehow broke free.
-- This could be [[Menigal, the Departed|Menigal]]
+- This could be [[Menigal, the Departed|Menigal]]'s place
 
-West Sarcophagus. 
+#### West Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Khirad, the Star of Secrets. Khirad's gift is the power of divination. This gift allows its beneficiary to cast the [scrying](https://longo.com.br/5e/spells.html#scrying_phb) spell as an action. After it has been used three times, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Khirad, the Star of Secrets. Khirad's gift is the power of divination. This gift allows its beneficiary to cast the [[Scrying]] spell as an action. After it has been used three times, the dark gift vanishes.
 
 The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
 
+- Vestige: Khirad, the Star of Secrets
+- Gift: the power of divination
+- Pro: can cast the [[Scrying]] spell as an action
+	- After it has been used seven times, the dark gift vanishes
+- Con: The beneficiary's voice becomes a low whisper, and its smile becomes cruel and evil.
+
+
 ### X33e. Vault of Harkotha
 
-The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx).
+The amber door to this room is sealed with an [[Arcane Lock]] spell. The password to suppress the spell is "Harkotha." The door is otherwise identical to the door of [[#X33a. Vault of Shalx]].
 
-This room has amber-glazed walls, a black marble floor with red veins, and three amber sarcophagi standing in alcoves.
+> This room has amber-glazed walls, a black marble floor with red veins, and three amber sarcophagi standing in alcoves.
 
-In the center of the room, a [death slaad](https://longo.com.br/5e/bestiary.html#death%20slaad_mm) has cast invisibility on itself and stands ready with its greatsword in hand. The slaad attacks anyone who enters the room, fighting until slain. It can't leave the Amber Temple.
+In the center of the room, a [[Death Slaad]] has cast [[Invisibility]] on itself and stands ready with its greatsword in hand. The slaad attacks anyone who enters the room, fighting until slain. It can't leave the Amber Temple.
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
-North Sarcophagus. 
+#### North Sarcophagus. 
 
 The vestige within this sarcophagus offers the dark gift of Yrrga, the Eye of Shadows. Yrrga's gift is the power of true seeing. This dark gift grants its beneficiary the benefits of truesight out to a range of 60 feet. These benefits last for 30 days, after which the dark gift vanishes.
 
 The eyes of the beneficiary become starry voids until the dark gift vanishes. The beneficiary of this dark gift also gains the following flaw: "I believe that all life is pointless and look forward to death when it finally comes."
 
-West Sarcophagus. 
+- Vestige: Yrrga, the Eye of Shadows
+- Gift: power of true seeing
+- Pro: benefits of truesight out to a range of 60 feet
+	- These benefits last for 30 days, after which the dark gift vanishes
+- Con: The eyes of the beneficiary become starry voids until the dark gift vanishes
+	- The beneficiary of this dark gift also gains the following flaw: "I believe that all life is pointless and look forward to death when it finally comes."
 
-The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [belt of fire giant strength](https://longo.com.br/5e/items.html#belt%20of%20fire%20giant%20strength_dmg). This benefit lasts for 10 days, after which the dark gift vanishes.
+#### West Sarcophagus. 
+
+The vestige within this sarcophagus offers the dark gift of Great Taar Haak, the Five-Headed Destroyer. Taar Haak's gift is great strength. This dark gift grants its beneficiary the benefit of a [[Belt of Giant Strength|Belt of Fire Giant Strength]]. This benefit lasts for 10 days, after which the dark gift vanishes.
 
 The beneficiary of this dark gift the following flaw: "I like to bully others and make them feel weak and inferior."
 
-South Sarcophagus. 
+- Vestige: Great Taar Haak, the Five-Headed Destroyer
+- Gift: great strength
+- Pro: the benefit of a [[Belt of Giant Strength|Belt of Fire Giant Strength]]
+	- This benefit lasts for 10 days, after which the dark gift vanishes
+- Con: The beneficiary of this dark gift the following flaw: "I like to bully others and make them feel weak and inferior."
+
+#### South Sarcophagus. 
 
 The vestige within this sarcophagus offers the dark gift of Yog the Invincible. Yog's gift is one of physical resilience. This dark gift increases the beneficiary's hit point maximum by 30. This benefit lasts for 10 days, after which the dark gift vanishes.
 
 Oily black fur covers the beneficiary's face and body.
+
+- Vestige: Yog the Invincible
+- Gift: physical resilience
+- Pro: increases the beneficiary's hit point maximum by 30
+	- This benefit lasts for 10 days, after which the dark gift vanishes
+- Con: Oily black fur covers the beneficiary's face and body.
+
 
 ### X33f. Vault of Thangob
 
