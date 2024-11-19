@@ -352,85 +352,88 @@ The iron chest is empty.
 
 ### X27. Lich's Lair
 
-This fifteen-foot-high room contains the trappings of royalty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candelabras atop small tables. The beauty of the decor is undone by thick dust and cobwebs. Standing in the center of the room is a decrepit skeleton clad in tattered robes.
+> This fifteen-foot-high room contains the trappings of royalty: ornate furniture, exquisite rugs and tapestries, and decorative statuary. Everywhere you look are lit candelabras atop small tables. The beauty of the decor is undone by thick dust and cobwebs. Standing in the center of the room is a decrepit skeleton clad in tattered robes.
 
-Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
+> Red pinpoints of light burn in the skeleton's eye sockets. "Do I know you?" it asks.
 
-The [lich](https://longo.com.br/5e/bestiary.html#lich_mm) has fewer hit points than normal (99 hit points), doesn't remember its name (Exethanter), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [greater restoration](https://longo.com.br/5e/spells.html#greater%20restoration_phb) spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
+The [[Lich]] has fewer hit points than normal (99 hit points), doesn't remember its name ([[Exethanter]]), and has forgotten all of its prepared spells. It does know its cantrips. In its current condition, the lich has a challenge rating of 10 (5,900 XP). A [[Greater Restoration]] spell restores the lich's memory and all of its spells. Another casting of the spell restores its normal hit point maximum (135).
 
-If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into [area X28](https://longo.com.br/5e/adventure.html#cos,13,x28.%20hidden%20phylactery), where its phylactery is hidden). It also provides all the information pertaining to Strahd and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library ([area K30](https://longo.com.br/5e/adventure.html#cos,4,k30.%20king's%20accountant)).
+If the characters restore its memory, the lich gives them the passwords to all the locked doors in the Amber Temple (with the exception of the door into [[#X28. Hidden Phylactery]], where its phylactery is hidden). It also provides all the information pertaining to [[Strahd Von Zarovich|Strahd]] and the temple presented at the start of this chapter. If the characters think to ask, it provides them with the command words for any of the books in the library ([[#X30. Preserved Library]]).
 
 If the characters restore its body, it offers to escort them while they explore the temple. The other creatures that inhabit the temple don't threaten the characters as long as the lich is with them.
 
 The lich defends itself if attacked and turns to dust if it is reduced to 0 hit points.
 
-The lich assumes that the characters have come seeking knowledge and power. If it is inclined to help them, it tells them how the amber sarcophagi work (as explained in the "Amber Sarcophagi" sidebar). The lich has no alliance with or animosity toward Strahd, and no interest in challenging Strahd for control of Barovia.
+The lich assumes that the characters have come seeking knowledge and power. If it is inclined to help them, it tells them [[#**Amber Sarcophagi**|how the amber sarcophagi work]]. The lich has no alliance with or animosity toward [[Strahd Von Zarovich|Strahd]], and no interest in challenging [[Strahd Von Zarovich|Strahd]] for control of Barovia.
 
 The furnishings here are in poor condition and fall apart easily.
 
-There are three secret doors in this room. The secret door to [area X28](https://longo.com.br/5e/adventure.html#cos,13,x28.%20hidden%20phylactery) has an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell cast on it. The password to suppress the spell is "Exethanter."
+There are three secret doors in this room. The secret door to [[#X28. Hidden Phylactery]] has an [[Arcane Lock]] spell cast on it. The password to suppress the spell is "Exethanter."
 
-Treasure
+**Treasure**
 
-The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: _The Incants of Exethanter_. The spellbook contains all the spells on the lich's list of prepared spells (see the lich stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)). The lich attacks anyone who tries to take its spellbook.
+The lich's ancient, bronze-covered spellbook sits on a rotted divan, in plain view. Inscribed on its spine is a title: _The Incants of Exethanter_. The spellbook contains all the spells on the [[Lich]]'s list of prepared spells. The lich attacks anyone who tries to take its spellbook.
 
 ### X28. Hidden Phylactery
 
-The secret door to this room has an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell cast on it (see [area X27](https://longo.com.br/5e/adventure.html#cos,13,x27.%20lich's%20lair) for details).
+The secret door to this room has an [[Arcane Lock]] spell cast on it (see [[#X27. Lich's Lair]] for details).
 
-Behind the secret door is a small, dusty room. Rising from the floor in the eastern half of the room is a scaly arm and claw clutching a small box made of bone.
+> Behind the secret door is a small, dusty room. Rising from the floor in the eastern half of the room is a scaly arm and claw clutching a small box made of bone.
 
 The scaly arm is merely a carved pedestal. The bone box is Exethanter's phylactery. If it takes 20 or more radiant damage from a single source, the phylactery is destroyed.
 
 ### X29. Secret Room
 
-Dust and cobwebs fill this otherwise empty room.
+> Dust and cobwebs fill this otherwise empty room.
 
 The ceiling here is 10 feet high.
 
 ### X30. Preserved Library
 
-This stone library has twenty-foot-high walls and a thirty-foot-high vaulted ceiling. Covering the ceiling is a fresco that depicts angels being set ablaze in a hell. A black marble railing encloses a gold marble staircase that spirals gently down a thirty-foot-wide, thirty-foot-deep shaft to the north. Against the gray walls stand six ten-foot-tall, black marble bookcases. On their shelves are hundreds of well-preserved tomes. Embroidered rugs, chairs, and lit candelabras fill the southern half of the room.
+> This stone library has twenty-foot-high walls and a thirty-foot-high vaulted ceiling. Covering the ceiling is a fresco that depicts angels being set ablaze in a hell. A black marble railing encloses a gold marble staircase that spirals gently down a thirty-foot-wide, thirty-foot-deep shaft to the north. Against the gray walls stand six ten-foot-tall, black marble bookcases. On their shelves are hundreds of well-preserved tomes. Embroidered rugs, chairs, and lit candelabras fill the southern half of the room.
 
-The spiral staircase descends 30 feet to [area X42](https://longo.com.br/5e/adventure.html#cos,13,x42.%20amber%20vault). Peering over the railing reveals crates in that area.
+The spiral staircase descends 30 feet to [[#X42. Amber Vault]]. Peering over the railing reveals crates in that area.
 
-There are no ladders here to reach the high bookshelves. (The wizards who built this place used [mage hand](https://longo.com.br/5e/spells.html#mage%20hand_phb) spells.) All the books appear to have blank covers and empty pages. Holding a book while speaking its secret command word causes the book's text to magically appear. Only the lich in [area X27](https://longo.com.br/5e/adventure.html#cos,13,x27.%20lich's%20lair) knows the command word for each book, and only if its memory is restored. A [true seeing](https://longo.com.br/5e/spells.html#true%20seeing_phb) spell also allows one to see the magically obfuscated text. The tomes mostly contain vile, forbidden lore. Many spellbooks are hidden here, collectively holding every wizard spell in the [Player's Handbook](https://longo.com.br/5e/book.html#phb).
+There are no ladders here to reach the high bookshelves. (The wizards who built this place used [[Mage Hand]] spells.) All the books appear to have blank covers and empty pages. Holding a book while speaking its secret command word causes the book's text to magically appear. Only [[Exethanter]] in [[#X27. Lich's Lair]] knows the command word for each book, and only if its memory is restored. A [[True Seeing]] spell also allows one to see the magically obfuscated text. The tomes mostly contain vile, forbidden lore. Many spellbooks are hidden here, collectively holding every wizard spell in the [Player's Handbook](https://longo.com.br/5e/book.html#phb).
 
 A book that is taken from the library disintegrates as the magic that preserves it is dispelled. The room's furnishings, which are also magically preserved, deteriorate and become brittle if taken from the room.
 
-The secret door in the center of the west wall can be pulled open to reveal an empty room ([area X29](https://longo.com.br/5e/adventure.html#cos,13,x29.%20secret%20room)). The one in the center of the south wall can be pulled open to reveal a staircase that descends 30 feet to another secret door leading to [area X5](https://longo.com.br/5e/adventure.html#cos,13,x5.%20temple%20of%20lost%20secrets).
+The secret door in the center of the west wall can be pulled open to reveal an empty room ([[#X29. Secret Room]]). The one in the center of the south wall can be pulled open to reveal a staircase that descends 30 feet to another secret door leading to [[#X5. Temple of Lost Secrets]].
 
 ### X31. Central Catacombs
 
 These catacombs contain the moldy remains of the wizards who once defended the Amber Temple. Later generations of wizards who were corrupted by the evil of the temple smashed the amber sheaths covering the dead wizards' bodies and stole everything of value, leaving the formerly preserved corpses to rot.
 
-You smell the horrid perfume of the ancient dead. Stone niches along the walls of these catacombs hold human-shaped amber husks, bones, and tattered shrouds.
+> You smell the horrid perfume of the ancient dead. Stone niches along the walls of these catacombs hold human-shaped amber husks, bones, and tattered shrouds.
 
 If the characters enter these catacombs, add:
 
-Tall, iron candlesticks stand in alcoves. Their candles ignite as you enter, casting flickering light upon the walls and causing the shattered amber to glitter.
+> Tall, iron candlesticks stand in alcoves. Their candles ignite as you enter, casting flickering light upon the walls and causing the shattered amber to glitter.
 
 The magic candles ignite when a living creature enters the catacombs and melt away if taken from the area.
 
 ### X31a. West Catacombs
 
-More skeletal remains fill niches in the walls of this smaller annex, the amber husks that once preserved them smashed beyond repair.
+> More skeletal remains fill niches in the walls of this smaller annex, the amber husks that once preserved them smashed beyond repair.
 
-X31b. East Catacombs
+### X31b. East Catacombs
 
-The niches set into the wall of this annex lie empty, except for a thick coat of dust.
+> The niches set into the wall of this annex lie empty, except for a thick coat of dust.
 
 No wizards were entombed here. This annex is empty.
 
 ### X32. Lower East Hall
 
-The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble.
+> The walls and ceiling of this great hall are coated in amber that glistens like fresh honey. Dust covers the black marble floor. To the north, the hall has collapsed, leaving a wall of rubble.
 
-Many amber doors lead from this hall. Standing in front of the south door are three ugly women in tattered black gowns with brooms and black, pointed hats.
+- Put [[Offalia Wormwiggle|Offalia]] here?
+- She's looking for a way to bring back her mother and sisters
 
-An earth tremor collapsed the northern part of the hall. Three [Barovian witches](https://longo.com.br/5e/bestiary.html#barovian%20witch_cos) are trying to open the amber door to [area X33a](https://longo.com.br/5e/adventure.html#cos,13,x33a.%20vault%20of%20shalx) by trying different passwords, unaware that they could gain entry through the shaft in [area X6](https://longo.com.br/5e/adventure.html#cos,13,x6.%20southeast%20annex). Frustrated by their lack of progress, they vent their rage by attacking the characters. The witches let loose their three [brooms of animated attack](https://longo.com.br/5e/bestiary.html#broom%20of%20animated%20attack_cos) while they cast spells.
+> Many amber doors lead from this hall. Standing in front of the south door are three ugly women in tattered black gowns with brooms and black, pointed hats.
 
-Development
+An earth tremor collapsed the northern part of the hall. Three [Barovian witches](https://longo.com.br/5e/bestiary.html#barovian%20witch_cos) are trying to open the amber door to [[#X33a. Vault of Shalx]] by trying different passwords, unaware that they could gain entry through the shaft in [[#X6. Southeast Annex]] Frustrated by their lack of progress, they vent their rage by attacking the characters. The witches let loose their three [brooms of animated attack](https://longo.com.br/5e/bestiary.html#broom%20of%20animated%20attack_cos) while they cast spells.
+
+**Development**
 
 If two of the witches are killed or incapacitated, the surviving witch attempts to escape by flying away on her broom. Only the witches can use the brooms of animated attack in this fashion.
 
@@ -438,7 +441,7 @@ If two of the witches are killed or incapacitated, the surviving witch attempts 
 
 Several of these amber-glazed rooms are located along the periphery of the complex. Each room contains two or more amber sarcophagi (see the "Amber Sarcophagi" sidebar).
 
-**Amber Sarcophagi**
+#### **Amber Sarcophagi**
 
 An amber sarcophagus looks like a rough block of solid amber 8 feet tall, 5 feet wide, and 5 feet thick. Trapped inside the block is a sliver or wisp of utter darkness no more than a few inches long. The darkness is the vestige of a dead and hateful god—a shard of pure evil with shreds of sentience and awareness. The vestige can't be harmed or controlled, and it is immune to all conditions.
 
@@ -454,31 +457,33 @@ Each time a non-evil creature accepts a dark gift, it must make a DC 12 Charisma
 
 ### X33a. Vault of Shalx
 
-The amber door to this room is sealed with an [arcane lock](https://longo.com.br/5e/spells.html#arcane%20lock_phb) spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes 22 (4d10) necrotic damage, turning to dust and bones if reduced to 0 hit points.
+The amber door to this room is sealed with an [[Arcane Lock]] spell. The password to suppress the spell is "Shalx." A character can push open the doors with a successful DC 25 Strength check. The door (AC 15, 30 hit points) can also be smashed. If the door is reduced to 0 hit points, necrotic energy fills the 30-foot cube directly in front of it. A creature in the area takes 22 (4d10) necrotic damage, turning to dust and bones if reduced to 0 hit points.
 
 Adjust the following text if the creatures in this room have already been encountered and destroyed.
 
-This room has walls of glazed amber, a floor of red marble, and a rough-hewn shaft in the center of its ten-foot-high ceiling. Three amber sarcophagi stand in alcoves, and above each sarcophagus floats a human skull wreathed in green flame.
+> This room has walls of glazed amber, a floor of red marble, and a rough-hewn shaft in the center of its ten-foot-high ceiling. Three amber sarcophagi stand in alcoves, and above each sarcophagus floats a human skull wreathed in green flame.
 
-Three [flameskulls](https://longo.com.br/5e/bestiary.html#flameskull_mm) guard this room. They attack intruders on sight.
+Three [[Flameskull]]s guard this room. They attack intruders on sight.
 
-The shaft in the ceiling is 10 feet wide and 20 feet long, with abundant handholds. No ability check is required to climb it. The shaft leads up to [area X6](https://longo.com.br/5e/adventure.html#cos,13,x6.%20southeast%20annex).
+The shaft in the ceiling is 10 feet wide and 20 feet long, with abundant handholds. No ability check is required to climb it. The shaft leads up to [[#X6. Southeast Annex]].
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
 
-West Sarcophagus. 
+#### West Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Fekre, Queen of Poxes. Fekre's gift is the power of spreading disease. This dark gift allows its beneficiary to cast the [contagion](https://longo.com.br/5e/spells.html#contagion_phb) spell as an action. After it has been used three times, the dark gift vanishes.
+- Vestige: Fekre, Queen of Poxes
+- Gift: power of spreading disease
+- Pro: can cast [[Contagion]] spell as an action
+	- After it has been used three times, the dark gift vanishes
+- Con: The beneficiary of this dark gift reeks of filth
 
-The beneficiary of this dark gift reeks of filth.
-
-South Sarcophagus. 
+#### South Sarcophagus. 
 
 The vestige within this sarcophagus offers the dark gift of Zrin-Hala, the Howling Storm. Zrin-Hala's gift is the power to create lightning. This dark gift allows its beneficiary to cast the [lightning bolt](https://longo.com.br/5e/spells.html#lightning%20bolt_phb) spell as an action. After it has been used three times, the dark gift vanishes.
 
 As soon as this dark gift is received, one side of the beneficiary's face sags and loses all feeling.
 
-East Sarcophagus. 
+#### East Sarcophagus. 
 
 The vestige within this sarcophagus offers the dark gift of Sykane, the Soul Hungerer. Sykane's gift is the power to raise the recently deceased. This dark gift allows its beneficiary to cast the [raise dead](https://longo.com.br/5e/spells.html#raise%20dead_phb) spell as an action. After it has been used three times, the dark gift vanishes.
 
@@ -555,6 +560,7 @@ The beneficiary of this dark gift gains the following flaw: "Fire terrifies me."
 North Sarcophagus. 
 
 This sarcophagus has been shattered in a way that suggests the vestige inside it somehow broke free.
+- This could be [[Menigal, the Departed|Menigal]]
 
 West Sarcophagus. 
 
