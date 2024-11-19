@@ -854,45 +854,45 @@ An earth tremor split the rock between areas [[#X40. Sealed Treasury]] and [[#X4
 
 > The amber-covered walls are sculpted to look like tentacles that entwine around marble bas-reliefs of kings, queens, pharaohs, and sultans attended by myriad slaves.
 
-The west, south, and east walls contain alcoves, and standing in each alcove is a tall, rough block of amber. Two wide cracks have opened up in the south wall, spilling rubble and shattered pieces of amber onto the floor in the southeast corner of the room.
+> The west, south, and east walls contain alcoves, and standing in each alcove is a tall, rough block of amber. Two wide cracks have opened up in the south wall, spilling rubble and shattered pieces of amber onto the floor in the southeast corner of the room.
 
-The spiral staircase climbs 30 feet to [area X30](https://longo.com.br/5e/adventure.html#cos,13,x30.%20preserved%20library). See [area X41](https://longo.com.br/5e/adventure.html#cos,13,x41.%20fissure) for a description of the cracks in the south wall.
+The spiral staircase climbs 30 feet to [[#X30. Preserved Library]]. See [[#X41. Fissure]] for a description of the cracks in the south wall.
 
 Inside the wooden crates, buried in earth, are six [vampire spawn](https://longo.com.br/5e/bestiary.html#vampire%20spawn_mm) created by Strahd from a dead party of adventurers. As soon as they hear intruders in the room, the vampire spawn burst out of their crates and attack, fighting until destroyed.
 
-Teleport Destination
+**Teleport Destination**
 
-Characters who teleport to this location from [area K78](https://longo.com.br/5e/adventure.html#cos,4,k78.%20brazier%20room) in Castle Ravenloft arrive at the point marked T on the map.
+Characters who teleport to this location from [area K78](https://longo.com.br/5e/adventure.html#cos,4,k78.%20brazier%20room) in [[Castle Ravenloft (K)|Castle Ravenloft]] arrive at the point marked T on the map.
 
-Amber Sarcophagi
+**Amber Sarcophagi**
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar earlier in this chapter). Kasimir will know when he touches the east sarcophagus in this area that he has found the dark gift he seeks.
 
-West Sarcophagus. 
+#### **West Sarcophagus.** 
 
-The vestige within this sarcophagus offers "the dark gift of the Vampyr" to any humanoid creature of evil alignment that touches it. The Vampyr's gift is the immortality of undeath. If the dark gift is accepted, its effect doesn't occur until the following conditions are met, in the order given below. The creature becomes aware of the conditions only after accepting the dark gift.
+The vestige within this sarcophagus offers "the dark gift of the [[Vampyr]]" to any humanoid creature of evil alignment that touches it. The Vampyr's gift is the immortality of undeath. If the dark gift is accepted, its effect doesn't occur until the following conditions are met, in the order given below. The creature becomes aware of the conditions only after accepting the dark gift.
 
 - The beneficiary slays another humanoid that loves or reveres him or her, then drinks the dead humanoid's blood within 1 hour of slaying it.
 - The beneficiary dies a violent death at the hands of one or more creatures that hate it.
 
-When the conditions are met, the beneficiary instantly becomes a [vampire](https://longo.com.br/5e/bestiary.html#vampire_mm) under the Dungeon Master's control (use the stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm)).
+When the conditions are met, the beneficiary instantly becomes a [[Vampires]] under the Dungeon Master's control.
 
 After receiving the dark gift, the beneficiary gains the following flaw: "I am surrounded by hidden enemies that seek to destroy me. I can't trust anyone."
 
-South Sarcophagus. 
+#### South Sarcophagus. 
 
 The vestige within this sarcophagus offers "the dark gift of Tenebrous" to any humanoid creature of evil alignment that can cast 9th-level wizard spells. Tenebrous's gift is the secret of lichdom. This dark gift grants its beneficiary the knowledge needed to perform the following tasks:
 
 - Craft a phylactery and imbue it with the power to contain the beneficiary's soul
 - Concoct a potion of transformation that turns the beneficiary into a lich
 
-Construction of the phylactery takes 10 days. Concocting the potion takes 3 days. The two items can't be crafted concurrently. When the beneficiary drinks the potion, he or she instantly transforms into a [lich](https://longo.com.br/5e/bestiary.html#lich_mm) under the Dungeon Master's control (use the stat block in the [Monster Manual](https://longo.com.br/5e/book.html#mm), altering the lich's prepared spells as desired).
+Construction of the phylactery takes 10 days. Concocting the potion takes 3 days. The two items can't be crafted concurrently. When the beneficiary drinks the potion, he or she instantly transforms into a [[Lich]] under the Dungeon Master's control, (altering the lich's prepared spells as desired).
 
 The beneficiary of this dark gift gains the following flaw: "All I care about is acquiring new magic and arcane knowledge."
 
-East Sarcophagus. 
+#### `East Sarcophagus. 
 
-The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the [resurrection](https://longo.com.br/5e/spells.html#resurrection_phb) spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
+The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the [[Resurrection]] spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
 
 The beneficiary of this dark gift takes on a corpse-like appearance and is easily mistaken for an undead.
 
