@@ -1,3 +1,4 @@
+- Don't forget the [[Mad Mage of Mount Baratok|Mad Mage]]
 - Put a sarcophagus in the amber temple for [[Menigal, the Departed|Menigal]], but maybe it's open already?
 	- Someone else came and let him into the mists
 - Ezmerelda says she needs a moment before seeing her mentor again

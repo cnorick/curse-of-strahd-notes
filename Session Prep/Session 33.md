@@ -8,6 +8,7 @@
 		- Also, his misty escape
 		- If he's held in sunlight and can't transform
 		- basically, if the party gets the info at the amber temple, just read the statblock to them
+- Tell them its going to be cold at the [[The Amber Temple (X)|Amber Temple]]
 - Polar bear gets free will back after 24 hours
 - Left out of [[Ezmerelda d'Avenir|Ezmerelda]]'s story, [[Rictavio|van Richten]] actually mercy-killed his son
 	- have [[Rictavio|van Richten]] tell this part
