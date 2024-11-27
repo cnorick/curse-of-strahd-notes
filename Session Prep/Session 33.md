@@ -4,7 +4,10 @@
 - van richten and Esmeralda tell the group that strahd has been straight up killed in battle before and just comes back
 	- He's actually immortal
 	- The answer to finally getting rid of him may be in the amber temple
-		- The [[Heart of Sorrow Statblock]] is the reason
+		- The [[Heart of Sorrow Statblock]] is part of the reason
+		- Also, his misty escape
+		- If he's held in sunlight and can't transform
+		- basically, if the party gets the info at the amber temple, just read the statblock to them
 - Polar bear gets free will back after 24 hours
 - Left out of [[Ezmerelda d'Avenir|Ezmerelda]]'s story, [[Rictavio|van Richten]] actually mercy-killed his son
 	- have [[Rictavio|van Richten]] tell this part
