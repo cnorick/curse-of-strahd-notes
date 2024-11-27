@@ -1,3 +1,6 @@
+- [[Ezmerelda d'Avenir|Ezmerelda]] gets distracted because her wagon was pulled into the woods
+	- So the party has to enter alone
+	- Either [[Rictavio|van Richten]] hid it for her or someone stole it and it blew up in the woods
 - van richten and Esmeralda tell the group that strahd has been straight up killed in battle before and just comes back
 	- He's actually immortal
 	- The answer to finally getting rid of him may be in the amber temple
