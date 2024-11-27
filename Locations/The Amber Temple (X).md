@@ -636,6 +636,8 @@ The amber door to this room is sealed with an [[Arcane Lock]] spell. The passw
 
 > This room has amber-glazed walls, a black marble floor with red veins, and three amber sarcophagi standing in alcoves.
 
+(consider removing the death slaad if the party has already fought too much)
+
 In the center of the room, a [[Death Slaad]] has cast [[Invisibility]] on itself and stands ready with its greatsword in hand. The slaad attacks anyone who enters the room, fighting until slain. It can't leave the Amber Temple.
 
 Characters who touch the amber sarcophagi are offered dark gifts by the evil vestiges contained within them (see the "Amber Sarcophagi" sidebar).
@@ -857,6 +859,8 @@ An earth tremor split the rock between areas [[#X40. Sealed Treasury]] and [[#X4
 > The west, south, and east walls contain alcoves, and standing in each alcove is a tall, rough block of amber. Two wide cracks have opened up in the south wall, spilling rubble and shattered pieces of amber onto the floor in the southeast corner of the room.
 
 The spiral staircase climbs 30 feet to [[#X30. Preserved Library]]. See [[#X41. Fissure]] for a description of the cracks in the south wall.
+
+(consider removing these spawn and making the whole North side of the temple safe; if they teleport here, go for it)
 
 Inside the wooden crates, buried in earth, are six [vampire spawn](https://longo.com.br/5e/bestiary.html#vampire%20spawn_mm) created by Strahd from a dead party of adventurers. As soon as they hear intruders in the room, the vampire spawn burst out of their crates and attack, fighting until destroyed.
 
