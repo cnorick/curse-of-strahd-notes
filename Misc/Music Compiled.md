@@ -1,4 +1,7 @@
 Go into view mode to have full control
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2EtXphrvA5eZsS9uah50zJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
 
 Introduction - Into the Mists
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a#loop]]

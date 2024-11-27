@@ -14,7 +14,9 @@
 		- but you should make him seem really sad and pitiful
 		- then have the emotional conversation of how he feels about losing his sister
 
-- What happened in [[Village of Krezk (S)|Krezk]]
+- Spotify playlist for strahd's final battle [[Music Compiled]]
+
+- What happened in [[Village of Krezk (S)|Krezk]] ([[Ezmerelda d'Avenir|Ezmerelda]] told them)
 	- At the [[Festival of the Blazing Sun]], a guard laughed and [[Vargas Vallakovich|Burgomaster Vallakovich]] had him tied to his horse and dragged behind
 	- An angry mob broke out
 		- everyone was on edge since the vampires attacked; the festivals didn't seem to work
@@ -66,18 +68,18 @@ Ireena options:
 - [x] Learn about the missing skull at [[Argynvostholt (Q)|Argynvostholt]]
 	- [x] also learn about the dark powers
 	- [x] don't know where the skull is
-- [ ] They go to [[Village of Krezk (S)|Krezk]] looking for answers
-	- [ ] they probably get turned away at the gates
+- [x] They go to [[Village of Krezk (S)|Krezk]] looking for answers
+	- [x] they probably get turned away at the gates
 - [x] They go to the Winery
 	- [x] they learn about the gems
 	- [x] if they're not interested in other stuff, they maybe learn about [[Ruins of Berez (U)|Berez]]
 - [x] They maybe go to Yester Hill to get the gem
 - [x] Bring the gem back, get some wine
-- [ ] Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbot]]
+- [x] Go back to [[Village of Krezk (S)|Krezk]] with wine, meet [[The Abbot]]
 - [x] Learn about [[Ruins of Berez (U)|Berez]] for sure
 - [x] Go to [[Ruins of Berez (U)|Berez]] and get the skull
 - [x] Fix [[Argynvostholt (Q)|Argynvostholt]] and get the [[The Holy Symbol of Ravenkind|Symbol of Ravenkind]]
-- [ ] Learn where [[The Amber Temple (X)|The Amber Temple]] is
+- [x] Learn where [[The Amber Temple (X)|The Amber Temple]] is
 - [ ] Go there and get the sword
 - [ ] Fight [[Strahd Von Zarovich|Strahd]]
 
