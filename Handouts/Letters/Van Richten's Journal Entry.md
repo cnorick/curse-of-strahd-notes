@@ -5,7 +5,6 @@ new_handout: true
 
 For nearly two decades now, I have undertaken to investigate and expose creatures of darkness to the purifying light of truth and knowledge. "Hero" I am named in some circles; "sage" and "master hunter" I am called in others. That I have survived countless supernatural assaults is seen as a marvel among my peers; my name is spoken with fear and loathing among my foes.  
 
-
  In truth, this "virtuous" calling began as an obsessive effort to destroy a vampire that murdered my child, and it has become for me a tedious and bleak career. Even as my life of hunting monsters began, I felt the weight of time on my weary shoulders. I expect that those who think me a hero will change their minds when they know the whole truth about my life as a hunter of the unnatural. Nevertheless, I must reveal, here and now, the truth of my fate—and the fates of those I have loved.  
  
  I have related the tragic story of how my only child Erasmus was taken by Vistani and sold to a vampire. I explained how Erasmus was made a minion of the night stalker, and how it was my miserable part to free him from that fate at the point of a stake. What I have neglected to illuminate before, however, is how I returned to track Erasmus's kidnappers once more across the land—and the terrible choice that I made when I found them.  
