@@ -1,3 +1,5 @@
+- Roll for encounter on [[Random Encounters]]
+	- Let [[Ezmerelda d'Avenir|Ezmerelda]] just absolutely destroy them with like a poisoned arrow
 - [[Ezmerelda d'Avenir|Ezmerelda]] gets distracted because her wagon was pulled into the woods
 	- So the party has to enter alone
 	- Either [[Rictavio|van Richten]] hid it for her or someone stole it and it blew up in the woods
