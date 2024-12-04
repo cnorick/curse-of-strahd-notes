@@ -3,6 +3,7 @@
 - [[Ezmerelda d'Avenir|Ezmerelda]] gets distracted because her wagon was pulled into the woods
 	- So the party has to enter alone
 	- Either [[Rictavio|van Richten]] hid it for her or someone stole it and it blew up in the woods
+- elevator music in [[Music Compiled]]
 - van richten and Esmeralda tell the group that strahd has been straight up killed in battle before and just comes back
 	- He's actually immortal
 	- The answer to finally getting rid of him may be in the amber temple
@@ -12,5 +13,6 @@
 		- basically, if the party gets the info at the amber temple, just read the statblock to them
 - Tell them its going to be cold at the [[The Amber Temple (X)|Amber Temple]]
 - Polar bear gets free will back after 24 hours
+- [[Van Richten's Journal Entry]] is maybe in his room somewhere
 - Left out of [[Ezmerelda d'Avenir|Ezmerelda]]'s story, [[Rictavio|van Richten]] actually mercy-killed his son
 	- have [[Rictavio|van Richten]] tell this part

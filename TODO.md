@@ -19,7 +19,7 @@
 
 - Spotify playlist for strahd's final battle [[Music Compiled]]
 
-- What happened in [[Village of Krezk (S)|Krezk]] ([[Ezmerelda d'Avenir|Ezmerelda]] told them)
+- What happened in [[Village of Krezk (S)|Krezk]] ([[Ezmerelda d'Avenir|Ezmerelda]] told them already)
 	- At the [[Festival of the Blazing Sun]], a guard laughed and [[Vargas Vallakovich|Burgomaster Vallakovich]] had him tied to his horse and dragged behind
 	- An angry mob broke out
 		- everyone was on edge since the vampires attacked; the festivals didn't seem to work
