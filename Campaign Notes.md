@@ -220,6 +220,14 @@ The party shops at a quirky thrift store in Krezk before delivering wine for the
 
 ---
 
+### **Session 33 - Secrets of the Tower**
+
+[[Session Notes/Session 33|Session 33]]  
+The party reaches Van Richten’s Tower, solving puzzles, exploring its enchanted elevator, and uncovering shocking truths about Van Richten’s past. Tensions rise as they navigate the dynamics between Van Richten and Ezmerelda, while preparing for their perilous journey to the Amber Temple.
+
+---
+
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
