@@ -1,6 +1,6 @@
 ## Journey to the Tower
 
-The group sets off towards [[The Tower]] with [[Ezmerelda d'Avenir|Ezmerelda]]. On the hour-and-a-half journey, [[Shalooti]] ponders how she might tame her polar bear once her spell wears off.
+The group sets off towards [[Van Richten's Tower (V)|Van Richten's Tower]] with [[Ezmerelda d'Avenir|Ezmerelda]]. On the hour-and-a-half journey, [[Shalooti]] ponders how she might tame her polar bear once her spell wears off.
 
 [[Escher]] and [[Anakir]] hold hands for most of the journey.
 
@@ -66,3 +66,9 @@ From [[Rictavio|van Richten]] and [[Ezmerelda d'Avenir|Ezmerelda]], the party le
 - [[Strahd Von Zarovich|Strahd]] has actually been killed in a battle before, but he just came back to life a few days later
 - There must be a way to kill him for good
 	- The information is most likely housed at [[The Amber Temple (X)|The Amber Temple]]
+
+[[Quests#^c61da0|Quests]]
+![[Quests#^c61da0]]
+
+[[Quests#^d756ef|Quests]]
+![[Quests#^d756ef]]

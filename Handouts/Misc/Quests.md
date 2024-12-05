@@ -9,6 +9,7 @@ public: true
 	- [ ] Get stronger
 	- [ ] Get allies
 	- [ ] Get weapons/artifacts/knowledge
+	- [ ] [[Rictavio|Rudolph van Richten]] said the [[The Amber Temple (X)|Amber Temple]] may have knowledge on how to actually kill [[Strahd Von Zarovich|Strahd]] ^c61da0
 
 ## The Card Reading
 - [x] [[Tome of Strahd Handout|Tome of Strahd]]
@@ -28,8 +29,8 @@ public: true
 	- [ ] Talk to her about her mother
 
 ## Vallaki
-- [ ] Urwin asked for help with wine shipments from his father at the [[The Wizard of Wines (W)|Wizard of the Wines]]
-- [ ] [[Rictavio]] said, "If you find yourself in trouble, you can find refuge in the small lake"
+- [x] Urwin asked for help with wine shipments from his father at the [[The Wizard of Wines (W)|Wizard of the Wines]]
+- [x] [[Rictavio]] said, "If you find yourself in trouble, you can find refuge in the small lake" ^d756ef
 - [ ] [[Arabelle]] asked to be returned to her family
 - [ ] [[Izek Strazni|Izek]] asked [[Elora]] to meet [[Vargas Vallakovich|Vargas]]
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]
