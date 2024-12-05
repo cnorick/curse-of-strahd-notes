@@ -1,6 +1,5 @@
 ---
-public: false
-new_handout: true
+public: true
 ---
 
 ![[lake-baratok.jpg]]
