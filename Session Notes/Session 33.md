@@ -14,4 +14,12 @@ The party finally arrives at the lake. They see a small causeway leading over th
 
 ## Dancing at the Door
 
-[[Pelanil]] hesitates, but then takes off in [[Ezmerelda d'Avenir|Ezmerelda]]'s direction
+[[Pelanil]] hesitates, but then follows after [[Ezmerelda d'Avenir|Ezmerelda]]. The rest of the group heads towards the tower. [[Elora]] knocks on the door, but is blown backwards as the tower is consumed by blue lightning. From a distance, [[Elora]] more closely examines the door when she realizes the sign depicts a dance. [[Shalooti]] knows exactly what to do. She busts a move!
+
+![[Tower Door.jpg|300]]
+
+Once she finishes all the dance moves, the lightning stops and the door creaks open, revealing a small vestibule with lovely curtains ([[Bardolf]] snatches them immediately).
+
+## Inside the Tower
+
+[[Pelanil]] is skeptical of the tower, and casts a spell to heal the party
