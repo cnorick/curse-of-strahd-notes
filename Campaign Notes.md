@@ -67,7 +67,6 @@ Following their confrontation at the Old Bonegrinder, the party reflects on thei
 ### **Session 11 - The Tome of Strahd Unveiled**
 
 [[Session Notes/Session 11|Session 11]]
-
 The party arrives in Vallaki, where they encounter Rictavio and the locals at the Blue Water Inn. After a night of intrigue involving the Wachter brothers and a runaway tiger, Rictavio reveals his true identity as a spy and hands over the **Tome of Strahd**, providing vital insight into Strahd’s past and future plans.
 
 ---
@@ -75,7 +74,6 @@ The party arrives in Vallaki, where they encounter Rictavio and the locals at th
 ### **Session 12 - Orphanage of Possession**
 
 [[Session Notes/Session 12|Session 12]]
-
 After investigating the missing bones at St. Andral's Church, the party heads to the orphanage, where they discover that a demon has possessed one of the children. After an intense battle, the group successfully traps the demon, but not before uncovering several disturbing truths about Vallaki's vulnerabilities.
 
 ---
@@ -83,7 +81,6 @@ After investigating the missing bones at St. Andral's Church, the party heads to
 ### **Session 13 - Shadows in Vallaki**
 
 [[Session Notes/Session 13|Session 13]]
-
 The party uncovers the location of the stolen bones, leading them to a tense encounter with Henrik van der Voort at the coffin shop. Meanwhile, Pelanil and Bardolf disrupt an execution in the town square, creating chaos as they face off against Izek Strazni. Strahd’s influence looms as the party navigates these converging events.
 
 ---

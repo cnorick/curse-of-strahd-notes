@@ -24,5 +24,3 @@ dv.list(dv.pages('"Handouts/Letters"').sort(k => k.file.name).filter(k => k.new_
 dv.list(dv.pages('"Handouts/Maps"').sort(k => k.file.name).filter(k => k.new_handout).file.link)
 ```
 
-
-
