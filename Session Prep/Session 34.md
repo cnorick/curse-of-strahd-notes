@@ -1,3 +1,9 @@
+**Reminder: Reasons for going to the [[The Amber Temple (X)|Amber Temple]]:**
+- Looking for a sword from the card reading
+- [[Rictavio|van Richten]] says there may be knowledge there on how to kill [[Strahd Von Zarovich|Strahd]] for good
+- [[The Abbot]] says there may be knowledge there that can help him lure [[Tatyana]]'s soul into [[Vasilka]]'s body
+
+
 - [[Shalooti]]'s polar bear disappeared when walking through the antimagic field
 	- Make it reappear when she walks out
 	- and the spell she cast ends
@@ -7,3 +13,8 @@
 - [[Rictavio|van Richten]] and [[Ezmerelda d'Avenir|Ezmerelda]] will accompany the party to [[The Amber Temple (X)|The Amber Temple]]
 	- they'll bicker the entire time
 	- try to kill [[Ezmerelda d'Avenir|Ezmerelda]] because of [[Rictavio|van Richten]]'s curse
+
+
+- Wovles that [[Pelanil]] is wearing are stinking
+- ravens are following
+- road maybe covered by the snow

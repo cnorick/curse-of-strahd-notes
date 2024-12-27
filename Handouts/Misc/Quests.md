@@ -32,7 +32,8 @@ public: true
 - [x] Urwin asked for help with wine shipments from his father at the [[The Wizard of Wines (W)|Wizard of the Wines]]
 - [x] [[Rictavio]] said, "If you find yourself in trouble, you can find refuge in the small lake" ^d756ef
 - [ ] [[Arabelle]] asked to be returned to her family
-- [ ] [[Izek Strazni|Izek]] asked [[Elora]] to meet [[Vargas Vallakovich|Vargas]]
+- [x] [[Izek Strazni|Izek]] asked [[Elora]] to meet [[Vargas Vallakovich|Vargas]]
+	- [[Vargas Vallakovich|Vargas]] was hung in the streets
 - [ ] [[Fiona Wachter|Lady Wachter]] wants [[Anakir]] to join her in opposition to [[Vargas Vallakovich|The Burgomaster]]
 
 ## Argynvostholt
@@ -50,7 +51,7 @@ public: true
 
 ## Krezk
 - [x] Investigate intel from a Vampire Spy that [[Strahd Von Zarovich|Strahd]] took [[Ireena Kolyana|Ireena]] to [[The Abbot]] in [[Village of Krezk (S)|Krezk]] ^7970cb
-- [ ] Retrieve wine for the uncomfortably sober residents of [[Village of Krezk (S)|Krezk]] ^e0b68e
+- [x] Retrieve wine for the uncomfortably sober residents of [[Village of Krezk (S)|Krezk]] ^e0b68e
 - [ ] Look into the missing livestock issue ^ab0530
 	- [ ] Talk to [[Luka]]
 
