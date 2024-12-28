@@ -162,7 +162,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -204,7 +204,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -260,7 +260,7 @@
         "ac": 15,
         "currentAC": 15,
         "id": "ID_e86ba868ea4b",
-        "currentHP": 104,
+        "currentHP": 3,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -337,7 +337,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 3,
+    "round": 4,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
   },
