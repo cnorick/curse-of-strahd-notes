@@ -18,3 +18,6 @@
 - Wovles that [[Pelanil]] is wearing are stinking
 - ravens are following
 - road maybe covered by the snow
+- strahd in the middle of the bridge
+- nighttime now, it's getting dark
+- 
