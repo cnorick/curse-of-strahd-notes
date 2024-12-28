@@ -168,18 +168,21 @@
       },
       {
         "name": "Vrock",
+        "display": "Vrock with rope",
         "initiative": 5,
         "static": false,
         "modifier": 2,
-        "hp": 104,
-        "currentMaxHP": 104,
+        "hp": 95,
+        "currentMaxHP": 95,
         "cr": "6",
         "ac": 15,
         "currentAC": 15,
         "id": "ID_98fb4b9b7aaa",
-        "currentHP": 104,
+        "currentHP": 45,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Restrained"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -208,7 +211,7 @@
       },
       {
         "name": "Shalooti",
-        "initiative": 0,
+        "initiative": 16,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -222,12 +225,13 @@
         "enabled": true,
         "level": 9,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Anakir",
-        "initiative": 0,
+        "initiative": 12,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -241,12 +245,13 @@
         "enabled": true,
         "level": 9,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Elora",
-        "initiative": 0,
+        "initiative": 22,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -260,12 +265,13 @@
         "enabled": true,
         "level": 9,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Pelanil",
-        "initiative": 0,
+        "initiative": 23,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -279,6 +285,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -327,7 +334,7 @@
     ],
     "state": true,
     "name": null,
-    "round": 1,
+    "round": 2,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
   },
