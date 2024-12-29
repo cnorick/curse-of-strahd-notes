@@ -1,4 +1,4 @@
-**Reminder: Reasons for going to the [[The Amber Temple (X)|Amber Temple]]:**
+****Reminder: Reasons for going to the [[The Amber Temple (X)|Amber Temple]]:**
 - Looking for a sword from the card reading
 - [[Rictavio|van Richten]] says there may be knowledge there on how to kill [[Strahd Von Zarovich|Strahd]] for good
 - [[The Abbot]] says there may be knowledge there that can help him lure [[Tatyana]]'s soul into [[Vasilka]]'s body
