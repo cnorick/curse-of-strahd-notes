@@ -219,10 +219,15 @@ The party shops at a quirky thrift store in Krezk before delivering wine for the
 
 ### **Session 33 - Secrets of the Tower**
 
-[[Session Notes/Session 33|Session 33]]  
+[[Session Notes/Session 33|Session 33]]
 The party reaches Van Richten’s Tower, solving puzzles, exploring its enchanted elevator, and uncovering shocking truths about Van Richten’s past. Tensions rise as they navigate the dynamics between Van Richten and Ezmerelda, while preparing for their perilous journey to the Amber Temple.
 
 ---
+
+### **Session 34 - Into the Mountains**
+
+[[Session Notes/Session 34|Session 34]]
+The party leaves Van Richten’s tower, navigating treacherous mountain roads toward the Amber Temple. Along the way, they fend off wolves, face animated gargoyles at a portcullis gate, and spot a mysterious black-cloaked rider guarding a bridge ahead.
 
 
 ## Session Notes
