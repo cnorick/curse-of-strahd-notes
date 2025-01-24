@@ -148,7 +148,7 @@
     "creatures": [
       {
         "name": "Bardolf",
-        "initiative": 8,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -162,13 +162,13 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
       {
         "name": "Shalooti",
-        "initiative": 16,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -178,9 +178,7 @@
         "id": "ID_695ac8eab85a",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "Poisoned"
-        ],
+        "status": [],
         "enabled": true,
         "level": 9,
         "player": true,
@@ -190,7 +188,7 @@
       },
       {
         "name": "Anakir",
-        "initiative": 12,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -210,7 +208,7 @@
       },
       {
         "name": "Elora",
-        "initiative": 22,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -230,7 +228,7 @@
       },
       {
         "name": "Pelanil",
-        "initiative": 23,
+        "initiative": 0,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -259,7 +257,7 @@
         "ac": "17 (natural armor)",
         "currentAC": "17 (natural armor)",
         "path": "Custom Monsters/Arcanaloth.md",
-        "id": "ID_980a081be9cb",
+        "id": "ID_fb798b587a2b",
         "currentHP": 104,
         "tempHP": 0,
         "status": [],
@@ -272,7 +270,7 @@
       },
       {
         "name": "Flameskull",
-        "initiative": 11,
+        "initiative": 12,
         "static": false,
         "modifier": 3,
         "hp": 40,
@@ -280,7 +278,7 @@
         "cr": "4",
         "ac": 13,
         "currentAC": 13,
-        "id": "ID_7b582b584919",
+        "id": "ID_48b8e98afbf9",
         "currentHP": 40,
         "tempHP": 0,
         "status": [],
@@ -293,7 +291,7 @@
       },
       {
         "name": "Flameskull",
-        "initiative": 16,
+        "initiative": 13,
         "static": false,
         "modifier": 3,
         "hp": 40,
@@ -301,7 +299,7 @@
         "cr": "4",
         "ac": 13,
         "currentAC": 13,
-        "id": "ID_3a78e9f9d879",
+        "id": "ID_28e919aa19a8",
         "currentHP": 40,
         "tempHP": 0,
         "status": [],
@@ -314,7 +312,7 @@
       },
       {
         "name": "Flameskull",
-        "initiative": 10,
+        "initiative": 14,
         "static": false,
         "modifier": 3,
         "hp": 40,
@@ -322,7 +320,7 @@
         "cr": "4",
         "ac": 13,
         "currentAC": 13,
-        "id": "ID_e82ae99bf858",
+        "id": "ID_c80a989a9bab",
         "currentHP": 40,
         "tempHP": 0,
         "status": [],
@@ -335,7 +333,7 @@
       }
     ],
     "state": false,
-    "name": "Encounter",
+    "name": "Statue Fireballs",
     "round": 1,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
@@ -499,7 +497,7 @@
     "party": true,
     "status": true,
     "plugin": true,
-    "player": false,
+    "player": true,
     "builder": true
   },
   "hpOverflow": "ignore",
@@ -510,7 +508,7 @@
   "useLegacy": false,
   "diplayPlayerHPValues": true,
   "rollHP": false,
-  "descending": true,
+  "descending": false,
   "builder": {
     "showParty": true,
     "showXP": false,
@@ -661,5 +659,5 @@
       ]
     }
   },
-  "rollPlayerInitiatives": 1
+  "rollPlayerInitiatives": 2
 }
