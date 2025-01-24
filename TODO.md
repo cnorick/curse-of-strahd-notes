@@ -1,6 +1,3 @@
-- Tell them how to kill [[Strahd Von Zarovich|Strahd]] in the [[The Amber Temple (X)|Amber Temple]] library
-	- Once he is killed, he turns to mist and returns to his coffin where he regenerates
-	- There, they 
 - Don't forget the [[Mad Mage of Mount Baratok|Mad Mage]] - He should come flying in somewhere drunk off his ass
 	- he stole a broom from a Barovian Witch
 	- He has a flask in his hand, and he flies around the party ranting about how "it's time" to fight Strahd
