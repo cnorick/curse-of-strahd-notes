@@ -1,7 +1,16 @@
 
+[[Music Compiled#^020a95|Amber Temple Theme]]
+[[Music Compiled#^f181ce|Amber Temple Ambience]]
+
 - strahd in the middle of the bridge
 - nighttime now, it's getting dark
 - [[Ezmerelda d'Avenir|Ezmerelda]] and [[Rictavio]] stay outside to fight wolves? Snow caves everyone in?
+	- The guardian can dig them out
+
+- [[The Amber Temple (X)|Amber Temple]] reminders:
+	- [[Extreme Cold]] 
+	- [[Darkvision]] limited to only 20 feet
+	- [[Neferon]] attacks as soon as they walk down the stairs
 
 - Tell them how to kill [[Strahd Von Zarovich|Strahd]] in the [[The Amber Temple (X)|Amber Temple]] library
 	- Once he is killed, he turns to mist and returns to his coffin where he regenerates

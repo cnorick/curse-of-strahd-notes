@@ -8,6 +8,9 @@ Elevator Music
 https://www.youtube.com/watch?v=VBlFHuCzPgY
 ![](https://www.youtube.com/watch?v=VBlFHuCzPgY)
 
+Amber Temple Ambiance
+[https://www.youtube.com/watch?v=belNFSYIWxM](https://www.youtube.com/watch?v=belNFSYIWxM)
+![https://www.youtube.com/watch?v=belNFSYIWxM](https://www.youtube.com/watch?v=belNFSYIWxM) ^f181ce
 
 Introduction - Into the Mists
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 001 Introduction [uLpRctqGTWw].m4a#loop]]
@@ -40,7 +43,7 @@ The Creeping Hut (Baba Lysaga Theme) - Into the Mists
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 010 The Creeping Hut [uLpRctqGTWw].m4a#loop]]
 
 Dark Vestiges (Amber Temple Theme) - Into the Mists
-![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 011 Dark Vestiges [uLpRctqGTWw].m4a#loop]]
+![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 011 Dark Vestiges [uLpRctqGTWw].m4a#loop]] ^020a95
 
 Glimmer of Hope (Sunsword Theme) - Into the Mists
 ![[Into The Mists - An Epic Curse Of Strahd Soundtrack By Travis Savoie - 012 Glimmer Of Hope [uLpRctqGTWw].m4a#loop]]
