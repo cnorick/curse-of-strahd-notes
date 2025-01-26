@@ -218,9 +218,7 @@
         "id": "ID_2a384a596a78",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "hidden"
-        ],
+        "status": [],
         "enabled": true,
         "level": 9,
         "player": true,
@@ -240,13 +238,11 @@
         "id": "ID_99fa5b0be828",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "hidden"
-        ],
+        "status": [],
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -262,11 +258,13 @@
         "currentAC": "17 (natural armor)",
         "path": "Custom Monsters/Arcanaloth.md",
         "id": "ID_5b2948ba49b9",
-        "currentHP": 67,
+        "currentHP": 20,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Grappled"
+        ],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "hit_dice": "16d8 + 32",
@@ -349,7 +347,9 @@
         "id": "ID_7b1a49e93aca",
         "currentHP": 26,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "shield"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
