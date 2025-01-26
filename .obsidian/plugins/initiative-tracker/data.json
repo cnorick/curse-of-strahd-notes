@@ -162,7 +162,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -182,7 +182,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -368,9 +368,11 @@
         "currentAC": 12,
         "path": "Custom Monsters/Rictavio Statblock.md",
         "id": "ID_e85afb88c8ab",
-        "currentHP": 77,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
