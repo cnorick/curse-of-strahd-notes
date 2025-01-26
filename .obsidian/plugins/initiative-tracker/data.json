@@ -260,9 +260,7 @@
         "id": "ID_5b2948ba49b9",
         "currentHP": 20,
         "tempHP": 0,
-        "status": [
-          "Grappled"
-        ],
+        "status": [],
         "enabled": true,
         "active": true,
         "hidden": false,
