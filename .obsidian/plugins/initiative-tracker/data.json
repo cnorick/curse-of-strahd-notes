@@ -162,7 +162,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -202,7 +202,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -238,7 +238,9 @@
         "id": "ID_99fa5b0be828",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "hidden"
+        ],
         "enabled": true,
         "level": 9,
         "player": true,
@@ -376,7 +378,7 @@
     ],
     "state": true,
     "name": "Statue Fireballs",
-    "round": 1,
+    "round": 2,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
   },
