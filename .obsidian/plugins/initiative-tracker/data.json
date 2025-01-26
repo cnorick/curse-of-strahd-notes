@@ -162,7 +162,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -202,7 +202,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -347,7 +347,7 @@
         "currentAC": 17,
         "path": "Custom Monsters/Ezmerelda Statblock.md",
         "id": "ID_7b1a49e93aca",
-        "currentHP": 53,
+        "currentHP": 26,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -380,7 +380,7 @@
     ],
     "state": true,
     "name": "Statue Fireballs",
-    "round": 2,
+    "round": 3,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
   },
