@@ -35,6 +35,7 @@ End of session:
 - Flameskull 3 is in the cloud of daggers, preferring continuing to attack instead of moving out of it
 - Shalooti is just south of the flameskull hall
 	- I put them on the wrong side
+	- She just walked into the other guard room
 - Elora is in the head of the statue with Neferon
 - Rictavio is down on the balcony
 	- 1 failed death save
@@ -45,6 +46,7 @@ End of session:
 - Ezmerelda cast shield on herself
 - See paper for number of remaining spells per enemy
 - Bardolf found both hidden doors behind the statue
+
 
 
 ---

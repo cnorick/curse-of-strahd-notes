@@ -1,5 +1,5 @@
 ---
-aliases: [Heinrich Stolt, Heinrich]
+aliases: [Heinrich Stolt, Heinrich, The Furry]
 ---
 (NE Arcanaloth)
 ![[neferon.webp|400]]
