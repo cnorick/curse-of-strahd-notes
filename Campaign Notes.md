@@ -229,6 +229,12 @@ The party reaches Van Richten’s Tower, solving puzzles, exploring its enchante
 [[Session Notes/Session 34|Session 34]]
 The party leaves Van Richten’s tower, navigating treacherous mountain roads toward the Amber Temple. Along the way, they fend off wolves, face animated gargoyles at a portcullis gate, and spot a mysterious black-cloaked rider guarding a bridge ahead.
 
+---
+### **Session 35 - Fire and Foxes**
+
+[[Session Notes/Session 35|Session 35]]
+The party rests in a guard tower near Tsolenka Pass, hearing tales of the Roc of Mount Ghakis. At the Amber Temple, they battle flaming statues, uncover secret passages, and encounter a mysterious fox-like creature hiding inside the colossal statue’s chest, leading to a chaotic clash.
+
 
 ## Session Notes
 ```dataviewjs
