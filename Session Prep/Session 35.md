@@ -29,6 +29,24 @@
 		- the caster must be able to see Vampyr for each roll. They can't be in a different room or casting blindly in darkness. They've got to see the beast to imprison it.
 		- And lastly, the ritual requires a chip of amber as a component.
 
+End of session: 
+- Neferon just finished his turn putting out fire
+	- have him to ask what the party wants
+- Flameskull 3 is in the cloud of daggers, preferring continuing to attack instead of moving out of it
+- Shalooti is just south of the flameskull hall
+	- I put them on the wrong side
+- Elora is in the head of the statue with Neferon
+- Rictavio is down on the balcony
+	- 1 failed death save
+- Ezmerelda is hiding in the hallway
+- Bardolf just piledrived Neferon right after Pelinal
+- Metarlos is dead
+- The room is lit by Bardolf's stone
+- Ezmerelda cast shield on herself
+- See paper for number of remaining spells per enemy
+- Bardolf found both hidden doors behind the statue
+
+
 ---
 
 ```encounter
