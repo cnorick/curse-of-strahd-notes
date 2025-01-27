@@ -1,3 +1,7 @@
+- Sarah want to betray the party
+	- She needs to communicate with [[Strahd Von Zarovich|Strahd]] that she is willing
+	- He'll have someone drop the sword mid-battle, and she'll go pick it up to take his side
+	- He has [[Scrying]] abilities with [[Elora]] because he got a lock of her hair
 - Don't forget the [[Mad Mage of Mount Baratok|Mad Mage]] - He should come flying in somewhere drunk off his ass
 	- he stole a broom from a Barovian Witch
 	- He has a flask in his hand, and he flies around the party ranting about how "it's time" to fight Strahd
