@@ -28,7 +28,7 @@ Investigating the front, the party gets the sense that this temple was not built
 
 [[Elora]], [[Pelanil]], and [[Bardolf]] climb the spiral stairs inside the statue, then ascend a ladder to a trapdoor. On the other side, they are surprised to find a small kitchenette within the chest cavity of the statue. The kitchen seems to run on magic, and the nooks and crannies are stuffed with books and scrolls.
 
-[[Anakir]] lobs another fireball into the statue head that destroys the trapdoor that [[Bardolf]] has already weakened. [[Elora]], [[Pelanil]], and [[Bardolf]] ascending another floor entering a sitting room in the head of the statue. A magical darkness obscures the area facing the the main floor of the temple. Out of the darkness runs a medium-sized fox-looking lil guy. He rushes over to his burning books and works to snuff out the flame.
+[[Anakir]] lobs another fireball into the statue head that destroys the trapdoor that [[Bardolf]] has already weakened. [[Elora]], [[Pelanil]], and [[Bardolf]] ascend another floor, entering a sitting room in the head of the statue. A magical darkness obscures the area facing the the main floor of the temple. Out of the darkness runs a medium-sized fox-looking lil guy. He rushes over to his burning books and works to snuff out the flame.
 
 [[Pelanil]] and [[Elora]] pelt him with attacks, and [[Pelanil]] bodyslams him out of the statue onto the floor 40 feet below. [[Bardolf]] follows close behind with an elbow off the top rope.
 
