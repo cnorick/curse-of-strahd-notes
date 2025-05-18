@@ -1,4 +1,4 @@
-- Sarah want to betray the party
+- Sarah wants to betray the party
 	- She needs to communicate with [[Strahd Von Zarovich|Strahd]] that she is willing
 	- He'll have someone drop the sword mid-battle, and she'll go pick it up to take his side
 	- He has [[Scrying]] abilities with [[Elora]] because he got a lock of her hair
@@ -7,8 +7,6 @@
 	- He has a flask in his hand, and he flies around the party ranting about how "it's time" to fight Strahd
 - Put a sarcophagus in the amber temple for [[Menigal, the Departed|Menigal]], but maybe it's open already?
 	- Someone else came and let him into the mists
-- Ezmerelda says she needs a moment before seeing her mentor again
-	- and sneaks away as the group enters
 - Ismark:
 	- would probably have gotten worried after a few days of not hearing back
 	- would have sent someone to [[Village of Krezk (S)|Krezk]] to check on [[Ireena Kolyana|Ireena]]
