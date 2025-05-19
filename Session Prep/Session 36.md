@@ -1,6 +1,8 @@
 
 [[Music Compiled#^020a95|Amber Temple Theme]]
 [[Music Compiled#^f181ce|Amber Temple Ambience]]
+Week of 5/26: https://meetingbrew.com/strahd-5-26
+Week of 6/2: https://meetingbrew.com/lpd874
 
 - [[The Amber Temple (X)|Amber Temple]] reminders:
 	- [[Extreme Cold]] 
