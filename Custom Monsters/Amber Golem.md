@@ -1,4 +1,4 @@
----
+****---
 statblock: true
 name: Amber Golem
 extends: Stone Golem
