@@ -8,10 +8,15 @@
 	- [[Neferon]] attacks as soon as they walk down the stairs
 	- [[Exethanter]] meets them inside the safe area
 
+- [[Exethanter]] of course knows how to deal with the [[Dark Powers]] since he trapped them all in amber centuries ago
+	- "Of course, Strahd is not who you're looking to defeat"
+
+**How To Deal with the Dark Powers**
 - Tell them how to kill [[Strahd Von Zarovich|Strahd]] in the [[The Amber Temple (X)|Amber Temple]] library
 	- Once he is killed, he turns to mist and returns to his coffin where he regenerates
 	- There, they have to perform a ritual to either:
-		- summon the link to [[Vampyr]] and sever it
+		- ~summon the link to [[Vampyr]] and sever it~
+			- go ahead and do the harder one
 		- summon [[Vampyr]] himself
 			- then either:
 				- kill [[Vampyr]]
@@ -25,7 +30,7 @@
 		- the caster must be able to see Vampyr for each roll. They can't be in a different room or casting blindly in darkness. They've got to see the beast to imprison it.
 		- And lastly, the ritual requires a chip of amber as a component.
 
-End of session: 
+End of last session: 
 - Neferon just finished his turn putting out fire
 	- have him to ask what the party wants
 - Flameskull 3 is in the cloud of daggers, preferring continuing to attack instead of moving out of it
