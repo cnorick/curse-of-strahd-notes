@@ -1,0 +1,5 @@
+- a [[Dark Powers|Dark Power]]
+- uses/used [[Exethanter]] as a champion
+- takes souls by collecting mortals' true names
+	- true name includes what title/nickname/role _everyone_ who knows you knows you as
+- seeks out champions that are obsessed with knowledge and terrified of death

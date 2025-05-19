@@ -6,6 +6,7 @@
 	- [[Extreme Cold]] 
 	- [[Darkvision]] limited to only 20 feet
 	- [[Neferon]] attacks as soon as they walk down the stairs
+	- [[Exethanter]] meets them inside the safe area
 
 - Tell them how to kill [[Strahd Von Zarovich|Strahd]] in the [[The Amber Temple (X)|Amber Temple]] library
 	- Once he is killed, he turns to mist and returns to his coffin where he regenerates

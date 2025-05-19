@@ -2,6 +2,8 @@
 aliases: [Menigal]
 ---
 
+a [[Dark Powers|Dark Power]]
+
 **NAME: Menigal, the Departed**
 
 THEME: Menigal’s appearance is that of the Grim Reaper, the harbinger of death. Menigal though cares little for those who die of natural causes but instead feeds on those who died unnaturally (combat, magic, etc). However, for part of their soul, Menigal may spare someone’s life who died unnaturally in exchange for future favors---specifically, that they assist in creating situations where more people untimely die.

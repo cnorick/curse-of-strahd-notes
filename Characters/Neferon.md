@@ -1,11 +1,21 @@
 ---
 aliases: [Heinrich Stolt, Heinrich, The Furry]
 ---
-(NE Arcanaloth)
+(LG Arcanaloth)
 ![[neferon.webp|400]]
 ## Playing Neferon
+- Really smart: use a bunch of big words
+	- sound like a nerd
+- 
 
 ## History/Info
+- Yugoloths are evil fiend bug men that use Arcanaloths as scribes
+- Neferon is a dimension wanderer
+- Learned of the Dark Powers and what the wizards who built this temple were doing to trap them
+- Decided to join, and helped build the temple
+- Left, then centuries later, came back to see it in its current state
+	- the wizards corrupted, and the Dark Powers freed
+---
 
 - Hangs out inside the head of the statue in the [[The Amber Temple (X)|Amber Temple]]
 - Attacks characters on sight with the longer-ranged spells
@@ -28,9 +38,13 @@ aliases: [Heinrich Stolt, Heinrich, The Furry]
 - The arcanaloth will not, under any circumstances, leave the Amber Temple
 
 ## What They Want
+- To protect the [[The Amber Temple (X)|Amber Temple]] at all costs
 
 ## What They Know
 [[Barovian Lore]]
+- Was friends with [[Exethanter]]
+	- knows his real name, but won't say it
+	- knows why [[Exethanter]] can't know his name
 
 ## Relations
 
