@@ -182,7 +182,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -222,7 +222,7 @@
         "enabled": true,
         "level": 9,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -279,7 +279,7 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_aab9faeb79a9",
-        "currentHP": 40,
+        "currentHP": 20,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -300,7 +300,7 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_8a69a80b089a",
-        "currentHP": 40,
+        "currentHP": 27,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -321,7 +321,7 @@
         "ac": 13,
         "currentAC": 13,
         "id": "ID_399b68d89a39",
-        "currentHP": 32,
+        "currentHP": 12,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -345,9 +345,7 @@
         "id": "ID_7b1a49e93aca",
         "currentHP": 26,
         "tempHP": 0,
-        "status": [
-          "shield"
-        ],
+        "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -368,9 +366,7 @@
         "id": "ID_e85afb88c8ab",
         "currentHP": 0,
         "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
+        "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -380,7 +376,7 @@
     ],
     "state": true,
     "name": "Statue Fireballs",
-    "round": 4,
+    "round": 5,
     "logFile": "Battles/1735342580606 - Combat.md",
     "rollHP": false
   },
