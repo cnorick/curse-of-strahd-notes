@@ -794,7 +794,7 @@ See [[#X41. Fissure]] for a description of the cracks in the south wall.
 
 Six piles of treasure are numbered on the map.
 
-**Pile 1**
+**Pile 1** [[Escher]]
 
 - 17,500 cp (loose)
 - Thirty 50 gp gemstones
@@ -802,7 +802,7 @@ Six piles of treasure are numbered on the map.
 - Nine rusted shields (worthless)
 - A child-sized sarcophagus made of black wood inlaid with gold (worth 250 gp)
 
-**Pile 2**
+**Pile 2** [[Pelanil]]
 
 - 12,000 sp (loose)
 - Five rusted suits of ring mail and six rusted breastplates (worthless)
@@ -810,7 +810,7 @@ Six piles of treasure are numbered on the map.
 - Four rusted greatswords (worthless)
 - A gilded chariot (worth 750 gp)
 
-**Pile 3**
+**Pile 3** [[Anakir]]
 
 - 6,600 ep (loose), each coin stamped with the profiled visage of Strahd
 - Seventy-five empty bottles
@@ -818,7 +818,7 @@ Six piles of treasure are numbered on the map.
 - Ten pieces of jewelry (worth 250 gp each) and 500 gp in a rotted wooden chest
 - Eight painted ceramic statues of saints (worth 250 gp each and weighing 50 pounds each)
 
-**Pile 4**
+**Pile 4** [[Shalooti]]
 
 - A pile of iron ingots (worth 250 gp total and weighing 2,500 pounds)
 - Thirty holy symbols (worth 5 gp each) of gods from various worlds
@@ -826,7 +826,7 @@ Six piles of treasure are numbered on the map.
 - A gilded skull with red garnets in its eye sockets (worth 250 gp)
 - Eight warhammers and six war picks
 
-**Pile 5**
+**Pile 5** [[Elora]]
 
 - 9,000 sp (loose)
 - Six nonmagical crystal balls (worth 20 gp each)
@@ -834,7 +834,7 @@ Six piles of treasure are numbered on the map.
 - A life-sized wooden pony (worth 25 gp)
 - Six marble vases (worth 100 gp each and weighing 100 pounds apiece)
 
-**Pile 6**
+**Pile 6** [[Bardolf]]
 
 - 7,000 wooden coins painted gold (worthless)
 - 15,000 cp in fifteen iron pots
@@ -894,7 +894,7 @@ Construction of the phylactery takes 10 days. Concocting the potion takes 3 days
 
 The beneficiary of this dark gift gains the following flaw: "All I care about is acquiring new magic and arcane knowledge."
 
-#### `East Sarcophagus. 
+#### East Sarcophagus.
 
 The vestige within this sarcophagus offers the dark gift of Zhudun, the Corpse Star. Zhudun's gift is the power to raise the ancient dead. As an action, the beneficiary of this dark gift can touch the remains of a dead creature and restore it to life. The effect is identical to that of the [[Resurrection]] spell, except that it works regardless of how long the creature has been dead. After it has been used once, the dark gift vanishes.
 
