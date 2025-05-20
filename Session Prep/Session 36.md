@@ -52,60 +52,51 @@ End of last session:
 
 
 
+```encounter-table
+name: Roc of Mount Ghakis
+party:  MD&D
+creatures:
+  - Roc
+  - 1:Wolf
+  - Ezmerelda d'Avenir, ally
+  - Rictavio, ally
+  
 ---
 
-```encounter
 name: Mountain Folk
 party:  MD&D
 creatures:
   - Gladiator
   - 5: Berserker
   - Dire Wolf
-```
-
+  
 ---
 
-```encounter
-name: Statue Fireballs
-party: MD&D
-creatures:
-  - Arcanaloth
-  - 3: Flameskull
-```
-
----
-
-```encounter
 name: Golem
 party: MD&D
 creatures:
   - Amber Golem
-```
 
 ---
 
-```encounter
 name: Offalia
 party:  MD&D
 creatures:
   #- Morgantha
   - Night Hag with Inline Spells
-```
 
 ---
 
-```encounter
 name: Green Ewer
 party:  MD&D
 creatures:
   - 7: Specter
-```
 
 ---
 
-```encounter
 name: Exethanter
 party:  MD&D
 creatures:
   - Exethanter
+
 ```

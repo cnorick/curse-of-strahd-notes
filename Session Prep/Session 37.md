@@ -10,61 +10,62 @@ Week of 6/2: https://meetingbrew.com/lpd874
 - [[Exethanter]] of course knows how to deal with the [[Dark Powers]] since he trapped them all in amber centuries ago
 	- "Of course, Strahd is not who you're looking to defeat"
 
+- [[Mad Mage of Mount Baratok|Mad Mage]] should come to the rescue, drunk off his ass
+- Plz kill [[Ezmerelda d'Avenir|Ezmerelda]]
+- Wolves will be waiting at the bridge
+	- the [[Roc of Mount Ghakis]] will fly in and carry off [[Ezmerelda d'Avenir|Ezmerelda]]
 
+
+```encounter-table
+name: Roc of Mount Ghakis
+party:  MD&D
+creatures:
+  - Roc, hidden
+  - 3:Wolf
+  - Dire Wolf, hidden
+  
 ---
 
-```encounter
 name: Mountain Folk
 party:  MD&D
 creatures:
   - Gladiator
   - 5: Berserker
   - Dire Wolf
-```
-
+  
 ---
 
-```encounter
-name: Statue Fireballs
-party: MD&D
-creatures:
-  - Arcanaloth
-  - 3: Flameskull
-```
-
----
-
-```encounter
 name: Golem
 party: MD&D
 creatures:
   - Amber Golem
-```
 
 ---
 
-```encounter
 name: Offalia
 party:  MD&D
 creatures:
   #- Morgantha
   - Night Hag with Inline Spells
-```
 
 ---
 
-```encounter
 name: Green Ewer
 party:  MD&D
 creatures:
   - 7: Specter
-```
 
 ---
 
-```encounter
 name: Exethanter
 party:  MD&D
 creatures:
   - Exethanter
+
+---
+
+name: All Allies
+creatures:
+  - Ezmerelda d'Avenir, ally
+  - Rictavio, ally
 ```

@@ -2,6 +2,7 @@
 pc: true
 player: Sarah
 site: ""
+level: 10
 ---
 
 ```dataview
