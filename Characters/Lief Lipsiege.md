@@ -28,7 +28,7 @@ aliases: [Leif]
 ## What They Know
 [[Barovian Lore]]
 - Location of Treasure:
-	- he knows that the [[Sunsword]] is in [[The Amber Temple (X)|The Amber Temple]]
+	- he knows that the [[Misc/Campaign Items/Sunsword]] is in [[The Amber Temple (X)|The Amber Temple]]
 	- He would tell the players only if they are nice to him
 
 ## Relations

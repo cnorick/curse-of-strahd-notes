@@ -9,14 +9,14 @@ public: true
 	- [ ] Get stronger
 	- [ ] Get allies
 	- [ ] Get weapons/artifacts/knowledge
-	- [ ] [[Rictavio|Rudolph van Richten]] said the [[The Amber Temple (X)|Amber Temple]] may have knowledge on how to actually kill [[Strahd Von Zarovich|Strahd]] ^c61da0
+	- [x] [[Rictavio|Rudolph van Richten]] said the [[The Amber Temple (X)|Amber Temple]] may have knowledge on how to actually kill [[Strahd Von Zarovich|Strahd]] ^c61da0
 
 ## The Card Reading
 - [x] [[Tome of Strahd Handout|Tome of Strahd]]
 - [x] Holy Symbol
 	- This card tells of a powerful force for good and protection, a holy symbol of great hope. The treasure lies in a dragon's house, in hands once clean and now corrupted.
 	- [x] Go look for it at [[Argynvostholt (Q)|Argynvostholt]]
-- [ ] Sword of Sunlight
+- [x] Sword of Sunlight ^b7cc3f
 	- This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight. What you seek lies in a pile of treasure, beyond a set of amber doors
 	- We've heard this is in the [[The Amber Temple (X)|Amber Temple]], but everyone has warned against going just yet
 - [x] Your Ally, [[Mad Mage of Mount Baratok|Mordenkainen]]

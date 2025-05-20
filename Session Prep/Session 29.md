@@ -48,7 +48,7 @@
 
 >"I knew you were different, Elora. You have made a wise choice, one that will set you apart from the others. With my guidance, you will uncover secrets and gain strength that your companions could never imagine."
 
-- Ask [[Elora]] to find the [[Sunsword]] and bring it back to him
+- Ask [[Elora]] to find the [[Misc/Campaign Items/Sunsword]] and bring it back to him
 - If she doesn't care about betrayal:
 	- spy on the party for him
 	- sabotage the party's efforts

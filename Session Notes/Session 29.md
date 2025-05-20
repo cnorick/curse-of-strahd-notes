@@ -37,9 +37,9 @@ There, she found [[Strahd Von Zarovich|Strahd]] sitting on her bed. He asked her
 
 >Elora, you intrigue me. Unlike the others, you do not shy away from the darkness, but rather seek to understand it. That is a rare quality, one I respect deeply. You are not like the others. You see beyond the veil of fear that blinds them. You seek knowledge, truth... perhaps even power. I could help you find all three.
 
-[[Strahd Von Zarovich|Strahd]] told her that he didn't request full betrayal of her friends, but that sometimes, the good of the many requires the sacrifice from the few. He recognized that the party was searching for the [[Sunsword]], and that their finding it could spell ruin for his kingdom.
+[[Strahd Von Zarovich|Strahd]] told her that he didn't request full betrayal of her friends, but that sometimes, the good of the many requires the sacrifice from the few. He recognized that the party was searching for the [[Misc/Campaign Items/Sunsword]], and that their finding it could spell ruin for his kingdom.
 
-What he had to offer [[Elora]] was a partnership: if she was willing to do one small task for him (namely, retrieve the [[Sunsword]] for him before her friends were able to do it), then he would make her Queen Consort to rule Barovia alongside him.
+What he had to offer [[Elora]] was a partnership: if she was willing to do one small task for him (namely, retrieve the [[Misc/Campaign Items/Sunsword]] for him before her friends were able to do it), then he would make her Queen Consort to rule Barovia alongside him.
 
 Seeing the indecision on her face, [[Strahd Von Zarovich|Strahd]] told [[Elora]] to sleep on it, and to get word to him of her decision.
 

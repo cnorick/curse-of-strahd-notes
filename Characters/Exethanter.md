@@ -1,5 +1,6 @@
 ---
-aliases: []
+aliases:
+  - The Lich
 ---
 (NE Lich)
 ![[Exethanter.jpeg|200]]

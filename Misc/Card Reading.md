@@ -14,7 +14,7 @@
 
 >The treasure lies in a dragon's house, in hands once clean and now corrupted.
 
-## 3. [[Sunsword]]
+## 3. [[Misc/Campaign Items/Sunsword]]
 >This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight
 
 **Card**: 8 of Glyphs -- Bishop
