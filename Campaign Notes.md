@@ -230,11 +230,20 @@ The party reaches Van Richten’s Tower, solving puzzles, exploring its enchante
 The party leaves Van Richten’s tower, navigating treacherous mountain roads toward the Amber Temple. Along the way, they fend off wolves, face animated gargoyles at a portcullis gate, and spot a mysterious black-cloaked rider guarding a bridge ahead.
 
 ---
+
 ### **Session 35 - Fire and Foxes**
 
 [[Session Notes/Session 35|Session 35]]
 The party rests in a guard tower near Tsolenka Pass, hearing tales of the Roc of Mount Ghakis. At the Amber Temple, they battle flaming statues, uncover secret passages, and encounter a mysterious fox-like creature hiding inside the colossal statue’s chest, leading to a chaotic clash.
 
+---
+
+### **Session 36 - Tea, Tomes, and Treasure**
+
+[[Session Notes/Session 36|Session 36]]
+The party meets Neferon, a forgetful arcanaloth who warns them away from the dark powers sealed in the Amber Temple. After tea and cryptic insights, they uncover an ancient library guarded by a lich and finally recover the Sunsword from a vast trove of treasure.
+
+---
 
 ## Session Notes
 ```dataviewjs
