@@ -1,5 +1,6 @@
 Week of 5/26: https://meetingbrew.com/strahd-5-26
 Week of 6/2: https://meetingbrew.com/lpd874
+Week of 6/8: https://www.meetingbrew.com/l7anuo
 
 ## Amber Temple
 - [[The Amber Temple (X)|Amber Temple]] reminders:
