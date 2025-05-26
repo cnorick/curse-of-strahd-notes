@@ -30,3 +30,14 @@ d12+d8	Encounter
 18	1 Barovian witch
 19	1d4+1 vampire spawn
 20	Strahd von Zarovich
+
+
+## K78 Changes
+
+- _Violet leads to the mountain spire._ Tsolenka Pass
+- _Orange to the castle's peak._ Ravenloft spire K60
+- _Red if lore is what you seek._ The great library in the Amber Temple.
+- _Green to where the coffins hide._ Coffin maker's shop (chapter 5, [area N6f](https://longo.com.br/5e/adventure.html#cos,5,n6f.%20vampire%20nest))
+- _Indigo to the master's bride._ Marina's Shrine/grave in Berez.
+- _Blue to ancient magic's womb._ Yesterhill, standing before the Gulthias Tree.
+- _Yellow to the master's tomb._ Strahd's tomb **K86**
