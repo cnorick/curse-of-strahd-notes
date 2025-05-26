@@ -83,6 +83,10 @@ traits:
       - Stake to the Heart: If a piercing weapon made of wood is driven into his heart while he is incapacitated in his coffin, he is paralyzed until the stake is removed.
 
       - Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
+  - name: Magic Weapons
+    desc: Strahd's attacks are considered magical for the sake of overcoming resistances.
+  - name: Unholy Persistence
+    desc: Strahd is immune to effects that turn undead.
 actions:
   - name: Multiattack (Vampire Form Only)
     desc: Strahd makes two attacks, only one of which can be a bite attack.
