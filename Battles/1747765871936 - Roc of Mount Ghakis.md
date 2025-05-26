@@ -28,3 +28,10 @@
 ##### Wolf's turn
 ##### Bardolf's turn
 ##### Wolf's turn
+Ezmerelda d'Avenir and Rictavio added to the combat.
+Escher, Vampire Consort added to the combat.
+Escher, Vampire Consort initiative changed to 19
+Shalooti initiative changed to 23
+Bardolf initiative changed to 15
+Anakir initiative changed to 9
+Pelanil initiative changed to 24
