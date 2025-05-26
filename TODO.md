@@ -1,3 +1,5 @@
+- Up [[Strahd Von Zarovich|Strahd]]'s stats so that he's harder; read Mandy Mod and some of the other guides
+	- if he's harder, then [[Elora]] stands a good chance of actually being able to help him
 - Sarah wants to betray the party
 	- She needs to communicate with [[Strahd Von Zarovich|Strahd]] that she is willing
 	- He'll have someone drop the sword mid-battle, and she'll go pick it up to take his side
