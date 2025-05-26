@@ -91,6 +91,9 @@ actions:
       slashing damage, plus 14 (4d6) necrotic damage. If the target is a
       creature, Strahd can grapple it (escape 18) instead of dealing the
       slashing damage.
+  - name: Shortsword
+    desc: Melee Weapon Attack +9 to hit, reach 5 ft., one target. 8 (1d8 + 4)
+      slashing damage, plus 14 (4d6) slashing damage. Strahd prefers a sword earlier in the final battle. It is mechanically the same as his unarmed strike.
   - name: Bite
     desc: Melee Weapon Attack +9 to hit, reach 5 ft., one willing creature, or a
       creature that is grappled by Strahd, incapacitated, or restrained. 7 (1d6

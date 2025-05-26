@@ -83,6 +83,7 @@ The effect of the protection afforded by the Heart of Sorrow can be chilling to 
 The ability of the Heart of Sorrow to absorb damage is suppressed if it or Strahd is fully within an *antimagic field*.
 
 
+
 ```statblock
 monster: Strahd von Zarovich
 ```
