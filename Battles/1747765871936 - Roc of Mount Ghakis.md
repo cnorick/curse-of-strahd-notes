@@ -35,3 +35,7 @@ Shalooti initiative changed to 23
 Bardolf initiative changed to 15
 Anakir initiative changed to 9
 Pelanil initiative changed to 24
+Roc initiative changed to 12
+Wolf 2 took 8 damage.
+Wolf 2 took 3 damage.
+Wolf 3 initiative changed to 19
