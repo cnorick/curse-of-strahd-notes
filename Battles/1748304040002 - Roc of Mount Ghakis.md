@@ -10,16 +10,16 @@
 | Anakir | 9 | - | - |
 | Elora | 0 | - | - |
 ## Creatures
-| Creature | Initiative  | HP | Statuses |
-| --- | :-: | :-: | :-: |
-| Wolf 2 | 19 | - | Unconscious |
-| Wolf 3 | 19 | 11/11 | - |
-| Escher, Vampire Consort | 19 | 82/82 | - |
-| Roc | 12 | 248/248 | - |
-| Rictavio | 12 | 77/77 | - |
-| Dire Wolf | 10 | 37/37 | - |
-| Ezmerelda d'Avenir | 8 | 82/82 | - |
-| Wolf 1 | 3 | 11/11 | - |
+| Creature                | Initiative |   HP    |  Statuses   |
+| ----------------------- | :--------: | :-----: | :---------: |
+| Wolf 2                  |     19     |    -    | Unconscious |
+| Wolf 3                  |     19     |  11/11  |      -      |
+| Escher, Vampire Consort |     19     |  82/82  |      -      |
+| Roc                     |     12     | 248/248 |      -      |
+| Rictavio                |     12     |  77/77  |      -      |
+| Dire Wolf               |     10     |  37/37  |      -      |
+| Ezmerelda d'Avenir      |     8      |  82/82  |      -      |
+| Wolf 1                  |     3      |  11/11  |      -      |
 
 
 ## Combat Log
