@@ -524,6 +524,227 @@
             "order": ""
           },
           "type": "Date"
+        },
+        {
+          "name": "Session 5 Start",
+          "description": "",
+          "date": {
+            "day": 25,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_cb1be958ea78",
+          "note": "Session Notes/Session 5.md",
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Session 6 Start",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_a82a699b0bf8",
+          "note": "Session Notes/Session 6.md",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Burial of the Burgomaster",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_bab988e8f878",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrive at Old Bone Grinder",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_d9eadbfae849",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Met Mad Mage",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_fa7b7bfa08aa",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Left Argynvostholt",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_1bfbabab288a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Left Wizard of Wines for Yester Hill",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_58e8ba98993a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Dinner with Strahd",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_0929ea39db59",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Pelanil Sees Jesus",
+          "description": null,
+          "date": {
+            "day": 2,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_997919f87a2b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Depart Ravenloft",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_c9babb794ad9",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Blinksy's Birthday",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_f8fbcafa0838",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrive at Lake Tower",
+          "description": null,
+          "date": {
+            "day": 4,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_b88a798be9cb",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrive at Amber Temple",
+          "description": null,
+          "date": {
+            "day": 5,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_0a68a82abaab",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "id": "ID_6b2a78aafb79",
@@ -544,7 +765,7 @@
         "interpolateColors": true,
         "weather": {
           "enabled": false,
-          "seed": 1257235664,
+          "seed": 534713807,
           "tempUnits": "Imperial",
           "windUnits": "Imperial",
           "primaryWindDirection": "E"
