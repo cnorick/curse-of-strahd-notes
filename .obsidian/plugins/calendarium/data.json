@@ -1,0 +1,596 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Barovian Calendar",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_6ab928e81ad9"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_b92aaa4b590b"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_595a0b882909"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_49684a2afa19"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_292b59c8f9d8"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_d959da897a68"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_08fbc8ba29cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "1st Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_69089b89e8ea",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "2nd Moon",
+            "type": "month",
+            "length": 28,
+            "id": "ID_aa29ea5b3b8b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "3rd Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_e8fb0a89cb19",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "4th Moon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_fbf919eb9a0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "5th Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_0ab81afb5b2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "6th Moon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_08eae88aebbb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "7th Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_4bab5909982a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "8th Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_88ca0a3a8adb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "9th Moon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_28aa38da0b0a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "10th Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_b8ba0a189938",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "11th Moon",
+            "type": "month",
+            "length": 30,
+            "id": "ID_cb1a5999ea0b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "12th Moon",
+            "type": "month",
+            "length": 31,
+            "id": "ID_cb9bbbd8bb0b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 10.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_e8db6b997838"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "timespan": 1,
+            "intercalary": false,
+            "numbered": true,
+            "offset": 0,
+            "id": "ID_ea38098b2899"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_fb082a2b1aca",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": -9000,
+              "month": 0,
+              "day": 0
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          },
+          {
+            "name": "Anno Domini",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "id": "ID_49eb58897a79",
+            "endsYear": false,
+            "event": false,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            },
+            "type": "era",
+            "isEvent": false,
+            "isStartingEra": false
+          }
+        ],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": false
+      },
+      "current": {
+        "day": 5,
+        "month": 9,
+        "year": 735
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The Winter Solstice is the day of the year with the least time between sunrise and sunset. Many western cultures consider it the official start of winter.",
+          "id": "1774991",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "The Summer Solstice is the day of the year with the most time between \nsunrise and sunset. Many western cultures consider it the official start\n of summer.",
+          "id": "1774992",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The Spring Equinox,\nalso called the Vernal Equinox, is the day between the winter and\nsummer solstices where the day is the exact same length as the night.\nMany western cultures consider it the official start of Spring.\n",
+          "id": "1774993",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Autumnal Equinox",
+          "description": "The Autumnal Equinox,\nalso called the Fall Equinox, is the midpoint between the summer and\nwinter solstices, where the day is the exact same length as the night.\nMany western cultures consider it the official start of Autumn.\n",
+          "id": "1774994",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "1774996",
+          "note": null,
+          "date": {
+            "year": null,
+            "month": null,
+            "day": null
+          },
+          "category": "natural-event",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Undated"
+        },
+        {
+          "name": "Campaign Start",
+          "id": "1774997",
+          "note": null,
+          "date": {
+            "day": 22,
+            "year": 735,
+            "month": 8
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Left for Barovia",
+          "id": "1774998",
+          "note": null,
+          "date": {
+            "day": 23,
+            "year": 735,
+            "month": 8
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrived at Death House",
+          "id": "1774999",
+          "note": null,
+          "date": {
+            "day": 23,
+            "year": 735,
+            "month": 8
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Slept at Death House",
+          "id": "1775000",
+          "note": null,
+          "date": {
+            "day": 24,
+            "year": 735,
+            "month": 8
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Left Death House",
+          "id": "1775001",
+          "note": null,
+          "date": {
+            "day": 25,
+            "year": 735,
+            "month": 8
+          },
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Card Reading",
+          "description": null,
+          "date": {
+            "day": 26,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_2ba9ab5b3b2a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrive in Vallaki",
+          "description": null,
+          "date": {
+            "day": 27,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_29a9999b0a6b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Festival of the Blazing Sun (Originally scheduled)",
+          "description": null,
+          "date": {
+            "day": 30,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_dae9bbcb0988",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Session 14 Start",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_aa1978ea8908",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Feast of St Andral",
+          "description": null,
+          "date": {
+            "day": 28,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_5958cae908aa",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Festival of the Blazing Sun (rescheduled)",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_db5a2a1af89b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Arrive at Argynvostholt",
+          "description": null,
+          "date": {
+            "day": 29,
+            "month": 8,
+            "year": 735
+          },
+          "id": "ID_e8b80819e81a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        },
+        {
+          "name": "Bardolf is Bitten",
+          "description": null,
+          "date": {
+            "day": 1,
+            "month": 9,
+            "year": 735
+          },
+          "id": "ID_b85919196b1a",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
+        }
+      ],
+      "id": "ID_6b2a78aafb79",
+      "categories": [
+        {
+          "name": "Natural Event",
+          "id": "natural-event",
+          "color": "#9e9d24"
+        }
+      ],
+      "path": [],
+      "showIntercalarySeparately": false,
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1257235664,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_6b2a78aafb79",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": true,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ],
+  "addToDefaultIfMissing": true,
+  "currentCalendar": null,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false
+}

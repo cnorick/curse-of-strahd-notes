@@ -6,10 +6,11 @@
   "dataview",
   "obsidian-shellcommands",
   "obsidian-advanced-uri",
-  "fantasy-calendar",
   "obsidian-5e-statblocks",
   "webpage-html-export",
   "initiative-tracker",
   "obsidian-dice-roller",
-  "obsidian-git"
+  "obsidian-git",
+  "calendarium",
+  "fantasy-calendar"
 ]
