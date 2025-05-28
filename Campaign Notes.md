@@ -245,6 +245,13 @@ The party meets Neferon, a forgetful arcanaloth who warns them away from the dar
 
 ---
 
+### **Session 37 - Birds, Blueprints, and a Broomstick**
+
+[[Session Notes/Session 37|Session 37]]
+The party consults the lich and discovers a scale model of Castle Ravenloft, gaining valuable insight into its layout. On their way down the mountain with a chariot full of treasure, they fend off wolves, survive a Roc attack, and are rescued by a drunken, broom-riding Mordenkainen.
+
+---
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
