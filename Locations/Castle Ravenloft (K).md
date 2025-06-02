@@ -41,3 +41,17 @@ d12+d8	Encounter
 - _Indigo to the master's bride._ Marina's Shrine/grave in Berez.
 - _Blue to ancient magic's womb._ Yesterhill, standing before the Gulthias Tree.
 - _Yellow to the master's tomb._ Strahd's tomb **K86**
+
+
+## Encounters
+
+```encounter
+
+name: Roc of Mount Ghakis
+party:  MD&D
+creatures:
+  - Roc, hidden
+  - 3:Wolf
+  - Dire Wolf, hidden
+  
+```
