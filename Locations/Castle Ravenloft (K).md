@@ -47,11 +47,11 @@ d12+d8	Encounter
 
 ```encounter
 
-name: Roc of Mount Ghakis
+name: Rahadin
 party:  MD&D
 creatures:
-  - Roc, hidden
-  - 3:Wolf
-  - Dire Wolf, hidden
+  - Rahadin
   
 ```
+
+
