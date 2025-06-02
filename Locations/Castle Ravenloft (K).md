@@ -55,3 +55,13 @@ creatures:
 ```
 
 
+
+```encounter
+
+name: The Heart of Sorrow
+party:  MD&D
+creatures:
+  - Heart of Sorrow
+  
+```
+[]()
