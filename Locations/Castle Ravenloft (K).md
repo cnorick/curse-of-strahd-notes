@@ -57,11 +57,16 @@ creatures:
 
 
 ```encounter
-
 name: The Heart of Sorrow
 party:  MD&D
 creatures:
   - Heart of Sorrow
-  
 ```
-[]()
+
+```encounter
+name: Invisible Stalker in Cake
+party:  MD&D
+creatures:
+  - Invisible Stalker
+```
+``
