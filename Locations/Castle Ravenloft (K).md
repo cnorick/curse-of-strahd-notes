@@ -84,3 +84,10 @@ creatures:
   - Rahadin
   - Shadow Demon
 ```
+
+```encounter
+name: Torture Chamber Zombies
+party:  MD&D
+creatures:
+  - 6: Strahd Zombie
+```
