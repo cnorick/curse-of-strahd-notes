@@ -69,4 +69,10 @@ party:  MD&D
 creatures:
   - Invisible Stalker
 ```
-``
+
+```encounter
+name: Guard Hall Skeletons
+party:  MD&D
+creatures:
+  - 10: Skeleton
+```
