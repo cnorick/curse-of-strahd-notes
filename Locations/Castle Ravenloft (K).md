@@ -76,3 +76,11 @@ party:  MD&D
 creatures:
   - 10: Skeleton
 ```
+
+```encounter
+name: Rahadin and Shadow Demon in Chamberlin's Office
+party:  MD&D
+creatures:
+  - Rahadin
+  - Shadow Demon
+```
