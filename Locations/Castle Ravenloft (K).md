@@ -95,3 +95,11 @@ party:  MD&D
 creatures:
   - 6: Strahd Zombie
 ```
+
+```encounter
+name: Strahd
+party:  MD&D
+creatures:
+  - Strahd von Zarovich
+```
+
