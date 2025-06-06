@@ -1,6 +1,9 @@
 Week of 6/2: https://meetingbrew.com/lpd874
 Week of 6/8: https://www.meetingbrew.com/l7anuo
 
+Shalooti writes a folk song shitting on Strahd
+- This can help with recruiting people to the cause when there is the big war outside
+
 ## Leaving the Temple
 
 - Wolves will be waiting at the bridge
