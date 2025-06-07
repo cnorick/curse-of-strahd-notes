@@ -252,6 +252,13 @@ The party consults the lich and discovers a scale model of Castle Ravenloft, gai
 
 ---
 
+### **Session 38 – The Last Light Before the Storm**
+
+[[Session Notes/Session 38|Session 38]]
+After escaping the Roc thanks to Mordenkainen’s wild broomstick flight, the party regroups at the Wizard of Wines for five days of rest and preparation. With allies gathered and strategies set, they share a somber, joyful final meal before their assault on Castle Ravenloft begins.
+
+---
+
 ## Session Notes
 ```dataviewjs
 dv.list(dv.pages('"Session Notes"').sort().file.link)
