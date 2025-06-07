@@ -4,13 +4,20 @@ Week of 6/8: https://www.meetingbrew.com/l7anuo
 - Shalooti writes a rumor folk song shitting on Strahd
 	- This can help with recruiting people to the cause when there is the big war outside
 - Elora took long walks and practiced her psychic blades
-- Bardolf
+- Bardolf made things
+	- shalooti: pipes of the sewers: enemy rats it automatically charms them
+	- elora: gauntlets of ogre power
+	- anakir: slippers of spider climbing
+	- bardolf: winged boots, gloves of missile snaring
 - Pelanil
-	- sent out messages via [[Sending]]
+	- sent out messages via [[Sending]] including Shalooti's song
 		- Martikovs and [[Fiona Wachter|Lady Wachter]] in Krezk
 		- Isek
 		- [[Ismark Kolyanovich|Ismark]]
 			- responds "I know what you did"
+	- read the tome of understanding
+	- Planted the "good"thias tree from the staff that was changed along with him
+	- 
 
 
 ## Leaving the Temple
