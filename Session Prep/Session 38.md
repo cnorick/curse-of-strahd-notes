@@ -17,6 +17,7 @@ Week of 6/8: https://www.meetingbrew.com/l7anuo
 			- responds "I know what you did"
 	- read the tome of understanding
 	- Planted the "good"thias tree from the staff that was changed along with him
+		- maybe give some little bois
 	- 
 
 
