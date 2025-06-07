@@ -8,7 +8,7 @@ On the way to [[The Wizard of Wines (W)|The Winery]], [[Mad Mage of Mount Barato
 
 ## Rest at the Winery
 
-The party preps for their final battle with [[Strahd Von Zarovich|Strahd]] at [[The Wizard of Wines (W)|The Winery]] with [[The Keepers of the Feather|The Martikovs]]. They stay there for 5 days along with [[The Keepers of the Feather|The Martikovs]], [[Gadof Blinsky|Blinsky]], [[[Mad Mage of Mount Baratok|Mordenkainen]], [[Escher]], and [[Rictavio]]. The characters do the following:
+The party preps for their final battle with [[Strahd Von Zarovich|Strahd]] at [[The Wizard of Wines (W)|The Winery]] with [[The Keepers of the Feather|The Martikovs]]. They stay there for 5 days along with [[The Keepers of the Feather|The Martikovs]], [[Gadof Blinsky|Blinsky]], [[Mad Mage of Mount Baratok|Mordenkainen]], [[Escher]], and [[Rictavio]]. The characters do the following:
 
 ### Anakir
 
@@ -44,4 +44,18 @@ Finally, [[Pelanil]] sent out messages to all their allies throughout Barovia us
 
 ## Plan of Attack
 
-Elora had a moment of reflection and asked if we really wanna do this. We might die. Pelanil gave his speech
+After their five days of preparation, the party gathered in the dining room of [[The Wizard of Wines (W)|The Wizard of Wines]] to discuss their plan for getting into [[Castle Ravenloft (K)|Castle Ravenloft]] and killing [[Strahd Von Zarovich|Strahd]]. The scene was both merry and somber as the party drank and celebrated as well as reflected during what might be their last night alive.
+
+Elora had a moment of reflection and asked if the party really wanted to go through with this, as there is a strong chance they may all die. [[Davian Martikov|Davian]] echoed her concern, and [[Mad Mage of Mount Baratok|Mordenkainen]] shared that he had once already failed an attack on [[Strahd Von Zarovich|Strahd]]. Pelanil gave an uplifting and encouraging speech to the group.
+
+They planned the following:
+- Get into the castle through the servants' entrance
+- Head straight for the [[Heart of Sorrow Statblock|Heart of Sorrow]]
+	- With conversation between [[Escher]] and the [[Mad Mage of Mount Baratok|Mad Mage]], the party felt like they knew where it was in the castle
+- Clear the castle as best they can
+- Find and fight [[Strahd Von Zarovich|Strahd]]
+- [[Rictavio]] will stay behind as he is cursed by [[Vistani]] that everyone he loves shall die
+	- this is why he believes [[Ezmerelda d'Avenir|Ezmerelda]] died
+	- if he accompanies the party, he's confident they will also die
+- [[Escher]] will stay behind as [[Strahd Von Zarovich|Strahd]] may turn him on the party
+- [[Mad Mage of Mount Baratok|Mordenkainen]] will join
