@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Goodthias Staff]
 ---
 
 ## Handout

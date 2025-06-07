@@ -4,11 +4,11 @@ As the [[Roc of Mount Ghakis]] is distracted by [[Mad Mage of Mount Baratok|Mord
 
 On the way to [[The Wizard of Wines (W)|The Winery]], [[Mad Mage of Mount Baratok|Mordenkainen]] drunkenly tells the party he was able to secure the broom from a hag selling pies.
 
-![[mad mage.png|200]]
+![[mad-mage-with-roc.png]]
 
 ## Rest at the Winery
 
-The party preps for their final battle with [[Strahd Von Zarovich|Strahd]] at [[The Wizard of Wines (W)|The Winery]] with [[The Keepers of the Feather|The Martikovs]]. The characters do the following:
+The party preps for their final battle with [[Strahd Von Zarovich|Strahd]] at [[The Wizard of Wines (W)|The Winery]] with [[The Keepers of the Feather|The Martikovs]]. They stay there for 5 days along with [[The Keepers of the Feather|The Martikovs]], [[Gadof Blinsky|Blinsky]], [[[Mad Mage of Mount Baratok|Mordenkainen]], [[Escher]], and [[Rictavio]]. The characters do the following:
 
 ### Anakir
 
@@ -30,5 +30,18 @@ The party preps for their final battle with [[Strahd Von Zarovich|Strahd]] at [[
 - anakir: slippers of spider climbing
 - bardolf: winged boots, gloves of missile snaring
 
+### Pelanil
+
+[[Pelanil]] created enchanted stones for each of the party members and told them they would work when the time is right.
+
+He also took the time to read the [[Tome of Understanding]] and planted the now re-aligned [[Gulthias Staff|Goodthias Staff]] near the [[Gulthias tree]] at [[Yester Hill (Y)|Yester Hill]] in hopes of breeding a [[Goodthias Tree]].
+
+Finally, [[Pelanil]] sent out messages to all their allies throughout Barovia using [[Sending]]. Included in the each of the messages was [[Shalooti]]'s song. He sent the message to the following people:
+- [[The Keepers of the Feather|The Martikovs]] in [[Village of Krezk (S)|Krezk]]
+- [[Izek Strazni|Izek]] wherever he ended up
+- [[Ismark Kolyanovich|Ismark]] in [[Village of Barovia (E)|Barovia Village]]
+	- He responded with "I know what you did"
+
+## Plan of Attack
 
 Elora had a moment of reflection and asked if we really wanna do this. We might die. Pelanil gave his speech
