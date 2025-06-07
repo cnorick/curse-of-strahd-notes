@@ -42,6 +42,8 @@ Finally, [[Pelanil]] sent out messages to all their allies throughout Barovia us
 - [[Ismark Kolyanovich|Ismark]] in [[Village of Barovia (E)|Barovia Village]]
 	- He responded with "I know what you did"
 
+After each of his preparations, [[Pelanil]] cast [[Augury]]. He continue to receive Woes until he sent out [[Shalooti]]'s song at which point he received a Weal and Woe.
+
 ## Plan of Attack
 
 After their five days of preparation, the party gathered in the dining room of [[The Wizard of Wines (W)|The Wizard of Wines]] to discuss their plan for getting into [[Castle Ravenloft (K)|Castle Ravenloft]] and killing [[Strahd Von Zarovich|Strahd]]. The scene was both merry and somber as the party drank and celebrated as well as reflected during what might be their last night alive.
