@@ -81,3 +81,13 @@ Roc took 17 damage.
 ##### Wolf 1's turn
 ### Round 3
 ##### Pelanil's turn
+Pelanil initiative changed to 28
+Elora initiative changed to 24
+Anakir initiative changed to 17
+Shalooti initiative changed to 17
+Bardolf initiative changed to 5
+The Mad Mage of Mount Baratok added to the combat.
+The Mad Mage of Mount Baratok initiative changed to 19
+Heart of Sorrow took 15 damage.
+Heart of Sorrow took 23 damage.
+Heart of Sorrow was healed for 2 HP.
