@@ -7,7 +7,7 @@ source:
 type: Construct
 size: Large
 alignment: neutral
-hp: 50
+hp: 100
 ac: 15
 speed: 30 ft.
 stats:

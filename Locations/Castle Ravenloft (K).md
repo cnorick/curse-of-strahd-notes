@@ -47,6 +47,14 @@ d12+d8	Encounter
 
 >While your escapades in my realm have been entertaining, I'm afraid I can no longer allow your crimes to go unpunished. I, Count Strahd von Zarovich, son of King Barov von Zarovich, sentence you to death." Strahd gently places his wine glass on the end table beside his chair. Then, head held high and never breaking eye contact, he rises. With a quick, steady hand, he draws his sword. "Shall we begin?" Roll initiative
 
+
+### Heart of Sorrow
+
+- Skip the vampires
+- 190ft drop from the heart
+- dc10 dex save
+- the winery gem is in there
+
 ## Encounters
 
 ```encounter
