@@ -258,9 +258,11 @@
         "currentAC": 15,
         "path": "Custom Monsters/Heart of Sorrow Statblock.md",
         "id": "ID_f9b94928dad9",
-        "currentHP": 25,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
