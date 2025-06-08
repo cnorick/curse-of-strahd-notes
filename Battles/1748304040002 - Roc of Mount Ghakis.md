@@ -91,3 +91,6 @@ The Mad Mage of Mount Baratok initiative changed to 19
 Heart of Sorrow took 15 damage.
 Heart of Sorrow took 23 damage.
 Heart of Sorrow was healed for 2 HP.
+Heart of Sorrow took 13 damage.
+Heart of Sorrow took 8 damage.
+Heart of Sorrow took 18 damage.
