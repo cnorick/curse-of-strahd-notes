@@ -106,3 +106,10 @@ Pelanil initiative changed to 19
 Shadow Demon added to the combat.
 Rahadin initiative changed to 9
 Shadow Demon initiative changed to 9
+Rahadin took 12 damage.
+Rahadin took 29 damage.
+Shadow Demon took 3 damage.
+Shadow Demon took 24 damage.
+Rahadin took 15 damage.
+Shadow Demon took 10 damage.
+Shadow Demon took 17 damage.
