@@ -95,3 +95,14 @@ Heart of Sorrow took 13 damage.
 Heart of Sorrow took 8 damage.
 Heart of Sorrow took 18 damage.
 Heart of Sorrow took 31 damage.
+Rahadin added to the combat.
+The Mad Mage of Mount Baratok added to the combat.
+The Mad Mage of Mount Baratok initiative changed to 18
+Shalooti initiative changed to 13
+Bardolf initiative changed to 13
+Anakir initiative changed to 4
+Elora initiative changed to 9
+Pelanil initiative changed to 19
+Shadow Demon added to the combat.
+Rahadin initiative changed to 9
+Shadow Demon initiative changed to 9

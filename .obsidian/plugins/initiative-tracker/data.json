@@ -148,7 +148,7 @@
     "creatures": [
       {
         "name": "Bardolf",
-        "initiative": 5,
+        "initiative": 13,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -168,7 +168,7 @@
       },
       {
         "name": "Shalooti",
-        "initiative": 17,
+        "initiative": 13,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -188,7 +188,7 @@
       },
       {
         "name": "Anakir",
-        "initiative": 17,
+        "initiative": 4,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -208,7 +208,7 @@
       },
       {
         "name": "Elora",
-        "initiative": 24,
+        "initiative": 9,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -228,7 +228,7 @@
       },
       {
         "name": "Pelanil",
-        "initiative": 28,
+        "initiative": 19,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -247,31 +247,29 @@
         "friendly": false
       },
       {
-        "name": "Heart of Sorrow",
-        "initiative": 13,
+        "name": "Rahadin",
+        "initiative": 8,
         "static": false,
-        "modifier": 0,
-        "hp": 100,
-        "currentMaxHP": 100,
-        "cr": "5",
-        "ac": 15,
-        "currentAC": 15,
-        "path": "Custom Monsters/Heart of Sorrow Statblock.md",
-        "id": "ID_f9b94928dad9",
-        "currentHP": 0,
+        "modifier": 6,
+        "hp": 135,
+        "currentMaxHP": 135,
+        "cr": "10",
+        "ac": "18 (studded leather armor)",
+        "currentAC": "18 (studded leather armor)",
+        "path": "Custom Monsters/Rahadin Statblock.md",
+        "id": "ID_d98a489a384b",
+        "currentHP": 135,
         "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
+        "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
         "friendly": false,
-        "rollHP": false
+        "hit_dice": "18d8 + 54"
       },
       {
         "name": "The Mad Mage of Mount Baratok",
-        "initiative": 19,
+        "initiative": 18,
         "static": false,
         "modifier": 2,
         "hp": 99,
@@ -280,7 +278,7 @@
         "ac": 12,
         "currentAC": 12,
         "path": "Custom Monsters/Mad Mage Statblock.md",
-        "id": "ID_9bc8b99a3b1a",
+        "id": "ID_f95bab7b6b89",
         "currentHP": 99,
         "tempHP": 0,
         "status": [],
@@ -290,10 +288,31 @@
         "friendly": true,
         "hit_dice": "18d8 + 18",
         "rollHP": false
+      },
+      {
+        "name": "Shadow Demon",
+        "initiative": 9,
+        "static": false,
+        "modifier": 3,
+        "hp": 66,
+        "currentMaxHP": 66,
+        "cr": "4",
+        "ac": 13,
+        "currentAC": 13,
+        "path": "Custom Monsters/Shadow Demon Statblock.md",
+        "id": "ID_a8d85b4908a9",
+        "currentHP": 66,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "12d8 + 12"
       }
     ],
     "state": false,
-    "name": "The Heart of Sorrow",
+    "name": null,
     "round": 1,
     "logFile": "Battles/1748304040002 - Roc of Mount Ghakis.md",
     "rollHP": false
