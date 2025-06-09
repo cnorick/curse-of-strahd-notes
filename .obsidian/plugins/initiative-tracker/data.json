@@ -260,9 +260,11 @@
         "currentAC": 13,
         "path": "Custom Monsters/Shadow Demon Statblock.md",
         "id": "ID_a8d85b4908a9",
-        "currentHP": 12,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -281,9 +283,11 @@
         "currentAC": "18 (studded leather armor)",
         "path": "Custom Monsters/Rahadin Statblock.md",
         "id": "ID_d98a489a384b",
-        "currentHP": 12,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,

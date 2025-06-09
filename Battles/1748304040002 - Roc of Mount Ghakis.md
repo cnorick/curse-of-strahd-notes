@@ -117,3 +117,6 @@ Rahadin took 16 damage.
 Rahadin took 13 damage.
 Rahadin took 17 damage.
 Rahadin took 21 damage.
+Rahadin took 6 damage.
+Shadow Demon took 12 damage.
+Rahadin took 9 damage.
