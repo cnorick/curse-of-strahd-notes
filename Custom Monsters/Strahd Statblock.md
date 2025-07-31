@@ -8,9 +8,8 @@ type: undead
 subtype: ""
 size: Medium
 alignment: lawful or evil
-hp: 350
-hit_dice: 17d8 + 68
-ac: 16
+hp: 350 (up to 450 if needed)
+ac: 19
 speed: 30 ft.
 stats:
   - 18
@@ -27,11 +26,13 @@ saves:
   - dexterity: "9"
   - wisdom: "7"
   - charisma: "9"
+  - strength: "7"
 skillsaves:
   - arcana: "15"
   - perception: "12"
   - religion: "10"
   - stealth: "14"
+  - athletics: "7"
 senses: darkvision 120 ft., passive Perception 22
 languages: "Abyssal, Common, Draconic, Elvish, Giant, "
 cr: "15"
