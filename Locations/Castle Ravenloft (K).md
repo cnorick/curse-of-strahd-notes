@@ -111,3 +111,10 @@ creatures:
   - Strahd von Zarovich
 ```
 
+
+```encounter
+name: Iron Golem
+party:  MD&D
+creatures:
+  - 2: Iron Golem
+```
