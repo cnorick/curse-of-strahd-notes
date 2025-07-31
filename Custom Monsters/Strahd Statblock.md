@@ -8,7 +8,7 @@ type: undead
 subtype: ""
 size: Medium
 alignment: lawful or evil
-hp: 144
+hp: 350
 hit_dice: 17d8 + 68
 ac: 16
 speed: 30 ft.
