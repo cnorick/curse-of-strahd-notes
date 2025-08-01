@@ -32,6 +32,10 @@ d12+d8	Encounter
 20	Strahd von Zarovich
 
 
+## K84 Catacombs
+
+- Removing or resetting a stone slab requires an action and a successful DC 15 Strength check.
+
 ## K78 Changes
 
 - _Violet leads to the mountain spire._ Tsolenka Pass
