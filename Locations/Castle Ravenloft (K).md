@@ -35,6 +35,7 @@ d12+d8	Encounter
 ## K84 Catacombs
 
 - Removing or resetting a stone slab requires an action and a successful DC 15 Strength check.
+- 
 
 ## K78 Changes
 
@@ -121,4 +122,11 @@ name: Iron Golem
 party:  MD&D
 creatures:
   - 2: Iron Golem
+```
+
+```encounter
+name: Catacomb Bats
+party:  MD&D
+creatures:
+  - 2d4: Swarm of Bats
 ```
