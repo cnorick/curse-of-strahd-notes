@@ -120,3 +120,15 @@ Rahadin took 21 damage.
 Rahadin took 6 damage.
 Shadow Demon took 12 damage.
 Rahadin took 9 damage.
+Wight added to the combat.
+Pelanil initiative changed to 20
+Shalooti initiative changed to 4
+Elora initiative changed to 24
+Pelanil initiative changed to 26
+Anakir initiative changed to 20
+Bardolf initiative changed to 8
+The Mad Mage of Mount Baratok added to the combat.
+The Mad Mage of Mount Baratok initiative changed to 20
+Wight added to the combat.
+Wight 1 took 6 damage.
+Wight 2 took 6 damage.
