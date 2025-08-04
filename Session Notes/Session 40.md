@@ -1,0 +1,33 @@
+- The party went down the stairs into what seemed like soldiers' quarters
+- They went into [[Rahadin]]'s office
+	- in there, they found fresh ink in a journal that was logging torture
+	- they saw the name [[Emil Toranescu]]
+	- [[Pelanil]] found a secret door out of the office, going downstairs
+- [[Anakir]] saw something move in the room as he exited
+	- He slammed the door behind him and ran down the stairs, pushing aside the other party members
+	- [[Mad Mage of Mount Baratok|Mordenkainen]] and [[Bardolf]] fell on their faces on a landing halfway down the stairs
+- [[Pelanil]] ran down after them, and saw [[Strahd Von Zarovich|Strahd]] coalesce from mist on the stairs below
+	- [[Pelanil]] slashed at him, but the sword went through
+	- [[Pelanil]] fell the rest of the way down the stairs and through the door at the bottom
+	- The rest of the party just walked around the illusion of [[Strahd Von Zarovich|Strahd]]
+- They found a brazier that allowed them to teleport somewhere else
+	- They argued over where to go
+	- [[Anakir]] threw in the stone for [[Strahd Von Zarovich|Strahd]]'s tomb
+	- The rest of the party followed
+- In the catacombs:
+	- [[Elora]] teleported out of the back of [[Strahd Von Zarovich|Strahd]]'s tomb
+		- the rest of the crew followed
+	- [[Elora]] got teleported again as she tried to find everyone else
+		- she got replaced with a [[Wight]]
+		- so did [[Pelanil]] and [[Anakir]]
+	- Those three had to punch their way out of coffins as everyone else fought the [[Wight]]s
+	- The catacombs were full of thousands of bats
+- [[Pelanil]] found a weird wood and metal scepter (a musket) which he gave to [[Bardolf]]
+	- he gave a wing suit to [[Shalooti]]
+- [[Pelanil]] found [[Strahd Von Zarovich|Strahd]] in [[Sergei]]'s tomb
+- [[Strahd Von Zarovich|Strahd]] welcomed them in and apologized they had to see him in that state
+	- it is the anniversary of [[Sergei]]'s death
+	- [[Pelanil]] through the [[Tome of Strahd]] at him and accused him of killing his own brother
+	- [[Strahd Von Zarovich|Strahd]], in turn, accused the party of their own crimes in Barovia
+	- "While your escapades in my realm have been entertaining, I'm afraid I can no longer allow your crimes to go unpunished. I, Count Strahd von Zarovich, son of King Barov von Zarovich, sentence you to death."
+	- [[Strahd Von Zarovich|Strahd]] drew his shortsword and said "Shall we begin?"

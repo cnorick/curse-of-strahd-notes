@@ -1,0 +1,7 @@
+- Made their way into the castle
+- Part of the group went around back through the servants' entrance
+- [[Pelanil]] and [[Mad Mage of Mount Baratok|Mordenkainen]] went through the top spire
+- [[Pelanil]] and [[Mad Mage of Mount Baratok|Mordenkainen]] destroyed the [[Heart of Sorrow Statblock|Heart of Sorrow]]
+- The group started to go down the stairs into the basement
+	- they fought an invisible little dude
+	- [[Rahadin]] came up the steps, and they fought and killed him
