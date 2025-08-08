@@ -8,6 +8,7 @@
 ## Strategy
 
 - Any time Strahd kills somebody, have him necromancy them back to life to fight for him
+- [[Power Word Kill]] as an optional spell
 
 ### After a round or two
 
