@@ -19,6 +19,7 @@
 ### Halfway Through Fight
 
 - Strahd retreats when he's like half out of HP
+	- The party hears him say "join me my children"
 	- so that he can regen
 	- stuff in the castle will delay the party; allow them to choose to stay in initiative
 	- he retreats as a mist up the stairs with the chink

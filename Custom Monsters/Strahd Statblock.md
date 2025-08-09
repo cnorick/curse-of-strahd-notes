@@ -120,9 +120,8 @@ actions:
 
       Each time Strahd or his companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until Strahd is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
   - name: Children of the Night (1/Day)
-    desc: Strahd magically calls 2d4 swarm of bats||swarms of bats or swarm of
-      rats||swarms of rats, provided that the sun isn't up. While outdoors,
-      Strahd can call 3d6 wolf||wolves instead. The called creatures arrive in
+    desc: Strahd magically calls 2d4 [[Swarm of Bats|swarms of bats]] or [[Swarm of Rats|swarms of rats]], provided that the sun isn't up. While outdoors,
+      Strahd can call 3d6 [[Wolf|wolves]] or [[Dire Wolf|dire wolves]] instead. The called creatures arrive in
       1d4 rounds, acting as allies of Strahd and obeying his spoken commands.
       The beasts remain for 1 hour, until Strahd dies, or until he dismisses
       them as a bonus action.
