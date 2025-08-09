@@ -20,15 +20,17 @@
 - [[Power Word Kill]] as an optional spell to get rid of the [[Mad Mage of Mount Baratok|Mad Mage]]
 - Player weaknesses:
 	- [[Pelanil]]: Cha -2
-		- [[Forcecage]] cha save to trap him
+		- [[Forcecage]] (cha) to trap him
+		- [[Maximilian's Earthen Grasp]] (str) to hold him
 	- [[Elora]] Wis 0
 		- [[Thunderwave]] con save to push her
 	- [[Shalooti]] Con -1
 		- [[Thunderwave]] con save to push her
 	- [[Anakir]] Str/Dex 0
+		- [[Maximilian's Earthen Grasp]] (str) to hold him
 	- [[Bardolf]]
 	- [[Mad Mage of Mount Baratok|Mad Mage]]
-	- 
+		- [[Maximilian's Earthen Grasp]] (str) to hold him
 	
 - Bite a player and have them immediately turn into a vampire spawn after dying
 	- They can come back to life next round after failing the death save

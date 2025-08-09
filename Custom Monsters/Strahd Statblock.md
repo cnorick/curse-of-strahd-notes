@@ -143,7 +143,7 @@ spells:
     spells prepared:"
   - Cantrips (at will): mage hand, prestidigitation, ray of frost
   - 1st level (4 slots): magic missile, feather fall, shield, thunderwave
-  - 2nd level (3 slots): detect thoughts, gust of wind, mirror image
+  - 2nd level (3 slots): Maximilian's Earthen Grasp, gust of wind, mirror image
   - 3rd level (3 slots): animate dead, fireball, nondetection
   - 4th level (3 slots): blight, greater invisibility, polymorph
   - 5th level (2 slots): animate objects, scrying, wall of force
