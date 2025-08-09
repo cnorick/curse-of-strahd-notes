@@ -8,7 +8,10 @@
 ## Strategy
 
 - Any time Strahd kills somebody, have him necromancy them back to life to fight for him
-- [[Power Word Kill]] as an optional spell
+- [[Power Word Kill]] as an optional spell to get rid of the [[Mad Mage of Mount Baratok|Mad Mage]]
+- Bite a player and have them immediately turn into a vampire spawn after dying
+	- They can come back to life next round after failing the death save
+	- Or use Summon Spirit Lair action to turn them into a [[Specter]]
 
 ### After a round or two
 
@@ -56,8 +59,13 @@
 
 
 ```encounter-table
-
 name: All Allies
 creatures:
   - The Mad Mage of Mount Baratok, ally
+
+---
+  
+name: Strahd
+creatures:
+  - Strahd von Zarovich
 ```
