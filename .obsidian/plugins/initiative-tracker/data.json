@@ -5,7 +5,8 @@
       "path": "Characters/Players/Pelanil.md",
       "name": "Pelanil",
       "level": 10,
-      "player": true
+      "player": true,
+      "ac": "22"
     },
     {
       "note": "Bardolf",
