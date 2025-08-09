@@ -6,7 +6,8 @@
       "name": "Pelanil",
       "level": 10,
       "player": true,
-      "ac": "22"
+      "ac": "22",
+      "hp": 96
     },
     {
       "note": "Bardolf",
@@ -20,14 +21,18 @@
       "path": "Characters/Players/Elora.md",
       "name": "Elora",
       "level": 10,
-      "player": true
+      "player": true,
+      "hp": 77,
+      "ac": "18"
     },
     {
       "note": "Shalooti",
       "path": "Characters/Players/Shalooti.md",
       "name": "Shalooti",
       "level": 10,
-      "player": true
+      "player": true,
+      "hp": 40,
+      "ac": "15"
     },
     {
       "note": "Anakir",

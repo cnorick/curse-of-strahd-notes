@@ -142,7 +142,7 @@ spells:
     (spell save 18, +10 to hit with spell attacks). He has the following wizard
     spells prepared:"
   - Cantrips (at will): mage hand, prestidigitation, ray of frost
-  - 1st level (4 slots): magic missile, feather fall, shield
+  - 1st level (4 slots): magic missile, feather fall, shield, thunderwave
   - 2nd level (3 slots): detect thoughts, gust of wind, mirror image
   - 3rd level (3 slots): animate dead, fireball, nondetection
   - 4th level (3 slots): blight, greater invisibility, polymorph
