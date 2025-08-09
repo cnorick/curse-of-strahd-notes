@@ -19,9 +19,15 @@
 - Any time Strahd kills somebody, have him necromancy them back to life to fight for him
 - [[Power Word Kill]] as an optional spell to get rid of the [[Mad Mage of Mount Baratok|Mad Mage]]
 - Player weaknesses:
-	- [[Pelanil]]: Cha -2, Int 0, Str 0
-		- [[Forcecage]] to trap him
-		- 
+	- [[Pelanil]]: Cha -2
+		- [[Forcecage]] cha save to trap him
+	- [[Elora]] Wis 0
+		- [[Thunderwave]] con save to push her
+	- [[Shalooti]] Con -1
+		- [[Thunderwave]] con save to push her
+	- [[Anakir]] Str/Dex 0
+	- [[Bardolf]]
+	
 - Bite a player and have them immediately turn into a vampire spawn after dying
 	- They can come back to life next round after failing the death save
 	- Or use Summon Spirit Lair action to turn them into a [[Specter]]
