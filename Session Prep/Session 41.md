@@ -6,18 +6,19 @@
 "While your escapades in my realm have been entertaining, I'm afraid I can no longer allow your crimes to go unpunished. I, Count Strahd von Zarovich, son of King Barov von Zarovich, sentence you to death." Strahd gently places his wine glass on the end table beside his chair. Then, head held high and never breaking eye contact, he rises. With a quick, steady hand, he draws his sword. "Shall we begin?" Roll initiative.
 
 
-| Character                               | Str | Dex | Con | Int | Wis | Cha |
-| --------------------------------------- | --- | --- | --- | --- | --- | --- |
-| [[Pelanil]]                             | 0   | 5   | 2   | 0   | 6   | -2  |
-| [[Elora]]                               | 4   | 4   | 1   | 2   | 0   | 2   |
-| [[Anakir]]                              | 0   | 0   | 2   | 2   | 1   | 4   |
-| [[Shalooti]]                            | 1   | 3   | -1  | 2   | 1   | 2   |
-| [[Mad Mage of Mount Baratok\|Mad Mage]] | 0   | 2   | 1   | 5   | 2   | 3   |
+| Character                               | Str | Dex | Con | Int | Wis | Cha | Speed |
+| --------------------------------------- | --- | --- | --- | --- | --- | --- | ----- |
+| [[Pelanil]]                             | 0   | 5   | 2   | 0   | 6   | -2  | 40    |
+| [[Elora]]                               | 4   | 4   | 1   | 2   | 0   | 2   | 30    |
+| [[Anakir]]                              | 0   | 0   | 2   | 2   | 1   | 4   | 30    |
+| [[Shalooti]]                            | 1   | 3   | -1  | 2   | 1   | 2   | 25    |
+| [[Mad Mage of Mount Baratok\|Mad Mage]] | 0   | 2   | 1   | 5   | 2   | 3   | 30    |
 
 ## Strategy
 
-- Any time Strahd kills somebody, have him necromancy them back to life to fight for him
 - [[Power Word Kill]] as an optional spell to get rid of the [[Mad Mage of Mount Baratok|Mad Mage]]
+- Stay 30ft away from [[Misc/Campaign Items/Sunsword|Sunsword]]
+	- After [[Pelanil]] moves close on his turn, use legendary move to get away right after (it might take two turns)(make sure there is a person between you in the turn order)
 - Player weaknesses:
 	- [[Pelanil]]: Cha -2
 		- [[Forcecage]] (cha) to trap him
