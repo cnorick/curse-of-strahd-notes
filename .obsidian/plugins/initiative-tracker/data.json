@@ -285,7 +285,7 @@
       },
       {
         "name": "lair actions",
-        "initiative": 18,
+        "initiative": 20,
         "static": false,
         "modifier": 0,
         "hp": 0,
@@ -295,8 +295,8 @@
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
-        "hidden": false,
+        "active": true,
+        "hidden": true,
         "friendly": false
       },
       {
@@ -322,10 +322,10 @@
         "rollHP": false
       }
     ],
-    "state": false,
+    "state": true,
     "name": "Strahd",
     "round": 1,
-    "logFile": "Battles/1754761072506 - Combat.md",
+    "logFile": "Battles/1754859996621 - Strahd.md",
     "rollHP": false
   },
   "condense": false,
