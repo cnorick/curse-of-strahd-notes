@@ -25,11 +25,12 @@
 		- [[Forcecage]] (cha) to trap him
 		- [[Maximilian's Earthen Grasp]] (str) to hold him
 	- [[Elora]] Wis 0
-		- [[Thunderwave]] con save to push her
+		- [[Thunderwave]] (con) save to push her
 	- [[Shalooti]] Con -1
-		- [[Thunderwave]] con save to push her
+		- [[Thunderwave]] (con) save to push her
 	- [[Anakir]] Str/Dex 0
 		- [[Maximilian's Earthen Grasp]] (str) to hold him
+		- [[Ice Storm]] (dex) hurts him + difficult terrain for everyone else
 	- [[Bardolf]]
 	- [[Mad Mage of Mount Baratok|Mad Mage]]
 		- [[Maximilian's Earthen Grasp]] (str) to hold him
