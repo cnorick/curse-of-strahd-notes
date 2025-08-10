@@ -145,7 +145,7 @@ spells:
   - 1st level (4 slots): magic missile, feather fall, shield, thunderwave
   - 2nd level (3 slots): Maximilian's Earthen Grasp, gust of wind, mirror image
   - 3rd level (3 slots): counterspell, fireball, slow
-  - 4th level (3 slots): ice storm, greater invisibility, polymorph
+  - 4th level (3 slots): ice storm, greater invisibility, dimension door
   - 5th level (2 slots): animate objects, mislead, wall of force
   - 7th level (1 slot): forcecage
 spellsNotes: ""

@@ -34,6 +34,7 @@
 	- [[Bardolf]]
 	- [[Mad Mage of Mount Baratok|Mad Mage]]
 		- [[Maximilian's Earthen Grasp]] (str) to hold him
+		- charm then [[Dimension Door]] to get him alone and waylay him
 	
 - Bite a player and have them immediately turn into a vampire spawn after dying
 	- They can come back to life next round after failing the death save
