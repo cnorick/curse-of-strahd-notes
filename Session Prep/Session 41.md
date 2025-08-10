@@ -13,12 +13,13 @@
 | [[Anakir]]                              | 0   | 0   | 2   | 2   | 1   | 4   | 30    |
 | [[Shalooti]]                            | 1   | 3   | -1  | 2   | 1   | 2   | 25    |
 | [[Mad Mage of Mount Baratok\|Mad Mage]] | 0   | 2   | 1   | 5   | 2   | 3   | 30    |
+| [[Bardolf]]                             |     |     |     |     |     |     |       |
 
 ## Strategy
 
 - [[Power Word Kill]] as an optional spell to get rid of the [[Mad Mage of Mount Baratok|Mad Mage]]
 - Stay 30ft away from [[Misc/Campaign Items/Sunsword|Sunsword]]
-	- After [[Pelanil]] moves close on his turn, use legendary move to get away right after (it might take two turns)(make sure there is a person between you in the turn order)
+	- After [[Pelanil]] moves close on his turn, use legendary move to get away right after (it might take two turns)(make sure there is a person between you in the turn order)****
 - Player weaknesses:
 	- [[Pelanil]]: Cha -2
 		- [[Forcecage]] (cha) to trap him
