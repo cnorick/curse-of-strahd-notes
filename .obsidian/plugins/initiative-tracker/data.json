@@ -279,7 +279,7 @@
         "status": [],
         "enabled": true,
         "active": false,
-        "hidden": false,
+        "hidden": true,
         "friendly": false,
         "rollHP": false
       },
