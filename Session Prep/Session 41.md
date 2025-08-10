@@ -13,7 +13,7 @@
 | [[Anakir]]                              | 0   | 0   | 2   | 2   | 1   | 4   | 30    |
 | [[Shalooti]]                            | 1   | 3   | -1  | 2   | 1   | 2   | 25    |
 | [[Mad Mage of Mount Baratok\|Mad Mage]] | 0   | 2   | 1   | 5   | 2   | 3   | 30    |
-| [[Bardolf]]                             |     |     |     |     |     |     |       |
+| [[Bardolf]]                             | 2   | 2   | 4   | 2   | -1  | 0   | 25    |
 
 ## Strategy
 
