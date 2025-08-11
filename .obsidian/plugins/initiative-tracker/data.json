@@ -183,7 +183,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -351,7 +351,7 @@
           "MIsc"
         ],
         "enabled": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false,
         "rollHP": false
@@ -379,7 +379,7 @@
     ],
     "state": true,
     "name": "Strahd",
-    "round": 6,
+    "round": 7,
     "logFile": "Battles/1754859996621 - Strahd.md",
     "rollHP": false
   },
