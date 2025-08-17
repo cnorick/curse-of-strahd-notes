@@ -210,6 +210,26 @@
         "friendly": false
       },
       {
+        "name": "Dire Wolf",
+        "initiative": 20,
+        "static": false,
+        "modifier": 0,
+        "hp": 37,
+        "currentMaxHP": 37,
+        "cr": "1",
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_3acb38d8a8e9",
+        "currentHP": 37,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": true,
+        "friendly": false,
+        "hit_dice": "5d10 + 9"
+      },
+      {
         "name": "Anakir",
         "initiative": 20,
         "static": false,
@@ -266,26 +286,6 @@
         "active": false,
         "hidden": true,
         "friendly": false
-      },
-      {
-        "name": "Dire Wolf",
-        "initiative": 18,
-        "static": false,
-        "modifier": 0,
-        "hp": 37,
-        "currentMaxHP": 37,
-        "cr": "1",
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_3acb38d8a8e9",
-        "currentHP": 37,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d10 + 9"
       },
       {
         "name": "The Mad Mage of Mount Baratok",
@@ -412,7 +412,7 @@
         "status": [],
         "enabled": true,
         "active": false,
-        "hidden": false,
+        "hidden": true,
         "friendly": false,
         "hit_dice": "5d10 + 9"
       }
