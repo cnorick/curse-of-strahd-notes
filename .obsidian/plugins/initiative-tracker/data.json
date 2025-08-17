@@ -205,7 +205,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -220,12 +220,14 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_3acb38d8a8e9",
-        "currentHP": 37,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
-        "hidden": true,
+        "hidden": false,
         "friendly": false,
         "hit_dice": "5d10 + 9"
       },
@@ -262,9 +264,11 @@
         "ac": 12,
         "currentAC": 12,
         "id": "ID_eaea4b8a4889",
-        "currentHP": 13,
+        "currentHP": 0,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Unconscious"
+        ],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -349,7 +353,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -407,12 +411,32 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_b92bfada6888",
+        "currentHP": 17,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "5d10 + 9"
+      },
+      {
+        "name": "Dire Wolf",
+        "initiative": 2,
+        "static": false,
+        "modifier": 0,
+        "hp": 37,
+        "currentMaxHP": 37,
+        "cr": "1",
+        "ac": 14,
+        "currentAC": 14,
+        "id": "ID_baa89999199b",
         "currentHP": 37,
         "tempHP": 0,
         "status": [],
         "enabled": true,
         "active": false,
-        "hidden": true,
+        "hidden": false,
         "friendly": false,
         "hit_dice": "5d10 + 9"
       }
