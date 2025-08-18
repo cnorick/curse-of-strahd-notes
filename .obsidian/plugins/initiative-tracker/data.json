@@ -205,31 +205,9 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Dire Wolf",
-        "initiative": 20,
-        "static": false,
-        "modifier": 0,
-        "hp": 37,
-        "currentMaxHP": 37,
-        "cr": "1",
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_3acb38d8a8e9",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "5d10 + 9"
       },
       {
         "name": "Anakir",
@@ -252,28 +230,6 @@
         "active": false,
         "hidden": false,
         "friendly": false
-      },
-      {
-        "name": "Shadow",
-        "initiative": 20,
-        "static": false,
-        "modifier": 0,
-        "hp": 16,
-        "currentMaxHP": 16,
-        "cr": "1/2",
-        "ac": 12,
-        "currentAC": 12,
-        "id": "ID_eaea4b8a4889",
-        "currentHP": 0,
-        "tempHP": 0,
-        "status": [
-          "Unconscious"
-        ],
-        "enabled": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8 + 2"
       },
       {
         "name": "lair actions",
@@ -347,13 +303,15 @@
         "note": "Bardolf",
         "path": "Characters/Players/Bardolf.md",
         "id": "ID_1b7968184b98",
-        "currentHP": 46,
+        "currentHP": 19,
         "tempHP": 0,
-        "status": [],
+        "status": [
+          "Prone"
+        ],
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -371,9 +329,7 @@
         "id": "ID_a8fb0a39d9a8",
         "currentHP": 67,
         "tempHP": 0,
-        "status": [
-          "MIsc"
-        ],
+        "status": [],
         "enabled": true,
         "active": false,
         "hidden": false,
@@ -411,7 +367,7 @@
         "ac": 14,
         "currentAC": 14,
         "id": "ID_b92bfada6888",
-        "currentHP": 17,
+        "currentHP": 9,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -443,7 +399,7 @@
     ],
     "state": true,
     "name": "Strahd",
-    "round": 7,
+    "round": 8,
     "logFile": "Battles/1754859996621 - Strahd.md",
     "rollHP": false
   },
