@@ -189,7 +189,7 @@
       },
       {
         "name": "Pelanil",
-        "initiative": 23,
+        "initiative": 20,
         "static": false,
         "modifier": 0,
         "hp": 96,
@@ -327,7 +327,7 @@
         "currentAC": 19,
         "path": "Custom Monsters/Strahd Statblock.md",
         "id": "ID_a8fb0a39d9a8",
-        "currentHP": 45,
+        "currentHP": 105,
         "tempHP": 0,
         "status": [],
         "enabled": true,
