@@ -8,6 +8,7 @@
 	- Strahd is on top of little tower
 	- There is ice difficult terrain near the group that landed 30 feet away
 	- Bardolf and Pelanil are on the bridge
+		- everybody else is separate where dragon mordenkinen landed
 
 ## Final Fight
 
