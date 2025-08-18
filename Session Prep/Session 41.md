@@ -1,6 +1,14 @@
 
 - Give advantage on history checks so the group can see if they remember the model they saw in the [[The Amber Temple (X)|Amber Temple]]
 
+
+
+- End of last time:
+	- Draw map of tower bridge
+	- Strahd is on top of little tower
+	- There is ice difficult terrain near the group that landed 30 feet away
+	- Bardolf and Pelanil are on the bridge
+
 ## Final Fight
 
 "While your escapades in my realm have been entertaining, I'm afraid I can no longer allow your crimes to go unpunished. I, Count Strahd von Zarovich, son of King Barov von Zarovich, sentence you to death." Strahd gently places his wine glass on the end table beside his chair. Then, head held high and never breaking eye contact, he rises. With a quick, steady hand, he draws his sword. "Shall we begin?" Roll initiative.
