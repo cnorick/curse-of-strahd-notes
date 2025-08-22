@@ -332,7 +332,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -348,11 +348,11 @@
         "currentAC": 19,
         "path": "Custom Monsters/Strahd Statblock.md",
         "id": "ID_a8fb0a39d9a8",
-        "currentHP": 75,
+        "currentHP": 95,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false,
         "rollHP": false
