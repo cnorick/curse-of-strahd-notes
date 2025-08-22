@@ -30,8 +30,6 @@ traits:
       Escher regains 10 Hit Points at the start of his turn if he has at least 1 hit point and isn't in sunlight or running water. If Escher takes radiant damage or damage from Holy Water, this trait doesn't function at the start of his next turn.
   - name: Spider Climb
     desc: Escher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-  - name: Vampire Weaknesses.
-    desc: Escher regains 20 hit points at the start of his turn if he has at least 1 hit point and isn’t in running water or sunlight. If he takes radiant damage or damage from holy water, this trait doesn’t function at the start of his next turn.
   - name: Spider Climb
     desc: Escher can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
   - name: Vampire Weaknesses
