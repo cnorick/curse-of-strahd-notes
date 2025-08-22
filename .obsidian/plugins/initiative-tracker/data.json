@@ -178,7 +178,7 @@
         "currentAC": 15,
         "path": "Custom Monsters/Escher Statblock.md",
         "id": "ID_18a93b1ab9bb",
-        "currentHP": 82,
+        "currentHP": 78,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -228,7 +228,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
