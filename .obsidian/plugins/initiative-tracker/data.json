@@ -336,6 +336,26 @@
         "hidden": false,
         "friendly": false,
         "rollHP": false
+      },
+      {
+        "name": "Escher, Vampire Consort",
+        "initiative": 20,
+        "static": false,
+        "modifier": 3,
+        "hp": 82,
+        "currentMaxHP": 82,
+        "cr": "5",
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Custom Monsters/Escher Statblock.md",
+        "id": "ID_18a93b1ab9bb",
+        "currentHP": 82,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
       }
     ],
     "state": true,
