@@ -84,8 +84,13 @@
 		- The roll is against a [[Vampires]] str roll (to represent the strength of the other side)
 			- every failure means another named NPC dies
 
+--- 
+
 - Monologue about making [[Pelanil]] watch his friends the same way he made Strahd watch Ireena die
 	- Worse for Pelanil though, because at least Strahd could get to Ireena's body; He'll watch the wolves devour their bodies
+
+---
+
 
 - Ritual one:
 	- As a ritual, three casters must proceed with the spell for 10 uninterrupted minutes
