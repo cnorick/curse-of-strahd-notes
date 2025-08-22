@@ -250,7 +250,7 @@
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": true,
+        "active": false,
         "hidden": false,
         "friendly": false
       },
@@ -328,13 +328,11 @@
         "id": "ID_1b7968184b98",
         "currentHP": 74,
         "tempHP": 0,
-        "status": [
-          "Prone"
-        ],
+        "status": [],
         "enabled": true,
         "level": 10,
         "player": true,
-        "active": false,
+        "active": true,
         "hidden": false,
         "friendly": false
       },
@@ -350,7 +348,7 @@
         "currentAC": 19,
         "path": "Custom Monsters/Strahd Statblock.md",
         "id": "ID_a8fb0a39d9a8",
-        "currentHP": 105,
+        "currentHP": 75,
         "tempHP": 0,
         "status": [],
         "enabled": true,
